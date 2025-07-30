@@ -82,7 +82,7 @@ async function generatePeakELOFile() {
             const roundNumber = driver.round || 'unknown';
             const raceTitle = `Round ${roundNumber}: ${driver.race}`;
             const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const raceLink = `[${raceTitle}](./results/${driver.season}-season-report.md#${raceAnchor})`;
+            const raceLink = `[${raceTitle}](./docs/seasons/${driver.season}-season-report.md#${raceAnchor})`;
             tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${raceLink} |\n`;
         });
         
@@ -158,7 +158,7 @@ async function updateREADMEWithTop30(peakDriversData) {
                 const roundNumber = driver.round || 'unknown';
                 const raceTitle = `Round ${roundNumber}: ${driver.race}`;
                 const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-                const raceLink = `[${raceTitle}](./results/${driver.season}-season-report.md#${raceAnchor})`;
+                const raceLink = `[${raceTitle}](./docs/seasons/${driver.season}-season-report.md#${raceAnchor})`;
                 tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${driver.season} | ${raceLink} |\n`;
             });
             

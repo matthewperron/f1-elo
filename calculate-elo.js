@@ -495,7 +495,7 @@ function generateELOTable(driverRatings, season) {
             .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
             .toLowerCase();
         
-        const driverLink = `[${driver.name}](docs/drivers/${cleanDriverName}-${season}.md)`;
+        const driverLink = `[${driver.name}](../drivers/${cleanDriverName}-${season}.md)`;
         
         table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
     });
