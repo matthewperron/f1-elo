@@ -288,9 +288,6 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
         
         if (isNaN(qual1) || isNaN(qual2) || (isNaN(race1) && !driver1DNF) || (isNaN(race2) && !driver2DNF)) return null;
         
-        // For DNF cases in global, skip the comparison as it would double-count the race DNF
-        if (anyDNF && type === 'global') return null;
-        
         // Lower combined score is better (smaller positions are better)
         const combined1 = (qual1 * 0.3) + (race1 * 0.7);
         const combined2 = (qual2 * 0.3) + (race2 * 0.7);
