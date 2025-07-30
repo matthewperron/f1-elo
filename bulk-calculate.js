@@ -127,7 +127,7 @@ async function generatePeakELOFile() {
     const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
     content += `*Generated on: ${timestamp}*\n`;
     
-    await fs.writeFile('peak-elo.md', content, 'utf8');
+    await fs.writeFile('docs/peak-elo.md', content, 'utf8');
     console.log(`✓ Generated peak-elo.md with 3 ELO type tables`);
     
     // Return all three driver arrays for README tables
