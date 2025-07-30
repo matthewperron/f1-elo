@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 import path from 'path';
 
 const API_BASE_URL = 'https://api.jolpi.ca/ergast/f1';
-const RATE_LIMIT_DELAY = 100; // 0.1 seconds between API calls (for testing)
+const RATE_LIMIT_DELAY = 8000; // 8 seconds between API calls (API limits: 4/sec, 500/hour)
 // Output file will be determined dynamically based on season
 
 /**
@@ -28,14 +28,16 @@ async function fetchResultsPage(season, offset = 0, limit = 30, retryCount = 0) 
         if (response.status === 429) {
             // Rate limited - calculate retry delay
             const retryAfter = response.headers.get('retry-after');
-            const delaySeconds = retryAfter ? parseInt(retryAfter) : Math.pow(2, retryCount) * 10; // Exponential backoff: 10s, 20s, 40s
+            const delaySeconds = retryAfter ? parseInt(retryAfter) : Math.max(RATE_LIMIT_DELAY / 1000, Math.pow(2, retryCount) * 10);
             
             if (retryCount < maxRetries) {
-                console.log(`⚠ Rate limited (429). Waiting ${delaySeconds} seconds before retry ${retryCount + 1}/${maxRetries}...`);
+                console.log(`⚠ Rate limited (429). API requests exceeded limit.`);
+                console.log(`⚠ Waiting ${delaySeconds} seconds before retry ${retryCount + 1}/${maxRetries}...`);
+                console.log(`⚠ Consider reducing request frequency if this happens frequently.`);
                 await sleep(delaySeconds * 1000);
                 return fetchResultsPage(season, offset, limit, retryCount + 1);
             } else {
-                throw new Error(`Rate limit exceeded after ${maxRetries} retries. Please try again later.`);
+                throw new Error(`Rate limit exceeded after ${maxRetries} retries. API limits: 4 req/sec, 500 req/hour. Please try again later.`);
             }
         }
         
@@ -75,6 +77,8 @@ async function fetchAllSeasonResults(season) {
     let requestCount = 0;
     
     console.log(`Starting to fetch all results for ${season} season...`);
+    console.log(`API Rate Limits: 4 requests/second, 500 requests/hour`);
+    console.log(`Using ${RATE_LIMIT_DELAY / 1000}s delay between requests to stay within limits`);
     
     do {
         requestCount++;
@@ -109,7 +113,11 @@ async function fetchAllSeasonResults(season) {
         
         // Rate limiting - wait before next request
         if (offset < total) {
-            console.log(`Waiting ${RATE_LIMIT_DELAY}ms before next request...`);
+            const delaySeconds = RATE_LIMIT_DELAY / 1000;
+            const remainingRequests = Math.ceil((total - offset) / limit);
+            const estimatedTimeMinutes = (remainingRequests * delaySeconds) / 60;
+            console.log(`Rate limiting: waiting ${delaySeconds}s before next request...`);
+            console.log(`Estimated time remaining: ${estimatedTimeMinutes.toFixed(1)} minutes for ${remainingRequests} more requests`);
             await sleep(RATE_LIMIT_DELAY);
         }
         
@@ -124,18 +132,34 @@ async function fetchAllSeasonResults(season) {
  * Transform and aggregate race data
  */
 function transformRaceData(races, season) {
-    // Deduplicate races by round number (keep main race, filter out sprint races)
-    const uniqueRaces = races.reduce((acc, race) => {
+    // Merge races by round number to handle pagination splits
+    const mergedRaces = races.reduce((acc, race) => {
         const key = race.round;
-        if (!acc[key] || race.Results.length > (acc[key].Results?.length || 0)) {
-            // Keep the race with more results (main race typically has more than sprint)
-            acc[key] = race;
+        if (!acc[key]) {
+            // First occurrence of this race
+            acc[key] = { ...race };
+        } else {
+            // Merge results from paginated responses
+            const existingResults = acc[key].Results || [];
+            const newResults = race.Results || [];
+            
+            // Combine results and remove duplicates by position
+            const allResults = [...existingResults, ...newResults];
+            const uniqueResults = allResults.reduce((resultAcc, result) => {
+                const posKey = result.position;
+                if (!resultAcc[posKey]) {
+                    resultAcc[posKey] = result;
+                }
+                return resultAcc;
+            }, {});
+            
+            acc[key].Results = Object.values(uniqueResults);
         }
         return acc;
     }, {});
     
     // Convert back to array and sort by date to ensure chronological order
-    const sortedRaces = Object.values(uniqueRaces).sort((a, b) => {
+    const sortedRaces = Object.values(mergedRaces).sort((a, b) => {
         const dateA = new Date(a.date + (a.time ? ` ${a.time}` : ''));
         const dateB = new Date(b.date + (b.time ? ` ${b.time}` : ''));
         return dateA - dateB;
