@@ -1,0 +1,20 @@
+{
+  "name": "f1-elo",
+  "version": "1.0.0",
+  "description": "F1 driver strength calculation using ELO ratings",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "calculate": "node main.js",
+    "calculate:2024": "node main.js 2024",
+    "calculate:2023": "node main.js 2023",
+    "fetch-only": "node fetch-results.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module",
+  "keywords": ["f1", "formula1", "elo", "racing", "statistics"],
+  "author": "",
+  "license": "MIT"
+}
