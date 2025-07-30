@@ -495,7 +495,7 @@ function generateELOTable(driverRatings, season) {
             .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
             .toLowerCase();
         
-        const driverLink = `[${driver.name}](driver/${cleanDriverName}-${season}.md)`;
+        const driverLink = `[${driver.name}](docs/drivers/${cleanDriverName}-${season}.md)`;
         
         table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
     });
@@ -621,8 +621,8 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
         content += '---\n\n';
     });
     
-    // Save to results folder
-    const filePath = `results/${season}-season-report.md`;
+    // Save to docs/seasons folder
+    const filePath = `docs/seasons/${season}-season-report.md`;
     await fs.writeFile(filePath, content, 'utf8');
     console.log(`✓ Season report saved to ${filePath}`);
     
@@ -681,7 +681,7 @@ function generateComprehensiveELOTable(driverRatings) {
             .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
             .toLowerCase();
         
-        const driverLink = `[${driver.name}](driver/${cleanDriverName}.md)`;
+        const driverLink = `[${driver.name}](docs/drivers/${cleanDriverName}.md)`;
         
         table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
     });
@@ -795,7 +795,7 @@ async function generateDriverFiles(driverResults, season) {
         });
         
         // Save driver file
-        const fileName = `driver/${cleanDriverName}-${season}.md`;
+        const fileName = `docs/drivers/${cleanDriverName}-${season}.md`;
         await fs.writeFile(fileName, content, 'utf8');
     }
     

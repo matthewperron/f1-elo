@@ -1,0 +1,53 @@
+# <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Gregor Foitek - Complete F1 Career Results
+
+*Generated: 2025-07-30*
+
+**Seasons**: [1990](../seasons/1990-season-report.md)
+**Total Race Events**: 7 (21 individual ELO calculations)
+
+## Career Statistics
+
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1530
+
+🏆 **Peak ELO**: 1578
+   *[1990 Round 6 - Mexican Grand Prix](../seasons/1990-season-report.md#round-6-mexican-grand-prix)*
+
+📉 **Lowest ELO**: 1472
+   *[1990 Round 2 - Brazilian Grand Prix](../seasons/1990-season-report.md#round-2-brazilian-grand-prix)*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1509
+
+🏆 **Peak ELO**: 1523
+   *[1990 Round 6 - Mexican Grand Prix](../seasons/1990-season-report.md#round-6-mexican-grand-prix)*
+
+📉 **Lowest ELO**: 1492
+   *[1990 Round 2 - Brazilian Grand Prix](../seasons/1990-season-report.md#round-2-brazilian-grand-prix)*
+
+
+## Complete Race-by-Race Results
+
+| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| 1990 | [Round 1: United States Grand Prix](../seasons/1990-season-report.md#round-1-united-states-grand-prix) | 1990-03-11 | qualifying | Brabham | 23 | 1500 | -15 | 1485 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena |
+| 1990 | [Round 1: United States Grand Prix](../seasons/1990-season-report.md#round-1-united-states-grand-prix) | 1990-03-11 | race | Brabham | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena |
+| 1990 | [Round 1: United States Grand Prix](../seasons/1990-season-report.md#round-1-united-states-grand-prix) | 1990-03-11 | global | Brabham | Q:23/R:DNF | 1500 | -4 | 1496 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena |
+| 1990 | [Round 2: Brazilian Grand Prix](../seasons/1990-season-report.md#round-2-brazilian-grand-prix) | 1990-03-25 | qualifying | Brabham | 22 | 1485 | -13 | 1472 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena |
+| 1990 | [Round 2: Brazilian Grand Prix](../seasons/1990-season-report.md#round-2-brazilian-grand-prix) | 1990-03-25 | race | Brabham | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena |
+| 1990 | [Round 2: Brazilian Grand Prix](../seasons/1990-season-report.md#round-2-brazilian-grand-prix) | 1990-03-25 | global | Brabham | Q:22/R:DNF | 1496 | -4 | 1492 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena |
+| 1990 | [Round 3: San Marino Grand Prix](../seasons/1990-season-report.md#round-3-san-marino-grand-prix) | 1990-05-13 | qualifying | Brabham | 23 | 1472 | +35 | 1507 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 3: San Marino Grand Prix](../seasons/1990-season-report.md#round-3-san-marino-grand-prix) | 1990-05-13 | race | Brabham | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 3: San Marino Grand Prix](../seasons/1990-season-report.md#round-3-san-marino-grand-prix) | 1990-05-13 | global | Brabham | Q:23/R:DNF | 1492 | +11 | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 4: Monaco Grand Prix](../seasons/1990-season-report.md#round-4-monaco-grand-prix) | 1990-05-27 | qualifying | Brabham | 20 | 1507 | +28 | 1535 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 4: Monaco Grand Prix](../seasons/1990-season-report.md#round-4-monaco-grand-prix) | 1990-05-27 | race | Brabham | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 4: Monaco Grand Prix](../seasons/1990-season-report.md#round-4-monaco-grand-prix) | 1990-05-27 | global | Brabham | Q:20/R:DNF | 1502 | +8 | 1511 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 5: Canadian Grand Prix](../seasons/1990-season-report.md#round-5-canadian-grand-prix) | 1990-06-10 | qualifying | Brabham | 21 | 1535 | +23 | 1558 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 5: Canadian Grand Prix](../seasons/1990-season-report.md#round-5-canadian-grand-prix) | 1990-06-10 | race | Brabham | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 5: Canadian Grand Prix](../seasons/1990-season-report.md#round-5-canadian-grand-prix) | 1990-06-10 | global | Brabham | Q:21/R:DNF | 1511 | +7 | 1517 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 6: Mexican Grand Prix](../seasons/1990-season-report.md#round-6-mexican-grand-prix) | 1990-06-24 | qualifying | Brabham | 23 | 1558 | +19 | 1578 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 6: Mexican Grand Prix](../seasons/1990-season-report.md#round-6-mexican-grand-prix) | 1990-06-24 | race | Brabham | 15 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 6: Mexican Grand Prix](../seasons/1990-season-report.md#round-6-mexican-grand-prix) | 1990-06-24 | global | Brabham | Q:23/R:15 | 1517 | +6 | 1523 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 9: German Grand Prix](../seasons/1990-season-report.md#round-9-german-grand-prix) | 1990-07-29 | qualifying | Brabham | 26 | 1578 | -47 | 1530 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 9: German Grand Prix](../seasons/1990-season-report.md#round-9-german-grand-prix) | 1990-07-29 | race | Brabham | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
+| 1990 | [Round 9: German Grand Prix](../seasons/1990-season-report.md#round-9-german-grand-prix) | 1990-07-29 | global | Brabham | Q:26/R:DNF | 1523 | -14 | 1509 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
