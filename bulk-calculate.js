@@ -30,6 +30,7 @@ function updatePeakELOs(driverRatings, raceEvents, season) {
                     peak: currentElo,
                     date: raceEvent.date,
                     race: raceEvent.raceName,
+                    round: raceEvent.round,
                     season: season,
                     constructor: change.constructor,
                     teammate: teammateChange ? teammateChange.driverName : 'Unknown',
@@ -57,9 +58,11 @@ async function generatePeakELOFile() {
     content += `|------|--------|----------|-------------|------|--------|----------|--------------|------|\n`;
     
     peakDrivers.forEach((driver, index) => {
-        // Create anchor link for the specific race
-        const raceAnchor = driver.race.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-        const raceLink = `[${driver.race}](./results/${driver.season}-season-report.md#${raceAnchor})`;
+        // Create anchor link for the specific race (format: round-{number}-{racename})
+        const roundNumber = driver.round || 'unknown';
+        const raceTitle = `Round ${roundNumber}: ${driver.race}`;
+        const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+        const raceLink = `[${raceTitle}](./results/${driver.season}-season-report.md#${raceAnchor})`;
         content += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${raceLink} |\n`;
     });
     
@@ -89,9 +92,11 @@ async function updateREADMEWithTop30(peakDrivers) {
         tableContent += `|------|--------|----------|-------------|----------|--------------|--------|------|\n`;
         
         top30.forEach((driver, index) => {
-            // Create anchor link for the specific race
-            const raceAnchor = driver.race.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const raceLink = `[${driver.race}](./results/${driver.season}-season-report.md#${raceAnchor})`;
+            // Create anchor link for the specific race (format: round-{number}-{racename})
+            const roundNumber = driver.round || 'unknown';
+            const raceTitle = `Round ${roundNumber}: ${driver.race}`;
+            const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+            const raceLink = `[${raceTitle}](./results/${driver.season}-season-report.md#${raceAnchor})`;
             tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${driver.season} | ${raceLink} |\n`;
         });
         
@@ -203,7 +208,7 @@ async function calculateSeason(season, retryCount = 0) {
             season, 
             races: raceData.totalRaces, 
             drivers: driverRatings.length,
-            topDriver: `${driverRatings[0].nameName} (${driverRatings[0].globalElo} ELO)`
+            topDriver: `${driverRatings[0].consoleName} (${driverRatings[0].globalElo} ELO)`
         };
         
     } catch (error) {
