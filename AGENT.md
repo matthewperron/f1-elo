@@ -1,0 +1,59 @@
+# F1 ELO Project - Agent Instructions
+
+## Project Overview
+
+This is an F1 driver strength calculation project that computes ELO ratings for all Formula 1 drivers (historical and current) using the chess ELO algorithm.
+
+## Key Concepts
+
+### ELO System
+- **Two separate ELO scores per driver**: Qualifying ELO and Race ELO
+- **Teammate-only comparison**: Drivers are only compared against their teammates
+- **Classic chess ELO formula**: Standard expected score and K-factor calculations
+- **Chronological processing**: Race history must be sorted by date for accurate progression
+
+### Data Requirements
+- **Main data file**: `f1-historical-race-results.json` (needs to be created)
+- **Data exclusions**: Skip races where no teammate participated or either driver had DNF
+- **Required fields**: Driver names, teams, qualifying positions, race results, dates
+
+### Output
+- **README update**: ELO results table automatically inserted between `<!-- ELO_RESULTS_START -->` and `<!-- ELO_RESULTS_END -->` comments
+- **Update script**: JavaScript/TypeScript script to recalculate and update README
+
+## Project Structure
+
+```
+f1-elo/
+├── f1-historical-race-results.json    # Historical race data (to be created)
+├── update-elo.js                      # Main calculation script (to be created)
+├── package.json                       # Node.js dependencies
+└── README.md                          # Project documentation with results table
+```
+
+## Development Guidelines
+
+### Data Processing
+1. Parse race results from JSON file
+2. Sort races chronologically by date
+3. Group drivers by team for each race
+4. Calculate ELO changes for qualifying and race separately
+5. Exclude invalid comparisons (no teammate, DNF, etc.)
+
+### ELO Calculation Rules
+- **Initial rating**: All drivers start with same base ELO (typically 1500)
+- **Head-to-head only**: Compare qualifying/race positions between teammates
+- **K-factor**: Determines rating change magnitude (suggest 32 for new drivers, 16 for established)
+- **Expected score**: Based on ELO difference between teammates
+- **Actual score**: 1 for win, 0 for loss in head-to-head comparison
+
+### Commands
+- `npm run update-elo` - Recalculate ratings and update README
+
+## Implementation Notes
+
+- Use JavaScript/TypeScript for the calculation script
+- Ensure proper error handling for missing data
+- Consider performance for large historical datasets
+- Maintain separate tracking for qualifying vs race performance
+- Results should be sorted by ELO rating (highest first)
