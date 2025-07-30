@@ -123,7 +123,9 @@ async function generatePeakELOFile() {
     content += `- **Highest peak**: ${raceTable.drivers[0]?.peak || 'N/A'} (${raceTable.drivers[0]?.name || 'N/A'})\n`;
     content += `- **Average peak**: ${Math.round(raceTable.drivers.reduce((sum, d) => sum + d.peak, 0) / raceTable.drivers.length) || 'N/A'}\n\n`;
     
-    content += `*Generated on: ${new Date().toISOString().split('T')[0]}*\n`;
+    const now = new Date();
+    const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
+    content += `*Generated on: ${timestamp}*\n`;
     
     await fs.writeFile('peak-elo.md', content, 'utf8');
     console.log(`✓ Generated peak-elo.md with 3 ELO type tables`);
@@ -181,7 +183,9 @@ async function updateREADMEWithTop30(peakDriversData) {
             'Based on peak **Global ELO** ratings (30% qualifying + 70% race performance vs teammates).'
         );
         
-        allTablesContent += `\n*Based on peak ELO ratings achieved during their F1 careers. Updated: ${new Date().toISOString().split('T')[0]}*\n`;
+        const now = new Date();
+        const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
+        allTablesContent += `\n*Based on peak ELO ratings achieved during their F1 careers. Updated: ${timestamp}*\n`;
         
         // Find the position to insert the tables (after the current season results)
         const eloResultsEndPattern = /<!-- ELO_RESULTS_END -->/;

@@ -528,7 +528,8 @@ async function updateREADME(driverRatings, season) {
         const readmeContent = await fs.readFile(readmePath, 'utf8');
         
         const table = generateELOTable(driverRatings);
-        const timestamp = new Date().toISOString().split('T')[0];
+        const now = new Date();
+        const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
         
         const newContent = `### ELO Ratings (${season} Season)
 *Last updated: ${timestamp}*
