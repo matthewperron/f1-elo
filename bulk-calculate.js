@@ -82,7 +82,7 @@ async function generatePeakELOFile() {
             const roundNumber = driver.round || 'unknown';
             const raceTitle = `Round ${roundNumber}: ${driver.race}`;
             const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const raceLink = `[${raceTitle}](./docs/seasons/${driver.season}-season-report.md#${raceAnchor})`;
+            const raceLink = `[${raceTitle}](./docs/seasons/${driver.season}-season-report#${raceAnchor})`;
             tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${raceLink} |\n`;
         });
         
@@ -141,9 +141,9 @@ async function generatePeakELOFile() {
 /**
  * Update README with top 30 drivers tables (3 separate tables)
  */
-async function updateREADMEWithTop30(peakDriversData) {
+async function updateIndexWithTop30(peakDriversData) {
     try {
-        const readmeContent = await fs.readFile('README.md', 'utf8');
+        const indexContent = await fs.readFile('docs/index.md', 'utf8');
         
         // Helper function to create a table
         function createTop30Table(drivers, title, description) {
@@ -158,7 +158,7 @@ async function updateREADMEWithTop30(peakDriversData) {
                 const roundNumber = driver.round || 'unknown';
                 const raceTitle = `Round ${roundNumber}: ${driver.race}`;
                 const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-                const raceLink = `[${raceTitle}](./docs/seasons/${driver.season}-season-report.md#${raceAnchor})`;
+                const raceLink = `[${raceTitle}](./seasons/${driver.season}-season-report#${raceAnchor})`;
                 tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${driver.season} | ${raceLink} |\n`;
             });
             
@@ -189,24 +189,24 @@ async function updateREADMEWithTop30(peakDriversData) {
         
         // Find the position to insert the tables (after the current season results)
         const eloResultsEndPattern = /<!-- ELO_RESULTS_END -->/;
-        const match = readmeContent.match(eloResultsEndPattern);
+        const match = indexContent.match(eloResultsEndPattern);
         
         if (match) {
             const insertPosition = match.index + match[0].length;
-            const beforeTables = readmeContent.substring(0, insertPosition);
-            const afterTables = readmeContent.substring(insertPosition);
+            const beforeTables = indexContent.substring(0, insertPosition);
+            const afterTables = indexContent.substring(insertPosition);
             
             // Remove any existing top 30 tables
             const cleanAfterTables = afterTables.replace(/\n## Top 30 F1 Drivers of All Time.*?\*Based on peak ELO ratings.*?\*\n/s, '');
             
             const newContent = beforeTables + allTablesContent + cleanAfterTables;
-            await fs.writeFile('README.md', newContent, 'utf8');
-            console.log(`✓ Added 3 top 30 drivers tables to README`);
+            await fs.writeFile('docs/index.md', newContent, 'utf8');
+            console.log(`✓ Added 3 top 30 drivers tables to docs/index.md`);
         } else {
-            console.log(`⚠ Could not find ELO_RESULTS_END marker in README`);
+            console.log(`⚠ Could not find ELO_RESULTS_END marker in docs/index.md`);
         }
     } catch (error) {
-        console.error(`⚠ Error updating README with top 30 tables:`, error.message);
+        console.error(`⚠ Error updating docs/index.md with top 30 tables:`, error.message);
     }
 }
 
@@ -275,7 +275,7 @@ async function generateComprehensiveDriverFiles() {
         
         // Get unique seasons and sort chronologically
         const seasons = [...new Set(results.map(r => r.season))].sort();
-        const seasonLinks = seasons.map(season => `[${season}](../seasons/${season}-season-report.md)`).join(' • ');
+        const seasonLinks = seasons.map(season => `[${season}](../seasons/${season}-season-report)`).join(' • ');
         content += `**Seasons**: ${seasonLinks}\n`;
         content += `**Total Race Events**: ${Math.ceil(results.length / 3)} (${results.length} individual ELO calculations)\n\n`;
         
@@ -306,11 +306,11 @@ async function generateComprehensiveDriverFiles() {
             // Create links for peak and low qualifying results
             const qualPeakTitle = `Round ${qualPeakResult.round}: ${qualPeakResult.raceName}`;
             const qualPeakAnchor = qualPeakTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const qualPeakLink = `[${qualPeakResult.season} Round ${qualPeakResult.round} - ${qualPeakResult.raceName}](../seasons/${qualPeakResult.season}-season-report.md#${qualPeakAnchor})`;
+            const qualPeakLink = `[${qualPeakResult.season} Round ${qualPeakResult.round} - ${qualPeakResult.raceName}](../seasons/${qualPeakResult.season}-season-report#${qualPeakAnchor})`;
             
             const qualLowTitle = `Round ${qualLowResult.round}: ${qualLowResult.raceName}`;
             const qualLowAnchor = qualLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const qualLowLink = `[${qualLowResult.season} Round ${qualLowResult.round} - ${qualLowResult.raceName}](../seasons/${qualLowResult.season}-season-report.md#${qualLowAnchor})`;
+            const qualLowLink = `[${qualLowResult.season} Round ${qualLowResult.round} - ${qualLowResult.raceName}](../seasons/${qualLowResult.season}-season-report#${qualLowAnchor})`;
             
             content += `### 🏁 Qualifying Performance\n`;
             content += `**Career Journey**: ${qualStart} → ${qualEnd}\n\n`;
@@ -329,11 +329,11 @@ async function generateComprehensiveDriverFiles() {
             // Create links for peak and low race results
             const racePeakTitle = `Round ${racePeakResult.round}: ${racePeakResult.raceName}`;
             const racePeakAnchor = racePeakTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const racePeakLink = `[${racePeakResult.season} Round ${racePeakResult.round} - ${racePeakResult.raceName}](../seasons/${racePeakResult.season}-season-report.md#${racePeakAnchor})`;
+            const racePeakLink = `[${racePeakResult.season} Round ${racePeakResult.round} - ${racePeakResult.raceName}](../seasons/${racePeakResult.season}-season-report#${racePeakAnchor})`;
             
             const raceLowTitle = `Round ${raceLowResult.round}: ${raceLowResult.raceName}`;
             const raceLowAnchor = raceLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const raceLowLink = `[${raceLowResult.season} Round ${raceLowResult.round} - ${raceLowResult.raceName}](../seasons/${raceLowResult.season}-season-report.md#${raceLowAnchor})`;
+            const raceLowLink = `[${raceLowResult.season} Round ${raceLowResult.round} - ${raceLowResult.raceName}](../seasons/${raceLowResult.season}-season-report#${raceLowAnchor})`;
             
             content += `### 🏎️ Race Performance\n`;
             content += `**Career Journey**: ${raceStart} → ${raceEnd}\n\n`;
@@ -352,11 +352,11 @@ async function generateComprehensiveDriverFiles() {
             // Create links for peak and low global results
             const globalPeakTitle = `Round ${globalPeakResult.round}: ${globalPeakResult.raceName}`;
             const globalPeakAnchor = globalPeakTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const globalPeakLink = `[${globalPeakResult.season} Round ${globalPeakResult.round} - ${globalPeakResult.raceName}](../seasons/${globalPeakResult.season}-season-report.md#${globalPeakAnchor})`;
+            const globalPeakLink = `[${globalPeakResult.season} Round ${globalPeakResult.round} - ${globalPeakResult.raceName}](../seasons/${globalPeakResult.season}-season-report#${globalPeakAnchor})`;
             
             const globalLowTitle = `Round ${globalLowResult.round}: ${globalLowResult.raceName}`;
             const globalLowAnchor = globalLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const globalLowLink = `[${globalLowResult.season} Round ${globalLowResult.round} - ${globalLowResult.raceName}](../seasons/${globalLowResult.season}-season-report.md#${globalLowAnchor})`;
+            const globalLowLink = `[${globalLowResult.season} Round ${globalLowResult.round} - ${globalLowResult.raceName}](../seasons/${globalLowResult.season}-season-report#${globalLowAnchor})`;
             
             content += `### 🌟 Overall Performance\n`;
             content += `**Career Journey**: ${globalStart} → ${globalEnd}\n\n`;
@@ -398,7 +398,7 @@ async function generateComprehensiveDriverFiles() {
             // Create race link to season report
             const raceTitle = `Round ${result.round}: ${result.raceName}`;
             const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const raceLink = `[${raceTitle}](../seasons/${result.season}-season-report.md#${raceAnchor})`;
+            const raceLink = `[${raceTitle}](../seasons/${result.season}-season-report#${raceAnchor})`;
             
             content += `| ${result.season} | ${raceLink} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${result.teammate} |\n`;
         });
@@ -606,7 +606,7 @@ async function bulkCalculate() {
             const raceData = JSON.parse(latestData);
             const { driverRatings } = await calculateELO(raceData, endYear.toString());
             await updateREADMEComprehensive(driverRatings, endYear.toString());
-            await updateREADMEWithTop30(peakDrivers);
+            await updateIndexWithTop30(peakDrivers);
             console.log(`✓ README updated with ${endYear} season and 3 top 30 driver tables`);
         } catch (error) {
             console.error(`⚠ Could not update README:`, error.message);
