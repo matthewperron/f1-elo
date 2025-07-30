@@ -105,6 +105,28 @@ function formatEloChange(change) {
 }
 
 /**
+ * Clean driver name for filename (same logic as bulk-calculate.js)
+ */
+function cleanDriverNameForFilename(driverName) {
+    return driverName
+        .replace(/<img[^>]*>/g, '') // Remove entire img tags
+        .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
+        .trim() // Trim whitespace first
+        .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
+        .replace(/\s+/g, '-') // Replace spaces with hyphens
+        .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
+        .toLowerCase();
+}
+
+/**
+ * Create driver link for season reports
+ */
+function createDriverLink(driverName) {
+    const cleanName = cleanDriverNameForFilename(driverName);
+    return `[${driverName}](../drivers/${cleanName})`;
+}
+
+/**
  * Track individual driver results for per-driver markdown files
  */
 function trackDriverResult(driverResults, change, race, season) {
@@ -486,14 +508,7 @@ function generateELOTable(driverRatings, season, isGithubPages = false) {
     
     driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
         // Create driver file link
-        const cleanDriverName = driver.name
-            .replace(/<img[^>]*>/g, '') // Remove entire img tags
-            .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
-            .trim() // Trim whitespace first
-            .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
-            .replace(/\s+/g, '-') // Replace spaces with hyphens
-            .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
-            .toLowerCase();
+        const cleanDriverName = cleanDriverNameForFilename(driver.name);
         
         // Different link formats for README vs GitHub Pages
         const driverLink = isGithubPages 
@@ -515,14 +530,7 @@ function generateSeasonReportELOTable(driverRatings) {
     
     driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
         // Create driver file link (comprehensive files, no season suffix)
-        const cleanDriverName = driver.name
-            .replace(/<img[^>]*>/g, '') // Remove entire img tags
-            .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
-            .trim() // Trim whitespace first
-            .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
-            .replace(/\s+/g, '-') // Replace spaces with hyphens
-            .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
-            .toLowerCase();
+        const cleanDriverName = cleanDriverNameForFilename(driver.name);
         
         // Season reports are in docs/seasons/, linking to comprehensive driver files in docs/drivers/
         const driverLink = `[${driver.name}](../drivers/${cleanDriverName})`;
@@ -587,6 +595,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
                 sortedByGrid.forEach(result => {
                     const flag = getCountryFlag(result.driver);
                     const driverName = `${flag} ${result.driver.givenName} ${result.driver.familyName}`.trim();
+                    const driverLink = createDriverLink(driverName);
                     const gridPos = result.grid || 'N/A';
                     const status = result.status || 'Unknown';
                     
@@ -595,9 +604,9 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
                     const startingElo = qualifyingChange ? qualifyingChange.startingElo : 'N/A';
                     const eloChangeStr = qualifyingChange ? formatEloChange(qualifyingChange.eloChange) : 'N/A';
                     const newElo = qualifyingChange ? qualifyingChange.newElo : 'N/A';
-                    const teammate = qualifyingChange ? `${qualifyingChange.opponent} (P${qualifyingChange.opponentPosition})` : 'N/A';
+                    const teammate = qualifyingChange ? createDriverLink(qualifyingChange.opponent) + ` (P${qualifyingChange.opponentPosition})` : 'N/A';
                     
-                    content += `| ${driverName} | ${result.constructor.name} | ${gridPos} | ${status} | ${startingElo} | ${eloChangeStr} | ${newElo} | ${teammate} |\n`;
+                    content += `| ${driverLink} | ${result.constructor.name} | ${gridPos} | ${status} | ${startingElo} | ${eloChangeStr} | ${newElo} | ${teammate} |\n`;
                 });
                 content += '\n';
             }
@@ -630,6 +639,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
                 sortedResults.forEach(result => {
                     const flag = getCountryFlag(result.driver);
                     const driverName = `${flag} ${result.driver.givenName} ${result.driver.familyName}`.trim();
+                    const driverLink = createDriverLink(driverName);
                     const finishPos = !isNaN(parseInt(result.position)) ? result.position : 'DNF';
                     const status = result.status || 'Unknown';
                     
@@ -638,9 +648,9 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
                     const startingElo = raceChange ? raceChange.startingElo : 'N/A';
                     const eloChangeStr = raceChange ? formatEloChange(raceChange.eloChange) : 'N/A';
                     const newElo = raceChange ? raceChange.newElo : 'N/A';
-                    const teammate = raceChange ? `${raceChange.opponent} (P${raceChange.opponentPosition})` : 'N/A';
+                    const teammate = raceChange ? createDriverLink(raceChange.opponent) + ` (P${raceChange.opponentPosition})` : 'N/A';
                     
-                    content += `| ${driverName} | ${result.constructor.name} | ${finishPos} | ${status} | ${startingElo} | ${eloChangeStr} | ${newElo} | ${teammate} |\n`;
+                    content += `| ${driverLink} | ${result.constructor.name} | ${finishPos} | ${status} | ${startingElo} | ${eloChangeStr} | ${newElo} | ${teammate} |\n`;
                 });
                 content += '\n';
             }
@@ -714,14 +724,7 @@ function generateComprehensiveELOTable(driverRatings) {
     
     driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
         // Create driver file link (comprehensive, no season)
-        const cleanDriverName = driver.name
-            .replace(/<img[^>]*>/g, '') // Remove entire img tags
-            .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
-            .trim() // Trim whitespace first
-            .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
-            .replace(/\s+/g, '-') // Replace spaces with hyphens
-            .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
-            .toLowerCase();
+        const cleanDriverName = cleanDriverNameForFilename(driver.name);
         
         const driverLink = `[${driver.name}](drivers/${cleanDriverName}.md)`;
         
@@ -776,14 +779,7 @@ async function generateDriverFiles(driverResults, season) {
         if (results.length === 0) continue;
         
         // Clean driver name for filename (remove flags and special characters)
-        const cleanDriverName = driverData.driverName
-            .replace(/<img[^>]*>/g, '') // Remove entire img tags
-            .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
-            .trim() // Trim whitespace first
-            .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
-            .replace(/\s+/g, '-') // Replace spaces with hyphens
-            .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
-            .toLowerCase();
+        const cleanDriverName = cleanDriverNameForFilename(driverData.driverName);
         
         let content = `# ${driverData.driverName} - ${season} Season Results\n\n`;
         content += `*Generated: ${new Date().toISOString().split('T')[0]}*\n\n`;
