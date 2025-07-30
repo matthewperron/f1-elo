@@ -14,15 +14,31 @@ function sleep(ms) {
 }
 
 /**
- * Fetch a single page of results from the Ergast API
+ * Fetch a single page of results from the Ergast API with rate limit handling
  */
-async function fetchResultsPage(season, offset = 0, limit = 30) {
+async function fetchResultsPage(season, offset = 0, limit = 30, retryCount = 0) {
     const url = `${API_BASE_URL}/${season}/results/?offset=${offset}&limit=${limit}`;
+    const maxRetries = 3;
     
     console.log(`Fetching: ${url}`);
     
     try {
         const response = await fetch(url);
+        
+        if (response.status === 429) {
+            // Rate limited - calculate retry delay
+            const retryAfter = response.headers.get('retry-after');
+            const delaySeconds = retryAfter ? parseInt(retryAfter) : Math.pow(2, retryCount) * 10; // Exponential backoff: 10s, 20s, 40s
+            
+            if (retryCount < maxRetries) {
+                console.log(`⚠ Rate limited (429). Waiting ${delaySeconds} seconds before retry ${retryCount + 1}/${maxRetries}...`);
+                await sleep(delaySeconds * 1000);
+                return fetchResultsPage(season, offset, limit, retryCount + 1);
+            } else {
+                throw new Error(`Rate limit exceeded after ${maxRetries} retries. Please try again later.`);
+            }
+        }
+        
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -30,6 +46,19 @@ async function fetchResultsPage(season, offset = 0, limit = 30) {
         const data = await response.json();
         return data.MRData;
     } catch (error) {
+        // If it's a rate limit error that we've already handled, re-throw
+        if (error.message.includes('Rate limit exceeded')) {
+            throw error;
+        }
+        
+        // For other errors, retry with exponential backoff
+        if (retryCount < maxRetries) {
+            const delaySeconds = Math.pow(2, retryCount) * 5; // 5s, 10s, 20s
+            console.log(`⚠ Request failed. Retrying in ${delaySeconds} seconds... (${retryCount + 1}/${maxRetries})`);
+            await sleep(delaySeconds * 1000);
+            return fetchResultsPage(season, offset, limit, retryCount + 1);
+        }
+        
         console.error(`Error fetching results from ${url}:`, error);
         throw error;
     }

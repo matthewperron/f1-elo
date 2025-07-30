@@ -32,32 +32,40 @@ The standard chess ELO rating system is used:
 The following table shows current ELO ratings for all F1 drivers (updated automatically):
 
 <!-- ELO_RESULTS_START -->
-### ELO Ratings (2025 Season)
+### ELO Ratings (1983 Season)
 *Last updated: 2025-07-30*
 
 | Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
 |------|--------------|--------|-------------|----------------|----------|-----|
-| 1 | 1228 | Max Verstappen | Red Bull | 1291 | 1271 | 1271 |
-| 2 | 1130 | George Russell | Mercedes | 1188 | 1188 | 1188 |
-| 3 | 1157 | Alexander Albon | Williams | 1137 | 1186 | 1186 |
-| 4 | 1077 | Charles Leclerc | Ferrari | 1106 | 1141 | 1117 |
-| 5 | 1129 | Lando Norris | McLaren | 1050 | 1099 | 1077 |
-| 6 | 1000 | Isack Hadjar | RB F1 Team | 1103 | 1054 | 1054 |
-| 7 | 1051 | Fernando Alonso | Aston Martin | 1086 | 1021 | 1051 |
-| 8 | 973 | Pierre Gasly | Alpine F1 Team | 1075 | 1047 | 1047 |
-| 9 | 973 | Oscar Piastri | McLaren | 1052 | 1003 | 1025 |
-| 10 | 996 | Nico Hülkenberg | Sauber | 968 | 1020 | 1020 |
-| 11 | 1003 | Oliver Bearman | Haas F1 Team | 985 | 1014 | 1014 |
-| 12 | 1047 | Lewis Hamilton | Ferrari | 1018 | 983 | 1007 |
-| 13 | 1050 | Yuki Tsunoda | RB F1 Team | 987 | 1007 | 1007 |
-| 14 | 1002 | Esteban Ocon | Haas F1 Team | 1020 | 991 | 991 |
-| 15 | 1005 | Carlos Sainz | Williams | 1025 | 976 | 976 |
-| 16 | 1000 | Gabriel Bortoleto | Sauber | 1028 | 976 | 976 |
-| 17 | 1000 | Jack Doohan | Alpine F1 Team | 949 | 967 | 967 |
-| 18 | 1000 | Andrea Kimi Antonelli | Mercedes | 942 | 942 | 942 |
-| 19 | 981 | Franco Colapinto | Alpine F1 Team | 929 | 940 | 940 |
-| 20 | 989 | Liam Lawson | Red Bull | 886 | 935 | 935 |
-| 21 | 886 | Lance Stroll | Aston Martin | 851 | 916 | 886 |
+| 1 | 1100 | Nelson Piquet | Brabham | 1123 | 1111 | 1111 |
+| 2 | 1067 | Keke Rosberg | Williams | 1148 | 1102 | 1102 |
+| 3 | 1021 | 🇫🇷 Alain Prost | Renault | 1079 | 1064 | 1064 |
+| 4 | 1033 | Niki Lauda | McLaren | 1095 | 1047 | 1047 |
+| 5 | 1030 | 🇮🇹 Michele Alboreto | Tyrrell | 1081 | 1015 | 1044 |
+| 6 | 1013 | 🇮🇹 Elio de Angelis | Team Lotus | 1093 | 1029 | 1029 |
+| 7 | 1017 | 🇮🇹 Andrea de Cesaris | Alfa Romeo | 1104 | 1017 | 1017 |
+| 8 | 1000 | Roberto Guerrero | Theodore | 1056 | 984 | 1016 |
+| 9 | 1000 | Thierry Boutsen | Arrows | 997 | 1016 | 1016 |
+| 10 | 1015 | Marc Surer | Arrows | 1044 | 1015 | 1015 |
+| 11 | 1000 | 🇬🇧 Derek Warwick | Toleman | 1085 | 1041 | 1014 |
+| 12 | 1018 | 🇬🇧 Nigel Mansell | Team Lotus | 938 | 1002 | 1002 |
+| 13 | 1000 | Raul Boesel | Ligier | 909 | 1000 | 1000 |
+| 14 | 1000 | Alan Jones | Arrows | 1017 | 1000 | 1000 |
+| 15 | 1000 | 🇮🇹 Piercarlo Ghinzani | Osella | 1000 | 1000 | 1000 |
+| 16 | 1000 | 🇮🇹 Corrado Fabi | Osella | 1000 | 1000 | 1000 |
+| 17 | 1000 | 🇬🇧 Jonathan Palmer | Williams | 990 | 1000 | 1000 |
+| 18 | 1000 | 🇺🇸 Danny Sullivan | Tyrrell | 949 | 1015 | 986 |
+| 19 | 1000 | Chico Serra | Arrows | 957 | 985 | 985 |
+| 20 | 985 | 🇮🇹 Mauro Baldi | Alfa Romeo | 898 | 985 | 985 |
+| 21 | 1000 | Johnny Cecotto | Theodore | 944 | 1016 | 984 |
+| 22 | 992 | 🇬🇧 John Watson | McLaren | 930 | 978 | 978 |
+| 23 | 987 | 🇮🇹 Riccardo Patrese | Brabham | 964 | 976 | 976 |
+| 24 | 1016 | 🇺🇸 Eddie Cheever | Renault | 958 | 973 | 973 |
+| 25 | 953 | 🇫🇷 Patrick Tambay | Ferrari | 981 | 937 | 966 |
+| 26 | 998 | 🇫🇷 Jacques Laffite | Williams | 928 | 963 | 963 |
+| 27 | 976 | 🇮🇹 Bruno Giacomelli | Toleman | 891 | 935 | 962 |
+| 28 | 963 | 🇫🇷 René Arnoux | Ferrari | 935 | 979 | 950 |
+| 29 | 944 | 🇫🇷 Jean-Pierre Jarier | Ligier | 1035 | 944 | 944 |
 
 
 *Showing top 50 drivers by global ELO rating*
@@ -112,6 +120,15 @@ npm run elo-only -- 1990
 # Just fetch data without calculating (for debugging)
 npm run fetch-only        # 2025 (default)
 npm run fetch-only -- 2024
+
+# Bulk calculate all seasons (generates all season reports)
+npm run rebuild-all        # 1950 to current year
+npm run bulk-calculate -- 1980 2000  # specific year range
+
+# Note: If you get rate-limited during bulk processing, the script will:
+# - Stop processing and show exactly which year failed
+# - Provide the exact command to resume from that year
+# - Wait 5-10 minutes before retrying to respect API limits
 ```
 
 This script will:

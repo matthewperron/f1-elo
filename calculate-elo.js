@@ -1,6 +1,50 @@
 import fs from 'fs/promises';
 
 /**
+ * Country flag emoji mapping for drivers
+ */
+const COUNTRY_FLAGS = {
+    'Argentina': '🇦🇷', 'Australia': '🇦🇺', 'Austria': '🇦🇹', 'Belgium': '🇧🇪', 'Brazil': '🇧🇷',
+    'Britain': '🇬🇧', 'British': '🇬🇧', 'Canada': '🇨🇦', 'Chile': '🇨🇱', 'Colombia': '🇨🇴',
+    'Czech Republic': '🇨🇿', 'Czechoslovakia': '🇨🇿', 'Denmark': '🇩🇰', 'Finland': '🇫🇮',
+    'France': '🇫🇷', 'French': '🇫🇷', 'Germany': '🇩🇪', 'German': '🇩🇪', 'Hungary': '🇭🇺',
+    'India': '🇮🇳', 'Ireland': '🇮🇪', 'Italy': '🇮🇹', 'Italian': '🇮🇹', 'Japan': '🇯🇵',
+    'Japanese': '🇯🇵', 'Malaysia': '🇲🇾', 'Mexico': '🇲🇽', 'Monaco': '🇲🇨', 'Netherlands': '🇳🇱',
+    'Dutch': '🇳🇱', 'New Zealand': '🇳🇿', 'Poland': '🇵🇱', 'Portugal': '🇵🇹', 'Russia': '🇷🇺',
+    'South Africa': '🇿🇦', 'Spain': '🇪🇸', 'Spanish': '🇪🇸', 'Sweden': '🇸🇪', 'Switzerland': '🇨🇭',
+    'Thai': '🇹🇭', 'Thailand': '🇹🇭', 'UK': '🇬🇧', 'USA': '🇺🇸', 'American': '🇺🇸', 
+    'Uruguay': '🇺🇾', 'Venezuela': '🇻🇪'
+};
+
+/**
+ * Get country flag emoji for a driver
+ */
+function getCountryFlag(driver) {
+    if (driver.nationality) {
+        return COUNTRY_FLAGS[driver.nationality] || '';
+    }
+    return '';
+}
+
+/**
+ * Format ELO change with color coding
+ */
+function formatEloChange(change) {
+    if (change === null || change === undefined) {
+        return 'N/A';
+    }
+    
+    const changeStr = change >= 0 ? `+${change}` : `${change}`;
+    if (change > 0) {
+        return `<span style="color: green">${changeStr}</span>`;
+    } else if (change < 0) {
+        return `<span style="color: red">${changeStr}</span>`;
+    } else {
+        return changeStr;
+    }
+}
+
+/**
  * Load starting ELO ratings from previous season
  */
 async function loadStartingELOs(season) {
@@ -115,20 +159,18 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     
     const [driver1, driver2] = teammates;
     
-    // Skip if either driver had issues (DNF, DNS, etc.)
+    // Check if either driver had issues (DNF, DNS, etc.)
     const validStatuses = ['Finished', '+1 Lap', '+2 Laps', '+3 Laps'];
-    if (type === 'race' || type === 'global') {
-        if (!validStatuses.some(status => driver1.status.includes(status)) ||
-            !validStatuses.some(status => driver2.status.includes(status))) {
-            return null; // Skip this comparison
-        }
-    }
+    const driver1DNF = (type === 'race' || type === 'global') && !validStatuses.some(status => driver1.status.includes(status));
+    const driver2DNF = (type === 'race' || type === 'global') && !validStatuses.some(status => driver2.status.includes(status));
+    const anyDNF = driver1DNF || driver2DNF;
     
     // Initialize drivers if not seen before
     if (!drivers.has(driver1.driver.driverId)) {
         const startingElo = startingELOs.get(driver1.driver.driverId) || initialElo;
+        const flag = getCountryFlag(driver1.driver);
         drivers.set(driver1.driver.driverId, {
-            name: `${driver1.driver.givenName} ${driver1.driver.familyName}`,
+            name: `${flag} ${driver1.driver.givenName} ${driver1.driver.familyName}`.trim(),
             constructor: driver1.constructor.name,
             startingElo: startingElo,
             qualifyingElo: startingElo,
@@ -138,8 +180,9 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     }
     if (!drivers.has(driver2.driver.driverId)) {
         const startingElo = startingELOs.get(driver2.driver.driverId) || initialElo;
+        const flag = getCountryFlag(driver2.driver);
         drivers.set(driver2.driver.driverId, {
-            name: `${driver2.driver.givenName} ${driver2.driver.familyName}`,
+            name: `${flag} ${driver2.driver.givenName} ${driver2.driver.familyName}`.trim(),
             constructor: driver2.constructor.name,
             startingElo: startingElo,
             qualifyingElo: startingElo,
@@ -178,7 +221,10 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
         const race1 = parseInt(driver1.position);
         const race2 = parseInt(driver2.position);
         
-        if (isNaN(qual1) || isNaN(qual2) || isNaN(race1) || isNaN(race2)) return;
+        if (isNaN(qual1) || isNaN(qual2) || (isNaN(race1) && !driver1DNF) || (isNaN(race2) && !driver2DNF)) return null;
+        
+        // For DNF cases in global, skip the comparison as it would double-count the race DNF
+        if (anyDNF && type === 'global') return null;
         
         // Lower combined score is better (smaller positions are better)
         const combined1 = (qual1 * 0.3) + (race1 * 0.7);
@@ -189,8 +235,8 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
         pos2 = combined1 < combined2 ? 2 : 1;
     }
     
-    // Skip if positions are invalid
-    if (isNaN(pos1) || isNaN(pos2)) return null;
+    // Skip if positions are invalid (but allow DNF cases to be shown)
+    if ((isNaN(pos1) || isNaN(pos2)) && !anyDNF) return null;
     
     // Store starting ELOs before changes
     const startingElo1 = type === 'qualifying' ? driver1Data.qualifyingElo : 
@@ -198,28 +244,46 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     const startingElo2 = type === 'qualifying' ? driver2Data.qualifyingElo : 
                         type === 'race' ? driver2Data.raceElo : driver2Data.globalElo;
     
-    // Calculate expected scores
-    const expectedScore1 = 1 / (1 + Math.pow(10, (elo2 - elo1) / 400));
-    const expectedScore2 = 1 - expectedScore1;
+    let actualScore1, actualScore2, eloChange1, eloChange2;
     
-    // Determine actual scores (1 for better position, 0 for worse)
-    const actualScore1 = pos1 < pos2 ? 1 : 0;
-    const actualScore2 = 1 - actualScore1;
+    // Handle DNF cases - no ELO changes, just track the matchup
+    if (anyDNF) {
+        actualScore1 = null;
+        actualScore2 = null;
+        eloChange1 = null;
+        eloChange2 = null;
+    } else {
+        // Calculate expected scores
+        const expectedScore1 = 1 / (1 + Math.pow(10, (elo2 - elo1) / 400));
+        const expectedScore2 = 1 - expectedScore1;
+        
+        // Determine actual scores (1 for better position, 0 for worse)
+        actualScore1 = pos1 < pos2 ? 1 : 0;
+        actualScore2 = 1 - actualScore1;
+        
+        // Calculate ELO changes
+        eloChange1 = kFactor * (actualScore1 - expectedScore1);
+        eloChange2 = kFactor * (actualScore2 - expectedScore2);
+        
+        // Update ELO ratings
+        if (type === 'qualifying') {
+            driver1Data.qualifyingElo += eloChange1;
+            driver2Data.qualifyingElo += eloChange2;
+        } else if (type === 'race') {
+            driver1Data.raceElo += eloChange1;
+            driver2Data.raceElo += eloChange2;
+        } else { // global
+            driver1Data.globalElo += eloChange1;
+            driver2Data.globalElo += eloChange2;
+        }
+    }
     
-    // Calculate ELO changes
-    const eloChange1 = kFactor * (actualScore1 - expectedScore1);
-    const eloChange2 = kFactor * (actualScore2 - expectedScore2);
-    
-    // Update ELO ratings
-    if (type === 'qualifying') {
-        driver1Data.qualifyingElo += eloChange1;
-        driver2Data.qualifyingElo += eloChange2;
-    } else if (type === 'race') {
-        driver1Data.raceElo += eloChange1;
-        driver2Data.raceElo += eloChange2;
-    } else { // global
-        driver1Data.globalElo += eloChange1;
-        driver2Data.globalElo += eloChange2;
+    // Determine result status
+    function getResultStatus(driverPos, opponentPos, driverDNF, opponentDNF, actualScore) {
+        if (driverDNF) return 'DNF';
+        if (opponentDNF) return 'Won (opponent DNF)';
+        if (actualScore === null) return 'N/A';
+        return actualScore === 1 ? 'Won' : 'Lost';
     }
     
     // Return detailed change information
@@ -229,26 +293,26 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
             driverId: driver1.driver.driverId,
             driverName: driver1Data.name,
             constructor: driver1Data.constructor,
-            position: pos1,
+            position: driver1DNF ? 'DNF' : pos1,
             startingElo: Math.round(startingElo1),
-            eloChange: Math.round(eloChange1),
-            newElo: Math.round(startingElo1 + eloChange1),
-            won: actualScore1 === 1,
+            eloChange: eloChange1 !== null ? Math.round(eloChange1) : null,
+            newElo: eloChange1 !== null ? Math.round(startingElo1 + eloChange1) : Math.round(startingElo1),
+            result: getResultStatus(pos1, pos2, driver1DNF, driver2DNF, actualScore1),
             opponent: driver2Data.name,
-            opponentPosition: pos2
+            opponentPosition: driver2DNF ? 'DNF' : pos2
         },
         {
             type: type,
             driverId: driver2.driver.driverId,
             driverName: driver2Data.name,
             constructor: driver2Data.constructor,
-            position: pos2,
+            position: driver2DNF ? 'DNF' : pos2,
             startingElo: Math.round(startingElo2),
-            eloChange: Math.round(eloChange2),
-            newElo: Math.round(startingElo2 + eloChange2),
-            won: actualScore2 === 1,
+            eloChange: eloChange2 !== null ? Math.round(eloChange2) : null,
+            newElo: eloChange2 !== null ? Math.round(startingElo2 + eloChange2) : Math.round(startingElo2),
+            result: getResultStatus(pos2, pos1, driver2DNF, driver1DNF, actualScore2),
             opponent: driver1Data.name,
-            opponentPosition: pos1
+            opponentPosition: driver1DNF ? 'DNF' : pos1
         }
     ];
 }
@@ -299,9 +363,8 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
             content += `|--------|-------------|----------|--------------|--------|---------|--------|--------------|\n`;
             
             qualifyingChanges.forEach(change => {
-                const result = change.won ? 'Won' : 'Lost';
-                const changeStr = change.eloChange >= 0 ? `+${change.eloChange}` : `${change.eloChange}`;
-                content += `| ${change.driverName} | ${change.constructor} | ${change.position} | ${change.startingElo} | ${changeStr} | ${change.newElo} | ${result} | ${change.opponent} (P${change.opponentPosition}) |\n`;
+                const changeStr = formatEloChange(change.eloChange);
+                content += `| ${change.driverName} | ${change.constructor} | ${change.position} | ${change.startingElo} | ${changeStr} | ${change.newElo} | ${change.result} | ${change.opponent} (P${change.opponentPosition}) |\n`;
             });
             content += '\n';
         }
@@ -312,9 +375,8 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
             content += `|--------|-------------|----------|--------------|--------|---------|--------|--------------|\n`;
             
             raceChanges.forEach(change => {
-                const result = change.won ? 'Won' : 'Lost';
-                const changeStr = change.eloChange >= 0 ? `+${change.eloChange}` : `${change.eloChange}`;
-                content += `| ${change.driverName} | ${change.constructor} | ${change.position} | ${change.startingElo} | ${changeStr} | ${change.newElo} | ${result} | ${change.opponent} (P${change.opponentPosition}) |\n`;
+                const changeStr = formatEloChange(change.eloChange);
+                content += `| ${change.driverName} | ${change.constructor} | ${change.position} | ${change.startingElo} | ${changeStr} | ${change.newElo} | ${change.result} | ${change.opponent} (P${change.opponentPosition}) |\n`;
             });
             content += '\n';
         }
@@ -437,7 +499,7 @@ async function calculateELOFromData(season = '2025') {
 }
 
 // Export functions
-export { calculateELO, updateREADME, saveFinalELOs, calculateELOFromData };
+export { calculateELO, updateREADME, saveFinalELOs, calculateELOFromData, generateSeasonReport };
 
 // Run if called directly (check if this file is the main module being executed)
 import path from 'path';

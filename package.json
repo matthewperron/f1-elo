@@ -7,7 +7,9 @@
     "start": "node main.js",
     "calculate": "node main.js",
     "fetch-only": "node fetch-results.js",
-    "elo-only": "node calculate-elo.js"
+    "elo-only": "node calculate-elo.js",
+    "bulk-calculate": "node bulk-calculate.js",
+    "rebuild-all": "node bulk-calculate.js 1950"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
