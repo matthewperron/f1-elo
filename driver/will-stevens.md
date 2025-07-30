@@ -5,6 +5,18 @@
 **Seasons**: [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md)
 **Total Race Events**: 19 (57 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1521
+**Peak Qualifying ELO**: 1614 (2015 Round 15 - Russian Grand Prix)
+**Lowest Qualifying ELO**: 1469 (2014 Round 19 - Abu Dhabi Grand Prix)
+**Race ELO**: 1500 → 1436
+**Peak Race ELO**: 1558 (2015 Round 4 - Bahrain Grand Prix)
+**Lowest Race ELO**: 1391 (2015 Round 17 - Mexican Grand Prix)
+**Global ELO**: 1500 → 1461
+**Peak Global ELO**: 1563 (2015 Round 5 - Spanish Grand Prix)
+**Lowest Global ELO**: 1423 (2015 Round 18 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -66,9 +78,3 @@
 | 2015 | [Round 19: Abu Dhabi Grand Prix](../results/2015-season-report.md#round-19-abu-dhabi-grand-prix) | 2015-11-29 | qualifying | Manor Marussia | 19 | 1498 | +24 | 1521 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Roberto Merhi |
 | 2015 | [Round 19: Abu Dhabi Grand Prix](../results/2015-season-report.md#round-19-abu-dhabi-grand-prix) | 2015-11-29 | race | Manor Marussia | 18 | 1391 | +44 | 1436 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Roberto Merhi |
 | 2015 | [Round 19: Abu Dhabi Grand Prix](../results/2015-season-report.md#round-19-abu-dhabi-grand-prix) | 2015-11-29 | global | Manor Marussia | Q:19/R:18 | 1423 | +38 | 1461 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Roberto Merhi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1521 (Peak: 1614)
-**Race ELO**: 1500 → 1436 (Peak: 1558)
-**Global ELO**: 1500 → 1461 (Peak: 1563)

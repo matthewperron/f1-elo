@@ -5,6 +5,18 @@
 **Seasons**: [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1982](../results/1982-season-report.md)
 **Total Race Events**: 83 (249 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1439
+**Peak Qualifying ELO**: 1505 (1974 Round 2 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1278 (1978 Round 2 - Brazilian Grand Prix)
+**Race ELO**: 1500 → 1458
+**Peak Race ELO**: 1482 (1975 Round 12 - Austrian Grand Prix)
+**Lowest Race ELO**: 1300 (1977 Round 9 - French Grand Prix)
+**Global ELO**: 1500 → 1482
+**Peak Global ELO**: 1499 (1982 Round 7 - Detroit Grand Prix)
+**Lowest Global ELO**: 1303 (1977 Round 6 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -258,9 +270,3 @@
 | 1982 | [Round 9: Dutch Grand Prix](../results/1982-season-report.md#round-9-dutch-grand-prix) | 1982-07-03 | qualifying | March | 24 | 1464 | -25 | 1439 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel |
 | 1982 | [Round 9: Dutch Grand Prix](../results/1982-season-report.md#round-9-dutch-grand-prix) | 1982-07-03 | race | March | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel |
 | 1982 | [Round 9: Dutch Grand Prix](../results/1982-season-report.md#round-9-dutch-grand-prix) | 1982-07-03 | global | March | Q:24/R:DNF | 1489 | -7 | 1482 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1439 (Peak: 1505)
-**Race ELO**: 1500 → 1458 (Peak: 1482)
-**Global ELO**: 1500 → 1482 (Peak: 1499)

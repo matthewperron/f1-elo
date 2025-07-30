@@ -5,6 +5,15 @@
 **Seasons**: [1950](../results/1950-season-report.md) • [1952](../results/1952-season-report.md) • [1956](../results/1956-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1532
+**Peak Qualifying ELO**: 1558 (1950 Round 7 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1532 (1950 Round 2 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1510
+**Peak Global ELO**: 1517 (1950 Round 7 - Italian Grand Prix)
+**Lowest Global ELO**: 1510 (1950 Round 2 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,8 +30,3 @@
 | 1956 | [Round 6: British Grand Prix](../results/1956-season-report.md#round-6-british-grand-prix) | 1956-07-14 | qualifying | Gordini | 18 | 1500 | +32 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos |
 | 1956 | [Round 6: British Grand Prix](../results/1956-season-report.md#round-6-british-grand-prix) | 1956-07-14 | race | Gordini | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos |
 | 1956 | [Round 6: British Grand Prix](../results/1956-season-report.md#round-6-british-grand-prix) | 1956-07-14 | global | Gordini | Q:18/R:DNF | 1500 | +10 | 1510 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1532 (Peak: 1558)
-**Global ELO**: 1500 → 1510 (Peak: 1517)

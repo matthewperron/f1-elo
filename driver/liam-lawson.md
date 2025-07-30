@@ -5,6 +5,18 @@
 **Seasons**: [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 24 (72 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1330
+**Peak Qualifying ELO**: 1501 (2023 Round 15 - Singapore Grand Prix)
+**Lowest Qualifying ELO**: 1308 (2025 Round 10 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1350
+**Peak Race ELO**: 1543 (2023 Round 13 - Dutch Grand Prix)
+**Lowest Race ELO**: 1350 (2025 Round 9 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1343
+**Peak Global ELO**: 1530 (2023 Round 15 - Singapore Grand Prix)
+**Lowest Global ELO**: 1336 (2025 Round 10 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -81,9 +93,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Red Bull | 9 | 1345 | -15 | 1330 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Red Bull | 8 | 1350 | N/A | 1350 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Red Bull | Q:9/R:8 | 1347 | -4 | 1343 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1330 (Peak: 1501)
-**Race ELO**: 1500 → 1350 (Peak: 1543)
-**Global ELO**: 1500 → 1343 (Peak: 1530)

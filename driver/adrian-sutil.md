@@ -5,6 +5,18 @@
 **Seasons**: [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md)
 **Total Race Events**: 128 (384 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1407
+**Peak Qualifying ELO**: 1724 (2010 Round 17 - Korean Grand Prix)
+**Lowest Qualifying ELO**: 1301 (2014 Round 6 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1315
+**Peak Race ELO**: 1623 (2007 Round 15 - Japanese Grand Prix)
+**Lowest Race ELO**: 1315 (2014 Round 19 - Abu Dhabi Grand Prix)
+**Global ELO**: 1500 → 1342
+**Peak Global ELO**: 1655 (2007 Round 17 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1319 (2014 Round 6 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -393,9 +405,3 @@
 | 2014 | [Round 19: Abu Dhabi Grand Prix](../results/2014-season-report.md#round-19-abu-dhabi-grand-prix) | 2014-11-23 | qualifying | Sauber | 13 | 1380 | +28 | 1407 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Esteban Gutiérrez |
 | 2014 | [Round 19: Abu Dhabi Grand Prix](../results/2014-season-report.md#round-19-abu-dhabi-grand-prix) | 2014-11-23 | race | Sauber | 16 | 1344 | -29 | 1315 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Esteban Gutiérrez |
 | 2014 | [Round 19: Abu Dhabi Grand Prix](../results/2014-season-report.md#round-19-abu-dhabi-grand-prix) | 2014-11-23 | global | Sauber | Q:13/R:16 | 1354 | -12 | 1342 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Esteban Gutiérrez |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1407 (Peak: 1724)
-**Race ELO**: 1500 → 1315 (Peak: 1623)
-**Global ELO**: 1500 → 1342 (Peak: 1655)

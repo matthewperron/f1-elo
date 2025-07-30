@@ -5,6 +5,18 @@
 **Seasons**: [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2016](../results/2016-season-report.md)
 **Total Race Events**: 59 (177 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1619
+**Peak Qualifying ELO**: 1622 (2016 Round 19 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1233 (2014 Round 13 - Italian Grand Prix)
+**Race ELO**: 1500 → 1546
+**Peak Race ELO**: 1622 (2016 Round 13 - Belgian Grand Prix)
+**Lowest Race ELO**: 1298 (2014 Round 13 - Italian Grand Prix)
+**Global ELO**: 1500 → 1568
+**Peak Global ELO**: 1596 (2016 Round 13 - Belgian Grand Prix)
+**Lowest Global ELO**: 1280 (2014 Round 13 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -186,9 +198,3 @@
 | 2016 | [Round 21: Abu Dhabi Grand Prix](../results/2016-season-report.md#round-21-abu-dhabi-grand-prix) | 2016-11-27 | qualifying | Haas F1 Team | 13 | 1585 | +34 | 1619 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean |
 | 2016 | [Round 21: Abu Dhabi Grand Prix](../results/2016-season-report.md#round-21-abu-dhabi-grand-prix) | 2016-11-27 | race | Haas F1 Team | 12 | 1581 | -35 | 1546 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean |
 | 2016 | [Round 21: Abu Dhabi Grand Prix](../results/2016-season-report.md#round-21-abu-dhabi-grand-prix) | 2016-11-27 | global | Haas F1 Team | Q:13/R:12 | 1583 | -14 | 1568 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1619 (Peak: 1622)
-**Race ELO**: 1500 → 1546 (Peak: 1622)
-**Global ELO**: 1500 → 1568 (Peak: 1596)

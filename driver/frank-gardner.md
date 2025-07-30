@@ -5,6 +5,15 @@
 **Seasons**: [1965](../results/1965-season-report.md)
 **Total Race Events**: 6 (18 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1402
+**Peak Qualifying ELO**: 1476 (1965 Round 1 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1402 (1965 Round 8 - Italian Grand Prix)
+**Global ELO**: 1500 → 1470
+**Peak Global ELO**: 1493 (1965 Round 1 - South African Grand Prix)
+**Lowest Global ELO**: 1470 (1965 Round 8 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -27,8 +36,3 @@
 | 1965 | [Round 8: Italian Grand Prix](../results/1965-season-report.md#round-8-italian-grand-prix) | 1965-09-12 | qualifying | Brabham-BRM | 16 | 1413 | -11 | 1402 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
 | 1965 | [Round 8: Italian Grand Prix](../results/1965-season-report.md#round-8-italian-grand-prix) | 1965-09-12 | race | Brabham-BRM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
 | 1965 | [Round 8: Italian Grand Prix](../results/1965-season-report.md#round-8-italian-grand-prix) | 1965-09-12 | global | Brabham-BRM | Q:16/R:DNF | 1474 | -3 | 1470 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1402 (Peak: 1476)
-**Global ELO**: 1500 → 1470 (Peak: 1493)

@@ -5,6 +5,18 @@
 **Seasons**: [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md)
 **Total Race Events**: 23 (69 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1360
+**Peak Qualifying ELO**: 1543 (1988 Round 10 - Hungarian Grand Prix)
+**Lowest Qualifying ELO**: 1312 (1989 Round 14 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1409
+**Peak Race ELO**: 1532 (1988 Round 2 - San Marino Grand Prix)
+**Lowest Race ELO**: 1409 (1989 Round 13 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1394
+**Peak Global ELO**: 1535 (1988 Round 10 - Hungarian Grand Prix)
+**Lowest Global ELO**: 1379 (1989 Round 14 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -78,9 +90,3 @@
 | 1989 | [Round 15: Japanese Grand Prix](../results/1989-season-report.md#round-15-japanese-grand-prix) | 1989-10-22 | qualifying | Minardi | 14 | 1312 | +48 | 1360 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla |
 | 1989 | [Round 15: Japanese Grand Prix](../results/1989-season-report.md#round-15-japanese-grand-prix) | 1989-10-22 | race | Minardi | DNF | 1409 | N/A | 1409 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla |
 | 1989 | [Round 15: Japanese Grand Prix](../results/1989-season-report.md#round-15-japanese-grand-prix) | 1989-10-22 | global | Minardi | Q:14/R:DNF | 1379 | +14 | 1394 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1360 (Peak: 1543)
-**Race ELO**: 1500 → 1409 (Peak: 1532)
-**Global ELO**: 1500 → 1394 (Peak: 1535)

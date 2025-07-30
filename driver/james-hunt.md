@@ -5,6 +5,18 @@
 **Seasons**: [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md)
 **Total Race Events**: 36 (108 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1679
+**Peak Qualifying ELO**: 1742 (1977 Round 6 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1532 (1975 Round 4 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1568
+**Peak Race ELO**: 1650 (1977 Round 9 - French Grand Prix)
+**Lowest Race ELO**: 1527 (1976 Round 2 - South African Grand Prix)
+**Global ELO**: 1500 → 1600
+**Peak Global ELO**: 1671 (1977 Round 6 - Monaco Grand Prix)
+**Lowest Global ELO**: 1510 (1975 Round 4 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -117,9 +129,3 @@
 | 1978 | [Round 16: Canadian Grand Prix](../results/1978-season-report.md#round-16-canadian-grand-prix) | 1978-10-08 | qualifying | McLaren | 19 | 1737 | -59 | 1679 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
 | 1978 | [Round 16: Canadian Grand Prix](../results/1978-season-report.md#round-16-canadian-grand-prix) | 1978-10-08 | race | McLaren | DNF | 1568 | N/A | 1568 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
 | 1978 | [Round 16: Canadian Grand Prix](../results/1978-season-report.md#round-16-canadian-grand-prix) | 1978-10-08 | global | McLaren | Q:19/R:DNF | 1618 | -18 | 1600 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1679 (Peak: 1742)
-**Race ELO**: 1500 → 1568 (Peak: 1650)
-**Global ELO**: 1500 → 1600 (Peak: 1671)

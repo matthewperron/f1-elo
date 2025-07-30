@@ -5,6 +5,18 @@
 **Seasons**: [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1995](../results/1995-season-report.md)
 **Total Race Events**: 34 (102 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1473
+**Peak Qualifying ELO**: 1598 (1995 Round 4 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1429 (1995 Round 16 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1482 (1990 Round 15 - Japanese Grand Prix)
+**Lowest Race ELO**: 1419 (1991 Round 13 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1470
+**Peak Global ELO**: 1529 (1995 Round 4 - Spanish Grand Prix)
+**Lowest Global ELO**: 1440 (1991 Round 16 - Australian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -111,9 +123,3 @@
 | 1995 | [Round 17: Australian Grand Prix](../results/1995-season-report.md#round-17-australian-grand-prix) | 1995-11-12 | qualifying | Forti | 20 | 1429 | +44 | 1473 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz |
 | 1995 | [Round 17: Australian Grand Prix](../results/1995-season-report.md#round-17-australian-grand-prix) | 1995-11-12 | race | Forti | DNF | 1468 | N/A | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz |
 | 1995 | [Round 17: Australian Grand Prix](../results/1995-season-report.md#round-17-australian-grand-prix) | 1995-11-12 | global | Forti | Q:20/R:DNF | 1457 | +13 | 1470 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1473 (Peak: 1598)
-**Race ELO**: 1500 → 1468 (Peak: 1482)
-**Global ELO**: 1500 → 1470 (Peak: 1529)

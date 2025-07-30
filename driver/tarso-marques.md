@@ -5,6 +5,18 @@
 **Seasons**: [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [2001](../results/2001-season-report.md)
 **Total Race Events**: 25 (75 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1359
+**Peak Qualifying ELO**: 1506 (2001 Round 2 - Malaysian Grand Prix)
+**Lowest Qualifying ELO**: 1352 (1997 Round 13 - Italian Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1491 (1997 Round 17 - European Grand Prix)
+**Lowest Race ELO**: 1460 (1997 Round 11 - Hungarian Grand Prix)
+**Global ELO**: 1500 → 1436
+**Peak Global ELO**: 1502 (2001 Round 2 - Malaysian Grand Prix)
+**Lowest Global ELO**: 1428 (1997 Round 13 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -84,9 +96,3 @@
 | 2001 | [Round 14: Belgian Grand Prix](../results/2001-season-report.md#round-14-belgian-grand-prix) | 2001-09-02 | qualifying | Minardi | 22 | 1371 | -12 | 1359 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
 | 2001 | [Round 14: Belgian Grand Prix](../results/2001-season-report.md#round-14-belgian-grand-prix) | 2001-09-02 | race | Minardi | DNF | 1468 | N/A | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
 | 2001 | [Round 14: Belgian Grand Prix](../results/2001-season-report.md#round-14-belgian-grand-prix) | 2001-09-02 | global | Minardi | Q:22/R:DNF | 1439 | -4 | 1436 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1359 (Peak: 1506)
-**Race ELO**: 1500 → 1468 (Peak: 1491)
-**Global ELO**: 1500 → 1436 (Peak: 1502)

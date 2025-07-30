@@ -5,6 +5,18 @@
 **Seasons**: [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md)
 **Total Race Events**: 11 (33 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1479
+**Peak Qualifying ELO**: 1540 (2023 Round 8 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1429 (2023 Round 4 - Azerbaijan Grand Prix)
+**Race ELO**: 1500 → 1413
+**Peak Race ELO**: 1515 (2022 Round 16 - Italian Grand Prix)
+**Lowest Race ELO**: 1413 (2023 Round 10 - British Grand Prix)
+**Global ELO**: 1500 → 1433
+**Peak Global ELO**: 1517 (2022 Round 16 - Italian Grand Prix)
+**Lowest Global ELO**: 1433 (2023 Round 10 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -42,9 +54,3 @@
 | 2023 | [Round 10: British Grand Prix](../results/2023-season-report.md#round-10-british-grand-prix) | 2023-07-09 | qualifying | AlphaTauri | 18 | 1506 | -27 | 1479 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda |
 | 2023 | [Round 10: British Grand Prix](../results/2023-season-report.md#round-10-british-grand-prix) | 2023-07-09 | race | AlphaTauri | 17 | 1432 | -19 | 1413 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda |
 | 2023 | [Round 10: British Grand Prix](../results/2023-season-report.md#round-10-british-grand-prix) | 2023-07-09 | global | AlphaTauri | Q:18/R:17 | 1455 | -21 | 1433 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1479 (Peak: 1540)
-**Race ELO**: 1500 → 1413 (Peak: 1515)
-**Global ELO**: 1500 → 1433 (Peak: 1517)

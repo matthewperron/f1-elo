@@ -5,6 +5,18 @@
 **Seasons**: [1960](../results/1960-season-report.md) • [1962](../results/1962-season-report.md) • [1963](../results/1963-season-report.md) • [1964](../results/1964-season-report.md) • [1965](../results/1965-season-report.md) • [1966](../results/1966-season-report.md)
 **Total Race Events**: 18 (54 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1559
+**Peak Qualifying ELO**: 1559 (1966 Round 9 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1412 (1965 Round 2 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1493
+**Peak Race ELO**: 1493 (1965 Round 10 - Mexican Grand Prix)
+**Lowest Race ELO**: 1413 (1964 Round 9 - United States Grand Prix)
+**Global ELO**: 1500 → 1513
+**Peak Global ELO**: 1513 (1966 Round 9 - Mexican Grand Prix)
+**Lowest Global ELO**: 1423 (1964 Round 9 - United States Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -63,9 +75,3 @@
 | 1966 | [Round 9: Mexican Grand Prix](../results/1966-season-report.md#round-9-mexican-grand-prix) | 1966-10-23 | qualifying | Honda | 3 | 1540 | +20 | 1559 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ronnie Bucknum |
 | 1966 | [Round 9: Mexican Grand Prix](../results/1966-season-report.md#round-9-mexican-grand-prix) | 1966-10-23 | race | Honda | 4 | 1493 | N/A | 1493 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ronnie Bucknum |
 | 1966 | [Round 9: Mexican Grand Prix](../results/1966-season-report.md#round-9-mexican-grand-prix) | 1966-10-23 | global | Honda | Q:3/R:4 | 1507 | +6 | 1513 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ronnie Bucknum |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1559 (Peak: 1559)
-**Race ELO**: 1500 → 1493 (Peak: 1493)
-**Global ELO**: 1500 → 1513 (Peak: 1513)

@@ -5,6 +5,18 @@
 **Seasons**: [2025](../results/2025-season-report.md)
 **Total Race Events**: 13 (39 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1585
+**Peak Qualifying ELO**: 1585 (2025 Round 13 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1431 (2025 Round 5 - Saudi Arabian Grand Prix)
+**Race ELO**: 1500 → 1483
+**Peak Race ELO**: 1483 (2025 Round 13 - Belgian Grand Prix)
+**Lowest Race ELO**: 1435 (2025 Round 9 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1514
+**Peak Global ELO**: 1514 (2025 Round 13 - Belgian Grand Prix)
+**Lowest Global ELO**: 1452 (2025 Round 10 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -48,9 +60,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Sauber | 10 | 1560 | +25 | 1585 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Sauber | 9 | 1435 | +49 | 1483 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Sauber | Q:10/R:9 | 1472 | +42 | 1514 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1585 (Peak: 1585)
-**Race ELO**: 1500 → 1483 (Peak: 1483)
-**Global ELO**: 1500 → 1514 (Peak: 1514)

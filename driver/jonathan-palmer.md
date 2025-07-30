@@ -5,6 +5,18 @@
 **Seasons**: [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md)
 **Total Race Events**: 59 (177 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1411
+**Peak Qualifying ELO**: 1698 (1987 Round 1 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1411 (1989 Round 15 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1463
+**Peak Race ELO**: 1570 (1989 Round 1 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1455 (1987 Round 11 - Italian Grand Prix)
+**Global ELO**: 1500 → 1447
+**Peak Global ELO**: 1592 (1989 Round 1 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1447 (1989 Round 15 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -186,9 +198,3 @@
 | 1989 | [Round 15: Japanese Grand Prix](../results/1989-season-report.md#round-15-japanese-grand-prix) | 1989-10-22 | qualifying | Tyrrell | 26 | 1430 | -19 | 1411 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi |
 | 1989 | [Round 15: Japanese Grand Prix](../results/1989-season-report.md#round-15-japanese-grand-prix) | 1989-10-22 | race | Tyrrell | DNF | 1463 | N/A | 1463 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi |
 | 1989 | [Round 15: Japanese Grand Prix](../results/1989-season-report.md#round-15-japanese-grand-prix) | 1989-10-22 | global | Tyrrell | Q:26/R:DNF | 1453 | -6 | 1447 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1411 (Peak: 1698)
-**Race ELO**: 1500 → 1463 (Peak: 1570)
-**Global ELO**: 1500 → 1447 (Peak: 1592)

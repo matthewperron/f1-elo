@@ -5,6 +5,18 @@
 **Seasons**: [2015](../results/2015-season-report.md)
 **Total Race Events**: 13 (39 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1382
+**Peak Qualifying ELO**: 1480 (2015 Round 10 - Hungarian Grand Prix)
+**Lowest Qualifying ELO**: 1377 (2015 Round 6 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1488
+**Peak Race ELO**: 1548 (2015 Round 11 - Belgian Grand Prix)
+**Lowest Race ELO**: 1442 (2015 Round 4 - Bahrain Grand Prix)
+**Global ELO**: 1500 → 1457
+**Peak Global ELO**: 1518 (2015 Round 11 - Belgian Grand Prix)
+**Lowest Global ELO**: 1428 (2015 Round 5 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -48,9 +60,3 @@
 | 2015 | [Round 19: Abu Dhabi Grand Prix](../results/2015-season-report.md#round-19-abu-dhabi-grand-prix) | 2015-11-29 | qualifying | Manor Marussia | 20 | 1406 | -24 | 1382 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens |
 | 2015 | [Round 19: Abu Dhabi Grand Prix](../results/2015-season-report.md#round-19-abu-dhabi-grand-prix) | 2015-11-29 | race | Manor Marussia | 19 | 1533 | -44 | 1488 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens |
 | 2015 | [Round 19: Abu Dhabi Grand Prix](../results/2015-season-report.md#round-19-abu-dhabi-grand-prix) | 2015-11-29 | global | Manor Marussia | Q:20/R:19 | 1495 | -38 | 1457 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1382 (Peak: 1480)
-**Race ELO**: 1500 → 1488 (Peak: 1548)
-**Global ELO**: 1500 → 1457 (Peak: 1518)

@@ -5,6 +5,18 @@
 **Seasons**: [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md)
 **Total Race Events**: 187 (561 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1453
+**Peak Qualifying ELO**: 2061 (1989 Round 9 - German Grand Prix)
+**Lowest Qualifying ELO**: 1399 (1983 Round 4 - San Marino Grand Prix)
+**Race ELO**: 1500 → 1454
+**Peak Race ELO**: 1822 (1992 Round 12 - Belgian Grand Prix)
+**Lowest Race ELO**: 1426 (1983 Round 13 - Italian Grand Prix)
+**Global ELO**: 1500 → 1454
+**Peak Global ELO**: 1865 (1989 Round 9 - German Grand Prix)
+**Lowest Global ELO**: 1425 (1983 Round 14 - European Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -570,9 +582,3 @@
 | 1995 | [Round 4: Spanish Grand Prix](../results/1995-season-report.md#round-4-spanish-grand-prix) | 1995-05-14 | qualifying | McLaren | 10 | 1462 | -9 | 1453 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen |
 | 1995 | [Round 4: Spanish Grand Prix](../results/1995-season-report.md#round-4-spanish-grand-prix) | 1995-05-14 | race | McLaren | DNF | 1454 | N/A | 1454 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen |
 | 1995 | [Round 4: Spanish Grand Prix](../results/1995-season-report.md#round-4-spanish-grand-prix) | 1995-05-14 | global | McLaren | Q:10/R:DNF | 1456 | -3 | 1454 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1453 (Peak: 2061)
-**Race ELO**: 1500 → 1454 (Peak: 1822)
-**Global ELO**: 1500 → 1454 (Peak: 1865)

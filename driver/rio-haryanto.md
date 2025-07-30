@@ -5,6 +5,18 @@
 **Seasons**: [2016](../results/2016-season-report.md)
 **Total Race Events**: 12 (36 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1441
+**Peak Qualifying ELO**: 1499 (2016 Round 10 - British Grand Prix)
+**Lowest Qualifying ELO**: 1431 (2016 Round 5 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1361
+**Peak Race ELO**: 1468 (2016 Round 2 - Bahrain Grand Prix)
+**Lowest Race ELO**: 1361 (2016 Round 12 - German Grand Prix)
+**Global ELO**: 1500 → 1384
+**Peak Global ELO**: 1490 (2016 Round 1 - Australian Grand Prix)
+**Lowest Global ELO**: 1384 (2016 Round 12 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -45,9 +57,3 @@
 | 2016 | [Round 12: German Grand Prix](../results/2016-season-report.md#round-12-german-grand-prix) | 2016-07-31 | qualifying | Manor Marussia | 19 | 1467 | -26 | 1441 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein |
 | 2016 | [Round 12: German Grand Prix](../results/2016-season-report.md#round-12-german-grand-prix) | 2016-07-31 | race | Manor Marussia | 20 | 1373 | -12 | 1361 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein |
 | 2016 | [Round 12: German Grand Prix](../results/2016-season-report.md#round-12-german-grand-prix) | 2016-07-31 | global | Manor Marussia | Q:19/R:20 | 1400 | -16 | 1384 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1441 (Peak: 1499)
-**Race ELO**: 1500 → 1361 (Peak: 1468)
-**Global ELO**: 1500 → 1384 (Peak: 1490)

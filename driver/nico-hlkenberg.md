@@ -5,6 +5,18 @@
 **Seasons**: [2010](../results/2010-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 243 (729 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1459
+**Peak Qualifying ELO**: 1859 (2017 Round 10 - British Grand Prix)
+**Lowest Qualifying ELO**: 1414 (2012 Round 15 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1585
+**Peak Race ELO**: 1744 (2018 Round 7 - Canadian Grand Prix)
+**Lowest Race ELO**: 1388 (2012 Round 7 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1546
+**Peak Global ELO**: 1751 (2018 Round 3 - Chinese Grand Prix)
+**Lowest Global ELO**: 1403 (2012 Round 7 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -738,9 +750,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Sauber | 14 | 1484 | -25 | 1459 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Gabriel Bortoleto |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Sauber | 12 | 1633 | -49 | 1585 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Gabriel Bortoleto |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Sauber | Q:14/R:12 | 1588 | -42 | 1546 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Gabriel Bortoleto |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1459 (Peak: 1859)
-**Race ELO**: 1500 → 1585 (Peak: 1744)
-**Global ELO**: 1500 → 1546 (Peak: 1751)

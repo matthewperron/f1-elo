@@ -5,6 +5,15 @@
 **Seasons**: [1975](../results/1975-season-report.md) • [1977](../results/1977-season-report.md)
 **Total Race Events**: 6 (18 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1408
+**Peak Qualifying ELO**: 1485 (1977 Round 1 - Argentine Grand Prix)
+**Lowest Qualifying ELO**: 1408 (1977 Round 5 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1473
+**Peak Global ELO**: 1496 (1977 Round 1 - Argentine Grand Prix)
+**Lowest Global ELO**: 1473 (1977 Round 5 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -27,8 +36,3 @@
 | 1977 | [Round 5: Spanish Grand Prix](../results/1977-season-report.md#round-5-spanish-grand-prix) | 1977-05-08 | qualifying | Shadow | 24 | 1432 | -23 | 1408 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
 | 1977 | [Round 5: Spanish Grand Prix](../results/1977-season-report.md#round-5-spanish-grand-prix) | 1977-05-08 | race | Shadow | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
 | 1977 | [Round 5: Spanish Grand Prix](../results/1977-season-report.md#round-5-spanish-grand-prix) | 1977-05-08 | global | Shadow | Q:24/R:DNF | 1480 | -7 | 1473 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1408 (Peak: 1485)
-**Global ELO**: 1500 → 1473 (Peak: 1496)

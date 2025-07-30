@@ -5,6 +5,18 @@
 **Seasons**: [1968](../results/1968-season-report.md) • [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md) • [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md)
 **Total Race Events**: 20 (60 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1494
+**Peak Qualifying ELO**: 1554 (1973 Round 8 - French Grand Prix)
+**Lowest Qualifying ELO**: 1336 (1970 Round 7 - British Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1973 Round 4 - Spanish Grand Prix)
+**Lowest Race ELO**: 1400 (1971 Round 3 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1476
+**Peak Global ELO**: 1494 (1973 Round 8 - French Grand Prix)
+**Lowest Global ELO**: 1399 (1970 Round 7 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -69,9 +81,3 @@
 | 1974 | [Round 11: German Grand Prix](../results/1974-season-report.md#round-11-german-grand-prix) | 1974-08-04 | qualifying | BRM | 24 | 1521 | -27 | 1494 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Beltoise |
 | 1974 | [Round 11: German Grand Prix](../results/1974-season-report.md#round-11-german-grand-prix) | 1974-08-04 | race | BRM | 10 | 1468 | N/A | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Beltoise |
 | 1974 | [Round 11: German Grand Prix](../results/1974-season-report.md#round-11-german-grand-prix) | 1974-08-04 | global | BRM | Q:24/R:10 | 1484 | -8 | 1476 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Beltoise |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1494 (Peak: 1554)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1476 (Peak: 1494)

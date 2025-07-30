@@ -5,6 +5,18 @@
 **Seasons**: [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md)
 **Total Race Events**: 75 (225 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1321
+**Peak Qualifying ELO**: 1503 (1989 Round 7 - French Grand Prix)
+**Lowest Qualifying ELO**: 1300 (1991 Round 8 - British Grand Prix)
+**Race ELO**: 1500 → 1293
+**Peak Race ELO**: 1485 (1987 Round 4 - Monaco Grand Prix)
+**Lowest Race ELO**: 1293 (1991 Round 14 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1301
+**Peak Global ELO**: 1498 (1987 Round 1 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1301 (1991 Round 16 - Australian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -234,9 +246,3 @@
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | qualifying | Tyrrell | 24 | 1325 | -5 | 1321 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena |
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | race | Tyrrell | DNF | 1293 | N/A | 1293 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena |
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | global | Tyrrell | Q:24/R:DNF | 1302 | -1 | 1301 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1321 (Peak: 1503)
-**Race ELO**: 1500 → 1293 (Peak: 1485)
-**Global ELO**: 1500 → 1301 (Peak: 1498)

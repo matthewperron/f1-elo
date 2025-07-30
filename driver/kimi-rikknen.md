@@ -5,6 +5,18 @@
 **Seasons**: [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md)
 **Total Race Events**: 352 (1056 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1519
+**Peak Qualifying ELO**: 1867 (2009 Round 17 - Abu Dhabi Grand Prix)
+**Lowest Qualifying ELO**: 1380 (2012 Round 8 - European Grand Prix)
+**Race ELO**: 1500 → 1587
+**Peak Race ELO**: 1790 (2007 Round 17 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1410 (2017 Round 9 - Austrian Grand Prix)
+**Global ELO**: 1500 → 1563
+**Peak Global ELO**: 1802 (2007 Round 16 - Chinese Grand Prix)
+**Lowest Global ELO**: 1458 (2015 Round 18 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -1065,9 +1077,3 @@
 | 2021 | [Round 22: Abu Dhabi Grand Prix](../results/2021-season-report.md#round-22-abu-dhabi-grand-prix) | 2021-12-12 | qualifying | Alfa Romeo | 18 | 1552 | -32 | 1519 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi |
 | 2021 | [Round 22: Abu Dhabi Grand Prix](../results/2021-season-report.md#round-22-abu-dhabi-grand-prix) | 2021-12-12 | race | Alfa Romeo | DNF | 1587 | N/A | 1587 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi |
 | 2021 | [Round 22: Abu Dhabi Grand Prix](../results/2021-season-report.md#round-22-abu-dhabi-grand-prix) | 2021-12-12 | global | Alfa Romeo | Q:18/R:DNF | 1572 | -10 | 1563 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1519 (Peak: 1867)
-**Race ELO**: 1500 → 1587 (Peak: 1790)
-**Global ELO**: 1500 → 1563 (Peak: 1802)

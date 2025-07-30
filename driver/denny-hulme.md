@@ -5,6 +5,18 @@
 **Seasons**: [1966](../results/1966-season-report.md) • [1967](../results/1967-season-report.md) • [1968](../results/1968-season-report.md) • [1969](../results/1969-season-report.md) • [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md) • [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md)
 **Total Race Events**: 61 (183 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1622
+**Peak Qualifying ELO**: 1695 (1973 Round 7 - Swedish Grand Prix)
+**Lowest Qualifying ELO**: 1335 (1967 Round 5 - French Grand Prix)
+**Race ELO**: 1500 → 1433
+**Peak Race ELO**: 1531 (1972 Round 10 - Italian Grand Prix)
+**Lowest Race ELO**: 1345 (1969 Round 8 - Italian Grand Prix)
+**Global ELO**: 1500 → 1488
+**Peak Global ELO**: 1554 (1972 Round 6 - French Grand Prix)
+**Lowest Global ELO**: 1368 (1969 Round 8 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -192,9 +204,3 @@
 | 1973 | [Round 13: Italian Grand Prix](../results/1973-season-report.md#round-13-italian-grand-prix) | 1973-09-09 | qualifying | McLaren | 3 | 1674 | -53 | 1622 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Peter Revson |
 | 1973 | [Round 13: Italian Grand Prix](../results/1973-season-report.md#round-13-italian-grand-prix) | 1973-09-09 | race | McLaren | 15 | 1464 | -31 | 1433 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Peter Revson |
 | 1973 | [Round 13: Italian Grand Prix](../results/1973-season-report.md#round-13-italian-grand-prix) | 1973-09-09 | global | McLaren | Q:3/R:15 | 1525 | -38 | 1488 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Peter Revson |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1622 (Peak: 1695)
-**Race ELO**: 1500 → 1433 (Peak: 1531)
-**Global ELO**: 1500 → 1488 (Peak: 1554)

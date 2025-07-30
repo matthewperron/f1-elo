@@ -5,6 +5,18 @@
 **Seasons**: [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md)
 **Total Race Events**: 37 (111 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1440
+**Peak Qualifying ELO**: 1522 (1999 Round 7 - French Grand Prix)
+**Lowest Qualifying ELO**: 1397 (2001 Round 12 - German Grand Prix)
+**Race ELO**: 1500 → 1475
+**Peak Race ELO**: 1480 (1999 Round 16 - Japanese Grand Prix)
+**Lowest Race ELO**: 1403 (2000 Round 16 - Japanese Grand Prix)
+**Global ELO**: 1500 → 1464
+**Peak Global ELO**: 1507 (1999 Round 7 - French Grand Prix)
+**Lowest Global ELO**: 1402 (2001 Round 12 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -120,9 +132,3 @@
 | 2005 | [Round 9: United States Grand Prix](../results/2005-season-report.md#round-9-united-states-grand-prix) | 2005-06-19 | qualifying | Toyota | 13 | 1452 | -12 | 1440 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
 | 2005 | [Round 9: United States Grand Prix](../results/2005-season-report.md#round-9-united-states-grand-prix) | 2005-06-19 | race | Toyota | DNF | 1475 | N/A | 1475 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
 | 2005 | [Round 9: United States Grand Prix](../results/2005-season-report.md#round-9-united-states-grand-prix) | 2005-06-19 | global | Toyota | Q:13/R:DNF | 1468 | -4 | 1464 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1440 (Peak: 1522)
-**Race ELO**: 1500 → 1475 (Peak: 1480)
-**Global ELO**: 1500 → 1464 (Peak: 1507)

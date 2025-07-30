@@ -5,6 +5,18 @@
 **Seasons**: [1975](../results/1975-season-report.md) • [1982](../results/1982-season-report.md)
 **Total Race Events**: 15 (45 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1330
+**Peak Qualifying ELO**: 1487 (1975 Round 12 - Austrian Grand Prix)
+**Lowest Qualifying ELO**: 1330 (1982 Round 16 - Caesars Palace Grand Prix)
+**Race ELO**: 1500 → 1396
+**Peak Race ELO**: 1466 (1982 Round 11 - French Grand Prix)
+**Lowest Race ELO**: 1396 (1982 Round 16 - Caesars Palace Grand Prix)
+**Global ELO**: 1500 → 1377
+**Peak Global ELO**: 1496 (1975 Round 12 - Austrian Grand Prix)
+**Lowest Global ELO**: 1377 (1982 Round 16 - Caesars Palace Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -54,9 +66,3 @@
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | qualifying | Tyrrell | 19 | 1337 | -6 | 1330 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | race | Tyrrell | 8 | 1416 | -19 | 1396 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | global | Tyrrell | Q:19/R:8 | 1392 | -15 | 1377 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1330 (Peak: 1487)
-**Race ELO**: 1500 → 1396 (Peak: 1466)
-**Global ELO**: 1500 → 1377 (Peak: 1496)

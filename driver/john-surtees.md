@@ -5,6 +5,18 @@
 **Seasons**: [1962](../results/1962-season-report.md) • [1963](../results/1963-season-report.md) • [1964](../results/1964-season-report.md) • [1965](../results/1965-season-report.md) • [1966](../results/1966-season-report.md) • [1968](../results/1968-season-report.md) • [1969](../results/1969-season-report.md) • [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md)
 **Total Race Events**: 47 (141 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1567
+**Peak Qualifying ELO**: 1754 (1965 Round 1 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1516 (1962 Round 3 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1532
+**Peak Race ELO**: 1622 (1966 Round 2 - Belgian Grand Prix)
+**Lowest Race ELO**: 1466 (1971 Round 3 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1544
+**Peak Global ELO**: 1650 (1966 Round 2 - Belgian Grand Prix)
+**Lowest Global ELO**: 1505 (1962 Round 3 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -150,9 +162,3 @@
 | 1971 | [Round 10: Canadian Grand Prix](../results/1971-season-report.md#round-10-canadian-grand-prix) | 1971-09-19 | qualifying | Surtees | 14 | 1528 | +39 | 1567 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
 | 1971 | [Round 10: Canadian Grand Prix](../results/1971-season-report.md#round-10-canadian-grand-prix) | 1971-09-19 | race | Surtees | DNF | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
 | 1971 | [Round 10: Canadian Grand Prix](../results/1971-season-report.md#round-10-canadian-grand-prix) | 1971-09-19 | global | Surtees | Q:14/R:DNF | 1532 | +12 | 1544 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1567 (Peak: 1754)
-**Race ELO**: 1500 → 1532 (Peak: 1622)
-**Global ELO**: 1500 → 1544 (Peak: 1650)

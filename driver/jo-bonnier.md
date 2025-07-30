@@ -5,6 +5,18 @@
 **Seasons**: [1958](../results/1958-season-report.md) • [1959](../results/1959-season-report.md) • [1960](../results/1960-season-report.md) • [1961](../results/1961-season-report.md) • [1962](../results/1962-season-report.md) • [1964](../results/1964-season-report.md) • [1966](../results/1966-season-report.md) • [1968](../results/1968-season-report.md) • [1971](../results/1971-season-report.md)
 **Total Race Events**: 10 (30 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1459
+**Peak Qualifying ELO**: 1533 (1964 Round 2 - Dutch Grand Prix)
+**Lowest Qualifying ELO**: 1429 (1962 Round 2 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1961 Round 8 - United States Grand Prix)
+**Lowest Race ELO**: 1468 (1961 Round 8 - United States Grand Prix)
+**Global ELO**: 1500 → 1488
+**Peak Global ELO**: 1510 (1964 Round 2 - Dutch Grand Prix)
+**Lowest Global ELO**: 1456 (1962 Round 2 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -39,9 +51,3 @@
 | 1971 | [Round 9: Italian Grand Prix](../results/1971-season-report.md#round-9-italian-grand-prix) | 1971-09-05 | qualifying | McLaren | 21 | 1500 | -41 | 1459 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Oliver |
 | 1971 | [Round 9: Italian Grand Prix](../results/1971-season-report.md#round-9-italian-grand-prix) | 1971-09-05 | race | McLaren | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Oliver |
 | 1971 | [Round 9: Italian Grand Prix](../results/1971-season-report.md#round-9-italian-grand-prix) | 1971-09-05 | global | McLaren | Q:21/R:DNF | 1500 | -12 | 1488 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Oliver |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1459 (Peak: 1533)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1488 (Peak: 1510)

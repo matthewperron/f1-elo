@@ -5,6 +5,15 @@
 **Seasons**: [1957](../results/1957-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1497
+**Peak Qualifying ELO**: 1532 (1957 Round 2 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1497 (1957 Round 4 - French Grand Prix)
+**Global ELO**: 1500 → 1499
+**Peak Global ELO**: 1510 (1957 Round 2 - Monaco Grand Prix)
+**Lowest Global ELO**: 1499 (1957 Round 4 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,8 +24,3 @@
 | 1957 | [Round 4: French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix) | 1957-07-07 | qualifying | Connaught | 10 | 1532 | -35 | 1497 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Roy Salvadori |
 | 1957 | [Round 4: French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix) | 1957-07-07 | race | Connaught | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Roy Salvadori |
 | 1957 | [Round 4: French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix) | 1957-07-07 | global | Connaught | Q:10/R:DNF | 1510 | -10 | 1499 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Roy Salvadori |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1497 (Peak: 1532)
-**Global ELO**: 1500 → 1499 (Peak: 1510)

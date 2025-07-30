@@ -5,6 +5,15 @@
 **Seasons**: [1960](../results/1960-season-report.md) • [1962](../results/1962-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1508
+**Peak Qualifying ELO**: 1561 (1960 Round 8 - Portuguese Grand Prix)
+**Lowest Qualifying ELO**: 1473 (1962 Round 3 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1502
+**Peak Global ELO**: 1518 (1960 Round 8 - Portuguese Grand Prix)
+**Lowest Global ELO**: 1492 (1962 Round 3 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,8 +30,3 @@
 | 1962 | [Round 4: French Grand Prix](../results/1962-season-report.md#round-4-french-grand-prix) | 1962-07-08 | qualifying | Lotus-BRM | 7 | 1473 | +34 | 1508 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
 | 1962 | [Round 4: French Grand Prix](../results/1962-season-report.md#round-4-french-grand-prix) | 1962-07-08 | race | Lotus-BRM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
 | 1962 | [Round 4: French Grand Prix](../results/1962-season-report.md#round-4-french-grand-prix) | 1962-07-08 | global | Lotus-BRM | Q:7/R:DNF | 1492 | +10 | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1508 (Peak: 1561)
-**Global ELO**: 1500 → 1502 (Peak: 1518)

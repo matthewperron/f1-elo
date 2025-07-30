@@ -5,6 +5,18 @@
 **Seasons**: [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1977](../results/1977-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md)
 **Total Race Events**: 125 (375 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1357
+**Peak Qualifying ELO**: 1722 (1981 Round 14 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1357 (1986 Round 9 - British Grand Prix)
+**Race ELO**: 1500 → 1375
+**Peak Race ELO**: 1612 (1980 Round 3 - South African Grand Prix)
+**Lowest Race ELO**: 1371 (1985 Round 4 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1369
+**Peak Global ELO**: 1633 (1980 Round 3 - South African Grand Prix)
+**Lowest Global ELO**: 1369 (1986 Round 9 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -384,9 +396,3 @@
 | 1986 | [Round 9: British Grand Prix](../results/1986-season-report.md#round-9-british-grand-prix) | 1986-07-13 | qualifying | Ligier | 19 | 1373 | -16 | 1357 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux |
 | 1986 | [Round 9: British Grand Prix](../results/1986-season-report.md#round-9-british-grand-prix) | 1986-07-13 | race | Ligier | DNF | 1375 | N/A | 1375 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux |
 | 1986 | [Round 9: British Grand Prix](../results/1986-season-report.md#round-9-british-grand-prix) | 1986-07-13 | global | Ligier | Q:19/R:DNF | 1374 | -5 | 1369 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1357 (Peak: 1722)
-**Race ELO**: 1500 → 1375 (Peak: 1612)
-**Global ELO**: 1500 → 1369 (Peak: 1633)

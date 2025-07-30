@@ -5,6 +5,15 @@
 **Seasons**: [1964](../results/1964-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1449
+**Peak Qualifying ELO**: 1472 (1964 Round 9 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1449 (1964 Round 10 - Mexican Grand Prix)
+**Global ELO**: 1500 → 1485
+**Peak Global ELO**: 1492 (1964 Round 9 - United States Grand Prix)
+**Lowest Global ELO**: 1485 (1964 Round 10 - Mexican Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,8 +24,3 @@
 | 1964 | [Round 10: Mexican Grand Prix](../results/1964-season-report.md#round-10-mexican-grand-prix) | 1964-10-25 | qualifying | Brabham-BRM | 19 | 1472 | -23 | 1449 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
 | 1964 | [Round 10: Mexican Grand Prix](../results/1964-season-report.md#round-10-mexican-grand-prix) | 1964-10-25 | race | Brabham-BRM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
 | 1964 | [Round 10: Mexican Grand Prix](../results/1964-season-report.md#round-10-mexican-grand-prix) | 1964-10-25 | global | Brabham-BRM | Q:19/R:DNF | 1492 | -7 | 1485 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1449 (Peak: 1472)
-**Global ELO**: 1500 → 1485 (Peak: 1492)

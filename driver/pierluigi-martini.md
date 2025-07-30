@@ -5,6 +5,18 @@
 **Seasons**: [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md)
 **Total Race Events**: 94 (282 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1636
+**Peak Qualifying ELO**: 1819 (1991 Round 2 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1490 (1988 Round 10 - Hungarian Grand Prix)
+**Race ELO**: 1500 → 1615
+**Peak Race ELO**: 1693 (1992 Round 7 - Canadian Grand Prix)
+**Lowest Race ELO**: 1496 (1993 Round 10 - German Grand Prix)
+**Global ELO**: 1500 → 1625
+**Peak Global ELO**: 1698 (1991 Round 2 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1497 (1988 Round 10 - Hungarian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -291,9 +303,3 @@
 | 1995 | [Round 9: German Grand Prix](../results/1995-season-report.md#round-9-german-grand-prix) | 1995-07-30 | qualifying | Minardi | 20 | 1679 | -43 | 1636 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer |
 | 1995 | [Round 9: German Grand Prix](../results/1995-season-report.md#round-9-german-grand-prix) | 1995-07-30 | race | Minardi | DNF | 1615 | N/A | 1615 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer |
 | 1995 | [Round 9: German Grand Prix](../results/1995-season-report.md#round-9-german-grand-prix) | 1995-07-30 | global | Minardi | Q:20/R:DNF | 1638 | -13 | 1625 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1636 (Peak: 1819)
-**Race ELO**: 1500 → 1615 (Peak: 1693)
-**Global ELO**: 1500 → 1625 (Peak: 1698)

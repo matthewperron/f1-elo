@@ -5,6 +5,18 @@
 **Seasons**: [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md) • [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md)
 **Total Race Events**: 90 (270 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1306
+**Peak Qualifying ELO**: 1622 (1974 Round 2 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1284 (1977 Round 12 - Austrian Grand Prix)
+**Race ELO**: 1500 → 1394
+**Peak Race ELO**: 1465 (1970 Round 5 - Dutch Grand Prix)
+**Lowest Race ELO**: 1307 (1974 Round 9 - French Grand Prix)
+**Global ELO**: 1500 → 1366
+**Peak Global ELO**: 1484 (1978 Round 14 - Italian Grand Prix)
+**Lowest Global ELO**: 1324 (1975 Round 12 - Austrian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -279,9 +291,3 @@
 | 1979 | [Round 15: United States Grand Prix](../results/1979-season-report.md#round-15-united-states-grand-prix) | 1979-10-07 | qualifying | Williams | 5 | 1312 | -6 | 1306 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
 | 1979 | [Round 15: United States Grand Prix](../results/1979-season-report.md#round-15-united-states-grand-prix) | 1979-10-07 | race | Williams | DNF | 1394 | N/A | 1394 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
 | 1979 | [Round 15: United States Grand Prix](../results/1979-season-report.md#round-15-united-states-grand-prix) | 1979-10-07 | global | Williams | Q:5/R:DNF | 1368 | -2 | 1366 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1306 (Peak: 1622)
-**Race ELO**: 1500 → 1394 (Peak: 1465)
-**Global ELO**: 1500 → 1366 (Peak: 1484)

@@ -5,6 +5,18 @@
 **Seasons**: [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1983](../results/1983-season-report.md) • [1986](../results/1986-season-report.md)
 **Total Race Events**: 82 (246 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1434
+**Peak Qualifying ELO**: 1756 (1981 Round 1 - United States Grand Prix West)
+**Lowest Qualifying ELO**: 1363 (1975 Round 11 - German Grand Prix)
+**Race ELO**: 1500 → 1504
+**Peak Race ELO**: 1592 (1980 Round 7 - French Grand Prix)
+**Lowest Race ELO**: 1416 (1981 Round 7 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1482
+**Peak Global ELO**: 1631 (1980 Round 7 - French Grand Prix)
+**Lowest Global ELO**: 1436 (1975 Round 11 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -255,9 +267,3 @@
 | 1986 | [Round 16: Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix) | 1986-10-26 | qualifying | Lola | 15 | 1381 | +53 | 1434 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
 | 1986 | [Round 16: Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix) | 1986-10-26 | race | Lola | DNF | 1504 | N/A | 1504 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
 | 1986 | [Round 16: Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix) | 1986-10-26 | global | Lola | Q:15/R:DNF | 1467 | +16 | 1482 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1434 (Peak: 1756)
-**Race ELO**: 1500 → 1504 (Peak: 1592)
-**Global ELO**: 1500 → 1482 (Peak: 1631)

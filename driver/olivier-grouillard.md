@@ -5,6 +5,18 @@
 **Seasons**: [1989](../results/1989-season-report.md) • [1992](../results/1992-season-report.md)
 **Total Race Events**: 23 (69 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1411
+**Peak Qualifying ELO**: 1671 (1989 Round 16 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1372 (1992 Round 9 - British Grand Prix)
+**Race ELO**: 1500 → 1477
+**Peak Race ELO**: 1528 (1989 Round 4 - Mexican Grand Prix)
+**Lowest Race ELO**: 1477 (1992 Round 7 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1458
+**Peak Global ELO**: 1571 (1989 Round 16 - Australian Grand Prix)
+**Lowest Global ELO**: 1446 (1992 Round 9 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -78,9 +90,3 @@
 | 1992 | [Round 16: Australian Grand Prix](../results/1992-season-report.md#round-16-australian-grand-prix) | 1992-11-08 | qualifying | Tyrrell | 13 | 1424 | -13 | 1411 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris |
 | 1992 | [Round 16: Australian Grand Prix](../results/1992-season-report.md#round-16-australian-grand-prix) | 1992-11-08 | race | Tyrrell | DNF | 1477 | N/A | 1477 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris |
 | 1992 | [Round 16: Australian Grand Prix](../results/1992-season-report.md#round-16-australian-grand-prix) | 1992-11-08 | global | Tyrrell | Q:13/R:DNF | 1461 | -4 | 1458 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1411 (Peak: 1671)
-**Race ELO**: 1500 → 1477 (Peak: 1528)
-**Global ELO**: 1500 → 1458 (Peak: 1571)

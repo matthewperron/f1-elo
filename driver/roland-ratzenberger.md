@@ -5,6 +5,15 @@
 **Seasons**: [1994](../results/1994-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1506
+**Peak Qualifying ELO**: 1506 (1994 Round 3 - San Marino Grand Prix)
+**Lowest Qualifying ELO**: 1468 (1994 Round 2 - Pacific Grand Prix)
+**Global ELO**: 1500 → 1502
+**Peak Global ELO**: 1502 (1994 Round 3 - San Marino Grand Prix)
+**Lowest Global ELO**: 1490 (1994 Round 2 - Pacific Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,8 +24,3 @@
 | 1994 | [Round 3: San Marino Grand Prix](../results/1994-season-report.md#round-3-san-marino-grand-prix) | 1994-05-01 | qualifying | Simtek | 0 | 1468 | +38 | 1506 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham |
 | 1994 | [Round 3: San Marino Grand Prix](../results/1994-season-report.md#round-3-san-marino-grand-prix) | 1994-05-01 | race | Simtek | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham |
 | 1994 | [Round 3: San Marino Grand Prix](../results/1994-season-report.md#round-3-san-marino-grand-prix) | 1994-05-01 | global | Simtek | Q:0/R:DNF | 1490 | +11 | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1506 (Peak: 1506)
-**Global ELO**: 1500 → 1502 (Peak: 1502)

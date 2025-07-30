@@ -5,6 +5,18 @@
 **Seasons**: [1965](../results/1965-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1553
+**Peak Qualifying ELO**: 1567 (1965 Round 3 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1479 (1965 Round 7 - German Grand Prix)
+**Race ELO**: 1500 → 1506
+**Peak Race ELO**: 1506 (1965 Round 8 - Italian Grand Prix)
+**Lowest Race ELO**: 1468 (1965 Round 6 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1520
+**Peak Global ELO**: 1520 (1965 Round 3 - Belgian Grand Prix)
+**Lowest Global ELO**: 1471 (1965 Round 7 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,9 +42,3 @@
 | 1965 | [Round 9: United States Grand Prix](../results/1965-season-report.md#round-9-united-states-grand-prix) | 1965-10-03 | qualifying | Lotus-BRM | 16 | 1520 | +34 | 1553 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland |
 | 1965 | [Round 9: United States Grand Prix](../results/1965-season-report.md#round-9-united-states-grand-prix) | 1965-10-03 | race | Lotus-BRM | DNF | 1506 | N/A | 1506 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland |
 | 1965 | [Round 9: United States Grand Prix](../results/1965-season-report.md#round-9-united-states-grand-prix) | 1965-10-03 | global | Lotus-BRM | Q:16/R:DNF | 1510 | +10 | 1520 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1553 (Peak: 1567)
-**Race ELO**: 1500 → 1506 (Peak: 1506)
-**Global ELO**: 1500 → 1520 (Peak: 1520)

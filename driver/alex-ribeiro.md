@@ -5,6 +5,18 @@
 **Seasons**: [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md)
 **Total Race Events**: 5 (15 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1433
+**Peak Qualifying ELO**: 1472 (1976 Round 15 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1393 (1977 Round 11 - German Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1977 Round 13 - Dutch Grand Prix)
+**Lowest Race ELO**: 1468 (1977 Round 13 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1458
+**Peak Global ELO**: 1492 (1976 Round 15 - United States Grand Prix)
+**Lowest Global ELO**: 1458 (1977 Round 13 - Dutch Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -24,9 +36,3 @@
 | 1977 | [Round 13: Dutch Grand Prix](../results/1977-season-report.md#round-13-dutch-grand-prix) | 1977-08-28 | qualifying | March | 24 | 1393 | +40 | 1433 | Ian Scheckter |
 | 1977 | [Round 13: Dutch Grand Prix](../results/1977-season-report.md#round-13-dutch-grand-prix) | 1977-08-28 | race | March | 11 | 1500 | -32 | 1468 | Ian Scheckter |
 | 1977 | [Round 13: Dutch Grand Prix](../results/1977-season-report.md#round-13-dutch-grand-prix) | 1977-08-28 | global | March | Q:24/R:11 | 1468 | -10 | 1458 | Ian Scheckter |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1433 (Peak: 1472)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1458 (Peak: 1492)

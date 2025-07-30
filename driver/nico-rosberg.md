@@ -5,6 +5,18 @@
 **Seasons**: [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md)
 **Total Race Events**: 206 (618 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1678
+**Peak Qualifying ELO**: 1879 (2014 Round 12 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1488 (2006 Round 7 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1562
+**Peak Race ELO**: 1732 (2016 Round 4 - Russian Grand Prix)
+**Lowest Race ELO**: 1413 (2007 Round 6 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1598
+**Peak Global ELO**: 1757 (2016 Round 4 - Russian Grand Prix)
+**Lowest Global ELO**: 1460 (2006 Round 7 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -627,9 +639,3 @@
 | 2016 | [Round 21: Abu Dhabi Grand Prix](../results/2016-season-report.md#round-21-abu-dhabi-grand-prix) | 2016-11-27 | qualifying | Mercedes | 2 | 1699 | -21 | 1678 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton |
 | 2016 | [Round 21: Abu Dhabi Grand Prix](../results/2016-season-report.md#round-21-abu-dhabi-grand-prix) | 2016-11-27 | race | Mercedes | 2 | 1586 | -24 | 1562 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton |
 | 2016 | [Round 21: Abu Dhabi Grand Prix](../results/2016-season-report.md#round-21-abu-dhabi-grand-prix) | 2016-11-27 | global | Mercedes | Q:2/R:2 | 1622 | -23 | 1598 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1678 (Peak: 1879)
-**Race ELO**: 1500 → 1562 (Peak: 1732)
-**Global ELO**: 1500 → 1598 (Peak: 1757)

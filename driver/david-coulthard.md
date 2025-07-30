@@ -5,6 +5,18 @@
 **Seasons**: [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md)
 **Total Race Events**: 247 (741 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1528
+**Peak Qualifying ELO**: 1649 (2001 Round 10 - French Grand Prix)
+**Lowest Qualifying ELO**: 1297 (1995 Round 1 - Brazilian Grand Prix)
+**Race ELO**: 1500 → 1470
+**Peak Race ELO**: 1649 (2002 Round 8 - Canadian Grand Prix)
+**Lowest Race ELO**: 1341 (1995 Round 10 - Hungarian Grand Prix)
+**Global ELO**: 1500 → 1489
+**Peak Global ELO**: 1634 (2001 Round 15 - Italian Grand Prix)
+**Lowest Global ELO**: 1333 (1995 Round 10 - Hungarian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -750,9 +762,3 @@
 | 2008 | [Round 18: Brazilian Grand Prix](../results/2008-season-report.md#round-18-brazilian-grand-prix) | 2008-11-02 | qualifying | Red Bull | 14 | 1543 | -15 | 1528 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber |
 | 2008 | [Round 18: Brazilian Grand Prix](../results/2008-season-report.md#round-18-brazilian-grand-prix) | 2008-11-02 | race | Red Bull | DNF | 1470 | N/A | 1470 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber |
 | 2008 | [Round 18: Brazilian Grand Prix](../results/2008-season-report.md#round-18-brazilian-grand-prix) | 2008-11-02 | global | Red Bull | Q:14/R:DNF | 1493 | -4 | 1489 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1528 (Peak: 1649)
-**Race ELO**: 1500 → 1470 (Peak: 1649)
-**Global ELO**: 1500 → 1489 (Peak: 1634)

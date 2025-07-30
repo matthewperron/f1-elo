@@ -5,6 +5,18 @@
 **Seasons**: [2002](../results/2002-season-report.md)
 **Total Race Events**: 17 (51 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1385
+**Peak Qualifying ELO**: 1468 (2002 Round 1 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1323 (2002 Round 11 - French Grand Prix)
+**Race ELO**: 1500 → 1472
+**Peak Race ELO**: 1558 (2002 Round 5 - Spanish Grand Prix)
+**Lowest Race ELO**: 1472 (2002 Round 16 - United States Grand Prix)
+**Global ELO**: 1500 → 1446
+**Peak Global ELO**: 1506 (2002 Round 5 - Spanish Grand Prix)
+**Lowest Global ELO**: 1446 (2002 Round 17 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -60,9 +72,3 @@
 | 2002 | [Round 17: Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix) | 2002-10-13 | qualifying | Toyota | 18 | 1400 | -15 | 1385 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo |
 | 2002 | [Round 17: Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix) | 2002-10-13 | race | Toyota | DNF | 1472 | N/A | 1472 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo |
 | 2002 | [Round 17: Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix) | 2002-10-13 | global | Toyota | Q:18/R:DNF | 1450 | -4 | 1446 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1385 (Peak: 1468)
-**Race ELO**: 1500 → 1472 (Peak: 1558)
-**Global ELO**: 1500 → 1446 (Peak: 1506)

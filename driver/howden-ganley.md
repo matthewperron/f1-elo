@@ -5,6 +5,18 @@
 **Seasons**: [1971](../results/1971-season-report.md) • [1973](../results/1973-season-report.md)
 **Total Race Events**: 14 (42 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1631
+**Peak Qualifying ELO**: 1631 (1973 Round 15 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1456 (1973 Round 5 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1502
+**Peak Race ELO**: 1532 (1971 Round 6 - British Grand Prix)
+**Lowest Race ELO**: 1502 (1973 Round 15 - United States Grand Prix)
+**Global ELO**: 1500 → 1540
+**Peak Global ELO**: 1553 (1973 Round 14 - Canadian Grand Prix)
+**Lowest Global ELO**: 1489 (1973 Round 1 - Argentine Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -51,9 +63,3 @@
 | 1973 | [Round 15: United States Grand Prix](../results/1973-season-report.md#round-15-united-states-grand-prix) | 1973-10-07 | qualifying | Iso Marlboro | 19 | 1608 | +23 | 1631 | Jacky Ickx |
 | 1973 | [Round 15: United States Grand Prix](../results/1973-season-report.md#round-15-united-states-grand-prix) | 1973-10-07 | race | Iso Marlboro | 12 | 1530 | -28 | 1502 | Jacky Ickx |
 | 1973 | [Round 15: United States Grand Prix](../results/1973-season-report.md#round-15-united-states-grand-prix) | 1973-10-07 | global | Iso Marlboro | Q:19/R:12 | 1553 | -13 | 1540 | Jacky Ickx |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1631 (Peak: 1631)
-**Race ELO**: 1500 → 1502 (Peak: 1532)
-**Global ELO**: 1500 → 1540 (Peak: 1553)

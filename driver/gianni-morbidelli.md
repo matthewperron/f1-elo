@@ -5,6 +5,18 @@
 **Seasons**: [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1997](../results/1997-season-report.md)
 **Total Race Events**: 64 (192 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1492
+**Peak Qualifying ELO**: 1696 (1995 Round 17 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1434 (1997 Round 15 - Luxembourg Grand Prix)
+**Race ELO**: 1500 → 1375
+**Peak Race ELO**: 1522 (1995 Round 6 - Canadian Grand Prix)
+**Lowest Race ELO**: 1375 (1997 Round 15 - Luxembourg Grand Prix)
+**Global ELO**: 1500 → 1410
+**Peak Global ELO**: 1573 (1995 Round 17 - Australian Grand Prix)
+**Lowest Global ELO**: 1393 (1997 Round 15 - Luxembourg Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -201,9 +213,3 @@
 | 1997 | [Round 16: Japanese Grand Prix](../results/1997-season-report.md#round-16-japanese-grand-prix) | 1997-10-12 | qualifying | Sauber | 0 | 1434 | +58 | 1492 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert |
 | 1997 | [Round 16: Japanese Grand Prix](../results/1997-season-report.md#round-16-japanese-grand-prix) | 1997-10-12 | race | Sauber | DNF | 1375 | N/A | 1375 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert |
 | 1997 | [Round 16: Japanese Grand Prix](../results/1997-season-report.md#round-16-japanese-grand-prix) | 1997-10-12 | global | Sauber | Q:0/R:DNF | 1393 | +17 | 1410 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1492 (Peak: 1696)
-**Race ELO**: 1500 → 1375 (Peak: 1522)
-**Global ELO**: 1500 → 1410 (Peak: 1573)

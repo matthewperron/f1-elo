@@ -5,6 +5,18 @@
 **Seasons**: [2003](../results/2003-season-report.md)
 **Total Race Events**: 5 (15 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1394
+**Peak Qualifying ELO**: 1470 (2003 Round 12 - German Grand Prix)
+**Lowest Qualifying ELO**: 1394 (2003 Round 16 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1467
+**Peak Race ELO**: 1467 (2003 Round 16 - Japanese Grand Prix)
+**Lowest Race ELO**: 1467 (2003 Round 16 - Japanese Grand Prix)
+**Global ELO**: 1500 → 1445
+**Peak Global ELO**: 1491 (2003 Round 12 - German Grand Prix)
+**Lowest Global ELO**: 1445 (2003 Round 16 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -24,9 +36,3 @@
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | qualifying | Minardi | 18 | 1409 | -15 | 1394 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen |
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | race | Minardi | 16 | 1500 | -33 | 1467 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen |
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | global | Minardi | Q:18/R:16 | 1473 | -28 | 1445 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1394 (Peak: 1470)
-**Race ELO**: 1500 → 1467 (Peak: 1467)
-**Global ELO**: 1500 → 1445 (Peak: 1491)

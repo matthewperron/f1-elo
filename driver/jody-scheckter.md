@@ -5,6 +5,18 @@
 **Seasons**: [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md)
 **Total Race Events**: 70 (210 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1410
+**Peak Qualifying ELO**: 1645 (1974 Round 12 - Austrian Grand Prix)
+**Lowest Qualifying ELO**: 1410 (1980 Round 14 - United States Grand Prix)
+**Race ELO**: 1500 → 1399
+**Peak Race ELO**: 1601 (1974 Round 13 - Italian Grand Prix)
+**Lowest Race ELO**: 1399 (1980 Round 11 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1401
+**Peak Global ELO**: 1610 (1974 Round 15 - United States Grand Prix)
+**Lowest Global ELO**: 1401 (1980 Round 14 - United States Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -219,9 +231,3 @@
 | 1980 | [Round 14: United States Grand Prix](../results/1980-season-report.md#round-14-united-states-grand-prix) | 1980-10-05 | qualifying | Ferrari | 23 | 1418 | -8 | 1410 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve |
 | 1980 | [Round 14: United States Grand Prix](../results/1980-season-report.md#round-14-united-states-grand-prix) | 1980-10-05 | race | Ferrari | 11 | 1399 | N/A | 1399 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve |
 | 1980 | [Round 14: United States Grand Prix](../results/1980-season-report.md#round-14-united-states-grand-prix) | 1980-10-05 | global | Ferrari | Q:23/R:11 | 1404 | -2 | 1401 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1410 (Peak: 1645)
-**Race ELO**: 1500 → 1399 (Peak: 1601)
-**Global ELO**: 1500 → 1401 (Peak: 1610)

@@ -5,6 +5,18 @@
 **Seasons**: [1983](../results/1983-season-report.md)
 **Total Race Events**: 15 (45 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1496
+**Peak Qualifying ELO**: 1511 (1983 Round 14 - European Grand Prix)
+**Lowest Qualifying ELO**: 1398 (1983 Round 12 - Dutch Grand Prix)
+**Race ELO**: 1500 → 1534
+**Peak Race ELO**: 1572 (1983 Round 6 - Belgian Grand Prix)
+**Lowest Race ELO**: 1534 (1983 Round 9 - British Grand Prix)
+**Global ELO**: 1500 → 1523
+**Peak Global ELO**: 1531 (1983 Round 6 - Belgian Grand Prix)
+**Lowest Global ELO**: 1493 (1983 Round 12 - Dutch Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -54,9 +66,3 @@
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | qualifying | Tyrrell | 19 | 1511 | -15 | 1496 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | race | Tyrrell | 7 | 1534 | N/A | 1534 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | global | Tyrrell | Q:19/R:7 | 1527 | -4 | 1523 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1496 (Peak: 1511)
-**Race ELO**: 1500 → 1534 (Peak: 1572)
-**Global ELO**: 1500 → 1523 (Peak: 1531)

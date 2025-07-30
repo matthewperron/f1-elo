@@ -5,6 +5,18 @@
 **Seasons**: [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md)
 **Total Race Events**: 257 (771 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1516
+**Peak Qualifying ELO**: 1824 (2020 Round 16 - Sakhir Grand Prix)
+**Lowest Qualifying ELO**: 1443 (2024 Round 4 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1536
+**Peak Race ELO**: 1817 (2014 Round 13 - Italian Grand Prix)
+**Lowest Race ELO**: 1422 (2012 Round 5 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1529
+**Peak Global ELO**: 1795 (2014 Round 17 - United States Grand Prix)
+**Lowest Global ELO**: 1451 (2022 Round 19 - United States Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -780,9 +792,3 @@
 | 2024 | [Round 18: Singapore Grand Prix](../results/2024-season-report.md#round-18-singapore-grand-prix) | 2024-09-22 | qualifying | RB F1 Team | 16 | 1544 | -28 | 1516 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda |
 | 2024 | [Round 18: Singapore Grand Prix](../results/2024-season-report.md#round-18-singapore-grand-prix) | 2024-09-22 | race | RB F1 Team | DNF | 1536 | N/A | 1536 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda |
 | 2024 | [Round 18: Singapore Grand Prix](../results/2024-season-report.md#round-18-singapore-grand-prix) | 2024-09-22 | global | RB F1 Team | Q:16/R:DNF | 1537 | -8 | 1529 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1516 (Peak: 1824)
-**Race ELO**: 1500 → 1536 (Peak: 1817)
-**Global ELO**: 1500 → 1529 (Peak: 1795)

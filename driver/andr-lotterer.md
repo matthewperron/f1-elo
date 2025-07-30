@@ -5,6 +5,15 @@
 **Seasons**: [2014](../results/2014-season-report.md)
 **Total Race Events**: 1 (3 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1526
+**Peak Qualifying ELO**: 1526 (2014 Round 12 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1526 (2014 Round 12 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1508
+**Peak Global ELO**: 1508 (2014 Round 12 - Belgian Grand Prix)
+**Lowest Global ELO**: 1508 (2014 Round 12 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -12,8 +21,3 @@
 | 2014 | [Round 12: Belgian Grand Prix](../results/2014-season-report.md#round-12-belgian-grand-prix) | 2014-08-24 | qualifying | Caterham | 21 | 1500 | +26 | 1526 | Marcus Ericsson |
 | 2014 | [Round 12: Belgian Grand Prix](../results/2014-season-report.md#round-12-belgian-grand-prix) | 2014-08-24 | race | Caterham | DNF | 1500 | N/A | 1500 | Marcus Ericsson |
 | 2014 | [Round 12: Belgian Grand Prix](../results/2014-season-report.md#round-12-belgian-grand-prix) | 2014-08-24 | global | Caterham | Q:21/R:DNF | 1500 | +8 | 1508 | Marcus Ericsson |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1526 (Peak: 1526)
-**Global ELO**: 1500 → 1508 (Peak: 1508)

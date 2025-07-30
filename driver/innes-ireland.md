@@ -5,6 +5,18 @@
 **Seasons**: [1959](../results/1959-season-report.md) • [1964](../results/1964-season-report.md) • [1965](../results/1965-season-report.md)
 **Total Race Events**: 17 (51 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1504
+**Peak Qualifying ELO**: 1579 (1965 Round 6 - Dutch Grand Prix)
+**Lowest Qualifying ELO**: 1405 (1959 Round 8 - Italian Grand Prix)
+**Race ELO**: 1500 → 1494
+**Peak Race ELO**: 1532 (1959 Round 3 - Dutch Grand Prix)
+**Lowest Race ELO**: 1494 (1965 Round 8 - Italian Grand Prix)
+**Global ELO**: 1500 → 1497
+**Peak Global ELO**: 1546 (1965 Round 6 - Dutch Grand Prix)
+**Lowest Global ELO**: 1490 (1964 Round 3 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -60,9 +72,3 @@
 | 1965 | [Round 9: United States Grand Prix](../results/1965-season-report.md#round-9-united-states-grand-prix) | 1965-10-03 | qualifying | Lotus-BRM | 18 | 1538 | -34 | 1504 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Richard Attwood |
 | 1965 | [Round 9: United States Grand Prix](../results/1965-season-report.md#round-9-united-states-grand-prix) | 1965-10-03 | race | Lotus-BRM | DNF | 1494 | N/A | 1494 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Richard Attwood |
 | 1965 | [Round 9: United States Grand Prix](../results/1965-season-report.md#round-9-united-states-grand-prix) | 1965-10-03 | global | Lotus-BRM | Q:18/R:DNF | 1507 | -10 | 1497 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Richard Attwood |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1504 (Peak: 1579)
-**Race ELO**: 1500 → 1494 (Peak: 1532)
-**Global ELO**: 1500 → 1497 (Peak: 1546)

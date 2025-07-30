@@ -5,6 +5,18 @@
 **Seasons**: [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 222 (666 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1957
+**Peak Qualifying ELO**: 1957 (2025 Round 13 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1419 (2015 Round 7 - Canadian Grand Prix)
+**Race ELO**: 1500 → 2037
+**Peak Race ELO**: 2037 (2025 Round 13 - Belgian Grand Prix)
+**Lowest Race ELO**: 1438 (2015 Round 12 - Italian Grand Prix)
+**Global ELO**: 1500 → 2013
+**Peak Global ELO**: 2013 (2025 Round 13 - Belgian Grand Prix)
+**Lowest Global ELO**: 1435 (2015 Round 12 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -675,9 +687,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Red Bull | 4 | 1951 | +6 | 1957 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Red Bull | 4 | 2033 | +4 | 2037 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Red Bull | Q:4/R:4 | 2008 | +5 | 2013 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1957 (Peak: 1957)
-**Race ELO**: 1500 → 2037 (Peak: 2037)
-**Global ELO**: 1500 → 2013 (Peak: 2013)

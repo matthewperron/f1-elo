@@ -5,6 +5,18 @@
 **Seasons**: [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md)
 **Total Race Events**: 158 (474 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1555
+**Peak Qualifying ELO**: 1792 (1998 Round 5 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1422 (1995 Round 17 - Australian Grand Prix)
+**Race ELO**: 1500 → 1437
+**Peak Race ELO**: 1652 (1997 Round 17 - European Grand Prix)
+**Lowest Race ELO**: 1437 (2004 Round 17 - Japanese Grand Prix)
+**Global ELO**: 1500 → 1473
+**Peak Global ELO**: 1693 (1998 Round 5 - Spanish Grand Prix)
+**Lowest Global ELO**: 1473 (2004 Round 17 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -483,9 +495,3 @@
 | 2004 | [Round 17: Japanese Grand Prix](../results/2004-season-report.md#round-17-japanese-grand-prix) | 2004-10-10 | qualifying | Toyota | 10 | 1585 | -30 | 1555 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
 | 2004 | [Round 17: Japanese Grand Prix](../results/2004-season-report.md#round-17-japanese-grand-prix) | 2004-10-10 | race | Toyota | 14 | 1461 | -24 | 1437 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
 | 2004 | [Round 17: Japanese Grand Prix](../results/2004-season-report.md#round-17-japanese-grand-prix) | 2004-10-10 | global | Toyota | Q:10/R:14 | 1498 | -26 | 1473 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1555 (Peak: 1792)
-**Race ELO**: 1500 → 1437 (Peak: 1652)
-**Global ELO**: 1500 → 1473 (Peak: 1693)

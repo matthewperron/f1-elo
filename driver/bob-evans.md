@@ -5,6 +5,15 @@
 **Seasons**: [1976](../results/1976-season-report.md)
 **Total Race Events**: 1 (3 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1532
+**Peak Qualifying ELO**: 1532 (1976 Round 2 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1532 (1976 Round 2 - South African Grand Prix)
+**Global ELO**: 1500 → 1510
+**Peak Global ELO**: 1510 (1976 Round 2 - South African Grand Prix)
+**Lowest Global ELO**: 1510 (1976 Round 2 - South African Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -12,8 +21,3 @@
 | 1976 | [Round 2: South African Grand Prix](../results/1976-season-report.md#round-2-south-african-grand-prix) | 1976-03-06 | qualifying | Team Lotus | 23 | 1500 | +32 | 1532 | Gunnar Nilsson |
 | 1976 | [Round 2: South African Grand Prix](../results/1976-season-report.md#round-2-south-african-grand-prix) | 1976-03-06 | race | Team Lotus | 10 | 1500 | N/A | 1500 | Gunnar Nilsson |
 | 1976 | [Round 2: South African Grand Prix](../results/1976-season-report.md#round-2-south-african-grand-prix) | 1976-03-06 | global | Team Lotus | Q:23/R:10 | 1500 | +10 | 1510 | Gunnar Nilsson |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1532 (Peak: 1532)
-**Global ELO**: 1500 → 1510 (Peak: 1510)

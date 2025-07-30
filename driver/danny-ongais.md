@@ -5,6 +5,15 @@
 **Seasons**: [1978](../results/1978-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1494
+**Peak Qualifying ELO**: 1532 (1978 Round 1 - Argentine Grand Prix)
+**Lowest Qualifying ELO**: 1494 (1978 Round 2 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1498
+**Peak Global ELO**: 1510 (1978 Round 1 - Argentine Grand Prix)
+**Lowest Global ELO**: 1498 (1978 Round 2 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,8 +24,3 @@
 | 1978 | [Round 2: Brazilian Grand Prix](../results/1978-season-report.md#round-2-brazilian-grand-prix) | 1978-01-29 | qualifying | Ensign | 23 | 1532 | -38 | 1494 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lamberto Leoni |
 | 1978 | [Round 2: Brazilian Grand Prix](../results/1978-season-report.md#round-2-brazilian-grand-prix) | 1978-01-29 | race | Ensign | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lamberto Leoni |
 | 1978 | [Round 2: Brazilian Grand Prix](../results/1978-season-report.md#round-2-brazilian-grand-prix) | 1978-01-29 | global | Ensign | Q:23/R:DNF | 1510 | -11 | 1498 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lamberto Leoni |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1494 (Peak: 1532)
-**Global ELO**: 1500 → 1498 (Peak: 1510)

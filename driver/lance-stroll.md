@@ -5,6 +5,18 @@
 **Seasons**: [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 180 (540 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1251
+**Peak Qualifying ELO**: 1579 (2021 Round 17 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1190 (2025 Round 12 - British Grand Prix)
+**Race ELO**: 1500 → 1519
+**Peak Race ELO**: 1587 (2020 Round 8 - Italian Grand Prix)
+**Lowest Race ELO**: 1375 (2017 Round 12 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1435
+**Peak Global ELO**: 1575 (2021 Round 16 - Turkish Grand Prix)
+**Lowest Global ELO**: 1350 (2020 Round 1 - Austrian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -549,9 +561,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Aston Martin | 16 | 1190 | +60 | 1251 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Aston Martin | 14 | 1474 | +45 | 1519 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Aston Martin | Q:16/R:14 | 1386 | +50 | 1435 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1251 (Peak: 1579)
-**Race ELO**: 1500 → 1519 (Peak: 1587)
-**Global ELO**: 1500 → 1435 (Peak: 1575)

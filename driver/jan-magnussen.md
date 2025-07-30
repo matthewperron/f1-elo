@@ -5,6 +5,18 @@
 **Seasons**: [1995](../results/1995-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md)
 **Total Race Events**: 25 (75 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1349
+**Peak Qualifying ELO**: 1475 (1997 Round 1 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1349 (1998 Round 7 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1422
+**Peak Race ELO**: 1469 (1997 Round 5 - Monaco Grand Prix)
+**Lowest Race ELO**: 1422 (1998 Round 7 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1401
+**Peak Global ELO**: 1493 (1997 Round 1 - Australian Grand Prix)
+**Lowest Global ELO**: 1401 (1998 Round 7 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -84,9 +96,3 @@
 | 1998 | [Round 7: Canadian Grand Prix](../results/1998-season-report.md#round-7-canadian-grand-prix) | 1998-06-07 | qualifying | Stewart | 20 | 1356 | -7 | 1349 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
 | 1998 | [Round 7: Canadian Grand Prix](../results/1998-season-report.md#round-7-canadian-grand-prix) | 1998-06-07 | race | Stewart | 6 | 1443 | -21 | 1422 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
 | 1998 | [Round 7: Canadian Grand Prix](../results/1998-season-report.md#round-7-canadian-grand-prix) | 1998-06-07 | global | Stewart | Q:20/R:6 | 1417 | -17 | 1401 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1349 (Peak: 1475)
-**Race ELO**: 1500 → 1422 (Peak: 1469)
-**Global ELO**: 1500 → 1401 (Peak: 1493)

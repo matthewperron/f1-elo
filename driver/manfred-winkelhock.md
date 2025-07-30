@@ -5,6 +5,18 @@
 **Seasons**: [1982](../results/1982-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md)
 **Total Race Events**: 21 (63 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1502
+**Peak Qualifying ELO**: 1661 (1982 Round 14 - Swiss Grand Prix)
+**Lowest Qualifying ELO**: 1462 (1984 Round 16 - Portuguese Grand Prix)
+**Race ELO**: 1500 → 1485
+**Peak Race ELO**: 1506 (1982 Round 9 - Dutch Grand Prix)
+**Lowest Race ELO**: 1468 (1982 Round 1 - South African Grand Prix)
+**Global ELO**: 1500 → 1490
+**Peak Global ELO**: 1553 (1982 Round 14 - Swiss Grand Prix)
+**Lowest Global ELO**: 1468 (1982 Round 1 - South African Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -72,9 +84,3 @@
 | 1985 | [Round 9: German Grand Prix](../results/1985-season-report.md#round-9-german-grand-prix) | 1985-08-04 | qualifying | RAM | 22 | 1552 | -50 | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot |
 | 1985 | [Round 9: German Grand Prix](../results/1985-season-report.md#round-9-german-grand-prix) | 1985-08-04 | race | RAM | DNF | 1485 | N/A | 1485 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot |
 | 1985 | [Round 9: German Grand Prix](../results/1985-season-report.md#round-9-german-grand-prix) | 1985-08-04 | global | RAM | Q:22/R:DNF | 1505 | -15 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1502 (Peak: 1661)
-**Race ELO**: 1500 → 1485 (Peak: 1506)
-**Global ELO**: 1500 → 1490 (Peak: 1553)

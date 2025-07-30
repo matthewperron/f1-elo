@@ -5,6 +5,18 @@
 **Seasons**: [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md) • [1974](../results/1974-season-report.md)
 **Total Race Events**: 11 (33 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1526
+**Peak Qualifying ELO**: 1553 (1971 Round 2 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1431 (1970 Round 10 - Italian Grand Prix)
+**Race ELO**: 1500 → 1458
+**Peak Race ELO**: 1458 (1971 Round 2 - Spanish Grand Prix)
+**Lowest Race ELO**: 1458 (1971 Round 2 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1508
+**Peak Global ELO**: 1508 (1974 Round 10 - British Grand Prix)
+**Lowest Global ELO**: 1453 (1971 Round 7 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -42,9 +54,3 @@
 | 1974 | [Round 10: British Grand Prix](../results/1974-season-report.md#round-10-british-grand-prix) | 1974-07-20 | qualifying | Lola | 21 | 1500 | +26 | 1526 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
 | 1974 | [Round 10: British Grand Prix](../results/1974-season-report.md#round-10-british-grand-prix) | 1974-07-20 | race | Lola | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
 | 1974 | [Round 10: British Grand Prix](../results/1974-season-report.md#round-10-british-grand-prix) | 1974-07-20 | global | Lola | Q:21/R:DNF | 1500 | +8 | 1508 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1526 (Peak: 1553)
-**Race ELO**: 1500 → 1458 (Peak: 1458)
-**Global ELO**: 1500 → 1508 (Peak: 1508)

@@ -5,6 +5,18 @@
 **Seasons**: [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md)
 **Total Race Events**: 58 (174 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1440
+**Peak Qualifying ELO**: 1695 (1981 Round 5 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1423 (1982 Round 14 - Swiss Grand Prix)
+**Race ELO**: 1500 → 1386
+**Peak Race ELO**: 1546 (1981 Round 5 - Belgian Grand Prix)
+**Lowest Race ELO**: 1386 (1983 Round 14 - European Grand Prix)
+**Global ELO**: 1500 → 1404
+**Peak Global ELO**: 1591 (1981 Round 5 - Belgian Grand Prix)
+**Lowest Global ELO**: 1404 (1983 Round 15 - South African Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -183,9 +195,3 @@
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | qualifying | Toleman | 16 | 1455 | -15 | 1440 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick |
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | race | Toleman | DNF | 1386 | N/A | 1386 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick |
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | global | Toleman | Q:16/R:DNF | 1408 | -4 | 1404 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1440 (Peak: 1695)
-**Race ELO**: 1500 → 1386 (Peak: 1546)
-**Global ELO**: 1500 → 1404 (Peak: 1591)

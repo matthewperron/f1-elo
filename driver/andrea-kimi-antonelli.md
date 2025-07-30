@@ -5,6 +5,18 @@
 **Seasons**: [2025](../results/2025-season-report.md)
 **Total Race Events**: 13 (39 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1481
+**Peak Qualifying ELO**: 1530 (2025 Round 6 - Miami Grand Prix)
+**Lowest Qualifying ELO**: 1471 (2025 Round 5 - Saudi Arabian Grand Prix)
+**Race ELO**: 1500 → 1440
+**Peak Race ELO**: 1490 (2025 Round 1 - Australian Grand Prix)
+**Lowest Race ELO**: 1440 (2025 Round 13 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1452
+**Peak Global ELO**: 1491 (2025 Round 1 - Australian Grand Prix)
+**Lowest Global ELO**: 1452 (2025 Round 13 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -48,9 +60,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Mercedes | 19 | 1486 | -6 | 1481 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Mercedes | 16 | 1446 | -6 | 1440 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Mercedes | Q:19/R:16 | 1458 | -6 | 1452 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1481 (Peak: 1530)
-**Race ELO**: 1500 → 1440 (Peak: 1490)
-**Global ELO**: 1500 → 1452 (Peak: 1491)

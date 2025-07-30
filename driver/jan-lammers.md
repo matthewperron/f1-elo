@@ -5,6 +5,18 @@
 **Seasons**: [1979](../results/1979-season-report.md) • [1981](../results/1981-season-report.md) • [1992](../results/1992-season-report.md)
 **Total Race Events**: 15 (45 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1481
+**Peak Qualifying ELO**: 1532 (1981 Round 4 - San Marino Grand Prix)
+**Lowest Qualifying ELO**: 1420 (1979 Round 3 - South African Grand Prix)
+**Race ELO**: 1500 → 1537
+**Peak Race ELO**: 1537 (1979 Round 10 - German Grand Prix)
+**Lowest Race ELO**: 1468 (1979 Round 2 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1495
+**Peak Global ELO**: 1531 (1979 Round 10 - German Grand Prix)
+**Lowest Global ELO**: 1454 (1979 Round 3 - South African Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -54,9 +66,3 @@
 | 1992 | [Round 16: Australian Grand Prix](../results/1992-season-report.md#round-16-australian-grand-prix) | 1992-11-08 | qualifying | March | 25 | 1525 | -43 | 1481 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti |
 | 1992 | [Round 16: Australian Grand Prix](../results/1992-season-report.md#round-16-australian-grand-prix) | 1992-11-08 | race | March | 12 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti |
 | 1992 | [Round 16: Australian Grand Prix](../results/1992-season-report.md#round-16-australian-grand-prix) | 1992-11-08 | global | March | Q:25/R:12 | 1508 | -13 | 1495 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1481 (Peak: 1532)
-**Race ELO**: 1500 → 1537 (Peak: 1537)
-**Global ELO**: 1500 → 1495 (Peak: 1531)

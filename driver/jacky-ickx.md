@@ -5,6 +5,18 @@
 **Seasons**: [1967](../results/1967-season-report.md) • [1968](../results/1968-season-report.md) • [1969](../results/1969-season-report.md) • [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md) • [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1979](../results/1979-season-report.md)
 **Total Race Events**: 71 (213 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1370
+**Peak Qualifying ELO**: 1668 (1970 Round 12 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1370 (1979 Round 15 - United States Grand Prix)
+**Race ELO**: 1500 → 1475
+**Peak Race ELO**: 1632 (1974 Round 2 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1468 (1968 Round 7 - British Grand Prix)
+**Global ELO**: 1500 → 1443
+**Peak Global ELO**: 1581 (1972 Round 7 - British Grand Prix)
+**Lowest Global ELO**: 1443 (1979 Round 15 - United States Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -222,9 +234,3 @@
 | 1979 | [Round 15: United States Grand Prix](../results/1979-season-report.md#round-15-united-states-grand-prix) | 1979-10-07 | qualifying | Ligier | 24 | 1380 | -10 | 1370 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
 | 1979 | [Round 15: United States Grand Prix](../results/1979-season-report.md#round-15-united-states-grand-prix) | 1979-10-07 | race | Ligier | DNF | 1475 | N/A | 1475 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
 | 1979 | [Round 15: United States Grand Prix](../results/1979-season-report.md#round-15-united-states-grand-prix) | 1979-10-07 | global | Ligier | Q:24/R:DNF | 1446 | -3 | 1443 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1370 (Peak: 1668)
-**Race ELO**: 1500 → 1475 (Peak: 1632)
-**Global ELO**: 1500 → 1443 (Peak: 1581)

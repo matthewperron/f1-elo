@@ -5,6 +5,18 @@
 **Seasons**: [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 179 (537 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1494
+**Peak Qualifying ELO**: 1824 (1983 Round 12 - Dutch Grand Prix)
+**Lowest Qualifying ELO**: 1371 (1990 Round 15 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1498
+**Peak Race ELO**: 1664 (1987 Round 4 - Monaco Grand Prix)
+**Lowest Race ELO**: 1424 (1990 Round 11 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1497
+**Peak Global ELO**: 1681 (1985 Round 13 - Belgian Grand Prix)
+**Lowest Global ELO**: 1409 (1990 Round 15 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -546,9 +558,3 @@
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | qualifying | Minardi | 16 | 1437 | +57 | 1494 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini |
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | race | Minardi | DNF | 1498 | N/A | 1498 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini |
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | global | Minardi | Q:16/R:DNF | 1480 | +17 | 1497 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1494 (Peak: 1824)
-**Race ELO**: 1500 → 1498 (Peak: 1664)
-**Global ELO**: 1500 → 1497 (Peak: 1681)

@@ -5,6 +5,18 @@
 **Seasons**: [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 369 (1107 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1609
+**Peak Qualifying ELO**: 2018 (2021 Round 15 - Russian Grand Prix)
+**Lowest Qualifying ELO**: 1476 (2007 Round 2 - Malaysian Grand Prix)
+**Race ELO**: 1500 → 1604
+**Peak Race ELO**: 1884 (2023 Round 21 - Las Vegas Grand Prix)
+**Lowest Race ELO**: 1484 (2007 Round 2 - Malaysian Grand Prix)
+**Global ELO**: 1500 → 1610
+**Peak Global ELO**: 1861 (2023 Round 20 - São Paulo Grand Prix)
+**Lowest Global ELO**: 1482 (2007 Round 2 - Malaysian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -1116,9 +1128,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Ferrari | 18 | 1638 | -29 | 1609 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Ferrari | 7 | 1623 | -19 | 1604 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Ferrari | Q:18/R:7 | 1632 | -22 | 1610 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1609 (Peak: 2018)
-**Race ELO**: 1500 → 1604 (Peak: 1884)
-**Global ELO**: 1500 → 1610 (Peak: 1861)

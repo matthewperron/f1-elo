@@ -5,6 +5,18 @@
 **Seasons**: [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md)
 **Total Race Events**: 193 (579 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1645
+**Peak Qualifying ELO**: 1945 (1985 Round 15 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1475 (1978 Round 11 - German Grand Prix)
+**Race ELO**: 1500 → 1644
+**Peak Race ELO**: 1777 (1987 Round 5 - Detroit Grand Prix)
+**Lowest Race ELO**: 1487 (1979 Round 3 - South African Grand Prix)
+**Global ELO**: 1500 → 1649
+**Peak Global ELO**: 1827 (1985 Round 15 - South African Grand Prix)
+**Lowest Global ELO**: 1484 (1979 Round 5 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -588,9 +600,3 @@
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | qualifying | Benetton | 5 | 1605 | +40 | 1645 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher |
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | race | Benetton | 4 | 1644 | N/A | 1644 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher |
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | global | Benetton | Q:5/R:4 | 1637 | +12 | 1649 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1645 (Peak: 1945)
-**Race ELO**: 1500 → 1644 (Peak: 1777)
-**Global ELO**: 1500 → 1649 (Peak: 1827)

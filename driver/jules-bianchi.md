@@ -5,6 +5,18 @@
 **Seasons**: [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md)
 **Total Race Events**: 34 (102 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1644
+**Peak Qualifying ELO**: 1691 (2013 Round 13 - Singapore Grand Prix)
+**Lowest Qualifying ELO**: 1480 (2014 Round 7 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1674
+**Peak Race ELO**: 1674 (2014 Round 14 - Singapore Grand Prix)
+**Lowest Race ELO**: 1532 (2013 Round 1 - Australian Grand Prix)
+**Global ELO**: 1500 → 1665
+**Peak Global ELO**: 1675 (2013 Round 12 - Italian Grand Prix)
+**Lowest Global ELO**: 1532 (2013 Round 1 - Australian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -111,9 +123,3 @@
 | 2014 | [Round 15: Japanese Grand Prix](../results/2014-season-report.md#round-15-japanese-grand-prix) | 2014-10-05 | qualifying | Marussia | 18 | 1633 | +11 | 1644 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Max Chilton |
 | 2014 | [Round 15: Japanese Grand Prix](../results/2014-season-report.md#round-15-japanese-grand-prix) | 2014-10-05 | race | Marussia | DNF | 1674 | N/A | 1674 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Max Chilton |
 | 2014 | [Round 15: Japanese Grand Prix](../results/2014-season-report.md#round-15-japanese-grand-prix) | 2014-10-05 | global | Marussia | Q:18/R:DNF | 1662 | +3 | 1665 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Max Chilton |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1644 (Peak: 1691)
-**Race ELO**: 1500 → 1674 (Peak: 1674)
-**Global ELO**: 1500 → 1665 (Peak: 1675)

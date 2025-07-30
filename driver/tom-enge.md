@@ -5,6 +5,18 @@
 **Seasons**: [2001](../results/2001-season-report.md)
 **Total Race Events**: 3 (9 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1429
+**Peak Qualifying ELO**: 1472 (2001 Round 15 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1429 (2001 Round 17 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1484
+**Peak Race ELO**: 1484 (2001 Round 16 - United States Grand Prix)
+**Lowest Race ELO**: 1484 (2001 Round 16 - United States Grand Prix)
+**Global ELO**: 1500 → 1468
+**Peak Global ELO**: 1492 (2001 Round 15 - Italian Grand Prix)
+**Lowest Global ELO**: 1468 (2001 Round 17 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -18,9 +30,3 @@
 | 2001 | [Round 17: Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | qualifying | Prost | 19 | 1449 | -19 | 1429 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
 | 2001 | [Round 17: Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | race | Prost | DNF | 1484 | N/A | 1484 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
 | 2001 | [Round 17: Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | global | Prost | Q:19/R:DNF | 1474 | -6 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1429 (Peak: 1472)
-**Race ELO**: 1500 → 1484 (Peak: 1484)
-**Global ELO**: 1500 → 1468 (Peak: 1492)

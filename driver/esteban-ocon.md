@@ -5,6 +5,18 @@
 **Seasons**: [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 169 (507 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1540
+**Peak Qualifying ELO**: 1643 (2018 Round 10 - British Grand Prix)
+**Lowest Qualifying ELO**: 1352 (2017 Round 10 - British Grand Prix)
+**Race ELO**: 1500 → 1499
+**Peak Race ELO**: 1714 (2018 Round 10 - British Grand Prix)
+**Lowest Race ELO**: 1390 (2023 Round 5 - Miami Grand Prix)
+**Global ELO**: 1500 → 1512
+**Peak Global ELO**: 1692 (2018 Round 10 - British Grand Prix)
+**Lowest Global ELO**: 1409 (2023 Round 5 - Miami Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -516,9 +528,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Haas F1 Team | 11 | 1508 | +32 | 1540 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Haas F1 Team | 15 | 1531 | -32 | 1499 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Haas F1 Team | Q:11/R:15 | 1525 | -13 | 1512 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1540 (Peak: 1643)
-**Race ELO**: 1500 → 1499 (Peak: 1714)
-**Global ELO**: 1500 → 1512 (Peak: 1692)

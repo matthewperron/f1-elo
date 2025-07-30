@@ -5,6 +5,18 @@
 **Seasons**: [1965](../results/1965-season-report.md) • [1966](../results/1966-season-report.md)
 **Total Race Events**: 8 (24 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1379
+**Peak Qualifying ELO**: 1526 (1965 Round 2 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1379 (1966 Round 9 - Mexican Grand Prix)
+**Race ELO**: 1500 → 1464
+**Peak Race ELO**: 1464 (1965 Round 10 - Mexican Grand Prix)
+**Lowest Race ELO**: 1464 (1965 Round 10 - Mexican Grand Prix)
+**Global ELO**: 1500 → 1438
+**Peak Global ELO**: 1508 (1965 Round 2 - Monaco Grand Prix)
+**Lowest Global ELO**: 1438 (1966 Round 9 - Mexican Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -33,9 +45,3 @@
 | 1966 | [Round 9: Mexican Grand Prix](../results/1966-season-report.md#round-9-mexican-grand-prix) | 1966-10-23 | qualifying | Honda | 13 | 1398 | -20 | 1379 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
 | 1966 | [Round 9: Mexican Grand Prix](../results/1966-season-report.md#round-9-mexican-grand-prix) | 1966-10-23 | race | Honda | DNF | 1464 | N/A | 1464 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
 | 1966 | [Round 9: Mexican Grand Prix](../results/1966-season-report.md#round-9-mexican-grand-prix) | 1966-10-23 | global | Honda | Q:13/R:DNF | 1444 | -6 | 1438 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1379 (Peak: 1526)
-**Race ELO**: 1500 → 1464 (Peak: 1464)
-**Global ELO**: 1500 → 1438 (Peak: 1508)

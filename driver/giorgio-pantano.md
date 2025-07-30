@@ -5,6 +5,18 @@
 **Seasons**: [2004](../results/2004-season-report.md)
 **Total Race Events**: 14 (42 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1568
+**Peak Qualifying ELO**: 1570 (2004 Round 12 - German Grand Prix)
+**Lowest Qualifying ELO**: 1470 (2004 Round 2 - Malaysian Grand Prix)
+**Race ELO**: 1500 → 1432
+**Peak Race ELO**: 1475 (2004 Round 3 - Bahrain Grand Prix)
+**Lowest Race ELO**: 1432 (2004 Round 10 - French Grand Prix)
+**Global ELO**: 1500 → 1474
+**Peak Global ELO**: 1503 (2004 Round 4 - San Marino Grand Prix)
+**Lowest Global ELO**: 1444 (2004 Round 10 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -51,9 +63,3 @@
 | 2004 | [Round 15: Italian Grand Prix](../results/2004-season-report.md#round-15-italian-grand-prix) | 2004-09-12 | qualifying | Jordan | 17 | 1522 | +46 | 1568 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld |
 | 2004 | [Round 15: Italian Grand Prix](../results/2004-season-report.md#round-15-italian-grand-prix) | 2004-09-12 | race | Jordan | DNF | 1432 | N/A | 1432 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld |
 | 2004 | [Round 15: Italian Grand Prix](../results/2004-season-report.md#round-15-italian-grand-prix) | 2004-09-12 | global | Jordan | Q:17/R:DNF | 1460 | +14 | 1474 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1568 (Peak: 1570)
-**Race ELO**: 1500 → 1432 (Peak: 1475)
-**Global ELO**: 1500 → 1474 (Peak: 1503)

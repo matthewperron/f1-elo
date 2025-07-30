@@ -5,6 +5,18 @@
 **Seasons**: [1960](../results/1960-season-report.md) • [1963](../results/1963-season-report.md) • [1964](../results/1964-season-report.md)
 **Total Race Events**: 16 (48 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1434
+**Peak Qualifying ELO**: 1591 (1963 Round 9 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1434 (1964 Round 10 - Mexican Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1960 Round 7 - British Grand Prix)
+**Lowest Race ELO**: 1468 (1960 Round 7 - British Grand Prix)
+**Global ELO**: 1500 → 1458
+**Peak Global ELO**: 1527 (1963 Round 9 - Mexican Grand Prix)
+**Lowest Global ELO**: 1458 (1964 Round 10 - Mexican Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -57,9 +69,3 @@
 | 1964 | [Round 10: Mexican Grand Prix](../results/1964-season-report.md#round-10-mexican-grand-prix) | 1964-10-25 | qualifying | Cooper-Climax | 15 | 1450 | -16 | 1434 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren |
 | 1964 | [Round 10: Mexican Grand Prix](../results/1964-season-report.md#round-10-mexican-grand-prix) | 1964-10-25 | race | Cooper-Climax | DNF | 1468 | N/A | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren |
 | 1964 | [Round 10: Mexican Grand Prix](../results/1964-season-report.md#round-10-mexican-grand-prix) | 1964-10-25 | global | Cooper-Climax | Q:15/R:DNF | 1462 | -5 | 1458 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1434 (Peak: 1591)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1458 (Peak: 1527)

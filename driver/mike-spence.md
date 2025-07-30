@@ -5,6 +5,18 @@
 **Seasons**: [1963](../results/1963-season-report.md) • [1964](../results/1964-season-report.md) • [1965](../results/1965-season-report.md) • [1966](../results/1966-season-report.md) • [1967](../results/1967-season-report.md) • [1968](../results/1968-season-report.md)
 **Total Race Events**: 16 (48 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1413
+**Peak Qualifying ELO**: 1502 (1966 Round 6 - German Grand Prix)
+**Lowest Qualifying ELO**: 1360 (1966 Round 2 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1383
+**Peak Race ELO**: 1471 (1964 Round 5 - British Grand Prix)
+**Lowest Race ELO**: 1383 (1965 Round 6 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1391
+**Peak Global ELO**: 1491 (1963 Round 7 - Italian Grand Prix)
+**Lowest Global ELO**: 1375 (1966 Round 2 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -57,9 +69,3 @@
 | 1968 | [Round 1: South African Grand Prix](../results/1968-season-report.md#round-1-south-african-grand-prix) | 1968-01-01 | qualifying | BRM | 14 | 1439 | -26 | 1413 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez |
 | 1968 | [Round 1: South African Grand Prix](../results/1968-season-report.md#round-1-south-african-grand-prix) | 1968-01-01 | race | BRM | DNF | 1383 | N/A | 1383 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez |
 | 1968 | [Round 1: South African Grand Prix](../results/1968-season-report.md#round-1-south-african-grand-prix) | 1968-01-01 | global | BRM | Q:14/R:DNF | 1399 | -8 | 1391 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1413 (Peak: 1502)
-**Race ELO**: 1500 → 1383 (Peak: 1471)
-**Global ELO**: 1500 → 1391 (Peak: 1491)

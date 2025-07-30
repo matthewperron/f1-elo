@@ -5,6 +5,18 @@
 **Seasons**: [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md)
 **Total Race Events**: 55 (165 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1534
+**Peak Qualifying ELO**: 1677 (2010 Round 10 - British Grand Prix)
+**Lowest Qualifying ELO**: 1434 (2010 Round 19 - Abu Dhabi Grand Prix)
+**Race ELO**: 1500 → 1425
+**Peak Race ELO**: 1591 (2011 Round 5 - Spanish Grand Prix)
+**Lowest Race ELO**: 1425 (2011 Round 19 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1457
+**Peak Global ELO**: 1591 (2010 Round 14 - Italian Grand Prix)
+**Lowest Global ELO**: 1457 (2011 Round 19 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -174,9 +186,3 @@
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | qualifying | Toro Rosso | 14 | 1577 | -44 | 1534 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari |
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | race | Toro Rosso | 12 | 1447 | -23 | 1425 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari |
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | global | Toro Rosso | Q:14/R:12 | 1487 | -29 | 1457 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1534 (Peak: 1677)
-**Race ELO**: 1500 → 1425 (Peak: 1591)
-**Global ELO**: 1500 → 1457 (Peak: 1591)

@@ -5,6 +5,18 @@
 **Seasons**: [1982](../results/1982-season-report.md)
 **Total Race Events**: 11 (33 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1339
+**Peak Qualifying ELO**: 1532 (1982 Round 1 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1339 (1982 Round 14 - Swiss Grand Prix)
+**Race ELO**: 1500 → 1494
+**Peak Race ELO**: 1532 (1982 Round 1 - South African Grand Prix)
+**Lowest Race ELO**: 1494 (1982 Round 9 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1447
+**Peak Global ELO**: 1532 (1982 Round 1 - South African Grand Prix)
+**Lowest Global ELO**: 1447 (1982 Round 14 - Swiss Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -42,9 +54,3 @@
 | 1982 | [Round 14: Swiss Grand Prix](../results/1982-season-report.md#round-14-swiss-grand-prix) | 1982-08-29 | qualifying | ATS | 25 | 1348 | -10 | 1339 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock |
 | 1982 | [Round 14: Swiss Grand Prix](../results/1982-season-report.md#round-14-swiss-grand-prix) | 1982-08-29 | race | ATS | DNF | 1494 | N/A | 1494 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock |
 | 1982 | [Round 14: Swiss Grand Prix](../results/1982-season-report.md#round-14-swiss-grand-prix) | 1982-08-29 | global | ATS | Q:25/R:DNF | 1450 | -3 | 1447 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1339 (Peak: 1532)
-**Race ELO**: 1500 → 1494 (Peak: 1532)
-**Global ELO**: 1500 → 1447 (Peak: 1532)

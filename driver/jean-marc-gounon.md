@@ -5,6 +5,18 @@
 **Seasons**: [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 9 (27 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1418
+**Peak Qualifying ELO**: 1547 (1993 Round 15 - Japanese Grand Prix)
+**Lowest Qualifying ELO**: 1391 (1994 Round 11 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1994 Round 8 - British Grand Prix)
+**Lowest Race ELO**: 1468 (1994 Round 8 - British Grand Prix)
+**Global ELO**: 1500 → 1453
+**Peak Global ELO**: 1514 (1993 Round 15 - Japanese Grand Prix)
+**Lowest Global ELO**: 1445 (1994 Round 11 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -36,9 +48,3 @@
 | 1994 | [Round 13: Portuguese Grand Prix](../results/1994-season-report.md#round-13-portuguese-grand-prix) | 1994-09-25 | qualifying | Simtek | 26 | 1440 | -23 | 1418 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham |
 | 1994 | [Round 13: Portuguese Grand Prix](../results/1994-season-report.md#round-13-portuguese-grand-prix) | 1994-09-25 | race | Simtek | DNF | 1468 | N/A | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham |
 | 1994 | [Round 13: Portuguese Grand Prix](../results/1994-season-report.md#round-13-portuguese-grand-prix) | 1994-09-25 | global | Simtek | Q:26/R:DNF | 1460 | -7 | 1453 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1418 (Peak: 1547)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1453 (Peak: 1514)

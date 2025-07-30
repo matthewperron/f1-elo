@@ -5,6 +5,18 @@
 **Seasons**: [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md)
 **Total Race Events**: 17 (51 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1342
+**Peak Qualifying ELO**: 1537 (1983 Round 3 - French Grand Prix)
+**Lowest Qualifying ELO**: 1342 (1984 Round 9 - Dallas Grand Prix)
+**Race ELO**: 1500 → 1497
+**Peak Race ELO**: 1532 (1983 Round 13 - Italian Grand Prix)
+**Lowest Race ELO**: 1497 (1984 Round 7 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1450
+**Peak Global ELO**: 1511 (1983 Round 3 - French Grand Prix)
+**Lowest Global ELO**: 1450 (1984 Round 9 - Dallas Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -60,9 +72,3 @@
 | 1984 | [Round 9: Dallas Grand Prix](../results/1984-season-report.md#round-9-dallas-grand-prix) | 1984-07-08 | qualifying | Toleman | 15 | 1355 | -14 | 1342 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna |
 | 1984 | [Round 9: Dallas Grand Prix](../results/1984-season-report.md#round-9-dallas-grand-prix) | 1984-07-08 | race | Toleman | DNF | 1497 | N/A | 1497 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna |
 | 1984 | [Round 9: Dallas Grand Prix](../results/1984-season-report.md#round-9-dallas-grand-prix) | 1984-07-08 | global | Toleman | Q:15/R:DNF | 1454 | -4 | 1450 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1342 (Peak: 1537)
-**Race ELO**: 1500 → 1497 (Peak: 1532)
-**Global ELO**: 1500 → 1450 (Peak: 1511)

@@ -5,6 +5,18 @@
 **Seasons**: [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md)
 **Total Race Events**: 67 (201 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1641
+**Peak Qualifying ELO**: 1727 (1981 Round 13 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1339 (1979 Round 8 - French Grand Prix)
+**Race ELO**: 1500 → 1597
+**Peak Race ELO**: 1597 (1982 Round 11 - French Grand Prix)
+**Lowest Race ELO**: 1337 (1979 Round 10 - German Grand Prix)
+**Global ELO**: 1500 → 1612
+**Peak Global ELO**: 1612 (1982 Round 12 - German Grand Prix)
+**Lowest Global ELO**: 1363 (1979 Round 10 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -210,9 +222,3 @@
 | 1982 | [Round 12: German Grand Prix](../results/1982-season-report.md#round-12-german-grand-prix) | 1982-08-08 | qualifying | Ferrari | 1 | 1628 | +14 | 1641 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
 | 1982 | [Round 12: German Grand Prix](../results/1982-season-report.md#round-12-german-grand-prix) | 1982-08-08 | race | Ferrari | DNF | 1597 | N/A | 1597 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
 | 1982 | [Round 12: German Grand Prix](../results/1982-season-report.md#round-12-german-grand-prix) | 1982-08-08 | global | Ferrari | Q:1/R:DNF | 1608 | +4 | 1612 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1641 (Peak: 1727)
-**Race ELO**: 1500 → 1597 (Peak: 1597)
-**Global ELO**: 1500 → 1612 (Peak: 1612)

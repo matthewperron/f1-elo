@@ -5,6 +5,18 @@
 **Seasons**: [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md)
 **Total Race Events**: 18 (54 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1302
+**Peak Qualifying ELO**: 1481 (1987 Round 4 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1302 (1988 Round 2 - San Marino Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1988 Round 2 - San Marino Grand Prix)
+**Lowest Race ELO**: 1468 (1988 Round 2 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1418
+**Peak Global ELO**: 1494 (1987 Round 4 - Monaco Grand Prix)
+**Lowest Global ELO**: 1418 (1988 Round 2 - San Marino Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -63,9 +75,3 @@
 | 1988 | [Round 2: San Marino Grand Prix](../results/1988-season-report.md#round-2-san-marino-grand-prix) | 1988-05-01 | qualifying | Minardi | 22 | 1317 | -15 | 1302 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala |
 | 1988 | [Round 2: San Marino Grand Prix](../results/1988-season-report.md#round-2-san-marino-grand-prix) | 1988-05-01 | race | Minardi | 16 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala |
 | 1988 | [Round 2: San Marino Grand Prix](../results/1988-season-report.md#round-2-san-marino-grand-prix) | 1988-05-01 | global | Minardi | Q:22/R:16 | 1445 | -27 | 1418 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1302 (Peak: 1481)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1418 (Peak: 1494)

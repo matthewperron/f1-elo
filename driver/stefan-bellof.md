@@ -5,6 +5,18 @@
 **Seasons**: [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md)
 **Total Race Events**: 17 (51 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1448
+**Peak Qualifying ELO**: 1583 (1984 Round 5 - French Grand Prix)
+**Lowest Qualifying ELO**: 1437 (1985 Round 8 - British Grand Prix)
+**Race ELO**: 1500 → 1529
+**Peak Race ELO**: 1529 (1985 Round 5 - Canadian Grand Prix)
+**Lowest Race ELO**: 1529 (1985 Round 5 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1504
+**Peak Global ELO**: 1532 (1985 Round 5 - Canadian Grand Prix)
+**Lowest Global ELO**: 1482 (1984 Round 13 - Dutch Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -60,9 +72,3 @@
 | 1985 | [Round 11: Dutch Grand Prix](../results/1985-season-report.md#round-11-dutch-grand-prix) | 1985-08-25 | qualifying | Tyrrell | 22 | 1478 | -30 | 1448 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle |
 | 1985 | [Round 11: Dutch Grand Prix](../results/1985-season-report.md#round-11-dutch-grand-prix) | 1985-08-25 | race | Tyrrell | DNF | 1529 | N/A | 1529 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle |
 | 1985 | [Round 11: Dutch Grand Prix](../results/1985-season-report.md#round-11-dutch-grand-prix) | 1985-08-25 | global | Tyrrell | Q:22/R:DNF | 1513 | -9 | 1504 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1448 (Peak: 1583)
-**Race ELO**: 1500 → 1529 (Peak: 1529)
-**Global ELO**: 1500 → 1504 (Peak: 1532)

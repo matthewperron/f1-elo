@@ -5,6 +5,18 @@
 **Seasons**: [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md)
 **Total Race Events**: 180 (540 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1493
+**Peak Qualifying ELO**: 1668 (2001 Round 10 - French Grand Prix)
+**Lowest Qualifying ELO**: 1394 (2005 Round 16 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1563
+**Peak Race ELO**: 1665 (2006 Round 2 - Malaysian Grand Prix)
+**Lowest Race ELO**: 1402 (1998 Round 13 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1541
+**Peak Global ELO**: 1646 (2006 Round 10 - United States Grand Prix)
+**Lowest Global ELO**: 1431 (1998 Round 13 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -549,9 +561,3 @@
 | 2007 | [Round 17: Brazilian Grand Prix](../results/2007-season-report.md#round-17-brazilian-grand-prix) | 2007-10-21 | qualifying | Toyota | 15 | 1512 | -19 | 1493 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
 | 2007 | [Round 17: Brazilian Grand Prix](../results/2007-season-report.md#round-17-brazilian-grand-prix) | 2007-10-21 | race | Toyota | 11 | 1597 | -34 | 1563 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
 | 2007 | [Round 17: Brazilian Grand Prix](../results/2007-season-report.md#round-17-brazilian-grand-prix) | 2007-10-21 | global | Toyota | Q:15/R:11 | 1571 | -29 | 1541 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1493 (Peak: 1668)
-**Race ELO**: 1500 → 1563 (Peak: 1665)
-**Global ELO**: 1500 → 1541 (Peak: 1646)

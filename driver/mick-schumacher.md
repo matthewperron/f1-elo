@@ -5,6 +5,18 @@
 **Seasons**: [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md)
 **Total Race Events**: 44 (132 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1575
+**Peak Qualifying ELO**: 1671 (2021 Round 22 - Abu Dhabi Grand Prix)
+**Lowest Qualifying ELO**: 1480 (2022 Round 11 - Austrian Grand Prix)
+**Race ELO**: 1500 → 1582
+**Peak Race ELO**: 1640 (2022 Round 13 - Hungarian Grand Prix)
+**Lowest Race ELO**: 1515 (2022 Round 19 - United States Grand Prix)
+**Global ELO**: 1500 → 1579
+**Peak Global ELO**: 1620 (2021 Round 18 - Mexico City Grand Prix)
+**Lowest Global ELO**: 1510 (2021 Round 1 - Bahrain Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -141,9 +153,3 @@
 | 2022 | [Round 22: Abu Dhabi Grand Prix](../results/2022-season-report.md#round-22-abu-dhabi-grand-prix) | 2022-11-20 | qualifying | Haas F1 Team | 12 | 1534 | +41 | 1575 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen |
 | 2022 | [Round 22: Abu Dhabi Grand Prix](../results/2022-season-report.md#round-22-abu-dhabi-grand-prix) | 2022-11-20 | race | Haas F1 Team | 16 | 1552 | +30 | 1582 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen |
 | 2022 | [Round 22: Abu Dhabi Grand Prix](../results/2022-season-report.md#round-22-abu-dhabi-grand-prix) | 2022-11-20 | global | Haas F1 Team | Q:12/R:16 | 1546 | +33 | 1579 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1575 (Peak: 1671)
-**Race ELO**: 1500 → 1582 (Peak: 1640)
-**Global ELO**: 1500 → 1579 (Peak: 1620)

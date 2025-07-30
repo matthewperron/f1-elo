@@ -5,6 +5,18 @@
 **Seasons**: [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1429
+**Peak Qualifying ELO**: 1469 (2024 Round 24 - Abu Dhabi Grand Prix)
+**Lowest Qualifying ELO**: 1377 (2025 Round 5 - Saudi Arabian Grand Prix)
+**Race ELO**: 1500 → 1428
+**Peak Race ELO**: 1461 (2025 Round 3 - Japanese Grand Prix)
+**Lowest Race ELO**: 1428 (2025 Round 4 - Bahrain Grand Prix)
+**Global ELO**: 1500 → 1429
+**Peak Global ELO**: 1491 (2024 Round 24 - Abu Dhabi Grand Prix)
+**Lowest Global ELO**: 1414 (2025 Round 5 - Saudi Arabian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,9 +42,3 @@
 | 2025 | [Round 6: Miami Grand Prix](../results/2025-season-report.md#round-6-miami-grand-prix) | 2025-05-04 | qualifying | Alpine F1 Team | 14 | 1377 | +52 | 1429 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly |
 | 2025 | [Round 6: Miami Grand Prix](../results/2025-season-report.md#round-6-miami-grand-prix) | 2025-05-04 | race | Alpine F1 Team | DNF | 1428 | N/A | 1428 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly |
 | 2025 | [Round 6: Miami Grand Prix](../results/2025-season-report.md#round-6-miami-grand-prix) | 2025-05-04 | global | Alpine F1 Team | Q:14/R:DNF | 1414 | +16 | 1429 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1429 (Peak: 1469)
-**Race ELO**: 1500 → 1428 (Peak: 1461)
-**Global ELO**: 1500 → 1429 (Peak: 1491)

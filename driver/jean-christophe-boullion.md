@@ -5,6 +5,18 @@
 **Seasons**: [1995](../results/1995-season-report.md)
 **Total Race Events**: 11 (33 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1418
+**Peak Qualifying ELO**: 1489 (1995 Round 5 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1418 (1995 Round 15 - Pacific Grand Prix)
+**Race ELO**: 1500 → 1410
+**Peak Race ELO**: 1476 (1995 Round 8 - British Grand Prix)
+**Lowest Race ELO**: 1410 (1995 Round 13 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1413
+**Peak Global ELO**: 1497 (1995 Round 5 - Monaco Grand Prix)
+**Lowest Global ELO**: 1413 (1995 Round 15 - Pacific Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -42,9 +54,3 @@
 | 1995 | [Round 15: Pacific Grand Prix](../results/1995-season-report.md#round-15-pacific-grand-prix) | 1995-10-22 | qualifying | Sauber | 15 | 1423 | -5 | 1418 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
 | 1995 | [Round 15: Pacific Grand Prix](../results/1995-season-report.md#round-15-pacific-grand-prix) | 1995-10-22 | race | Sauber | DNF | 1410 | N/A | 1410 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
 | 1995 | [Round 15: Pacific Grand Prix](../results/1995-season-report.md#round-15-pacific-grand-prix) | 1995-10-22 | global | Sauber | Q:15/R:DNF | 1415 | -1 | 1413 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1418 (Peak: 1489)
-**Race ELO**: 1500 → 1410 (Peak: 1476)
-**Global ELO**: 1500 → 1413 (Peak: 1497)

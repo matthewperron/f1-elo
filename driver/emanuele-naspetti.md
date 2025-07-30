@@ -5,6 +5,18 @@
 **Seasons**: [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md)
 **Total Race Events**: 6 (18 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1429
+**Peak Qualifying ELO**: 1468 (1992 Round 12 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1396 (1992 Round 15 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1465
+**Peak Race ELO**: 1465 (1992 Round 12 - Belgian Grand Prix)
+**Lowest Race ELO**: 1465 (1992 Round 12 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1454
+**Peak Global ELO**: 1466 (1992 Round 12 - Belgian Grand Prix)
+**Lowest Global ELO**: 1444 (1992 Round 15 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -27,9 +39,3 @@
 | 1993 | [Round 14: Portuguese Grand Prix](../results/1993-season-report.md#round-14-portuguese-grand-prix) | 1993-09-26 | qualifying | Jordan | 23 | 1439 | -10 | 1429 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
 | 1993 | [Round 14: Portuguese Grand Prix](../results/1993-season-report.md#round-14-portuguese-grand-prix) | 1993-09-26 | race | Jordan | DNF | 1465 | N/A | 1465 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
 | 1993 | [Round 14: Portuguese Grand Prix](../results/1993-season-report.md#round-14-portuguese-grand-prix) | 1993-09-26 | global | Jordan | Q:23/R:DNF | 1457 | -3 | 1454 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1429 (Peak: 1468)
-**Race ELO**: 1500 → 1465 (Peak: 1465)
-**Global ELO**: 1500 → 1454 (Peak: 1466)

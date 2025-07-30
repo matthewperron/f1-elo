@@ -5,6 +5,18 @@
 **Seasons**: [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md)
 **Total Race Events**: 214 (642 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1562
+**Peak Qualifying ELO**: 1865 (2008 Round 15 - Singapore Grand Prix)
+**Lowest Qualifying ELO**: 1487 (2013 Round 14 - Korean Grand Prix)
+**Race ELO**: 1500 → 1448
+**Peak Race ELO**: 1746 (2004 Round 15 - Italian Grand Prix)
+**Lowest Race ELO**: 1448 (2013 Round 19 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1487
+**Peak Global ELO**: 1774 (2008 Round 15 - Singapore Grand Prix)
+**Lowest Global ELO**: 1480 (2013 Round 14 - Korean Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -651,9 +663,3 @@
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | qualifying | Red Bull | 4 | 1575 | -13 | 1562 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel |
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | race | Red Bull | 2 | 1453 | -5 | 1448 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel |
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | global | Red Bull | Q:4/R:2 | 1495 | -7 | 1487 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1562 (Peak: 1865)
-**Race ELO**: 1500 → 1448 (Peak: 1746)
-**Global ELO**: 1500 → 1487 (Peak: 1774)

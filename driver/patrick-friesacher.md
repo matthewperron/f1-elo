@@ -5,6 +5,18 @@
 **Seasons**: [2005](../results/2005-season-report.md)
 **Total Race Events**: 11 (33 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1472
+**Peak Qualifying ELO**: 1538 (2005 Round 7 - European Grand Prix)
+**Lowest Qualifying ELO**: 1463 (2005 Round 3 - Bahrain Grand Prix)
+**Race ELO**: 1500 → 1442
+**Peak Race ELO**: 1468 (2005 Round 7 - European Grand Prix)
+**Lowest Race ELO**: 1442 (2005 Round 9 - United States Grand Prix)
+**Global ELO**: 1500 → 1451
+**Peak Global ELO**: 1510 (2005 Round 1 - Australian Grand Prix)
+**Lowest Global ELO**: 1450 (2005 Round 9 - United States Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -42,9 +54,3 @@
 | 2005 | [Round 11: British Grand Prix](../results/2005-season-report.md#round-11-british-grand-prix) | 2005-07-10 | qualifying | Minardi | 19 | 1505 | -33 | 1472 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers |
 | 2005 | [Round 11: British Grand Prix](../results/2005-season-report.md#round-11-british-grand-prix) | 2005-07-10 | race | Minardi | DNF | 1442 | N/A | 1442 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers |
 | 2005 | [Round 11: British Grand Prix](../results/2005-season-report.md#round-11-british-grand-prix) | 2005-07-10 | global | Minardi | Q:19/R:DNF | 1461 | -10 | 1451 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1472 (Peak: 1538)
-**Race ELO**: 1500 → 1442 (Peak: 1468)
-**Global ELO**: 1500 → 1451 (Peak: 1510)

@@ -5,6 +5,18 @@
 **Seasons**: [1988](../results/1988-season-report.md) • [1991](../results/1991-season-report.md)
 **Total Race Events**: 6 (18 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1468
+**Peak Qualifying ELO**: 1539 (1988 Round 2 - San Marino Grand Prix)
+**Lowest Qualifying ELO**: 1439 (1988 Round 15 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1469 (1988 Round 15 - Japanese Grand Prix)
+**Lowest Race ELO**: 1468 (1991 Round 3 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1468
+**Peak Global ELO**: 1512 (1988 Round 2 - San Marino Grand Prix)
+**Lowest Global ELO**: 1461 (1988 Round 15 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -27,9 +39,3 @@
 | 1991 | [Round 3: San Marino Grand Prix](../results/1991-season-report.md#round-3-san-marino-grand-prix) | 1991-04-28 | qualifying | Team Lotus | 26 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen |
 | 1991 | [Round 3: San Marino Grand Prix](../results/1991-season-report.md#round-3-san-marino-grand-prix) | 1991-04-28 | race | Team Lotus | 6 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen |
 | 1991 | [Round 3: San Marino Grand Prix](../results/1991-season-report.md#round-3-san-marino-grand-prix) | 1991-04-28 | global | Team Lotus | Q:26/R:6 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1468 (Peak: 1539)
-**Race ELO**: 1500 → 1468 (Peak: 1469)
-**Global ELO**: 1500 → 1468 (Peak: 1512)

@@ -5,6 +5,18 @@
 **Seasons**: [1970](../results/1970-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1448
+**Peak Qualifying ELO**: 1470 (1970 Round 4 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1448 (1970 Round 6 - French Grand Prix)
+**Race ELO**: 1500 → 1532
+**Peak Race ELO**: 1532 (1970 Round 4 - Belgian Grand Prix)
+**Lowest Race ELO**: 1532 (1970 Round 4 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1507
+**Peak Global ELO**: 1513 (1970 Round 4 - Belgian Grand Prix)
+**Lowest Global ELO**: 1507 (1970 Round 6 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,9 +27,3 @@
 | 1970 | [Round 6: French Grand Prix](../results/1970-season-report.md#round-6-french-grand-prix) | 1970-07-05 | qualifying | Ferrari | 11 | 1470 | -22 | 1448 | Jacky Ickx |
 | 1970 | [Round 6: French Grand Prix](../results/1970-season-report.md#round-6-french-grand-prix) | 1970-07-05 | race | Ferrari | 14 | 1532 | N/A | 1532 | Jacky Ickx |
 | 1970 | [Round 6: French Grand Prix](../results/1970-season-report.md#round-6-french-grand-prix) | 1970-07-05 | global | Ferrari | Q:11/R:14 | 1513 | -7 | 1507 | Jacky Ickx |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1448 (Peak: 1470)
-**Race ELO**: 1500 → 1532 (Peak: 1532)
-**Global ELO**: 1500 → 1507 (Peak: 1513)

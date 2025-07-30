@@ -5,6 +5,18 @@
 **Seasons**: [1982](../results/1982-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md)
 **Total Race Events**: 58 (174 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1373
+**Peak Qualifying ELO**: 1527 (1986 Round 1 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1353 (1987 Round 12 - Portuguese Grand Prix)
+**Race ELO**: 1500 → 1577
+**Peak Race ELO**: 1612 (1987 Round 10 - Austrian Grand Prix)
+**Lowest Race ELO**: 1467 (1984 Round 12 - Austrian Grand Prix)
+**Global ELO**: 1500 → 1515
+**Peak Global ELO**: 1539 (1987 Round 10 - Austrian Grand Prix)
+**Lowest Global ELO**: 1455 (1984 Round 15 - European Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -183,9 +195,3 @@
 | 1987 | [Round 16: Australian Grand Prix](../results/1987-season-report.md#round-16-australian-grand-prix) | 1987-11-15 | qualifying | Benetton | 9 | 1383 | -11 | 1373 | Thierry Boutsen |
 | 1987 | [Round 16: Australian Grand Prix](../results/1987-season-report.md#round-16-australian-grand-prix) | 1987-11-15 | race | Benetton | DNF | 1577 | N/A | 1577 | Thierry Boutsen |
 | 1987 | [Round 16: Australian Grand Prix](../results/1987-season-report.md#round-16-australian-grand-prix) | 1987-11-15 | global | Benetton | Q:9/R:DNF | 1519 | -3 | 1515 | Thierry Boutsen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1373 (Peak: 1527)
-**Race ELO**: 1500 → 1577 (Peak: 1612)
-**Global ELO**: 1500 → 1515 (Peak: 1539)

@@ -5,6 +5,15 @@
 **Seasons**: [1966](../results/1966-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1503
+**Peak Qualifying ELO**: 1503 (1966 Round 3 - French Grand Prix)
+**Lowest Qualifying ELO**: 1468 (1966 Round 1 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1501
+**Peak Global ELO**: 1501 (1966 Round 3 - French Grand Prix)
+**Lowest Global ELO**: 1490 (1966 Round 1 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,8 +24,3 @@
 | 1966 | [Round 3: French Grand Prix](../results/1966-season-report.md#round-3-french-grand-prix) | 1966-07-03 | qualifying | Brabham-Climax | 12 | 1468 | +35 | 1503 | Jo Bonnier |
 | 1966 | [Round 3: French Grand Prix](../results/1966-season-report.md#round-3-french-grand-prix) | 1966-07-03 | race | Brabham-Climax | DNF | 1500 | N/A | 1500 | Jo Bonnier |
 | 1966 | [Round 3: French Grand Prix](../results/1966-season-report.md#round-3-french-grand-prix) | 1966-07-03 | global | Brabham-Climax | Q:12/R:DNF | 1490 | +11 | 1501 | Jo Bonnier |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1503 (Peak: 1503)
-**Global ELO**: 1500 → 1501 (Peak: 1501)

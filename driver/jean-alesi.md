@@ -5,6 +5,18 @@
 **Seasons**: [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md)
 **Total Race Events**: 200 (600 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1615
+**Peak Qualifying ELO**: 1957 (1996 Round 10 - British Grand Prix)
+**Lowest Qualifying ELO**: 1449 (1989 Round 8 - British Grand Prix)
+**Race ELO**: 1500 → 1617
+**Peak Race ELO**: 1701 (1998 Round 16 - Japanese Grand Prix)
+**Lowest Race ELO**: 1534 (1989 Round 7 - French Grand Prix)
+**Global ELO**: 1500 → 1613
+**Peak Global ELO**: 1751 (1996 Round 15 - Portuguese Grand Prix)
+**Lowest Global ELO**: 1509 (1989 Round 8 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -609,9 +621,3 @@
 | 2001 | [Round 17: Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | qualifying | Prost | 11 | 1630 | -15 | 1615 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
 | 2001 | [Round 17: Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | race | Prost | DNF | 1617 | N/A | 1617 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
 | 2001 | [Round 17: Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | global | Prost | Q:11/R:DNF | 1618 | -4 | 1613 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1615 (Peak: 1957)
-**Race ELO**: 1500 → 1617 (Peak: 1701)
-**Global ELO**: 1500 → 1613 (Peak: 1751)

@@ -5,6 +5,15 @@
 **Seasons**: [1960](../results/1960-season-report.md)
 **Total Race Events**: 3 (9 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1463
+**Peak Qualifying ELO**: 1532 (1960 Round 4 - Dutch Grand Prix)
+**Lowest Qualifying ELO**: 1463 (1960 Round 6 - French Grand Prix)
+**Global ELO**: 1500 → 1489
+**Peak Global ELO**: 1510 (1960 Round 4 - Dutch Grand Prix)
+**Lowest Global ELO**: 1489 (1960 Round 6 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -18,8 +27,3 @@
 | 1960 | [Round 6: French Grand Prix](../results/1960-season-report.md#round-6-french-grand-prix) | 1960-07-03 | qualifying | Scarab | 23 | 1494 | -31 | 1463 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
 | 1960 | [Round 6: French Grand Prix](../results/1960-season-report.md#round-6-french-grand-prix) | 1960-07-03 | race | Scarab | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
 | 1960 | [Round 6: French Grand Prix](../results/1960-season-report.md#round-6-french-grand-prix) | 1960-07-03 | global | Scarab | Q:23/R:DNF | 1498 | -9 | 1489 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1463 (Peak: 1532)
-**Global ELO**: 1500 → 1489 (Peak: 1510)

@@ -5,6 +5,18 @@
 **Seasons**: [2018](../results/2018-season-report.md)
 **Total Race Events**: 21 (63 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1532
+**Peak Qualifying ELO**: 1532 (2018 Round 21 - Abu Dhabi Grand Prix)
+**Lowest Qualifying ELO**: 1448 (2018 Round 5 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1453
+**Peak Race ELO**: 1514 (2018 Round 13 - Belgian Grand Prix)
+**Lowest Race ELO**: 1406 (2018 Round 5 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1477
+**Peak Global ELO**: 1512 (2018 Round 13 - Belgian Grand Prix)
+**Lowest Global ELO**: 1419 (2018 Round 5 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -72,9 +84,3 @@
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | qualifying | Williams | 19 | 1506 | +26 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | race | Williams | 15 | 1488 | -36 | 1453 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | global | Williams | Q:19/R:15 | 1494 | -17 | 1477 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1532 (Peak: 1532)
-**Race ELO**: 1500 → 1453 (Peak: 1514)
-**Global ELO**: 1500 → 1477 (Peak: 1512)

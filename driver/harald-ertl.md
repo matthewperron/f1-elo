@@ -5,6 +5,15 @@
 **Seasons**: [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md)
 **Total Race Events**: 13 (39 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1564
+**Peak Qualifying ELO**: 1606 (1978 Round 11 - German Grand Prix)
+**Lowest Qualifying ELO**: 1445 (1976 Round 8 - French Grand Prix)
+**Global ELO**: 1500 → 1520
+**Peak Global ELO**: 1533 (1978 Round 11 - German Grand Prix)
+**Lowest Global ELO**: 1484 (1976 Round 8 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -48,8 +57,3 @@
 | 1978 | [Round 12: Austrian Grand Prix](../results/1978-season-report.md#round-12-austrian-grand-prix) | 1978-08-13 | qualifying | Ensign | 24 | 1606 | -41 | 1564 | Derek Daly |
 | 1978 | [Round 12: Austrian Grand Prix](../results/1978-season-report.md#round-12-austrian-grand-prix) | 1978-08-13 | race | Ensign | DNF | 1500 | N/A | 1500 | Derek Daly |
 | 1978 | [Round 12: Austrian Grand Prix](../results/1978-season-report.md#round-12-austrian-grand-prix) | 1978-08-13 | global | Ensign | Q:24/R:DNF | 1533 | -12 | 1520 | Derek Daly |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1564 (Peak: 1606)
-**Global ELO**: 1500 → 1520 (Peak: 1533)

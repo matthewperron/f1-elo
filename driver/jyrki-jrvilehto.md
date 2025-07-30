@@ -5,6 +5,18 @@
 **Seasons**: [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 57 (171 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1478
+**Peak Qualifying ELO**: 1662 (1993 Round 15 - Japanese Grand Prix)
+**Lowest Qualifying ELO**: 1368 (1991 Round 5 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1449
+**Peak Race ELO**: 1592 (1992 Round 15 - Japanese Grand Prix)
+**Lowest Race ELO**: 1423 (1992 Round 7 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1458
+**Peak Global ELO**: 1605 (1993 Round 2 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1416 (1991 Round 10 - Hungarian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -180,9 +192,3 @@
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | qualifying | Benetton | 17 | 1493 | -14 | 1478 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | race | Benetton | 10 | 1478 | -28 | 1449 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | global | Benetton | Q:17/R:10 | 1481 | -24 | 1458 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1478 (Peak: 1662)
-**Race ELO**: 1500 → 1449 (Peak: 1592)
-**Global ELO**: 1500 → 1458 (Peak: 1605)

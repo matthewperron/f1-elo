@@ -5,6 +5,18 @@
 **Seasons**: [1995](../results/1995-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1466
+**Peak Qualifying ELO**: 1537 (1995 Round 9 - German Grand Prix)
+**Lowest Qualifying ELO**: 1435 (1995 Round 13 - Portuguese Grand Prix)
+**Race ELO**: 1500 → 1529
+**Peak Race ELO**: 1529 (1995 Round 12 - Italian Grand Prix)
+**Lowest Race ELO**: 1529 (1995 Round 12 - Italian Grand Prix)
+**Global ELO**: 1500 → 1510
+**Peak Global ELO**: 1513 (1995 Round 12 - Italian Grand Prix)
+**Lowest Global ELO**: 1484 (1995 Round 11 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,9 +42,3 @@
 | 1995 | [Round 14: European Grand Prix](../results/1995-season-report.md#round-14-european-grand-prix) | 1995-10-01 | qualifying | Footwork | 17 | 1435 | +31 | 1466 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue |
 | 1995 | [Round 14: European Grand Prix](../results/1995-season-report.md#round-14-european-grand-prix) | 1995-10-01 | race | Footwork | 12 | 1529 | N/A | 1529 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue |
 | 1995 | [Round 14: European Grand Prix](../results/1995-season-report.md#round-14-european-grand-prix) | 1995-10-01 | global | Footwork | Q:17/R:12 | 1501 | +9 | 1510 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1466 (Peak: 1537)
-**Race ELO**: 1500 → 1529 (Peak: 1529)
-**Global ELO**: 1500 → 1510 (Peak: 1513)

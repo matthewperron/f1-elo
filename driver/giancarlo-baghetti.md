@@ -5,6 +5,15 @@
 **Seasons**: [1963](../results/1963-season-report.md)
 **Total Race Events**: 8 (24 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1409
+**Peak Qualifying ELO**: 1532 (1963 Round 1 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1409 (1963 Round 9 - Mexican Grand Prix)
+**Global ELO**: 1500 → 1473
+**Peak Global ELO**: 1510 (1963 Round 1 - Monaco Grand Prix)
+**Lowest Global ELO**: 1473 (1963 Round 9 - Mexican Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -33,8 +42,3 @@
 | 1963 | [Round 9: Mexican Grand Prix](../results/1963-season-report.md#round-9-mexican-grand-prix) | 1963-10-27 | qualifying | ATS | 21 | 1429 | -20 | 1409 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
 | 1963 | [Round 9: Mexican Grand Prix](../results/1963-season-report.md#round-9-mexican-grand-prix) | 1963-10-27 | race | ATS | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
 | 1963 | [Round 9: Mexican Grand Prix](../results/1963-season-report.md#round-9-mexican-grand-prix) | 1963-10-27 | global | ATS | Q:21/R:DNF | 1479 | -6 | 1473 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1409 (Peak: 1532)
-**Global ELO**: 1500 → 1473 (Peak: 1510)

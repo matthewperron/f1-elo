@@ -5,6 +5,18 @@
 **Seasons**: [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md)
 **Total Race Events**: 39 (117 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1741
+**Peak Qualifying ELO**: 1741 (1977 Round 3 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1452 (1975 Round 3 - South African Grand Prix)
+**Race ELO**: 1500 → 1625
+**Peak Race ELO**: 1625 (1976 Round 14 - Canadian Grand Prix)
+**Lowest Race ELO**: 1494 (1976 Round 5 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1660
+**Peak Global ELO**: 1660 (1977 Round 3 - South African Grand Prix)
+**Lowest Global ELO**: 1493 (1974 Round 8 - Dutch Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -126,9 +138,3 @@
 | 1977 | [Round 3: South African Grand Prix](../results/1977-season-report.md#round-3-south-african-grand-prix) | 1977-03-05 | qualifying | Shadow | 15 | 1730 | +12 | 1741 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Renzo Zorzi |
 | 1977 | [Round 3: South African Grand Prix](../results/1977-season-report.md#round-3-south-african-grand-prix) | 1977-03-05 | race | Shadow | DNF | 1625 | N/A | 1625 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Renzo Zorzi |
 | 1977 | [Round 3: South African Grand Prix](../results/1977-season-report.md#round-3-south-african-grand-prix) | 1977-03-05 | global | Shadow | Q:15/R:DNF | 1656 | +4 | 1660 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Renzo Zorzi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1741 (Peak: 1741)
-**Race ELO**: 1500 → 1625 (Peak: 1625)
-**Global ELO**: 1500 → 1660 (Peak: 1660)

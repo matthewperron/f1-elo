@@ -5,6 +5,18 @@
 **Seasons**: [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md)
 **Total Race Events**: 157 (471 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1621
+**Peak Qualifying ELO**: 1927 (1996 Round 6 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1488 (2001 Round 11 - British Grand Prix)
+**Race ELO**: 1500 → 1609
+**Peak Race ELO**: 1771 (2001 Round 2 - Malaysian Grand Prix)
+**Lowest Race ELO**: 1475 (1994 Round 3 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1610
+**Peak Global ELO**: 1771 (1996 Round 11 - German Grand Prix)
+**Lowest Global ELO**: 1496 (1994 Round 4 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -480,9 +492,3 @@
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | qualifying | Sauber | 12 | 1653 | -31 | 1621 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld |
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | race | Sauber | DNF | 1609 | N/A | 1609 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld |
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | global | Sauber | Q:12/R:DNF | 1620 | -9 | 1610 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1621 (Peak: 1927)
-**Race ELO**: 1500 → 1609 (Peak: 1771)
-**Global ELO**: 1500 → 1610 (Peak: 1771)

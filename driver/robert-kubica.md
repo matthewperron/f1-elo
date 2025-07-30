@@ -5,6 +5,18 @@
 **Seasons**: [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2019](../results/2019-season-report.md) • [2021](../results/2021-season-report.md)
 **Total Race Events**: 99 (297 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1451
+**Peak Qualifying ELO**: 1751 (2010 Round 11 - German Grand Prix)
+**Lowest Qualifying ELO**: 1371 (2019 Round 21 - Abu Dhabi Grand Prix)
+**Race ELO**: 1500 → 1453
+**Peak Race ELO**: 1707 (2010 Round 19 - Abu Dhabi Grand Prix)
+**Lowest Race ELO**: 1337 (2019 Round 21 - Abu Dhabi Grand Prix)
+**Global ELO**: 1500 → 1452
+**Peak Global ELO**: 1715 (2010 Round 18 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1347 (2019 Round 21 - Abu Dhabi Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -306,9 +318,3 @@
 | 2021 | [Round 14: Italian Grand Prix](../results/2021-season-report.md#round-14-italian-grand-prix) | 2021-09-12 | qualifying | Alfa Romeo | 17 | 1473 | -22 | 1451 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi |
 | 2021 | [Round 14: Italian Grand Prix](../results/2021-season-report.md#round-14-italian-grand-prix) | 2021-09-12 | race | Alfa Romeo | 14 | 1474 | -21 | 1453 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi |
 | 2021 | [Round 14: Italian Grand Prix](../results/2021-season-report.md#round-14-italian-grand-prix) | 2021-09-12 | global | Alfa Romeo | Q:17/R:14 | 1474 | -21 | 1452 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1451 (Peak: 1751)
-**Race ELO**: 1500 → 1453 (Peak: 1707)
-**Global ELO**: 1500 → 1452 (Peak: 1715)

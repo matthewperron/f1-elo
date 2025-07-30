@@ -5,6 +5,18 @@
 **Seasons**: [1956](../results/1956-season-report.md) • [1957](../results/1957-season-report.md) • [1958](../results/1958-season-report.md) • [1961](../results/1961-season-report.md)
 **Total Race Events**: 11 (33 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1501
+**Peak Qualifying ELO**: 1546 (1961 Round 6 - German Grand Prix)
+**Lowest Qualifying ELO**: 1444 (1961 Round 4 - French Grand Prix)
+**Race ELO**: 1500 → 1501
+**Peak Race ELO**: 1501 (1961 Round 8 - United States Grand Prix)
+**Lowest Race ELO**: 1465 (1961 Round 2 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1500
+**Peak Global ELO**: 1511 (1958 Round 8 - German Grand Prix)
+**Lowest Global ELO**: 1459 (1961 Round 4 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -42,9 +54,3 @@
 | 1961 | [Round 8: United States Grand Prix](../results/1961-season-report.md#round-8-united-states-grand-prix) | 1961-10-08 | qualifying | BRM | 5 | 1521 | -20 | 1501 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
 | 1961 | [Round 8: United States Grand Prix](../results/1961-season-report.md#round-8-united-states-grand-prix) | 1961-10-08 | race | BRM | 3 | 1465 | +35 | 1501 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
 | 1961 | [Round 8: United States Grand Prix](../results/1961-season-report.md#round-8-united-states-grand-prix) | 1961-10-08 | global | BRM | Q:5/R:3 | 1482 | +19 | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1501 (Peak: 1546)
-**Race ELO**: 1500 → 1501 (Peak: 1501)
-**Global ELO**: 1500 → 1500 (Peak: 1511)

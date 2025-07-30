@@ -5,6 +5,15 @@
 **Seasons**: [1963](../results/1963-season-report.md) • [1969](../results/1969-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1468
+**Peak Qualifying ELO**: 1532 (1963 Round 10 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1468 (1969 Round 1 - South African Grand Prix)
+**Global ELO**: 1500 → 1490
+**Peak Global ELO**: 1510 (1963 Round 10 - South African Grand Prix)
+**Lowest Global ELO**: 1490 (1969 Round 1 - South African Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,8 +24,3 @@
 | 1969 | [Round 1: South African Grand Prix](../results/1969-season-report.md#round-1-south-african-grand-prix) | 1969-03-01 | qualifying | Brabham-Repco | 17 | 1500 | -32 | 1468 | Peter de Klerk |
 | 1969 | [Round 1: South African Grand Prix](../results/1969-season-report.md#round-1-south-african-grand-prix) | 1969-03-01 | race | Brabham-Repco | DNF | 1500 | N/A | 1500 | Peter de Klerk |
 | 1969 | [Round 1: South African Grand Prix](../results/1969-season-report.md#round-1-south-african-grand-prix) | 1969-03-01 | global | Brabham-Repco | Q:17/R:DNF | 1500 | -10 | 1490 | Peter de Klerk |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1468 (Peak: 1532)
-**Global ELO**: 1500 → 1490 (Peak: 1510)

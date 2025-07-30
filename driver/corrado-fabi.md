@@ -5,6 +5,15 @@
 **Seasons**: [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1547
+**Peak Qualifying ELO**: 1547 (1984 Round 9 - Dallas Grand Prix)
+**Lowest Qualifying ELO**: 1463 (1983 Round 13 - Italian Grand Prix)
+**Global ELO**: 1500 → 1515
+**Peak Global ELO**: 1515 (1984 Round 9 - Dallas Grand Prix)
+**Lowest Global ELO**: 1489 (1983 Round 13 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,8 +39,3 @@
 | 1984 | [Round 9: Dallas Grand Prix](../results/1984-season-report.md#round-9-dallas-grand-prix) | 1984-07-08 | qualifying | Brabham | 11 | 1489 | +58 | 1547 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
 | 1984 | [Round 9: Dallas Grand Prix](../results/1984-season-report.md#round-9-dallas-grand-prix) | 1984-07-08 | race | Brabham | 7 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
 | 1984 | [Round 9: Dallas Grand Prix](../results/1984-season-report.md#round-9-dallas-grand-prix) | 1984-07-08 | global | Brabham | Q:11/R:7 | 1497 | +17 | 1515 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1547 (Peak: 1547)
-**Global ELO**: 1500 → 1515 (Peak: 1515)

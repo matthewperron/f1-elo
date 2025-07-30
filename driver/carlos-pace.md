@@ -5,6 +5,18 @@
 **Seasons**: [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md)
 **Total Race Events**: 48 (144 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1653
+**Peak Qualifying ELO**: 1696 (1976 Round 16 - Japanese Grand Prix)
+**Lowest Qualifying ELO**: 1411 (1973 Round 8 - French Grand Prix)
+**Race ELO**: 1500 → 1496
+**Peak Race ELO**: 1561 (1975 Round 2 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1456 (1976 Round 4 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1542
+**Peak Global ELO**: 1579 (1975 Round 5 - Monaco Grand Prix)
+**Lowest Global ELO**: 1473 (1973 Round 8 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -153,9 +165,3 @@
 | 1977 | [Round 3: South African Grand Prix](../results/1977-season-report.md#round-3-south-african-grand-prix) | 1977-03-05 | qualifying | Brabham | 2 | 1618 | +35 | 1653 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson |
 | 1977 | [Round 3: South African Grand Prix](../results/1977-season-report.md#round-3-south-african-grand-prix) | 1977-03-05 | race | Brabham | 13 | 1531 | -35 | 1496 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson |
 | 1977 | [Round 3: South African Grand Prix](../results/1977-season-report.md#round-3-south-african-grand-prix) | 1977-03-05 | global | Brabham | Q:2/R:13 | 1556 | -14 | 1542 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1653 (Peak: 1696)
-**Race ELO**: 1500 → 1496 (Peak: 1561)
-**Global ELO**: 1500 → 1542 (Peak: 1579)

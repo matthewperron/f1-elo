@@ -5,6 +5,18 @@
 **Seasons**: [1983](../results/1983-season-report.md)
 **Total Race Events**: 9 (27 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1561
+**Peak Qualifying ELO**: 1581 (1983 Round 8 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1463 (1983 Round 3 - French Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1983 Round 13 - Italian Grand Prix)
+**Lowest Race ELO**: 1468 (1983 Round 13 - Italian Grand Prix)
+**Global ELO**: 1500 → 1496
+**Peak Global ELO**: 1524 (1983 Round 8 - Canadian Grand Prix)
+**Lowest Global ELO**: 1489 (1983 Round 3 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -36,9 +48,3 @@
 | 1983 | [Round 13: Italian Grand Prix](../results/1983-season-report.md#round-13-italian-grand-prix) | 1983-09-11 | qualifying | Theodore | 21 | 1535 | +26 | 1561 | Johnny Cecotto |
 | 1983 | [Round 13: Italian Grand Prix](../results/1983-season-report.md#round-13-italian-grand-prix) | 1983-09-11 | race | Theodore | 13 | 1500 | -32 | 1468 | Johnny Cecotto |
 | 1983 | [Round 13: Italian Grand Prix](../results/1983-season-report.md#round-13-italian-grand-prix) | 1983-09-11 | global | Theodore | Q:21/R:13 | 1510 | -15 | 1496 | Johnny Cecotto |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1561 (Peak: 1581)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1496 (Peak: 1524)

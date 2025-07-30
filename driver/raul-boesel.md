@@ -5,6 +5,15 @@
 **Seasons**: [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md)
 **Total Race Events**: 22 (66 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1417
+**Peak Qualifying ELO**: 1561 (1982 Round 9 - Dutch Grand Prix)
+**Lowest Qualifying ELO**: 1414 (1983 Round 8 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1475
+**Peak Global ELO**: 1518 (1982 Round 9 - Dutch Grand Prix)
+**Lowest Global ELO**: 1474 (1983 Round 8 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -75,8 +84,3 @@
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | qualifying | Ligier | 23 | 1427 | -11 | 1417 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier |
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | race | Ligier | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier |
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | global | Ligier | Q:23/R:DNF | 1478 | -3 | 1475 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1417 (Peak: 1561)
-**Global ELO**: 1500 → 1475 (Peak: 1518)

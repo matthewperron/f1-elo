@@ -5,6 +5,18 @@
 **Seasons**: [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md)
 **Total Race Events**: 118 (354 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1368
+**Peak Qualifying ELO**: 1695 (1982 Round 8 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1317 (1989 Round 14 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1456
+**Peak Race ELO**: 1585 (1982 Round 7 - Detroit Grand Prix)
+**Lowest Race ELO**: 1378 (1988 Round 11 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1431
+**Peak Global ELO**: 1618 (1982 Round 8 - Canadian Grand Prix)
+**Lowest Global ELO**: 1392 (1989 Round 6 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -363,9 +375,3 @@
 | 1989 | [Round 16: Australian Grand Prix](../results/1989-season-report.md#round-16-australian-grand-prix) | 1989-11-05 | qualifying | Arrows | 22 | 1376 | -8 | 1368 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick |
 | 1989 | [Round 16: Australian Grand Prix](../results/1989-season-report.md#round-16-australian-grand-prix) | 1989-11-05 | race | Arrows | DNF | 1456 | N/A | 1456 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick |
 | 1989 | [Round 16: Australian Grand Prix](../results/1989-season-report.md#round-16-australian-grand-prix) | 1989-11-05 | global | Arrows | Q:22/R:DNF | 1433 | -2 | 1431 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1368 (Peak: 1695)
-**Race ELO**: 1500 → 1456 (Peak: 1585)
-**Global ELO**: 1500 → 1431 (Peak: 1618)

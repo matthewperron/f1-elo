@@ -5,6 +5,18 @@
 **Seasons**: [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 162 (486 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1696
+**Peak Qualifying ELO**: 1857 (2020 Round 13 - Emilia Romagna Grand Prix)
+**Lowest Qualifying ELO**: 1454 (2018 Round 2 - Bahrain Grand Prix)
+**Race ELO**: 1500 → 1790
+**Peak Race ELO**: 1823 (2025 Round 11 - Austrian Grand Prix)
+**Lowest Race ELO**: 1444 (2018 Round 3 - Chinese Grand Prix)
+**Global ELO**: 1500 → 1759
+**Peak Global ELO**: 1786 (2025 Round 11 - Austrian Grand Prix)
+**Lowest Global ELO**: 1461 (2018 Round 3 - Chinese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -495,9 +507,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Ferrari | 3 | 1667 | +29 | 1696 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Ferrari | 3 | 1771 | +19 | 1790 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Ferrari | Q:3/R:3 | 1737 | +22 | 1759 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1696 (Peak: 1857)
-**Race ELO**: 1500 → 1790 (Peak: 1823)
-**Global ELO**: 1500 → 1759 (Peak: 1786)

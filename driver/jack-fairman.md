@@ -5,6 +5,15 @@
 **Seasons**: [1957](../results/1957-season-report.md) • [1958](../results/1958-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1436
+**Peak Qualifying ELO**: 1468 (1957 Round 5 - British Grand Prix)
+**Lowest Qualifying ELO**: 1436 (1958 Round 7 - British Grand Prix)
+**Global ELO**: 1500 → 1480
+**Peak Global ELO**: 1490 (1957 Round 5 - British Grand Prix)
+**Lowest Global ELO**: 1480 (1958 Round 7 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,8 +24,3 @@
 | 1958 | [Round 7: British Grand Prix](../results/1958-season-report.md#round-7-british-grand-prix) | 1958-07-19 | qualifying | Connaught | 19 | 1468 | -32 | 1436 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ivor Bueb |
 | 1958 | [Round 7: British Grand Prix](../results/1958-season-report.md#round-7-british-grand-prix) | 1958-07-19 | race | Connaught | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ivor Bueb |
 | 1958 | [Round 7: British Grand Prix](../results/1958-season-report.md#round-7-british-grand-prix) | 1958-07-19 | global | Connaught | Q:19/R:DNF | 1490 | -10 | 1480 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ivor Bueb |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1436 (Peak: 1468)
-**Global ELO**: 1500 → 1480 (Peak: 1490)

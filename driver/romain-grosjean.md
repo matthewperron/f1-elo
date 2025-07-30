@@ -5,6 +5,18 @@
 **Seasons**: [2009](../results/2009-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md)
 **Total Race Events**: 181 (543 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1497
+**Peak Qualifying ELO**: 1752 (2016 Round 5 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1343 (2013 Round 7 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1631 (2015 Round 18 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1345 (2013 Round 10 - Hungarian Grand Prix)
+**Global ELO**: 1500 → 1480
+**Peak Global ELO**: 1669 (2015 Round 18 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1360 (2013 Round 7 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -552,9 +564,3 @@
 | 2020 | [Round 15: Bahrain Grand Prix](../results/2020-season-report.md#round-15-bahrain-grand-prix) | 2020-11-29 | qualifying | Haas F1 Team | 19 | 1533 | -36 | 1497 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen |
 | 2020 | [Round 15: Bahrain Grand Prix](../results/2020-season-report.md#round-15-bahrain-grand-prix) | 2020-11-29 | race | Haas F1 Team | DNF | 1468 | N/A | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen |
 | 2020 | [Round 15: Bahrain Grand Prix](../results/2020-season-report.md#round-15-bahrain-grand-prix) | 2020-11-29 | global | Haas F1 Team | Q:19/R:DNF | 1491 | -11 | 1480 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1497 (Peak: 1752)
-**Race ELO**: 1500 → 1468 (Peak: 1631)
-**Global ELO**: 1500 → 1480 (Peak: 1669)

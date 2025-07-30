@@ -5,6 +5,18 @@
 **Seasons**: [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 16 (48 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1480
+**Peak Qualifying ELO**: 1574 (2024 Round 21 - São Paulo Grand Prix)
+**Lowest Qualifying ELO**: 1441 (2025 Round 8 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1564
+**Peak Race ELO**: 1564 (2025 Round 13 - Belgian Grand Prix)
+**Lowest Race ELO**: 1468 (2025 Round 2 - Chinese Grand Prix)
+**Global ELO**: 1500 → 1539
+**Peak Global ELO**: 1539 (2025 Round 13 - Belgian Grand Prix)
+**Lowest Global ELO**: 1476 (2025 Round 2 - Chinese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -57,9 +69,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Haas F1 Team | 12 | 1512 | -32 | 1480 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Haas F1 Team | 11 | 1532 | +32 | 1564 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Haas F1 Team | Q:12/R:11 | 1526 | +13 | 1539 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1480 (Peak: 1574)
-**Race ELO**: 1500 → 1564 (Peak: 1564)
-**Global ELO**: 1500 → 1539 (Peak: 1539)

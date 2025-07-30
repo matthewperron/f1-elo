@@ -5,6 +5,18 @@
 **Seasons**: [1990](../results/1990-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 21 (63 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1637
+**Peak Qualifying ELO**: 1637 (1994 Round 16 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1439 (1990 Round 13 - Portuguese Grand Prix)
+**Race ELO**: 1500 → 1532
+**Peak Race ELO**: 1532 (1994 Round 8 - British Grand Prix)
+**Lowest Race ELO**: 1467 (1990 Round 7 - French Grand Prix)
+**Global ELO**: 1500 → 1564
+**Peak Global ELO**: 1564 (1994 Round 16 - Australian Grand Prix)
+**Lowest Global ELO**: 1459 (1990 Round 13 - Portuguese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -72,9 +84,3 @@
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | qualifying | Simtek | 24 | 1618 | +19 | 1637 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Domenico Schiattarella |
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | race | Simtek | DNF | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Domenico Schiattarella |
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | global | Simtek | Q:24/R:DNF | 1558 | +6 | 1564 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Domenico Schiattarella |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1637 (Peak: 1637)
-**Race ELO**: 1500 → 1532 (Peak: 1532)
-**Global ELO**: 1500 → 1564 (Peak: 1564)

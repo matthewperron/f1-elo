@@ -5,6 +5,18 @@
 **Seasons**: [1958](../results/1958-season-report.md) • [1960](../results/1960-season-report.md)
 **Total Race Events**: 3 (9 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1558
+**Peak Qualifying ELO**: 1558 (1960 Round 8 - Portuguese Grand Prix)
+**Lowest Qualifying ELO**: 1468 (1958 Round 9 - Portuguese Grand Prix)
+**Race ELO**: 1500 → 1532
+**Peak Race ELO**: 1532 (1960 Round 7 - British Grand Prix)
+**Lowest Race ELO**: 1468 (1958 Round 9 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1540
+**Peak Global ELO**: 1540 (1960 Round 8 - Portuguese Grand Prix)
+**Lowest Global ELO**: 1468 (1958 Round 9 - Portuguese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -18,9 +30,3 @@
 | 1960 | [Round 8: Portuguese Grand Prix](../results/1960-season-report.md#round-8-portuguese-grand-prix) | 1960-08-14 | qualifying | Ferrari | 9 | 1532 | +26 | 1558 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
 | 1960 | [Round 8: Portuguese Grand Prix](../results/1960-season-report.md#round-8-portuguese-grand-prix) | 1960-08-14 | race | Ferrari | 4 | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
 | 1960 | [Round 8: Portuguese Grand Prix](../results/1960-season-report.md#round-8-portuguese-grand-prix) | 1960-08-14 | global | Ferrari | Q:9/R:4 | 1532 | +8 | 1540 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1558 (Peak: 1558)
-**Race ELO**: 1500 → 1532 (Peak: 1532)
-**Global ELO**: 1500 → 1540 (Peak: 1540)

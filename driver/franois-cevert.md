@@ -5,6 +5,18 @@
 **Seasons**: [1971](../results/1971-season-report.md) • [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md)
 **Total Race Events**: 31 (93 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1349
+**Peak Qualifying ELO**: 1468 (1971 Round 1 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1292 (1973 Round 2 - Brazilian Grand Prix)
+**Race ELO**: 1500 → 1425
+**Peak Race ELO**: 1509 (1973 Round 9 - British Grand Prix)
+**Lowest Race ELO**: 1372 (1972 Round 9 - Austrian Grand Prix)
+**Global ELO**: 1500 → 1402
+**Peak Global ELO**: 1490 (1971 Round 1 - South African Grand Prix)
+**Lowest Global ELO**: 1351 (1972 Round 11 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -102,9 +114,3 @@
 | 1973 | [Round 13: Italian Grand Prix](../results/1973-season-report.md#round-13-italian-grand-prix) | 1973-09-09 | qualifying | Tyrrell | 11 | 1359 | -11 | 1349 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart |
 | 1973 | [Round 13: Italian Grand Prix](../results/1973-season-report.md#round-13-italian-grand-prix) | 1973-09-09 | race | Tyrrell | 5 | 1448 | -23 | 1425 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart |
 | 1973 | [Round 13: Italian Grand Prix](../results/1973-season-report.md#round-13-italian-grand-prix) | 1973-09-09 | global | Tyrrell | Q:11/R:5 | 1421 | -19 | 1402 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1349 (Peak: 1468)
-**Race ELO**: 1500 → 1425 (Peak: 1509)
-**Global ELO**: 1500 → 1402 (Peak: 1490)

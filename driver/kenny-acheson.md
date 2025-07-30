@@ -5,6 +5,15 @@
 **Seasons**: [1985](../results/1985-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1486
+**Peak Qualifying ELO**: 1486 (1985 Round 12 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1457 (1985 Round 10 - Austrian Grand Prix)
+**Global ELO**: 1500 → 1496
+**Peak Global ELO**: 1496 (1985 Round 12 - Italian Grand Prix)
+**Lowest Global ELO**: 1487 (1985 Round 10 - Austrian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,8 +24,3 @@
 | 1985 | [Round 12: Italian Grand Prix](../results/1985-season-report.md#round-12-italian-grand-prix) | 1985-09-08 | qualifying | RAM | 24 | 1457 | +29 | 1486 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot |
 | 1985 | [Round 12: Italian Grand Prix](../results/1985-season-report.md#round-12-italian-grand-prix) | 1985-09-08 | race | RAM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot |
 | 1985 | [Round 12: Italian Grand Prix](../results/1985-season-report.md#round-12-italian-grand-prix) | 1985-09-08 | global | RAM | Q:24/R:DNF | 1487 | +9 | 1496 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1486 (Peak: 1486)
-**Global ELO**: 1500 → 1496 (Peak: 1496)

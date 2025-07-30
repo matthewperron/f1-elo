@@ -5,6 +5,18 @@
 **Seasons**: [1979](../results/1979-season-report.md) • [1982](../results/1982-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1477
+**Peak Qualifying ELO**: 1477 (1982 Round 11 - French Grand Prix)
+**Lowest Qualifying ELO**: 1458 (1979 Round 10 - German Grand Prix)
+**Race ELO**: 1500 → 1519
+**Peak Race ELO**: 1519 (1979 Round 10 - German Grand Prix)
+**Lowest Race ELO**: 1519 (1979 Round 10 - German Grand Prix)
+**Global ELO**: 1500 → 1493
+**Peak Global ELO**: 1501 (1979 Round 10 - German Grand Prix)
+**Lowest Global ELO**: 1493 (1982 Round 11 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,9 +27,3 @@
 | 1982 | [Round 11: French Grand Prix](../results/1982-season-report.md#round-11-french-grand-prix) | 1982-07-25 | qualifying | Team Lotus | 24 | 1500 | -23 | 1477 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis |
 | 1982 | [Round 11: French Grand Prix](../results/1982-season-report.md#round-11-french-grand-prix) | 1982-07-25 | race | Team Lotus | 12 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis |
 | 1982 | [Round 11: French Grand Prix](../results/1982-season-report.md#round-11-french-grand-prix) | 1982-07-25 | global | Team Lotus | Q:24/R:12 | 1500 | -7 | 1493 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1477 (Peak: 1477)
-**Race ELO**: 1500 → 1519 (Peak: 1519)
-**Global ELO**: 1500 → 1493 (Peak: 1501)

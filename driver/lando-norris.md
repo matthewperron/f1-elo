@@ -5,6 +5,18 @@
 **Seasons**: [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 141 (423 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1691
+**Peak Qualifying ELO**: 1879 (2023 Round 11 - Hungarian Grand Prix)
+**Lowest Qualifying ELO**: 1451 (2019 Round 19 - United States Grand Prix)
+**Race ELO**: 1500 → 1617
+**Peak Race ELO**: 1755 (2024 Round 7 - Emilia Romagna Grand Prix)
+**Lowest Race ELO**: 1438 (2019 Round 8 - French Grand Prix)
+**Global ELO**: 1500 → 1637
+**Peak Global ELO**: 1771 (2022 Round 19 - United States Grand Prix)
+**Lowest Global ELO**: 1457 (2019 Round 18 - Mexican Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -432,9 +444,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | McLaren | 1 | 1655 | +36 | 1691 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | McLaren | 2 | 1658 | -42 | 1617 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | McLaren | Q:1/R:2 | 1656 | -19 | 1637 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1691 (Peak: 1879)
-**Race ELO**: 1500 → 1617 (Peak: 1755)
-**Global ELO**: 1500 → 1637 (Peak: 1771)

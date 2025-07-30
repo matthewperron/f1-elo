@@ -5,6 +5,18 @@
 **Seasons**: [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md)
 **Total Race Events**: 153 (459 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1600
+**Peak Qualifying ELO**: 1770 (1986 Round 15 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1268 (1993 Round 5 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1548
+**Peak Race ELO**: 1548 (1996 Round 16 - Japanese Grand Prix)
+**Lowest Race ELO**: 1432 (1995 Round 4 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1563
+**Peak Global ELO**: 1589 (1986 Round 12 - Austrian Grand Prix)
+**Lowest Global ELO**: 1414 (1992 Round 12 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -468,9 +480,3 @@
 | 1996 | [Round 16: Japanese Grand Prix](../results/1996-season-report.md#round-16-japanese-grand-prix) | 1996-10-13 | qualifying | Jordan | 10 | 1563 | +36 | 1600 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
 | 1996 | [Round 16: Japanese Grand Prix](../results/1996-season-report.md#round-16-japanese-grand-prix) | 1996-10-13 | race | Jordan | 5 | 1513 | +35 | 1548 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
 | 1996 | [Round 16: Japanese Grand Prix](../results/1996-season-report.md#round-16-japanese-grand-prix) | 1996-10-13 | global | Jordan | Q:10/R:5 | 1527 | +35 | 1563 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1600 (Peak: 1770)
-**Race ELO**: 1500 → 1548 (Peak: 1548)
-**Global ELO**: 1500 → 1563 (Peak: 1589)

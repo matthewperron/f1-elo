@@ -5,6 +5,18 @@
 **Seasons**: [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2003](../results/2003-season-report.md)
 **Total Race Events**: 107 (321 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1632
+**Peak Qualifying ELO**: 1749 (1996 Round 16 - Japanese Grand Prix)
+**Lowest Qualifying ELO**: 1378 (2001 Round 6 - Austrian Grand Prix)
+**Race ELO**: 1500 → 1518
+**Peak Race ELO**: 1616 (2001 Round 11 - British Grand Prix)
+**Lowest Race ELO**: 1411 (1998 Round 15 - Luxembourg Grand Prix)
+**Global ELO**: 1500 → 1552
+**Peak Global ELO**: 1587 (1996 Round 16 - Japanese Grand Prix)
+**Lowest Global ELO**: 1437 (1998 Round 16 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -330,9 +342,3 @@
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | qualifying | Minardi | 17 | 1617 | +15 | 1632 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Nicolas Kiesa |
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | race | Minardi | 15 | 1484 | +33 | 1518 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Nicolas Kiesa |
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | global | Minardi | Q:17/R:15 | 1524 | +28 | 1552 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Nicolas Kiesa |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1632 (Peak: 1749)
-**Race ELO**: 1500 → 1518 (Peak: 1616)
-**Global ELO**: 1500 → 1552 (Peak: 1587)

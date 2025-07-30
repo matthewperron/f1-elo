@@ -5,6 +5,18 @@
 **Seasons**: [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1999](../results/1999-season-report.md)
 **Total Race Events**: 42 (126 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1521
+**Peak Qualifying ELO**: 1551 (1999 Round 7 - French Grand Prix)
+**Lowest Qualifying ELO**: 1318 (1994 Round 7 - French Grand Prix)
+**Race ELO**: 1500 → 1408
+**Peak Race ELO**: 1475 (1991 Round 16 - Australian Grand Prix)
+**Lowest Race ELO**: 1408 (1999 Round 13 - Italian Grand Prix)
+**Global ELO**: 1500 → 1442
+**Peak Global ELO**: 1515 (1999 Round 7 - French Grand Prix)
+**Lowest Global ELO**: 1385 (1994 Round 7 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -135,9 +147,3 @@
 | 1999 | [Round 16: Japanese Grand Prix](../results/1999-season-report.md#round-16-japanese-grand-prix) | 1999-10-31 | qualifying | Williams | 8 | 1477 | +44 | 1521 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ralf Schumacher |
 | 1999 | [Round 16: Japanese Grand Prix](../results/1999-season-report.md#round-16-japanese-grand-prix) | 1999-10-31 | race | Williams | DNF | 1408 | N/A | 1408 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ralf Schumacher |
 | 1999 | [Round 16: Japanese Grand Prix](../results/1999-season-report.md#round-16-japanese-grand-prix) | 1999-10-31 | global | Williams | Q:8/R:DNF | 1428 | +13 | 1442 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ralf Schumacher |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1521 (Peak: 1551)
-**Race ELO**: 1500 → 1408 (Peak: 1475)
-**Global ELO**: 1500 → 1442 (Peak: 1515)

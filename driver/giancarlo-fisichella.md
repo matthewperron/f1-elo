@@ -5,6 +5,18 @@
 **Seasons**: [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md)
 **Total Race Events**: 231 (693 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1565
+**Peak Qualifying ELO**: 1785 (2000 Round 14 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1432 (2007 Round 14 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1454
+**Peak Race ELO**: 1723 (2004 Round 12 - German Grand Prix)
+**Lowest Race ELO**: 1368 (2007 Round 16 - Chinese Grand Prix)
+**Global ELO**: 1500 → 1487
+**Peak Global ELO**: 1715 (2004 Round 13 - Hungarian Grand Prix)
+**Lowest Global ELO**: 1393 (2007 Round 16 - Chinese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -702,9 +714,3 @@
 | 2009 | [Round 17: Abu Dhabi Grand Prix](../results/2009-season-report.md#round-17-abu-dhabi-grand-prix) | 2009-11-01 | qualifying | Force India | 20 | 1576 | -11 | 1565 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen |
 | 2009 | [Round 17: Abu Dhabi Grand Prix](../results/2009-season-report.md#round-17-abu-dhabi-grand-prix) | 2009-11-01 | race | Force India | 16 | 1465 | -12 | 1454 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen |
 | 2009 | [Round 17: Abu Dhabi Grand Prix](../results/2009-season-report.md#round-17-abu-dhabi-grand-prix) | 2009-11-01 | global | Force India | Q:20/R:16 | 1498 | -12 | 1487 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1565 (Peak: 1785)
-**Race ELO**: 1500 → 1454 (Peak: 1723)
-**Global ELO**: 1500 → 1487 (Peak: 1715)

@@ -5,6 +5,18 @@
 **Seasons**: [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md)
 **Total Race Events**: 20 (60 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1457
+**Peak Qualifying ELO**: 1550 (2004 Round 13 - Hungarian Grand Prix)
+**Lowest Qualifying ELO**: 1457 (2005 Round 19 - Chinese Grand Prix)
+**Race ELO**: 1500 → 1442
+**Peak Race ELO**: 1473 (2003 Round 6 - Austrian Grand Prix)
+**Lowest Race ELO**: 1388 (2004 Round 15 - Italian Grand Prix)
+**Global ELO**: 1500 → 1447
+**Peak Global ELO**: 1510 (2003 Round 2 - Malaysian Grand Prix)
+**Lowest Global ELO**: 1424 (2004 Round 15 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -69,9 +81,3 @@
 | 2005 | [Round 19: Chinese Grand Prix](../results/2005-season-report.md#round-19-chinese-grand-prix) | 2005-10-16 | qualifying | Williams | 13 | 1466 | -8 | 1457 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber |
 | 2005 | [Round 19: Chinese Grand Prix](../results/2005-season-report.md#round-19-chinese-grand-prix) | 2005-10-16 | race | Williams | DNF | 1442 | N/A | 1442 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber |
 | 2005 | [Round 19: Chinese Grand Prix](../results/2005-season-report.md#round-19-chinese-grand-prix) | 2005-10-16 | global | Williams | Q:13/R:DNF | 1449 | -2 | 1447 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1457 (Peak: 1550)
-**Race ELO**: 1500 → 1442 (Peak: 1473)
-**Global ELO**: 1500 → 1447 (Peak: 1510)

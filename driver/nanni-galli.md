@@ -5,6 +5,18 @@
 **Seasons**: [1971](../results/1971-season-report.md) • [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1477
+**Peak Qualifying ELO**: 1515 (1973 Round 5 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1438 (1972 Round 6 - French Grand Prix)
+**Race ELO**: 1500 → 1443
+**Peak Race ELO**: 1473 (1972 Round 6 - French Grand Prix)
+**Lowest Race ELO**: 1443 (1973 Round 2 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1454
+**Peak Global ELO**: 1490 (1971 Round 7 - German Grand Prix)
+**Lowest Global ELO**: 1444 (1973 Round 2 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,9 +42,3 @@
 | 1973 | [Round 6: Monaco Grand Prix](../results/1973-season-report.md#round-6-monaco-grand-prix) | 1973-06-03 | qualifying | Iso Marlboro | 21 | 1515 | -37 | 1477 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley |
 | 1973 | [Round 6: Monaco Grand Prix](../results/1973-season-report.md#round-6-monaco-grand-prix) | 1973-06-03 | race | Iso Marlboro | DNF | 1443 | N/A | 1443 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley |
 | 1973 | [Round 6: Monaco Grand Prix](../results/1973-season-report.md#round-6-monaco-grand-prix) | 1973-06-03 | global | Iso Marlboro | Q:21/R:DNF | 1465 | -11 | 1454 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1477 (Peak: 1515)
-**Race ELO**: 1500 → 1443 (Peak: 1473)
-**Global ELO**: 1500 → 1454 (Peak: 1490)

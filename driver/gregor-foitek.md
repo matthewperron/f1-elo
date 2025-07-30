@@ -5,6 +5,15 @@
 **Seasons**: [1990](../results/1990-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1530
+**Peak Qualifying ELO**: 1578 (1990 Round 6 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1472 (1990 Round 2 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1509
+**Peak Global ELO**: 1523 (1990 Round 6 - Mexican Grand Prix)
+**Lowest Global ELO**: 1492 (1990 Round 2 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,8 +39,3 @@
 | 1990 | [Round 9: German Grand Prix](../results/1990-season-report.md#round-9-german-grand-prix) | 1990-07-29 | qualifying | Brabham | 26 | 1578 | -47 | 1530 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
 | 1990 | [Round 9: German Grand Prix](../results/1990-season-report.md#round-9-german-grand-prix) | 1990-07-29 | race | Brabham | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
 | 1990 | [Round 9: German Grand Prix](../results/1990-season-report.md#round-9-german-grand-prix) | 1990-07-29 | global | Brabham | Q:26/R:DNF | 1523 | -14 | 1509 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1530 (Peak: 1578)
-**Global ELO**: 1500 → 1509 (Peak: 1523)

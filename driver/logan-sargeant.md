@@ -5,6 +5,18 @@
 **Seasons**: [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md)
 **Total Race Events**: 36 (108 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1410
+**Peak Qualifying ELO**: 1482 (2023 Round 1 - Bahrain Grand Prix)
+**Lowest Qualifying ELO**: 1308 (2024 Round 9 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1368
+**Peak Race ELO**: 1478 (2023 Round 4 - Azerbaijan Grand Prix)
+**Lowest Race ELO**: 1368 (2024 Round 14 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1379
+**Peak Global ELO**: 1495 (2023 Round 1 - Bahrain Grand Prix)
+**Lowest Global ELO**: 1358 (2024 Round 9 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -117,9 +129,3 @@
 | 2024 | [Round 15: Dutch Grand Prix](../results/2024-season-report.md#round-15-dutch-grand-prix) | 2024-08-25 | qualifying | Williams | 18 | 1351 | +60 | 1410 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon |
 | 2024 | [Round 15: Dutch Grand Prix](../results/2024-season-report.md#round-15-dutch-grand-prix) | 2024-08-25 | race | Williams | DNF | 1368 | N/A | 1368 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon |
 | 2024 | [Round 15: Dutch Grand Prix](../results/2024-season-report.md#round-15-dutch-grand-prix) | 2024-08-25 | global | Williams | Q:18/R:DNF | 1361 | +18 | 1379 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1410 (Peak: 1482)
-**Race ELO**: 1500 → 1368 (Peak: 1478)
-**Global ELO**: 1500 → 1379 (Peak: 1495)

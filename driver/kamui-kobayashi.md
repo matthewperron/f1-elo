@@ -5,6 +5,18 @@
 **Seasons**: [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2014](../results/2014-season-report.md)
 **Total Race Events**: 76 (228 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1539
+**Peak Qualifying ELO**: 1626 (2011 Round 2 - Malaysian Grand Prix)
+**Lowest Qualifying ELO**: 1416 (2010 Round 2 - Australian Grand Prix)
+**Race ELO**: 1500 → 1542
+**Peak Race ELO**: 1681 (2012 Round 3 - Chinese Grand Prix)
+**Lowest Race ELO**: 1516 (2014 Round 6 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1541
+**Peak Global ELO**: 1657 (2012 Round 3 - Chinese Grand Prix)
+**Lowest Global ELO**: 1495 (2009 Round 16 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -237,9 +249,3 @@
 | 2014 | [Round 19: Abu Dhabi Grand Prix](../results/2014-season-report.md#round-19-abu-dhabi-grand-prix) | 2014-11-23 | qualifying | Caterham | 16 | 1507 | +31 | 1539 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens |
 | 2014 | [Round 19: Abu Dhabi Grand Prix](../results/2014-season-report.md#round-19-abu-dhabi-grand-prix) | 2014-11-23 | race | Caterham | DNF | 1542 | N/A | 1542 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens |
 | 2014 | [Round 19: Abu Dhabi Grand Prix](../results/2014-season-report.md#round-19-abu-dhabi-grand-prix) | 2014-11-23 | global | Caterham | Q:16/R:DNF | 1532 | +9 | 1541 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1539 (Peak: 1626)
-**Race ELO**: 1500 → 1542 (Peak: 1681)
-**Global ELO**: 1500 → 1541 (Peak: 1657)

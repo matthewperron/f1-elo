@@ -5,6 +5,18 @@
 **Seasons**: [2010](../results/2010-season-report.md)
 **Total Race Events**: 19 (57 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1386
+**Peak Qualifying ELO**: 1468 (2010 Round 1 - Bahrain Grand Prix)
+**Lowest Qualifying ELO**: 1351 (2010 Round 8 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1527
+**Peak Race ELO**: 1561 (2010 Round 13 - Belgian Grand Prix)
+**Lowest Race ELO**: 1478 (2010 Round 7 - Turkish Grand Prix)
+**Global ELO**: 1500 → 1485
+**Peak Global ELO**: 1501 (2010 Round 16 - Japanese Grand Prix)
+**Lowest Global ELO**: 1439 (2010 Round 8 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -66,9 +78,3 @@
 | 2010 | [Round 19: Abu Dhabi Grand Prix](../results/2010-season-report.md#round-19-abu-dhabi-grand-prix) | 2010-11-14 | qualifying | Virgin | 22 | 1402 | -15 | 1386 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock |
 | 2010 | [Round 19: Abu Dhabi Grand Prix](../results/2010-season-report.md#round-19-abu-dhabi-grand-prix) | 2010-11-14 | race | Virgin | 18 | 1527 | N/A | 1527 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock |
 | 2010 | [Round 19: Abu Dhabi Grand Prix](../results/2010-season-report.md#round-19-abu-dhabi-grand-prix) | 2010-11-14 | global | Virgin | Q:22/R:18 | 1489 | -4 | 1485 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1386 (Peak: 1468)
-**Race ELO**: 1500 → 1527 (Peak: 1561)
-**Global ELO**: 1500 → 1485 (Peak: 1501)

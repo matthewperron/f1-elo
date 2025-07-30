@@ -5,6 +5,18 @@
 **Seasons**: [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md)
 **Total Race Events**: 73 (219 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1628
+**Peak Qualifying ELO**: 1838 (1978 Round 14 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1514 (1976 Round 4 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1580
+**Peak Race ELO**: 1708 (1979 Round 13 - Italian Grand Prix)
+**Lowest Race ELO**: 1442 (1976 Round 11 - Austrian Grand Prix)
+**Global ELO**: 1500 → 1593
+**Peak Global ELO**: 1739 (1978 Round 14 - Italian Grand Prix)
+**Lowest Global ELO**: 1474 (1976 Round 13 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -228,9 +240,3 @@
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | qualifying | Williams | 7 | 1616 | +13 | 1628 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | race | Williams | DNF | 1580 | N/A | 1580 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | global | Williams | Q:7/R:DNF | 1589 | +4 | 1593 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1628 (Peak: 1838)
-**Race ELO**: 1500 → 1580 (Peak: 1708)
-**Global ELO**: 1500 → 1593 (Peak: 1739)

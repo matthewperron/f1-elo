@@ -5,6 +5,18 @@
 **Seasons**: [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md)
 **Total Race Events**: 112 (336 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1460
+**Peak Qualifying ELO**: 1600 (2015 Round 9 - British Grand Prix)
+**Lowest Qualifying ELO**: 1305 (2020 Round 6 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1461
+**Peak Race ELO**: 1664 (2015 Round 18 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1381 (2017 Round 12 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1461
+**Peak Global ELO**: 1640 (2015 Round 18 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1396 (2017 Round 12 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -345,9 +357,3 @@
 | 2020 | [Round 17: Abu Dhabi Grand Prix](../results/2020-season-report.md#round-17-abu-dhabi-grand-prix) | 2020-12-13 | qualifying | AlphaTauri | 7 | 1419 | +41 | 1460 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly |
 | 2020 | [Round 17: Abu Dhabi Grand Prix](../results/2020-season-report.md#round-17-abu-dhabi-grand-prix) | 2020-12-13 | race | AlphaTauri | 11 | 1491 | -30 | 1461 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly |
 | 2020 | [Round 17: Abu Dhabi Grand Prix](../results/2020-season-report.md#round-17-abu-dhabi-grand-prix) | 2020-12-13 | global | AlphaTauri | Q:7/R:11 | 1470 | -9 | 1461 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1460 (Peak: 1600)
-**Race ELO**: 1500 → 1461 (Peak: 1664)
-**Global ELO**: 1500 → 1461 (Peak: 1640)

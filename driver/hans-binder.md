@@ -5,6 +5,18 @@
 **Seasons**: [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md)
 **Total Race Events**: 12 (36 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1342
+**Peak Qualifying ELO**: 1466 (1976 Round 16 - Japanese Grand Prix)
+**Lowest Qualifying ELO**: 1323 (1977 Round 12 - Austrian Grand Prix)
+**Race ELO**: 1500 → 1492
+**Peak Race ELO**: 1492 (1977 Round 12 - Austrian Grand Prix)
+**Lowest Race ELO**: 1468 (1977 Round 3 - South African Grand Prix)
+**Global ELO**: 1500 → 1447
+**Peak Global ELO**: 1490 (1976 Round 16 - Japanese Grand Prix)
+**Lowest Global ELO**: 1432 (1977 Round 6 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -45,9 +57,3 @@
 | 1977 | [Round 17: Japanese Grand Prix](../results/1977-season-report.md#round-17-japanese-grand-prix) | 1977-10-23 | qualifying | Surtees | 21 | 1349 | -7 | 1342 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla |
 | 1977 | [Round 17: Japanese Grand Prix](../results/1977-season-report.md#round-17-japanese-grand-prix) | 1977-10-23 | race | Surtees | DNF | 1492 | N/A | 1492 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla |
 | 1977 | [Round 17: Japanese Grand Prix](../results/1977-season-report.md#round-17-japanese-grand-prix) | 1977-10-23 | global | Surtees | Q:21/R:DNF | 1449 | -2 | 1447 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1342 (Peak: 1466)
-**Race ELO**: 1500 → 1492 (Peak: 1492)
-**Global ELO**: 1500 → 1447 (Peak: 1490)

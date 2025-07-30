@@ -5,6 +5,18 @@
 **Seasons**: [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md)
 **Total Race Events**: 31 (93 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1437
+**Peak Qualifying ELO**: 1627 (1979 Round 6 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1437 (1981 Round 7 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1558
+**Peak Race ELO**: 1558 (1980 Round 10 - Austrian Grand Prix)
+**Lowest Race ELO**: 1532 (1979 Round 8 - French Grand Prix)
+**Global ELO**: 1500 → 1522
+**Peak Global ELO**: 1560 (1979 Round 10 - German Grand Prix)
+**Lowest Global ELO**: 1510 (1979 Round 1 - Argentine Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -102,9 +114,3 @@
 | 1981 | [Round 7: Spanish Grand Prix](../results/1981-season-report.md#round-7-spanish-grand-prix) | 1981-06-21 | qualifying | Ligier | 19 | 1456 | -19 | 1437 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
 | 1981 | [Round 7: Spanish Grand Prix](../results/1981-season-report.md#round-7-spanish-grand-prix) | 1981-06-21 | race | Ligier | DNF | 1558 | N/A | 1558 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
 | 1981 | [Round 7: Spanish Grand Prix](../results/1981-season-report.md#round-7-spanish-grand-prix) | 1981-06-21 | global | Ligier | Q:19/R:DNF | 1528 | -6 | 1522 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1437 (Peak: 1627)
-**Race ELO**: 1500 → 1558 (Peak: 1558)
-**Global ELO**: 1500 → 1522 (Peak: 1560)

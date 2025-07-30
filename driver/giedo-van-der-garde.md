@@ -5,6 +5,18 @@
 **Seasons**: [2013](../results/2013-season-report.md)
 **Total Race Events**: 19 (57 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1507
+**Peak Qualifying ELO**: 1554 (2013 Round 18 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1422 (2013 Round 4 - Bahrain Grand Prix)
+**Race ELO**: 1500 → 1532
+**Peak Race ELO**: 1532 (2013 Round 18 - United States Grand Prix)
+**Lowest Race ELO**: 1388 (2013 Round 9 - German Grand Prix)
+**Global ELO**: 1500 → 1524
+**Peak Global ELO**: 1538 (2013 Round 18 - United States Grand Prix)
+**Lowest Global ELO**: 1409 (2013 Round 8 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -66,9 +78,3 @@
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | qualifying | Caterham | 20 | 1554 | -46 | 1507 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic |
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | race | Caterham | 18 | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic |
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | global | Caterham | Q:20/R:18 | 1538 | -14 | 1524 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1507 (Peak: 1554)
-**Race ELO**: 1500 → 1532 (Peak: 1532)
-**Global ELO**: 1500 → 1524 (Peak: 1538)

@@ -5,6 +5,18 @@
 **Seasons**: [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md)
 **Total Race Events**: 20 (60 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1423
+**Peak Qualifying ELO**: 1519 (2004 Round 8 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1372 (2004 Round 17 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1449
+**Peak Race ELO**: 1479 (2003 Round 14 - Italian Grand Prix)
+**Lowest Race ELO**: 1449 (2004 Round 7 - European Grand Prix)
+**Global ELO**: 1500 → 1440
+**Peak Global ELO**: 1496 (2003 Round 13 - Hungarian Grand Prix)
+**Lowest Global ELO**: 1425 (2004 Round 17 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -69,9 +81,3 @@
 | 2004 | [Round 18: Brazilian Grand Prix](../results/2004-season-report.md#round-18-brazilian-grand-prix) | 2004-10-24 | qualifying | Minardi | 19 | 1372 | +51 | 1423 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianmaria Bruni |
 | 2004 | [Round 18: Brazilian Grand Prix](../results/2004-season-report.md#round-18-brazilian-grand-prix) | 2004-10-24 | race | Minardi | DNF | 1449 | N/A | 1449 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianmaria Bruni |
 | 2004 | [Round 18: Brazilian Grand Prix](../results/2004-season-report.md#round-18-brazilian-grand-prix) | 2004-10-24 | global | Minardi | Q:19/R:DNF | 1425 | +15 | 1440 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianmaria Bruni |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1423 (Peak: 1519)
-**Race ELO**: 1500 → 1449 (Peak: 1479)
-**Global ELO**: 1500 → 1440 (Peak: 1496)

@@ -5,6 +5,18 @@
 **Seasons**: [1988](../results/1988-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md)
 **Total Race Events**: 64 (192 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1382
+**Peak Qualifying ELO**: 1520 (1990 Round 6 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1299 (1993 Round 6 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1501
+**Peak Race ELO**: 1532 (1990 Round 7 - French Grand Prix)
+**Lowest Race ELO**: 1385 (1992 Round 14 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1466
+**Peak Global ELO**: 1517 (1990 Round 7 - French Grand Prix)
+**Lowest Global ELO**: 1365 (1992 Round 14 - Portuguese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -201,9 +213,3 @@
 | 1995 | [Round 16: Japanese Grand Prix](../results/1995-season-report.md#round-16-japanese-grand-prix) | 1995-10-29 | qualifying | Ligier | 0 | 1337 | +45 | 1382 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis |
 | 1995 | [Round 16: Japanese Grand Prix](../results/1995-season-report.md#round-16-japanese-grand-prix) | 1995-10-29 | race | Ligier | DNF | 1501 | N/A | 1501 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis |
 | 1995 | [Round 16: Japanese Grand Prix](../results/1995-season-report.md#round-16-japanese-grand-prix) | 1995-10-29 | global | Ligier | Q:0/R:DNF | 1453 | +14 | 1466 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1382 (Peak: 1520)
-**Race ELO**: 1500 → 1501 (Peak: 1532)
-**Global ELO**: 1500 → 1466 (Peak: 1517)

@@ -5,6 +5,18 @@
 **Seasons**: [1993](../results/1993-season-report.md)
 **Total Race Events**: 13 (39 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1490
+**Peak Qualifying ELO**: 1499 (1993 Round 1 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1490 (1993 Round 13 - Italian Grand Prix)
+**Race ELO**: 1500 → 1477
+**Peak Race ELO**: 1494 (1993 Round 5 - Spanish Grand Prix)
+**Lowest Race ELO**: 1477 (1993 Round 12 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1480
+**Peak Global ELO**: 1500 (1993 Round 1 - South African Grand Prix)
+**Lowest Global ELO**: 1480 (1993 Round 12 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -48,9 +60,3 @@
 | 1993 | [Round 13: Italian Grand Prix](../results/1993-season-report.md#round-13-italian-grand-prix) | 1993-09-12 | qualifying | McLaren | 9 | 1491 | -1 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna |
 | 1993 | [Round 13: Italian Grand Prix](../results/1993-season-report.md#round-13-italian-grand-prix) | 1993-09-12 | race | McLaren | 3 | 1477 | N/A | 1477 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna |
 | 1993 | [Round 13: Italian Grand Prix](../results/1993-season-report.md#round-13-italian-grand-prix) | 1993-09-12 | global | McLaren | Q:9/R:3 | 1480 | +0 | 1480 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1490 (Peak: 1499)
-**Race ELO**: 1500 → 1477 (Peak: 1494)
-**Global ELO**: 1500 → 1480 (Peak: 1500)

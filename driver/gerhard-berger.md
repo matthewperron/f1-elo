@@ -5,6 +5,18 @@
 **Seasons**: [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md)
 **Total Race Events**: 206 (618 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1801
+**Peak Qualifying ELO**: 2039 (1990 Round 7 - French Grand Prix)
+**Lowest Qualifying ELO**: 1424 (1985 Round 6 - Detroit Grand Prix)
+**Race ELO**: 1500 → 1646
+**Peak Race ELO**: 1717 (1997 Round 12 - Belgian Grand Prix)
+**Lowest Race ELO**: 1427 (1987 Round 4 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1697
+**Peak Global ELO**: 1784 (1990 Round 2 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1444 (1985 Round 11 - Dutch Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -627,9 +639,3 @@
 | 1997 | [Round 17: European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix) | 1997-10-26 | qualifying | Benetton | 8 | 1773 | +28 | 1801 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi |
 | 1997 | [Round 17: European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix) | 1997-10-26 | race | Benetton | 4 | 1606 | +40 | 1646 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi |
 | 1997 | [Round 17: European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix) | 1997-10-26 | global | Benetton | Q:8/R:4 | 1660 | +36 | 1697 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1801 (Peak: 2039)
-**Race ELO**: 1500 → 1646 (Peak: 1717)
-**Global ELO**: 1500 → 1697 (Peak: 1784)

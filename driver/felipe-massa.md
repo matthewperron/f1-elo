@@ -5,6 +5,18 @@
 **Seasons**: [2002](../results/2002-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md)
 **Total Race Events**: 271 (813 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1736
+**Peak Qualifying ELO**: 1915 (2008 Round 15 - Singapore Grand Prix)
+**Lowest Qualifying ELO**: 1420 (2002 Round 12 - German Grand Prix)
+**Race ELO**: 1500 → 1527
+**Peak Race ELO**: 1784 (2010 Round 7 - Turkish Grand Prix)
+**Lowest Race ELO**: 1410 (2016 Round 16 - Malaysian Grand Prix)
+**Global ELO**: 1500 → 1596
+**Peak Global ELO**: 1796 (2010 Round 7 - Turkish Grand Prix)
+**Lowest Global ELO**: 1454 (2004 Round 13 - Hungarian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -822,9 +834,3 @@
 | 2017 | [Round 20: Abu Dhabi Grand Prix](../results/2017-season-report.md#round-20-abu-dhabi-grand-prix) | 2017-11-26 | qualifying | Williams | 10 | 1725 | +11 | 1736 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
 | 2017 | [Round 20: Abu Dhabi Grand Prix](../results/2017-season-report.md#round-20-abu-dhabi-grand-prix) | 2017-11-26 | race | Williams | 10 | 1498 | +29 | 1527 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
 | 2017 | [Round 20: Abu Dhabi Grand Prix](../results/2017-season-report.md#round-20-abu-dhabi-grand-prix) | 2017-11-26 | global | Williams | Q:10/R:10 | 1573 | +24 | 1596 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1736 (Peak: 1915)
-**Race ELO**: 1500 → 1527 (Peak: 1784)
-**Global ELO**: 1500 → 1596 (Peak: 1796)

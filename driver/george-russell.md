@@ -5,6 +5,18 @@
 **Seasons**: [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 141 (423 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1897
+**Peak Qualifying ELO**: 1907 (2025 Round 5 - Saudi Arabian Grand Prix)
+**Lowest Qualifying ELO**: 1496 (2019 Round 5 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1856
+**Peak Race ELO**: 1880 (2022 Round 8 - Azerbaijan Grand Prix)
+**Lowest Race ELO**: 1532 (2019 Round 1 - Australian Grand Prix)
+**Global ELO**: 1500 → 1866
+**Peak Global ELO**: 1866 (2025 Round 13 - Belgian Grand Prix)
+**Lowest Global ELO**: 1532 (2019 Round 1 - Australian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -432,9 +444,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Mercedes | 6 | 1892 | +6 | 1897 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Mercedes | 5 | 1850 | +6 | 1856 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Mercedes | Q:6/R:5 | 1860 | +6 | 1866 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1897 (Peak: 1907)
-**Race ELO**: 1500 → 1856 (Peak: 1880)
-**Global ELO**: 1500 → 1866 (Peak: 1866)

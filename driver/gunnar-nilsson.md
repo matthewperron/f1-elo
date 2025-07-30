@@ -5,6 +5,18 @@
 **Seasons**: [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md)
 **Total Race Events**: 30 (90 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1316
+**Peak Qualifying ELO**: 1508 (1976 Round 4 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1316 (1977 Round 17 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1409
+**Peak Race ELO**: 1558 (1976 Round 11 - Austrian Grand Prix)
+**Lowest Race ELO**: 1409 (1977 Round 9 - French Grand Prix)
+**Global ELO**: 1500 → 1382
+**Peak Global ELO**: 1533 (1976 Round 13 - Italian Grand Prix)
+**Lowest Global ELO**: 1382 (1977 Round 17 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -99,9 +111,3 @@
 | 1977 | [Round 17: Japanese Grand Prix](../results/1977-season-report.md#round-17-japanese-grand-prix) | 1977-10-23 | qualifying | Team Lotus | 14 | 1323 | -7 | 1316 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti |
 | 1977 | [Round 17: Japanese Grand Prix](../results/1977-season-report.md#round-17-japanese-grand-prix) | 1977-10-23 | race | Team Lotus | DNF | 1409 | N/A | 1409 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti |
 | 1977 | [Round 17: Japanese Grand Prix](../results/1977-season-report.md#round-17-japanese-grand-prix) | 1977-10-23 | global | Team Lotus | Q:14/R:DNF | 1384 | -2 | 1382 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1316 (Peak: 1508)
-**Race ELO**: 1500 → 1409 (Peak: 1558)
-**Global ELO**: 1500 → 1382 (Peak: 1533)

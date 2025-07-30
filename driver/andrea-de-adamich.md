@@ -5,6 +5,15 @@
 **Seasons**: [1971](../results/1971-season-report.md) • [1972](../results/1972-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1444
+**Peak Qualifying ELO**: 1505 (1971 Round 7 - German Grand Prix)
+**Lowest Qualifying ELO**: 1444 (1972 Round 11 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1484
+**Peak Global ELO**: 1502 (1971 Round 7 - German Grand Prix)
+**Lowest Global ELO**: 1484 (1972 Round 11 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,8 +30,3 @@
 | 1972 | [Round 11: Canadian Grand Prix](../results/1972-season-report.md#round-11-canadian-grand-prix) | 1972-09-24 | qualifying | Surtees | 15 | 1471 | -27 | 1444 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Tim Schenken |
 | 1972 | [Round 11: Canadian Grand Prix](../results/1972-season-report.md#round-11-canadian-grand-prix) | 1972-09-24 | race | Surtees | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Tim Schenken |
 | 1972 | [Round 11: Canadian Grand Prix](../results/1972-season-report.md#round-11-canadian-grand-prix) | 1972-09-24 | global | Surtees | Q:15/R:DNF | 1492 | -8 | 1484 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Tim Schenken |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1444 (Peak: 1505)
-**Global ELO**: 1500 → 1484 (Peak: 1502)

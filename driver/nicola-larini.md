@@ -5,6 +5,18 @@
 **Seasons**: [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1992](../results/1992-season-report.md) • [1994](../results/1994-season-report.md) • [1997](../results/1997-season-report.md)
 **Total Race Events**: 26 (78 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1426
+**Peak Qualifying ELO**: 1606 (1990 Round 16 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1426 (1997 Round 5 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1461
+**Peak Race ELO**: 1590 (1990 Round 16 - Australian Grand Prix)
+**Lowest Race ELO**: 1457 (1992 Round 16 - Australian Grand Prix)
+**Global ELO**: 1500 → 1451
+**Peak Global ELO**: 1596 (1990 Round 16 - Australian Grand Prix)
+**Lowest Global ELO**: 1451 (1997 Round 5 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -87,9 +99,3 @@
 | 1997 | [Round 5: Monaco Grand Prix](../results/1997-season-report.md#round-5-monaco-grand-prix) | 1997-05-11 | qualifying | Sauber | 11 | 1438 | -11 | 1426 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert |
 | 1997 | [Round 5: Monaco Grand Prix](../results/1997-season-report.md#round-5-monaco-grand-prix) | 1997-05-11 | race | Sauber | DNF | 1461 | N/A | 1461 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert |
 | 1997 | [Round 5: Monaco Grand Prix](../results/1997-season-report.md#round-5-monaco-grand-prix) | 1997-05-11 | global | Sauber | Q:11/R:DNF | 1454 | -3 | 1451 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1426 (Peak: 1606)
-**Race ELO**: 1500 → 1461 (Peak: 1590)
-**Global ELO**: 1500 → 1451 (Peak: 1596)

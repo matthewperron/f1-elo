@@ -5,6 +5,18 @@
 **Seasons**: [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md)
 **Total Race Events**: 58 (174 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1672
+**Peak Qualifying ELO**: 1672 (2012 Round 20 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1368 (2010 Round 11 - German Grand Prix)
+**Race ELO**: 1500 → 1597
+**Peak Race ELO**: 1611 (2012 Round 4 - Bahrain Grand Prix)
+**Lowest Race ELO**: 1343 (2010 Round 19 - Abu Dhabi Grand Prix)
+**Global ELO**: 1500 → 1622
+**Peak Global ELO**: 1622 (2012 Round 20 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1357 (2010 Round 18 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -183,9 +195,3 @@
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | qualifying | Caterham | 19 | 1640 | +32 | 1672 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | race | Caterham | 11 | 1569 | +29 | 1597 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | global | Caterham | Q:19/R:11 | 1593 | +30 | 1622 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1672 (Peak: 1672)
-**Race ELO**: 1500 → 1597 (Peak: 1611)
-**Global ELO**: 1500 → 1622 (Peak: 1622)

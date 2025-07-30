@@ -5,6 +5,18 @@
 **Seasons**: [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md)
 **Total Race Events**: 29 (87 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1496
+**Peak Qualifying ELO**: 1547 (1995 Round 16 - Japanese Grand Prix)
+**Lowest Qualifying ELO**: 1370 (1995 Round 10 - Hungarian Grand Prix)
+**Race ELO**: 1500 → 1504
+**Peak Race ELO**: 1507 (1995 Round 15 - Pacific Grand Prix)
+**Lowest Race ELO**: 1438 (1995 Round 10 - Hungarian Grand Prix)
+**Global ELO**: 1500 → 1502
+**Peak Global ELO**: 1511 (1995 Round 15 - Pacific Grand Prix)
+**Lowest Global ELO**: 1417 (1995 Round 10 - Hungarian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -96,9 +108,3 @@
 | 1996 | [Round 15: Portuguese Grand Prix](../results/1996-season-report.md#round-15-portuguese-grand-prix) | 1996-09-22 | qualifying | Minardi | 19 | 1475 | +21 | 1496 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giovanni Lavaggi |
 | 1996 | [Round 15: Portuguese Grand Prix](../results/1996-season-report.md#round-15-portuguese-grand-prix) | 1996-09-22 | race | Minardi | DNF | 1504 | N/A | 1504 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giovanni Lavaggi |
 | 1996 | [Round 15: Portuguese Grand Prix](../results/1996-season-report.md#round-15-portuguese-grand-prix) | 1996-09-22 | global | Minardi | Q:19/R:DNF | 1496 | +6 | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giovanni Lavaggi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1496 (Peak: 1547)
-**Race ELO**: 1500 → 1504 (Peak: 1507)
-**Global ELO**: 1500 → 1502 (Peak: 1511)

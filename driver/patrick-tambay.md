@@ -5,6 +5,18 @@
 **Seasons**: [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md)
 **Total Race Events**: 97 (291 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1607
+**Peak Qualifying ELO**: 1660 (1986 Round 15 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1275 (1979 Round 10 - German Grand Prix)
+**Race ELO**: 1500 → 1485
+**Peak Race ELO**: 1602 (1979 Round 8 - French Grand Prix)
+**Lowest Race ELO**: 1398 (1984 Round 11 - German Grand Prix)
+**Global ELO**: 1500 → 1523
+**Peak Global ELO**: 1547 (1986 Round 11 - Hungarian Grand Prix)
+**Lowest Global ELO**: 1403 (1984 Round 11 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -300,9 +312,3 @@
 | 1986 | [Round 16: Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix) | 1986-10-26 | qualifying | Lola | 17 | 1660 | -53 | 1607 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
 | 1986 | [Round 16: Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix) | 1986-10-26 | race | Lola | DNF | 1485 | N/A | 1485 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
 | 1986 | [Round 16: Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix) | 1986-10-26 | global | Lola | Q:17/R:DNF | 1539 | -16 | 1523 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1607 (Peak: 1660)
-**Race ELO**: 1500 → 1485 (Peak: 1602)
-**Global ELO**: 1500 → 1523 (Peak: 1547)

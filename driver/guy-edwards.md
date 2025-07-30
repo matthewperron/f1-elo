@@ -5,6 +5,18 @@
 **Seasons**: [1974](../results/1974-season-report.md) • [1976](../results/1976-season-report.md)
 **Total Race Events**: 12 (36 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1467
+**Peak Qualifying ELO**: 1530 (1976 Round 8 - French Grand Prix)
+**Lowest Qualifying ELO**: 1451 (1974 Round 7 - Swedish Grand Prix)
+**Race ELO**: 1500 → 1379
+**Peak Race ELO**: 1460 (1974 Round 5 - Belgian Grand Prix)
+**Lowest Race ELO**: 1379 (1974 Round 9 - French Grand Prix)
+**Global ELO**: 1500 → 1490
+**Peak Global ELO**: 1509 (1976 Round 8 - French Grand Prix)
+**Lowest Global ELO**: 1415 (1974 Round 7 - Swedish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -45,9 +57,3 @@
 | 1976 | [Round 14: Canadian Grand Prix](../results/1976-season-report.md#round-14-canadian-grand-prix) | 1976-10-03 | qualifying | Hesketh | 23 | 1498 | -31 | 1467 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl |
 | 1976 | [Round 14: Canadian Grand Prix](../results/1976-season-report.md#round-14-canadian-grand-prix) | 1976-10-03 | race | Hesketh | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl |
 | 1976 | [Round 14: Canadian Grand Prix](../results/1976-season-report.md#round-14-canadian-grand-prix) | 1976-10-03 | global | Hesketh | Q:23/R:DNF | 1499 | -9 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1467 (Peak: 1530)
-**Race ELO**: 1500 → 1379 (Peak: 1460)
-**Global ELO**: 1500 → 1490 (Peak: 1509)

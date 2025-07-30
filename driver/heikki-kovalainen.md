@@ -5,6 +5,18 @@
 **Seasons**: [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md)
 **Total Race Events**: 112 (336 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1543
+**Peak Qualifying ELO**: 1796 (2012 Round 1 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1476 (2007 Round 1 - Australian Grand Prix)
+**Race ELO**: 1500 → 1470
+**Peak Race ELO**: 1653 (2008 Round 3 - Bahrain Grand Prix)
+**Lowest Race ELO**: 1420 (2007 Round 3 - Bahrain Grand Prix)
+**Global ELO**: 1500 → 1490
+**Peak Global ELO**: 1648 (2012 Round 15 - Japanese Grand Prix)
+**Lowest Global ELO**: 1442 (2007 Round 3 - Bahrain Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -345,9 +357,3 @@
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | qualifying | Lotus F1 | 11 | 1573 | -30 | 1543 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean |
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | race | Lotus F1 | 14 | 1470 | N/A | 1470 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean |
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | global | Lotus F1 | Q:11/R:14 | 1499 | -9 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1543 (Peak: 1796)
-**Race ELO**: 1500 → 1470 (Peak: 1653)
-**Global ELO**: 1500 → 1490 (Peak: 1648)

@@ -5,6 +5,15 @@
 **Seasons**: [1959](../results/1959-season-report.md) • [1963](../results/1963-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1537
+**Peak Qualifying ELO**: 1553 (1963 Round 4 - French Grand Prix)
+**Lowest Qualifying ELO**: 1465 (1963 Round 1 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1511
+**Peak Global ELO**: 1516 (1963 Round 4 - French Grand Prix)
+**Lowest Global ELO**: 1490 (1963 Round 1 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,8 +39,3 @@
 | 1963 | [Round 6: German Grand Prix](../results/1963-season-report.md#round-6-german-grand-prix) | 1963-08-04 | qualifying | Scirocco | 19 | 1509 | +27 | 1537 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Tony Settember |
 | 1963 | [Round 6: German Grand Prix](../results/1963-season-report.md#round-6-german-grand-prix) | 1963-08-04 | race | Scirocco | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Tony Settember |
 | 1963 | [Round 6: German Grand Prix](../results/1963-season-report.md#round-6-german-grand-prix) | 1963-08-04 | global | Scirocco | Q:19/R:DNF | 1503 | +8 | 1511 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Tony Settember |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1537 (Peak: 1553)
-**Global ELO**: 1500 → 1511 (Peak: 1516)

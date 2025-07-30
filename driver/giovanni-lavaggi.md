@@ -5,6 +5,15 @@
 **Seasons**: [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1326
+**Peak Qualifying ELO**: 1468 (1995 Round 9 - German Grand Prix)
+**Lowest Qualifying ELO**: 1326 (1996 Round 15 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1448
+**Peak Global ELO**: 1490 (1995 Round 9 - German Grand Prix)
+**Lowest Global ELO**: 1448 (1996 Round 15 - Portuguese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,8 +39,3 @@
 | 1996 | [Round 15: Portuguese Grand Prix](../results/1996-season-report.md#round-15-portuguese-grand-prix) | 1996-09-22 | qualifying | Minardi | 20 | 1347 | -21 | 1326 | Pedro Lamy |
 | 1996 | [Round 15: Portuguese Grand Prix](../results/1996-season-report.md#round-15-portuguese-grand-prix) | 1996-09-22 | race | Minardi | DNF | 1500 | N/A | 1500 | Pedro Lamy |
 | 1996 | [Round 15: Portuguese Grand Prix](../results/1996-season-report.md#round-15-portuguese-grand-prix) | 1996-09-22 | global | Minardi | Q:20/R:DNF | 1455 | -6 | 1448 | Pedro Lamy |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1326 (Peak: 1468)
-**Global ELO**: 1500 → 1448 (Peak: 1490)

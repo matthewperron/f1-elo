@@ -5,6 +5,18 @@
 **Seasons**: [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 156 (468 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 2217
+**Peak Qualifying ELO**: 2282 (1991 Round 12 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1503 (1984 Round 3 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1916
+**Peak Race ELO**: 1964 (1991 Round 12 - Italian Grand Prix)
+**Lowest Race ELO**: 1535 (1984 Round 7 - Canadian Grand Prix)
+**Global ELO**: 1500 → 2003
+**Peak Global ELO**: 2057 (1991 Round 12 - Italian Grand Prix)
+**Lowest Global ELO**: 1501 (1984 Round 3 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -477,9 +489,3 @@
 | 1994 | [Round 3: San Marino Grand Prix](../results/1994-season-report.md#round-3-san-marino-grand-prix) | 1994-05-01 | qualifying | Williams | 1 | 2217 | +0 | 2217 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill |
 | 1994 | [Round 3: San Marino Grand Prix](../results/1994-season-report.md#round-3-san-marino-grand-prix) | 1994-05-01 | race | Williams | DNF | 1916 | N/A | 1916 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill |
 | 1994 | [Round 3: San Marino Grand Prix](../results/1994-season-report.md#round-3-san-marino-grand-prix) | 1994-05-01 | global | Williams | Q:1/R:DNF | 2003 | +0 | 2003 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 2217 (Peak: 2282)
-**Race ELO**: 1500 → 1916 (Peak: 1964)
-**Global ELO**: 1500 → 2003 (Peak: 2057)

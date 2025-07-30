@@ -5,6 +5,18 @@
 **Seasons**: [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md)
 **Total Race Events**: 66 (198 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1838
+**Peak Qualifying ELO**: 1838 (1982 Round 5 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1439 (1978 Round 7 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1596
+**Peak Race ELO**: 1642 (1981 Round 6 - Monaco Grand Prix)
+**Lowest Race ELO**: 1425 (1978 Round 6 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1670
+**Peak Global ELO**: 1699 (1981 Round 8 - French Grand Prix)
+**Lowest Global ELO**: 1429 (1978 Round 7 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -207,9 +219,3 @@
 | 1982 | [Round 5: Belgian Grand Prix](../results/1982-season-report.md#round-5-belgian-grand-prix) | 1982-05-09 | qualifying | Ferrari | 0 | 1825 | +13 | 1838 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi |
 | 1982 | [Round 5: Belgian Grand Prix](../results/1982-season-report.md#round-5-belgian-grand-prix) | 1982-05-09 | race | Ferrari | DNF | 1596 | N/A | 1596 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi |
 | 1982 | [Round 5: Belgian Grand Prix](../results/1982-season-report.md#round-5-belgian-grand-prix) | 1982-05-09 | global | Ferrari | Q:0/R:DNF | 1666 | +4 | 1670 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1838 (Peak: 1838)
-**Race ELO**: 1500 → 1596 (Peak: 1642)
-**Global ELO**: 1500 → 1670 (Peak: 1699)

@@ -5,6 +5,18 @@
 **Seasons**: [1971](../results/1971-season-report.md) • [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1980](../results/1980-season-report.md)
 **Total Race Events**: 55 (165 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1345
+**Peak Qualifying ELO**: 1708 (1973 Round 1 - Argentine Grand Prix)
+**Lowest Qualifying ELO**: 1345 (1980 Round 14 - United States Grand Prix)
+**Race ELO**: 1500 → 1506
+**Peak Race ELO**: 1609 (1973 Round 6 - Monaco Grand Prix)
+**Lowest Race ELO**: 1468 (1980 Round 2 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1458
+**Peak Global ELO**: 1622 (1973 Round 1 - Argentine Grand Prix)
+**Lowest Global ELO**: 1446 (1980 Round 9 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -174,9 +186,3 @@
 | 1980 | [Round 14: United States Grand Prix](../results/1980-season-report.md#round-14-united-states-grand-prix) | 1980-10-05 | qualifying | Fittipaldi | 19 | 1355 | -10 | 1345 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg |
 | 1980 | [Round 14: United States Grand Prix](../results/1980-season-report.md#round-14-united-states-grand-prix) | 1980-10-05 | race | Fittipaldi | DNF | 1506 | N/A | 1506 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg |
 | 1980 | [Round 14: United States Grand Prix](../results/1980-season-report.md#round-14-united-states-grand-prix) | 1980-10-05 | global | Fittipaldi | Q:19/R:DNF | 1461 | -3 | 1458 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1345 (Peak: 1708)
-**Race ELO**: 1500 → 1506 (Peak: 1609)
-**Global ELO**: 1500 → 1458 (Peak: 1622)

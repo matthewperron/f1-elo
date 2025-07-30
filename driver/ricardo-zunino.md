@@ -5,6 +5,18 @@
 **Seasons**: [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md)
 **Total Race Events**: 9 (27 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1356
+**Peak Qualifying ELO**: 1478 (1979 Round 15 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1356 (1981 Round 3 - Argentine Grand Prix)
+**Race ELO**: 1500 → 1440
+**Peak Race ELO**: 1467 (1980 Round 1 - Argentine Grand Prix)
+**Lowest Race ELO**: 1440 (1980 Round 3 - South African Grand Prix)
+**Global ELO**: 1500 → 1414
+**Peak Global ELO**: 1493 (1979 Round 15 - United States Grand Prix)
+**Lowest Global ELO**: 1414 (1981 Round 3 - Argentine Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -36,9 +48,3 @@
 | 1981 | [Round 3: Argentine Grand Prix](../results/1981-season-report.md#round-3-argentine-grand-prix) | 1981-04-12 | qualifying | Tyrrell | 24 | 1375 | -19 | 1356 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever |
 | 1981 | [Round 3: Argentine Grand Prix](../results/1981-season-report.md#round-3-argentine-grand-prix) | 1981-04-12 | race | Tyrrell | 13 | 1440 | N/A | 1440 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever |
 | 1981 | [Round 3: Argentine Grand Prix](../results/1981-season-report.md#round-3-argentine-grand-prix) | 1981-04-12 | global | Tyrrell | Q:24/R:13 | 1420 | -6 | 1414 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1356 (Peak: 1478)
-**Race ELO**: 1500 → 1440 (Peak: 1467)
-**Global ELO**: 1500 → 1414 (Peak: 1493)

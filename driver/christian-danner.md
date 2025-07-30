@@ -5,6 +5,18 @@
 **Seasons**: [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md)
 **Total Race Events**: 31 (93 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1486
+**Peak Qualifying ELO**: 1562 (1987 Round 12 - Portuguese Grand Prix)
+**Lowest Qualifying ELO**: 1431 (1986 Round 7 - Detroit Grand Prix)
+**Race ELO**: 1500 → 1414
+**Peak Race ELO**: 1478 (1986 Round 13 - Italian Grand Prix)
+**Lowest Race ELO**: 1414 (1987 Round 2 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1436
+**Peak Global ELO**: 1517 (1986 Round 11 - Hungarian Grand Prix)
+**Lowest Global ELO**: 1428 (1987 Round 10 - Austrian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -102,9 +114,3 @@
 | 1987 | [Round 16: Australian Grand Prix](../results/1987-season-report.md#round-16-australian-grand-prix) | 1987-11-15 | qualifying | Zakspeed | 24 | 1501 | -15 | 1486 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle |
 | 1987 | [Round 16: Australian Grand Prix](../results/1987-season-report.md#round-16-australian-grand-prix) | 1987-11-15 | race | Zakspeed | 7 | 1414 | N/A | 1414 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle |
 | 1987 | [Round 16: Australian Grand Prix](../results/1987-season-report.md#round-16-australian-grand-prix) | 1987-11-15 | global | Zakspeed | Q:24/R:7 | 1440 | -4 | 1436 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1486 (Peak: 1562)
-**Race ELO**: 1500 → 1414 (Peak: 1478)
-**Global ELO**: 1500 → 1436 (Peak: 1517)

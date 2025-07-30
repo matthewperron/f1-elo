@@ -5,6 +5,18 @@
 **Seasons**: [2025](../results/2025-season-report.md)
 **Total Race Events**: 13 (39 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1571
+**Peak Qualifying ELO**: 1594 (2025 Round 10 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1484 (2025 Round 1 - Australian Grand Prix)
+**Race ELO**: 1500 → 1599
+**Peak Race ELO**: 1599 (2025 Round 9 - Spanish Grand Prix)
+**Lowest Race ELO**: 1527 (2025 Round 3 - Japanese Grand Prix)
+**Global ELO**: 1500 → 1591
+**Peak Global ELO**: 1597 (2025 Round 10 - Canadian Grand Prix)
+**Lowest Global ELO**: 1495 (2025 Round 1 - Australian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -48,9 +60,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | RB F1 Team | 8 | 1557 | +15 | 1571 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | RB F1 Team | DNF | 1599 | N/A | 1599 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | RB F1 Team | Q:8/R:DNF | 1586 | +5 | 1591 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1571 (Peak: 1594)
-**Race ELO**: 1500 → 1599 (Peak: 1599)
-**Global ELO**: 1500 → 1591 (Peak: 1597)

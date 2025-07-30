@@ -5,6 +5,18 @@
 **Seasons**: [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md)
 **Total Race Events**: 8 (24 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1381
+**Peak Qualifying ELO**: 1462 (1975 Round 3 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1338 (1975 Round 14 - United States Grand Prix)
+**Race ELO**: 1500 → 1463
+**Peak Race ELO**: 1463 (1975 Round 4 - Spanish Grand Prix)
+**Lowest Race ELO**: 1463 (1975 Round 4 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1439
+**Peak Global ELO**: 1489 (1975 Round 3 - South African Grand Prix)
+**Lowest Global ELO**: 1426 (1975 Round 14 - United States Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -33,9 +45,3 @@
 | 1976 | [Round 11: Austrian Grand Prix](../results/1976-season-report.md#round-11-austrian-grand-prix) | 1976-08-15 | qualifying | Brabham-Ford | 24 | 1338 | +43 | 1381 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Loris Kessel |
 | 1976 | [Round 11: Austrian Grand Prix](../results/1976-season-report.md#round-11-austrian-grand-prix) | 1976-08-15 | race | Brabham-Ford | DNF | 1463 | N/A | 1463 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Loris Kessel |
 | 1976 | [Round 11: Austrian Grand Prix](../results/1976-season-report.md#round-11-austrian-grand-prix) | 1976-08-15 | global | Brabham-Ford | Q:24/R:DNF | 1426 | +13 | 1439 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Loris Kessel |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1381 (Peak: 1462)
-**Race ELO**: 1500 → 1463 (Peak: 1463)
-**Global ELO**: 1500 → 1439 (Peak: 1489)

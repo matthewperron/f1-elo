@@ -5,6 +5,18 @@
 **Seasons**: [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 117 (351 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1786
+**Peak Qualifying ELO**: 1854 (2024 Round 9 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1367 (2020 Round 17 - Abu Dhabi Grand Prix)
+**Race ELO**: 1500 → 1823
+**Peak Race ELO**: 1823 (2025 Round 13 - Belgian Grand Prix)
+**Lowest Race ELO**: 1399 (2020 Round 17 - Abu Dhabi Grand Prix)
+**Global ELO**: 1500 → 1812
+**Peak Global ELO**: 1819 (2025 Round 3 - Japanese Grand Prix)
+**Lowest Global ELO**: 1391 (2020 Round 17 - Abu Dhabi Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -360,9 +372,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Williams | 5 | 1760 | +26 | 1786 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Williams | 6 | 1810 | +13 | 1823 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Williams | Q:5/R:6 | 1795 | +17 | 1812 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1786 (Peak: 1854)
-**Race ELO**: 1500 → 1823 (Peak: 1823)
-**Global ELO**: 1500 → 1812 (Peak: 1819)

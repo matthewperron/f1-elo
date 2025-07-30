@@ -5,6 +5,18 @@
 **Seasons**: [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md)
 **Total Race Events**: 147 (441 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1810
+**Peak Qualifying ELO**: 1850 (2001 Round 7 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1484 (1994 Round 6 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1669
+**Peak Race ELO**: 1670 (2000 Round 7 - Monaco Grand Prix)
+**Lowest Race ELO**: 1388 (1998 Round 4 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1710
+**Peak Global ELO**: 1710 (2002 Round 17 - Japanese Grand Prix)
+**Lowest Global ELO**: 1452 (1998 Round 5 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -450,9 +462,3 @@
 | 2002 | [Round 17: Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix) | 2002-10-13 | qualifying | Jaguar | 14 | 1792 | +18 | 1810 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa |
 | 2002 | [Round 17: Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix) | 2002-10-13 | race | Jaguar | 9 | 1669 | N/A | 1669 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa |
 | 2002 | [Round 17: Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix) | 2002-10-13 | global | Jaguar | Q:14/R:9 | 1704 | +5 | 1710 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1810 (Peak: 1850)
-**Race ELO**: 1500 → 1669 (Peak: 1670)
-**Global ELO**: 1500 → 1710 (Peak: 1710)

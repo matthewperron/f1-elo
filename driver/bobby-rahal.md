@@ -5,6 +5,18 @@
 **Seasons**: [1978](../results/1978-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1453
+**Peak Qualifying ELO**: 1474 (1978 Round 15 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1453 (1978 Round 16 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1471
+**Peak Race ELO**: 1471 (1978 Round 15 - United States Grand Prix)
+**Lowest Race ELO**: 1471 (1978 Round 15 - United States Grand Prix)
+**Global ELO**: 1500 → 1466
+**Peak Global ELO**: 1472 (1978 Round 15 - United States Grand Prix)
+**Lowest Global ELO**: 1466 (1978 Round 16 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,9 +27,3 @@
 | 1978 | [Round 16: Canadian Grand Prix](../results/1978-season-report.md#round-16-canadian-grand-prix) | 1978-10-08 | qualifying | Wolf | 20 | 1474 | -21 | 1453 | Jody Scheckter |
 | 1978 | [Round 16: Canadian Grand Prix](../results/1978-season-report.md#round-16-canadian-grand-prix) | 1978-10-08 | race | Wolf | DNF | 1471 | N/A | 1471 | Jody Scheckter |
 | 1978 | [Round 16: Canadian Grand Prix](../results/1978-season-report.md#round-16-canadian-grand-prix) | 1978-10-08 | global | Wolf | Q:20/R:DNF | 1472 | -6 | 1466 | Jody Scheckter |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1453 (Peak: 1474)
-**Race ELO**: 1500 → 1471 (Peak: 1471)
-**Global ELO**: 1500 → 1466 (Peak: 1472)

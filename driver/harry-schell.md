@@ -5,6 +5,18 @@
 **Seasons**: [1951](../results/1951-season-report.md) • [1952](../results/1952-season-report.md) • [1955](../results/1955-season-report.md) • [1956](../results/1956-season-report.md) • [1958](../results/1958-season-report.md) • [1959](../results/1959-season-report.md)
 **Total Race Events**: 14 (42 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1471
+**Peak Qualifying ELO**: 1585 (1956 Round 4 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1442 (1958 Round 3 - Dutch Grand Prix)
+**Race ELO**: 1500 → 1494
+**Peak Race ELO**: 1532 (1958 Round 3 - Dutch Grand Prix)
+**Lowest Race ELO**: 1494 (1958 Round 9 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1487
+**Peak Global ELO**: 1537 (1958 Round 8 - German Grand Prix)
+**Lowest Global ELO**: 1481 (1955 Round 6 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -51,9 +63,3 @@
 | 1959 | [Round 3: Dutch Grand Prix](../results/1959-season-report.md#round-3-dutch-grand-prix) | 1959-05-31 | qualifying | BRM | 6 | 1507 | -36 | 1471 | Jo Bonnier |
 | 1959 | [Round 3: Dutch Grand Prix](../results/1959-season-report.md#round-3-dutch-grand-prix) | 1959-05-31 | race | BRM | DNF | 1494 | N/A | 1494 | Jo Bonnier |
 | 1959 | [Round 3: Dutch Grand Prix](../results/1959-season-report.md#round-3-dutch-grand-prix) | 1959-05-31 | global | BRM | Q:6/R:DNF | 1498 | -11 | 1487 | Jo Bonnier |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1471 (Peak: 1585)
-**Race ELO**: 1500 → 1494 (Peak: 1532)
-**Global ELO**: 1500 → 1487 (Peak: 1537)

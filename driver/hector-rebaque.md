@@ -5,6 +5,18 @@
 **Seasons**: [1977](../results/1977-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md)
 **Total Race Events**: 22 (66 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1358
+**Peak Qualifying ELO**: 1486 (1980 Round 8 - British Grand Prix)
+**Lowest Qualifying ELO**: 1358 (1981 Round 15 - Caesars Palace Grand Prix)
+**Race ELO**: 1500 → 1388
+**Peak Race ELO**: 1472 (1980 Round 8 - British Grand Prix)
+**Lowest Race ELO**: 1388 (1981 Round 12 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1379
+**Peak Global ELO**: 1490 (1977 Round 11 - German Grand Prix)
+**Lowest Global ELO**: 1379 (1981 Round 15 - Caesars Palace Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -75,9 +87,3 @@
 | 1981 | [Round 15: Caesars Palace Grand Prix](../results/1981-season-report.md#round-15-caesars-palace-grand-prix) | 1981-10-17 | qualifying | Brabham | 16 | 1362 | -4 | 1358 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
 | 1981 | [Round 15: Caesars Palace Grand Prix](../results/1981-season-report.md#round-15-caesars-palace-grand-prix) | 1981-10-17 | race | Brabham | DNF | 1388 | N/A | 1388 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
 | 1981 | [Round 15: Caesars Palace Grand Prix](../results/1981-season-report.md#round-15-caesars-palace-grand-prix) | 1981-10-17 | global | Brabham | Q:16/R:DNF | 1381 | -1 | 1379 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1358 (Peak: 1486)
-**Race ELO**: 1500 → 1388 (Peak: 1472)
-**Global ELO**: 1500 → 1379 (Peak: 1490)

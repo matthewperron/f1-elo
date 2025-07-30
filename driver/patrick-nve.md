@@ -5,6 +5,15 @@
 **Seasons**: [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1548
+**Peak Qualifying ELO**: 1593 (1977 Round 12 - Austrian Grand Prix)
+**Lowest Qualifying ELO**: 1532 (1976 Round 5 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1515
+**Peak Global ELO**: 1528 (1977 Round 12 - Austrian Grand Prix)
+**Lowest Global ELO**: 1510 (1976 Round 5 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,8 +30,3 @@
 | 1977 | [Round 14: Italian Grand Prix](../results/1977-season-report.md#round-14-italian-grand-prix) | 1977-09-11 | qualifying | March | 24 | 1593 | -45 | 1548 | Ian Scheckter |
 | 1977 | [Round 14: Italian Grand Prix](../results/1977-season-report.md#round-14-italian-grand-prix) | 1977-09-11 | race | March | 7 | 1500 | N/A | 1500 | Ian Scheckter |
 | 1977 | [Round 14: Italian Grand Prix](../results/1977-season-report.md#round-14-italian-grand-prix) | 1977-09-11 | global | March | Q:24/R:7 | 1528 | -13 | 1515 | Ian Scheckter |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1548 (Peak: 1593)
-**Global ELO**: 1500 → 1515 (Peak: 1528)

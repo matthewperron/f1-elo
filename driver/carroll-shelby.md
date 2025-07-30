@@ -5,6 +5,15 @@
 **Seasons**: [1959](../results/1959-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1435
+**Peak Qualifying ELO**: 1531 (1959 Round 3 - Dutch Grand Prix)
+**Lowest Qualifying ELO**: 1435 (1959 Round 8 - Italian Grand Prix)
+**Global ELO**: 1500 → 1481
+**Peak Global ELO**: 1509 (1959 Round 3 - Dutch Grand Prix)
+**Lowest Global ELO**: 1481 (1959 Round 8 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,8 +30,3 @@
 | 1959 | [Round 8: Italian Grand Prix](../results/1959-season-report.md#round-8-italian-grand-prix) | 1959-09-13 | qualifying | Aston Martin | 19 | 1461 | -26 | 1435 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Roy Salvadori |
 | 1959 | [Round 8: Italian Grand Prix](../results/1959-season-report.md#round-8-italian-grand-prix) | 1959-09-13 | race | Aston Martin | 10 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Roy Salvadori |
 | 1959 | [Round 8: Italian Grand Prix](../results/1959-season-report.md#round-8-italian-grand-prix) | 1959-09-13 | global | Aston Martin | Q:19/R:10 | 1489 | -8 | 1481 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Roy Salvadori |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1435 (Peak: 1531)
-**Global ELO**: 1500 → 1481 (Peak: 1509)

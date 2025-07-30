@@ -5,6 +5,18 @@
 **Seasons**: [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2005](../results/2005-season-report.md) • [2007](../results/2007-season-report.md)
 **Total Race Events**: 69 (207 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1358
+**Peak Qualifying ELO**: 1660 (1998 Round 4 - San Marino Grand Prix)
+**Lowest Qualifying ELO**: 1358 (2007 Round 16 - Chinese Grand Prix)
+**Race ELO**: 1500 → 1423
+**Peak Race ELO**: 1554 (1998 Round 9 - British Grand Prix)
+**Lowest Race ELO**: 1355 (2000 Round 1 - Australian Grand Prix)
+**Global ELO**: 1500 → 1404
+**Peak Global ELO**: 1577 (1998 Round 4 - San Marino Grand Prix)
+**Lowest Global ELO**: 1373 (2000 Round 13 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -216,9 +228,3 @@
 | 2007 | [Round 16: Chinese Grand Prix](../results/2007-season-report.md#round-16-chinese-grand-prix) | 2007-10-07 | qualifying | Williams | 19 | 1365 | -8 | 1358 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg |
 | 2007 | [Round 16: Chinese Grand Prix](../results/2007-season-report.md#round-16-chinese-grand-prix) | 2007-10-07 | race | Williams | 12 | 1375 | +48 | 1423 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg |
 | 2007 | [Round 16: Chinese Grand Prix](../results/2007-season-report.md#round-16-chinese-grand-prix) | 2007-10-07 | global | Williams | Q:19/R:12 | 1373 | +31 | 1404 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1358 (Peak: 1660)
-**Race ELO**: 1500 → 1423 (Peak: 1554)
-**Global ELO**: 1500 → 1404 (Peak: 1577)

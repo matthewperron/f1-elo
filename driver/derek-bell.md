@@ -5,6 +5,15 @@
 **Seasons**: [1968](../results/1968-season-report.md) • [1970](../results/1970-season-report.md) • [1974](../results/1974-season-report.md)
 **Total Race Events**: 3 (9 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1465
+**Peak Qualifying ELO**: 1481 (1970 Round 12 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1465 (1974 Round 11 - German Grand Prix)
+**Global ELO**: 1500 → 1490
+**Peak Global ELO**: 1494 (1970 Round 12 - United States Grand Prix)
+**Lowest Global ELO**: 1490 (1968 Round 11 - United States Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -18,8 +27,3 @@
 | 1974 | [Round 11: German Grand Prix](../results/1974-season-report.md#round-11-german-grand-prix) | 1974-08-04 | qualifying | Surtees | 25 | 1500 | -35 | 1465 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass |
 | 1974 | [Round 11: German Grand Prix](../results/1974-season-report.md#round-11-german-grand-prix) | 1974-08-04 | race | Surtees | 11 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass |
 | 1974 | [Round 11: German Grand Prix](../results/1974-season-report.md#round-11-german-grand-prix) | 1974-08-04 | global | Surtees | Q:25/R:11 | 1500 | -10 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1465 (Peak: 1481)
-**Global ELO**: 1500 → 1490 (Peak: 1494)

@@ -5,6 +5,18 @@
 **Seasons**: [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md)
 **Total Race Events**: 309 (927 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1518
+**Peak Qualifying ELO**: 1923 (2007 Round 16 - Chinese Grand Prix)
+**Lowest Qualifying ELO**: 1404 (2001 Round 10 - French Grand Prix)
+**Race ELO**: 1500 → 1817
+**Peak Race ELO**: 1900 (2016 Round 14 - Italian Grand Prix)
+**Lowest Race ELO**: 1342 (2001 Round 16 - United States Grand Prix)
+**Global ELO**: 1500 → 1729
+**Peak Global ELO**: 1823 (2016 Round 14 - Italian Grand Prix)
+**Lowest Global ELO**: 1375 (2001 Round 14 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -936,9 +948,3 @@
 | 2017 | [Round 6: Monaco Grand Prix](../results/2017-season-report.md#round-6-monaco-grand-prix) | 2017-05-28 | qualifying | McLaren | 20 | 1555 | -37 | 1518 | Stoffel Vandoorne |
 | 2017 | [Round 6: Monaco Grand Prix](../results/2017-season-report.md#round-6-monaco-grand-prix) | 2017-05-28 | race | McLaren | DNF | 1817 | N/A | 1817 | Stoffel Vandoorne |
 | 2017 | [Round 6: Monaco Grand Prix](../results/2017-season-report.md#round-6-monaco-grand-prix) | 2017-05-28 | global | McLaren | Q:20/R:DNF | 1740 | -11 | 1729 | Stoffel Vandoorne |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1518 (Peak: 1923)
-**Race ELO**: 1500 → 1817 (Peak: 1900)
-**Global ELO**: 1500 → 1729 (Peak: 1823)

@@ -5,6 +5,18 @@
 **Seasons**: [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1993](../results/1993-season-report.md)
 **Total Race Events**: 199 (597 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1613
+**Peak Qualifying ELO**: 1949 (1987 Round 16 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1403 (1982 Round 11 - French Grand Prix)
+**Race ELO**: 1500 → 1571
+**Peak Race ELO**: 1794 (1989 Round 1 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1442 (1993 Round 6 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1584
+**Peak Global ELO**: 1835 (1987 Round 14 - Mexican Grand Prix)
+**Lowest Global ELO**: 1495 (1993 Round 6 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -606,9 +618,3 @@
 | 1993 | [Round 16: Australian Grand Prix](../results/1993-season-report.md#round-16-australian-grand-prix) | 1993-11-07 | qualifying | Williams | 2 | 1600 | +13 | 1613 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill |
 | 1993 | [Round 16: Australian Grand Prix](../results/1993-season-report.md#round-16-australian-grand-prix) | 1993-11-07 | race | Williams | 2 | 1547 | +24 | 1571 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill |
 | 1993 | [Round 16: Australian Grand Prix](../results/1993-season-report.md#round-16-australian-grand-prix) | 1993-11-07 | global | Williams | Q:2/R:2 | 1564 | +21 | 1584 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1613 (Peak: 1949)
-**Race ELO**: 1500 → 1571 (Peak: 1794)
-**Global ELO**: 1500 → 1584 (Peak: 1835)

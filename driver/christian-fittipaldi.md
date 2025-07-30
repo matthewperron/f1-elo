@@ -5,6 +5,18 @@
 **Seasons**: [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 40 (120 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1491
+**Peak Qualifying ELO**: 1674 (1993 Round 10 - German Grand Prix)
+**Lowest Qualifying ELO**: 1436 (1992 Round 14 - Portuguese Grand Prix)
+**Race ELO**: 1500 → 1531
+**Peak Race ELO**: 1594 (1993 Round 10 - German Grand Prix)
+**Lowest Race ELO**: 1520 (1993 Round 14 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1519
+**Peak Global ELO**: 1618 (1993 Round 10 - German Grand Prix)
+**Lowest Global ELO**: 1489 (1992 Round 7 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -129,9 +141,3 @@
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | qualifying | Footwork | 19 | 1445 | +45 | 1491 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli |
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | race | Footwork | 8 | 1531 | N/A | 1531 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli |
 | 1994 | [Round 16: Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix) | 1994-11-13 | global | Footwork | Q:19/R:8 | 1505 | +14 | 1519 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1491 (Peak: 1674)
-**Race ELO**: 1500 → 1531 (Peak: 1594)
-**Global ELO**: 1500 → 1519 (Peak: 1618)

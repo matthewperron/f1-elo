@@ -5,6 +5,18 @@
 **Seasons**: [1978](../results/1978-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md)
 **Total Race Events**: 101 (303 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1654
+**Peak Qualifying ELO**: 1927 (1984 Round 7 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1383 (1978 Round 13 - Dutch Grand Prix)
+**Race ELO**: 1500 → 1458
+**Peak Race ELO**: 1652 (1983 Round 9 - British Grand Prix)
+**Lowest Race ELO**: 1426 (1978 Round 11 - German Grand Prix)
+**Global ELO**: 1500 → 1518
+**Peak Global ELO**: 1729 (1983 Round 9 - British Grand Prix)
+**Lowest Global ELO**: 1413 (1978 Round 13 - Dutch Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -312,9 +324,3 @@
 | 1986 | [Round 16: Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix) | 1986-10-26 | qualifying | McLaren | 7 | 1669 | -15 | 1654 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost |
 | 1986 | [Round 16: Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix) | 1986-10-26 | race | McLaren | DNF | 1458 | N/A | 1458 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost |
 | 1986 | [Round 16: Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix) | 1986-10-26 | global | McLaren | Q:7/R:DNF | 1522 | -4 | 1518 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1654 (Peak: 1927)
-**Race ELO**: 1500 → 1458 (Peak: 1652)
-**Global ELO**: 1500 → 1518 (Peak: 1729)

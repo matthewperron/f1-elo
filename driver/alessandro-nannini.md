@@ -5,6 +5,18 @@
 **Seasons**: [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md)
 **Total Race Events**: 76 (228 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1739
+**Peak Qualifying ELO**: 1809 (1990 Round 12 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1466 (1986 Round 2 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1614
+**Peak Race ELO**: 1690 (1990 Round 11 - Belgian Grand Prix)
+**Lowest Race ELO**: 1479 (1988 Round 2 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1651
+**Peak Global ELO**: 1716 (1990 Round 11 - Belgian Grand Prix)
+**Lowest Global ELO**: 1490 (1986 Round 2 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -237,9 +249,3 @@
 | 1990 | [Round 14: Spanish Grand Prix](../results/1990-season-report.md#round-14-spanish-grand-prix) | 1990-09-30 | qualifying | Benetton | 9 | 1771 | -31 | 1739 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
 | 1990 | [Round 14: Spanish Grand Prix](../results/1990-season-report.md#round-14-spanish-grand-prix) | 1990-09-30 | race | Benetton | 3 | 1614 | N/A | 1614 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
 | 1990 | [Round 14: Spanish Grand Prix](../results/1990-season-report.md#round-14-spanish-grand-prix) | 1990-09-30 | global | Benetton | Q:9/R:3 | 1661 | -9 | 1651 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1739 (Peak: 1809)
-**Race ELO**: 1500 → 1614 (Peak: 1690)
-**Global ELO**: 1500 → 1651 (Peak: 1716)

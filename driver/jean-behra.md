@@ -5,6 +5,18 @@
 **Seasons**: [1952](../results/1952-season-report.md) • [1953](../results/1953-season-report.md) • [1954](../results/1954-season-report.md) • [1958](../results/1958-season-report.md)
 **Total Race Events**: 9 (27 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1493
+**Peak Qualifying ELO**: 1558 (1958 Round 3 - Dutch Grand Prix)
+**Lowest Qualifying ELO**: 1415 (1954 Round 9 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1506
+**Peak Race ELO**: 1506 (1958 Round 9 - Portuguese Grand Prix)
+**Lowest Race ELO**: 1468 (1958 Round 3 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1502
+**Peak Global ELO**: 1510 (1958 Round 2 - Monaco Grand Prix)
+**Lowest Global ELO**: 1463 (1958 Round 8 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -36,9 +48,3 @@
 | 1958 | [Round 9: Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix) | 1958-08-24 | qualifying | BRM | 4 | 1452 | +41 | 1493 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Harry Schell |
 | 1958 | [Round 9: Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix) | 1958-08-24 | race | BRM | 4 | 1468 | +38 | 1506 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Harry Schell |
 | 1958 | [Round 9: Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix) | 1958-08-24 | global | BRM | Q:4/R:4 | 1463 | +39 | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Harry Schell |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1493 (Peak: 1558)
-**Race ELO**: 1500 → 1506 (Peak: 1506)
-**Global ELO**: 1500 → 1502 (Peak: 1510)

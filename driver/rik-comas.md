@@ -5,6 +5,18 @@
 **Seasons**: [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 60 (180 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1684
+**Peak Qualifying ELO**: 1718 (1994 Round 10 - Hungarian Grand Prix)
+**Lowest Qualifying ELO**: 1454 (1991 Round 13 - Portuguese Grand Prix)
+**Race ELO**: 1500 → 1627
+**Peak Race ELO**: 1684 (1992 Round 10 - German Grand Prix)
+**Lowest Race ELO**: 1481 (1991 Round 4 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1645
+**Peak Global ELO**: 1661 (1992 Round 16 - Australian Grand Prix)
+**Lowest Global ELO**: 1484 (1991 Round 5 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -189,9 +201,3 @@
 | 1994 | [Round 15: Japanese Grand Prix](../results/1994-season-report.md#round-15-japanese-grand-prix) | 1994-11-06 | qualifying | Larrousse | 22 | 1668 | +16 | 1684 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda |
 | 1994 | [Round 15: Japanese Grand Prix](../results/1994-season-report.md#round-15-japanese-grand-prix) | 1994-11-06 | race | Larrousse | 9 | 1627 | N/A | 1627 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda |
 | 1994 | [Round 15: Japanese Grand Prix](../results/1994-season-report.md#round-15-japanese-grand-prix) | 1994-11-06 | global | Larrousse | Q:22/R:9 | 1640 | +5 | 1645 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1684 (Peak: 1718)
-**Race ELO**: 1500 → 1627 (Peak: 1684)
-**Global ELO**: 1500 → 1645 (Peak: 1661)

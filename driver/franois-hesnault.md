@@ -5,6 +5,18 @@
 **Seasons**: [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md)
 **Total Race Events**: 18 (54 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1337
+**Peak Qualifying ELO**: 1479 (1984 Round 1 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1337 (1985 Round 3 - San Marino Grand Prix)
+**Race ELO**: 1500 → 1439
+**Peak Race ELO**: 1467 (1984 Round 11 - German Grand Prix)
+**Lowest Race ELO**: 1439 (1984 Round 15 - European Grand Prix)
+**Global ELO**: 1500 → 1408
+**Peak Global ELO**: 1494 (1984 Round 1 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1408 (1985 Round 3 - San Marino Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -63,9 +75,3 @@
 | 1985 | [Round 3: San Marino Grand Prix](../results/1985-season-report.md#round-3-san-marino-grand-prix) | 1985-05-05 | qualifying | Brabham | 20 | 1339 | -3 | 1337 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
 | 1985 | [Round 3: San Marino Grand Prix](../results/1985-season-report.md#round-3-san-marino-grand-prix) | 1985-05-05 | race | Brabham | DNF | 1439 | N/A | 1439 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
 | 1985 | [Round 3: San Marino Grand Prix](../results/1985-season-report.md#round-3-san-marino-grand-prix) | 1985-05-05 | global | Brabham | Q:20/R:DNF | 1409 | -1 | 1408 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1337 (Peak: 1479)
-**Race ELO**: 1500 → 1439 (Peak: 1467)
-**Global ELO**: 1500 → 1408 (Peak: 1494)

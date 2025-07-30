@@ -5,6 +5,18 @@
 **Seasons**: [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1982](../results/1982-season-report.md)
 **Total Race Events**: 28 (84 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1482
+**Peak Qualifying ELO**: 1570 (1978 Round 15 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1331 (1980 Round 7 - French Grand Prix)
+**Race ELO**: 1500 → 1365
+**Peak Race ELO**: 1532 (1978 Round 15 - United States Grand Prix)
+**Lowest Race ELO**: 1365 (1982 Round 16 - Caesars Palace Grand Prix)
+**Global ELO**: 1500 → 1401
+**Peak Global ELO**: 1543 (1978 Round 15 - United States Grand Prix)
+**Lowest Global ELO**: 1387 (1980 Round 7 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -93,9 +105,3 @@
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | qualifying | Williams | 14 | 1490 | -8 | 1482 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg |
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | race | Williams | 6 | 1383 | -18 | 1365 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg |
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | global | Williams | Q:14/R:6 | 1416 | -15 | 1401 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1482 (Peak: 1570)
-**Race ELO**: 1500 → 1365 (Peak: 1532)
-**Global ELO**: 1500 → 1401 (Peak: 1543)

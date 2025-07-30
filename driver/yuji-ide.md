@@ -5,6 +5,18 @@
 **Seasons**: [2006](../results/2006-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1378
+**Peak Qualifying ELO**: 1460 (2006 Round 1 - Bahrain Grand Prix)
+**Lowest Qualifying ELO**: 1378 (2006 Round 4 - San Marino Grand Prix)
+**Race ELO**: 1500 → 1450
+**Peak Race ELO**: 1450 (2006 Round 3 - Australian Grand Prix)
+**Lowest Race ELO**: 1450 (2006 Round 3 - Australian Grand Prix)
+**Global ELO**: 1500 → 1428
+**Peak Global ELO**: 1488 (2006 Round 1 - Bahrain Grand Prix)
+**Lowest Global ELO**: 1428 (2006 Round 4 - San Marino Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,9 +33,3 @@
 | 2006 | [Round 4: San Marino Grand Prix](../results/2006-season-report.md#round-4-san-marino-grand-prix) | 2006-04-23 | qualifying | Super Aguri | 22 | 1400 | -22 | 1378 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
 | 2006 | [Round 4: San Marino Grand Prix](../results/2006-season-report.md#round-4-san-marino-grand-prix) | 2006-04-23 | race | Super Aguri | DNF | 1450 | N/A | 1450 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
 | 2006 | [Round 4: San Marino Grand Prix](../results/2006-season-report.md#round-4-san-marino-grand-prix) | 2006-04-23 | global | Super Aguri | Q:22/R:DNF | 1435 | -7 | 1428 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1378 (Peak: 1460)
-**Race ELO**: 1500 → 1450 (Peak: 1450)
-**Global ELO**: 1500 → 1428 (Peak: 1488)

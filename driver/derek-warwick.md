@@ -5,6 +5,18 @@
 **Seasons**: [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1993](../results/1993-season-report.md)
 **Total Race Events**: 137 (411 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1425
+**Peak Qualifying ELO**: 1762 (1989 Round 14 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1396 (1993 Round 13 - Italian Grand Prix)
+**Race ELO**: 1500 → 1405
+**Peak Race ELO**: 1608 (1984 Round 11 - German Grand Prix)
+**Lowest Race ELO**: 1405 (1993 Round 16 - Australian Grand Prix)
+**Global ELO**: 1500 → 1411
+**Peak Global ELO**: 1634 (1984 Round 11 - German Grand Prix)
+**Lowest Global ELO**: 1411 (1993 Round 16 - Australian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -420,9 +432,3 @@
 | 1993 | [Round 16: Australian Grand Prix](../results/1993-season-report.md#round-16-australian-grand-prix) | 1993-11-07 | qualifying | Footwork | 17 | 1464 | -39 | 1425 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki |
 | 1993 | [Round 16: Australian Grand Prix](../results/1993-season-report.md#round-16-australian-grand-prix) | 1993-11-07 | race | Footwork | 10 | 1431 | -26 | 1405 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki |
 | 1993 | [Round 16: Australian Grand Prix](../results/1993-season-report.md#round-16-australian-grand-prix) | 1993-11-07 | global | Footwork | Q:17/R:10 | 1441 | -30 | 1411 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1425 (Peak: 1762)
-**Race ELO**: 1500 → 1405 (Peak: 1608)
-**Global ELO**: 1500 → 1411 (Peak: 1634)

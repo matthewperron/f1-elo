@@ -5,6 +5,18 @@
 **Seasons**: [1981](../results/1981-season-report.md) • [1983](../results/1983-season-report.md)
 **Total Race Events**: 10 (30 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1414
+**Peak Qualifying ELO**: 1481 (1981 Round 1 - United States Grand Prix West)
+**Lowest Qualifying ELO**: 1414 (1983 Round 5 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1446
+**Peak Race ELO**: 1531 (1981 Round 7 - Spanish Grand Prix)
+**Lowest Race ELO**: 1446 (1983 Round 4 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1436
+**Peak Global ELO**: 1500 (1981 Round 7 - Spanish Grand Prix)
+**Lowest Global ELO**: 1436 (1983 Round 5 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -39,9 +51,3 @@
 | 1983 | [Round 5: Monaco Grand Prix](../results/1983-season-report.md#round-5-monaco-grand-prix) | 1983-05-15 | qualifying | Arrows | 15 | 1431 | -17 | 1414 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer |
 | 1983 | [Round 5: Monaco Grand Prix](../results/1983-season-report.md#round-5-monaco-grand-prix) | 1983-05-15 | race | Arrows | 7 | 1446 | N/A | 1446 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer |
 | 1983 | [Round 5: Monaco Grand Prix](../results/1983-season-report.md#round-5-monaco-grand-prix) | 1983-05-15 | global | Arrows | Q:15/R:7 | 1442 | -5 | 1436 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1414 (Peak: 1481)
-**Race ELO**: 1500 → 1446 (Peak: 1531)
-**Global ELO**: 1500 → 1436 (Peak: 1500)

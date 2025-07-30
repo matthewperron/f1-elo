@@ -5,6 +5,18 @@
 **Seasons**: [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md)
 **Total Race Events**: 186 (558 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1459
+**Peak Qualifying ELO**: 1691 (2022 Round 11 - Austrian Grand Prix)
+**Lowest Qualifying ELO**: 1373 (2024 Round 18 - Singapore Grand Prix)
+**Race ELO**: 1500 → 1403
+**Peak Race ELO**: 1620 (2020 Round 17 - Abu Dhabi Grand Prix)
+**Lowest Race ELO**: 1401 (2024 Round 12 - British Grand Prix)
+**Global ELO**: 1500 → 1420
+**Peak Global ELO**: 1596 (2022 Round 19 - United States Grand Prix)
+**Lowest Global ELO**: 1406 (2024 Round 13 - Hungarian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -567,9 +579,3 @@
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | qualifying | Haas F1 Team | 14 | 1489 | -30 | 1459 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg |
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | race | Haas F1 Team | DNF | 1403 | N/A | 1403 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg |
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | global | Haas F1 Team | Q:14/R:DNF | 1429 | -9 | 1420 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1459 (Peak: 1691)
-**Race ELO**: 1500 → 1403 (Peak: 1620)
-**Global ELO**: 1500 → 1420 (Peak: 1596)

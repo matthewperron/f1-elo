@@ -5,6 +5,18 @@
 **Seasons**: [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md)
 **Total Race Events**: 34 (102 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1408
+**Peak Qualifying ELO**: 1593 (1974 Round 12 - Austrian Grand Prix)
+**Lowest Qualifying ELO**: 1359 (1978 Round 14 - Italian Grand Prix)
+**Race ELO**: 1500 → 1431
+**Peak Race ELO**: 1558 (1974 Round 11 - German Grand Prix)
+**Lowest Race ELO**: 1431 (1978 Round 8 - Swedish Grand Prix)
+**Global ELO**: 1500 → 1423
+**Peak Global ELO**: 1568 (1974 Round 12 - Austrian Grand Prix)
+**Lowest Global ELO**: 1408 (1978 Round 14 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -111,9 +123,3 @@
 | 1978 | [Round 15: United States Grand Prix](../results/1978-season-report.md#round-15-united-states-grand-prix) | 1978-10-01 | qualifying | Shadow | 14 | 1359 | +49 | 1408 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni |
 | 1978 | [Round 15: United States Grand Prix](../results/1978-season-report.md#round-15-united-states-grand-prix) | 1978-10-01 | race | Shadow | DNF | 1431 | N/A | 1431 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni |
 | 1978 | [Round 15: United States Grand Prix](../results/1978-season-report.md#round-15-united-states-grand-prix) | 1978-10-01 | global | Shadow | Q:14/R:DNF | 1408 | +15 | 1423 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1408 (Peak: 1593)
-**Race ELO**: 1500 → 1431 (Peak: 1558)
-**Global ELO**: 1500 → 1423 (Peak: 1568)

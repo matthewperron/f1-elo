@@ -5,6 +5,15 @@
 **Seasons**: [1968](../results/1968-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1459
+**Peak Qualifying ELO**: 1532 (1968 Round 6 - French Grand Prix)
+**Lowest Qualifying ELO**: 1459 (1968 Round 12 - Mexican Grand Prix)
+**Global ELO**: 1500 → 1488
+**Peak Global ELO**: 1510 (1968 Round 6 - French Grand Prix)
+**Lowest Global ELO**: 1488 (1968 Round 12 - Mexican Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,8 +30,3 @@
 | 1968 | [Round 12: Mexican Grand Prix](../results/1968-season-report.md#round-12-mexican-grand-prix) | 1968-11-03 | qualifying | Cooper-BRM | 16 | 1479 | -20 | 1459 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart |
 | 1968 | [Round 12: Mexican Grand Prix](../results/1968-season-report.md#round-12-mexican-grand-prix) | 1968-11-03 | race | Cooper-BRM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart |
 | 1968 | [Round 12: Mexican Grand Prix](../results/1968-season-report.md#round-12-mexican-grand-prix) | 1968-11-03 | global | Cooper-BRM | Q:16/R:DNF | 1494 | -6 | 1488 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1459 (Peak: 1532)
-**Global ELO**: 1500 → 1488 (Peak: 1510)

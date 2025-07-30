@@ -5,6 +5,18 @@
 **Seasons**: [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md)
 **Total Race Events**: 61 (183 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1374
+**Peak Qualifying ELO**: 1575 (2021 Round 19 - São Paulo Grand Prix)
+**Lowest Qualifying ELO**: 1328 (2022 Round 20 - Mexico City Grand Prix)
+**Race ELO**: 1500 → 1255
+**Peak Race ELO**: 1541 (2020 Round 10 - Russian Grand Prix)
+**Lowest Race ELO**: 1255 (2022 Round 21 - São Paulo Grand Prix)
+**Global ELO**: 1500 → 1293
+**Peak Global ELO**: 1503 (2020 Round 10 - Russian Grand Prix)
+**Lowest Global ELO**: 1284 (2022 Round 20 - Mexico City Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -192,9 +204,3 @@
 | 2022 | [Round 22: Abu Dhabi Grand Prix](../results/2022-season-report.md#round-22-abu-dhabi-grand-prix) | 2022-11-20 | qualifying | Williams | 20 | 1385 | -11 | 1374 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon |
 | 2022 | [Round 22: Abu Dhabi Grand Prix](../results/2022-season-report.md#round-22-abu-dhabi-grand-prix) | 2022-11-20 | race | Williams | DNF | 1255 | N/A | 1255 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon |
 | 2022 | [Round 22: Abu Dhabi Grand Prix](../results/2022-season-report.md#round-22-abu-dhabi-grand-prix) | 2022-11-20 | global | Williams | Q:20/R:DNF | 1296 | -3 | 1293 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1374 (Peak: 1575)
-**Race ELO**: 1500 → 1255 (Peak: 1541)
-**Global ELO**: 1500 → 1293 (Peak: 1503)

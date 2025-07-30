@@ -5,6 +5,18 @@
 **Seasons**: [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md)
 **Total Race Events**: 106 (318 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1487
+**Peak Qualifying ELO**: 1783 (2002 Round 7 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1428 (2011 Round 7 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1584
+**Peak Race ELO**: 1584 (2012 Round 20 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1402 (2012 Round 2 - Malaysian Grand Prix)
+**Global ELO**: 1500 → 1556
+**Peak Global ELO**: 1566 (1999 Round 11 - Hungarian Grand Prix)
+**Lowest Global ELO**: 1418 (2012 Round 2 - Malaysian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -327,9 +339,3 @@
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | qualifying | HRT | 24 | 1541 | -54 | 1487 | Narain Karthikeyan |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | race | HRT | 17 | 1572 | +12 | 1584 | Narain Karthikeyan |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | global | HRT | Q:24/R:17 | 1564 | -8 | 1556 | Narain Karthikeyan |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1487 (Peak: 1783)
-**Race ELO**: 1500 → 1584 (Peak: 1584)
-**Global ELO**: 1500 → 1556 (Peak: 1566)

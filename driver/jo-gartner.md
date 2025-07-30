@@ -5,6 +5,15 @@
 **Seasons**: [1984](../results/1984-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1394
+**Peak Qualifying ELO**: 1484 (1984 Round 12 - Austrian Grand Prix)
+**Lowest Qualifying ELO**: 1394 (1984 Round 16 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1468
+**Peak Global ELO**: 1495 (1984 Round 12 - Austrian Grand Prix)
+**Lowest Global ELO**: 1468 (1984 Round 16 - Portuguese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,8 +39,3 @@
 | 1984 | [Round 16: Portuguese Grand Prix](../results/1984-season-report.md#round-16-portuguese-grand-prix) | 1984-10-21 | qualifying | Osella | 24 | 1411 | -17 | 1394 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani |
 | 1984 | [Round 16: Portuguese Grand Prix](../results/1984-season-report.md#round-16-portuguese-grand-prix) | 1984-10-21 | race | Osella | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani |
 | 1984 | [Round 16: Portuguese Grand Prix](../results/1984-season-report.md#round-16-portuguese-grand-prix) | 1984-10-21 | global | Osella | Q:24/R:DNF | 1473 | -5 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1394 (Peak: 1484)
-**Global ELO**: 1500 → 1468 (Peak: 1495)

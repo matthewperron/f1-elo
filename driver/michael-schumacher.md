@@ -5,6 +5,18 @@
 **Seasons**: [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md)
 **Total Race Events**: 308 (924 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1561
+**Peak Qualifying ELO**: 2172 (2001 Round 14 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1432 (2010 Round 17 - Korean Grand Prix)
+**Race ELO**: 1500 → 1627
+**Peak Race ELO**: 1902 (2006 Round 12 - German Grand Prix)
+**Lowest Race ELO**: 1392 (2010 Round 18 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1607
+**Peak Global ELO**: 1984 (2001 Round 14 - Belgian Grand Prix)
+**Lowest Global ELO**: 1411 (2010 Round 17 - Korean Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -933,9 +945,3 @@
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | qualifying | Mercedes | 13 | 1587 | -26 | 1561 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | race | Mercedes | 7 | 1604 | +23 | 1627 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | global | Mercedes | Q:13/R:7 | 1599 | +8 | 1607 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1561 (Peak: 2172)
-**Race ELO**: 1500 → 1627 (Peak: 1902)
-**Global ELO**: 1500 → 1607 (Peak: 1984)

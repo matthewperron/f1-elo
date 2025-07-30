@@ -5,6 +5,15 @@
 **Seasons**: [1950](../results/1950-season-report.md) • [1952](../results/1952-season-report.md) • [1953](../results/1953-season-report.md) • [1956](../results/1956-season-report.md) • [1960](../results/1960-season-report.md) • [1961](../results/1961-season-report.md) • [1963](../results/1963-season-report.md)
 **Total Race Events**: 11 (33 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1468
+**Peak Qualifying ELO**: 1558 (1953 Round 8 - Swiss Grand Prix)
+**Lowest Qualifying ELO**: 1397 (1961 Round 6 - German Grand Prix)
+**Global ELO**: 1500 → 1490
+**Peak Global ELO**: 1518 (1953 Round 8 - Swiss Grand Prix)
+**Lowest Global ELO**: 1469 (1961 Round 6 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -42,8 +51,3 @@
 | 1963 | [Round 1: Monaco Grand Prix](../results/1963-season-report.md#round-1-monaco-grand-prix) | 1963-05-26 | qualifying | Lola | 14 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon |
 | 1963 | [Round 1: Monaco Grand Prix](../results/1963-season-report.md#round-1-monaco-grand-prix) | 1963-05-26 | race | Lola | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon |
 | 1963 | [Round 1: Monaco Grand Prix](../results/1963-season-report.md#round-1-monaco-grand-prix) | 1963-05-26 | global | Lola | Q:14/R:DNF | 1500 | -10 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1468 (Peak: 1558)
-**Global ELO**: 1500 → 1490 (Peak: 1518)

@@ -5,6 +5,18 @@
 **Seasons**: [1956](../results/1956-season-report.md) • [1958](../results/1958-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1532
+**Peak Qualifying ELO**: 1532 (1958 Round 9 - Portuguese Grand Prix)
+**Lowest Qualifying ELO**: 1468 (1956 Round 2 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1532
+**Peak Race ELO**: 1532 (1958 Round 9 - Portuguese Grand Prix)
+**Lowest Race ELO**: 1532 (1958 Round 9 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1532
+**Peak Global ELO**: 1532 (1958 Round 9 - Portuguese Grand Prix)
+**Lowest Global ELO**: 1490 (1956 Round 2 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,9 +27,3 @@
 | 1958 | [Round 9: Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix) | 1958-08-24 | qualifying | Ferrari | 2 | 1500 | +32 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang von Trips |
 | 1958 | [Round 9: Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix) | 1958-08-24 | race | Ferrari | 2 | 1500 | +32 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang von Trips |
 | 1958 | [Round 9: Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix) | 1958-08-24 | global | Ferrari | Q:2/R:2 | 1500 | +32 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang von Trips |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1532 (Peak: 1532)
-**Race ELO**: 1500 → 1532 (Peak: 1532)
-**Global ELO**: 1500 → 1532 (Peak: 1532)

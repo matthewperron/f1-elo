@@ -5,6 +5,18 @@
 **Seasons**: [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 20 (60 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1521
+**Peak Qualifying ELO**: 1547 (1994 Round 12 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1299 (1988 Round 9 - German Grand Prix)
+**Race ELO**: 1500 → 1566
+**Peak Race ELO**: 1566 (1988 Round 14 - Spanish Grand Prix)
+**Lowest Race ELO**: 1526 (1988 Round 2 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1507
+**Peak Global ELO**: 1514 (1994 Round 12 - Italian Grand Prix)
+**Lowest Global ELO**: 1465 (1988 Round 7 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -69,9 +81,3 @@
 | 1994 | [Round 13: Portuguese Grand Prix](../results/1994-season-report.md#round-13-portuguese-grand-prix) | 1994-09-25 | qualifying | Larrousse | 23 | 1547 | -25 | 1521 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas |
 | 1994 | [Round 13: Portuguese Grand Prix](../results/1994-season-report.md#round-13-portuguese-grand-prix) | 1994-09-25 | race | Larrousse | 14 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas |
 | 1994 | [Round 13: Portuguese Grand Prix](../results/1994-season-report.md#round-13-portuguese-grand-prix) | 1994-09-25 | global | Larrousse | Q:23/R:14 | 1514 | -7 | 1507 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1521 (Peak: 1547)
-**Race ELO**: 1500 → 1566 (Peak: 1566)
-**Global ELO**: 1500 → 1507 (Peak: 1514)

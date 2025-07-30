@@ -5,6 +5,18 @@
 **Seasons**: [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md)
 **Total Race Events**: 103 (309 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1455
+**Peak Qualifying ELO**: 1747 (1983 Round 4 - San Marino Grand Prix)
+**Lowest Qualifying ELO**: 1455 (1986 Round 4 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1423
+**Peak Race ELO**: 1588 (1983 Round 13 - Italian Grand Prix)
+**Lowest Race ELO**: 1423 (1985 Round 14 - European Grand Prix)
+**Global ELO**: 1500 → 1434
+**Peak Global ELO**: 1629 (1983 Round 14 - European Grand Prix)
+**Lowest Global ELO**: 1434 (1986 Round 4 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -318,9 +330,3 @@
 | 1986 | [Round 4: Monaco Grand Prix](../results/1986-season-report.md#round-4-monaco-grand-prix) | 1986-05-11 | qualifying | Brabham | 20 | 1465 | -10 | 1455 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese |
 | 1986 | [Round 4: Monaco Grand Prix](../results/1986-season-report.md#round-4-monaco-grand-prix) | 1986-05-11 | race | Brabham | DNF | 1423 | N/A | 1423 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese |
 | 1986 | [Round 4: Monaco Grand Prix](../results/1986-season-report.md#round-4-monaco-grand-prix) | 1986-05-11 | global | Brabham | Q:20/R:DNF | 1437 | -3 | 1434 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1455 (Peak: 1747)
-**Race ELO**: 1500 → 1423 (Peak: 1588)
-**Global ELO**: 1500 → 1434 (Peak: 1629)

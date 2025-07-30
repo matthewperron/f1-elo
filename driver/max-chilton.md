@@ -5,6 +5,18 @@
 **Seasons**: [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md)
 **Total Race Events**: 34 (102 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1356
+**Peak Qualifying ELO**: 1520 (2014 Round 7 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1309 (2013 Round 13 - Singapore Grand Prix)
+**Race ELO**: 1500 → 1326
+**Peak Race ELO**: 1468 (2013 Round 1 - Australian Grand Prix)
+**Lowest Race ELO**: 1326 (2014 Round 14 - Singapore Grand Prix)
+**Global ELO**: 1500 → 1335
+**Peak Global ELO**: 1468 (2013 Round 1 - Australian Grand Prix)
+**Lowest Global ELO**: 1325 (2013 Round 12 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -111,9 +123,3 @@
 | 2014 | [Round 15: Japanese Grand Prix](../results/2014-season-report.md#round-15-japanese-grand-prix) | 2014-10-05 | qualifying | Marussia | 21 | 1367 | -11 | 1356 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi |
 | 2014 | [Round 15: Japanese Grand Prix](../results/2014-season-report.md#round-15-japanese-grand-prix) | 2014-10-05 | race | Marussia | 18 | 1326 | N/A | 1326 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi |
 | 2014 | [Round 15: Japanese Grand Prix](../results/2014-season-report.md#round-15-japanese-grand-prix) | 2014-10-05 | global | Marussia | Q:21/R:18 | 1338 | -3 | 1335 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1356 (Peak: 1520)
-**Race ELO**: 1500 → 1326 (Peak: 1468)
-**Global ELO**: 1500 → 1335 (Peak: 1468)

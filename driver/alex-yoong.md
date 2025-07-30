@@ -5,6 +5,18 @@
 **Seasons**: [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md)
 **Total Race Events**: 15 (45 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1289
+**Peak Qualifying ELO**: 1480 (2001 Round 15 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1289 (2002 Round 17 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1418
+**Peak Race ELO**: 1471 (2001 Round 17 - Japanese Grand Prix)
+**Lowest Race ELO**: 1418 (2002 Round 8 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1379
+**Peak Global ELO**: 1494 (2001 Round 15 - Italian Grand Prix)
+**Lowest Global ELO**: 1379 (2002 Round 17 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -54,9 +66,3 @@
 | 2002 | [Round 17: Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix) | 2002-10-13 | qualifying | Minardi | 20 | 1295 | -6 | 1289 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber |
 | 2002 | [Round 17: Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix) | 2002-10-13 | race | Minardi | DNF | 1418 | N/A | 1418 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber |
 | 2002 | [Round 17: Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix) | 2002-10-13 | global | Minardi | Q:20/R:DNF | 1381 | -2 | 1379 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1289 (Peak: 1480)
-**Race ELO**: 1500 → 1418 (Peak: 1471)
-**Global ELO**: 1500 → 1379 (Peak: 1494)

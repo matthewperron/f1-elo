@@ -5,6 +5,18 @@
 **Seasons**: [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md)
 **Total Race Events**: 61 (183 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1713
+**Peak Qualifying ELO**: 1797 (1990 Round 13 - Portuguese Grand Prix)
+**Lowest Qualifying ELO**: 1472 (1987 Round 16 - Australian Grand Prix)
+**Race ELO**: 1500 → 1568
+**Peak Race ELO**: 1607 (1991 Round 14 - Spanish Grand Prix)
+**Lowest Race ELO**: 1492 (1989 Round 13 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1612
+**Peak Global ELO**: 1656 (1991 Round 16 - Australian Grand Prix)
+**Lowest Global ELO**: 1492 (1987 Round 16 - Australian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -192,9 +204,3 @@
 | 1992 | [Round 16: Australian Grand Prix](../results/1992-season-report.md#round-16-australian-grand-prix) | 1992-11-08 | qualifying | Jordan | 15 | 1690 | +23 | 1713 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin |
 | 1992 | [Round 16: Australian Grand Prix](../results/1992-season-report.md#round-16-australian-grand-prix) | 1992-11-08 | race | Jordan | 6 | 1568 | N/A | 1568 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin |
 | 1992 | [Round 16: Australian Grand Prix](../results/1992-season-report.md#round-16-australian-grand-prix) | 1992-11-08 | global | Jordan | Q:15/R:6 | 1605 | +7 | 1612 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1713 (Peak: 1797)
-**Race ELO**: 1500 → 1568 (Peak: 1607)
-**Global ELO**: 1500 → 1612 (Peak: 1656)

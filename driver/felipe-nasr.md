@@ -5,6 +5,18 @@
 **Seasons**: [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md)
 **Total Race Events**: 40 (120 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1442
+**Peak Qualifying ELO**: 1597 (2016 Round 14 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1382 (2016 Round 3 - Chinese Grand Prix)
+**Race ELO**: 1500 → 1402
+**Peak Race ELO**: 1602 (2015 Round 6 - Monaco Grand Prix)
+**Lowest Race ELO**: 1365 (2016 Round 7 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1412
+**Peak Global ELO**: 1596 (2015 Round 6 - Monaco Grand Prix)
+**Lowest Global ELO**: 1388 (2016 Round 5 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -129,9 +141,3 @@
 | 2016 | [Round 21: Abu Dhabi Grand Prix](../results/2016-season-report.md#round-21-abu-dhabi-grand-prix) | 2016-11-27 | qualifying | Sauber | 19 | 1395 | +47 | 1442 | Marcus Ericsson |
 | 2016 | [Round 21: Abu Dhabi Grand Prix](../results/2016-season-report.md#round-21-abu-dhabi-grand-prix) | 2016-11-27 | race | Sauber | 16 | 1424 | -22 | 1402 | Marcus Ericsson |
 | 2016 | [Round 21: Abu Dhabi Grand Prix](../results/2016-season-report.md#round-21-abu-dhabi-grand-prix) | 2016-11-27 | global | Sauber | Q:19/R:16 | 1413 | -1 | 1412 | Marcus Ericsson |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1442 (Peak: 1597)
-**Race ELO**: 1500 → 1402 (Peak: 1602)
-**Global ELO**: 1500 → 1412 (Peak: 1596)

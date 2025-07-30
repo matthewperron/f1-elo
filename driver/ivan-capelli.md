@@ -5,6 +5,18 @@
 **Seasons**: [1985](../results/1985-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md)
 **Total Race Events**: 74 (222 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1380
+**Peak Qualifying ELO**: 1656 (1989 Round 2 - San Marino Grand Prix)
+**Lowest Qualifying ELO**: 1380 (1993 Round 1 - South African Grand Prix)
+**Race ELO**: 1500 → 1478
+**Peak Race ELO**: 1537 (1988 Round 12 - Italian Grand Prix)
+**Lowest Race ELO**: 1466 (1990 Round 11 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1447
+**Peak Global ELO**: 1572 (1989 Round 2 - San Marino Grand Prix)
+**Lowest Global ELO**: 1447 (1993 Round 1 - South African Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -231,9 +243,3 @@
 | 1993 | [Round 1: South African Grand Prix](../results/1993-season-report.md#round-1-south-african-grand-prix) | 1993-03-14 | qualifying | Jordan | 18 | 1403 | -23 | 1380 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
 | 1993 | [Round 1: South African Grand Prix](../results/1993-season-report.md#round-1-south-african-grand-prix) | 1993-03-14 | race | Jordan | DNF | 1478 | N/A | 1478 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
 | 1993 | [Round 1: South African Grand Prix](../results/1993-season-report.md#round-1-south-african-grand-prix) | 1993-03-14 | global | Jordan | Q:18/R:DNF | 1454 | -7 | 1447 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1380 (Peak: 1656)
-**Race ELO**: 1500 → 1478 (Peak: 1537)
-**Global ELO**: 1500 → 1447 (Peak: 1572)

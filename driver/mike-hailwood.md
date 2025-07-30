@@ -5,6 +5,15 @@
 **Seasons**: [1964](../results/1964-season-report.md) • [1965](../results/1965-season-report.md) • [1973](../results/1973-season-report.md)
 **Total Race Events**: 16 (48 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1507
+**Peak Qualifying ELO**: 1589 (1973 Round 8 - French Grand Prix)
+**Lowest Qualifying ELO**: 1457 (1965 Round 2 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1502
+**Peak Global ELO**: 1527 (1973 Round 8 - French Grand Prix)
+**Lowest Global ELO**: 1488 (1965 Round 2 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -57,8 +66,3 @@
 | 1973 | [Round 14: Canadian Grand Prix](../results/1973-season-report.md#round-14-canadian-grand-prix) | 1973-09-23 | qualifying | Surtees | 12 | 1470 | +38 | 1507 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace |
 | 1973 | [Round 14: Canadian Grand Prix](../results/1973-season-report.md#round-14-canadian-grand-prix) | 1973-09-23 | race | Surtees | 9 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace |
 | 1973 | [Round 14: Canadian Grand Prix](../results/1973-season-report.md#round-14-canadian-grand-prix) | 1973-09-23 | global | Surtees | Q:12/R:9 | 1491 | +11 | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1507 (Peak: 1589)
-**Global ELO**: 1500 → 1502 (Peak: 1527)

@@ -5,6 +5,18 @@
 **Seasons**: [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md)
 **Total Race Events**: 42 (126 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1492
+**Peak Qualifying ELO**: 1696 (2017 Round 16 - Japanese Grand Prix)
+**Lowest Qualifying ELO**: 1469 (2018 Round 15 - Singapore Grand Prix)
+**Race ELO**: 1500 → 1529
+**Peak Race ELO**: 1548 (2017 Round 15 - Malaysian Grand Prix)
+**Lowest Race ELO**: 1477 (2018 Round 17 - Japanese Grand Prix)
+**Global ELO**: 1500 → 1517
+**Peak Global ELO**: 1586 (2017 Round 16 - Japanese Grand Prix)
+**Lowest Global ELO**: 1481 (2018 Round 15 - Singapore Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -135,9 +147,3 @@
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | qualifying | McLaren | 18 | 1498 | -6 | 1492 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | race | McLaren | 14 | 1537 | -8 | 1529 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | global | McLaren | Q:18/R:14 | 1524 | -7 | 1517 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1492 (Peak: 1696)
-**Race ELO**: 1500 → 1529 (Peak: 1548)
-**Global ELO**: 1500 → 1517 (Peak: 1586)

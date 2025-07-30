@@ -5,6 +5,18 @@
 **Seasons**: [1994](../results/1994-season-report.md)
 **Total Race Events**: 10 (30 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1361
+**Peak Qualifying ELO**: 1475 (1994 Round 1 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1361 (1994 Round 10 - Hungarian Grand Prix)
+**Race ELO**: 1500 → 1489
+**Peak Race ELO**: 1542 (1994 Round 4 - Monaco Grand Prix)
+**Lowest Race ELO**: 1489 (1994 Round 10 - Hungarian Grand Prix)
+**Global ELO**: 1500 → 1451
+**Peak Global ELO**: 1506 (1994 Round 4 - Monaco Grand Prix)
+**Lowest Global ELO**: 1451 (1994 Round 10 - Hungarian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -39,9 +51,3 @@
 | 1994 | [Round 10: Hungarian Grand Prix](../results/1994-season-report.md#round-10-hungarian-grand-prix) | 1994-08-14 | qualifying | Larrousse | 25 | 1369 | -8 | 1361 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas |
 | 1994 | [Round 10: Hungarian Grand Prix](../results/1994-season-report.md#round-10-hungarian-grand-prix) | 1994-08-14 | race | Larrousse | 9 | 1513 | -24 | 1489 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas |
 | 1994 | [Round 10: Hungarian Grand Prix](../results/1994-season-report.md#round-10-hungarian-grand-prix) | 1994-08-14 | global | Larrousse | Q:25/R:9 | 1470 | -19 | 1451 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1361 (Peak: 1475)
-**Race ELO**: 1500 → 1489 (Peak: 1542)
-**Global ELO**: 1500 → 1451 (Peak: 1506)

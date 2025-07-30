@@ -5,6 +5,18 @@
 **Seasons**: [1996](../results/1996-season-report.md) • [1998](../results/1998-season-report.md)
 **Total Race Events**: 27 (81 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1414
+**Peak Qualifying ELO**: 1474 (1996 Round 1 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1320 (1996 Round 16 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1998 Round 14 - Italian Grand Prix)
+**Lowest Race ELO**: 1466 (1996 Round 16 - Japanese Grand Prix)
+**Global ELO**: 1500 → 1452
+**Peak Global ELO**: 1492 (1996 Round 1 - Australian Grand Prix)
+**Lowest Global ELO**: 1422 (1996 Round 16 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -90,9 +102,3 @@
 | 1998 | [Round 15: Luxembourg Grand Prix](../results/1998-season-report.md#round-15-luxembourg-grand-prix) | 1998-09-27 | qualifying | Tyrrell | 22 | 1434 | -20 | 1414 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi |
 | 1998 | [Round 15: Luxembourg Grand Prix](../results/1998-season-report.md#round-15-luxembourg-grand-prix) | 1998-09-27 | race | Tyrrell | DNF | 1468 | N/A | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi |
 | 1998 | [Round 15: Luxembourg Grand Prix](../results/1998-season-report.md#round-15-luxembourg-grand-prix) | 1998-09-27 | global | Tyrrell | Q:22/R:DNF | 1458 | -6 | 1452 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1414 (Peak: 1474)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1452 (Peak: 1492)

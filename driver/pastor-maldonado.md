@@ -5,6 +5,18 @@
 **Seasons**: [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md)
 **Total Race Events**: 96 (288 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1458
+**Peak Qualifying ELO**: 1758 (2012 Round 19 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1402 (2015 Round 18 - Brazilian Grand Prix)
+**Race ELO**: 1500 → 1442
+**Peak Race ELO**: 1604 (2013 Round 17 - Abu Dhabi Grand Prix)
+**Lowest Race ELO**: 1420 (2012 Round 13 - Italian Grand Prix)
+**Global ELO**: 1500 → 1448
+**Peak Global ELO**: 1602 (2011 Round 17 - Indian Grand Prix)
+**Lowest Global ELO**: 1431 (2015 Round 18 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -297,9 +309,3 @@
 | 2015 | [Round 19: Abu Dhabi Grand Prix](../results/2015-season-report.md#round-19-abu-dhabi-grand-prix) | 2015-11-29 | qualifying | Lotus F1 | 13 | 1402 | +56 | 1458 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean |
 | 2015 | [Round 19: Abu Dhabi Grand Prix](../results/2015-season-report.md#round-19-abu-dhabi-grand-prix) | 2015-11-29 | race | Lotus F1 | DNF | 1442 | N/A | 1442 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean |
 | 2015 | [Round 19: Abu Dhabi Grand Prix](../results/2015-season-report.md#round-19-abu-dhabi-grand-prix) | 2015-11-29 | global | Lotus F1 | Q:13/R:DNF | 1431 | +17 | 1448 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1458 (Peak: 1758)
-**Race ELO**: 1500 → 1442 (Peak: 1604)
-**Global ELO**: 1500 → 1448 (Peak: 1602)

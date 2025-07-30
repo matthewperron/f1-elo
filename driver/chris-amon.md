@@ -5,6 +5,18 @@
 **Seasons**: [1963](../results/1963-season-report.md) • [1964](../results/1964-season-report.md) • [1965](../results/1965-season-report.md) • [1967](../results/1967-season-report.md) • [1968](../results/1968-season-report.md) • [1969](../results/1969-season-report.md) • [1971](../results/1971-season-report.md) • [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md)
 **Total Race Events**: 30 (90 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1546
+**Peak Qualifying ELO**: 1650 (1965 Round 7 - German Grand Prix)
+**Lowest Qualifying ELO**: 1459 (1967 Round 2 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1510
+**Peak Race ELO**: 1554 (1971 Round 5 - French Grand Prix)
+**Lowest Race ELO**: 1510 (1971 Round 11 - United States Grand Prix)
+**Global ELO**: 1500 → 1514
+**Peak Global ELO**: 1560 (1971 Round 10 - Canadian Grand Prix)
+**Lowest Global ELO**: 1488 (1967 Round 2 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -99,9 +111,3 @@
 | 1976 | [Round 14: Canadian Grand Prix](../results/1976-season-report.md#round-14-canadian-grand-prix) | 1976-10-03 | qualifying | Wolf | 0 | 1511 | +35 | 1546 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario |
 | 1976 | [Round 14: Canadian Grand Prix](../results/1976-season-report.md#round-14-canadian-grand-prix) | 1976-10-03 | race | Wolf | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario |
 | 1976 | [Round 14: Canadian Grand Prix](../results/1976-season-report.md#round-14-canadian-grand-prix) | 1976-10-03 | global | Wolf | Q:0/R:DNF | 1503 | +11 | 1514 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1546 (Peak: 1650)
-**Race ELO**: 1500 → 1510 (Peak: 1554)
-**Global ELO**: 1500 → 1514 (Peak: 1560)

@@ -5,6 +5,15 @@
 **Seasons**: [1962](../results/1962-season-report.md)
 **Total Race Events**: 1 (3 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1465
+**Peak Qualifying ELO**: 1465 (1962 Round 5 - British Grand Prix)
+**Lowest Qualifying ELO**: 1465 (1962 Round 5 - British Grand Prix)
+**Global ELO**: 1500 → 1490
+**Peak Global ELO**: 1490 (1962 Round 5 - British Grand Prix)
+**Lowest Global ELO**: 1490 (1962 Round 5 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -12,8 +21,3 @@
 | 1962 | [Round 5: British Grand Prix](../results/1962-season-report.md#round-5-british-grand-prix) | 1962-07-21 | qualifying | Lotus-BRM | 21 | 1500 | -35 | 1465 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
 | 1962 | [Round 5: British Grand Prix](../results/1962-season-report.md#round-5-british-grand-prix) | 1962-07-21 | race | Lotus-BRM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
 | 1962 | [Round 5: British Grand Prix](../results/1962-season-report.md#round-5-british-grand-prix) | 1962-07-21 | global | Lotus-BRM | Q:21/R:DNF | 1500 | -10 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1465 (Peak: 1465)
-**Global ELO**: 1500 → 1490 (Peak: 1490)

@@ -5,6 +5,18 @@
 **Seasons**: [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1978](../results/1978-season-report.md)
 **Total Race Events**: 5 (15 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1472
+**Peak Qualifying ELO**: 1477 (1975 Round 14 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1372 (1976 Round 10 - German Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1978 Round 15 - United States Grand Prix)
+**Lowest Race ELO**: 1465 (1976 Round 7 - Swedish Grand Prix)
+**Global ELO**: 1500 → 1469
+**Peak Global ELO**: 1493 (1975 Round 14 - United States Grand Prix)
+**Lowest Global ELO**: 1437 (1976 Round 10 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -24,9 +36,3 @@
 | 1978 | [Round 15: United States Grand Prix](../results/1978-season-report.md#round-15-united-states-grand-prix) | 1978-10-01 | qualifying | Ensign | 24 | 1500 | -28 | 1472 | Derek Daly |
 | 1978 | [Round 15: United States Grand Prix](../results/1978-season-report.md#round-15-united-states-grand-prix) | 1978-10-01 | race | Ensign | 13 | 1500 | -32 | 1468 | Derek Daly |
 | 1978 | [Round 15: United States Grand Prix](../results/1978-season-report.md#round-15-united-states-grand-prix) | 1978-10-01 | global | Ensign | Q:24/R:13 | 1500 | -31 | 1469 | Derek Daly |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1472 (Peak: 1477)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1469 (Peak: 1493)

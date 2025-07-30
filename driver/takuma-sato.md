@@ -5,6 +5,18 @@
 **Seasons**: [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md)
 **Total Race Events**: 91 (273 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1516
+**Peak Qualifying ELO**: 1661 (2007 Round 2 - Malaysian Grand Prix)
+**Lowest Qualifying ELO**: 1409 (2005 Round 19 - Chinese Grand Prix)
+**Race ELO**: 1500 → 1467
+**Peak Race ELO**: 1584 (2007 Round 6 - Canadian Grand Prix)
+**Lowest Race ELO**: 1285 (2005 Round 17 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1481
+**Peak Global ELO**: 1594 (2007 Round 6 - Canadian Grand Prix)
+**Lowest Global ELO**: 1321 (2005 Round 19 - Chinese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -282,9 +294,3 @@
 | 2008 | [Round 4: Spanish Grand Prix](../results/2008-season-report.md#round-4-spanish-grand-prix) | 2008-04-27 | qualifying | Super Aguri | 22 | 1545 | -29 | 1516 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson |
 | 2008 | [Round 4: Spanish Grand Prix](../results/2008-season-report.md#round-4-spanish-grand-prix) | 2008-04-27 | race | Super Aguri | 13 | 1467 | N/A | 1467 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson |
 | 2008 | [Round 4: Spanish Grand Prix](../results/2008-season-report.md#round-4-spanish-grand-prix) | 2008-04-27 | global | Super Aguri | Q:22/R:13 | 1489 | -9 | 1481 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1516 (Peak: 1661)
-**Race ELO**: 1500 → 1467 (Peak: 1584)
-**Global ELO**: 1500 → 1481 (Peak: 1594)

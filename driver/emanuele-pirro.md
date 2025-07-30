@@ -5,6 +5,18 @@
 **Seasons**: [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md)
 **Total Race Events**: 36 (108 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1509
+**Peak Qualifying ELO**: 1610 (1991 Round 5 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1425 (1989 Round 13 - Portuguese Grand Prix)
+**Race ELO**: 1500 → 1494
+**Peak Race ELO**: 1500 (1991 Round 8 - British Grand Prix)
+**Lowest Race ELO**: 1430 (1989 Round 16 - Australian Grand Prix)
+**Global ELO**: 1500 → 1499
+**Peak Global ELO**: 1529 (1991 Round 10 - Hungarian Grand Prix)
+**Lowest Global ELO**: 1431 (1990 Round 3 - San Marino Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -117,9 +129,3 @@
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | qualifying | Dallara | 13 | 1552 | -43 | 1509 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | race | Dallara | 7 | 1461 | +33 | 1494 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | global | Dallara | Q:13/R:7 | 1489 | +10 | 1499 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1509 (Peak: 1610)
-**Race ELO**: 1500 → 1494 (Peak: 1500)
-**Global ELO**: 1500 → 1499 (Peak: 1529)

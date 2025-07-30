@@ -5,6 +5,15 @@
 **Seasons**: [1962](../results/1962-season-report.md) • [1963](../results/1963-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1431
+**Peak Qualifying ELO**: 1503 (1963 Round 1 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1415 (1963 Round 4 - French Grand Prix)
+**Global ELO**: 1500 → 1479
+**Peak Global ELO**: 1501 (1963 Round 1 - Monaco Grand Prix)
+**Lowest Global ELO**: 1474 (1963 Round 4 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,8 +39,3 @@
 | 1963 | [Round 6: German Grand Prix](../results/1963-season-report.md#round-6-german-grand-prix) | 1963-08-04 | qualifying | Scirocco | 22 | 1459 | -27 | 1431 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ian Burgess |
 | 1963 | [Round 6: German Grand Prix](../results/1963-season-report.md#round-6-german-grand-prix) | 1963-08-04 | race | Scirocco | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ian Burgess |
 | 1963 | [Round 6: German Grand Prix](../results/1963-season-report.md#round-6-german-grand-prix) | 1963-08-04 | global | Scirocco | Q:22/R:DNF | 1487 | -8 | 1479 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ian Burgess |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1431 (Peak: 1503)
-**Global ELO**: 1500 → 1479 (Peak: 1501)

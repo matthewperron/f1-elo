@@ -5,6 +5,15 @@
 **Seasons**: [1992](../results/1992-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1463
+**Peak Qualifying ELO**: 1532 (1992 Round 9 - British Grand Prix)
+**Lowest Qualifying ELO**: 1463 (1992 Round 13 - Italian Grand Prix)
+**Global ELO**: 1500 → 1489
+**Peak Global ELO**: 1510 (1992 Round 9 - British Grand Prix)
+**Lowest Global ELO**: 1489 (1992 Round 13 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,8 +30,3 @@
 | 1992 | [Round 13: Italian Grand Prix](../results/1992-season-report.md#round-13-italian-grand-prix) | 1992-09-13 | qualifying | Brabham | 25 | 1482 | -19 | 1463 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gabriele Tarquini |
 | 1992 | [Round 13: Italian Grand Prix](../results/1992-season-report.md#round-13-italian-grand-prix) | 1992-09-13 | race | Brabham | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gabriele Tarquini |
 | 1992 | [Round 13: Italian Grand Prix](../results/1992-season-report.md#round-13-italian-grand-prix) | 1992-09-13 | global | Brabham | Q:25/R:DNF | 1494 | -6 | 1489 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gabriele Tarquini |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1463 (Peak: 1532)
-**Global ELO**: 1500 → 1489 (Peak: 1510)

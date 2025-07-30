@@ -5,6 +5,18 @@
 **Seasons**: [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 167 (501 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1639
+**Peak Qualifying ELO**: 1669 (2021 Round 21 - Saudi Arabian Grand Prix)
+**Lowest Qualifying ELO**: 1391 (2023 Round 2 - Saudi Arabian Grand Prix)
+**Race ELO**: 1500 → 1567
+**Peak Race ELO**: 1689 (2021 Round 21 - Saudi Arabian Grand Prix)
+**Lowest Race ELO**: 1336 (2024 Round 6 - Miami Grand Prix)
+**Global ELO**: 1500 → 1588
+**Peak Global ELO**: 1682 (2021 Round 21 - Saudi Arabian Grand Prix)
+**Lowest Global ELO**: 1361 (2024 Round 7 - Emilia Romagna Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -510,9 +522,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Alpine F1 Team | 13 | 1624 | +15 | 1639 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Alpine F1 Team | 10 | 1546 | +21 | 1567 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Alpine F1 Team | Q:13/R:10 | 1569 | +19 | 1588 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1639 (Peak: 1669)
-**Race ELO**: 1500 → 1567 (Peak: 1689)
-**Global ELO**: 1500 → 1588 (Peak: 1682)

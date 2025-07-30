@@ -5,6 +5,18 @@
 **Seasons**: [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md)
 **Total Race Events**: 36 (108 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1480
+**Peak Qualifying ELO**: 1568 (2008 Round 9 - British Grand Prix)
+**Lowest Qualifying ELO**: 1450 (2009 Round 7 - Turkish Grand Prix)
+**Race ELO**: 1500 → 1406
+**Peak Race ELO**: 1504 (2008 Round 11 - Hungarian Grand Prix)
+**Lowest Race ELO**: 1339 (2009 Round 12 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1427
+**Peak Global ELO**: 1517 (2008 Round 9 - British Grand Prix)
+**Lowest Global ELO**: 1385 (2009 Round 12 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -117,9 +129,3 @@
 | 2009 | [Round 17: Abu Dhabi Grand Prix](../results/2009-season-report.md#round-17-abu-dhabi-grand-prix) | 2009-11-01 | qualifying | Williams | 13 | 1494 | -13 | 1480 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg |
 | 2009 | [Round 17: Abu Dhabi Grand Prix](../results/2009-season-report.md#round-17-abu-dhabi-grand-prix) | 2009-11-01 | race | Williams | 13 | 1424 | -18 | 1406 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg |
 | 2009 | [Round 17: Abu Dhabi Grand Prix](../results/2009-season-report.md#round-17-abu-dhabi-grand-prix) | 2009-11-01 | global | Williams | Q:13/R:13 | 1444 | -16 | 1427 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1480 (Peak: 1568)
-**Race ELO**: 1500 → 1406 (Peak: 1504)
-**Global ELO**: 1500 → 1427 (Peak: 1517)

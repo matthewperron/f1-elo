@@ -5,6 +5,18 @@
 **Seasons**: [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2010](../results/2010-season-report.md)
 **Total Race Events**: 51 (153 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1541
+**Peak Qualifying ELO**: 1584 (2004 Round 8 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1409 (2005 Round 1 - Australian Grand Prix)
+**Race ELO**: 1500 → 1470
+**Peak Race ELO**: 1481 (2004 Round 3 - Bahrain Grand Prix)
+**Lowest Race ELO**: 1284 (2005 Round 14 - Turkish Grand Prix)
+**Global ELO**: 1500 → 1491
+**Peak Global ELO**: 1523 (2010 Round 18 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1349 (2005 Round 11 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -162,9 +174,3 @@
 | 2010 | [Round 19: Abu Dhabi Grand Prix](../results/2010-season-report.md#round-19-abu-dhabi-grand-prix) | 2010-11-14 | qualifying | HRT | 24 | 1578 | -37 | 1541 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna |
 | 2010 | [Round 19: Abu Dhabi Grand Prix](../results/2010-season-report.md#round-19-abu-dhabi-grand-prix) | 2010-11-14 | race | HRT | 20 | 1500 | -30 | 1470 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna |
 | 2010 | [Round 19: Abu Dhabi Grand Prix](../results/2010-season-report.md#round-19-abu-dhabi-grand-prix) | 2010-11-14 | global | HRT | Q:24/R:20 | 1523 | -32 | 1491 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1541 (Peak: 1584)
-**Race ELO**: 1500 → 1470 (Peak: 1481)
-**Global ELO**: 1500 → 1491 (Peak: 1523)

@@ -5,6 +5,18 @@
 **Seasons**: [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md)
 **Total Race Events**: 58 (174 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1397
+**Peak Qualifying ELO**: 1498 (2013 Round 7 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1345 (2014 Round 16 - Russian Grand Prix)
+**Race ELO**: 1500 → 1487
+**Peak Race ELO**: 1585 (2012 Round 5 - Spanish Grand Prix)
+**Lowest Race ELO**: 1397 (2014 Round 13 - Italian Grand Prix)
+**Global ELO**: 1500 → 1460
+**Peak Global ELO**: 1547 (2012 Round 5 - Spanish Grand Prix)
+**Lowest Global ELO**: 1397 (2014 Round 10 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -183,9 +195,3 @@
 | 2014 | [Round 19: Abu Dhabi Grand Prix](../results/2014-season-report.md#round-19-abu-dhabi-grand-prix) | 2014-11-23 | qualifying | Toro Rosso | 10 | 1429 | -32 | 1397 | Daniil Kvyat |
 | 2014 | [Round 19: Abu Dhabi Grand Prix](../results/2014-season-report.md#round-19-abu-dhabi-grand-prix) | 2014-11-23 | race | Toro Rosso | 12 | 1487 | N/A | 1487 | Daniil Kvyat |
 | 2014 | [Round 19: Abu Dhabi Grand Prix](../results/2014-season-report.md#round-19-abu-dhabi-grand-prix) | 2014-11-23 | global | Toro Rosso | Q:10/R:12 | 1470 | -10 | 1460 | Daniil Kvyat |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1397 (Peak: 1498)
-**Race ELO**: 1500 → 1487 (Peak: 1585)
-**Global ELO**: 1500 → 1460 (Peak: 1547)

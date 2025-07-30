@@ -5,6 +5,15 @@
 **Seasons**: [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1396
+**Peak Qualifying ELO**: 1468 (1973 Round 10 - Dutch Grand Prix)
+**Lowest Qualifying ELO**: 1396 (1974 Round 5 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1469
+**Peak Global ELO**: 1490 (1973 Round 10 - Dutch Grand Prix)
+**Lowest Global ELO**: 1469 (1974 Round 5 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,8 +30,3 @@
 | 1974 | [Round 5: Belgian Grand Prix](../results/1974-season-report.md#round-5-belgian-grand-prix) | 1974-05-12 | qualifying | Iso Marlboro | 30 | 1420 | -24 | 1396 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario |
 | 1974 | [Round 5: Belgian Grand Prix](../results/1974-season-report.md#round-5-belgian-grand-prix) | 1974-05-12 | race | Iso Marlboro | 14 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario |
 | 1974 | [Round 5: Belgian Grand Prix](../results/1974-season-report.md#round-5-belgian-grand-prix) | 1974-05-12 | global | Iso Marlboro | Q:30/R:14 | 1476 | -7 | 1469 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1396 (Peak: 1468)
-**Global ELO**: 1500 → 1469 (Peak: 1490)

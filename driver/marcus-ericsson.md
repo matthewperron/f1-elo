@@ -5,6 +5,18 @@
 **Seasons**: [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md)
 **Total Race Events**: 97 (291 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1411
+**Peak Qualifying ELO**: 1653 (2017 Round 18 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1368 (2018 Round 19 - Mexican Grand Prix)
+**Race ELO**: 1500 → 1389
+**Peak Race ELO**: 1593 (2016 Round 7 - Canadian Grand Prix)
+**Lowest Race ELO**: 1356 (2015 Round 6 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1398
+**Peak Global ELO**: 1575 (2017 Round 7 - Canadian Grand Prix)
+**Lowest Global ELO**: 1364 (2015 Round 6 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -300,9 +312,3 @@
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | qualifying | Sauber | 12 | 1424 | -13 | 1411 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc |
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | race | Sauber | DNF | 1389 | N/A | 1389 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc |
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | global | Sauber | Q:12/R:DNF | 1402 | -4 | 1398 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1411 (Peak: 1653)
-**Race ELO**: 1500 → 1389 (Peak: 1593)
-**Global ELO**: 1500 → 1398 (Peak: 1575)

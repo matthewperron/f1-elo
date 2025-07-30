@@ -5,6 +5,18 @@
 **Seasons**: [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md)
 **Total Race Events**: 160 (480 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1562
+**Peak Qualifying ELO**: 1837 (1998 Round 6 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1436 (1991 Round 6 - Mexican Grand Prix)
+**Race ELO**: 1500 → 1638
+**Peak Race ELO**: 1647 (1998 Round 5 - Spanish Grand Prix)
+**Lowest Race ELO**: 1423 (1996 Round 16 - Japanese Grand Prix)
+**Global ELO**: 1500 → 1617
+**Peak Global ELO**: 1704 (1998 Round 6 - Monaco Grand Prix)
+**Lowest Global ELO**: 1439 (1991 Round 6 - Mexican Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -489,9 +501,3 @@
 | 2000 | [Round 17: Malaysian Grand Prix](../results/2000-season-report.md#round-17-malaysian-grand-prix) | 2000-10-22 | qualifying | Jaguar | 12 | 1579 | -17 | 1562 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine |
 | 2000 | [Round 17: Malaysian Grand Prix](../results/2000-season-report.md#round-17-malaysian-grand-prix) | 2000-10-22 | race | Jaguar | DNF | 1638 | N/A | 1638 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine |
 | 2000 | [Round 17: Malaysian Grand Prix](../results/2000-season-report.md#round-17-malaysian-grand-prix) | 2000-10-22 | global | Jaguar | Q:12/R:DNF | 1622 | -5 | 1617 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1562 (Peak: 1837)
-**Race ELO**: 1500 → 1638 (Peak: 1647)
-**Global ELO**: 1500 → 1617 (Peak: 1704)

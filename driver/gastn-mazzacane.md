@@ -5,6 +5,18 @@
 **Seasons**: [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md)
 **Total Race Events**: 21 (63 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1329
+**Peak Qualifying ELO**: 1478 (2000 Round 3 - San Marino Grand Prix)
+**Lowest Qualifying ELO**: 1329 (2001 Round 4 - San Marino Grand Prix)
+**Race ELO**: 1500 → 1379
+**Peak Race ELO**: 1470 (2000 Round 4 - British Grand Prix)
+**Lowest Race ELO**: 1379 (2001 Round 2 - Malaysian Grand Prix)
+**Global ELO**: 1500 → 1364
+**Peak Global ELO**: 1494 (2000 Round 3 - San Marino Grand Prix)
+**Lowest Global ELO**: 1364 (2001 Round 4 - San Marino Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -72,9 +84,3 @@
 | 2001 | [Round 4: San Marino Grand Prix](../results/2001-season-report.md#round-4-san-marino-grand-prix) | 2001-04-15 | qualifying | Prost | 20 | 1338 | -9 | 1329 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi |
 | 2001 | [Round 4: San Marino Grand Prix](../results/2001-season-report.md#round-4-san-marino-grand-prix) | 2001-04-15 | race | Prost | DNF | 1379 | N/A | 1379 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi |
 | 2001 | [Round 4: San Marino Grand Prix](../results/2001-season-report.md#round-4-san-marino-grand-prix) | 2001-04-15 | global | Prost | Q:20/R:DNF | 1367 | -3 | 1364 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1329 (Peak: 1478)
-**Race ELO**: 1500 → 1379 (Peak: 1470)
-**Global ELO**: 1500 → 1364 (Peak: 1494)

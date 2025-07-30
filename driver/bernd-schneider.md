@@ -5,6 +5,18 @@
 **Seasons**: [1988](../results/1988-season-report.md) • [1990](../results/1990-season-report.md)
 **Total Race Events**: 6 (18 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1526
+**Peak Qualifying ELO**: 1530 (1988 Round 4 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1483 (1988 Round 11 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1462
+**Peak Race ELO**: 1535 (1988 Round 9 - German Grand Prix)
+**Lowest Race ELO**: 1462 (1990 Round 1 - United States Grand Prix)
+**Global ELO**: 1500 → 1481
+**Peak Global ELO**: 1531 (1988 Round 9 - German Grand Prix)
+**Lowest Global ELO**: 1481 (1990 Round 1 - United States Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -27,9 +39,3 @@
 | 1990 | [Round 1: United States Grand Prix](../results/1990-season-report.md#round-1-united-states-grand-prix) | 1990-03-11 | qualifying | Arrows | 20 | 1500 | +26 | 1526 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
 | 1990 | [Round 1: United States Grand Prix](../results/1990-season-report.md#round-1-united-states-grand-prix) | 1990-03-11 | race | Arrows | 12 | 1500 | -38 | 1462 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
 | 1990 | [Round 1: United States Grand Prix](../results/1990-season-report.md#round-1-united-states-grand-prix) | 1990-03-11 | global | Arrows | Q:20/R:12 | 1500 | -19 | 1481 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1526 (Peak: 1530)
-**Race ELO**: 1500 → 1462 (Peak: 1535)
-**Global ELO**: 1500 → 1481 (Peak: 1531)

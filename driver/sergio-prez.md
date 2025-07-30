@@ -5,6 +5,18 @@
 **Seasons**: [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md)
 **Total Race Events**: 283 (849 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1535
+**Peak Qualifying ELO**: 1772 (2016 Round 5 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1389 (2018 Round 10 - British Grand Prix)
+**Race ELO**: 1500 → 1455
+**Peak Race ELO**: 1722 (2017 Round 5 - Spanish Grand Prix)
+**Lowest Race ELO**: 1455 (2024 Round 22 - Las Vegas Grand Prix)
+**Global ELO**: 1500 → 1480
+**Peak Global ELO**: 1696 (2017 Round 9 - Austrian Grand Prix)
+**Lowest Global ELO**: 1455 (2018 Round 10 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -858,9 +870,3 @@
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | qualifying | Red Bull | 10 | 1546 | -10 | 1535 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen |
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | race | Red Bull | DNF | 1455 | N/A | 1455 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen |
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | global | Red Bull | Q:10/R:DNF | 1483 | -3 | 1480 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1535 (Peak: 1772)
-**Race ELO**: 1500 → 1455 (Peak: 1722)
-**Global ELO**: 1500 → 1480 (Peak: 1696)

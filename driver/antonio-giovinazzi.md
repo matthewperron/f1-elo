@@ -5,6 +5,18 @@
 **Seasons**: [2017](../results/2017-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md)
 **Total Race Events**: 62 (186 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1579
+**Peak Qualifying ELO**: 1631 (2021 Round 9 - Austrian Grand Prix)
+**Lowest Qualifying ELO**: 1388 (2019 Round 6 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1571
+**Peak Race ELO**: 1636 (2021 Round 17 - United States Grand Prix)
+**Lowest Race ELO**: 1381 (2020 Round 3 - Hungarian Grand Prix)
+**Global ELO**: 1500 → 1573
+**Peak Global ELO**: 1629 (2021 Round 17 - United States Grand Prix)
+**Lowest Global ELO**: 1401 (2019 Round 6 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -195,9 +207,3 @@
 | 2021 | [Round 22: Abu Dhabi Grand Prix](../results/2021-season-report.md#round-22-abu-dhabi-grand-prix) | 2021-12-12 | qualifying | Alfa Romeo | 14 | 1547 | +32 | 1579 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen |
 | 2021 | [Round 22: Abu Dhabi Grand Prix](../results/2021-season-report.md#round-22-abu-dhabi-grand-prix) | 2021-12-12 | race | Alfa Romeo | DNF | 1571 | N/A | 1571 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen |
 | 2021 | [Round 22: Abu Dhabi Grand Prix](../results/2021-season-report.md#round-22-abu-dhabi-grand-prix) | 2021-12-12 | global | Alfa Romeo | Q:14/R:DNF | 1563 | +10 | 1573 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1579 (Peak: 1631)
-**Race ELO**: 1500 → 1571 (Peak: 1636)
-**Global ELO**: 1500 → 1573 (Peak: 1629)

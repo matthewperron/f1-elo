@@ -5,6 +5,18 @@
 **Seasons**: [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1982](../results/1982-season-report.md)
 **Total Race Events**: 14 (42 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1504
+**Peak Qualifying ELO**: 1551 (1977 Round 15 - United States Grand Prix)
+**Lowest Qualifying ELO**: 1474 (1977 Round 5 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1479
+**Peak Race ELO**: 1479 (1978 Round 7 - Spanish Grand Prix)
+**Lowest Race ELO**: 1479 (1978 Round 7 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1502
+**Peak Global ELO**: 1515 (1977 Round 15 - United States Grand Prix)
+**Lowest Global ELO**: 1486 (1978 Round 9 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -51,9 +63,3 @@
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | qualifying | March | 25 | 1538 | -33 | 1504 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel |
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | race | March | 12 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel |
 | 1982 | [Round 16: Caesars Palace Grand Prix](../results/1982-season-report.md#round-16-caesars-palace-grand-prix) | 1982-09-25 | global | March | Q:25/R:12 | 1511 | -10 | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1504 (Peak: 1551)
-**Race ELO**: 1500 → 1479 (Peak: 1479)
-**Global ELO**: 1500 → 1502 (Peak: 1515)

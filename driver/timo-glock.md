@@ -5,6 +5,18 @@
 **Seasons**: [2004](../results/2004-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md)
 **Total Race Events**: 95 (285 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1672
+**Peak Qualifying ELO**: 1747 (2011 Round 14 - Singapore Grand Prix)
+**Lowest Qualifying ELO**: 1427 (2008 Round 6 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1564
+**Peak Race ELO**: 1668 (2012 Round 9 - British Grand Prix)
+**Lowest Race ELO**: 1442 (2008 Round 5 - Turkish Grand Prix)
+**Global ELO**: 1500 → 1595
+**Peak Global ELO**: 1667 (2012 Round 9 - British Grand Prix)
+**Lowest Global ELO**: 1440 (2008 Round 5 - Turkish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -294,9 +306,3 @@
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | qualifying | Marussia | 21 | 1656 | +16 | 1672 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | race | Marussia | 16 | 1604 | -41 | 1564 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | global | Marussia | Q:21/R:16 | 1619 | -24 | 1595 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1672 (Peak: 1747)
-**Race ELO**: 1500 → 1564 (Peak: 1668)
-**Global ELO**: 1500 → 1595 (Peak: 1667)

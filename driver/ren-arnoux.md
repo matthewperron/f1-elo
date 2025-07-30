@@ -5,6 +5,18 @@
 **Seasons**: [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md)
 **Total Race Events**: 138 (414 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1545
+**Peak Qualifying ELO**: 1848 (1988 Round 5 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1328 (1984 Round 3 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1431
+**Peak Race ELO**: 1527 (1987 Round 3 - Belgian Grand Prix)
+**Lowest Race ELO**: 1349 (1983 Round 4 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1462
+**Peak Global ELO**: 1592 (1987 Round 9 - Hungarian Grand Prix)
+**Lowest Global ELO**: 1366 (1983 Round 6 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -423,9 +435,3 @@
 | 1989 | [Round 16: Australian Grand Prix](../results/1989-season-report.md#round-16-australian-grand-prix) | 1989-11-05 | qualifying | Ligier | 26 | 1570 | -25 | 1545 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Grouillard |
 | 1989 | [Round 16: Australian Grand Prix](../results/1989-season-report.md#round-16-australian-grand-prix) | 1989-11-05 | race | Ligier | DNF | 1431 | N/A | 1431 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Grouillard |
 | 1989 | [Round 16: Australian Grand Prix](../results/1989-season-report.md#round-16-australian-grand-prix) | 1989-11-05 | global | Ligier | Q:26/R:DNF | 1470 | -7 | 1462 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Grouillard |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1545 (Peak: 1848)
-**Race ELO**: 1500 → 1431 (Peak: 1527)
-**Global ELO**: 1500 → 1462 (Peak: 1592)

@@ -5,6 +5,15 @@
 **Seasons**: [1951](../results/1951-season-report.md) • [1957](../results/1957-season-report.md) • [1958](../results/1958-season-report.md)
 **Total Race Events**: 3 (9 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1500
+**Peak Qualifying ELO**: 1535 (1957 Round 2 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1500 (1958 Round 8 - German Grand Prix)
+**Global ELO**: 1500 → 1501
+**Peak Global ELO**: 1511 (1957 Round 2 - Monaco Grand Prix)
+**Lowest Global ELO**: 1501 (1958 Round 8 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -18,8 +27,3 @@
 | 1958 | [Round 8: German Grand Prix](../results/1958-season-report.md#round-8-german-grand-prix) | 1958-08-03 | qualifying | Vanwall | 3 | 1535 | -35 | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Tony Brooks |
 | 1958 | [Round 8: German Grand Prix](../results/1958-season-report.md#round-8-german-grand-prix) | 1958-08-03 | race | Vanwall | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Tony Brooks |
 | 1958 | [Round 8: German Grand Prix](../results/1958-season-report.md#round-8-german-grand-prix) | 1958-08-03 | global | Vanwall | Q:3/R:DNF | 1511 | -10 | 1501 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Tony Brooks |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1500 (Peak: 1535)
-**Global ELO**: 1500 → 1501 (Peak: 1511)

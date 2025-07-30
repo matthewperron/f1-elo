@@ -5,6 +5,18 @@
 **Seasons**: [1957](../results/1957-season-report.md) • [1958](../results/1958-season-report.md) • [1963](../results/1963-season-report.md) • [1966](../results/1966-season-report.md) • [1967](../results/1967-season-report.md) • [1968](../results/1968-season-report.md) • [1969](../results/1969-season-report.md) • [1970](../results/1970-season-report.md)
 **Total Race Events**: 40 (120 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1600
+**Peak Qualifying ELO**: 1697 (1967 Round 5 - French Grand Prix)
+**Lowest Qualifying ELO**: 1468 (1963 Round 5 - British Grand Prix)
+**Race ELO**: 1500 → 1648
+**Peak Race ELO**: 1648 (1970 Round 6 - French Grand Prix)
+**Lowest Race ELO**: 1532 (1966 Round 3 - French Grand Prix)
+**Global ELO**: 1500 → 1633
+**Peak Global ELO**: 1640 (1970 Round 6 - French Grand Prix)
+**Lowest Global ELO**: 1491 (1957 Round 7 - Pescara Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -129,9 +141,3 @@
 | 1970 | [Round 13: Mexican Grand Prix](../results/1970-season-report.md#round-13-mexican-grand-prix) | 1970-10-25 | qualifying | Brabham | 4 | 1575 | +25 | 1600 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
 | 1970 | [Round 13: Mexican Grand Prix](../results/1970-season-report.md#round-13-mexican-grand-prix) | 1970-10-25 | race | Brabham | DNF | 1648 | N/A | 1648 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
 | 1970 | [Round 13: Mexican Grand Prix](../results/1970-season-report.md#round-13-mexican-grand-prix) | 1970-10-25 | global | Brabham | Q:4/R:DNF | 1626 | +8 | 1633 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1600 (Peak: 1697)
-**Race ELO**: 1500 → 1648 (Peak: 1648)
-**Global ELO**: 1500 → 1633 (Peak: 1640)

@@ -5,6 +5,18 @@
 **Seasons**: [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 189 (567 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1492
+**Peak Qualifying ELO**: 1828 (1985 Round 5 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1342 (1981 Round 11 - Austrian Grand Prix)
+**Race ELO**: 1500 → 1583
+**Peak Race ELO**: 1628 (1992 Round 7 - Canadian Grand Prix)
+**Lowest Race ELO**: 1450 (1981 Round 11 - Austrian Grand Prix)
+**Global ELO**: 1500 → 1556
+**Peak Global ELO**: 1653 (1992 Round 9 - British Grand Prix)
+**Lowest Global ELO**: 1418 (1981 Round 11 - Austrian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -576,9 +588,3 @@
 | 1994 | [Round 14: European Grand Prix](../results/1994-season-report.md#round-14-european-grand-prix) | 1994-10-16 | qualifying | Jordan | 18 | 1510 | -18 | 1492 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
 | 1994 | [Round 14: European Grand Prix](../results/1994-season-report.md#round-14-european-grand-prix) | 1994-10-16 | race | Jordan | DNF | 1583 | N/A | 1583 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
 | 1994 | [Round 14: European Grand Prix](../results/1994-season-report.md#round-14-european-grand-prix) | 1994-10-16 | global | Jordan | Q:18/R:DNF | 1561 | -5 | 1556 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1492 (Peak: 1828)
-**Race ELO**: 1500 → 1583 (Peak: 1628)
-**Global ELO**: 1500 → 1556 (Peak: 1653)

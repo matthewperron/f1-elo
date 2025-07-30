@@ -5,6 +5,18 @@
 **Seasons**: [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md) • [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1978](../results/1978-season-report.md)
 **Total Race Events**: 32 (96 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1344
+**Peak Qualifying ELO**: 1610 (1971 Round 8 - Austrian Grand Prix)
+**Lowest Qualifying ELO**: 1344 (1978 Round 11 - German Grand Prix)
+**Race ELO**: 1500 → 1409
+**Peak Race ELO**: 1535 (1974 Round 14 - Canadian Grand Prix)
+**Lowest Race ELO**: 1409 (1978 Round 9 - French Grand Prix)
+**Global ELO**: 1500 → 1389
+**Peak Global ELO**: 1547 (1974 Round 15 - United States Grand Prix)
+**Lowest Global ELO**: 1389 (1978 Round 11 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -105,9 +117,3 @@
 | 1978 | [Round 11: German Grand Prix](../results/1978-season-report.md#round-11-german-grand-prix) | 1978-07-30 | qualifying | Arrows | 23 | 1355 | -11 | 1344 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese |
 | 1978 | [Round 11: German Grand Prix](../results/1978-season-report.md#round-11-german-grand-prix) | 1978-07-30 | race | Arrows | DNF | 1409 | N/A | 1409 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese |
 | 1978 | [Round 11: German Grand Prix](../results/1978-season-report.md#round-11-german-grand-prix) | 1978-07-30 | global | Arrows | Q:23/R:DNF | 1392 | -3 | 1389 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1344 (Peak: 1610)
-**Race ELO**: 1500 → 1409 (Peak: 1535)
-**Global ELO**: 1500 → 1389 (Peak: 1547)

@@ -5,6 +5,18 @@
 **Seasons**: [1968](../results/1968-season-report.md) • [1969](../results/1969-season-report.md) • [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md) • [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md)
 **Total Race Events**: 34 (102 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1626
+**Peak Qualifying ELO**: 1626 (1974 Round 14 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1385 (1971 Round 11 - United States Grand Prix)
+**Race ELO**: 1500 → 1524
+**Peak Race ELO**: 1524 (1973 Round 12 - Austrian Grand Prix)
+**Lowest Race ELO**: 1398 (1969 Round 8 - Italian Grand Prix)
+**Global ELO**: 1500 → 1555
+**Peak Global ELO**: 1555 (1974 Round 14 - Canadian Grand Prix)
+**Lowest Global ELO**: 1408 (1969 Round 8 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -111,9 +123,3 @@
 | 1974 | [Round 14: Canadian Grand Prix](../results/1974-season-report.md#round-14-canadian-grand-prix) | 1974-09-22 | qualifying | BRM | 17 | 1603 | +23 | 1626 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon |
 | 1974 | [Round 14: Canadian Grand Prix](../results/1974-season-report.md#round-14-canadian-grand-prix) | 1974-09-22 | race | BRM | DNF | 1524 | N/A | 1524 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon |
 | 1974 | [Round 14: Canadian Grand Prix](../results/1974-season-report.md#round-14-canadian-grand-prix) | 1974-09-22 | global | BRM | Q:17/R:DNF | 1548 | +7 | 1555 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1626 (Peak: 1626)
-**Race ELO**: 1500 → 1524 (Peak: 1524)
-**Global ELO**: 1500 → 1555 (Peak: 1555)

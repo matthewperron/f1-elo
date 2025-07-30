@@ -5,6 +5,18 @@
 **Seasons**: [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md)
 **Total Race Events**: 38 (114 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1559
+**Peak Qualifying ELO**: 1740 (1978 Round 3 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1382 (1974 Round 12 - Austrian Grand Prix)
+**Race ELO**: 1500 → 1646
+**Peak Race ELO**: 1646 (1978 Round 7 - Spanish Grand Prix)
+**Lowest Race ELO**: 1442 (1974 Round 11 - German Grand Prix)
+**Global ELO**: 1500 → 1621
+**Peak Global ELO**: 1670 (1978 Round 9 - French Grand Prix)
+**Lowest Global ELO**: 1424 (1974 Round 12 - Austrian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -123,9 +135,3 @@
 | 1980 | [Round 12: Italian Grand Prix](../results/1980-season-report.md#round-12-italian-grand-prix) | 1980-09-14 | qualifying | Alfa Romeo | 19 | 1589 | -30 | 1559 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Bruno Giacomelli |
 | 1980 | [Round 12: Italian Grand Prix](../results/1980-season-report.md#round-12-italian-grand-prix) | 1980-09-14 | race | Alfa Romeo | DNF | 1646 | N/A | 1646 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Bruno Giacomelli |
 | 1980 | [Round 12: Italian Grand Prix](../results/1980-season-report.md#round-12-italian-grand-prix) | 1980-09-14 | global | Alfa Romeo | Q:19/R:DNF | 1630 | -9 | 1621 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Bruno Giacomelli |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1559 (Peak: 1740)
-**Race ELO**: 1500 → 1646 (Peak: 1646)
-**Global ELO**: 1500 → 1621 (Peak: 1670)

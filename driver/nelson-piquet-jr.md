@@ -5,6 +5,18 @@
 **Seasons**: [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md)
 **Total Race Events**: 28 (84 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1326
+**Peak Qualifying ELO**: 1473 (2008 Round 1 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1272 (2009 Round 8 - British Grand Prix)
+**Race ELO**: 1500 → 1502
+**Peak Race ELO**: 1582 (2008 Round 10 - German Grand Prix)
+**Lowest Race ELO**: 1458 (2009 Round 7 - Turkish Grand Prix)
+**Global ELO**: 1500 → 1451
+**Peak Global ELO**: 1514 (2008 Round 10 - German Grand Prix)
+**Lowest Global ELO**: 1406 (2009 Round 7 - Turkish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -93,9 +105,3 @@
 | 2009 | [Round 10: Hungarian Grand Prix](../results/2009-season-report.md#round-10-hungarian-grand-prix) | 2009-07-26 | qualifying | Renault | 14 | 1333 | -6 | 1326 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
 | 2009 | [Round 10: Hungarian Grand Prix](../results/2009-season-report.md#round-10-hungarian-grand-prix) | 2009-07-26 | race | Renault | 12 | 1502 | N/A | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
 | 2009 | [Round 10: Hungarian Grand Prix](../results/2009-season-report.md#round-10-hungarian-grand-prix) | 2009-07-26 | global | Renault | Q:14/R:12 | 1453 | -2 | 1451 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1326 (Peak: 1473)
-**Race ELO**: 1500 → 1502 (Peak: 1582)
-**Global ELO**: 1500 → 1451 (Peak: 1514)

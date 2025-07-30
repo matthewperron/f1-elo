@@ -5,6 +5,18 @@
 **Seasons**: [1993](../results/1993-season-report.md)
 **Total Race Events**: 8 (24 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1331
+**Peak Qualifying ELO**: 1463 (1993 Round 1 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1331 (1993 Round 8 - French Grand Prix)
+**Race ELO**: 1500 → 1506
+**Peak Race ELO**: 1539 (1993 Round 3 - European Grand Prix)
+**Lowest Race ELO**: 1506 (1993 Round 6 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1454
+**Peak Global ELO**: 1500 (1993 Round 3 - European Grand Prix)
+**Lowest Global ELO**: 1454 (1993 Round 8 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -33,9 +45,3 @@
 | 1993 | [Round 8: French Grand Prix](../results/1993-season-report.md#round-8-french-grand-prix) | 1993-07-04 | qualifying | Minardi | 24 | 1343 | -12 | 1331 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi |
 | 1993 | [Round 8: French Grand Prix](../results/1993-season-report.md#round-8-french-grand-prix) | 1993-07-04 | race | Minardi | DNF | 1506 | N/A | 1506 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi |
 | 1993 | [Round 8: French Grand Prix](../results/1993-season-report.md#round-8-french-grand-prix) | 1993-07-04 | global | Minardi | Q:24/R:DNF | 1458 | -4 | 1454 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1331 (Peak: 1463)
-**Race ELO**: 1500 → 1506 (Peak: 1539)
-**Global ELO**: 1500 → 1454 (Peak: 1500)

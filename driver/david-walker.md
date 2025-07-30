@@ -5,6 +5,18 @@
 **Seasons**: [1972](../results/1972-season-report.md)
 **Total Race Events**: 6 (18 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1396
+**Peak Qualifying ELO**: 1475 (1972 Round 1 - Argentine Grand Prix)
+**Lowest Qualifying ELO**: 1396 (1972 Round 9 - Austrian Grand Prix)
+**Race ELO**: 1500 → 1473
+**Peak Race ELO**: 1473 (1972 Round 3 - Spanish Grand Prix)
+**Lowest Race ELO**: 1473 (1972 Round 3 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1450
+**Peak Global ELO**: 1493 (1972 Round 1 - Argentine Grand Prix)
+**Lowest Global ELO**: 1450 (1972 Round 9 - Austrian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -27,9 +39,3 @@
 | 1972 | [Round 9: Austrian Grand Prix](../results/1972-season-report.md#round-9-austrian-grand-prix) | 1972-08-13 | qualifying | Team Lotus | 19 | 1407 | -12 | 1396 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi |
 | 1972 | [Round 9: Austrian Grand Prix](../results/1972-season-report.md#round-9-austrian-grand-prix) | 1972-08-13 | race | Team Lotus | DNF | 1473 | N/A | 1473 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi |
 | 1972 | [Round 9: Austrian Grand Prix](../results/1972-season-report.md#round-9-austrian-grand-prix) | 1972-08-13 | global | Team Lotus | Q:19/R:DNF | 1453 | -4 | 1450 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1396 (Peak: 1475)
-**Race ELO**: 1500 → 1473 (Peak: 1473)
-**Global ELO**: 1500 → 1450 (Peak: 1493)

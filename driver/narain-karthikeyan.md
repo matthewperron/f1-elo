@@ -5,6 +5,18 @@
 **Seasons**: [2005](../results/2005-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md)
 **Total Race Events**: 46 (138 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1299
+**Peak Qualifying ELO**: 1569 (2005 Round 5 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1208 (2012 Round 12 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1307
+**Peak Race ELO**: 1580 (2005 Round 4 - San Marino Grand Prix)
+**Lowest Race ELO**: 1307 (2012 Round 20 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1303
+**Peak Global ELO**: 1570 (2005 Round 4 - San Marino Grand Prix)
+**Lowest Global ELO**: 1295 (2012 Round 19 - United States Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -147,9 +159,3 @@
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | qualifying | HRT | 23 | 1245 | +54 | 1299 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | race | HRT | 18 | 1319 | -12 | 1307 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | global | HRT | Q:23/R:18 | 1295 | +8 | 1303 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1299 (Peak: 1569)
-**Race ELO**: 1500 → 1307 (Peak: 1580)
-**Global ELO**: 1500 → 1303 (Peak: 1570)

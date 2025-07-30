@@ -5,6 +5,18 @@
 **Seasons**: [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md)
 **Total Race Events**: 28 (84 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1445
+**Peak Qualifying ELO**: 1485 (2006 Round 2 - Malaysian Grand Prix)
+**Lowest Qualifying ELO**: 1311 (2007 Round 7 - United States Grand Prix)
+**Race ELO**: 1500 → 1538
+**Peak Race ELO**: 1538 (2007 Round 2 - Malaysian Grand Prix)
+**Lowest Race ELO**: 1418 (2006 Round 7 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1509
+**Peak Global ELO**: 1509 (2007 Round 10 - European Grand Prix)
+**Lowest Global ELO**: 1390 (2006 Round 8 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -93,9 +105,3 @@
 | 2007 | [Round 10: European Grand Prix](../results/2007-season-report.md#round-10-european-grand-prix) | 2007-07-22 | qualifying | Toro Rosso | 18 | 1408 | +37 | 1445 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi |
 | 2007 | [Round 10: European Grand Prix](../results/2007-season-report.md#round-10-european-grand-prix) | 2007-07-22 | race | Toro Rosso | DNF | 1538 | N/A | 1538 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi |
 | 2007 | [Round 10: European Grand Prix](../results/2007-season-report.md#round-10-european-grand-prix) | 2007-07-22 | global | Toro Rosso | Q:18/R:DNF | 1498 | +11 | 1509 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1445 (Peak: 1485)
-**Race ELO**: 1500 → 1538 (Peak: 1538)
-**Global ELO**: 1500 → 1509 (Peak: 1509)

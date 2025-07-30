@@ -5,6 +5,18 @@
 **Seasons**: [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1985](../results/1985-season-report.md)
 **Total Race Events**: 106 (318 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1495
+**Peak Qualifying ELO**: 1728 (1977 Round 11 - German Grand Prix)
+**Lowest Qualifying ELO**: 1390 (1980 Round 10 - Austrian Grand Prix)
+**Race ELO**: 1500 → 1481
+**Peak Race ELO**: 1564 (1977 Round 8 - Swedish Grand Prix)
+**Lowest Race ELO**: 1397 (1982 Round 14 - Swiss Grand Prix)
+**Global ELO**: 1500 → 1485
+**Peak Global ELO**: 1613 (1977 Round 11 - German Grand Prix)
+**Lowest Global ELO**: 1408 (1983 Round 11 - Austrian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -327,9 +339,3 @@
 | 1985 | [Round 14: European Grand Prix](../results/1985-season-report.md#round-14-european-grand-prix) | 1985-10-06 | qualifying | McLaren | 21 | 1500 | -5 | 1495 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost |
 | 1985 | [Round 14: European Grand Prix](../results/1985-season-report.md#round-14-european-grand-prix) | 1985-10-06 | race | McLaren | 7 | 1500 | -19 | 1481 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost |
 | 1985 | [Round 14: European Grand Prix](../results/1985-season-report.md#round-14-european-grand-prix) | 1985-10-06 | global | McLaren | Q:21/R:7 | 1500 | -15 | 1485 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1495 (Peak: 1728)
-**Race ELO**: 1500 → 1481 (Peak: 1564)
-**Global ELO**: 1500 → 1485 (Peak: 1613)

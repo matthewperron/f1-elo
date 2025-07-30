@@ -5,6 +5,18 @@
 **Seasons**: [2003](../results/2003-season-report.md)
 **Total Race Events**: 14 (42 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1458
+**Peak Qualifying ELO**: 1493 (2003 Round 5 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1400 (2003 Round 15 - United States Grand Prix)
+**Race ELO**: 1500 → 1530
+**Peak Race ELO**: 1530 (2003 Round 9 - European Grand Prix)
+**Lowest Race ELO**: 1482 (2003 Round 7 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1508
+**Peak Global ELO**: 1508 (2003 Round 16 - Japanese Grand Prix)
+**Lowest Global ELO**: 1472 (2003 Round 8 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -51,9 +63,3 @@
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | qualifying | Jordan | 15 | 1400 | +58 | 1458 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella |
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | race | Jordan | 14 | 1530 | N/A | 1530 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella |
 | 2003 | [Round 16: Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix) | 2003-10-12 | global | Jordan | Q:15/R:14 | 1491 | +17 | 1508 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1458 (Peak: 1493)
-**Race ELO**: 1500 → 1530 (Peak: 1530)
-**Global ELO**: 1500 → 1508 (Peak: 1508)

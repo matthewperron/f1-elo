@@ -5,6 +5,18 @@
 **Seasons**: [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md)
 **Total Race Events**: 27 (81 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1325
+**Peak Qualifying ELO**: 1534 (2008 Round 7 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1291 (2009 Round 7 - Turkish Grand Prix)
+**Race ELO**: 1500 → 1322
+**Peak Race ELO**: 1466 (2008 Round 7 - Canadian Grand Prix)
+**Lowest Race ELO**: 1290 (2009 Round 3 - Chinese Grand Prix)
+**Global ELO**: 1500 → 1323
+**Peak Global ELO**: 1503 (2008 Round 4 - Spanish Grand Prix)
+**Lowest Global ELO**: 1310 (2009 Round 3 - Chinese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -90,9 +102,3 @@
 | 2009 | [Round 9: German Grand Prix](../results/2009-season-report.md#round-9-german-grand-prix) | 2009-07-12 | qualifying | Toro Rosso | 19 | 1343 | -18 | 1325 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi |
 | 2009 | [Round 9: German Grand Prix](../results/2009-season-report.md#round-9-german-grand-prix) | 2009-07-12 | race | Toro Rosso | DNF | 1322 | N/A | 1322 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi |
 | 2009 | [Round 9: German Grand Prix](../results/2009-season-report.md#round-9-german-grand-prix) | 2009-07-12 | global | Toro Rosso | Q:19/R:DNF | 1329 | -5 | 1323 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1325 (Peak: 1534)
-**Race ELO**: 1500 → 1322 (Peak: 1466)
-**Global ELO**: 1500 → 1323 (Peak: 1503)

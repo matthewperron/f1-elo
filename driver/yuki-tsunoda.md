@@ -5,6 +5,18 @@
 **Seasons**: [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 103 (309 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1552
+**Peak Qualifying ELO**: 1709 (2025 Round 1 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1312 (2021 Round 21 - Saudi Arabian Grand Prix)
+**Race ELO**: 1500 → 1553
+**Peak Race ELO**: 1621 (2023 Round 12 - Belgian Grand Prix)
+**Lowest Race ELO**: 1350 (2021 Round 21 - Saudi Arabian Grand Prix)
+**Global ELO**: 1500 → 1553
+**Peak Global ELO**: 1618 (2025 Round 1 - Australian Grand Prix)
+**Lowest Global ELO**: 1339 (2021 Round 21 - Saudi Arabian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -318,9 +330,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | RB F1 Team | 7 | 1558 | -6 | 1552 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | RB F1 Team | 13 | 1557 | -4 | 1553 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | RB F1 Team | Q:7/R:13 | 1557 | -5 | 1553 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1552 (Peak: 1709)
-**Race ELO**: 1500 → 1553 (Peak: 1621)
-**Global ELO**: 1500 → 1553 (Peak: 1618)

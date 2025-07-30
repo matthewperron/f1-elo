@@ -5,6 +5,18 @@
 **Seasons**: [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md)
 **Total Race Events**: 46 (138 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1511
+**Peak Qualifying ELO**: 1640 (2010 Round 14 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1456 (2012 Round 19 - United States Grand Prix)
+**Race ELO**: 1500 → 1416
+**Peak Race ELO**: 1556 (2010 Round 19 - Abu Dhabi Grand Prix)
+**Lowest Race ELO**: 1391 (2011 Round 19 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1444
+**Peak Global ELO**: 1559 (2010 Round 19 - Abu Dhabi Grand Prix)
+**Lowest Global ELO**: 1428 (2012 Round 19 - United States Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -147,9 +159,3 @@
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | qualifying | Williams | 11 | 1456 | +54 | 1511 | Pastor Maldonado |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | race | Williams | DNF | 1416 | N/A | 1416 | Pastor Maldonado |
 | 2012 | [Round 20: Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix) | 2012-11-25 | global | Williams | Q:11/R:DNF | 1428 | +16 | 1444 | Pastor Maldonado |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1511 (Peak: 1640)
-**Race ELO**: 1500 → 1416 (Peak: 1556)
-**Global ELO**: 1500 → 1444 (Peak: 1559)

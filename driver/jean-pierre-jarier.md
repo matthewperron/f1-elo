@@ -5,6 +5,18 @@
 **Seasons**: [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md)
 **Total Race Events**: 97 (291 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1717
+**Peak Qualifying ELO**: 1720 (1983 Round 8 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1333 (1978 Round 4 - United States Grand Prix West)
+**Race ELO**: 1500 → 1376
+**Peak Race ELO**: 1506 (1976 Round 5 - Belgian Grand Prix)
+**Lowest Race ELO**: 1314 (1978 Round 1 - Argentine Grand Prix)
+**Global ELO**: 1500 → 1479
+**Peak Global ELO**: 1542 (1974 Round 8 - Dutch Grand Prix)
+**Lowest Global ELO**: 1320 (1978 Round 4 - United States Grand Prix West)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -300,9 +312,3 @@
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | qualifying | Ligier | 21 | 1707 | +11 | 1717 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel |
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | race | Ligier | DNF | 1376 | N/A | 1376 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel |
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | global | Ligier | Q:21/R:DNF | 1476 | +3 | 1479 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1717 (Peak: 1720)
-**Race ELO**: 1500 → 1376 (Peak: 1506)
-**Global ELO**: 1500 → 1479 (Peak: 1542)

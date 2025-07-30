@@ -5,6 +5,18 @@
 **Seasons**: [1964](../results/1964-season-report.md) • [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md)
 **Total Race Events**: 20 (60 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1542
+**Peak Qualifying ELO**: 1561 (1972 Round 11 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1409 (1973 Round 12 - Austrian Grand Prix)
+**Race ELO**: 1500 → 1507
+**Peak Race ELO**: 1516 (1973 Round 6 - Monaco Grand Prix)
+**Lowest Race ELO**: 1409 (1972 Round 10 - Italian Grand Prix)
+**Global ELO**: 1500 → 1518
+**Peak Global ELO**: 1518 (1974 Round 2 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1436 (1972 Round 5 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -69,9 +81,3 @@
 | 1974 | [Round 2: Brazilian Grand Prix](../results/1974-season-report.md#round-2-brazilian-grand-prix) | 1974-01-27 | qualifying | Shadow | 6 | 1506 | +36 | 1542 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier |
 | 1974 | [Round 2: Brazilian Grand Prix](../results/1974-season-report.md#round-2-brazilian-grand-prix) | 1974-01-27 | race | Shadow | DNF | 1507 | N/A | 1507 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier |
 | 1974 | [Round 2: Brazilian Grand Prix](../results/1974-season-report.md#round-2-brazilian-grand-prix) | 1974-01-27 | global | Shadow | Q:6/R:DNF | 1507 | +11 | 1518 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1542 (Peak: 1561)
-**Race ELO**: 1500 → 1507 (Peak: 1516)
-**Global ELO**: 1500 → 1518 (Peak: 1518)

@@ -5,6 +5,18 @@
 **Seasons**: [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md)
 **Total Race Events**: 256 (768 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1470
+**Peak Qualifying ELO**: 1854 (2002 Round 1 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1460 (1997 Round 1 - Australian Grand Prix)
+**Race ELO**: 1500 → 1356
+**Peak Race ELO**: 1736 (2001 Round 16 - United States Grand Prix)
+**Lowest Race ELO**: 1356 (2011 Round 19 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1392
+**Peak Global ELO**: 1771 (2002 Round 1 - Australian Grand Prix)
+**Lowest Global ELO**: 1392 (2011 Round 19 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -777,9 +789,3 @@
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | qualifying | Lotus | 20 | 1480 | -10 | 1470 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen |
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | race | Lotus | 18 | 1371 | -16 | 1356 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen |
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | global | Lotus | Q:20/R:18 | 1406 | -14 | 1392 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1470 (Peak: 1854)
-**Race ELO**: 1500 → 1356 (Peak: 1736)
-**Global ELO**: 1500 → 1392 (Peak: 1771)

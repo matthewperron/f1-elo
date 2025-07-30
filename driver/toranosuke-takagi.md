@@ -5,6 +5,18 @@
 **Seasons**: [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md)
 **Total Race Events**: 27 (81 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1558
+**Peak Qualifying ELO**: 1617 (1998 Round 13 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1517 (1999 Round 11 - Hungarian Grand Prix)
+**Race ELO**: 1500 → 1469
+**Peak Race ELO**: 1532 (1998 Round 14 - Italian Grand Prix)
+**Lowest Race ELO**: 1469 (1999 Round 5 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1495
+**Peak Global ELO**: 1548 (1998 Round 15 - Luxembourg Grand Prix)
+**Lowest Global ELO**: 1482 (1999 Round 11 - Hungarian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -90,9 +102,3 @@
 | 1999 | [Round 16: Japanese Grand Prix](../results/1999-season-report.md#round-16-japanese-grand-prix) | 1999-10-31 | qualifying | Arrows | 19 | 1522 | +36 | 1558 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa |
 | 1999 | [Round 16: Japanese Grand Prix](../results/1999-season-report.md#round-16-japanese-grand-prix) | 1999-10-31 | race | Arrows | DNF | 1469 | N/A | 1469 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa |
 | 1999 | [Round 16: Japanese Grand Prix](../results/1999-season-report.md#round-16-japanese-grand-prix) | 1999-10-31 | global | Arrows | Q:19/R:DNF | 1484 | +11 | 1495 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1558 (Peak: 1617)
-**Race ELO**: 1500 → 1469 (Peak: 1532)
-**Global ELO**: 1500 → 1495 (Peak: 1548)

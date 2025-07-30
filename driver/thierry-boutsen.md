@@ -5,6 +5,18 @@
 **Seasons**: [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1988](../results/1988-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md)
 **Total Race Events**: 159 (477 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1387
+**Peak Qualifying ELO**: 1761 (1988 Round 15 - Japanese Grand Prix)
+**Lowest Qualifying ELO**: 1387 (1993 Round 12 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1462
+**Peak Race ELO**: 1667 (1990 Round 6 - Mexican Grand Prix)
+**Lowest Race ELO**: 1461 (1992 Round 10 - German Grand Prix)
+**Global ELO**: 1500 → 1436
+**Peak Global ELO**: 1675 (1990 Round 12 - Italian Grand Prix)
+**Lowest Global ELO**: 1436 (1993 Round 12 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -486,9 +498,3 @@
 | 1993 | [Round 12: Belgian Grand Prix](../results/1993-season-report.md#round-12-belgian-grand-prix) | 1993-08-29 | qualifying | Jordan | 20 | 1397 | -9 | 1387 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
 | 1993 | [Round 12: Belgian Grand Prix](../results/1993-season-report.md#round-12-belgian-grand-prix) | 1993-08-29 | race | Jordan | DNF | 1462 | N/A | 1462 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
 | 1993 | [Round 12: Belgian Grand Prix](../results/1993-season-report.md#round-12-belgian-grand-prix) | 1993-08-29 | global | Jordan | Q:20/R:DNF | 1439 | -3 | 1436 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1387 (Peak: 1761)
-**Race ELO**: 1500 → 1462 (Peak: 1667)
-**Global ELO**: 1500 → 1436 (Peak: 1675)

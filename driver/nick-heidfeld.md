@@ -5,6 +5,18 @@
 **Seasons**: [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md)
 **Total Race Events**: 184 (552 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1340
+**Peak Qualifying ELO**: 1742 (2006 Round 1 - Bahrain Grand Prix)
+**Lowest Qualifying ELO**: 1328 (2011 Round 6 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1569
+**Peak Race ELO**: 1711 (2006 Round 3 - Australian Grand Prix)
+**Lowest Race ELO**: 1477 (2008 Round 8 - French Grand Prix)
+**Global ELO**: 1500 → 1497
+**Peak Global ELO**: 1714 (2006 Round 1 - Bahrain Grand Prix)
+**Lowest Global ELO**: 1454 (2011 Round 3 - Chinese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -561,9 +573,3 @@
 | 2011 | [Round 11: Hungarian Grand Prix](../results/2011-season-report.md#round-11-hungarian-grand-prix) | 2011-07-31 | qualifying | Renault | 14 | 1361 | -21 | 1340 | Vitaly Petrov |
 | 2011 | [Round 11: Hungarian Grand Prix](../results/2011-season-report.md#round-11-hungarian-grand-prix) | 2011-07-31 | race | Renault | DNF | 1569 | N/A | 1569 | Vitaly Petrov |
 | 2011 | [Round 11: Hungarian Grand Prix](../results/2011-season-report.md#round-11-hungarian-grand-prix) | 2011-07-31 | global | Renault | Q:14/R:DNF | 1504 | -6 | 1497 | Vitaly Petrov |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1340 (Peak: 1742)
-**Race ELO**: 1500 → 1569 (Peak: 1711)
-**Global ELO**: 1500 → 1497 (Peak: 1714)

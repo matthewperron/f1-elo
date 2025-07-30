@@ -5,6 +5,18 @@
 **Seasons**: [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md)
 **Total Race Events**: 46 (138 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1490
+**Peak Qualifying ELO**: 1590 (2010 Round 19 - Abu Dhabi Grand Prix)
+**Lowest Qualifying ELO**: 1347 (2010 Round 10 - British Grand Prix)
+**Race ELO**: 1500 → 1575
+**Peak Race ELO**: 1575 (2011 Round 19 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1409 (2011 Round 5 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1551
+**Peak Global ELO**: 1551 (2011 Round 19 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1417 (2010 Round 14 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -147,9 +159,3 @@
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | qualifying | Toro Rosso | 13 | 1447 | +44 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi |
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | race | Toro Rosso | 11 | 1553 | +23 | 1575 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi |
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | global | Toro Rosso | Q:13/R:11 | 1521 | +29 | 1551 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1490 (Peak: 1590)
-**Race ELO**: 1500 → 1575 (Peak: 1575)
-**Global ELO**: 1500 → 1551 (Peak: 1551)

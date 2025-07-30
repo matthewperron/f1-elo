@@ -5,6 +5,18 @@
 **Seasons**: [1958](../results/1958-season-report.md) • [1959](../results/1959-season-report.md) • [1960](../results/1960-season-report.md) • [1961](../results/1961-season-report.md) • [1962](../results/1962-season-report.md) • [1963](../results/1963-season-report.md) • [1964](../results/1964-season-report.md) • [1965](../results/1965-season-report.md) • [1966](../results/1966-season-report.md) • [1967](../results/1967-season-report.md) • [1968](../results/1968-season-report.md) • [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md) • [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md)
 **Total Race Events**: 75 (225 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1373
+**Peak Qualifying ELO**: 1776 (1967 Round 3 - Dutch Grand Prix)
+**Lowest Qualifying ELO**: 1320 (1975 Round 1 - Argentine Grand Prix)
+**Race ELO**: 1500 → 1564
+**Peak Race ELO**: 1567 (1965 Round 2 - Monaco Grand Prix)
+**Lowest Race ELO**: 1415 (1971 Round 8 - Austrian Grand Prix)
+**Global ELO**: 1500 → 1507
+**Peak Global ELO**: 1627 (1965 Round 2 - Monaco Grand Prix)
+**Lowest Global ELO**: 1414 (1971 Round 9 - Italian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -234,9 +246,3 @@
 | 1975 | [Round 2: Brazilian Grand Prix](../results/1975-season-report.md#round-2-brazilian-grand-prix) | 1975-01-26 | qualifying | Lola | 20 | 1320 | +53 | 1373 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
 | 1975 | [Round 2: Brazilian Grand Prix](../results/1975-season-report.md#round-2-brazilian-grand-prix) | 1975-01-26 | race | Lola | 12 | 1535 | +29 | 1564 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
 | 1975 | [Round 2: Brazilian Grand Prix](../results/1975-season-report.md#round-2-brazilian-grand-prix) | 1975-01-26 | global | Lola | Q:20/R:12 | 1471 | +36 | 1507 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1373 (Peak: 1776)
-**Race ELO**: 1500 → 1564 (Peak: 1567)
-**Global ELO**: 1500 → 1507 (Peak: 1627)

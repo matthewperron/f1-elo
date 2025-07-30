@@ -5,6 +5,18 @@
 **Seasons**: [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md)
 **Total Race Events**: 46 (138 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1462
+**Peak Qualifying ELO**: 1654 (2006 Round 3 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1436 (2007 Round 7 - United States Grand Prix)
+**Race ELO**: 1500 → 1525
+**Peak Race ELO**: 1610 (2006 Round 8 - British Grand Prix)
+**Lowest Race ELO**: 1521 (2005 Round 15 - Italian Grand Prix)
+**Global ELO**: 1500 → 1506
+**Peak Global ELO**: 1608 (2006 Round 3 - Australian Grand Prix)
+**Lowest Global ELO**: 1490 (2005 Round 1 - Australian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -147,9 +159,3 @@
 | 2007 | [Round 9: British Grand Prix](../results/2007-season-report.md#round-9-british-grand-prix) | 2007-07-08 | qualifying | Spyker | 22 | 1485 | -23 | 1462 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil |
 | 2007 | [Round 9: British Grand Prix](../results/2007-season-report.md#round-9-british-grand-prix) | 2007-07-08 | race | Spyker | 15 | 1525 | N/A | 1525 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil |
 | 2007 | [Round 9: British Grand Prix](../results/2007-season-report.md#round-9-british-grand-prix) | 2007-07-08 | global | Spyker | Q:22/R:15 | 1513 | -7 | 1506 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1462 (Peak: 1654)
-**Race ELO**: 1500 → 1525 (Peak: 1610)
-**Global ELO**: 1500 → 1506 (Peak: 1608)

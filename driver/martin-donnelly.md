@@ -5,6 +5,18 @@
 **Seasons**: [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md)
 **Total Race Events**: 15 (45 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1640
+**Peak Qualifying ELO**: 1640 (1990 Round 14 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1517 (1990 Round 11 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1407
+**Peak Race ELO**: 1478 (1990 Round 6 - Mexican Grand Prix)
+**Lowest Race ELO**: 1407 (1990 Round 11 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1477
+**Peak Global ELO**: 1504 (1990 Round 2 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1440 (1990 Round 11 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -54,9 +66,3 @@
 | 1990 | [Round 14: Spanish Grand Prix](../results/1990-season-report.md#round-14-spanish-grand-prix) | 1990-09-30 | qualifying | Team Lotus | 0 | 1606 | +34 | 1640 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick |
 | 1990 | [Round 14: Spanish Grand Prix](../results/1990-season-report.md#round-14-spanish-grand-prix) | 1990-09-30 | race | Team Lotus | DNF | 1407 | N/A | 1407 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick |
 | 1990 | [Round 14: Spanish Grand Prix](../results/1990-season-report.md#round-14-spanish-grand-prix) | 1990-09-30 | global | Team Lotus | Q:0/R:DNF | 1467 | +10 | 1477 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1640 (Peak: 1640)
-**Race ELO**: 1500 → 1407 (Peak: 1478)
-**Global ELO**: 1500 → 1477 (Peak: 1504)

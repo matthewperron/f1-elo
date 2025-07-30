@@ -5,6 +5,18 @@
 **Seasons**: [1971](../results/1971-season-report.md) • [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md)
 **Total Race Events**: 64 (192 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1589
+**Peak Qualifying ELO**: 1816 (1975 Round 1 - Argentine Grand Prix)
+**Lowest Qualifying ELO**: 1484 (1973 Round 1 - Argentine Grand Prix)
+**Race ELO**: 1500 → 1515
+**Peak Race ELO**: 1671 (1977 Round 12 - Austrian Grand Prix)
+**Lowest Race ELO**: 1476 (1973 Round 6 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1536
+**Peak Global ELO**: 1682 (1975 Round 9 - French Grand Prix)
+**Lowest Global ELO**: 1495 (1973 Round 1 - Argentine Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -201,9 +213,3 @@
 | 1978 | [Round 14: Italian Grand Prix](../results/1978-season-report.md#round-14-italian-grand-prix) | 1978-09-10 | qualifying | Team Lotus | 5 | 1603 | -14 | 1589 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti |
 | 1978 | [Round 14: Italian Grand Prix](../results/1978-season-report.md#round-14-italian-grand-prix) | 1978-09-10 | race | Team Lotus | DNF | 1515 | N/A | 1515 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti |
 | 1978 | [Round 14: Italian Grand Prix](../results/1978-season-report.md#round-14-italian-grand-prix) | 1978-09-10 | global | Team Lotus | Q:5/R:DNF | 1540 | -4 | 1536 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1589 (Peak: 1816)
-**Race ELO**: 1500 → 1515 (Peak: 1671)
-**Global ELO**: 1500 → 1536 (Peak: 1682)

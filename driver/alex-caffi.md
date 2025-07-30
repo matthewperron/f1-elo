@@ -5,6 +5,18 @@
 **Seasons**: [1986](../results/1986-season-report.md) • [1987](../results/1987-season-report.md) • [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md)
 **Total Race Events**: 28 (84 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1513
+**Peak Qualifying ELO**: 1620 (1989 Round 11 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1417 (1990 Round 7 - French Grand Prix)
+**Race ELO**: 1500 → 1532
+**Peak Race ELO**: 1577 (1990 Round 11 - Belgian Grand Prix)
+**Lowest Race ELO**: 1494 (1989 Round 6 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1526
+**Peak Global ELO**: 1571 (1990 Round 15 - Japanese Grand Prix)
+**Lowest Global ELO**: 1494 (1990 Round 7 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -93,9 +105,3 @@
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | qualifying | Footwork | 23 | 1558 | -45 | 1513 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | race | Footwork | 15 | 1577 | -45 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
 | 1991 | [Round 16: Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix) | 1991-11-03 | global | Footwork | Q:23/R:15 | 1571 | -45 | 1526 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1513 (Peak: 1620)
-**Race ELO**: 1500 → 1532 (Peak: 1577)
-**Global ELO**: 1500 → 1526 (Peak: 1571)

@@ -5,6 +5,15 @@
 **Seasons**: [1975](../results/1975-season-report.md)
 **Total Race Events**: 3 (9 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1417
+**Peak Qualifying ELO**: 1471 (1975 Round 4 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1417 (1975 Round 9 - French Grand Prix)
+**Global ELO**: 1500 → 1475
+**Peak Global ELO**: 1491 (1975 Round 4 - Spanish Grand Prix)
+**Lowest Global ELO**: 1475 (1975 Round 9 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -18,8 +27,3 @@
 | 1975 | [Round 9: French Grand Prix](../results/1975-season-report.md#round-9-french-grand-prix) | 1975-07-06 | qualifying | Lola | 24 | 1445 | -28 | 1417 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
 | 1975 | [Round 9: French Grand Prix](../results/1975-season-report.md#round-9-french-grand-prix) | 1975-07-06 | race | Lola | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
 | 1975 | [Round 9: French Grand Prix](../results/1975-season-report.md#round-9-french-grand-prix) | 1975-07-06 | global | Lola | Q:24/R:DNF | 1484 | -8 | 1475 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1417 (Peak: 1471)
-**Global ELO**: 1500 → 1475 (Peak: 1491)

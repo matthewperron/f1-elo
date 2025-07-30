@@ -5,6 +5,18 @@
 **Seasons**: [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md)
 **Total Race Events**: 114 (342 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1382
+**Peak Qualifying ELO**: 1645 (1996 Round 12 - Hungarian Grand Prix)
+**Lowest Qualifying ELO**: 1328 (1993 Round 13 - Italian Grand Prix)
+**Race ELO**: 1500 → 1403
+**Peak Race ELO**: 1616 (1995 Round 10 - Hungarian Grand Prix)
+**Lowest Race ELO**: 1399 (1997 Round 15 - Luxembourg Grand Prix)
+**Global ELO**: 1500 → 1396
+**Peak Global ELO**: 1609 (1996 Round 11 - German Grand Prix)
+**Lowest Global ELO**: 1381 (1999 Round 14 - European Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -351,9 +363,3 @@
 | 1999 | [Round 16: Japanese Grand Prix](../results/1999-season-report.md#round-16-japanese-grand-prix) | 1999-10-31 | qualifying | Jordan | 12 | 1393 | -11 | 1382 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
 | 1999 | [Round 16: Japanese Grand Prix](../results/1999-season-report.md#round-16-japanese-grand-prix) | 1999-10-31 | race | Jordan | DNF | 1403 | N/A | 1403 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
 | 1999 | [Round 16: Japanese Grand Prix](../results/1999-season-report.md#round-16-japanese-grand-prix) | 1999-10-31 | global | Jordan | Q:12/R:DNF | 1399 | -3 | 1396 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1382 (Peak: 1645)
-**Race ELO**: 1500 → 1403 (Peak: 1616)
-**Global ELO**: 1500 → 1396 (Peak: 1609)

@@ -5,6 +5,18 @@
 **Seasons**: [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md)
 **Total Race Events**: 143 (429 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1510
+**Peak Qualifying ELO**: 1790 (1977 Round 1 - Argentine Grand Prix)
+**Lowest Qualifying ELO**: 1454 (1974 Round 2 - Brazilian Grand Prix)
+**Race ELO**: 1500 → 1571
+**Peak Race ELO**: 1744 (1979 Round 3 - South African Grand Prix)
+**Lowest Race ELO**: 1445 (1975 Round 2 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1553
+**Peak Global ELO**: 1756 (1979 Round 5 - Spanish Grand Prix)
+**Lowest Global ELO**: 1502 (1974 Round 2 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -438,9 +450,3 @@
 | 1985 | [Round 16: Australian Grand Prix](../results/1985-season-report.md#round-16-australian-grand-prix) | 1985-11-03 | qualifying | McLaren | 16 | 1517 | -7 | 1510 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost |
 | 1985 | [Round 16: Australian Grand Prix](../results/1985-season-report.md#round-16-australian-grand-prix) | 1985-11-03 | race | McLaren | DNF | 1571 | N/A | 1571 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost |
 | 1985 | [Round 16: Australian Grand Prix](../results/1985-season-report.md#round-16-australian-grand-prix) | 1985-11-03 | global | McLaren | Q:16/R:DNF | 1555 | -2 | 1553 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1510 (Peak: 1790)
-**Race ELO**: 1500 → 1571 (Peak: 1744)
-**Global ELO**: 1500 → 1553 (Peak: 1756)

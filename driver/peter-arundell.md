@@ -5,6 +5,18 @@
 **Seasons**: [1964](../results/1964-season-report.md) • [1966](../results/1966-season-report.md)
 **Total Race Events**: 8 (24 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1380
+**Peak Qualifying ELO**: 1522 (1966 Round 2 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1380 (1966 Round 6 - German Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1964 Round 2 - Dutch Grand Prix)
+**Lowest Race ELO**: 1468 (1964 Round 2 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1464
+**Peak Global ELO**: 1507 (1966 Round 2 - Belgian Grand Prix)
+**Lowest Global ELO**: 1458 (1964 Round 4 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -33,9 +45,3 @@
 | 1966 | [Round 6: German Grand Prix](../results/1966-season-report.md#round-6-german-grand-prix) | 1966-08-07 | qualifying | Lotus-BRM | 17 | 1406 | -26 | 1380 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Spence |
 | 1966 | [Round 6: German Grand Prix](../results/1966-season-report.md#round-6-german-grand-prix) | 1966-08-07 | race | Lotus-BRM | 8 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Spence |
 | 1966 | [Round 6: German Grand Prix](../results/1966-season-report.md#round-6-german-grand-prix) | 1966-08-07 | global | Lotus-BRM | Q:17/R:8 | 1472 | -8 | 1464 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Spence |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1380 (Peak: 1522)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1464 (Peak: 1507)

@@ -5,6 +5,18 @@
 **Seasons**: [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md)
 **Total Race Events**: 325 (975 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1663
+**Peak Qualifying ELO**: 1974 (2005 Round 2 - Malaysian Grand Prix)
+**Lowest Qualifying ELO**: 1499 (1995 Round 6 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1524
+**Peak Race ELO**: 1671 (1999 Round 11 - Hungarian Grand Prix)
+**Lowest Race ELO**: 1455 (2001 Round 14 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1562
+**Peak Global ELO**: 1750 (1999 Round 13 - Italian Grand Prix)
+**Lowest Global ELO**: 1490 (1995 Round 5 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -984,9 +996,3 @@
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | qualifying | Williams | 12 | 1626 | +36 | 1663 | Pastor Maldonado |
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | race | Williams | 14 | 1524 | N/A | 1524 | Pastor Maldonado |
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | global | Williams | Q:12/R:14 | 1551 | +11 | 1562 | Pastor Maldonado |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1663 (Peak: 1974)
-**Race ELO**: 1500 → 1524 (Peak: 1671)
-**Global ELO**: 1500 → 1562 (Peak: 1750)

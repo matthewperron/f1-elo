@@ -5,6 +5,18 @@
 **Seasons**: [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md) • [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2001](../results/2001-season-report.md)
 **Total Race Events**: 155 (465 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1608
+**Peak Qualifying ELO**: 1814 (1995 Round 12 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1415 (1992 Round 11 - Hungarian Grand Prix)
+**Race ELO**: 1500 → 1497
+**Peak Race ELO**: 1709 (1998 Round 11 - German Grand Prix)
+**Lowest Race ELO**: 1476 (2001 Round 14 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1529
+**Peak Global ELO**: 1730 (1999 Round 6 - Canadian Grand Prix)
+**Lowest Global ELO**: 1478 (1992 Round 1 - South African Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -474,9 +486,3 @@
 | 2001 | [Round 17: Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | qualifying | McLaren | 5 | 1578 | +30 | 1608 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard |
 | 2001 | [Round 17: Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | race | McLaren | 4 | 1522 | -25 | 1497 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard |
 | 2001 | [Round 17: Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | global | McLaren | Q:5/R:4 | 1538 | -8 | 1529 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1608 (Peak: 1814)
-**Race ELO**: 1500 → 1497 (Peak: 1709)
-**Global ELO**: 1500 → 1529 (Peak: 1730)

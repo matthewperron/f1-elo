@@ -5,6 +5,18 @@
 **Seasons**: [1961](../results/1961-season-report.md) • [1963](../results/1963-season-report.md) • [1964](../results/1964-season-report.md) • [1965](../results/1965-season-report.md) • [1966](../results/1966-season-report.md) • [1967](../results/1967-season-report.md)
 **Total Race Events**: 27 (81 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1445
+**Peak Qualifying ELO**: 1576 (1961 Round 6 - German Grand Prix)
+**Lowest Qualifying ELO**: 1350 (1965 Round 1 - South African Grand Prix)
+**Race ELO**: 1500 → 1410
+**Peak Race ELO**: 1471 (1964 Round 5 - British Grand Prix)
+**Lowest Race ELO**: 1410 (1966 Round 2 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1419
+**Peak Global ELO**: 1523 (1961 Round 6 - German Grand Prix)
+**Lowest Global ELO**: 1404 (1966 Round 2 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -90,9 +102,3 @@
 | 1967 | [Round 2: Monaco Grand Prix](../results/1967-season-report.md#round-2-monaco-grand-prix) | 1967-05-07 | qualifying | Ferrari | 2 | 1404 | +41 | 1445 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon |
 | 1967 | [Round 2: Monaco Grand Prix](../results/1967-season-report.md#round-2-monaco-grand-prix) | 1967-05-07 | race | Ferrari | DNF | 1410 | N/A | 1410 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon |
 | 1967 | [Round 2: Monaco Grand Prix](../results/1967-season-report.md#round-2-monaco-grand-prix) | 1967-05-07 | global | Ferrari | Q:2/R:DNF | 1407 | +12 | 1419 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1445 (Peak: 1576)
-**Race ELO**: 1500 → 1410 (Peak: 1471)
-**Global ELO**: 1500 → 1419 (Peak: 1523)

@@ -5,6 +5,18 @@
 **Seasons**: [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md)
 **Total Race Events**: 68 (204 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1507
+**Peak Qualifying ELO**: 1668 (2023 Round 3 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1408 (2024 Round 21 - São Paulo Grand Prix)
+**Race ELO**: 1500 → 1507
+**Peak Race ELO**: 1507 (2024 Round 23 - Qatar Grand Prix)
+**Lowest Race ELO**: 1370 (2022 Round 11 - Austrian Grand Prix)
+**Global ELO**: 1500 → 1509
+**Peak Global ELO**: 1529 (2023 Round 3 - Australian Grand Prix)
+**Lowest Global ELO**: 1416 (2022 Round 14 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -213,9 +225,3 @@
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | qualifying | Sauber | 15 | 1522 | -15 | 1507 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas |
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | race | Sauber | DNF | 1507 | N/A | 1507 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas |
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | global | Sauber | Q:15/R:DNF | 1513 | -4 | 1509 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1507 (Peak: 1668)
-**Race ELO**: 1500 → 1507 (Peak: 1507)
-**Global ELO**: 1500 → 1509 (Peak: 1529)

@@ -5,6 +5,18 @@
 **Seasons**: [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md)
 **Total Race Events**: 28 (84 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1522
+**Peak Qualifying ELO**: 1558 (2004 Round 11 - British Grand Prix)
+**Lowest Qualifying ELO**: 1397 (2003 Round 6 - Austrian Grand Prix)
+**Race ELO**: 1500 → 1588
+**Peak Race ELO**: 1588 (2004 Round 10 - French Grand Prix)
+**Lowest Race ELO**: 1450 (2003 Round 10 - French Grand Prix)
+**Global ELO**: 1500 → 1568
+**Peak Global ELO**: 1578 (2004 Round 11 - British Grand Prix)
+**Lowest Global ELO**: 1436 (2003 Round 10 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -93,9 +105,3 @@
 | 2004 | [Round 12: German Grand Prix](../results/2004-season-report.md#round-12-german-grand-prix) | 2004-07-25 | qualifying | Toyota | 15 | 1558 | -36 | 1522 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis |
 | 2004 | [Round 12: German Grand Prix](../results/2004-season-report.md#round-12-german-grand-prix) | 2004-07-25 | race | Toyota | DNF | 1588 | N/A | 1588 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis |
 | 2004 | [Round 12: German Grand Prix](../results/2004-season-report.md#round-12-german-grand-prix) | 2004-07-25 | global | Toyota | Q:15/R:DNF | 1578 | -11 | 1568 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1522 (Peak: 1558)
-**Race ELO**: 1500 → 1588 (Peak: 1588)
-**Global ELO**: 1500 → 1568 (Peak: 1578)

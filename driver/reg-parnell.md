@@ -5,6 +5,15 @@
 **Seasons**: [1951](../results/1951-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1503
+**Peak Qualifying ELO**: 1503 (1951 Round 7 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1468 (1951 Round 5 - British Grand Prix)
+**Global ELO**: 1500 → 1501
+**Peak Global ELO**: 1501 (1951 Round 7 - Italian Grand Prix)
+**Lowest Global ELO**: 1490 (1951 Round 5 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,8 +24,3 @@
 | 1951 | [Round 7: Italian Grand Prix](../results/1951-season-report.md#round-7-italian-grand-prix) | 1951-09-16 | qualifying | BRM | 8 | 1468 | +35 | 1503 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ken Richardson |
 | 1951 | [Round 7: Italian Grand Prix](../results/1951-season-report.md#round-7-italian-grand-prix) | 1951-09-16 | race | BRM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ken Richardson |
 | 1951 | [Round 7: Italian Grand Prix](../results/1951-season-report.md#round-7-italian-grand-prix) | 1951-09-16 | global | BRM | Q:8/R:DNF | 1490 | +11 | 1501 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ken Richardson |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1503 (Peak: 1503)
-**Global ELO**: 1500 → 1501 (Peak: 1501)

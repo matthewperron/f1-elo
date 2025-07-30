@@ -5,6 +5,18 @@
 **Seasons**: [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 221 (663 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1667
+**Peak Qualifying ELO**: 1768 (2025 Round 7 - Emilia Romagna Grand Prix)
+**Lowest Qualifying ELO**: 1392 (2017 Round 4 - Russian Grand Prix)
+**Race ELO**: 1500 → 1563
+**Peak Race ELO**: 1709 (2022 Round 14 - Belgian Grand Prix)
+**Lowest Race ELO**: 1431 (2015 Round 17 - Mexican Grand Prix)
+**Global ELO**: 1500 → 1595
+**Peak Global ELO**: 1693 (2022 Round 14 - Belgian Grand Prix)
+**Lowest Global ELO**: 1429 (2015 Round 18 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -672,9 +684,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Williams | 17 | 1693 | -26 | 1667 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Williams | 18 | 1576 | -13 | 1563 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Williams | Q:17/R:18 | 1612 | -17 | 1595 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1667 (Peak: 1768)
-**Race ELO**: 1500 → 1563 (Peak: 1709)
-**Global ELO**: 1500 → 1595 (Peak: 1693)

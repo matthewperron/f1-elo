@@ -5,6 +5,18 @@
 **Seasons**: [1975](../results/1975-season-report.md)
 **Total Race Events**: 9 (27 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1692
+**Peak Qualifying ELO**: 1692 (1975 Round 13 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1537 (1975 Round 4 - Spanish Grand Prix)
+**Race ELO**: 1500 → 1558
+**Peak Race ELO**: 1558 (1975 Round 12 - Austrian Grand Prix)
+**Lowest Race ELO**: 1532 (1975 Round 9 - French Grand Prix)
+**Global ELO**: 1500 → 1598
+**Peak Global ELO**: 1598 (1975 Round 13 - Italian Grand Prix)
+**Lowest Global ELO**: 1511 (1975 Round 4 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -36,9 +48,3 @@
 | 1975 | [Round 13: Italian Grand Prix](../results/1975-season-report.md#round-13-italian-grand-prix) | 1975-09-07 | qualifying | Williams | 6 | 1671 | +20 | 1692 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
 | 1975 | [Round 13: Italian Grand Prix](../results/1975-season-report.md#round-13-italian-grand-prix) | 1975-09-07 | race | Williams | DNF | 1558 | N/A | 1558 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
 | 1975 | [Round 13: Italian Grand Prix](../results/1975-season-report.md#round-13-italian-grand-prix) | 1975-09-07 | global | Williams | Q:6/R:DNF | 1592 | +6 | 1598 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1692 (Peak: 1692)
-**Race ELO**: 1500 → 1558 (Peak: 1558)
-**Global ELO**: 1500 → 1598 (Peak: 1598)

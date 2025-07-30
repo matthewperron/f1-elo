@@ -5,6 +5,15 @@
 **Seasons**: [1978](../results/1978-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1506
+**Peak Qualifying ELO**: 1506 (1978 Round 2 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1468 (1978 Round 1 - Argentine Grand Prix)
+**Global ELO**: 1500 → 1502
+**Peak Global ELO**: 1502 (1978 Round 2 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1490 (1978 Round 1 - Argentine Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -15,8 +24,3 @@
 | 1978 | [Round 2: Brazilian Grand Prix](../results/1978-season-report.md#round-2-brazilian-grand-prix) | 1978-01-29 | qualifying | Ensign | 17 | 1468 | +38 | 1506 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Danny Ongais |
 | 1978 | [Round 2: Brazilian Grand Prix](../results/1978-season-report.md#round-2-brazilian-grand-prix) | 1978-01-29 | race | Ensign | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Danny Ongais |
 | 1978 | [Round 2: Brazilian Grand Prix](../results/1978-season-report.md#round-2-brazilian-grand-prix) | 1978-01-29 | global | Ensign | Q:17/R:DNF | 1490 | +11 | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Danny Ongais |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1506 (Peak: 1506)
-**Global ELO**: 1500 → 1502 (Peak: 1502)

@@ -5,6 +5,18 @@
 **Seasons**: [1962](../results/1962-season-report.md) • [1963](../results/1963-season-report.md) • [1964](../results/1964-season-report.md) • [1965](../results/1965-season-report.md) • [1968](../results/1968-season-report.md) • [1971](../results/1971-season-report.md)
 **Total Race Events**: 19 (57 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1570
+**Peak Qualifying ELO**: 1692 (1965 Round 8 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1460 (1968 Round 6 - French Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1532 (1963 Round 3 - Dutch Grand Prix)
+**Lowest Race ELO**: 1468 (1971 Round 6 - British Grand Prix)
+**Global ELO**: 1500 → 1499
+**Peak Global ELO**: 1580 (1965 Round 8 - Italian Grand Prix)
+**Lowest Global ELO**: 1488 (1968 Round 6 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -66,9 +78,3 @@
 | 1971 | [Round 6: British Grand Prix](../results/1971-season-report.md#round-6-british-grand-prix) | 1971-07-17 | qualifying | BRM | 3 | 1542 | +28 | 1570 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley |
 | 1971 | [Round 6: British Grand Prix](../results/1971-season-report.md#round-6-british-grand-prix) | 1971-07-17 | race | BRM | 9 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley |
 | 1971 | [Round 6: British Grand Prix](../results/1971-season-report.md#round-6-british-grand-prix) | 1971-07-17 | global | BRM | Q:3/R:9 | 1513 | -14 | 1499 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1570 (Peak: 1692)
-**Race ELO**: 1500 → 1468 (Peak: 1532)
-**Global ELO**: 1500 → 1499 (Peak: 1580)

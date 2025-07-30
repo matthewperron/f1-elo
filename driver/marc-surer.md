@@ -5,6 +5,18 @@
 **Seasons**: [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md) • [1984](../results/1984-season-report.md) • [1985](../results/1985-season-report.md) • [1986](../results/1986-season-report.md)
 **Total Race Events**: 58 (174 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1434
+**Peak Qualifying ELO**: 1679 (1983 Round 8 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1434 (1986 Round 5 - Belgian Grand Prix)
+**Race ELO**: 1500 → 1408
+**Peak Race ELO**: 1581 (1983 Round 4 - San Marino Grand Prix)
+**Lowest Race ELO**: 1408 (1986 Round 4 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1417
+**Peak Global ELO**: 1601 (1983 Round 6 - Belgian Grand Prix)
+**Lowest Global ELO**: 1417 (1986 Round 5 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -183,9 +195,3 @@
 | 1986 | [Round 5: Belgian Grand Prix](../results/1986-season-report.md#round-5-belgian-grand-prix) | 1986-05-25 | qualifying | Arrows | 21 | 1448 | -14 | 1434 | Thierry Boutsen |
 | 1986 | [Round 5: Belgian Grand Prix](../results/1986-season-report.md#round-5-belgian-grand-prix) | 1986-05-25 | race | Arrows | 9 | 1408 | N/A | 1408 | Thierry Boutsen |
 | 1986 | [Round 5: Belgian Grand Prix](../results/1986-season-report.md#round-5-belgian-grand-prix) | 1986-05-25 | global | Arrows | Q:21/R:9 | 1422 | -4 | 1417 | Thierry Boutsen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1434 (Peak: 1679)
-**Race ELO**: 1500 → 1408 (Peak: 1581)
-**Global ELO**: 1500 → 1417 (Peak: 1601)

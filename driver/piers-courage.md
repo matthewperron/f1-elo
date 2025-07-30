@@ -5,6 +5,18 @@
 **Seasons**: [1968](../results/1968-season-report.md) • [1969](../results/1969-season-report.md)
 **Total Race Events**: 6 (18 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1361
+**Peak Qualifying ELO**: 1470 (1968 Round 2 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1361 (1969 Round 7 - German Grand Prix)
+**Race ELO**: 1500 → 1465
+**Peak Race ELO**: 1465 (1969 Round 6 - British Grand Prix)
+**Lowest Race ELO**: 1465 (1969 Round 6 - British Grand Prix)
+**Global ELO**: 1500 → 1434
+**Peak Global ELO**: 1491 (1968 Round 2 - Spanish Grand Prix)
+**Lowest Global ELO**: 1434 (1969 Round 7 - German Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -27,9 +39,3 @@
 | 1969 | [Round 7: German Grand Prix](../results/1969-season-report.md#round-7-german-grand-prix) | 1969-08-03 | qualifying | Brabham-Ford | 7 | 1383 | -22 | 1361 | Jacky Ickx |
 | 1969 | [Round 7: German Grand Prix](../results/1969-season-report.md#round-7-german-grand-prix) | 1969-08-03 | race | Brabham-Ford | DNF | 1465 | N/A | 1465 | Jacky Ickx |
 | 1969 | [Round 7: German Grand Prix](../results/1969-season-report.md#round-7-german-grand-prix) | 1969-08-03 | global | Brabham-Ford | Q:7/R:DNF | 1441 | -7 | 1434 | Jacky Ickx |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1361 (Peak: 1470)
-**Race ELO**: 1500 → 1465 (Peak: 1465)
-**Global ELO**: 1500 → 1434 (Peak: 1491)

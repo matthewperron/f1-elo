@@ -5,6 +5,18 @@
 **Seasons**: [2001](../results/2001-season-report.md) • [2002](../results/2002-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md)
 **Total Race Events**: 95 (285 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1481
+**Peak Qualifying ELO**: 1703 (2004 Round 12 - German Grand Prix)
+**Lowest Qualifying ELO**: 1394 (2001 Round 10 - French Grand Prix)
+**Race ELO**: 1500 → 1681
+**Peak Race ELO**: 1725 (2005 Round 17 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1490 (2002 Round 4 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1620
+**Peak Global ELO**: 1706 (2005 Round 17 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1471 (2001 Round 5 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -294,9 +306,3 @@
 | 2006 | [Round 10: United States Grand Prix](../results/2006-season-report.md#round-10-united-states-grand-prix) | 2006-07-02 | qualifying | McLaren | 11 | 1496 | -16 | 1481 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen |
 | 2006 | [Round 10: United States Grand Prix](../results/2006-season-report.md#round-10-united-states-grand-prix) | 2006-07-02 | race | McLaren | DNF | 1681 | N/A | 1681 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen |
 | 2006 | [Round 10: United States Grand Prix](../results/2006-season-report.md#round-10-united-states-grand-prix) | 2006-07-02 | global | McLaren | Q:11/R:DNF | 1625 | -5 | 1620 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1481 (Peak: 1703)
-**Race ELO**: 1500 → 1681 (Peak: 1725)
-**Global ELO**: 1500 → 1620 (Peak: 1706)

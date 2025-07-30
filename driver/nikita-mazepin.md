@@ -5,6 +5,18 @@
 **Seasons**: [2021](../results/2021-season-report.md)
 **Total Race Events**: 22 (66 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1329
+**Peak Qualifying ELO**: 1468 (2021 Round 1 - Bahrain Grand Prix)
+**Lowest Qualifying ELO**: 1329 (2021 Round 22 - Abu Dhabi Grand Prix)
+**Race ELO**: 1500 → 1413
+**Peak Race ELO**: 1468 (2021 Round 2 - Emilia Romagna Grand Prix)
+**Lowest Race ELO**: 1383 (2021 Round 17 - United States Grand Prix)
+**Global ELO**: 1500 → 1389
+**Peak Global ELO**: 1490 (2021 Round 1 - Bahrain Grand Prix)
+**Lowest Global ELO**: 1380 (2021 Round 18 - Mexico City Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -75,9 +87,3 @@
 | 2021 | [Round 22: Abu Dhabi Grand Prix](../results/2021-season-report.md#round-22-abu-dhabi-grand-prix) | 2021-12-12 | qualifying | Haas F1 Team | 20 | 1338 | -9 | 1329 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher |
 | 2021 | [Round 22: Abu Dhabi Grand Prix](../results/2021-season-report.md#round-22-abu-dhabi-grand-prix) | 2021-12-12 | race | Haas F1 Team | DNF | 1413 | N/A | 1413 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher |
 | 2021 | [Round 22: Abu Dhabi Grand Prix](../results/2021-season-report.md#round-22-abu-dhabi-grand-prix) | 2021-12-12 | global | Haas F1 Team | Q:20/R:DNF | 1392 | -3 | 1389 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1329 (Peak: 1468)
-**Race ELO**: 1500 → 1413 (Peak: 1468)
-**Global ELO**: 1500 → 1389 (Peak: 1490)

@@ -5,6 +5,18 @@
 **Seasons**: [1992](../results/1992-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1442
+**Peak Qualifying ELO**: 1468 (1994 Round 4 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1384 (1992 Round 10 - German Grand Prix)
+**Race ELO**: 1500 → 1501
+**Peak Race ELO**: 1501 (1992 Round 10 - German Grand Prix)
+**Lowest Race ELO**: 1465 (1992 Round 5 - San Marino Grand Prix)
+**Global ELO**: 1500 → 1483
+**Peak Global ELO**: 1490 (1994 Round 4 - Monaco Grand Prix)
+**Lowest Global ELO**: 1447 (1992 Round 7 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,9 +42,3 @@
 | 1994 | [Round 5: Spanish Grand Prix](../results/1994-season-report.md#round-5-spanish-grand-prix) | 1994-05-29 | qualifying | Pacific | 26 | 1468 | -26 | 1442 | Bertrand Gachot |
 | 1994 | [Round 5: Spanish Grand Prix](../results/1994-season-report.md#round-5-spanish-grand-prix) | 1994-05-29 | race | Pacific | DNF | 1500 | N/A | 1500 | Bertrand Gachot |
 | 1994 | [Round 5: Spanish Grand Prix](../results/1994-season-report.md#round-5-spanish-grand-prix) | 1994-05-29 | global | Pacific | Q:26/R:DNF | 1490 | -8 | 1483 | Bertrand Gachot |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1442 (Peak: 1468)
-**Race ELO**: 1500 → 1501 (Peak: 1501)
-**Global ELO**: 1500 → 1483 (Peak: 1490)

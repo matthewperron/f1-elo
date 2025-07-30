@@ -5,6 +5,18 @@
 **Seasons**: [1989](../results/1989-season-report.md) • [1991](../results/1991-season-report.md) • [1992](../results/1992-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md)
 **Total Race Events**: 39 (117 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1518
+**Peak Qualifying ELO**: 1600 (1995 Round 6 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1345 (1991 Round 9 - German Grand Prix)
+**Race ELO**: 1500 → 1454
+**Peak Race ELO**: 1466 (1991 Round 5 - Canadian Grand Prix)
+**Lowest Race ELO**: 1414 (1991 Round 10 - Hungarian Grand Prix)
+**Global ELO**: 1500 → 1505
+**Peak Global ELO**: 1530 (1995 Round 6 - Canadian Grand Prix)
+**Lowest Global ELO**: 1402 (1992 Round 1 - South African Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -126,9 +138,3 @@
 | 1995 | [Round 17: Australian Grand Prix](../results/1995-season-report.md#round-17-australian-grand-prix) | 1995-11-12 | qualifying | Pacific | 23 | 1537 | -19 | 1518 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini |
 | 1995 | [Round 17: Australian Grand Prix](../results/1995-season-report.md#round-17-australian-grand-prix) | 1995-11-12 | race | Pacific | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini |
 | 1995 | [Round 17: Australian Grand Prix](../results/1995-season-report.md#round-17-australian-grand-prix) | 1995-11-12 | global | Pacific | Q:23/R:DNF | 1511 | -6 | 1505 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1518 (Peak: 1600)
-**Race ELO**: 1500 → 1454 (Peak: 1466)
-**Global ELO**: 1500 → 1505 (Peak: 1530)

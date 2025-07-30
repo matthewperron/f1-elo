@@ -5,6 +5,18 @@
 **Seasons**: [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md)
 **Total Race Events**: 300 (900 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1575
+**Peak Qualifying ELO**: 1894 (2013 Round 14 - Korean Grand Prix)
+**Lowest Qualifying ELO**: 1416 (2007 Round 12 - Turkish Grand Prix)
+**Race ELO**: 1500 → 1467
+**Peak Race ELO**: 1883 (2013 Round 19 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1418 (2021 Round 16 - Turkish Grand Prix)
+**Global ELO**: 1500 → 1501
+**Peak Global ELO**: 1867 (2013 Round 14 - Korean Grand Prix)
+**Lowest Global ELO**: 1425 (2021 Round 16 - Turkish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -909,9 +921,3 @@
 | 2022 | [Round 22: Abu Dhabi Grand Prix](../results/2022-season-report.md#round-22-abu-dhabi-grand-prix) | 2022-11-20 | qualifying | Aston Martin | 9 | 1551 | +24 | 1575 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
 | 2022 | [Round 22: Abu Dhabi Grand Prix](../results/2022-season-report.md#round-22-abu-dhabi-grand-prix) | 2022-11-20 | race | Aston Martin | 10 | 1500 | -32 | 1467 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
 | 2022 | [Round 22: Abu Dhabi Grand Prix](../results/2022-season-report.md#round-22-abu-dhabi-grand-prix) | 2022-11-20 | global | Aston Martin | Q:9/R:10 | 1516 | -15 | 1501 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1575 (Peak: 1894)
-**Race ELO**: 1500 → 1467 (Peak: 1883)
-**Global ELO**: 1500 → 1501 (Peak: 1867)

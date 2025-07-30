@@ -5,6 +5,18 @@
 **Seasons**: [1963](../results/1963-season-report.md) • [1967](../results/1967-season-report.md) • [1968](../results/1968-season-report.md)
 **Total Race Events**: 5 (15 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1476
+**Peak Qualifying ELO**: 1522 (1963 Round 4 - French Grand Prix)
+**Lowest Qualifying ELO**: 1475 (1967 Round 9 - Italian Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1963 Round 3 - Dutch Grand Prix)
+**Lowest Race ELO**: 1468 (1963 Round 3 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1471
+**Peak Global ELO**: 1493 (1967 Round 9 - Italian Grand Prix)
+**Lowest Global ELO**: 1471 (1963 Round 3 - Dutch Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -24,9 +36,3 @@
 | 1968 | [Round 3: Monaco Grand Prix](../results/1968-season-report.md#round-3-monaco-grand-prix) | 1968-05-26 | qualifying | Cooper-BRM | 15 | 1509 | -33 | 1476 | Lucien Bianchi |
 | 1968 | [Round 3: Monaco Grand Prix](../results/1968-season-report.md#round-3-monaco-grand-prix) | 1968-05-26 | race | Cooper-BRM | DNF | 1468 | N/A | 1468 | Lucien Bianchi |
 | 1968 | [Round 3: Monaco Grand Prix](../results/1968-season-report.md#round-3-monaco-grand-prix) | 1968-05-26 | global | Cooper-BRM | Q:15/R:DNF | 1481 | -10 | 1471 | Lucien Bianchi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1476 (Peak: 1522)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1471 (Peak: 1493)

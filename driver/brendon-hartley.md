@@ -5,6 +5,18 @@
 **Seasons**: [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md)
 **Total Race Events**: 25 (75 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1453
+**Peak Qualifying ELO**: 1527 (2017 Round 19 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1345 (2018 Round 16 - Russian Grand Prix)
+**Race ELO**: 1500 → 1466
+**Peak Race ELO**: 1527 (2018 Round 11 - German Grand Prix)
+**Lowest Race ELO**: 1405 (2018 Round 17 - Japanese Grand Prix)
+**Global ELO**: 1500 → 1461
+**Peak Global ELO**: 1503 (2018 Round 1 - Australian Grand Prix)
+**Lowest Global ELO**: 1402 (2018 Round 16 - Russian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -84,9 +96,3 @@
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | qualifying | Toro Rosso | 16 | 1407 | +45 | 1453 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly |
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | race | Toro Rosso | 12 | 1466 | N/A | 1466 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly |
 | 2018 | [Round 21: Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix) | 2018-11-25 | global | Toro Rosso | Q:16/R:12 | 1448 | +14 | 1461 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1453 (Peak: 1527)
-**Race ELO**: 1500 → 1466 (Peak: 1527)
-**Global ELO**: 1500 → 1461 (Peak: 1503)

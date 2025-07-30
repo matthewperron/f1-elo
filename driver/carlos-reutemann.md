@@ -5,6 +5,18 @@
 **Seasons**: [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md) • [1974](../results/1974-season-report.md) • [1975](../results/1975-season-report.md) • [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md) • [1978](../results/1978-season-report.md) • [1979](../results/1979-season-report.md) • [1980](../results/1980-season-report.md) • [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md)
 **Total Race Events**: 100 (300 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1710
+**Peak Qualifying ELO**: 1774 (1981 Round 15 - Caesars Palace Grand Prix)
+**Lowest Qualifying ELO**: 1484 (1976 Round 8 - French Grand Prix)
+**Race ELO**: 1500 → 1471
+**Peak Race ELO**: 1576 (1976 Round 4 - Spanish Grand Prix)
+**Lowest Race ELO**: 1370 (1980 Round 7 - French Grand Prix)
+**Global ELO**: 1500 → 1543
+**Peak Global ELO**: 1599 (1981 Round 8 - French Grand Prix)
+**Lowest Global ELO**: 1454 (1980 Round 7 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -309,9 +321,3 @@
 | 1982 | [Round 2: Brazilian Grand Prix](../results/1982-season-report.md#round-2-brazilian-grand-prix) | 1982-03-21 | qualifying | Williams | 6 | 1739 | -29 | 1710 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg |
 | 1982 | [Round 2: Brazilian Grand Prix](../results/1982-season-report.md#round-2-brazilian-grand-prix) | 1982-03-21 | race | Williams | DNF | 1471 | N/A | 1471 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg |
 | 1982 | [Round 2: Brazilian Grand Prix](../results/1982-season-report.md#round-2-brazilian-grand-prix) | 1982-03-21 | global | Williams | Q:6/R:DNF | 1551 | -9 | 1543 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1710 (Peak: 1774)
-**Race ELO**: 1500 → 1471 (Peak: 1576)
-**Global ELO**: 1500 → 1543 (Peak: 1599)

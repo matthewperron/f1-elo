@@ -5,6 +5,18 @@
 **Seasons**: [1997](../results/1997-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1457
+**Peak Qualifying ELO**: 1488 (1997 Round 8 - French Grand Prix)
+**Lowest Qualifying ELO**: 1457 (1997 Round 17 - European Grand Prix)
+**Race ELO**: 1500 → 1476
+**Peak Race ELO**: 1476 (1997 Round 17 - European Grand Prix)
+**Lowest Race ELO**: 1476 (1997 Round 17 - European Grand Prix)
+**Global ELO**: 1500 → 1470
+**Peak Global ELO**: 1496 (1997 Round 8 - French Grand Prix)
+**Lowest Global ELO**: 1470 (1997 Round 17 - European Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,9 +33,3 @@
 | 1997 | [Round 17: European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix) | 1997-10-26 | qualifying | Sauber | 18 | 1466 | -10 | 1457 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert |
 | 1997 | [Round 17: European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix) | 1997-10-26 | race | Sauber | 14 | 1500 | -24 | 1476 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert |
 | 1997 | [Round 17: European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix) | 1997-10-26 | global | Sauber | Q:18/R:14 | 1490 | -20 | 1470 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1457 (Peak: 1488)
-**Race ELO**: 1500 → 1476 (Peak: 1476)
-**Global ELO**: 1500 → 1470 (Peak: 1496)

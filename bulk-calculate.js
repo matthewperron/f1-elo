@@ -279,12 +279,7 @@ async function generateComprehensiveDriverFiles() {
         content += `**Seasons**: ${seasonLinks}\n`;
         content += `**Total Race Events**: ${Math.ceil(results.length / 3)} (${results.length} individual ELO calculations)\n\n`;
         
-        // Summary table header
-        content += `## Complete Race-by-Race Results\n\n`;
-        content += `| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |\n`;
-        content += `|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|\n`;
-        
-        // Sort results chronologically, then by session type
+        // Sort results for statistics calculation
         const sortedResults = results.sort((a, b) => {
             if (a.season !== b.season) return parseInt(a.season) - parseInt(b.season);
             if (a.round !== b.round) return a.round - b.round;
@@ -292,6 +287,55 @@ async function generateComprehensiveDriverFiles() {
             const sessionOrder = { 'qualifying': 1, 'race': 2, 'global': 3 };
             return sessionOrder[a.session] - sessionOrder[b.session];
         });
+        
+        // Add career statistics at the top
+        content += `## Career Statistics\n\n`;
+        
+        // ELO progression by type
+        const qualifyingResults = sortedResults.filter(r => r.session === 'qualifying' && r.eloChange !== null);
+        const raceResults = sortedResults.filter(r => r.session === 'race' && r.eloChange !== null);
+        const globalResults = sortedResults.filter(r => r.session === 'global' && r.eloChange !== null);
+        
+        // Find peaks and lows with details
+        if (qualifyingResults.length > 0) {
+            const qualPeakResult = qualifyingResults.reduce((max, r) => r.newElo > max.newElo ? r : max);
+            const qualLowResult = qualifyingResults.reduce((min, r) => r.newElo < min.newElo ? r : min);
+            const qualStart = qualifyingResults[0].startingElo;
+            const qualEnd = qualifyingResults[qualifyingResults.length - 1].newElo;
+            
+            content += `**Qualifying ELO**: ${qualStart} → ${qualEnd}\n`;
+            content += `**Peak Qualifying ELO**: ${qualPeakResult.newElo} (${qualPeakResult.season} Round ${qualPeakResult.round} - ${qualPeakResult.raceName})\n`;
+            content += `**Lowest Qualifying ELO**: ${qualLowResult.newElo} (${qualLowResult.season} Round ${qualLowResult.round} - ${qualLowResult.raceName})\n`;
+        }
+        
+        if (raceResults.length > 0) {
+            const racePeakResult = raceResults.reduce((max, r) => r.newElo > max.newElo ? r : max);
+            const raceLowResult = raceResults.reduce((min, r) => r.newElo < min.newElo ? r : min);
+            const raceStart = raceResults[0].startingElo;
+            const raceEnd = raceResults[raceResults.length - 1].newElo;
+            
+            content += `**Race ELO**: ${raceStart} → ${raceEnd}\n`;
+            content += `**Peak Race ELO**: ${racePeakResult.newElo} (${racePeakResult.season} Round ${racePeakResult.round} - ${racePeakResult.raceName})\n`;
+            content += `**Lowest Race ELO**: ${raceLowResult.newElo} (${raceLowResult.season} Round ${raceLowResult.round} - ${raceLowResult.raceName})\n`;
+        }
+        
+        if (globalResults.length > 0) {
+            const globalPeakResult = globalResults.reduce((max, r) => r.newElo > max.newElo ? r : max);
+            const globalLowResult = globalResults.reduce((min, r) => r.newElo < min.newElo ? r : min);
+            const globalStart = globalResults[0].startingElo;
+            const globalEnd = globalResults[globalResults.length - 1].newElo;
+            
+            content += `**Global ELO**: ${globalStart} → ${globalEnd}\n`;
+            content += `**Peak Global ELO**: ${globalPeakResult.newElo} (${globalPeakResult.season} Round ${globalPeakResult.round} - ${globalPeakResult.raceName})\n`;
+            content += `**Lowest Global ELO**: ${globalLowResult.newElo} (${globalLowResult.season} Round ${globalLowResult.round} - ${globalLowResult.raceName})\n`;
+        }
+        
+        content += `\n`;
+        
+        // Summary table header
+        content += `## Complete Race-by-Race Results\n\n`;
+        content += `| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |\n`;
+        content += `|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|\n`;
         
         // Fill in teammate data by matching opposite entries
         sortedResults.forEach(result => {
@@ -322,35 +366,7 @@ async function generateComprehensiveDriverFiles() {
             
             content += `| ${result.season} | ${raceLink} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${result.teammate} |\n`;
         });
-        
-        // Add career statistics
-        content += `\n## Career Statistics\n\n`;
-        
-        // ELO progression by type
-        const qualifyingResults = sortedResults.filter(r => r.session === 'qualifying' && r.eloChange !== null);
-        const raceResults = sortedResults.filter(r => r.session === 'race' && r.eloChange !== null);
-        const globalResults = sortedResults.filter(r => r.session === 'global' && r.eloChange !== null);
-        
-        if (qualifyingResults.length > 0) {
-            const qualStart = qualifyingResults[0].startingElo;
-            const qualEnd = qualifyingResults[qualifyingResults.length - 1].newElo;
-            const qualPeak = Math.max(...qualifyingResults.map(r => r.newElo));
-            content += `**Qualifying ELO**: ${qualStart} → ${qualEnd} (Peak: ${qualPeak})\n`;
-        }
-        
-        if (raceResults.length > 0) {
-            const raceStart = raceResults[0].startingElo;
-            const raceEnd = raceResults[raceResults.length - 1].newElo;
-            const racePeak = Math.max(...raceResults.map(r => r.newElo));
-            content += `**Race ELO**: ${raceStart} → ${raceEnd} (Peak: ${racePeak})\n`;
-        }
-        
-        if (globalResults.length > 0) {
-            const globalStart = globalResults[0].startingElo;
-            const globalEnd = globalResults[globalResults.length - 1].newElo;
-            const globalPeak = Math.max(...globalResults.map(r => r.newElo));
-            content += `**Global ELO**: ${globalStart} → ${globalEnd} (Peak: ${globalPeak})\n`;
-        }
+
         
         // Save driver file
         const fileName = `driver/${cleanDriverName}.md`;

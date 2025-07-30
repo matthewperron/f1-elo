@@ -5,6 +5,18 @@
 **Seasons**: [2004](../results/2004-season-report.md)
 **Total Race Events**: 18 (54 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1554
+**Peak Qualifying ELO**: 1605 (2004 Round 17 - Japanese Grand Prix)
+**Lowest Qualifying ELO**: 1458 (2004 Round 8 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1530
+**Peak Race ELO**: 1530 (2004 Round 7 - European Grand Prix)
+**Lowest Race ELO**: 1530 (2004 Round 7 - European Grand Prix)
+**Global ELO**: 1500 → 1538
+**Peak Global ELO**: 1553 (2004 Round 17 - Japanese Grand Prix)
+**Lowest Global ELO**: 1490 (2004 Round 1 - Australian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -63,9 +75,3 @@
 | 2004 | [Round 18: Brazilian Grand Prix](../results/2004-season-report.md#round-18-brazilian-grand-prix) | 2004-10-24 | qualifying | Minardi | 20 | 1605 | -51 | 1554 | Zsolt Baumgartner |
 | 2004 | [Round 18: Brazilian Grand Prix](../results/2004-season-report.md#round-18-brazilian-grand-prix) | 2004-10-24 | race | Minardi | DNF | 1530 | N/A | 1530 | Zsolt Baumgartner |
 | 2004 | [Round 18: Brazilian Grand Prix](../results/2004-season-report.md#round-18-brazilian-grand-prix) | 2004-10-24 | global | Minardi | Q:20/R:DNF | 1553 | -15 | 1538 | Zsolt Baumgartner |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1554 (Peak: 1605)
-**Race ELO**: 1500 → 1530 (Peak: 1530)
-**Global ELO**: 1500 → 1538 (Peak: 1553)

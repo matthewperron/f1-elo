@@ -5,6 +5,18 @@
 **Seasons**: [1965](../results/1965-season-report.md) • [1966](../results/1966-season-report.md) • [1967](../results/1967-season-report.md) • [1968](../results/1968-season-report.md) • [1969](../results/1969-season-report.md) • [1971](../results/1971-season-report.md) • [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md)
 **Total Race Events**: 51 (153 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1651
+**Peak Qualifying ELO**: 1743 (1969 Round 8 - Italian Grand Prix)
+**Lowest Qualifying ELO**: 1474 (1966 Round 5 - Dutch Grand Prix)
+**Race ELO**: 1500 → 1575
+**Peak Race ELO**: 1628 (1972 Round 9 - Austrian Grand Prix)
+**Lowest Race ELO**: 1443 (1965 Round 2 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1598
+**Peak Global ELO**: 1649 (1972 Round 11 - Canadian Grand Prix)
+**Lowest Global ELO**: 1454 (1965 Round 2 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -162,9 +174,3 @@
 | 1973 | [Round 13: Italian Grand Prix](../results/1973-season-report.md#round-13-italian-grand-prix) | 1973-09-09 | qualifying | Tyrrell | 6 | 1641 | +11 | 1651 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Cevert |
 | 1973 | [Round 13: Italian Grand Prix](../results/1973-season-report.md#round-13-italian-grand-prix) | 1973-09-09 | race | Tyrrell | 4 | 1552 | +23 | 1575 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Cevert |
 | 1973 | [Round 13: Italian Grand Prix](../results/1973-season-report.md#round-13-italian-grand-prix) | 1973-09-09 | global | Tyrrell | Q:6/R:4 | 1579 | +19 | 1598 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Cevert |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1651 (Peak: 1743)
-**Race ELO**: 1500 → 1575 (Peak: 1628)
-**Global ELO**: 1500 → 1598 (Peak: 1649)

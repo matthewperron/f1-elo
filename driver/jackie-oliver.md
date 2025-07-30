@@ -5,6 +5,18 @@
 **Seasons**: [1969](../results/1969-season-report.md) • [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md) • [1973](../results/1973-season-report.md) • [1977](../results/1977-season-report.md)
 **Total Race Events**: 12 (36 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1472
+**Peak Qualifying ELO**: 1559 (1973 Round 6 - Monaco Grand Prix)
+**Lowest Qualifying ELO**: 1404 (1970 Round 13 - Mexican Grand Prix)
+**Race ELO**: 1500 → 1468
+**Peak Race ELO**: 1468 (1970 Round 13 - Mexican Grand Prix)
+**Lowest Race ELO**: 1468 (1970 Round 13 - Mexican Grand Prix)
+**Global ELO**: 1500 → 1492
+**Peak Global ELO**: 1518 (1973 Round 6 - Monaco Grand Prix)
+**Lowest Global ELO**: 1448 (1970 Round 13 - Mexican Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -45,9 +57,3 @@
 | 1977 | [Round 8: Swedish Grand Prix](../results/1977-season-report.md#round-8-swedish-grand-prix) | 1977-06-19 | qualifying | Shadow | 16 | 1500 | -28 | 1472 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
 | 1977 | [Round 8: Swedish Grand Prix](../results/1977-season-report.md#round-8-swedish-grand-prix) | 1977-06-19 | race | Shadow | 9 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
 | 1977 | [Round 8: Swedish Grand Prix](../results/1977-season-report.md#round-8-swedish-grand-prix) | 1977-06-19 | global | Shadow | Q:16/R:9 | 1500 | -8 | 1492 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1472 (Peak: 1559)
-**Race ELO**: 1500 → 1468 (Peak: 1468)
-**Global ELO**: 1500 → 1492 (Peak: 1518)

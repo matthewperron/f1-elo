@@ -5,6 +5,18 @@
 **Seasons**: [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md)
 **Total Race Events**: 39 (117 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1436
+**Peak Qualifying ELO**: 1542 (2012 Round 11 - Hungarian Grand Prix)
+**Lowest Qualifying ELO**: 1389 (2013 Round 18 - United States Grand Prix)
+**Race ELO**: 1500 → 1516
+**Peak Race ELO**: 1660 (2013 Round 9 - German Grand Prix)
+**Lowest Race ELO**: 1444 (2012 Round 9 - British Grand Prix)
+**Global ELO**: 1500 → 1493
+**Peak Global ELO**: 1608 (2013 Round 8 - British Grand Prix)
+**Lowest Global ELO**: 1445 (2012 Round 9 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -126,9 +138,3 @@
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | qualifying | Caterham | 18 | 1389 | +46 | 1436 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Giedo van der Garde |
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | race | Caterham | DNF | 1516 | N/A | 1516 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Giedo van der Garde |
 | 2013 | [Round 19: Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix) | 2013-11-24 | global | Caterham | Q:18/R:DNF | 1479 | +14 | 1493 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Giedo van der Garde |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1436 (Peak: 1542)
-**Race ELO**: 1500 → 1516 (Peak: 1660)
-**Global ELO**: 1500 → 1493 (Peak: 1608)

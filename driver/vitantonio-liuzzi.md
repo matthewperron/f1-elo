@@ -5,6 +5,18 @@
 **Seasons**: [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md)
 **Total Race Events**: 80 (240 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1524
+**Peak Qualifying ELO**: 1581 (2011 Round 12 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1370 (2010 Round 17 - Korean Grand Prix)
+**Race ELO**: 1500 → 1513
+**Peak Race ELO**: 1590 (2011 Round 9 - British Grand Prix)
+**Lowest Race ELO**: 1429 (2010 Round 10 - British Grand Prix)
+**Global ELO**: 1500 → 1516
+**Peak Global ELO**: 1587 (2011 Round 12 - Belgian Grand Prix)
+**Lowest Global ELO**: 1429 (2010 Round 13 - Belgian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -249,9 +261,3 @@
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | qualifying | HRT | 21 | 1484 | +40 | 1524 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo |
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | race | HRT | DNF | 1513 | N/A | 1513 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo |
 | 2011 | [Round 19: Brazilian Grand Prix](../results/2011-season-report.md#round-19-brazilian-grand-prix) | 2011-11-27 | global | HRT | Q:21/R:DNF | 1504 | +12 | 1516 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1524 (Peak: 1581)
-**Race ELO**: 1500 → 1513 (Peak: 1590)
-**Global ELO**: 1500 → 1516 (Peak: 1587)

@@ -5,6 +5,18 @@
 **Seasons**: [1997](../results/1997-season-report.md) • [1998](../results/1998-season-report.md)
 **Total Race Events**: 33 (99 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1547
+**Peak Qualifying ELO**: 1547 (1998 Round 16 - Japanese Grand Prix)
+**Lowest Qualifying ELO**: 1338 (1998 Round 1 - Australian Grand Prix)
+**Race ELO**: 1500 → 1463
+**Peak Race ELO**: 1476 (1997 Round 1 - Australian Grand Prix)
+**Lowest Race ELO**: 1424 (1997 Round 17 - European Grand Prix)
+**Global ELO**: 1500 → 1488
+**Peak Global ELO**: 1488 (1998 Round 16 - Japanese Grand Prix)
+**Lowest Global ELO**: 1398 (1998 Round 1 - Australian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -108,9 +120,3 @@
 | 1998 | [Round 16: Japanese Grand Prix](../results/1998-season-report.md#round-16-japanese-grand-prix) | 1998-11-01 | qualifying | Minardi | 20 | 1532 | +15 | 1547 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Esteban Tuero |
 | 1998 | [Round 16: Japanese Grand Prix](../results/1998-season-report.md#round-16-japanese-grand-prix) | 1998-11-01 | race | Minardi | DNF | 1463 | N/A | 1463 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Esteban Tuero |
 | 1998 | [Round 16: Japanese Grand Prix](../results/1998-season-report.md#round-16-japanese-grand-prix) | 1998-11-01 | global | Minardi | Q:20/R:DNF | 1483 | +5 | 1488 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Esteban Tuero |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1547 (Peak: 1547)
-**Race ELO**: 1500 → 1463 (Peak: 1476)
-**Global ELO**: 1500 → 1488 (Peak: 1488)

@@ -5,6 +5,15 @@
 **Seasons**: [1968](../results/1968-season-report.md)
 **Total Race Events**: 6 (18 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1599
+**Peak Qualifying ELO**: 1599 (1968 Round 12 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1468 (1968 Round 6 - French Grand Prix)
+**Global ELO**: 1500 → 1530
+**Peak Global ELO**: 1530 (1968 Round 12 - Mexican Grand Prix)
+**Lowest Global ELO**: 1490 (1968 Round 6 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -27,8 +36,3 @@
 | 1968 | [Round 12: Mexican Grand Prix](../results/1968-season-report.md#round-12-mexican-grand-prix) | 1968-11-03 | qualifying | Cooper-BRM | 17 | 1581 | +18 | 1599 | Lucien Bianchi |
 | 1968 | [Round 12: Mexican Grand Prix](../results/1968-season-report.md#round-12-mexican-grand-prix) | 1968-11-03 | race | Cooper-BRM | 8 | 1500 | N/A | 1500 | Lucien Bianchi |
 | 1968 | [Round 12: Mexican Grand Prix](../results/1968-season-report.md#round-12-mexican-grand-prix) | 1968-11-03 | global | Cooper-BRM | Q:17/R:8 | 1524 | +5 | 1530 | Lucien Bianchi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1599 (Peak: 1599)
-**Global ELO**: 1500 → 1530 (Peak: 1530)

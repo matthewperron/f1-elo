@@ -5,6 +5,18 @@
 **Seasons**: [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md)
 **Total Race Events**: 11 (33 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1456
+**Peak Qualifying ELO**: 1484 (2010 Round 3 - Malaysian Grand Prix)
+**Lowest Qualifying ELO**: 1380 (2010 Round 8 - Canadian Grand Prix)
+**Race ELO**: 1500 → 1561
+**Peak Race ELO**: 1561 (2010 Round 10 - British Grand Prix)
+**Lowest Race ELO**: 1532 (2010 Round 9 - European Grand Prix)
+**Global ELO**: 1500 → 1529
+**Peak Global ELO**: 1533 (2010 Round 10 - British Grand Prix)
+**Lowest Global ELO**: 1464 (2010 Round 8 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -42,9 +54,3 @@
 | 2011 | [Round 10: German Grand Prix](../results/2011-season-report.md#round-10-german-grand-prix) | 2011-07-24 | qualifying | Lotus | 20 | 1469 | -13 | 1456 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen |
 | 2011 | [Round 10: German Grand Prix](../results/2011-season-report.md#round-10-german-grand-prix) | 2011-07-24 | race | Lotus | DNF | 1561 | N/A | 1561 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen |
 | 2011 | [Round 10: German Grand Prix](../results/2011-season-report.md#round-10-german-grand-prix) | 2011-07-24 | global | Lotus | Q:20/R:DNF | 1533 | -4 | 1529 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1456 (Peak: 1484)
-**Race ELO**: 1500 → 1561 (Peak: 1561)
-**Global ELO**: 1500 → 1529 (Peak: 1533)

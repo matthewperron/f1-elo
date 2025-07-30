@@ -5,6 +5,18 @@
 **Seasons**: [1998](../results/1998-season-report.md)
 **Total Race Events**: 16 (48 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1311
+**Peak Qualifying ELO**: 1520 (1998 Round 1 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1311 (1998 Round 16 - Japanese Grand Prix)
+**Race ELO**: 1500 → 1461
+**Peak Race ELO**: 1461 (1998 Round 5 - Spanish Grand Prix)
+**Lowest Race ELO**: 1461 (1998 Round 5 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1416
+**Peak Global ELO**: 1506 (1998 Round 1 - Australian Grand Prix)
+**Lowest Global ELO**: 1416 (1998 Round 16 - Japanese Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -57,9 +69,3 @@
 | 1998 | [Round 16: Japanese Grand Prix](../results/1998-season-report.md#round-16-japanese-grand-prix) | 1998-11-01 | qualifying | Minardi | 21 | 1326 | -15 | 1311 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano |
 | 1998 | [Round 16: Japanese Grand Prix](../results/1998-season-report.md#round-16-japanese-grand-prix) | 1998-11-01 | race | Minardi | DNF | 1461 | N/A | 1461 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano |
 | 1998 | [Round 16: Japanese Grand Prix](../results/1998-season-report.md#round-16-japanese-grand-prix) | 1998-11-01 | global | Minardi | Q:21/R:DNF | 1421 | -4 | 1416 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1311 (Peak: 1520)
-**Race ELO**: 1500 → 1461 (Peak: 1461)
-**Global ELO**: 1500 → 1416 (Peak: 1506)

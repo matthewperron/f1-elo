@@ -5,6 +5,15 @@
 **Seasons**: [1972](../results/1972-season-report.md) • [1973](../results/1973-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1375
+**Peak Qualifying ELO**: 1529 (1972 Round 3 - Spanish Grand Prix)
+**Lowest Qualifying ELO**: 1375 (1973 Round 10 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1463
+**Peak Global ELO**: 1509 (1972 Round 3 - Spanish Grand Prix)
+**Lowest Global ELO**: 1463 (1973 Round 10 - Dutch Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,8 +39,3 @@
 | 1973 | [Round 10: Dutch Grand Prix](../results/1973-season-report.md#round-10-dutch-grand-prix) | 1973-07-29 | qualifying | Brabham | 13 | 1390 | -16 | 1375 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann |
 | 1973 | [Round 10: Dutch Grand Prix](../results/1973-season-report.md#round-10-dutch-grand-prix) | 1973-07-29 | race | Brabham | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann |
 | 1973 | [Round 10: Dutch Grand Prix](../results/1973-season-report.md#round-10-dutch-grand-prix) | 1973-07-29 | global | Brabham | Q:13/R:DNF | 1468 | -5 | 1463 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1375 (Peak: 1529)
-**Global ELO**: 1500 → 1463 (Peak: 1509)

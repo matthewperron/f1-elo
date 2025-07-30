@@ -5,6 +5,15 @@
 **Seasons**: [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md)
 **Total Race Events**: 23 (69 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1523
+**Peak Qualifying ELO**: 1706 (1995 Round 17 - Australian Grand Prix)
+**Lowest Qualifying ELO**: 1489 (1995 Round 6 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1507
+**Peak Global ELO**: 1562 (1995 Round 17 - Australian Grand Prix)
+**Lowest Global ELO**: 1496 (1995 Round 6 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -78,8 +87,3 @@
 | 1996 | [Round 9: French Grand Prix](../results/1996-season-report.md#round-9-french-grand-prix) | 1996-06-30 | qualifying | Forti | 21 | 1547 | -24 | 1523 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer |
 | 1996 | [Round 9: French Grand Prix](../results/1996-season-report.md#round-9-french-grand-prix) | 1996-06-30 | race | Forti | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer |
 | 1996 | [Round 9: French Grand Prix](../results/1996-season-report.md#round-9-french-grand-prix) | 1996-06-30 | global | Forti | Q:21/R:DNF | 1514 | -7 | 1507 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1523 (Peak: 1706)
-**Global ELO**: 1500 → 1507 (Peak: 1562)

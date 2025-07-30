@@ -5,6 +5,18 @@
 **Seasons**: [1989](../results/1989-season-report.md) • [1990](../results/1990-season-report.md) • [1991](../results/1991-season-report.md) • [1994](../results/1994-season-report.md)
 **Total Race Events**: 42 (126 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1359
+**Peak Qualifying ELO**: 1597 (1991 Round 5 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1359 (1994 Round 14 - European Grand Prix)
+**Race ELO**: 1500 → 1382
+**Peak Race ELO**: 1506 (1990 Round 8 - British Grand Prix)
+**Lowest Race ELO**: 1361 (1994 Round 11 - Belgian Grand Prix)
+**Global ELO**: 1500 → 1374
+**Peak Global ELO**: 1533 (1991 Round 5 - Canadian Grand Prix)
+**Lowest Global ELO**: 1372 (1994 Round 10 - Hungarian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -135,9 +147,3 @@
 | 1994 | [Round 14: European Grand Prix](../results/1994-season-report.md#round-14-european-grand-prix) | 1994-10-16 | qualifying | Ligier | 22 | 1389 | -30 | 1359 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi |
 | 1994 | [Round 14: European Grand Prix](../results/1994-season-report.md#round-14-european-grand-prix) | 1994-10-16 | race | Ligier | 18 | 1414 | -32 | 1382 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi |
 | 1994 | [Round 14: European Grand Prix](../results/1994-season-report.md#round-14-european-grand-prix) | 1994-10-16 | global | Ligier | Q:22/R:18 | 1406 | -31 | 1374 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1359 (Peak: 1597)
-**Race ELO**: 1500 → 1382 (Peak: 1506)
-**Global ELO**: 1500 → 1374 (Peak: 1533)

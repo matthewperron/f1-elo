@@ -5,6 +5,18 @@
 **Seasons**: [1981](../results/1981-season-report.md)
 **Total Race Events**: 9 (27 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1381
+**Peak Qualifying ELO**: 1478 (1981 Round 2 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1381 (1981 Round 12 - Dutch Grand Prix)
+**Race ELO**: 1500 → 1465
+**Peak Race ELO**: 1465 (1981 Round 3 - Argentine Grand Prix)
+**Lowest Race ELO**: 1465 (1981 Round 3 - Argentine Grand Prix)
+**Global ELO**: 1500 → 1440
+**Peak Global ELO**: 1493 (1981 Round 2 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1440 (1981 Round 12 - Dutch Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -36,9 +48,3 @@
 | 1981 | [Round 12: Dutch Grand Prix](../results/1981-season-report.md#round-12-dutch-grand-prix) | 1981-08-30 | qualifying | Arrows | 21 | 1389 | -8 | 1381 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese |
 | 1981 | [Round 12: Dutch Grand Prix](../results/1981-season-report.md#round-12-dutch-grand-prix) | 1981-08-30 | race | Arrows | 7 | 1465 | N/A | 1465 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese |
 | 1981 | [Round 12: Dutch Grand Prix](../results/1981-season-report.md#round-12-dutch-grand-prix) | 1981-08-30 | global | Arrows | Q:21/R:7 | 1442 | -2 | 1440 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1381 (Peak: 1478)
-**Race ELO**: 1500 → 1465 (Peak: 1465)
-**Global ELO**: 1500 → 1440 (Peak: 1493)

@@ -5,6 +5,18 @@
 **Seasons**: [1992](../results/1992-season-report.md) • [1993](../results/1993-season-report.md) • [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md) • [1996](../results/1996-season-report.md) • [1997](../results/1997-season-report.md)
 **Total Race Events**: 95 (285 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1460
+**Peak Qualifying ELO**: 1523 (1992 Round 1 - South African Grand Prix)
+**Lowest Qualifying ELO**: 1267 (1996 Round 9 - French Grand Prix)
+**Race ELO**: 1500 → 1416
+**Peak Race ELO**: 1518 (1994 Round 14 - European Grand Prix)
+**Lowest Race ELO**: 1407 (1996 Round 15 - Portuguese Grand Prix)
+**Global ELO**: 1500 → 1428
+**Peak Global ELO**: 1513 (1994 Round 14 - European Grand Prix)
+**Lowest Global ELO**: 1381 (1997 Round 7 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -294,9 +306,3 @@
 | 1997 | [Round 17: European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix) | 1997-10-26 | qualifying | Minardi | 19 | 1431 | +29 | 1460 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques |
 | 1997 | [Round 17: European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix) | 1997-10-26 | race | Minardi | 17 | 1447 | -31 | 1416 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques |
 | 1997 | [Round 17: European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix) | 1997-10-26 | global | Minardi | Q:19/R:17 | 1441 | -13 | 1428 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1460 (Peak: 1523)
-**Race ELO**: 1500 → 1416 (Peak: 1518)
-**Global ELO**: 1500 → 1428 (Peak: 1513)

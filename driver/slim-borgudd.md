@@ -5,6 +5,18 @@
 **Seasons**: [1981](../results/1981-season-report.md) • [1982](../results/1982-season-report.md)
 **Total Race Events**: 4 (12 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1389
+**Peak Qualifying ELO**: 1468 (1981 Round 4 - San Marino Grand Prix)
+**Lowest Qualifying ELO**: 1389 (1982 Round 3 - United States Grand Prix West)
+**Race ELO**: 1500 → 1463
+**Peak Race ELO**: 1463 (1982 Round 2 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1463 (1982 Round 2 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1441
+**Peak Global ELO**: 1490 (1981 Round 4 - San Marino Grand Prix)
+**Lowest Global ELO**: 1441 (1982 Round 3 - United States Grand Prix West)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -21,9 +33,3 @@
 | 1982 | [Round 3: United States Grand Prix West](../results/1982-season-report.md#round-3-united-states-grand-prix-west) | 1982-04-04 | qualifying | Tyrrell | 24 | 1411 | -21 | 1389 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
 | 1982 | [Round 3: United States Grand Prix West](../results/1982-season-report.md#round-3-united-states-grand-prix-west) | 1982-04-04 | race | Tyrrell | DNF | 1463 | N/A | 1463 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
 | 1982 | [Round 3: United States Grand Prix West](../results/1982-season-report.md#round-3-united-states-grand-prix-west) | 1982-04-04 | global | Tyrrell | Q:24/R:DNF | 1447 | -6 | 1441 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1389 (Peak: 1468)
-**Race ELO**: 1500 → 1463 (Peak: 1463)
-**Global ELO**: 1500 → 1441 (Peak: 1490)

@@ -5,6 +5,18 @@
 **Seasons**: [1968](../results/1968-season-report.md) • [1969](../results/1969-season-report.md) • [1970](../results/1970-season-report.md) • [1971](../results/1971-season-report.md)
 **Total Race Events**: 12 (36 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1572
+**Peak Qualifying ELO**: 1618 (1968 Round 12 - Mexican Grand Prix)
+**Lowest Qualifying ELO**: 1526 (1968 Round 1 - South African Grand Prix)
+**Race ELO**: 1500 → 1532
+**Peak Race ELO**: 1532 (1970 Round 13 - Mexican Grand Prix)
+**Lowest Race ELO**: 1532 (1970 Round 13 - Mexican Grand Prix)
+**Global ELO**: 1500 → 1544
+**Peak Global ELO**: 1557 (1970 Round 13 - Mexican Grand Prix)
+**Lowest Global ELO**: 1508 (1968 Round 1 - South African Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -45,9 +57,3 @@
 | 1971 | [Round 3: Monaco Grand Prix](../results/1971-season-report.md#round-3-monaco-grand-prix) | 1971-05-23 | qualifying | BRM | 5 | 1614 | -42 | 1572 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
 | 1971 | [Round 3: Monaco Grand Prix](../results/1971-season-report.md#round-3-monaco-grand-prix) | 1971-05-23 | race | BRM | DNF | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
 | 1971 | [Round 3: Monaco Grand Prix](../results/1971-season-report.md#round-3-monaco-grand-prix) | 1971-05-23 | global | BRM | Q:5/R:DNF | 1557 | -13 | 1544 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1572 (Peak: 1618)
-**Race ELO**: 1500 → 1532 (Peak: 1532)
-**Global ELO**: 1500 → 1544 (Peak: 1557)

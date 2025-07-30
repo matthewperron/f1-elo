@@ -5,6 +5,18 @@
 **Seasons**: [1975](../results/1975-season-report.md) • [1977](../results/1977-season-report.md)
 **Total Race Events**: 10 (30 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1490
+**Peak Qualifying ELO**: 1554 (1977 Round 2 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1445 (1977 Round 13 - Dutch Grand Prix)
+**Race ELO**: 1500 → 1532
+**Peak Race ELO**: 1532 (1977 Round 13 - Dutch Grand Prix)
+**Lowest Race ELO**: 1532 (1977 Round 13 - Dutch Grand Prix)
+**Global ELO**: 1500 → 1519
+**Peak Global ELO**: 1519 (1977 Round 14 - Italian Grand Prix)
+**Lowest Global ELO**: 1496 (1977 Round 9 - French Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -39,9 +51,3 @@
 | 1977 | [Round 14: Italian Grand Prix](../results/1977-season-report.md#round-14-italian-grand-prix) | 1977-09-11 | qualifying | March | 17 | 1445 | +45 | 1490 | Patrick Nève |
 | 1977 | [Round 14: Italian Grand Prix](../results/1977-season-report.md#round-14-italian-grand-prix) | 1977-09-11 | race | March | DNF | 1532 | N/A | 1532 | Patrick Nève |
 | 1977 | [Round 14: Italian Grand Prix](../results/1977-season-report.md#round-14-italian-grand-prix) | 1977-09-11 | global | March | Q:17/R:DNF | 1506 | +14 | 1519 | Patrick Nève |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1490 (Peak: 1554)
-**Race ELO**: 1500 → 1532 (Peak: 1532)
-**Global ELO**: 1500 → 1519 (Peak: 1519)

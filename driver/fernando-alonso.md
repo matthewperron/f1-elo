@@ -5,6 +5,18 @@
 **Seasons**: [2001](../results/2001-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md) • [2005](../results/2005-season-report.md) • [2006](../results/2006-season-report.md) • [2007](../results/2007-season-report.md) • [2008](../results/2008-season-report.md) • [2009](../results/2009-season-report.md) • [2010](../results/2010-season-report.md) • [2011](../results/2011-season-report.md) • [2012](../results/2012-season-report.md) • [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md) • [2025](../results/2025-season-report.md)
 **Total Race Events**: 415 (1245 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1616
+**Peak Qualifying ELO**: 2030 (2011 Round 10 - German Grand Prix)
+**Lowest Qualifying ELO**: 1404 (2021 Round 5 - Monaco Grand Prix)
+**Race ELO**: 1500 → 1581
+**Peak Race ELO**: 2070 (2013 Round 15 - Japanese Grand Prix)
+**Lowest Race ELO**: 1399 (2021 Round 5 - Monaco Grand Prix)
+**Global ELO**: 1500 → 1593
+**Peak Global ELO**: 2027 (2012 Round 19 - United States Grand Prix)
+**Lowest Global ELO**: 1400 (2021 Round 5 - Monaco Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -1254,9 +1266,3 @@
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | qualifying | Aston Martin | 20 | 1677 | -60 | 1616 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | race | Aston Martin | 17 | 1626 | -45 | 1581 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
 | 2025 | [Round 13: Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix) | 2025-07-27 | global | Aston Martin | Q:20/R:17 | 1642 | -49 | 1593 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1616 (Peak: 2030)
-**Race ELO**: 1500 → 1581 (Peak: 2070)
-**Global ELO**: 1500 → 1593 (Peak: 2027)

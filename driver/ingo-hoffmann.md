@@ -5,6 +5,18 @@
 **Seasons**: [1976](../results/1976-season-report.md) • [1977](../results/1977-season-report.md)
 **Total Race Events**: 3 (9 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1441
+**Peak Qualifying ELO**: 1477 (1976 Round 1 - Brazilian Grand Prix)
+**Lowest Qualifying ELO**: 1441 (1977 Round 2 - Brazilian Grand Prix)
+**Race ELO**: 1500 → 1497
+**Peak Race ELO**: 1534 (1976 Round 1 - Brazilian Grand Prix)
+**Lowest Race ELO**: 1497 (1977 Round 2 - Brazilian Grand Prix)
+**Global ELO**: 1500 → 1481
+**Peak Global ELO**: 1517 (1976 Round 1 - Brazilian Grand Prix)
+**Lowest Global ELO**: 1481 (1977 Round 2 - Brazilian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -18,9 +30,3 @@
 | 1977 | [Round 2: Brazilian Grand Prix](../results/1977-season-report.md#round-2-brazilian-grand-prix) | 1977-01-23 | qualifying | Fittipaldi | 19 | 1458 | -16 | 1441 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi |
 | 1977 | [Round 2: Brazilian Grand Prix](../results/1977-season-report.md#round-2-brazilian-grand-prix) | 1977-01-23 | race | Fittipaldi | 7 | 1534 | -37 | 1497 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi |
 | 1977 | [Round 2: Brazilian Grand Prix](../results/1977-season-report.md#round-2-brazilian-grand-prix) | 1977-01-23 | global | Fittipaldi | Q:19/R:7 | 1511 | -31 | 1481 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1441 (Peak: 1477)
-**Race ELO**: 1500 → 1497 (Peak: 1534)
-**Global ELO**: 1500 → 1481 (Peak: 1517)

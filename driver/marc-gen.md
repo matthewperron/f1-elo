@@ -5,6 +5,18 @@
 **Seasons**: [1999](../results/1999-season-report.md) • [2000](../results/2000-season-report.md) • [2003](../results/2003-season-report.md) • [2004](../results/2004-season-report.md)
 **Total Race Events**: 36 (108 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1433
+**Peak Qualifying ELO**: 1629 (2000 Round 10 - Austrian Grand Prix)
+**Lowest Qualifying ELO**: 1382 (1999 Round 14 - European Grand Prix)
+**Race ELO**: 1500 → 1432
+**Peak Race ELO**: 1627 (2000 Round 14 - Italian Grand Prix)
+**Lowest Race ELO**: 1432 (2004 Round 11 - British Grand Prix)
+**Global ELO**: 1500 → 1432
+**Peak Global ELO**: 1625 (2000 Round 14 - Italian Grand Prix)
+**Lowest Global ELO**: 1432 (2004 Round 11 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -117,9 +129,3 @@
 | 2004 | [Round 11: British Grand Prix](../results/2004-season-report.md#round-11-british-grand-prix) | 2004-07-11 | qualifying | Williams | 11 | 1447 | -14 | 1433 | Juan Pablo Montoya |
 | 2004 | [Round 11: British Grand Prix](../results/2004-season-report.md#round-11-british-grand-prix) | 2004-07-11 | race | Williams | 12 | 1452 | -20 | 1432 | Juan Pablo Montoya |
 | 2004 | [Round 11: British Grand Prix](../results/2004-season-report.md#round-11-british-grand-prix) | 2004-07-11 | global | Williams | Q:11/R:12 | 1450 | -18 | 1432 | Juan Pablo Montoya |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1433 (Peak: 1629)
-**Race ELO**: 1500 → 1432 (Peak: 1627)
-**Global ELO**: 1500 → 1432 (Peak: 1625)

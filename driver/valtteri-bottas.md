@@ -5,6 +5,18 @@
 **Seasons**: [2013](../results/2013-season-report.md) • [2014](../results/2014-season-report.md) • [2015](../results/2015-season-report.md) • [2016](../results/2016-season-report.md) • [2017](../results/2017-season-report.md) • [2018](../results/2018-season-report.md) • [2019](../results/2019-season-report.md) • [2020](../results/2020-season-report.md) • [2021](../results/2021-season-report.md) • [2022](../results/2022-season-report.md) • [2023](../results/2023-season-report.md) • [2024](../results/2024-season-report.md)
 **Total Race Events**: 247 (741 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1740
+**Peak Qualifying ELO**: 1879 (2016 Round 7 - Canadian Grand Prix)
+**Lowest Qualifying ELO**: 1507 (2013 Round 3 - Chinese Grand Prix)
+**Race ELO**: 1500 → 1485
+**Peak Race ELO**: 1657 (2018 Round 3 - Chinese Grand Prix)
+**Lowest Race ELO**: 1404 (2016 Round 3 - Chinese Grand Prix)
+**Global ELO**: 1500 → 1557
+**Peak Global ELO**: 1711 (2018 Round 3 - Chinese Grand Prix)
+**Lowest Global ELO**: 1479 (2013 Round 17 - Abu Dhabi Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -750,9 +762,3 @@
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | qualifying | Sauber | 9 | 1725 | +15 | 1740 | Guanyu Zhou |
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | race | Sauber | DNF | 1485 | N/A | 1485 | Guanyu Zhou |
 | 2024 | [Round 24: Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix) | 2024-12-08 | global | Sauber | Q:9/R:DNF | 1553 | +5 | 1557 | Guanyu Zhou |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1740 (Peak: 1879)
-**Race ELO**: 1500 → 1485 (Peak: 1657)
-**Global ELO**: 1500 → 1557 (Peak: 1711)

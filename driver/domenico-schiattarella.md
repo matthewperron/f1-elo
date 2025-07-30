@@ -5,6 +5,15 @@
 **Seasons**: [1994](../results/1994-season-report.md) • [1995](../results/1995-season-report.md)
 **Total Race Events**: 7 (21 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1431
+**Peak Qualifying ELO**: 1474 (1994 Round 14 - European Grand Prix)
+**Lowest Qualifying ELO**: 1380 (1995 Round 4 - Spanish Grand Prix)
+**Global ELO**: 1500 → 1480
+**Peak Global ELO**: 1492 (1994 Round 14 - European Grand Prix)
+**Lowest Global ELO**: 1464 (1995 Round 4 - Spanish Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -30,8 +39,3 @@
 | 1995 | [Round 5: Monaco Grand Prix](../results/1995-season-report.md#round-5-monaco-grand-prix) | 1995-05-28 | qualifying | Simtek | 20 | 1380 | +51 | 1431 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen |
 | 1995 | [Round 5: Monaco Grand Prix](../results/1995-season-report.md#round-5-monaco-grand-prix) | 1995-05-28 | race | Simtek | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen |
 | 1995 | [Round 5: Monaco Grand Prix](../results/1995-season-report.md#round-5-monaco-grand-prix) | 1995-05-28 | global | Simtek | Q:20/R:DNF | 1464 | +15 | 1480 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1431 (Peak: 1474)
-**Global ELO**: 1500 → 1480 (Peak: 1492)

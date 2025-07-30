@@ -5,6 +5,18 @@
 **Seasons**: [1982](../results/1982-season-report.md) • [1983](../results/1983-season-report.md)
 **Total Race Events**: 24 (72 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1288
+**Peak Qualifying ELO**: 1465 (1982 Round 5 - Belgian Grand Prix)
+**Lowest Qualifying ELO**: 1274 (1983 Round 10 - German Grand Prix)
+**Race ELO**: 1500 → 1509
+**Peak Race ELO**: 1509 (1983 Round 9 - British Grand Prix)
+**Lowest Race ELO**: 1468 (1982 Round 8 - Canadian Grand Prix)
+**Global ELO**: 1500 → 1443
+**Peak Global ELO**: 1491 (1982 Round 9 - Dutch Grand Prix)
+**Lowest Global ELO**: 1418 (1983 Round 8 - Canadian Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -81,9 +93,3 @@
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | qualifying | Alfa Romeo | 17 | 1297 | -9 | 1288 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris |
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | race | Alfa Romeo | DNF | 1509 | N/A | 1509 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris |
 | 1983 | [Round 15: South African Grand Prix](../results/1983-season-report.md#round-15-south-african-grand-prix) | 1983-10-15 | global | Alfa Romeo | Q:17/R:DNF | 1445 | -3 | 1443 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1288 (Peak: 1465)
-**Race ELO**: 1500 → 1509 (Peak: 1509)
-**Global ELO**: 1500 → 1443 (Peak: 1491)

@@ -5,6 +5,18 @@
 **Seasons**: [1962](../results/1962-season-report.md) • [1964](../results/1964-season-report.md) • [1965](../results/1965-season-report.md) • [1967](../results/1967-season-report.md) • [1968](../results/1968-season-report.md) • [1969](../results/1969-season-report.md)
 **Total Race Events**: 33 (99 individual ELO calculations)
 
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1303
+**Peak Qualifying ELO**: 1700 (1965 Round 6 - Dutch Grand Prix)
+**Lowest Qualifying ELO**: 1303 (1969 Round 11 - Mexican Grand Prix)
+**Race ELO**: 1500 → 1528
+**Peak Race ELO**: 1585 (1965 Round 8 - Italian Grand Prix)
+**Lowest Race ELO**: 1457 (1968 Round 7 - British Grand Prix)
+**Global ELO**: 1500 → 1461
+**Peak Global ELO**: 1604 (1965 Round 10 - Mexican Grand Prix)
+**Lowest Global ELO**: 1434 (1968 Round 7 - British Grand Prix)
+
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
@@ -108,9 +120,3 @@
 | 1969 | [Round 11: Mexican Grand Prix](../results/1969-season-report.md#round-11-mexican-grand-prix) | 1969-10-19 | qualifying | McLaren-Ford | 7 | 1322 | -19 | 1303 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Denny Hulme |
 | 1969 | [Round 11: Mexican Grand Prix](../results/1969-season-report.md#round-11-mexican-grand-prix) | 1969-10-19 | race | McLaren-Ford | DNF | 1528 | N/A | 1528 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Denny Hulme |
 | 1969 | [Round 11: Mexican Grand Prix](../results/1969-season-report.md#round-11-mexican-grand-prix) | 1969-10-19 | global | McLaren-Ford | Q:7/R:DNF | 1466 | -6 | 1461 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Denny Hulme |
-
-## Career Statistics
-
-**Qualifying ELO**: 1500 → 1303 (Peak: 1700)
-**Race ELO**: 1500 → 1528 (Peak: 1585)
-**Global ELO**: 1500 → 1461 (Peak: 1604)
