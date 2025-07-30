@@ -280,31 +280,37 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     
     // Initialize drivers if not seen before
     if (!drivers.has(driver1.driver.driverId)) {
-        const startingElo = startingELOs.get(driver1.driver.driverId) || initialElo;
+        const startingELOData = startingELOs.get(driver1.driver.driverId);
+        const qualifyingElo = startingELOData?.qualifyingElo || initialElo;
+        const raceElo = startingELOData?.raceElo || initialElo;
+        const globalElo = startingELOData?.globalElo || initialElo;
         const flag = getCountryFlag(driver1.driver);
         const flagEmoji = getCountryFlagEmoji(driver1.driver);
         drivers.set(driver1.driver.driverId, {
             name: `${flag} ${driver1.driver.givenName} ${driver1.driver.familyName}`.trim(),
             consoleName: `${flagEmoji} ${driver1.driver.givenName} ${driver1.driver.familyName}`.trim(),
             constructor: driver1.constructor.name,
-            startingElo: startingElo,
-            qualifyingElo: startingElo,
-            raceElo: startingElo,
-            globalElo: startingElo
+            startingElo: globalElo, // Use global ELO as the main starting ELO for display
+            qualifyingElo: qualifyingElo,
+            raceElo: raceElo,
+            globalElo: globalElo
         });
     }
     if (!drivers.has(driver2.driver.driverId)) {
-        const startingElo = startingELOs.get(driver2.driver.driverId) || initialElo;
+        const startingELOData = startingELOs.get(driver2.driver.driverId);
+        const qualifyingElo = startingELOData?.qualifyingElo || initialElo;
+        const raceElo = startingELOData?.raceElo || initialElo;
+        const globalElo = startingELOData?.globalElo || initialElo;
         const flag = getCountryFlag(driver2.driver);
         const flagEmoji = getCountryFlagEmoji(driver2.driver);
         drivers.set(driver2.driver.driverId, {
             name: `${flag} ${driver2.driver.givenName} ${driver2.driver.familyName}`.trim(),
             consoleName: `${flagEmoji} ${driver2.driver.givenName} ${driver2.driver.familyName}`.trim(),
             constructor: driver2.constructor.name,
-            startingElo: startingElo,
-            qualifyingElo: startingElo,
-            raceElo: startingElo,
-            globalElo: startingElo
+            startingElo: globalElo, // Use global ELO as the main starting ELO for display
+            qualifyingElo: qualifyingElo,
+            raceElo: raceElo,
+            globalElo: globalElo
         });
     }
     
@@ -599,7 +605,11 @@ ${table}
 async function saveFinalELOs(driverRatings, raceData, season) {
     const finalELOs = {};
     driverRatings.forEach(driver => {
-        finalELOs[driver.driverId] = driver.globalElo;
+        finalELOs[driver.driverId] = {
+            qualifyingElo: driver.qualifyingElo,
+            raceElo: driver.raceElo,
+            globalElo: driver.globalElo
+        };
     });
     
     // Update race data with final ELOs
@@ -609,7 +619,7 @@ async function saveFinalELOs(driverRatings, raceData, season) {
     const jsonString = JSON.stringify(raceData, null, 2);
     await fs.writeFile(outputFile, jsonString, 'utf8');
     
-    console.log(`✓ Final ELOs saved to ${outputFile}`);
+    console.log(`✓ Final ELOs (qualifying, race, global) saved to ${outputFile}`);
 }
 
 /**
