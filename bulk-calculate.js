@@ -68,38 +68,69 @@ function updatePeakELOs(driverRatings, raceEvents, season) {
  */
 async function generatePeakELOFile() {
     // Helper function to create a table for a specific ELO type
-    function createPeakTable(peakMap, eloType, title) {
+    function createPeakTable(peakMap, eloType, title, description) {
         const peakDrivers = Array.from(peakMap.entries())
             .map(([driverId, data]) => ({ driverId, ...data }))
             .sort((a, b) => b.peak - a.peak);
         
         let tableContent = `## ${title}\n\n`;
+        tableContent += `${description}\n\n`;
         tableContent += `| Rank | Driver | Peak ELO | Constructor | Date | Season | Teammate | Teammate ELO | Race |\n`;
         tableContent += `|------|--------|----------|-------------|------|--------|----------|--------------|------|\n`;
         
         peakDrivers.forEach((driver, index) => {
+            // Create driver file link (remove flags and clean name for URL)
+            const cleanDriverName = driver.name
+                .replace(/<img[^>]*>/g, '') // Remove entire img tags
+                .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
+                .trim() // Trim whitespace first
+                .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
+                .replace(/\s+/g, '-') // Replace spaces with hyphens
+                .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
+                .toLowerCase();
+            
+            const driverLink = `[${driver.name}](./drivers/${cleanDriverName})`;
+            
             // Create anchor link for the specific race (format: round-{number}-{racename})
             const roundNumber = driver.round || 'unknown';
             const raceTitle = `Round ${roundNumber}: ${driver.race}`;
             const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const raceLink = `[${raceTitle}](./docs/seasons/${driver.season}-season-report#${raceAnchor})`;
-            tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${raceLink} |\n`;
+            const raceLink = `[${raceTitle}](./seasons/${driver.season}-season-report#${raceAnchor})`;
+            tableContent += `| ${index + 1} | ${driverLink} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${raceLink} |\n`;
         });
         
         return { content: tableContent, drivers: peakDrivers };
     }
     
-    // Create content with explanation
+    // Create content with explanation and navigation
     let content = `# F1 Driver Peak ELO Ratings\n\n`;
     content += `This file contains the highest ELO ratings ever achieved by each Formula 1 driver across three categories:\n\n`;
-    content += `- **Qualifying ELO**: Based solely on qualifying performance vs teammates\n`;
-    content += `- **Race ELO**: Based solely on race finishing position vs teammates\n`;
-    content += `- **Global ELO**: Combined rating (30% qualifying + 70% race performance)\n\n`;
     
-    // Generate all three tables
-    const globalTable = createPeakTable(globalPeakELOs, 'global', 'Peak Global ELO Rankings (30% Qualifying + 70% Race)');
-    const qualifyingTable = createPeakTable(qualifyingPeakELOs, 'qualifying', 'Peak Qualifying ELO Rankings');
-    const raceTable = createPeakTable(racePeakELOs, 'race', 'Peak Race ELO Rankings');
+    // Navigation links
+    content += `## Quick Navigation\n\n`;
+    content += `- [Overall ELO Rankings](#overall-elo-rankings) - Combined performance (30% qualifying + 70% race)\n`;
+    content += `- [Qualifying ELO Rankings](#qualifying-elo-rankings) - Grid position performance vs teammates\n`;
+    content += `- [Race ELO Rankings](#race-elo-rankings) - Finishing position performance vs teammates\n\n`;
+    
+    // Generate all three tables with descriptions
+    const globalTable = createPeakTable(
+        globalPeakELOs, 
+        'global', 
+        'Overall ELO Rankings',
+        'Combines qualifying (30%) and race (70%) ELO changes with weighted calculation.'
+    );
+    const qualifyingTable = createPeakTable(
+        qualifyingPeakELOs, 
+        'qualifying', 
+        'Qualifying ELO Rankings',
+        'Based solely on qualifying performance (grid positions) compared to teammates.'
+    );
+    const raceTable = createPeakTable(
+        racePeakELOs, 
+        'race', 
+        'Race ELO Rankings',
+        'Based solely on race finishing positions compared to teammates.'
+    );
     
     // Add tables to content (Global first as it's most important)
     content += globalTable.content + '\n';
