@@ -497,8 +497,35 @@ function generateELOTable(driverRatings, season, isGithubPages = false) {
         
         // Different link formats for README vs GitHub Pages
         const driverLink = isGithubPages 
-            ? `[${driver.name}](../drivers/${cleanDriverName}-${season})` // No .md for GitHub Pages
-            : `[${driver.name}](../drivers/${cleanDriverName}-${season}.md)`; // Keep .md for README
+            ? `[${driver.name}](../drivers/${cleanDriverName})` // No .md for GitHub Pages
+            : `[${driver.name}](../drivers/${cleanDriverName}.md)`; // Keep .md for README
+        
+        table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
+    });
+    
+    return table;
+}
+
+/**
+ * Generate ELO table for season reports (links to comprehensive driver files)
+ */
+function generateSeasonReportELOTable(driverRatings) {
+    let table = '| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |\n';
+    table += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
+    
+    driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
+        // Create driver file link (comprehensive files, no season suffix)
+        const cleanDriverName = driver.name
+            .replace(/<img[^>]*>/g, '') // Remove entire img tags
+            .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
+            .trim() // Trim whitespace first
+            .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
+            .replace(/\s+/g, '-') // Replace spaces with hyphens
+            .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
+            .toLowerCase();
+        
+        // Season reports are in docs/seasons/, linking to comprehensive driver files in docs/drivers/
+        const driverLink = `[${driver.name}](../drivers/${cleanDriverName})`;
         
         table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
     });
@@ -517,7 +544,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     
     // Final ELO Table
     content += `## Final ELO Ratings\n\n`;
-    content += generateELOTable(driverRatings, season, true); // true for GitHub Pages format
+    content += generateSeasonReportELOTable(driverRatings); // Generate table for season report
     
     // Race-by-race details
     content += `## Race-by-Race ELO Changes\n\n`;
