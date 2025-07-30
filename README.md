@@ -79,7 +79,7 @@ The following table shows current ELO ratings for all F1 drivers (updated automa
 
 <!-- ELO_RESULTS_START -->
 ### ELO Ratings (2025 Season)
-*Last updated: 2025-07-30 18:42*
+*Last updated: 2025-07-30 18:53*
 
 | Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
 |------|--------------|--------|-------------|----------------|----------|-----|

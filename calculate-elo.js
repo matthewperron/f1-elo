@@ -478,9 +478,9 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
 }
 
 /**
- * Generate markdown table for README
+ * Generate markdown table for README or index
  */
-function generateELOTable(driverRatings, season) {
+function generateELOTable(driverRatings, season, isGithubPages = false) {
     let table = '| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |\n';
     table += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
     
@@ -495,7 +495,10 @@ function generateELOTable(driverRatings, season) {
             .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
             .toLowerCase();
         
-        const driverLink = `[${driver.name}](../drivers/${cleanDriverName}-${season}.md)`;
+        // Different link formats for README vs GitHub Pages
+        const driverLink = isGithubPages 
+            ? `[${driver.name}](../drivers/${cleanDriverName}-${season})` // No .md for GitHub Pages
+            : `[${driver.name}](../drivers/${cleanDriverName}-${season}.md)`; // Keep .md for README
         
         table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
     });
@@ -514,7 +517,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     
     // Final ELO Table
     content += `## Final ELO Ratings\n\n`;
-    content += generateELOTable(driverRatings, season);
+    content += generateELOTable(driverRatings, season, true); // true for GitHub Pages format
     
     // Race-by-race details
     content += `## Race-by-Race ELO Changes\n\n`;
@@ -634,22 +637,26 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
  */
 async function updateHomepageFiles(driverRatings, season) {
     try {
-        const files = ['./README.md', './docs/index.md'];
+        const files = [
+            { path: './README.md', isGithubPages: false },
+            { path: './docs/index.md', isGithubPages: true }
+        ];
         
-        const table = generateELOTable(driverRatings, season);
         const now = new Date();
         const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
         
-        const newContent = `### ELO Ratings (${season} Season)
+        for (const file of files) {
+            try {
+                const table = generateELOTable(driverRatings, season, file.isGithubPages);
+                
+                const newContent = `### ELO Ratings (${season} Season)
 *Last updated: ${timestamp}*
 
 ${table}
 
 `;
-        
-        for (const filePath of files) {
-            try {
-                const fileContent = await fs.readFile(filePath, 'utf8');
+                
+                const fileContent = await fs.readFile(file.path, 'utf8');
                 
                 // Replace content between markers
                 const updatedContent = fileContent.replace(
@@ -657,10 +664,10 @@ ${table}
                     `<!-- ELO_RESULTS_START -->\n${newContent}\n<!-- ELO_RESULTS_END -->`
                 );
                 
-                await fs.writeFile(filePath, updatedContent, 'utf8');
-                console.log(`✓ ${filePath} updated with ELO ratings`);
+                await fs.writeFile(file.path, updatedContent, 'utf8');
+                console.log(`✓ ${file.path} updated with ELO ratings`);
             } catch (error) {
-                console.error(`Error updating ${filePath}:`, error);
+                console.error(`Error updating ${file.path}:`, error);
                 // Continue with other files even if one fails
             }
         }
