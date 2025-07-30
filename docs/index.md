@@ -6,7 +6,7 @@ Welcome! This site hosts historical ELO rankings for all Formula 1 drivers since
 
 - [Project on GitHub](https://github.com/matthewperron/f1-elo)
 - [See the peak elo driver ratings](./peak-elo.md)
-- [How it works](https://github.com/matthewperron/f1-elo/readme.md)
+- [How it works](https://github.com/matthewperron/f1-elo/blob/main/docs/index.md)
 
 ---
 
