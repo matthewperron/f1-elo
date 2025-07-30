@@ -13,7 +13,7 @@ This project calculates ELO ratings for Formula 1 drivers by comparing their per
 
 The ELO calculation follows the classic chess ELO formula, comparing each driver directly with their teammate(s) for each race weekend. Key rules:
 
-1. **Data Source**: Historical race results from `f1-historical-race-results.json`
+1. **Data Source**: Historical race results from `f1-historical-race-results.json` (fetched from Ergast API)
 2. **Teammate Comparison**: Only head-to-head comparisons between teammates are considered
 3. **Exclusions**: Races where no teammate participated or either driver had a DNF are excluded from calculations
 4. **Chronological Processing**: Race history is processed in chronological order to maintain accurate ELO progression
@@ -35,8 +35,30 @@ The following table shows current ELO ratings for all F1 drivers (updated automa
 
 ## Usage
 
-Run the update script to recalculate ratings and update this README:
+### Install Dependencies
 
 ```bash
-npm run update-elo
+npm install
 ```
+
+### Fetch Race Data
+
+Run the update script to fetch F1 data and recalculate ratings:
+
+```bash
+# Fetch 2025 season data (default)
+npm run update-elo
+
+# Fetch specific season data
+npm run update-elo:2025
+npm run update-elo:2020
+
+# Or specify season directly
+node update-elo.js 2020
+```
+
+This script will:
+1. Fetch all race results from the Ergast API for the specified season
+2. Handle pagination automatically with rate limiting
+3. Save aggregated data to `f1-historical-race-results.json`
+4. Calculate ELO ratings and update this README
