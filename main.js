@@ -64,7 +64,7 @@ async function main() {
         console.log(`✓ Season: ${season}`);
         console.log(`✓ Total races: ${raceData.totalRaces}`);
         console.log(`✓ Drivers rated: ${driverRatings.length}`);
-        console.log(`✓ Top driver: ${driverRatings[0].name} (${driverRatings[0].globalElo} ELO)`);
+        console.log(`✓ Top driver: ${driverRatings[0].consoleName} (${driverRatings[0].globalElo} ELO)`);
         console.log('='.repeat(60));
         
     } catch (error) {

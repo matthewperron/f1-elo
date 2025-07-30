@@ -6,18 +6,23 @@ import fs from 'fs/promises';
 const COUNTRY_FLAGS = {
     'Argentina': { url: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg', alt: 'Argentina', emoji: '🇦🇷' },
     'Australia': { url: 'https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg', alt: 'Australia', emoji: '🇦🇺' },
+    'Australian': { url: 'https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg', alt: 'Australia', emoji: '🇦🇺' },
     'Austria': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg', alt: 'Austria', emoji: '🇦🇹' },
+    'Austrian': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg', alt: 'Austria', emoji: '🇦🇹' },
     'Belgium': { url: 'https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg', alt: 'Belgium', emoji: '🇧🇪' },
     'Brazil': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg', alt: 'Brazil', emoji: '🇧🇷' },
     'Britain': { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817', alt: 'United Kingdom', emoji: '🇬🇧' },
     'British': { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817', alt: 'United Kingdom', emoji: '🇬🇧' },
     'Canada': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg', alt: 'Canada', emoji: '🇨🇦' },
+    'Canadian': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg', alt: 'Canada', emoji: '🇨🇦' },
     'Chile': { url: 'https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg', alt: 'Chile', emoji: '🇨🇱' },
     'Colombia': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg', alt: 'Colombia', emoji: '🇨🇴' },
     'Czech Republic': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg', alt: 'Czech Republic', emoji: '🇨🇿' },
     'Czechoslovakia': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg', alt: 'Czech Republic', emoji: '🇨🇿' },
     'Denmark': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg', alt: 'Denmark', emoji: '🇩🇰' },
+    'Danish': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg', alt: 'Denmark', emoji: '🇩🇰' },
     'Finland': { url: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg', alt: 'Finland', emoji: '🇫🇮' },
+    'Finnish': { url: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg', alt: 'Finland', emoji: '🇫🇮' },
     'France': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg', alt: 'France', emoji: '🇫🇷' },
     'French': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg', alt: 'France', emoji: '🇫🇷' },
     'Germany': { url: 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg', alt: 'Germany', emoji: '🇩🇪' },
@@ -31,7 +36,9 @@ const COUNTRY_FLAGS = {
     'Japanese': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg', alt: 'Japan', emoji: '🇯🇵' },
     'Malaysia': { url: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg', alt: 'Malaysia', emoji: '🇲🇾' },
     'Mexico': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg', alt: 'Mexico', emoji: '🇲🇽' },
+    'Mexican': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg', alt: 'Mexico', emoji: '🇲🇽' },
     'Monaco': { url: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg', alt: 'Monaco', emoji: '🇲🇨' },
+    'Monegasque': { url: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg', alt: 'Monaco', emoji: '🇲🇨' },
     'Netherlands': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg', alt: 'Netherlands', emoji: '🇳🇱' },
     'Dutch': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg', alt: 'Netherlands', emoji: '🇳🇱' },
     'New Zealand': { url: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg', alt: 'New Zealand', emoji: '🇳🇿' },
@@ -43,6 +50,7 @@ const COUNTRY_FLAGS = {
     'Spanish': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg', alt: 'Spain', emoji: '🇪🇸' },
     'Sweden': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg', alt: 'Sweden', emoji: '🇸🇪' },
     'Switzerland': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg', alt: 'Switzerland', emoji: '🇨🇭' },
+    'Swiss': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg', alt: 'Switzerland', emoji: '🇨🇭' },
     'Thai': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg', alt: 'Thailand', emoji: '🇹🇭' },
     'Thailand': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg', alt: 'Thailand', emoji: '🇹🇭' },
     'UK': { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817', alt: 'United Kingdom', emoji: '🇬🇧' },
@@ -60,6 +68,17 @@ function getCountryFlag(driver) {
         const flag = COUNTRY_FLAGS[driver.nationality];
         // Primary: SVG image with emoji fallback using onerror
         return `<img src="${flag.url}" alt="${flag.alt}" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='${flag.emoji}'; this.style.marginRight='5px';"/>`;
+    }
+    return '';
+}
+
+/**
+ * Get country flag emoji only for console output
+ */
+function getCountryFlagEmoji(driver) {
+    if (driver.nationality && COUNTRY_FLAGS[driver.nationality]) {
+        const flag = COUNTRY_FLAGS[driver.nationality];
+        return flag.emoji;
     }
     return '';
 }
@@ -167,6 +186,7 @@ async function calculateELO(raceData, season) {
     const driverRatings = Array.from(drivers.entries()).map(([driverId, data]) => ({
         driverId,
         name: data.name,
+        consoleName: data.consoleName,
         constructor: data.constructor,
         startingElo: Math.round(data.startingElo),
         qualifyingElo: Math.round(data.qualifyingElo),
@@ -207,8 +227,10 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     if (!drivers.has(driver1.driver.driverId)) {
         const startingElo = startingELOs.get(driver1.driver.driverId) || initialElo;
         const flag = getCountryFlag(driver1.driver);
+        const flagEmoji = getCountryFlagEmoji(driver1.driver);
         drivers.set(driver1.driver.driverId, {
             name: `${flag} ${driver1.driver.givenName} ${driver1.driver.familyName}`.trim(),
+            consoleName: `${flagEmoji} ${driver1.driver.givenName} ${driver1.driver.familyName}`.trim(),
             constructor: driver1.constructor.name,
             startingElo: startingElo,
             qualifyingElo: startingElo,
@@ -219,8 +241,10 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     if (!drivers.has(driver2.driver.driverId)) {
         const startingElo = startingELOs.get(driver2.driver.driverId) || initialElo;
         const flag = getCountryFlag(driver2.driver);
+        const flagEmoji = getCountryFlagEmoji(driver2.driver);
         drivers.set(driver2.driver.driverId, {
             name: `${flag} ${driver2.driver.givenName} ${driver2.driver.familyName}`.trim(),
+            consoleName: `${flagEmoji} ${driver2.driver.givenName} ${driver2.driver.familyName}`.trim(),
             constructor: driver2.constructor.name,
             startingElo: startingElo,
             qualifyingElo: startingElo,
@@ -386,6 +410,17 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     // Race-by-race details
     content += `## Race-by-Race ELO Changes\n\n`;
     
+    // Load race data to get all participants
+    const raceDataFile = `data/${season}-race-results.json`;
+    let allRaceData;
+    try {
+        const raceDataContent = await fs.readFile(raceDataFile, 'utf8');
+        allRaceData = JSON.parse(raceDataContent);
+    } catch (error) {
+        console.error('Could not load race data for complete participant list');
+        allRaceData = null;
+    }
+    
     raceEvents.forEach(race => {
         content += `### Round ${race.round}: ${race.raceName}\n`;
         content += `*Date: ${race.date}*\n\n`;
@@ -417,6 +452,47 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
                 content += `| ${change.driverName} | ${change.constructor} | ${change.position} | ${change.startingElo} | ${changeStr} | ${change.newElo} | ${change.result} | ${change.opponent} (P${change.opponentPosition}) |\n`;
             });
             content += '\n';
+        }
+        
+        // Add complete race results showing all participants
+        if (allRaceData) {
+            const raceDetail = allRaceData.races.find(r => r.round == race.round);
+            if (raceDetail) {
+                content += `#### All Race Participants\n\n`;
+                content += `| Driver | Constructor | Grid | Position | Status | ELO Change |\n`;
+                content += `|--------|-------------|------|----------|--------|-----------|\n`;
+                
+                // Sort by finishing position (finished drivers first, then DNFs)
+                const sortedResults = raceDetail.results.sort((a, b) => {
+                    const aFinished = !isNaN(parseInt(a.position));
+                    const bFinished = !isNaN(parseInt(b.position));
+                    
+                    if (aFinished && bFinished) {
+                        return parseInt(a.position) - parseInt(b.position);
+                    } else if (aFinished && !bFinished) {
+                        return -1;
+                    } else if (!aFinished && bFinished) {
+                        return 1;
+                    } else {
+                        return 0; // Both DNF, keep original order
+                    }
+                });
+                
+                sortedResults.forEach(result => {
+                    const flag = getCountryFlag(result.driver);
+                    const driverName = `${flag} ${result.driver.givenName} ${result.driver.familyName}`.trim();
+                    const gridPos = result.grid || 'N/A';
+                    const finishPos = !isNaN(parseInt(result.position)) ? result.position : 'DNF';
+                    const status = result.status || 'Unknown';
+                    
+                    // Find if this driver had ELO changes in this race
+                    const driverRaceChange = raceChanges.find(c => c.driverId === result.driver.driverId);
+                    const eloChangeStr = driverRaceChange ? formatEloChange(driverRaceChange.eloChange) : 'N/A';
+                    
+                    content += `| ${driverName} | ${result.constructor.name} | ${gridPos} | ${finishPos} | ${status} | ${eloChangeStr} |\n`;
+                });
+                content += '\n';
+            }
         }
         
         content += '---\n\n';
@@ -522,7 +598,7 @@ async function calculateELOFromData(season = '2025') {
         console.log(`✓ Season: ${season}`);
         console.log(`✓ Total races: ${raceData.totalRaces}`);
         console.log(`✓ Drivers rated: ${driverRatings.length}`);
-        console.log(`✓ Top driver: ${driverRatings[0].name} (${driverRatings[0].globalElo} ELO)`);
+        console.log(`✓ Top driver: ${driverRatings[0].consoleName} (${driverRatings[0].globalElo} ELO)`);
         console.log('='.repeat(60));
         
         return driverRatings;

@@ -75,7 +75,7 @@ async function calculateSeason(season, retryCount = 0) {
         console.log(`✓ Season ${season} completed successfully!`);
         console.log(`  - Total races: ${raceData.totalRaces}`);
         console.log(`  - Drivers rated: ${driverRatings.length}`);
-        console.log(`  - Top driver: ${driverRatings[0].name} (${driverRatings[0].globalElo} ELO)`);
+        console.log(`  - Top driver: ${driverRatings[0].consoleName} (${driverRatings[0].globalElo} ELO)`);
         
         return { 
             success: true, 
