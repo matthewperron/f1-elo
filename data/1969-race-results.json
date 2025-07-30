@@ -3453,22 +3453,90 @@
     }
   ],
   "finalELOs": {
-    "stewart": 1644,
-    "jack_brabham": 1607,
-    "siffert": 1556,
-    "amon": 1553,
-    "hill": 1548,
-    "surtees": 1544,
-    "rindt": 1538,
-    "klerk": 1510,
-    "eaton": 1509,
-    "ickx": 1508,
-    "rodriguez": 1506,
-    "tingle": 1490,
-    "oliver": 1485,
-    "mclaren": 1466,
-    "hulme": 1458,
-    "courage": 1442,
-    "beltoise": 1405
+    "stewart": {
+      "qualifyingElo": 1753,
+      "raceElo": 1592,
+      "globalElo": 1640
+    },
+    "jack_brabham": {
+      "qualifyingElo": 1546,
+      "raceElo": 1649,
+      "globalElo": 1617
+    },
+    "amon": {
+      "qualifyingElo": 1607,
+      "raceElo": 1532,
+      "globalElo": 1554
+    },
+    "siffert": {
+      "qualifyingElo": 1527,
+      "raceElo": 1556,
+      "globalElo": 1547
+    },
+    "surtees": {
+      "qualifyingElo": 1643,
+      "raceElo": 1500,
+      "globalElo": 1543
+    },
+    "rindt": {
+      "qualifyingElo": 1608,
+      "raceElo": 1500,
+      "globalElo": 1533
+    },
+    "hill": {
+      "qualifyingElo": 1754,
+      "raceElo": 1422,
+      "globalElo": 1523
+    },
+    "klerk": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "eaton": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "rodriguez": {
+      "qualifyingElo": 1530,
+      "raceElo": 1500,
+      "globalElo": 1509
+    },
+    "ickx": {
+      "qualifyingElo": 1510,
+      "raceElo": 1503,
+      "globalElo": 1505
+    },
+    "oliver": {
+      "qualifyingElo": 1470,
+      "raceElo": 1500,
+      "globalElo": 1491
+    },
+    "tingle": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "mclaren": {
+      "qualifyingElo": 1348,
+      "raceElo": 1522,
+      "globalElo": 1471
+    },
+    "hulme": {
+      "qualifyingElo": 1590,
+      "raceElo": 1397,
+      "globalElo": 1456
+    },
+    "courage": {
+      "qualifyingElo": 1390,
+      "raceElo": 1465,
+      "globalElo": 1442
+    },
+    "beltoise": {
+      "qualifyingElo": 1421,
+      "raceElo": 1400,
+      "globalElo": 1406
+    }
   }
 }

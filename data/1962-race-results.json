@@ -3708,22 +3708,90 @@
     }
   ],
   "finalELOs": {
-    "gurney": 1572,
-    "hill": 1536,
-    "surtees": 1534,
-    "marsh": 1515,
-    "mclaren": 1510,
-    "gregory": 1510,
-    "campbell-jones": 1510,
-    "ricardo_rodriguez": 1510,
-    "siffert": 1501,
-    "beaufort": 1492,
-    "maggs": 1490,
-    "settember": 1490,
-    "seidel": 1490,
-    "phil_hill": 1490,
-    "ginther": 1480,
-    "salvadori": 1466,
-    "bonnier": 1439
+    "gurney": {
+      "qualifyingElo": 1610,
+      "raceElo": 1558,
+      "globalElo": 1574
+    },
+    "surtees": {
+      "qualifyingElo": 1614,
+      "raceElo": 1500,
+      "globalElo": 1534
+    },
+    "hill": {
+      "qualifyingElo": 1632,
+      "raceElo": 1467,
+      "globalElo": 1517
+    },
+    "marsh": {
+      "qualifyingElo": 1553,
+      "raceElo": 1500,
+      "globalElo": 1516
+    },
+    "mclaren": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "gregory": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "campbell-jones": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "ricardo_rodriguez": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "siffert": {
+      "qualifyingElo": 1503,
+      "raceElo": 1500,
+      "globalElo": 1501
+    },
+    "beaufort": {
+      "qualifyingElo": 1474,
+      "raceElo": 1500,
+      "globalElo": 1492
+    },
+    "maggs": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "settember": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "seidel": {
+      "qualifyingElo": 1465,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "phil_hill": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "ginther": {
+      "qualifyingElo": 1453,
+      "raceElo": 1500,
+      "globalElo": 1486
+    },
+    "salvadori": {
+      "qualifyingElo": 1386,
+      "raceElo": 1500,
+      "globalElo": 1466
+    },
+    "bonnier": {
+      "qualifyingElo": 1444,
+      "raceElo": 1442,
+      "globalElo": 1444
+    }
   }
 }

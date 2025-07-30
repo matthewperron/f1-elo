@@ -4838,22 +4838,90 @@
     }
   ],
   "finalELOs": {
-    "jack_brabham": 1636,
-    "rindt": 1571,
-    "ickx": 1564,
-    "rodriguez": 1533,
-    "emerson_fittipaldi": 1532,
-    "eaton": 1518,
-    "hill": 1515,
-    "gethin": 1498,
-    "hulme": 1496,
-    "giunti": 1492,
-    "beltoise": 1487,
-    "stommelen": 1471,
-    "wisell": 1468,
-    "gurney": 1464,
-    "regazzoni": 1453,
-    "oliver": 1449,
-    "pescarolo": 1418
+    "jack_brabham": {
+      "qualifyingElo": 1612,
+      "raceElo": 1668,
+      "globalElo": 1650
+    },
+    "rindt": {
+      "qualifyingElo": 1653,
+      "raceElo": 1525,
+      "globalElo": 1564
+    },
+    "ickx": {
+      "qualifyingElo": 1564,
+      "raceElo": 1561,
+      "globalElo": 1562
+    },
+    "rodriguez": {
+      "qualifyingElo": 1541,
+      "raceElo": 1532,
+      "globalElo": 1535
+    },
+    "emerson_fittipaldi": {
+      "qualifyingElo": 1532,
+      "raceElo": 1532,
+      "globalElo": 1532
+    },
+    "eaton": {
+      "qualifyingElo": 1560,
+      "raceElo": 1500,
+      "globalElo": 1518
+    },
+    "gethin": {
+      "qualifyingElo": 1529,
+      "raceElo": 1500,
+      "globalElo": 1509
+    },
+    "hill": {
+      "qualifyingElo": 1709,
+      "raceElo": 1397,
+      "globalElo": 1492
+    },
+    "giunti": {
+      "qualifyingElo": 1472,
+      "raceElo": 1500,
+      "globalElo": 1492
+    },
+    "beltoise": {
+      "qualifyingElo": 1517,
+      "raceElo": 1475,
+      "globalElo": 1487
+    },
+    "hulme": {
+      "qualifyingElo": 1585,
+      "raceElo": 1438,
+      "globalElo": 1483
+    },
+    "wisell": {
+      "qualifyingElo": 1468,
+      "raceElo": 1468,
+      "globalElo": 1468
+    },
+    "stommelen": {
+      "qualifyingElo": 1434,
+      "raceElo": 1481,
+      "globalElo": 1467
+    },
+    "gurney": {
+      "qualifyingElo": 1476,
+      "raceElo": 1459,
+      "globalElo": 1464
+    },
+    "oliver": {
+      "qualifyingElo": 1431,
+      "raceElo": 1468,
+      "globalElo": 1457
+    },
+    "regazzoni": {
+      "qualifyingElo": 1474,
+      "raceElo": 1442,
+      "globalElo": 1452
+    },
+    "pescarolo": {
+      "qualifyingElo": 1404,
+      "raceElo": 1425,
+      "globalElo": 1419
+    }
   }
 }

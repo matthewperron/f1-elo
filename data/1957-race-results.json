@@ -2877,19 +2877,75 @@
     }
   ],
   "finalELOs": {
-    "hanks": 1532,
-    "barth": 1532,
-    "flockhart": 1522,
-    "salvadori": 1519,
-    "moss": 1513,
-    "lewis-evans": 1510,
-    "leston": 1509,
-    "mackay-fraser": 1491,
-    "jack_brabham": 1491,
-    "bueb": 1490,
-    "fairman": 1478,
-    "brooks": 1477,
-    "rathmann": 1468,
-    "beaufort": 1468
+    "hanks": {
+      "qualifyingElo": 1532,
+      "raceElo": 1532,
+      "globalElo": 1532
+    },
+    "barth": {
+      "qualifyingElo": 1532,
+      "raceElo": 1532,
+      "globalElo": 1532
+    },
+    "flockhart": {
+      "qualifyingElo": 1503,
+      "raceElo": 1532,
+      "globalElo": 1524
+    },
+    "salvadori": {
+      "qualifyingElo": 1564,
+      "raceElo": 1500,
+      "globalElo": 1519
+    },
+    "moss": {
+      "qualifyingElo": 1468,
+      "raceElo": 1532,
+      "globalElo": 1513
+    },
+    "leston": {
+      "qualifyingElo": 1535,
+      "raceElo": 1500,
+      "globalElo": 1511
+    },
+    "lewis-evans": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "jack_brabham": {
+      "qualifyingElo": 1471,
+      "raceElo": 1500,
+      "globalElo": 1491
+    },
+    "bueb": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "mackay-fraser": {
+      "qualifyingElo": 1465,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "fairman": {
+      "qualifyingElo": 1497,
+      "raceElo": 1468,
+      "globalElo": 1477
+    },
+    "brooks": {
+      "qualifyingElo": 1497,
+      "raceElo": 1468,
+      "globalElo": 1477
+    },
+    "rathmann": {
+      "qualifyingElo": 1468,
+      "raceElo": 1468,
+      "globalElo": 1468
+    },
+    "beaufort": {
+      "qualifyingElo": 1468,
+      "raceElo": 1468,
+      "globalElo": 1468
+    }
   }
 }

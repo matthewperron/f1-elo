@@ -8720,29 +8720,125 @@
     }
   ],
   "finalELOs": {
-    "alonso": 1820,
-    "vettel": 1733,
-    "button": 1726,
-    "hulkenberg": 1684,
-    "hamilton": 1659,
-    "bottas": 1652,
-    "max_verstappen": 1652,
-    "perez": 1598,
-    "ericsson": 1588,
-    "ocon": 1583,
-    "vandoorne": 1576,
-    "kevin_magnussen": 1552,
-    "sainz": 1547,
-    "wehrlein": 1525,
-    "massa": 1523,
-    "ricciardo": 1520,
-    "brendon_hartley": 1518,
-    "grosjean": 1499,
-    "giovinazzi": 1492,
-    "jolyon_palmer": 1490,
-    "gasly": 1485,
-    "raikkonen": 1483,
-    "kvyat": 1475,
-    "stroll": 1442
+    "alonso": {
+      "qualifyingElo": 1741,
+      "raceElo": 1877,
+      "globalElo": 1831
+    },
+    "button": {
+      "qualifyingElo": 1556,
+      "raceElo": 1819,
+      "globalElo": 1743
+    },
+    "vettel": {
+      "qualifyingElo": 1748,
+      "raceElo": 1730,
+      "globalElo": 1740
+    },
+    "hulkenberg": {
+      "qualifyingElo": 1850,
+      "raceElo": 1614,
+      "globalElo": 1684
+    },
+    "hamilton": {
+      "qualifyingElo": 1834,
+      "raceElo": 1574,
+      "globalElo": 1655
+    },
+    "max_verstappen": {
+      "qualifyingElo": 1688,
+      "raceElo": 1630,
+      "globalElo": 1648
+    },
+    "bottas": {
+      "qualifyingElo": 1764,
+      "raceElo": 1598,
+      "globalElo": 1645
+    },
+    "perez": {
+      "qualifyingElo": 1546,
+      "raceElo": 1621,
+      "globalElo": 1601
+    },
+    "ericsson": {
+      "qualifyingElo": 1606,
+      "raceElo": 1584,
+      "globalElo": 1591
+    },
+    "ocon": {
+      "qualifyingElo": 1510,
+      "raceElo": 1612,
+      "globalElo": 1581
+    },
+    "vandoorne": {
+      "qualifyingElo": 1633,
+      "raceElo": 1535,
+      "globalElo": 1566
+    },
+    "sainz": {
+      "qualifyingElo": 1463,
+      "raceElo": 1596,
+      "globalElo": 1557
+    },
+    "kevin_magnussen": {
+      "qualifyingElo": 1475,
+      "raceElo": 1583,
+      "globalElo": 1552
+    },
+    "wehrlein": {
+      "qualifyingElo": 1578,
+      "raceElo": 1498,
+      "globalElo": 1523
+    },
+    "massa": {
+      "qualifyingElo": 1651,
+      "raceElo": 1463,
+      "globalElo": 1521
+    },
+    "ricciardo": {
+      "qualifyingElo": 1525,
+      "raceElo": 1521,
+      "globalElo": 1520
+    },
+    "brendon_hartley": {
+      "qualifyingElo": 1559,
+      "raceElo": 1500,
+      "globalElo": 1517
+    },
+    "grosjean": {
+      "qualifyingElo": 1560,
+      "raceElo": 1467,
+      "globalElo": 1494
+    },
+    "giovinazzi": {
+      "qualifyingElo": 1472,
+      "raceElo": 1500,
+      "globalElo": 1492
+    },
+    "jolyon_palmer": {
+      "qualifyingElo": 1429,
+      "raceElo": 1515,
+      "globalElo": 1488
+    },
+    "gasly": {
+      "qualifyingElo": 1444,
+      "raceElo": 1500,
+      "globalElo": 1483
+    },
+    "raikkonen": {
+      "qualifyingElo": 1522,
+      "raceElo": 1462,
+      "globalElo": 1479
+    },
+    "kvyat": {
+      "qualifyingElo": 1508,
+      "raceElo": 1446,
+      "globalElo": 1462
+    },
+    "stroll": {
+      "qualifyingElo": 1409,
+      "raceElo": 1458,
+      "globalElo": 1443
+    }
   }
 }

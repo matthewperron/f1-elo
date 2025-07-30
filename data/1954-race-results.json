@@ -3811,17 +3811,65 @@
     }
   ],
   "finalELOs": {
-    "herrmann": 1518,
-    "bob_scott": 1510,
-    "johnson": 1510,
-    "pollet": 1510,
-    "ascari": 1510,
-    "behra": 1491,
-    "kling": 1491,
-    "elisian": 1490,
-    "ward": 1490,
-    "bucci": 1490,
-    "lang": 1490,
-    "villoresi": 1490
+    "herrmann": {
+      "qualifyingElo": 1561,
+      "raceElo": 1500,
+      "globalElo": 1518
+    },
+    "bob_scott": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "johnson": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "pollet": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "ascari": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "behra": {
+      "qualifyingElo": 1472,
+      "raceElo": 1500,
+      "globalElo": 1492
+    },
+    "kling": {
+      "qualifyingElo": 1471,
+      "raceElo": 1500,
+      "globalElo": 1491
+    },
+    "elisian": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "ward": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "bucci": {
+      "qualifyingElo": 1465,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "lang": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "villoresi": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    }
   }
 }

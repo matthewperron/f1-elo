@@ -9262,25 +9262,105 @@
     }
   ],
   "finalELOs": {
-    "alonso": 1888,
-    "hamilton": 1830,
-    "max_verstappen": 1683,
-    "hulkenberg": 1671,
-    "leclerc": 1660,
-    "ocon": 1642,
-    "vettel": 1621,
-    "raikkonen": 1595,
-    "grosjean": 1567,
-    "sainz": 1560,
-    "perez": 1539,
-    "gasly": 1536,
-    "vandoorne": 1508,
-    "stroll": 1498,
-    "ricciardo": 1489,
-    "kevin_magnussen": 1484,
-    "bottas": 1481,
-    "brendon_hartley": 1467,
-    "sirotkin": 1444,
-    "ericsson": 1428
+    "alonso": {
+      "qualifyingElo": 1850,
+      "raceElo": 1927,
+      "globalElo": 1898
+    },
+    "hamilton": {
+      "qualifyingElo": 1935,
+      "raceElo": 1775,
+      "globalElo": 1827
+    },
+    "max_verstappen": {
+      "qualifyingElo": 1614,
+      "raceElo": 1708,
+      "globalElo": 1681
+    },
+    "hulkenberg": {
+      "qualifyingElo": 1723,
+      "raceElo": 1648,
+      "globalElo": 1668
+    },
+    "leclerc": {
+      "qualifyingElo": 1701,
+      "raceElo": 1647,
+      "globalElo": 1663
+    },
+    "ocon": {
+      "qualifyingElo": 1625,
+      "raceElo": 1649,
+      "globalElo": 1640
+    },
+    "vettel": {
+      "qualifyingElo": 1713,
+      "raceElo": 1583,
+      "globalElo": 1627
+    },
+    "raikkonen": {
+      "qualifyingElo": 1557,
+      "raceElo": 1609,
+      "globalElo": 1592
+    },
+    "sainz": {
+      "qualifyingElo": 1590,
+      "raceElo": 1562,
+      "globalElo": 1573
+    },
+    "grosjean": {
+      "qualifyingElo": 1569,
+      "raceElo": 1559,
+      "globalElo": 1561
+    },
+    "perez": {
+      "qualifyingElo": 1431,
+      "raceElo": 1584,
+      "globalElo": 1542
+    },
+    "gasly": {
+      "qualifyingElo": 1512,
+      "raceElo": 1548,
+      "globalElo": 1537
+    },
+    "vandoorne": {
+      "qualifyingElo": 1524,
+      "raceElo": 1485,
+      "globalElo": 1499
+    },
+    "stroll": {
+      "qualifyingElo": 1405,
+      "raceElo": 1540,
+      "globalElo": 1499
+    },
+    "ricciardo": {
+      "qualifyingElo": 1599,
+      "raceElo": 1443,
+      "globalElo": 1487
+    },
+    "kevin_magnussen": {
+      "qualifyingElo": 1466,
+      "raceElo": 1491,
+      "globalElo": 1485
+    },
+    "bottas": {
+      "qualifyingElo": 1663,
+      "raceElo": 1397,
+      "globalElo": 1473
+    },
+    "brendon_hartley": {
+      "qualifyingElo": 1491,
+      "raceElo": 1452,
+      "globalElo": 1463
+    },
+    "sirotkin": {
+      "qualifyingElo": 1504,
+      "raceElo": 1418,
+      "globalElo": 1444
+    },
+    "ericsson": {
+      "qualifyingElo": 1405,
+      "raceElo": 1437,
+      "globalElo": 1428
+    }
   }
 }

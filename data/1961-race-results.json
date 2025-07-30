@@ -3909,13 +3909,45 @@
     }
   ],
   "finalELOs": {
-    "gurney": 1558,
-    "hill": 1531,
-    "bandini": 1517,
-    "fairman": 1510,
-    "brooks": 1490,
-    "moss": 1490,
-    "trintignant": 1483,
-    "bonnier": 1445
+    "gurney": {
+      "qualifyingElo": 1563,
+      "raceElo": 1558,
+      "globalElo": 1560
+    },
+    "hill": {
+      "qualifyingElo": 1638,
+      "raceElo": 1467,
+      "globalElo": 1519
+    },
+    "bandini": {
+      "qualifyingElo": 1558,
+      "raceElo": 1500,
+      "globalElo": 1517
+    },
+    "fairman": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "brooks": {
+      "qualifyingElo": 1480,
+      "raceElo": 1501,
+      "globalElo": 1494
+    },
+    "moss": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "trintignant": {
+      "qualifyingElo": 1442,
+      "raceElo": 1500,
+      "globalElo": 1483
+    },
+    "bonnier": {
+      "qualifyingElo": 1465,
+      "raceElo": 1442,
+      "globalElo": 1450
+    }
   }
 }

@@ -2405,20 +2405,80 @@
     }
   ],
   "finalELOs": {
-    "farina": 1540,
-    "ascari": 1514,
-    "crossley": 1510,
-    "etancelin": 1510,
-    "manzon": 1510,
-    "webb": 1510,
-    "cantrell": 1510,
-    "villoresi": 1496,
-    "kelly": 1490,
-    "whitehead": 1490,
-    "rosier": 1490,
-    "trintignant": 1490,
-    "banks": 1490,
-    "levrett": 1490,
-    "fagioli": 1460
+    "farina": {
+      "qualifyingElo": 1558,
+      "raceElo": 1532,
+      "globalElo": 1540
+    },
+    "ascari": {
+      "qualifyingElo": 1471,
+      "raceElo": 1532,
+      "globalElo": 1514
+    },
+    "crossley": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "etancelin": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "manzon": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "webb": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "cantrell": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "villoresi": {
+      "qualifyingElo": 1561,
+      "raceElo": 1468,
+      "globalElo": 1496
+    },
+    "kelly": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "whitehead": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "rosier": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "trintignant": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "banks": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "levrett": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "fagioli": {
+      "qualifyingElo": 1442,
+      "raceElo": 1468,
+      "globalElo": 1460
+    }
   }
 }

@@ -7083,39 +7083,175 @@
     }
   ],
   "finalELOs": {
-    "mansell": 1851,
-    "senna": 1848,
-    "modena": 1652,
-    "cesaris": 1640,
-    "comas": 1633,
-    "alesi": 1633,
-    "berger": 1617,
-    "michael_schumacher": 1601,
-    "lehto": 1587,
-    "martini": 1568,
-    "patrese": 1548,
-    "gugelmin": 1534,
-    "tarquini": 1532,
-    "fittipaldi": 1530,
-    "hakkinen": 1524,
-    "herbert": 1508,
-    "boutsen": 1501,
-    "poele": 1501,
-    "lammers": 1497,
-    "brundle": 1496,
-    "alboreto": 1496,
-    "naspetti": 1494,
-    "gachot": 1491,
-    "damon_hill": 1490,
-    "capelli": 1489,
-    "belmondo": 1486,
-    "wendlinger": 1482,
-    "chiesa": 1476,
-    "larini": 1475,
-    "zanardi": 1472,
-    "grouillard": 1462,
-    "katayama": 1428,
-    "suzuki": 1423,
-    "morbidelli": 1416
+    "mansell": {
+      "qualifyingElo": 1979,
+      "raceElo": 1790,
+      "globalElo": 1844
+    },
+    "senna": {
+      "qualifyingElo": 2126,
+      "raceElo": 1709,
+      "globalElo": 1833
+    },
+    "comas": {
+      "qualifyingElo": 1582,
+      "raceElo": 1672,
+      "globalElo": 1645
+    },
+    "cesaris": {
+      "qualifyingElo": 1672,
+      "raceElo": 1629,
+      "globalElo": 1641
+    },
+    "modena": {
+      "qualifyingElo": 1811,
+      "raceElo": 1566,
+      "globalElo": 1641
+    },
+    "alesi": {
+      "qualifyingElo": 1670,
+      "raceElo": 1611,
+      "globalElo": 1630
+    },
+    "berger": {
+      "qualifyingElo": 1747,
+      "raceElo": 1548,
+      "globalElo": 1609
+    },
+    "michael_schumacher": {
+      "qualifyingElo": 1774,
+      "raceElo": 1527,
+      "globalElo": 1600
+    },
+    "lehto": {
+      "qualifyingElo": 1551,
+      "raceElo": 1601,
+      "globalElo": 1585
+    },
+    "gugelmin": {
+      "qualifyingElo": 1560,
+      "raceElo": 1566,
+      "globalElo": 1564
+    },
+    "martini": {
+      "qualifyingElo": 1655,
+      "raceElo": 1510,
+      "globalElo": 1555
+    },
+    "fittipaldi": {
+      "qualifyingElo": 1445,
+      "raceElo": 1571,
+      "globalElo": 1532
+    },
+    "tarquini": {
+      "qualifyingElo": 1607,
+      "raceElo": 1500,
+      "globalElo": 1532
+    },
+    "patrese": {
+      "qualifyingElo": 1693,
+      "raceElo": 1458,
+      "globalElo": 1530
+    },
+    "hakkinen": {
+      "qualifyingElo": 1476,
+      "raceElo": 1544,
+      "globalElo": 1523
+    },
+    "herbert": {
+      "qualifyingElo": 1553,
+      "raceElo": 1489,
+      "globalElo": 1509
+    },
+    "poele": {
+      "qualifyingElo": 1504,
+      "raceElo": 1500,
+      "globalElo": 1501
+    },
+    "alboreto": {
+      "qualifyingElo": 1457,
+      "raceElo": 1518,
+      "globalElo": 1498
+    },
+    "brundle": {
+      "qualifyingElo": 1405,
+      "raceElo": 1536,
+      "globalElo": 1497
+    },
+    "lammers": {
+      "qualifyingElo": 1489,
+      "raceElo": 1500,
+      "globalElo": 1497
+    },
+    "naspetti": {
+      "qualifyingElo": 1479,
+      "raceElo": 1500,
+      "globalElo": 1493
+    },
+    "gachot": {
+      "qualifyingElo": 1576,
+      "raceElo": 1454,
+      "globalElo": 1491
+    },
+    "damon_hill": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "boutsen": {
+      "qualifyingElo": 1629,
+      "raceElo": 1423,
+      "globalElo": 1485
+    },
+    "wendlinger": {
+      "qualifyingElo": 1526,
+      "raceElo": 1467,
+      "globalElo": 1485
+    },
+    "belmondo": {
+      "qualifyingElo": 1451,
+      "raceElo": 1500,
+      "globalElo": 1485
+    },
+    "chiesa": {
+      "qualifyingElo": 1420,
+      "raceElo": 1500,
+      "globalElo": 1476
+    },
+    "larini": {
+      "qualifyingElo": 1525,
+      "raceElo": 1452,
+      "globalElo": 1474
+    },
+    "zanardi": {
+      "qualifyingElo": 1465,
+      "raceElo": 1475,
+      "globalElo": 1472
+    },
+    "capelli": {
+      "qualifyingElo": 1380,
+      "raceElo": 1506,
+      "globalElo": 1468
+    },
+    "grouillard": {
+      "qualifyingElo": 1425,
+      "raceElo": 1477,
+      "globalElo": 1462
+    },
+    "suzuki": {
+      "qualifyingElo": 1373,
+      "raceElo": 1451,
+      "globalElo": 1428
+    },
+    "katayama": {
+      "qualifyingElo": 1354,
+      "raceElo": 1460,
+      "globalElo": 1428
+    },
+    "morbidelli": {
+      "qualifyingElo": 1503,
+      "raceElo": 1388,
+      "globalElo": 1423
+    }
   }
 }

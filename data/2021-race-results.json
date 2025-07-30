@@ -9736,26 +9736,110 @@
     }
   ],
   "finalELOs": {
-    "max_verstappen": 1919,
-    "hamilton": 1803,
-    "russell": 1681,
-    "leclerc": 1650,
-    "gasly": 1634,
-    "norris": 1626,
-    "sainz": 1601,
-    "mick_schumacher": 1599,
-    "giovinazzi": 1575,
-    "ricciardo": 1565,
-    "bottas": 1553,
-    "raikkonen": 1545,
-    "vettel": 1538,
-    "perez": 1527,
-    "stroll": 1502,
-    "alonso": 1497,
-    "kubica": 1475,
-    "ocon": 1470,
-    "latifi": 1453,
-    "tsunoda": 1421,
-    "mazepin": 1401
+    "max_verstappen": {
+      "qualifyingElo": 1822,
+      "raceElo": 1960,
+      "globalElo": 1921
+    },
+    "hamilton": {
+      "qualifyingElo": 1893,
+      "raceElo": 1756,
+      "globalElo": 1804
+    },
+    "russell": {
+      "qualifyingElo": 1608,
+      "raceElo": 1713,
+      "globalElo": 1683
+    },
+    "leclerc": {
+      "qualifyingElo": 1633,
+      "raceElo": 1664,
+      "globalElo": 1656
+    },
+    "gasly": {
+      "qualifyingElo": 1654,
+      "raceElo": 1622,
+      "globalElo": 1631
+    },
+    "norris": {
+      "qualifyingElo": 1715,
+      "raceElo": 1592,
+      "globalElo": 1630
+    },
+    "sainz": {
+      "qualifyingElo": 1671,
+      "raceElo": 1576,
+      "globalElo": 1605
+    },
+    "mick_schumacher": {
+      "qualifyingElo": 1703,
+      "raceElo": 1553,
+      "globalElo": 1599
+    },
+    "giovinazzi": {
+      "qualifyingElo": 1570,
+      "raceElo": 1573,
+      "globalElo": 1573
+    },
+    "ricciardo": {
+      "qualifyingElo": 1601,
+      "raceElo": 1550,
+      "globalElo": 1562
+    },
+    "raikkonen": {
+      "qualifyingElo": 1516,
+      "raceElo": 1559,
+      "globalElo": 1543
+    },
+    "bottas": {
+      "qualifyingElo": 1740,
+      "raceElo": 1466,
+      "globalElo": 1542
+    },
+    "vettel": {
+      "qualifyingElo": 1531,
+      "raceElo": 1541,
+      "globalElo": 1542
+    },
+    "perez": {
+      "qualifyingElo": 1554,
+      "raceElo": 1519,
+      "globalElo": 1532
+    },
+    "stroll": {
+      "qualifyingElo": 1449,
+      "raceElo": 1533,
+      "globalElo": 1509
+    },
+    "alonso": {
+      "qualifyingElo": 1457,
+      "raceElo": 1515,
+      "globalElo": 1498
+    },
+    "kubica": {
+      "qualifyingElo": 1471,
+      "raceElo": 1477,
+      "globalElo": 1475
+    },
+    "ocon": {
+      "qualifyingElo": 1492,
+      "raceElo": 1459,
+      "globalElo": 1469
+    },
+    "latifi": {
+      "qualifyingElo": 1541,
+      "raceElo": 1415,
+      "globalElo": 1451
+    },
+    "tsunoda": {
+      "qualifyingElo": 1399,
+      "raceElo": 1428,
+      "globalElo": 1420
+    },
+    "mazepin": {
+      "qualifyingElo": 1297,
+      "raceElo": 1447,
+      "globalElo": 1401
+    }
   }
 }

@@ -7094,37 +7094,165 @@
     }
   ],
   "finalELOs": {
-    "senna": 1875,
-    "mansell": 1808,
-    "piquet": 1747,
-    "prost": 1720,
-    "martini": 1674,
-    "boutsen": 1634,
-    "alesi": 1628,
-    "warwick": 1628,
-    "modena": 1616,
-    "larini": 1596,
-    "patrese": 1591,
-    "berger": 1590,
-    "nannini": 1573,
-    "caffi": 1571,
-    "capelli": 1545,
-    "herbert": 1532,
-    "bernard": 1503,
-    "lehto": 1499,
-    "foitek": 1486,
-    "morbidelli": 1483,
-    "suzuki": 1480,
-    "schneider": 1479,
-    "cesaris": 1467,
-    "moreno": 1465,
-    "alliot": 1461,
-    "donnelly": 1458,
-    "brabham": 1456,
-    "barilla": 1455,
-    "gugelmin": 1455,
-    "pirro": 1437,
-    "alboreto": 1397,
-    "satoru_nakajima": 1346
+    "senna": {
+      "qualifyingElo": 2090,
+      "raceElo": 1759,
+      "globalElo": 1857
+    },
+    "mansell": {
+      "qualifyingElo": 1923,
+      "raceElo": 1751,
+      "globalElo": 1800
+    },
+    "piquet": {
+      "qualifyingElo": 1899,
+      "raceElo": 1675,
+      "globalElo": 1742
+    },
+    "prost": {
+      "qualifyingElo": 1793,
+      "raceElo": 1693,
+      "globalElo": 1724
+    },
+    "martini": {
+      "qualifyingElo": 1787,
+      "raceElo": 1611,
+      "globalElo": 1664
+    },
+    "boutsen": {
+      "qualifyingElo": 1711,
+      "raceElo": 1595,
+      "globalElo": 1630
+    },
+    "warwick": {
+      "qualifyingElo": 1671,
+      "raceElo": 1616,
+      "globalElo": 1630
+    },
+    "alesi": {
+      "qualifyingElo": 1673,
+      "raceElo": 1608,
+      "globalElo": 1628
+    },
+    "modena": {
+      "qualifyingElo": 1809,
+      "raceElo": 1521,
+      "globalElo": 1607
+    },
+    "larini": {
+      "qualifyingElo": 1620,
+      "raceElo": 1583,
+      "globalElo": 1595
+    },
+    "berger": {
+      "qualifyingElo": 1783,
+      "raceElo": 1498,
+      "globalElo": 1585
+    },
+    "patrese": {
+      "qualifyingElo": 1749,
+      "raceElo": 1497,
+      "globalElo": 1574
+    },
+    "caffi": {
+      "qualifyingElo": 1545,
+      "raceElo": 1578,
+      "globalElo": 1568
+    },
+    "nannini": {
+      "qualifyingElo": 1634,
+      "raceElo": 1536,
+      "globalElo": 1565
+    },
+    "herbert": {
+      "qualifyingElo": 1529,
+      "raceElo": 1533,
+      "globalElo": 1532
+    },
+    "capelli": {
+      "qualifyingElo": 1551,
+      "raceElo": 1506,
+      "globalElo": 1519
+    },
+    "bernard": {
+      "qualifyingElo": 1515,
+      "raceElo": 1506,
+      "globalElo": 1509
+    },
+    "lehto": {
+      "qualifyingElo": 1502,
+      "raceElo": 1500,
+      "globalElo": 1501
+    },
+    "foitek": {
+      "qualifyingElo": 1474,
+      "raceElo": 1500,
+      "globalElo": 1492
+    },
+    "morbidelli": {
+      "qualifyingElo": 1447,
+      "raceElo": 1500,
+      "globalElo": 1484
+    },
+    "gugelmin": {
+      "qualifyingElo": 1449,
+      "raceElo": 1494,
+      "globalElo": 1481
+    },
+    "schneider": {
+      "qualifyingElo": 1520,
+      "raceElo": 1463,
+      "globalElo": 1480
+    },
+    "suzuki": {
+      "qualifyingElo": 1444,
+      "raceElo": 1494,
+      "globalElo": 1479
+    },
+    "cesaris": {
+      "qualifyingElo": 1450,
+      "raceElo": 1473,
+      "globalElo": 1466
+    },
+    "brabham": {
+      "qualifyingElo": 1452,
+      "raceElo": 1467,
+      "globalElo": 1463
+    },
+    "moreno": {
+      "qualifyingElo": 1458,
+      "raceElo": 1463,
+      "globalElo": 1461
+    },
+    "donnelly": {
+      "qualifyingElo": 1529,
+      "raceElo": 1430,
+      "globalElo": 1460
+    },
+    "barilla": {
+      "qualifyingElo": 1419,
+      "raceElo": 1476,
+      "globalElo": 1459
+    },
+    "alliot": {
+      "qualifyingElo": 1599,
+      "raceElo": 1390,
+      "globalElo": 1451
+    },
+    "pirro": {
+      "qualifyingElo": 1457,
+      "raceElo": 1439,
+      "globalElo": 1445
+    },
+    "alboreto": {
+      "qualifyingElo": 1334,
+      "raceElo": 1430,
+      "globalElo": 1400
+    },
+    "satoru_nakajima": {
+      "qualifyingElo": 1308,
+      "raceElo": 1378,
+      "globalElo": 1357
+    }
   }
 }

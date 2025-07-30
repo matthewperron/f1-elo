@@ -2982,13 +2982,45 @@
     }
   ],
   "finalELOs": {
-    "schell": 1527,
-    "flockhart": 1513,
-    "portago": 1510,
-    "scott_Brown": 1510,
-    "gendebien": 1490,
-    "titterington": 1490,
-    "fairman": 1487,
-    "trintignant": 1483
+    "schell": {
+      "qualifyingElo": 1585,
+      "raceElo": 1500,
+      "globalElo": 1526
+    },
+    "flockhart": {
+      "qualifyingElo": 1468,
+      "raceElo": 1532,
+      "globalElo": 1513
+    },
+    "portago": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "scott_Brown": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "gendebien": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "titterington": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "fairman": {
+      "qualifyingElo": 1532,
+      "raceElo": 1468,
+      "globalElo": 1487
+    },
+    "trintignant": {
+      "qualifyingElo": 1447,
+      "raceElo": 1500,
+      "globalElo": 1484
+    }
   }
 }

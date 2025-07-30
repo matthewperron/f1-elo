@@ -3371,18 +3371,70 @@
     }
   ],
   "finalELOs": {
-    "fangio": 1532,
-    "pollet": 1519,
-    "bayol": 1510,
-    "templeman": 1510,
-    "hawthorn": 1510,
-    "schell": 1510,
-    "ramos": 1501,
-    "johnson": 1500,
-    "iglesias": 1490,
-    "castellotti": 1490,
-    "sparken": 1490,
-    "wharton": 1490,
-    "moss": 1468
+    "fangio": {
+      "qualifyingElo": 1532,
+      "raceElo": 1532,
+      "globalElo": 1532
+    },
+    "pollet": {
+      "qualifyingElo": 1561,
+      "raceElo": 1500,
+      "globalElo": 1519
+    },
+    "templeman": {
+      "qualifyingElo": 1535,
+      "raceElo": 1500,
+      "globalElo": 1511
+    },
+    "bayol": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "hawthorn": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "schell": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "ramos": {
+      "qualifyingElo": 1506,
+      "raceElo": 1500,
+      "globalElo": 1502
+    },
+    "johnson": {
+      "qualifyingElo": 1497,
+      "raceElo": 1500,
+      "globalElo": 1500
+    },
+    "iglesias": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "castellotti": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "sparken": {
+      "qualifyingElo": 1465,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "wharton": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "moss": {
+      "qualifyingElo": 1468,
+      "raceElo": 1468,
+      "globalElo": 1468
+    }
   }
 }

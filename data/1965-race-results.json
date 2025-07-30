@@ -3423,31 +3423,135 @@
     }
   ],
   "finalELOs": {
-    "clark": 1660,
-    "surtees": 1647,
-    "mclaren": 1623,
-    "gurney": 1579,
-    "hill": 1577,
-    "siffert": 1577,
-    "amon": 1545,
-    "jack_brabham": 1536,
-    "ginther": 1520,
-    "attwood": 1516,
-    "hawkins": 1510,
-    "ireland": 1510,
-    "scarfiotti": 1509,
-    "stewart": 1496,
-    "solana": 1494,
-    "prophet": 1490,
-    "bondurant": 1490,
-    "gregory": 1489,
-    "vaccarella": 1489,
-    "hailwood": 1481,
-    "bucknum": 1481,
-    "gardner": 1470,
-    "rindt": 1440,
-    "bandini": 1425,
-    "bonnier": 1419,
-    "spence": 1402
+    "clark": {
+      "qualifyingElo": 1710,
+      "raceElo": 1636,
+      "globalElo": 1659
+    },
+    "surtees": {
+      "qualifyingElo": 1710,
+      "raceElo": 1605,
+      "globalElo": 1636
+    },
+    "mclaren": {
+      "qualifyingElo": 1689,
+      "raceElo": 1585,
+      "globalElo": 1617
+    },
+    "gurney": {
+      "qualifyingElo": 1659,
+      "raceElo": 1548,
+      "globalElo": 1582
+    },
+    "siffert": {
+      "qualifyingElo": 1674,
+      "raceElo": 1532,
+      "globalElo": 1575
+    },
+    "hill": {
+      "qualifyingElo": 1747,
+      "raceElo": 1471,
+      "globalElo": 1555
+    },
+    "amon": {
+      "qualifyingElo": 1633,
+      "raceElo": 1500,
+      "globalElo": 1540
+    },
+    "jack_brabham": {
+      "qualifyingElo": 1468,
+      "raceElo": 1568,
+      "globalElo": 1537
+    },
+    "ginther": {
+      "qualifyingElo": 1525,
+      "raceElo": 1527,
+      "globalElo": 1526
+    },
+    "attwood": {
+      "qualifyingElo": 1549,
+      "raceElo": 1506,
+      "globalElo": 1519
+    },
+    "hawkins": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "scarfiotti": {
+      "qualifyingElo": 1530,
+      "raceElo": 1500,
+      "globalElo": 1509
+    },
+    "ireland": {
+      "qualifyingElo": 1529,
+      "raceElo": 1494,
+      "globalElo": 1504
+    },
+    "solana": {
+      "qualifyingElo": 1484,
+      "raceElo": 1500,
+      "globalElo": 1495
+    },
+    "stewart": {
+      "qualifyingElo": 1478,
+      "raceElo": 1501,
+      "globalElo": 1494
+    },
+    "prophet": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "gregory": {
+      "qualifyingElo": 1465,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "bondurant": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "vaccarella": {
+      "qualifyingElo": 1463,
+      "raceElo": 1500,
+      "globalElo": 1489
+    },
+    "hailwood": {
+      "qualifyingElo": 1447,
+      "raceElo": 1500,
+      "globalElo": 1484
+    },
+    "bucknum": {
+      "qualifyingElo": 1424,
+      "raceElo": 1500,
+      "globalElo": 1477
+    },
+    "gardner": {
+      "qualifyingElo": 1410,
+      "raceElo": 1500,
+      "globalElo": 1473
+    },
+    "rindt": {
+      "qualifyingElo": 1440,
+      "raceElo": 1447,
+      "globalElo": 1444
+    },
+    "bandini": {
+      "qualifyingElo": 1450,
+      "raceElo": 1427,
+      "globalElo": 1434
+    },
+    "bonnier": {
+      "qualifyingElo": 1430,
+      "raceElo": 1417,
+      "globalElo": 1423
+    },
+    "spence": {
+      "qualifyingElo": 1418,
+      "raceElo": 1396,
+      "globalElo": 1402
+    }
   }
 }

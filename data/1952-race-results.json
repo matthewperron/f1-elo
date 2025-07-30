@@ -3444,22 +3444,90 @@
     }
   ],
   "finalELOs": {
-    "alan_brown": 1540,
-    "graffenried": 1520,
-    "bira": 1518,
-    "manzon": 1510,
-    "schindler": 1510,
-    "banks": 1510,
-    "heeks": 1510,
-    "gaze": 1509,
-    "behra": 1501,
-    "schell": 1500,
-    "obrien": 1491,
-    "terra": 1490,
-    "ball": 1490,
-    "ayulo": 1490,
-    "niedermayr": 1490,
-    "claes": 1481,
-    "brandon": 1460
+    "alan_brown": {
+      "qualifyingElo": 1558,
+      "raceElo": 1532,
+      "globalElo": 1540
+    },
+    "graffenried": {
+      "qualifyingElo": 1564,
+      "raceElo": 1500,
+      "globalElo": 1520
+    },
+    "bira": {
+      "qualifyingElo": 1561,
+      "raceElo": 1500,
+      "globalElo": 1518
+    },
+    "manzon": {
+      "qualifyingElo": 1533,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "schindler": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "banks": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "heeks": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "gaze": {
+      "qualifyingElo": 1529,
+      "raceElo": 1500,
+      "globalElo": 1509
+    },
+    "behra": {
+      "qualifyingElo": 1502,
+      "raceElo": 1500,
+      "globalElo": 1501
+    },
+    "schell": {
+      "qualifyingElo": 1500,
+      "raceElo": 1500,
+      "globalElo": 1500
+    },
+    "obrien": {
+      "qualifyingElo": 1471,
+      "raceElo": 1500,
+      "globalElo": 1491
+    },
+    "terra": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "ball": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "ayulo": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "niedermayr": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "claes": {
+      "qualifyingElo": 1436,
+      "raceElo": 1500,
+      "globalElo": 1481
+    },
+    "brandon": {
+      "qualifyingElo": 1442,
+      "raceElo": 1468,
+      "globalElo": 1460
+    }
   }
 }
