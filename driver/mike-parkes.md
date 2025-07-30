@@ -2,19 +2,19 @@
 
 *Generated: 2025-07-30*
 
-**Seasons**: 1966
+**Seasons**: [1966](../results/1966-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
 ## Complete Race-by-Race Results
 
-| Season | Round | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate | Teammate Position | Teammate Starting ELO | Teammate ELO Change | Teammate Final ELO |
-|--------|-------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|-------------------|----------------------|---------------------|-------------------|
-| 1966 | 3 | French Grand Prix | 1966-07-03 | qualifying | Ferrari | 3 | 1500 | -42 | 1458 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini | 1 | N/A | N/A | N/A |
-| 1966 | 3 | French Grand Prix | 1966-07-03 | race | Ferrari | 2 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini | DNF | N/A | N/A | N/A |
-| 1966 | 3 | French Grand Prix | 1966-07-03 | global | Ferrari | Q:3/R:2 | 1500 | -13 | 1487 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini | Q:1/R:DNF | N/A | N/A | N/A |
-| 1966 | 5 | Dutch Grand Prix | 1966-07-24 | qualifying | Ferrari | 5 | 1458 | +30 | 1488 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini | 9 | N/A | N/A | N/A |
-| 1966 | 5 | Dutch Grand Prix | 1966-07-24 | race | Ferrari | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini | 6 | N/A | N/A | N/A |
-| 1966 | 5 | Dutch Grand Prix | 1966-07-24 | global | Ferrari | Q:5/R:DNF | 1487 | +9 | 1496 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini | Q:9/R:6 | N/A | N/A | N/A |
+| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| 1966 | [Round 3: French Grand Prix](../results/1966-season-report.md#round-3-french-grand-prix) | 1966-07-03 | qualifying | Ferrari | 3 | 1500 | -42 | 1458 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini |
+| 1966 | [Round 3: French Grand Prix](../results/1966-season-report.md#round-3-french-grand-prix) | 1966-07-03 | race | Ferrari | 2 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini |
+| 1966 | [Round 3: French Grand Prix](../results/1966-season-report.md#round-3-french-grand-prix) | 1966-07-03 | global | Ferrari | Q:3/R:2 | 1500 | -13 | 1487 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini |
+| 1966 | [Round 5: Dutch Grand Prix](../results/1966-season-report.md#round-5-dutch-grand-prix) | 1966-07-24 | qualifying | Ferrari | 5 | 1458 | +30 | 1488 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini |
+| 1966 | [Round 5: Dutch Grand Prix](../results/1966-season-report.md#round-5-dutch-grand-prix) | 1966-07-24 | race | Ferrari | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini |
+| 1966 | [Round 5: Dutch Grand Prix](../results/1966-season-report.md#round-5-dutch-grand-prix) | 1966-07-24 | global | Ferrari | Q:5/R:DNF | 1487 | +9 | 1496 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini |
 
 ## Career Statistics
 

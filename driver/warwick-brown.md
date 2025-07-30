@@ -2,16 +2,16 @@
 
 *Generated: 2025-07-30*
 
-**Seasons**: 1976
+**Seasons**: [1976](../results/1976-season-report.md)
 **Total Race Events**: 1 (3 individual ELO calculations)
 
 ## Complete Race-by-Race Results
 
-| Season | Round | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate | Teammate Position | Teammate Starting ELO | Teammate ELO Change | Teammate Final ELO |
-|--------|-------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|-------------------|----------------------|---------------------|-------------------|
-| 1976 | 15 | United States Grand Prix | 1976-10-10 | qualifying | Wolf | 23 | 1500 | +33 | 1533 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario | 25 | N/A | N/A | N/A |
-| 1976 | 15 | United States Grand Prix | 1976-10-10 | race | Wolf | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario | DNF | N/A | N/A | N/A |
-| 1976 | 15 | United States Grand Prix | 1976-10-10 | global | Wolf | Q:23/R:DNF | 1500 | +10 | 1510 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario | Q:25/R:DNF | N/A | N/A | N/A |
+| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| 1976 | [Round 15: United States Grand Prix](../results/1976-season-report.md#round-15-united-states-grand-prix) | 1976-10-10 | qualifying | Wolf | 23 | 1500 | +33 | 1533 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario |
+| 1976 | [Round 15: United States Grand Prix](../results/1976-season-report.md#round-15-united-states-grand-prix) | 1976-10-10 | race | Wolf | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario |
+| 1976 | [Round 15: United States Grand Prix](../results/1976-season-report.md#round-15-united-states-grand-prix) | 1976-10-10 | global | Wolf | Q:23/R:DNF | 1500 | +10 | 1510 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario |
 
 ## Career Statistics
 

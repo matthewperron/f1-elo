@@ -2,19 +2,19 @@
 
 *Generated: 2025-07-30*
 
-**Seasons**: 1963, 1969
+**Seasons**: [1963](../results/1963-season-report.md) • [1969](../results/1969-season-report.md)
 **Total Race Events**: 2 (6 individual ELO calculations)
 
 ## Complete Race-by-Race Results
 
-| Season | Round | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate | Teammate Position | Teammate Starting ELO | Teammate ELO Change | Teammate Final ELO |
-|--------|-------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|-------------------|----------------------|---------------------|-------------------|
-| 1963 | 10 | South African Grand Prix | 1963-12-28 | qualifying | LDS | 17 | 1500 | +32 | 1532 | Doug Serrurier | 18 | N/A | N/A | N/A |
-| 1963 | 10 | South African Grand Prix | 1963-12-28 | race | LDS | DNF | 1500 | N/A | 1500 | Doug Serrurier | DNF | N/A | N/A | N/A |
-| 1963 | 10 | South African Grand Prix | 1963-12-28 | global | LDS | Q:17/R:DNF | 1500 | +10 | 1510 | Doug Serrurier | Q:18/R:DNF | N/A | N/A | N/A |
-| 1969 | 1 | South African Grand Prix | 1969-03-01 | qualifying | Brabham-Repco | 17 | 1500 | -32 | 1468 | Peter de Klerk | 16 | N/A | N/A | N/A |
-| 1969 | 1 | South African Grand Prix | 1969-03-01 | race | Brabham-Repco | DNF | 1500 | N/A | 1500 | Peter de Klerk | DNF | N/A | N/A | N/A |
-| 1969 | 1 | South African Grand Prix | 1969-03-01 | global | Brabham-Repco | Q:17/R:DNF | 1500 | -10 | 1490 | Peter de Klerk | Q:16/R:DNF | N/A | N/A | N/A |
+| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| 1963 | [Round 10: South African Grand Prix](../results/1963-season-report.md#round-10-south-african-grand-prix) | 1963-12-28 | qualifying | LDS | 17 | 1500 | +32 | 1532 | Doug Serrurier |
+| 1963 | [Round 10: South African Grand Prix](../results/1963-season-report.md#round-10-south-african-grand-prix) | 1963-12-28 | race | LDS | DNF | 1500 | N/A | 1500 | Doug Serrurier |
+| 1963 | [Round 10: South African Grand Prix](../results/1963-season-report.md#round-10-south-african-grand-prix) | 1963-12-28 | global | LDS | Q:17/R:DNF | 1500 | +10 | 1510 | Doug Serrurier |
+| 1969 | [Round 1: South African Grand Prix](../results/1969-season-report.md#round-1-south-african-grand-prix) | 1969-03-01 | qualifying | Brabham-Repco | 17 | 1500 | -32 | 1468 | Peter de Klerk |
+| 1969 | [Round 1: South African Grand Prix](../results/1969-season-report.md#round-1-south-african-grand-prix) | 1969-03-01 | race | Brabham-Repco | DNF | 1500 | N/A | 1500 | Peter de Klerk |
+| 1969 | [Round 1: South African Grand Prix](../results/1969-season-report.md#round-1-south-african-grand-prix) | 1969-03-01 | global | Brabham-Repco | Q:17/R:DNF | 1500 | -10 | 1490 | Peter de Klerk |
 
 ## Career Statistics
 

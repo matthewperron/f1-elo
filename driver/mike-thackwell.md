@@ -2,16 +2,16 @@
 
 *Generated: 2025-07-30*
 
-**Seasons**: 1984
+**Seasons**: [1984](../results/1984-season-report.md)
 **Total Race Events**: 1 (3 individual ELO calculations)
 
 ## Complete Race-by-Race Results
 
-| Season | Round | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate | Teammate Position | Teammate Starting ELO | Teammate ELO Change | Teammate Final ELO |
-|--------|-------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|-------------------|----------------------|---------------------|-------------------|
-| 1984 | 7 | Canadian Grand Prix | 1984-06-17 | qualifying | RAM | 25 | 1500 | +31 | 1531 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot | 26 | N/A | N/A | N/A |
-| 1984 | 7 | Canadian Grand Prix | 1984-06-17 | race | RAM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot | DNF | N/A | N/A | N/A |
-| 1984 | 7 | Canadian Grand Prix | 1984-06-17 | global | RAM | Q:25/R:DNF | 1500 | +9 | 1509 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot | Q:26/R:DNF | N/A | N/A | N/A |
+| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| 1984 | [Round 7: Canadian Grand Prix](../results/1984-season-report.md#round-7-canadian-grand-prix) | 1984-06-17 | qualifying | RAM | 25 | 1500 | +31 | 1531 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot |
+| 1984 | [Round 7: Canadian Grand Prix](../results/1984-season-report.md#round-7-canadian-grand-prix) | 1984-06-17 | race | RAM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot |
+| 1984 | [Round 7: Canadian Grand Prix](../results/1984-season-report.md#round-7-canadian-grand-prix) | 1984-06-17 | global | RAM | Q:25/R:DNF | 1500 | +9 | 1509 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot |
 
 ## Career Statistics
 

@@ -2,16 +2,16 @@
 
 *Generated: 2025-07-30*
 
-**Seasons**: 1957
+**Seasons**: [1957](../results/1957-season-report.md)
 **Total Race Events**: 1 (3 individual ELO calculations)
 
 ## Complete Race-by-Race Results
 
-| Season | Round | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate | Teammate Position | Teammate Starting ELO | Teammate ELO Change | Teammate Final ELO |
-|--------|-------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|-------------------|----------------------|---------------------|-------------------|
-| 1957 | 4 | French Grand Prix | 1957-07-07 | qualifying | BRM | 11 | 1500 | +32 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Herbert MacKay-Fraser | 12 | N/A | N/A | N/A |
-| 1957 | 4 | French Grand Prix | 1957-07-07 | race | BRM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Herbert MacKay-Fraser | DNF | N/A | N/A | N/A |
-| 1957 | 4 | French Grand Prix | 1957-07-07 | global | BRM | Q:11/R:DNF | 1500 | +10 | 1510 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Herbert MacKay-Fraser | Q:12/R:DNF | N/A | N/A | N/A |
+| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| 1957 | [Round 4: French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix) | 1957-07-07 | qualifying | BRM | 11 | 1500 | +32 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Herbert MacKay-Fraser |
+| 1957 | [Round 4: French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix) | 1957-07-07 | race | BRM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Herbert MacKay-Fraser |
+| 1957 | [Round 4: French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix) | 1957-07-07 | global | BRM | Q:11/R:DNF | 1500 | +10 | 1510 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Herbert MacKay-Fraser |
 
 ## Career Statistics
 

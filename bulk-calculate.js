@@ -275,13 +275,14 @@ async function generateComprehensiveDriverFiles() {
         
         // Get unique seasons and sort chronologically
         const seasons = [...new Set(results.map(r => r.season))].sort();
-        content += `**Seasons**: ${seasons.join(', ')}\n`;
+        const seasonLinks = seasons.map(season => `[${season}](../results/${season}-season-report.md)`).join(' • ');
+        content += `**Seasons**: ${seasonLinks}\n`;
         content += `**Total Race Events**: ${Math.ceil(results.length / 3)} (${results.length} individual ELO calculations)\n\n`;
         
         // Summary table header
         content += `## Complete Race-by-Race Results\n\n`;
-        content += `| Season | Round | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate | Teammate Position | Teammate Starting ELO | Teammate ELO Change | Teammate Final ELO |\n`;
-        content += `|--------|-------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|-------------------|----------------------|---------------------|-------------------|\n`;
+        content += `| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |\n`;
+        content += `|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|\n`;
         
         // Sort results chronologically, then by session type
         const sortedResults = results.sort((a, b) => {
@@ -313,9 +314,13 @@ async function generateComprehensiveDriverFiles() {
         // Generate table rows
         sortedResults.forEach(result => {
             const eloChangeStr = result.eloChange !== null ? (result.eloChange >= 0 ? `+${result.eloChange}` : `${result.eloChange}`) : 'N/A';
-            const teammateEloChangeStr = result.teammateEloChange !== null ? (result.teammateEloChange >= 0 ? `+${result.teammateEloChange}` : `${result.teammateEloChange}`) : 'N/A';
             
-            content += `| ${result.season} | ${result.round} | ${result.raceName} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${result.teammate} | ${result.teammatePosition} | ${result.teammateStartingElo || 'N/A'} | ${teammateEloChangeStr} | ${result.teammateNewElo || 'N/A'} |\n`;
+            // Create race link to season report
+            const raceTitle = `Round ${result.round}: ${result.raceName}`;
+            const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+            const raceLink = `[${raceTitle}](../results/${result.season}-season-report.md#${raceAnchor})`;
+            
+            content += `| ${result.season} | ${raceLink} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${result.teammate} |\n`;
         });
         
         // Add career statistics

@@ -79,7 +79,7 @@ The following table shows current ELO ratings for all F1 drivers (updated automa
 
 <!-- ELO_RESULTS_START -->
 ### ELO Ratings (2025 Season)
-*Last updated: 2025-07-30 17:21*
+*Last updated: 2025-07-30 17:27*
 
 | Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
 |------|--------------|--------|-------------|----------------|----------|-----|
@@ -219,7 +219,7 @@ Based on peak **Global ELO** ratings (30% qualifying + 70% race performance vs t
 | 29 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen | **1730** | McLaren | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard | 1398 | 1999 | [Round 6: Canadian Grand Prix](./results/1999-season-report.md#round-6-canadian-grand-prix) |
 | 30 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg | **1729** | Williams | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite | 1423 | 1983 | [Round 9: British Grand Prix](./results/1983-season-report.md#round-9-british-grand-prix) |
 
-*Based on peak ELO ratings achieved during their F1 careers. Updated: 2025-07-30 17:21*
+*Based on peak ELO ratings achieved during their F1 careers. Updated: 2025-07-30 17:27*
 
 
 ## Detailed Season Reports
