@@ -632,10 +632,9 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
 /**
  * Update README with ELO results
  */
-async function updateREADME(driverRatings, season) {
+async function updateHomepageFiles(driverRatings, season) {
     try {
-        const readmePath = './README.md';
-        const readmeContent = await fs.readFile(readmePath, 'utf8');
+        const files = ['./README.md', './docs/index.md'];
         
         const table = generateELOTable(driverRatings, season);
         const now = new Date();
@@ -648,17 +647,26 @@ ${table}
 
 `;
         
-        // Replace content between markers
-        const updatedContent = readmeContent.replace(
-            /<!-- ELO_RESULTS_START -->.*?<!-- ELO_RESULTS_END -->/s,
-            `<!-- ELO_RESULTS_START -->\n${newContent}\n<!-- ELO_RESULTS_END -->`
-        );
-        
-        await fs.writeFile(readmePath, updatedContent, 'utf8');
-        console.log('✓ README updated with ELO ratings');
+        for (const filePath of files) {
+            try {
+                const fileContent = await fs.readFile(filePath, 'utf8');
+                
+                // Replace content between markers
+                const updatedContent = fileContent.replace(
+                    /<!-- ELO_RESULTS_START -->.*?<!-- ELO_RESULTS_END -->/s,
+                    `<!-- ELO_RESULTS_START -->\n${newContent}\n<!-- ELO_RESULTS_END -->`
+                );
+                
+                await fs.writeFile(filePath, updatedContent, 'utf8');
+                console.log(`✓ ${filePath} updated with ELO ratings`);
+            } catch (error) {
+                console.error(`Error updating ${filePath}:`, error);
+                // Continue with other files even if one fails
+            }
+        }
         
     } catch (error) {
-        console.error('Error updating README:', error);
+        console.error('Error updating homepage files:', error);
         throw error;
     }
 }
@@ -858,7 +866,7 @@ async function calculateELOFromData(season = '2025') {
         await saveFinalELOs(driverRatings, raceData, season);
         
         // Update README
-        await updateREADME(driverRatings, season);
+        await updateHomepageFiles(driverRatings, season);
         
         console.log('\n' + '='.repeat(60));
         console.log('✓ ELO calculation completed successfully!');
@@ -880,7 +888,7 @@ async function calculateELOFromData(season = '2025') {
 }
 
 // Export functions
-export { calculateELO, updateREADME, updateREADMEComprehensive, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles };
+export { calculateELO, updateHomepageFiles, updateREADMEComprehensive, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles };
 
 // Run if called directly (check if this file is the main module being executed)
 import path from 'path';

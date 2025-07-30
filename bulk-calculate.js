@@ -1,5 +1,5 @@
 import { fetchAllSeasonResults, transformRaceData, saveToFile } from './fetch-results.js';
-import { calculateELO, updateREADME, updateREADMEComprehensive, saveFinalELOs, generateSeasonReport } from './calculate-elo.js';
+import { calculateELO, updateHomepageFiles, updateREADMEComprehensive, saveFinalELOs, generateSeasonReport } from './calculate-elo.js';
 import fs from 'fs/promises';
 
 /**
