@@ -37,7 +37,7 @@ The following table shows current ELO ratings for all F1 drivers (updated automa
 
 | Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
 |------|--------------|--------|-------------|----------------|----------|-----|
-| 1 | 1100 | ![Canada](https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg) Nelson Piquet | Brabham | 1123 | 1111 | 1111 |
+| 1 | 1100 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="30"/> Nelson Piquet | Brabham | 1123 | 1111 | 1111 |
 | 2 | 1067 | Keke Rosberg | Williams | 1148 | 1102 | 1102 |
 | 3 | 1021 | 🇫🇷 Alain Prost | Renault | 1079 | 1064 | 1064 |
 | 4 | 1033 | Niki Lauda | McLaren | 1095 | 1047 | 1047 |
