@@ -696,7 +696,7 @@ function generateComprehensiveELOTable(driverRatings) {
             .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
             .toLowerCase();
         
-        const driverLink = `[${driver.name}](docs/drivers/${cleanDriverName}.md)`;
+        const driverLink = `[${driver.name}](drivers/${cleanDriverName}.md)`;
         
         table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
     });
