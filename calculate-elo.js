@@ -127,6 +127,58 @@ async function loadStartingELOs(season) {
 }
 
 /**
+ * Calculate global ELO changes using weighted approach (30% qualifying + 70% race)
+ */
+function calculateGlobalELOChanges(qualifyingChanges, raceChanges, teammates, drivers, raceEvent) {
+    if (!qualifyingChanges || !raceChanges) return null;
+    if (teammates.length !== 2) return null;
+    
+    const globalChanges = [];
+    
+    // Process each driver
+    teammates.forEach(driver => {
+        const driverId = driver.driver.driverId;
+        
+        // Find the qualifying and race changes for this driver
+        const qualChange = qualifyingChanges.find(c => c.driverId === driverId);
+        const raceChange = raceChanges.find(c => c.driverId === driverId);
+        
+        if (qualChange && raceChange) {
+            // Calculate weighted global ELO change: 30% qualifying + 70% race
+            const globalELOChange = (qualChange.eloChange * 0.3) + (raceChange.eloChange * 0.7);
+            
+            // Apply the change to the driver's global ELO
+            const driverData = drivers.get(driverId);
+            const oldGlobalElo = driverData.globalElo;
+            driverData.globalElo += globalELOChange;
+            const newGlobalElo = driverData.globalElo;
+            
+            // Find teammate for comparison info
+            const teammateId = teammates.find(t => t.driver.driverId !== driverId)?.driver.driverId;
+            const teammateData = drivers.get(teammateId);
+            const teammateQualChange = qualifyingChanges.find(c => c.driverId === teammateId);
+            const teammateRaceChange = raceChanges.find(c => c.driverId === teammateId);
+            
+            globalChanges.push({
+                type: 'global',
+                driverId: driverId,
+                driverName: driverData.name,
+                constructor: driverData.constructor,
+                position: `Q:${qualChange.position}/R:${raceChange.position}`,
+                startingElo: Math.round(oldGlobalElo),
+                eloChange: Math.round(globalELOChange),
+                newElo: Math.round(newGlobalElo),
+                result: globalELOChange > 0 ? 'Won' : globalELOChange < 0 ? 'Lost' : 'Tied',
+                opponent: teammateData?.name || 'Unknown',
+                opponentPosition: `Q:${teammateQualChange?.position || 'N/A'}/R:${teammateRaceChange?.position || 'N/A'}`
+            });
+        }
+    });
+    
+    return globalChanges.length > 0 ? globalChanges : null;
+}
+
+/**
  * Calculate ELO ratings for F1 drivers
  */
 async function calculateELO(raceData, season) {
@@ -174,8 +226,8 @@ async function calculateELO(raceData, season) {
             const raceChanges = processTeammateComparisonWithDetails(teammates, drivers, 'race', K_FACTOR, INITIAL_ELO, startingELOs);
             if (raceChanges) raceEvent.eloChanges.push(...raceChanges);
             
-            // Calculate global ELO changes (combines qualifying and race)
-            const globalChanges = processTeammateComparisonWithDetails(teammates, drivers, 'global', K_FACTOR, INITIAL_ELO, startingELOs);
+            // Calculate global ELO changes using weighted approach (30% qualifying + 70% race)
+            const globalChanges = calculateGlobalELOChanges(qualifyingChanges, raceChanges, teammates, drivers, raceEvent);
             if (globalChanges) raceEvent.eloChanges.push(...globalChanges);
         });
         
@@ -280,21 +332,9 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     } else if (type === 'race') {
         pos1 = parseInt(driver1.position);
         pos2 = parseInt(driver2.position);
-    } else { // global - use combined score (qualifying weight 0.3, race weight 0.7)
-        const qual1 = parseInt(driver1.grid);
-        const qual2 = parseInt(driver2.grid);
-        const race1 = parseInt(driver1.position);
-        const race2 = parseInt(driver2.position);
-        
-        if (isNaN(qual1) || isNaN(qual2) || (isNaN(race1) && !driver1DNF) || (isNaN(race2) && !driver2DNF)) return null;
-        
-        // Lower combined score is better (smaller positions are better)
-        const combined1 = (qual1 * 0.3) + (race1 * 0.7);
-        const combined2 = (qual2 * 0.3) + (race2 * 0.7);
-        
-        // For comparison, we need discrete positions, so whoever has better combined score "wins"
-        pos1 = combined1 < combined2 ? 1 : 2;
-        pos2 = combined1 < combined2 ? 2 : 1;
+    } else {
+        // Global ELO is now handled separately in calculateGlobalELOChanges function
+        return null;
     }
     
     // Skip if positions are invalid (but allow DNF cases to be shown)

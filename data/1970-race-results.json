@@ -4838,22 +4838,22 @@
     }
   ],
   "finalELOs": {
-    "jack_brabham": 1609,
-    "ickx": 1561,
-    "rodriguez": 1532,
+    "jack_brabham": 1636,
+    "rindt": 1571,
+    "ickx": 1564,
+    "rodriguez": 1533,
     "emerson_fittipaldi": 1532,
-    "rindt": 1529,
-    "hulme": 1517,
-    "giunti": 1500,
-    "gethin": 1500,
-    "eaton": 1500,
-    "stommelen": 1476,
-    "oliver": 1468,
+    "eaton": 1518,
+    "hill": 1515,
+    "gethin": 1498,
+    "hulme": 1496,
+    "giunti": 1492,
+    "beltoise": 1487,
+    "stommelen": 1471,
     "wisell": 1468,
-    "gurney": 1467,
-    "beltoise": 1464,
-    "regazzoni": 1442,
-    "hill": 1433,
-    "pescarolo": 1423
+    "gurney": 1464,
+    "regazzoni": 1453,
+    "oliver": 1449,
+    "pescarolo": 1418
   }
 }

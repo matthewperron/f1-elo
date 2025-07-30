@@ -3150,17 +3150,17 @@
     }
   ],
   "finalELOs": {
-    "chiron": 1500,
-    "schell": 1500,
-    "moss": 1500,
-    "abecassis": 1500,
-    "fangio": 1500,
-    "sanesi": 1500,
-    "reg_parnell": 1500,
-    "peter_walker": 1500,
-    "shawe_taylor": 1500,
-    "gerard": 1500,
-    "branca": 1500,
-    "graffenried": 1500
+    "schell": 1510,
+    "moss": 1510,
+    "fangio": 1510,
+    "peter_walker": 1510,
+    "gerard": 1510,
+    "graffenried": 1510,
+    "chiron": 1490,
+    "abecassis": 1490,
+    "sanesi": 1490,
+    "reg_parnell": 1490,
+    "shawe_taylor": 1490,
+    "branca": 1490
   }
 }
