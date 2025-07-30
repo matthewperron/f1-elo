@@ -30,7 +30,38 @@ The standard chess ELO rating system is used:
 The following table shows current ELO ratings for all F1 drivers (updated automatically):
 
 <!-- ELO_RESULTS_START -->
-*Results will be populated by the update script*
+### ELO Ratings (2024 Season)
+*Last updated: 2025-07-30*
+
+| Rank | Driver | Qualifying ELO | Race ELO | Average ELO |
+|------|--------|----------------|----------|-------------|
+| 1 | Max Verstappen | 1603 | 1624 | 1614 |
+| 2 | Alexander Albon | 1641 | 1570 | 1606 |
+| 3 | Lando Norris | 1631 | 1570 | 1601 |
+| 4 | Yuki Tsunoda | 1622 | 1542 | 1582 |
+| 5 | Fernando Alonso | 1608 | 1525 | 1567 |
+| 6 | George Russell | 1576 | 1517 | 1546 |
+| 7 | Nico Hülkenberg | 1549 | 1543 | 1546 |
+| 8 | Valtteri Bottas | 1605 | 1485 | 1545 |
+| 9 | Charles Leclerc | 1526 | 1531 | 1529 |
+| 10 | Pierre Gasly | 1529 | 1500 | 1514 |
+| 11 | Oliver Bearman | 1524 | 1502 | 1513 |
+| 12 | Esteban Ocon | 1487 | 1500 | 1494 |
+| 13 | Jack Doohan | 1485 | 1500 | 1492 |
+| 14 | Carlos Sainz | 1490 | 1485 | 1487 |
+| 15 | Daniel Ricciardo | 1443 | 1501 | 1472 |
+| 16 | Guanyu Zhou | 1395 | 1515 | 1455 |
+| 17 | Lewis Hamilton | 1424 | 1483 | 1454 |
+| 18 | Franco Colapinto | 1435 | 1473 | 1454 |
+| 19 | Liam Lawson | 1435 | 1456 | 1445 |
+| 20 | Logan Sargeant | 1424 | 1456 | 1440 |
+| 21 | Lance Stroll | 1392 | 1475 | 1433 |
+| 22 | Kevin Magnussen | 1412 | 1439 | 1425 |
+| 23 | Oscar Piastri | 1369 | 1430 | 1399 |
+| 24 | Sergio Pérez | 1397 | 1376 | 1386 |
+
+
+*Showing top 50 drivers by average ELO rating*
 <!-- ELO_RESULTS_END -->
 
 ## Usage
@@ -41,24 +72,29 @@ The following table shows current ELO ratings for all F1 drivers (updated automa
 npm install
 ```
 
-### Fetch Race Data
+### Calculate ELO Ratings
 
-Run the update script to fetch F1 data and recalculate ratings:
+Run the main script to fetch F1 data and calculate ELO ratings:
 
 ```bash
-# Fetch 2025 season data (default)
-npm run update-elo
+# Calculate ELO for 2025 season (default)
+npm start
+# or
+npm run calculate
 
-# Fetch specific season data
-npm run update-elo:2025
-npm run update-elo:2020
+# Calculate for specific seasons
+npm run calculate:2024
+npm run calculate:2023
 
 # Or specify season directly
-node update-elo.js 2020
+node main.js 2022
+
+# Just fetch data without calculating (for debugging)
+npm run fetch-only
 ```
 
 This script will:
-1. Fetch all race results from the Ergast API for the specified season
-2. Handle pagination automatically with rate limiting
-3. Save aggregated data to `f1-historical-race-results.json`
-4. Calculate ELO ratings and update this README
+1. Check for existing race data or fetch from Ergast API if needed
+2. Calculate qualifying and race ELO ratings using teammate comparisons
+3. Generate rankings and update this README with results
+4. Handle all data processing automatically with proper error handling
