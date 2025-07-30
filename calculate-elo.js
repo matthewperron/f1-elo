@@ -29,6 +29,7 @@ async function calculateELO(raceData, season) {
     const drivers = new Map(); // Map of driverId -> { qualifyingElo, raceElo, globalElo, name, constructor, startingElo }
     const K_FACTOR = 32; // ELO K-factor
     const INITIAL_ELO = 1000; // Starting ELO rating
+    const raceEvents = []; // Store detailed race-by-race ELO changes
     
     // Load starting ELOs from previous season
     const startingELOs = await loadStartingELOs(season);
@@ -38,6 +39,14 @@ async function calculateELO(raceData, season) {
     // Process each race in chronological order
     raceData.races.forEach((race, raceIndex) => {
         console.log(`Processing race ${raceIndex + 1}/${raceData.races.length}: ${race.raceName}`);
+        
+        const raceEvent = {
+            raceIndex: raceIndex + 1,
+            raceName: race.raceName,
+            date: race.date,
+            round: race.round,
+            eloChanges: []
+        };
         
         // Group drivers by constructor (team)
         const teamGroups = new Map();
@@ -54,14 +63,22 @@ async function calculateELO(raceData, season) {
             if (teammates.length < 2) return; // Skip teams with only one driver
             
             // Calculate qualifying ELO changes
-            processTeammateComparison(teammates, drivers, 'qualifying', K_FACTOR, INITIAL_ELO, startingELOs);
+            const qualifyingChanges = processTeammateComparisonWithDetails(teammates, drivers, 'qualifying', K_FACTOR, INITIAL_ELO, startingELOs);
+            if (qualifyingChanges) raceEvent.eloChanges.push(...qualifyingChanges);
             
             // Calculate race ELO changes
-            processTeammateComparison(teammates, drivers, 'race', K_FACTOR, INITIAL_ELO, startingELOs);
+            const raceChanges = processTeammateComparisonWithDetails(teammates, drivers, 'race', K_FACTOR, INITIAL_ELO, startingELOs);
+            if (raceChanges) raceEvent.eloChanges.push(...raceChanges);
             
             // Calculate global ELO changes (combines qualifying and race)
-            processTeammateComparison(teammates, drivers, 'global', K_FACTOR, INITIAL_ELO, startingELOs);
+            const globalChanges = processTeammateComparisonWithDetails(teammates, drivers, 'global', K_FACTOR, INITIAL_ELO, startingELOs);
+            if (globalChanges) raceEvent.eloChanges.push(...globalChanges);
         });
+        
+        // Only add race event if there were ELO changes
+        if (raceEvent.eloChanges.length > 0) {
+            raceEvents.push(raceEvent);
+        }
     });
     
     // Convert to sorted array
@@ -79,14 +96,22 @@ async function calculateELO(raceData, season) {
     driverRatings.sort((a, b) => b.globalElo - a.globalElo);
     
     console.log(`✓ ELO calculations completed for ${driverRatings.length} drivers`);
-    return driverRatings;
+    return { driverRatings, raceEvents };
+}
+
+/**
+ * Process ELO changes between teammates for qualifying, race, or global (with detailed tracking)
+ */
+function processTeammateComparisonWithDetails(teammates, drivers, type, kFactor, initialElo, startingELOs) {
+    const changes = processTeammateComparison(teammates, drivers, type, kFactor, initialElo, startingELOs);
+    return changes;
 }
 
 /**
  * Process ELO changes between teammates for qualifying, race, or global
  */
 function processTeammateComparison(teammates, drivers, type, kFactor, initialElo, startingELOs) {
-    if (teammates.length !== 2) return; // Only handle 2-driver teams for now
+    if (teammates.length !== 2) return null; // Only handle 2-driver teams for now
     
     const [driver1, driver2] = teammates;
     
@@ -95,7 +120,7 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     if (type === 'race' || type === 'global') {
         if (!validStatuses.some(status => driver1.status.includes(status)) ||
             !validStatuses.some(status => driver2.status.includes(status))) {
-            return; // Skip this comparison
+            return null; // Skip this comparison
         }
     }
     
@@ -165,7 +190,13 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     }
     
     // Skip if positions are invalid
-    if (isNaN(pos1) || isNaN(pos2)) return;
+    if (isNaN(pos1) || isNaN(pos2)) return null;
+    
+    // Store starting ELOs before changes
+    const startingElo1 = type === 'qualifying' ? driver1Data.qualifyingElo : 
+                        type === 'race' ? driver1Data.raceElo : driver1Data.globalElo;
+    const startingElo2 = type === 'qualifying' ? driver2Data.qualifyingElo : 
+                        type === 'race' ? driver2Data.raceElo : driver2Data.globalElo;
     
     // Calculate expected scores
     const expectedScore1 = 1 / (1 + Math.pow(10, (elo2 - elo1) / 400));
@@ -190,6 +221,36 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
         driver1Data.globalElo += eloChange1;
         driver2Data.globalElo += eloChange2;
     }
+    
+    // Return detailed change information
+    return [
+        {
+            type: type,
+            driverId: driver1.driver.driverId,
+            driverName: driver1Data.name,
+            constructor: driver1Data.constructor,
+            position: pos1,
+            startingElo: Math.round(startingElo1),
+            eloChange: Math.round(eloChange1),
+            newElo: Math.round(startingElo1 + eloChange1),
+            won: actualScore1 === 1,
+            opponent: driver2Data.name,
+            opponentPosition: pos2
+        },
+        {
+            type: type,
+            driverId: driver2.driver.driverId,
+            driverName: driver2Data.name,
+            constructor: driver2Data.constructor,
+            position: pos2,
+            startingElo: Math.round(startingElo2),
+            eloChange: Math.round(eloChange2),
+            newElo: Math.round(startingElo2 + eloChange2),
+            won: actualScore2 === 1,
+            opponent: driver1Data.name,
+            opponentPosition: pos1
+        }
+    ];
 }
 
 /**
@@ -204,6 +265,69 @@ function generateELOTable(driverRatings) {
     });
     
     return table;
+}
+
+/**
+ * Generate detailed season markdown file
+ */
+async function generateSeasonReport(driverRatings, raceEvents, season) {
+    const timestamp = new Date().toISOString().split('T')[0];
+    
+    let content = `# ${season} F1 Season - ELO Analysis\n\n`;
+    content += `*Generated: ${timestamp}*\n\n`;
+    
+    // Final ELO Table
+    content += `## Final ELO Ratings\n\n`;
+    content += generateELOTable(driverRatings);
+    content += `\n\n*Showing top 50 drivers by global ELO rating*\n\n`;
+    
+    // Race-by-race details
+    content += `## Race-by-Race ELO Changes\n\n`;
+    
+    raceEvents.forEach(race => {
+        content += `### Round ${race.round}: ${race.raceName}\n`;
+        content += `*Date: ${race.date}*\n\n`;
+        
+        // Group changes by type
+        const qualifyingChanges = race.eloChanges.filter(c => c.type === 'qualifying');
+        const raceChanges = race.eloChanges.filter(c => c.type === 'race');
+        const globalChanges = race.eloChanges.filter(c => c.type === 'global');
+        
+        if (qualifyingChanges.length > 0) {
+            content += `#### Qualifying ELO Changes\n\n`;
+            content += `| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |\n`;
+            content += `|--------|-------------|----------|--------------|--------|---------|--------|--------------|\n`;
+            
+            qualifyingChanges.forEach(change => {
+                const result = change.won ? 'Won' : 'Lost';
+                const changeStr = change.eloChange >= 0 ? `+${change.eloChange}` : `${change.eloChange}`;
+                content += `| ${change.driverName} | ${change.constructor} | ${change.position} | ${change.startingElo} | ${changeStr} | ${change.newElo} | ${result} | ${change.opponent} (P${change.opponentPosition}) |\n`;
+            });
+            content += '\n';
+        }
+        
+        if (raceChanges.length > 0) {
+            content += `#### Race ELO Changes\n\n`;
+            content += `| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |\n`;
+            content += `|--------|-------------|----------|--------------|--------|---------|--------|--------------|\n`;
+            
+            raceChanges.forEach(change => {
+                const result = change.won ? 'Won' : 'Lost';
+                const changeStr = change.eloChange >= 0 ? `+${change.eloChange}` : `${change.eloChange}`;
+                content += `| ${change.driverName} | ${change.constructor} | ${change.position} | ${change.startingElo} | ${changeStr} | ${change.newElo} | ${result} | ${change.opponent} (P${change.opponentPosition}) |\n`;
+            });
+            content += '\n';
+        }
+        
+        content += '---\n\n';
+    });
+    
+    // Save to results folder
+    const filePath = `results/${season}-season-report.md`;
+    await fs.writeFile(filePath, content, 'utf8');
+    console.log(`✓ Season report saved to ${filePath}`);
+    
+    return filePath;
 }
 
 /**
@@ -282,7 +406,10 @@ async function calculateELOFromData(season = '2025') {
         console.log(`✓ Loaded ${raceData.totalRaces} races for ${season} season`);
         
         // Calculate ELO ratings
-        const driverRatings = await calculateELO(raceData, season);
+        const { driverRatings, raceEvents } = await calculateELO(raceData, season);
+        
+        // Generate detailed season report
+        await generateSeasonReport(driverRatings, raceEvents, season);
         
         // Save final ELOs
         await saveFinalELOs(driverRatings, raceData, season);
