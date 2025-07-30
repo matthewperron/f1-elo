@@ -82,7 +82,7 @@ async function calculateSeason(season, retryCount = 0) {
             season, 
             races: raceData.totalRaces, 
             drivers: driverRatings.length,
-            topDriver: `${driverRatings[0].name} (${driverRatings[0].globalElo} ELO)`
+            topDriver: `${driverRatings[0].nameName} (${driverRatings[0].globalElo} ELO)`
         };
         
     } catch (error) {
@@ -155,8 +155,8 @@ async function bulkCalculate() {
         
         // Add a delay between seasons to be respectful to API
         if (year < endYear && !result.needsRetry) {
-            console.log(`Waiting 2 seconds before next season...`);
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            console.log(`Waiting 100ms seconds before next season...`);
+            await new Promise(resolve => setTimeout(resolve, 100));
         }
     }
     

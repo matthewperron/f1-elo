@@ -5,12 +5,14 @@ import fs from 'fs/promises';
  */
 const COUNTRY_FLAGS = {
     'Argentina': { url: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg', alt: 'Argentina', emoji: '🇦🇷' },
+    'Argentine': { url: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg', alt: 'Argentina', emoji: '🇦🇷' },
     'Australia': { url: 'https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg', alt: 'Australia', emoji: '🇦🇺' },
     'Australian': { url: 'https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg', alt: 'Australia', emoji: '🇦🇺' },
     'Austria': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg', alt: 'Austria', emoji: '🇦🇹' },
     'Austrian': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg', alt: 'Austria', emoji: '🇦🇹' },
     'Belgium': { url: 'https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg', alt: 'Belgium', emoji: '🇧🇪' },
     'Brazil': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg', alt: 'Brazil', emoji: '🇧🇷' },
+    'Brazilian': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg', alt: 'Brazil', emoji: '🇧🇷' },
     'Britain': { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817', alt: 'United Kingdom', emoji: '🇬🇧' },
     'British': { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817', alt: 'United Kingdom', emoji: '🇬🇧' },
     'Canada': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg', alt: 'Canada', emoji: '🇨🇦' },
@@ -42,6 +44,7 @@ const COUNTRY_FLAGS = {
     'Netherlands': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg', alt: 'Netherlands', emoji: '🇳🇱' },
     'Dutch': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg', alt: 'Netherlands', emoji: '🇳🇱' },
     'New Zealand': { url: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg', alt: 'New Zealand', emoji: '🇳🇿' },
+    'New Zealander': { url: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg', alt: 'New Zealand', emoji: '🇳🇿' },
     'Poland': { url: 'https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg', alt: 'Poland', emoji: '🇵🇱' },
     'Portugal': { url: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg', alt: 'Portugal', emoji: '🇵🇹' },
     'Russia': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg', alt: 'Russia', emoji: '🇷🇺' },
@@ -430,37 +433,47 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
         const raceChanges = race.eloChanges.filter(c => c.type === 'race');
         const globalChanges = race.eloChanges.filter(c => c.type === 'global');
         
-        if (qualifyingChanges.length > 0) {
-            content += `#### Qualifying ELO Changes\n\n`;
-            content += `| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |\n`;
-            content += `|--------|-------------|----------|--------------|--------|---------|--------|--------------|\n`;
-            
-            qualifyingChanges.forEach(change => {
-                const changeStr = formatEloChange(change.eloChange);
-                content += `| ${change.driverName} | ${change.constructor} | ${change.position} | ${change.startingElo} | ${changeStr} | ${change.newElo} | ${change.result} | ${change.opponent} (P${change.opponentPosition}) |\n`;
-            });
-            content += '\n';
-        }
-        
-        if (raceChanges.length > 0) {
-            content += `#### Race ELO Changes\n\n`;
-            content += `| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |\n`;
-            content += `|--------|-------------|----------|--------------|--------|---------|--------|--------------|\n`;
-            
-            raceChanges.forEach(change => {
-                const changeStr = formatEloChange(change.eloChange);
-                content += `| ${change.driverName} | ${change.constructor} | ${change.position} | ${change.startingElo} | ${changeStr} | ${change.newElo} | ${change.result} | ${change.opponent} (P${change.opponentPosition}) |\n`;
-            });
-            content += '\n';
-        }
-        
-        // Add complete race results showing all participants
+        // Show all qualifying participants
         if (allRaceData) {
             const raceDetail = allRaceData.races.find(r => r.round == race.round);
-            if (raceDetail) {
-                content += `#### All Race Participants\n\n`;
-                content += `| Driver | Constructor | Grid | Position | Status | ELO Change |\n`;
-                content += `|--------|-------------|------|----------|--------|-----------|\n`;
+            if (raceDetail && raceDetail.results.length > 0) {
+                content += `#### Qualifying Results\n\n`;
+                content += `| Driver | Constructor | Grid | Status | Starting ELO | Change | New ELO | vs Teammate |\n`;
+                content += `|--------|-------------|------|--------|--------------|--------|---------|-------------|\n`;
+                
+                // Sort by grid position
+                const sortedByGrid = raceDetail.results.sort((a, b) => {
+                    const aGrid = parseInt(a.grid) || 999;
+                    const bGrid = parseInt(b.grid) || 999;
+                    return aGrid - bGrid;
+                });
+                
+                sortedByGrid.forEach(result => {
+                    const flag = getCountryFlag(result.driver);
+                    const driverName = `${flag} ${result.driver.givenName} ${result.driver.familyName}`.trim();
+                    const gridPos = result.grid || 'N/A';
+                    const status = result.status || 'Unknown';
+                    
+                    // Find if this driver had qualifying ELO changes
+                    const qualifyingChange = qualifyingChanges.find(c => c.driverId === result.driver.driverId);
+                    const startingElo = qualifyingChange ? qualifyingChange.startingElo : 'N/A';
+                    const eloChangeStr = qualifyingChange ? formatEloChange(qualifyingChange.eloChange) : 'N/A';
+                    const newElo = qualifyingChange ? qualifyingChange.newElo : 'N/A';
+                    const teammate = qualifyingChange ? `${qualifyingChange.opponent} (P${qualifyingChange.opponentPosition})` : 'N/A';
+                    
+                    content += `| ${driverName} | ${result.constructor.name} | ${gridPos} | ${status} | ${startingElo} | ${eloChangeStr} | ${newElo} | ${teammate} |\n`;
+                });
+                content += '\n';
+            }
+        }
+        
+        // Show all race participants
+        if (allRaceData) {
+            const raceDetail = allRaceData.races.find(r => r.round == race.round);
+            if (raceDetail && raceDetail.results.length > 0) {
+                content += `#### Race Results\n\n`;
+                content += `| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |\n`;
+                content += `|--------|-------------|----------|--------|--------------|--------|---------|-------------|\n`;
                 
                 // Sort by finishing position (finished drivers first, then DNFs)
                 const sortedResults = raceDetail.results.sort((a, b) => {
@@ -481,19 +494,23 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
                 sortedResults.forEach(result => {
                     const flag = getCountryFlag(result.driver);
                     const driverName = `${flag} ${result.driver.givenName} ${result.driver.familyName}`.trim();
-                    const gridPos = result.grid || 'N/A';
                     const finishPos = !isNaN(parseInt(result.position)) ? result.position : 'DNF';
                     const status = result.status || 'Unknown';
                     
-                    // Find if this driver had ELO changes in this race
-                    const driverRaceChange = raceChanges.find(c => c.driverId === result.driver.driverId);
-                    const eloChangeStr = driverRaceChange ? formatEloChange(driverRaceChange.eloChange) : 'N/A';
+                    // Find if this driver had race ELO changes
+                    const raceChange = raceChanges.find(c => c.driverId === result.driver.driverId);
+                    const startingElo = raceChange ? raceChange.startingElo : 'N/A';
+                    const eloChangeStr = raceChange ? formatEloChange(raceChange.eloChange) : 'N/A';
+                    const newElo = raceChange ? raceChange.newElo : 'N/A';
+                    const teammate = raceChange ? `${raceChange.opponent} (P${raceChange.opponentPosition})` : 'N/A';
                     
-                    content += `| ${driverName} | ${result.constructor.name} | ${gridPos} | ${finishPos} | ${status} | ${eloChangeStr} |\n`;
+                    content += `| ${driverName} | ${result.constructor.name} | ${finishPos} | ${status} | ${startingElo} | ${eloChangeStr} | ${newElo} | ${teammate} |\n`;
                 });
                 content += '\n';
             }
         }
+        
+
         
         content += '---\n\n';
     });
