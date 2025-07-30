@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1349
-**Peak Qualifying ELO**: 1468 (1971 Round 1 - South African Grand Prix)
-**Lowest Qualifying ELO**: 1292 (1973 Round 2 - Brazilian Grand Prix)
-**Race ELO**: 1500 → 1425
-**Peak Race ELO**: 1509 (1973 Round 9 - British Grand Prix)
-**Lowest Race ELO**: 1372 (1972 Round 9 - Austrian Grand Prix)
-**Global ELO**: 1500 → 1402
-**Peak Global ELO**: 1490 (1971 Round 1 - South African Grand Prix)
-**Lowest Global ELO**: 1351 (1972 Round 11 - Canadian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1349
+
+🏆 **Peak ELO**: 1468
+   *1971 Round 1 - South African Grand Prix*
+
+📉 **Lowest ELO**: 1292
+   *1973 Round 2 - Brazilian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1425
+
+🏆 **Peak ELO**: 1509
+   *1973 Round 9 - British Grand Prix*
+
+📉 **Lowest ELO**: 1372
+   *1972 Round 9 - Austrian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1402
+
+🏆 **Peak ELO**: 1490
+   *1971 Round 1 - South African Grand Prix*
+
+📉 **Lowest ELO**: 1351
+   *1972 Round 11 - Canadian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

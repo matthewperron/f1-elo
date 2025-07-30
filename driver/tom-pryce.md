@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1741
-**Peak Qualifying ELO**: 1741 (1977 Round 3 - South African Grand Prix)
-**Lowest Qualifying ELO**: 1452 (1975 Round 3 - South African Grand Prix)
-**Race ELO**: 1500 → 1625
-**Peak Race ELO**: 1625 (1976 Round 14 - Canadian Grand Prix)
-**Lowest Race ELO**: 1494 (1976 Round 5 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1660
-**Peak Global ELO**: 1660 (1977 Round 3 - South African Grand Prix)
-**Lowest Global ELO**: 1493 (1974 Round 8 - Dutch Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1741
+
+🏆 **Peak ELO**: 1741
+   *1977 Round 3 - South African Grand Prix*
+
+📉 **Lowest ELO**: 1452
+   *1975 Round 3 - South African Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1625
+
+🏆 **Peak ELO**: 1625
+   *1976 Round 14 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1494
+   *1976 Round 5 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1660
+
+🏆 **Peak ELO**: 1660
+   *1977 Round 3 - South African Grand Prix*
+
+📉 **Lowest ELO**: 1493
+   *1974 Round 8 - Dutch Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

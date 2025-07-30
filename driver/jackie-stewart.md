@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1651
-**Peak Qualifying ELO**: 1743 (1969 Round 8 - Italian Grand Prix)
-**Lowest Qualifying ELO**: 1474 (1966 Round 5 - Dutch Grand Prix)
-**Race ELO**: 1500 → 1575
-**Peak Race ELO**: 1628 (1972 Round 9 - Austrian Grand Prix)
-**Lowest Race ELO**: 1443 (1965 Round 2 - Monaco Grand Prix)
-**Global ELO**: 1500 → 1598
-**Peak Global ELO**: 1649 (1972 Round 11 - Canadian Grand Prix)
-**Lowest Global ELO**: 1454 (1965 Round 2 - Monaco Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1651
+
+🏆 **Peak ELO**: 1743
+   *1969 Round 8 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1474
+   *1966 Round 5 - Dutch Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1575
+
+🏆 **Peak ELO**: 1628
+   *1972 Round 9 - Austrian Grand Prix*
+
+📉 **Lowest ELO**: 1443
+   *1965 Round 2 - Monaco Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1598
+
+🏆 **Peak ELO**: 1649
+   *1972 Round 11 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1454
+   *1965 Round 2 - Monaco Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

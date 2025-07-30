@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1521
-**Peak Qualifying ELO**: 1614 (2015 Round 15 - Russian Grand Prix)
-**Lowest Qualifying ELO**: 1469 (2014 Round 19 - Abu Dhabi Grand Prix)
-**Race ELO**: 1500 → 1436
-**Peak Race ELO**: 1558 (2015 Round 4 - Bahrain Grand Prix)
-**Lowest Race ELO**: 1391 (2015 Round 17 - Mexican Grand Prix)
-**Global ELO**: 1500 → 1461
-**Peak Global ELO**: 1563 (2015 Round 5 - Spanish Grand Prix)
-**Lowest Global ELO**: 1423 (2015 Round 18 - Brazilian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1521
+
+🏆 **Peak ELO**: 1614
+   *2015 Round 15 - Russian Grand Prix*
+
+📉 **Lowest ELO**: 1469
+   *2014 Round 19 - Abu Dhabi Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1436
+
+🏆 **Peak ELO**: 1558
+   *2015 Round 4 - Bahrain Grand Prix*
+
+📉 **Lowest ELO**: 1391
+   *2015 Round 17 - Mexican Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1461
+
+🏆 **Peak ELO**: 1563
+   *2015 Round 5 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1423
+   *2015 Round 18 - Brazilian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

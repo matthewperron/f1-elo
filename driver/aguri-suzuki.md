@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1382
-**Peak Qualifying ELO**: 1520 (1990 Round 6 - Mexican Grand Prix)
-**Lowest Qualifying ELO**: 1299 (1993 Round 6 - Monaco Grand Prix)
-**Race ELO**: 1500 → 1501
-**Peak Race ELO**: 1532 (1990 Round 7 - French Grand Prix)
-**Lowest Race ELO**: 1385 (1992 Round 14 - Portuguese Grand Prix)
-**Global ELO**: 1500 → 1466
-**Peak Global ELO**: 1517 (1990 Round 7 - French Grand Prix)
-**Lowest Global ELO**: 1365 (1992 Round 14 - Portuguese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1382
+
+🏆 **Peak ELO**: 1520
+   *1990 Round 6 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1299
+   *1993 Round 6 - Monaco Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1501
+
+🏆 **Peak ELO**: 1532
+   *1990 Round 7 - French Grand Prix*
+
+📉 **Lowest ELO**: 1385
+   *1992 Round 14 - Portuguese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1466
+
+🏆 **Peak ELO**: 1517
+   *1990 Round 7 - French Grand Prix*
+
+📉 **Lowest ELO**: 1365
+   *1992 Round 14 - Portuguese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

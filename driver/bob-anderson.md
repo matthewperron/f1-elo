@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1503
-**Peak Qualifying ELO**: 1503 (1966 Round 3 - French Grand Prix)
-**Lowest Qualifying ELO**: 1468 (1966 Round 1 - Monaco Grand Prix)
-**Global ELO**: 1500 → 1501
-**Peak Global ELO**: 1501 (1966 Round 3 - French Grand Prix)
-**Lowest Global ELO**: 1490 (1966 Round 1 - Monaco Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1503
+
+🏆 **Peak ELO**: 1503
+   *1966 Round 3 - French Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1966 Round 1 - Monaco Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1501
+
+🏆 **Peak ELO**: 1501
+   *1966 Round 3 - French Grand Prix*
+
+📉 **Lowest ELO**: 1490
+   *1966 Round 1 - Monaco Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

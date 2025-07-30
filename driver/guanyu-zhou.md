@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1507
-**Peak Qualifying ELO**: 1668 (2023 Round 3 - Australian Grand Prix)
-**Lowest Qualifying ELO**: 1408 (2024 Round 21 - São Paulo Grand Prix)
-**Race ELO**: 1500 → 1507
-**Peak Race ELO**: 1507 (2024 Round 23 - Qatar Grand Prix)
-**Lowest Race ELO**: 1370 (2022 Round 11 - Austrian Grand Prix)
-**Global ELO**: 1500 → 1509
-**Peak Global ELO**: 1529 (2023 Round 3 - Australian Grand Prix)
-**Lowest Global ELO**: 1416 (2022 Round 14 - Belgian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1507
+
+🏆 **Peak ELO**: 1668
+   *2023 Round 3 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1408
+   *2024 Round 21 - São Paulo Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1507
+
+🏆 **Peak ELO**: 1507
+   *2024 Round 23 - Qatar Grand Prix*
+
+📉 **Lowest ELO**: 1370
+   *2022 Round 11 - Austrian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1509
+
+🏆 **Peak ELO**: 1529
+   *2023 Round 3 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1416
+   *2022 Round 14 - Belgian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

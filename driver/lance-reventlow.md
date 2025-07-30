@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1506
-**Peak Qualifying ELO**: 1506 (1960 Round 5 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1468 (1960 Round 4 - Dutch Grand Prix)
-**Global ELO**: 1500 → 1502
-**Peak Global ELO**: 1502 (1960 Round 5 - Belgian Grand Prix)
-**Lowest Global ELO**: 1490 (1960 Round 4 - Dutch Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1506
+
+🏆 **Peak ELO**: 1506
+   *1960 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1960 Round 4 - Dutch Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1502
+
+🏆 **Peak ELO**: 1502
+   *1960 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1490
+   *1960 Round 4 - Dutch Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1639
-**Peak Qualifying ELO**: 1669 (2021 Round 21 - Saudi Arabian Grand Prix)
-**Lowest Qualifying ELO**: 1391 (2023 Round 2 - Saudi Arabian Grand Prix)
-**Race ELO**: 1500 → 1567
-**Peak Race ELO**: 1689 (2021 Round 21 - Saudi Arabian Grand Prix)
-**Lowest Race ELO**: 1336 (2024 Round 6 - Miami Grand Prix)
-**Global ELO**: 1500 → 1588
-**Peak Global ELO**: 1682 (2021 Round 21 - Saudi Arabian Grand Prix)
-**Lowest Global ELO**: 1361 (2024 Round 7 - Emilia Romagna Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1639
+
+🏆 **Peak ELO**: 1669
+   *2021 Round 21 - Saudi Arabian Grand Prix*
+
+📉 **Lowest ELO**: 1391
+   *2023 Round 2 - Saudi Arabian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1567
+
+🏆 **Peak ELO**: 1689
+   *2021 Round 21 - Saudi Arabian Grand Prix*
+
+📉 **Lowest ELO**: 1336
+   *2024 Round 6 - Miami Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1588
+
+🏆 **Peak ELO**: 1682
+   *2021 Round 21 - Saudi Arabian Grand Prix*
+
+📉 **Lowest ELO**: 1361
+   *2024 Round 7 - Emilia Romagna Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1471
-**Peak Qualifying ELO**: 1471 (1952 Round 3 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1471 (1952 Round 3 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1491
-**Peak Global ELO**: 1491 (1952 Round 3 - Belgian Grand Prix)
-**Lowest Global ELO**: 1491 (1952 Round 3 - Belgian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1471
+
+🏆 **Peak ELO**: 1471
+   *1952 Round 3 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1471
+   *1952 Round 3 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1491
+
+🏆 **Peak ELO**: 1491
+   *1952 Round 3 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1491
+   *1952 Round 3 - Belgian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

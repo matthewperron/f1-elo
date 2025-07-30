@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1564
-**Peak Qualifying ELO**: 1606 (1978 Round 11 - German Grand Prix)
-**Lowest Qualifying ELO**: 1445 (1976 Round 8 - French Grand Prix)
-**Global ELO**: 1500 → 1520
-**Peak Global ELO**: 1533 (1978 Round 11 - German Grand Prix)
-**Lowest Global ELO**: 1484 (1976 Round 8 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1564
+
+🏆 **Peak ELO**: 1606
+   *1978 Round 11 - German Grand Prix*
+
+📉 **Lowest ELO**: 1445
+   *1976 Round 8 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1520
+
+🏆 **Peak ELO**: 1533
+   *1978 Round 11 - German Grand Prix*
+
+📉 **Lowest ELO**: 1484
+   *1976 Round 8 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

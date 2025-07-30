@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1527
-**Peak Qualifying ELO**: 1527 (1954 Round 9 - Spanish Grand Prix)
-**Lowest Qualifying ELO**: 1527 (1954 Round 9 - Spanish Grand Prix)
-**Global ELO**: 1500 → 1508
-**Peak Global ELO**: 1508 (1954 Round 9 - Spanish Grand Prix)
-**Lowest Global ELO**: 1508 (1954 Round 9 - Spanish Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1527
+
+🏆 **Peak ELO**: 1527
+   *1954 Round 9 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1527
+   *1954 Round 9 - Spanish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1508
+
+🏆 **Peak ELO**: 1508
+   *1954 Round 9 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1508
+   *1954 Round 9 - Spanish Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

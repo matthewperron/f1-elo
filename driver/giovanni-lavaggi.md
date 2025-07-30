@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1326
-**Peak Qualifying ELO**: 1468 (1995 Round 9 - German Grand Prix)
-**Lowest Qualifying ELO**: 1326 (1996 Round 15 - Portuguese Grand Prix)
-**Global ELO**: 1500 → 1448
-**Peak Global ELO**: 1490 (1995 Round 9 - German Grand Prix)
-**Lowest Global ELO**: 1448 (1996 Round 15 - Portuguese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1326
+
+🏆 **Peak ELO**: 1468
+   *1995 Round 9 - German Grand Prix*
+
+📉 **Lowest ELO**: 1326
+   *1996 Round 15 - Portuguese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1448
+
+🏆 **Peak ELO**: 1490
+   *1995 Round 9 - German Grand Prix*
+
+📉 **Lowest ELO**: 1448
+   *1996 Round 15 - Portuguese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

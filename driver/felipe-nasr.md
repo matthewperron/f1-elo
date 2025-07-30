@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1442
-**Peak Qualifying ELO**: 1597 (2016 Round 14 - Italian Grand Prix)
-**Lowest Qualifying ELO**: 1382 (2016 Round 3 - Chinese Grand Prix)
-**Race ELO**: 1500 → 1402
-**Peak Race ELO**: 1602 (2015 Round 6 - Monaco Grand Prix)
-**Lowest Race ELO**: 1365 (2016 Round 7 - Canadian Grand Prix)
-**Global ELO**: 1500 → 1412
-**Peak Global ELO**: 1596 (2015 Round 6 - Monaco Grand Prix)
-**Lowest Global ELO**: 1388 (2016 Round 5 - Spanish Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1442
+
+🏆 **Peak ELO**: 1597
+   *2016 Round 14 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1382
+   *2016 Round 3 - Chinese Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1402
+
+🏆 **Peak ELO**: 1602
+   *2015 Round 6 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1365
+   *2016 Round 7 - Canadian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1412
+
+🏆 **Peak ELO**: 1596
+   *2015 Round 6 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1388
+   *2016 Round 5 - Spanish Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

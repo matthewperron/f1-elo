@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1468
-**Peak Qualifying ELO**: 1539 (1988 Round 2 - San Marino Grand Prix)
-**Lowest Qualifying ELO**: 1439 (1988 Round 15 - Japanese Grand Prix)
-**Race ELO**: 1500 → 1468
-**Peak Race ELO**: 1469 (1988 Round 15 - Japanese Grand Prix)
-**Lowest Race ELO**: 1468 (1991 Round 3 - San Marino Grand Prix)
-**Global ELO**: 1500 → 1468
-**Peak Global ELO**: 1512 (1988 Round 2 - San Marino Grand Prix)
-**Lowest Global ELO**: 1461 (1988 Round 15 - Japanese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1539
+   *1988 Round 2 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1439
+   *1988 Round 15 - Japanese Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1469
+   *1988 Round 15 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1991 Round 3 - San Marino Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1512
+   *1988 Round 2 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1461
+   *1988 Round 15 - Japanese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

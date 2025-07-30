@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1459
-**Peak Qualifying ELO**: 1459 (1959 Round 9 - United States Grand Prix)
-**Lowest Qualifying ELO**: 1459 (1959 Round 9 - United States Grand Prix)
-**Global ELO**: 1500 → 1488
-**Peak Global ELO**: 1488 (1959 Round 9 - United States Grand Prix)
-**Lowest Global ELO**: 1488 (1959 Round 9 - United States Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1459
+
+🏆 **Peak ELO**: 1459
+   *1959 Round 9 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1459
+   *1959 Round 9 - United States Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1488
+
+🏆 **Peak ELO**: 1488
+   *1959 Round 9 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1488
+   *1959 Round 9 - United States Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

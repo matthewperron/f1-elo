@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1460
-**Peak Qualifying ELO**: 1600 (2015 Round 9 - British Grand Prix)
-**Lowest Qualifying ELO**: 1305 (2020 Round 6 - Spanish Grand Prix)
-**Race ELO**: 1500 → 1461
-**Peak Race ELO**: 1664 (2015 Round 18 - Brazilian Grand Prix)
-**Lowest Race ELO**: 1381 (2017 Round 12 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1461
-**Peak Global ELO**: 1640 (2015 Round 18 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1396 (2017 Round 12 - Belgian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1460
+
+🏆 **Peak ELO**: 1600
+   *2015 Round 9 - British Grand Prix*
+
+📉 **Lowest ELO**: 1305
+   *2020 Round 6 - Spanish Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1461
+
+🏆 **Peak ELO**: 1664
+   *2015 Round 18 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1381
+   *2017 Round 12 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1461
+
+🏆 **Peak ELO**: 1640
+   *2015 Round 18 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1396
+   *2017 Round 12 - Belgian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

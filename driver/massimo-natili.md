@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1470
-**Peak Qualifying ELO**: 1470 (1961 Round 5 - British Grand Prix)
-**Lowest Qualifying ELO**: 1470 (1961 Round 5 - British Grand Prix)
-**Global ELO**: 1500 → 1491
-**Peak Global ELO**: 1491 (1961 Round 5 - British Grand Prix)
-**Lowest Global ELO**: 1491 (1961 Round 5 - British Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1470
+
+🏆 **Peak ELO**: 1470
+   *1961 Round 5 - British Grand Prix*
+
+📉 **Lowest ELO**: 1470
+   *1961 Round 5 - British Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1491
+
+🏆 **Peak ELO**: 1491
+   *1961 Round 5 - British Grand Prix*
+
+📉 **Lowest ELO**: 1491
+   *1961 Round 5 - British Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

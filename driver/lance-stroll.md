@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1251
-**Peak Qualifying ELO**: 1579 (2021 Round 17 - United States Grand Prix)
-**Lowest Qualifying ELO**: 1190 (2025 Round 12 - British Grand Prix)
-**Race ELO**: 1500 → 1519
-**Peak Race ELO**: 1587 (2020 Round 8 - Italian Grand Prix)
-**Lowest Race ELO**: 1375 (2017 Round 12 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1435
-**Peak Global ELO**: 1575 (2021 Round 16 - Turkish Grand Prix)
-**Lowest Global ELO**: 1350 (2020 Round 1 - Austrian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1251
+
+🏆 **Peak ELO**: 1579
+   *2021 Round 17 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1190
+   *2025 Round 12 - British Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1519
+
+🏆 **Peak ELO**: 1587
+   *2020 Round 8 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1375
+   *2017 Round 12 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1435
+
+🏆 **Peak ELO**: 1575
+   *2021 Round 16 - Turkish Grand Prix*
+
+📉 **Lowest ELO**: 1350
+   *2020 Round 1 - Austrian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

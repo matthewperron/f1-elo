@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1385
-**Peak Qualifying ELO**: 1468 (2002 Round 1 - Australian Grand Prix)
-**Lowest Qualifying ELO**: 1323 (2002 Round 11 - French Grand Prix)
-**Race ELO**: 1500 → 1472
-**Peak Race ELO**: 1558 (2002 Round 5 - Spanish Grand Prix)
-**Lowest Race ELO**: 1472 (2002 Round 16 - United States Grand Prix)
-**Global ELO**: 1500 → 1446
-**Peak Global ELO**: 1506 (2002 Round 5 - Spanish Grand Prix)
-**Lowest Global ELO**: 1446 (2002 Round 17 - Japanese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1385
+
+🏆 **Peak ELO**: 1468
+   *2002 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1323
+   *2002 Round 11 - French Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1472
+
+🏆 **Peak ELO**: 1558
+   *2002 Round 5 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1472
+   *2002 Round 16 - United States Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1446
+
+🏆 **Peak ELO**: 1506
+   *2002 Round 5 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1446
+   *2002 Round 17 - Japanese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

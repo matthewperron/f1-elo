@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1471
-**Peak Qualifying ELO**: 1471 (1954 Round 2 - Indianapolis 500)
-**Lowest Qualifying ELO**: 1471 (1954 Round 2 - Indianapolis 500)
-**Global ELO**: 1500 → 1491
-**Peak Global ELO**: 1491 (1954 Round 2 - Indianapolis 500)
-**Lowest Global ELO**: 1491 (1954 Round 2 - Indianapolis 500)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1471
+
+🏆 **Peak ELO**: 1471
+   *1954 Round 2 - Indianapolis 500*
+
+📉 **Lowest ELO**: 1471
+   *1954 Round 2 - Indianapolis 500*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1491
+
+🏆 **Peak ELO**: 1491
+   *1954 Round 2 - Indianapolis 500*
+
+📉 **Lowest ELO**: 1491
+   *1954 Round 2 - Indianapolis 500*
+
 
 ## Complete Race-by-Race Results
 

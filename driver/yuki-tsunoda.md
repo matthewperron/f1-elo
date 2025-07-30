@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1552
-**Peak Qualifying ELO**: 1709 (2025 Round 1 - Australian Grand Prix)
-**Lowest Qualifying ELO**: 1312 (2021 Round 21 - Saudi Arabian Grand Prix)
-**Race ELO**: 1500 → 1553
-**Peak Race ELO**: 1621 (2023 Round 12 - Belgian Grand Prix)
-**Lowest Race ELO**: 1350 (2021 Round 21 - Saudi Arabian Grand Prix)
-**Global ELO**: 1500 → 1553
-**Peak Global ELO**: 1618 (2025 Round 1 - Australian Grand Prix)
-**Lowest Global ELO**: 1339 (2021 Round 21 - Saudi Arabian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1552
+
+🏆 **Peak ELO**: 1709
+   *2025 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1312
+   *2021 Round 21 - Saudi Arabian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1553
+
+🏆 **Peak ELO**: 1621
+   *2023 Round 12 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1350
+   *2021 Round 21 - Saudi Arabian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1553
+
+🏆 **Peak ELO**: 1618
+   *2025 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1339
+   *2021 Round 21 - Saudi Arabian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

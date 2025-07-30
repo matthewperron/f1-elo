@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1470
-**Peak Qualifying ELO**: 1854 (2002 Round 1 - Australian Grand Prix)
-**Lowest Qualifying ELO**: 1460 (1997 Round 1 - Australian Grand Prix)
-**Race ELO**: 1500 → 1356
-**Peak Race ELO**: 1736 (2001 Round 16 - United States Grand Prix)
-**Lowest Race ELO**: 1356 (2011 Round 19 - Brazilian Grand Prix)
-**Global ELO**: 1500 → 1392
-**Peak Global ELO**: 1771 (2002 Round 1 - Australian Grand Prix)
-**Lowest Global ELO**: 1392 (2011 Round 19 - Brazilian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1470
+
+🏆 **Peak ELO**: 1854
+   *2002 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1460
+   *1997 Round 1 - Australian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1356
+
+🏆 **Peak ELO**: 1736
+   *2001 Round 16 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1356
+   *2011 Round 19 - Brazilian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1392
+
+🏆 **Peak ELO**: 1771
+   *2002 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1392
+   *2011 Round 19 - Brazilian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

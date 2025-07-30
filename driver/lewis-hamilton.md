@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1609
-**Peak Qualifying ELO**: 2018 (2021 Round 15 - Russian Grand Prix)
-**Lowest Qualifying ELO**: 1476 (2007 Round 2 - Malaysian Grand Prix)
-**Race ELO**: 1500 → 1604
-**Peak Race ELO**: 1884 (2023 Round 21 - Las Vegas Grand Prix)
-**Lowest Race ELO**: 1484 (2007 Round 2 - Malaysian Grand Prix)
-**Global ELO**: 1500 → 1610
-**Peak Global ELO**: 1861 (2023 Round 20 - São Paulo Grand Prix)
-**Lowest Global ELO**: 1482 (2007 Round 2 - Malaysian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1609
+
+🏆 **Peak ELO**: 2018
+   *2021 Round 15 - Russian Grand Prix*
+
+📉 **Lowest ELO**: 1476
+   *2007 Round 2 - Malaysian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1604
+
+🏆 **Peak ELO**: 1884
+   *2023 Round 21 - Las Vegas Grand Prix*
+
+📉 **Lowest ELO**: 1484
+   *2007 Round 2 - Malaysian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1610
+
+🏆 **Peak ELO**: 1861
+   *2023 Round 20 - São Paulo Grand Prix*
+
+📉 **Lowest ELO**: 1482
+   *2007 Round 2 - Malaysian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

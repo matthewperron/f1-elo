@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1532
-**Peak Qualifying ELO**: 1532 (1953 Round 7 - German Grand Prix)
-**Lowest Qualifying ELO**: 1532 (1953 Round 7 - German Grand Prix)
-**Race ELO**: 1500 → 1532
-**Peak Race ELO**: 1532 (1953 Round 7 - German Grand Prix)
-**Lowest Race ELO**: 1532 (1953 Round 7 - German Grand Prix)
-**Global ELO**: 1500 → 1532
-**Peak Global ELO**: 1532 (1953 Round 7 - German Grand Prix)
-**Lowest Global ELO**: 1532 (1953 Round 7 - German Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1532
+
+🏆 **Peak ELO**: 1532
+   *1953 Round 7 - German Grand Prix*
+
+📉 **Lowest ELO**: 1532
+   *1953 Round 7 - German Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1532
+
+🏆 **Peak ELO**: 1532
+   *1953 Round 7 - German Grand Prix*
+
+📉 **Lowest ELO**: 1532
+   *1953 Round 7 - German Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1532
+
+🏆 **Peak ELO**: 1532
+   *1953 Round 7 - German Grand Prix*
+
+📉 **Lowest ELO**: 1532
+   *1953 Round 7 - German Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

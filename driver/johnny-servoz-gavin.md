@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1459
-**Peak Qualifying ELO**: 1532 (1968 Round 6 - French Grand Prix)
-**Lowest Qualifying ELO**: 1459 (1968 Round 12 - Mexican Grand Prix)
-**Global ELO**: 1500 → 1488
-**Peak Global ELO**: 1510 (1968 Round 6 - French Grand Prix)
-**Lowest Global ELO**: 1488 (1968 Round 12 - Mexican Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1459
+
+🏆 **Peak ELO**: 1532
+   *1968 Round 6 - French Grand Prix*
+
+📉 **Lowest ELO**: 1459
+   *1968 Round 12 - Mexican Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1488
+
+🏆 **Peak ELO**: 1510
+   *1968 Round 6 - French Grand Prix*
+
+📉 **Lowest ELO**: 1488
+   *1968 Round 12 - Mexican Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

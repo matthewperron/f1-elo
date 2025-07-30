@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1662
-**Peak Qualifying ELO**: 1700 (2025 Round 10 - Canadian Grand Prix)
-**Lowest Qualifying ELO**: 1474 (2023 Round 11 - Hungarian Grand Prix)
-**Race ELO**: 1500 → 1591
-**Peak Race ELO**: 1643 (2025 Round 6 - Miami Grand Prix)
-**Lowest Race ELO**: 1453 (2024 Round 7 - Emilia Romagna Grand Prix)
-**Global ELO**: 1500 → 1614
-**Peak Global ELO**: 1638 (2025 Round 10 - Canadian Grand Prix)
-**Lowest Global ELO**: 1485 (2024 Round 7 - Emilia Romagna Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1662
+
+🏆 **Peak ELO**: 1700
+   *2025 Round 10 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1474
+   *2023 Round 11 - Hungarian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1591
+
+🏆 **Peak ELO**: 1643
+   *2025 Round 6 - Miami Grand Prix*
+
+📉 **Lowest ELO**: 1453
+   *2024 Round 7 - Emilia Romagna Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1614
+
+🏆 **Peak ELO**: 1638
+   *2025 Round 10 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1485
+   *2024 Round 7 - Emilia Romagna Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

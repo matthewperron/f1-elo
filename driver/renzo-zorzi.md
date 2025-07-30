@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1408
-**Peak Qualifying ELO**: 1485 (1977 Round 1 - Argentine Grand Prix)
-**Lowest Qualifying ELO**: 1408 (1977 Round 5 - Spanish Grand Prix)
-**Global ELO**: 1500 → 1473
-**Peak Global ELO**: 1496 (1977 Round 1 - Argentine Grand Prix)
-**Lowest Global ELO**: 1473 (1977 Round 5 - Spanish Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1408
+
+🏆 **Peak ELO**: 1485
+   *1977 Round 1 - Argentine Grand Prix*
+
+📉 **Lowest ELO**: 1408
+   *1977 Round 5 - Spanish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1473
+
+🏆 **Peak ELO**: 1496
+   *1977 Round 1 - Argentine Grand Prix*
+
+📉 **Lowest ELO**: 1473
+   *1977 Round 5 - Spanish Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

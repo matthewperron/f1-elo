@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1453
-**Peak Qualifying ELO**: 1475 (1963 Round 1 - Monaco Grand Prix)
-**Lowest Qualifying ELO**: 1453 (1963 Round 6 - German Grand Prix)
-**Global ELO**: 1500 → 1486
-**Peak Global ELO**: 1493 (1963 Round 1 - Monaco Grand Prix)
-**Lowest Global ELO**: 1486 (1963 Round 6 - German Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1453
+
+🏆 **Peak ELO**: 1475
+   *1963 Round 1 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1453
+   *1963 Round 6 - German Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1486
+
+🏆 **Peak ELO**: 1493
+   *1963 Round 1 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1486
+   *1963 Round 6 - German Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

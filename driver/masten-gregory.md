@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1508
-**Peak Qualifying ELO**: 1561 (1960 Round 8 - Portuguese Grand Prix)
-**Lowest Qualifying ELO**: 1473 (1962 Round 3 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1502
-**Peak Global ELO**: 1518 (1960 Round 8 - Portuguese Grand Prix)
-**Lowest Global ELO**: 1492 (1962 Round 3 - Belgian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1508
+
+🏆 **Peak ELO**: 1561
+   *1960 Round 8 - Portuguese Grand Prix*
+
+📉 **Lowest ELO**: 1473
+   *1962 Round 3 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1502
+
+🏆 **Peak ELO**: 1518
+   *1960 Round 8 - Portuguese Grand Prix*
+
+📉 **Lowest ELO**: 1492
+   *1962 Round 3 - Belgian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

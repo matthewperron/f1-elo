@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1497
-**Peak Qualifying ELO**: 1532 (1957 Round 2 - Monaco Grand Prix)
-**Lowest Qualifying ELO**: 1497 (1957 Round 4 - French Grand Prix)
-**Global ELO**: 1500 → 1499
-**Peak Global ELO**: 1510 (1957 Round 2 - Monaco Grand Prix)
-**Lowest Global ELO**: 1499 (1957 Round 4 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1497
+
+🏆 **Peak ELO**: 1532
+   *1957 Round 2 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1497
+   *1957 Round 4 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1499
+
+🏆 **Peak ELO**: 1510
+   *1957 Round 2 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1499
+   *1957 Round 4 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

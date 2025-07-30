@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1485
-**Peak Qualifying ELO**: 1485 (1993 Round 13 - Italian Grand Prix)
-**Lowest Qualifying ELO**: 1485 (1993 Round 13 - Italian Grand Prix)
-**Global ELO**: 1500 → 1496
-**Peak Global ELO**: 1496 (1993 Round 13 - Italian Grand Prix)
-**Lowest Global ELO**: 1496 (1993 Round 13 - Italian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1485
+
+🏆 **Peak ELO**: 1485
+   *1993 Round 13 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1485
+   *1993 Round 13 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1496
+
+🏆 **Peak ELO**: 1496
+   *1993 Round 13 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1496
+   *1993 Round 13 - Italian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

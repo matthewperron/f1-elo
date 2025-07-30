@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1506
-**Peak Qualifying ELO**: 1506 (1994 Round 3 - San Marino Grand Prix)
-**Lowest Qualifying ELO**: 1468 (1994 Round 2 - Pacific Grand Prix)
-**Global ELO**: 1500 → 1502
-**Peak Global ELO**: 1502 (1994 Round 3 - San Marino Grand Prix)
-**Lowest Global ELO**: 1490 (1994 Round 2 - Pacific Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1506
+
+🏆 **Peak ELO**: 1506
+   *1994 Round 3 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1994 Round 2 - Pacific Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1502
+
+🏆 **Peak ELO**: 1502
+   *1994 Round 3 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1490
+   *1994 Round 2 - Pacific Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1529
-**Peak Qualifying ELO**: 1529 (1999 Round 2 - Brazilian Grand Prix)
-**Lowest Qualifying ELO**: 1529 (1999 Round 2 - Brazilian Grand Prix)
-**Global ELO**: 1500 → 1509
-**Peak Global ELO**: 1509 (1999 Round 2 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1509 (1999 Round 2 - Brazilian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1529
+
+🏆 **Peak ELO**: 1529
+   *1999 Round 2 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1529
+   *1999 Round 2 - Brazilian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1509
+
+🏆 **Peak ELO**: 1509
+   *1999 Round 2 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1509
+   *1999 Round 2 - Brazilian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1439
-**Peak Qualifying ELO**: 1468 (1967 Round 7 - German Grand Prix)
-**Lowest Qualifying ELO**: 1439 (1968 Round 6 - French Grand Prix)
-**Global ELO**: 1500 → 1481
-**Peak Global ELO**: 1490 (1967 Round 7 - German Grand Prix)
-**Lowest Global ELO**: 1481 (1968 Round 6 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1439
+
+🏆 **Peak ELO**: 1468
+   *1967 Round 7 - German Grand Prix*
+
+📉 **Lowest ELO**: 1439
+   *1968 Round 6 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1481
+
+🏆 **Peak ELO**: 1490
+   *1967 Round 7 - German Grand Prix*
+
+📉 **Lowest ELO**: 1481
+   *1968 Round 6 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

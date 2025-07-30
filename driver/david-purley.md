@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1457
-**Peak Qualifying ELO**: 1457 (1973 Round 11 - German Grand Prix)
-**Lowest Qualifying ELO**: 1457 (1973 Round 11 - German Grand Prix)
-**Race ELO**: 1500 → 1535
-**Peak Race ELO**: 1535 (1973 Round 11 - German Grand Prix)
-**Lowest Race ELO**: 1535 (1973 Round 11 - German Grand Prix)
-**Global ELO**: 1500 → 1512
-**Peak Global ELO**: 1512 (1973 Round 11 - German Grand Prix)
-**Lowest Global ELO**: 1512 (1973 Round 11 - German Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1457
+
+🏆 **Peak ELO**: 1457
+   *1973 Round 11 - German Grand Prix*
+
+📉 **Lowest ELO**: 1457
+   *1973 Round 11 - German Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1535
+
+🏆 **Peak ELO**: 1535
+   *1973 Round 11 - German Grand Prix*
+
+📉 **Lowest ELO**: 1535
+   *1973 Round 11 - German Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1512
+
+🏆 **Peak ELO**: 1512
+   *1973 Round 11 - German Grand Prix*
+
+📉 **Lowest ELO**: 1512
+   *1973 Round 11 - German Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1380
-**Peak Qualifying ELO**: 1656 (1989 Round 2 - San Marino Grand Prix)
-**Lowest Qualifying ELO**: 1380 (1993 Round 1 - South African Grand Prix)
-**Race ELO**: 1500 → 1478
-**Peak Race ELO**: 1537 (1988 Round 12 - Italian Grand Prix)
-**Lowest Race ELO**: 1466 (1990 Round 11 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1447
-**Peak Global ELO**: 1572 (1989 Round 2 - San Marino Grand Prix)
-**Lowest Global ELO**: 1447 (1993 Round 1 - South African Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1380
+
+🏆 **Peak ELO**: 1656
+   *1989 Round 2 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1380
+   *1993 Round 1 - South African Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1478
+
+🏆 **Peak ELO**: 1537
+   *1988 Round 12 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1466
+   *1990 Round 11 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1447
+
+🏆 **Peak ELO**: 1572
+   *1989 Round 2 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1447
+   *1993 Round 1 - South African Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

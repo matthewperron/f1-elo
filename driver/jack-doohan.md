@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1429
-**Peak Qualifying ELO**: 1469 (2024 Round 24 - Abu Dhabi Grand Prix)
-**Lowest Qualifying ELO**: 1377 (2025 Round 5 - Saudi Arabian Grand Prix)
-**Race ELO**: 1500 → 1428
-**Peak Race ELO**: 1461 (2025 Round 3 - Japanese Grand Prix)
-**Lowest Race ELO**: 1428 (2025 Round 4 - Bahrain Grand Prix)
-**Global ELO**: 1500 → 1429
-**Peak Global ELO**: 1491 (2024 Round 24 - Abu Dhabi Grand Prix)
-**Lowest Global ELO**: 1414 (2025 Round 5 - Saudi Arabian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1429
+
+🏆 **Peak ELO**: 1469
+   *2024 Round 24 - Abu Dhabi Grand Prix*
+
+📉 **Lowest ELO**: 1377
+   *2025 Round 5 - Saudi Arabian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1428
+
+🏆 **Peak ELO**: 1461
+   *2025 Round 3 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1428
+   *2025 Round 4 - Bahrain Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1429
+
+🏆 **Peak ELO**: 1491
+   *2024 Round 24 - Abu Dhabi Grand Prix*
+
+📉 **Lowest ELO**: 1414
+   *2025 Round 5 - Saudi Arabian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

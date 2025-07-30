@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1340
-**Peak Qualifying ELO**: 1465 (1988 Round 1 - Brazilian Grand Prix)
-**Lowest Qualifying ELO**: 1340 (1988 Round 16 - Australian Grand Prix)
-**Global ELO**: 1500 → 1452
-**Peak Global ELO**: 1490 (1988 Round 1 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1452 (1988 Round 16 - Australian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1340
+
+🏆 **Peak ELO**: 1465
+   *1988 Round 1 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1340
+   *1988 Round 16 - Australian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1452
+
+🏆 **Peak ELO**: 1490
+   *1988 Round 1 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1452
+   *1988 Round 16 - Australian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

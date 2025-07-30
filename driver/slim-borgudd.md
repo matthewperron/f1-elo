@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1389
-**Peak Qualifying ELO**: 1468 (1981 Round 4 - San Marino Grand Prix)
-**Lowest Qualifying ELO**: 1389 (1982 Round 3 - United States Grand Prix West)
-**Race ELO**: 1500 → 1463
-**Peak Race ELO**: 1463 (1982 Round 2 - Brazilian Grand Prix)
-**Lowest Race ELO**: 1463 (1982 Round 2 - Brazilian Grand Prix)
-**Global ELO**: 1500 → 1441
-**Peak Global ELO**: 1490 (1981 Round 4 - San Marino Grand Prix)
-**Lowest Global ELO**: 1441 (1982 Round 3 - United States Grand Prix West)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1389
+
+🏆 **Peak ELO**: 1468
+   *1981 Round 4 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1389
+   *1982 Round 3 - United States Grand Prix West*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1463
+
+🏆 **Peak ELO**: 1463
+   *1982 Round 2 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1463
+   *1982 Round 2 - Brazilian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1441
+
+🏆 **Peak ELO**: 1490
+   *1981 Round 4 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1441
+   *1982 Round 3 - United States Grand Prix West*
+
 
 ## Complete Race-by-Race Results
 

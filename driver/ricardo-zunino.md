@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1356
-**Peak Qualifying ELO**: 1478 (1979 Round 15 - United States Grand Prix)
-**Lowest Qualifying ELO**: 1356 (1981 Round 3 - Argentine Grand Prix)
-**Race ELO**: 1500 → 1440
-**Peak Race ELO**: 1467 (1980 Round 1 - Argentine Grand Prix)
-**Lowest Race ELO**: 1440 (1980 Round 3 - South African Grand Prix)
-**Global ELO**: 1500 → 1414
-**Peak Global ELO**: 1493 (1979 Round 15 - United States Grand Prix)
-**Lowest Global ELO**: 1414 (1981 Round 3 - Argentine Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1356
+
+🏆 **Peak ELO**: 1478
+   *1979 Round 15 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1356
+   *1981 Round 3 - Argentine Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1440
+
+🏆 **Peak ELO**: 1467
+   *1980 Round 1 - Argentine Grand Prix*
+
+📉 **Lowest ELO**: 1440
+   *1980 Round 3 - South African Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1414
+
+🏆 **Peak ELO**: 1493
+   *1979 Round 15 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1414
+   *1981 Round 3 - Argentine Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

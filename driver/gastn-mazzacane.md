@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1329
-**Peak Qualifying ELO**: 1478 (2000 Round 3 - San Marino Grand Prix)
-**Lowest Qualifying ELO**: 1329 (2001 Round 4 - San Marino Grand Prix)
-**Race ELO**: 1500 → 1379
-**Peak Race ELO**: 1470 (2000 Round 4 - British Grand Prix)
-**Lowest Race ELO**: 1379 (2001 Round 2 - Malaysian Grand Prix)
-**Global ELO**: 1500 → 1364
-**Peak Global ELO**: 1494 (2000 Round 3 - San Marino Grand Prix)
-**Lowest Global ELO**: 1364 (2001 Round 4 - San Marino Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1329
+
+🏆 **Peak ELO**: 1478
+   *2000 Round 3 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1329
+   *2001 Round 4 - San Marino Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1379
+
+🏆 **Peak ELO**: 1470
+   *2000 Round 4 - British Grand Prix*
+
+📉 **Lowest ELO**: 1379
+   *2001 Round 2 - Malaysian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1364
+
+🏆 **Peak ELO**: 1494
+   *2000 Round 3 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1364
+   *2001 Round 4 - San Marino Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

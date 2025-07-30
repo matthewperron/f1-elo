@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1532
-**Peak Qualifying ELO**: 1532 (1957 Round 3 - Indianapolis 500)
-**Lowest Qualifying ELO**: 1532 (1957 Round 3 - Indianapolis 500)
-**Race ELO**: 1500 → 1532
-**Peak Race ELO**: 1532 (1957 Round 3 - Indianapolis 500)
-**Lowest Race ELO**: 1532 (1957 Round 3 - Indianapolis 500)
-**Global ELO**: 1500 → 1532
-**Peak Global ELO**: 1532 (1957 Round 3 - Indianapolis 500)
-**Lowest Global ELO**: 1532 (1957 Round 3 - Indianapolis 500)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1532
+
+🏆 **Peak ELO**: 1532
+   *1957 Round 3 - Indianapolis 500*
+
+📉 **Lowest ELO**: 1532
+   *1957 Round 3 - Indianapolis 500*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1532
+
+🏆 **Peak ELO**: 1532
+   *1957 Round 3 - Indianapolis 500*
+
+📉 **Lowest ELO**: 1532
+   *1957 Round 3 - Indianapolis 500*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1532
+
+🏆 **Peak ELO**: 1532
+   *1957 Round 3 - Indianapolis 500*
+
+📉 **Lowest ELO**: 1532
+   *1957 Round 3 - Indianapolis 500*
+
 
 ## Complete Race-by-Race Results
 

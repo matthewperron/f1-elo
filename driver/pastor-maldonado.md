@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1458
-**Peak Qualifying ELO**: 1758 (2012 Round 19 - United States Grand Prix)
-**Lowest Qualifying ELO**: 1402 (2015 Round 18 - Brazilian Grand Prix)
-**Race ELO**: 1500 → 1442
-**Peak Race ELO**: 1604 (2013 Round 17 - Abu Dhabi Grand Prix)
-**Lowest Race ELO**: 1420 (2012 Round 13 - Italian Grand Prix)
-**Global ELO**: 1500 → 1448
-**Peak Global ELO**: 1602 (2011 Round 17 - Indian Grand Prix)
-**Lowest Global ELO**: 1431 (2015 Round 18 - Brazilian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1458
+
+🏆 **Peak ELO**: 1758
+   *2012 Round 19 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1402
+   *2015 Round 18 - Brazilian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1442
+
+🏆 **Peak ELO**: 1604
+   *2013 Round 17 - Abu Dhabi Grand Prix*
+
+📉 **Lowest ELO**: 1420
+   *2012 Round 13 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1448
+
+🏆 **Peak ELO**: 1602
+   *2011 Round 17 - Indian Grand Prix*
+
+📉 **Lowest ELO**: 1431
+   *2015 Round 18 - Brazilian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

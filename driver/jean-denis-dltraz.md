@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1428
-**Peak Qualifying ELO**: 1465 (1994 Round 16 - Australian Grand Prix)
-**Lowest Qualifying ELO**: 1428 (1995 Round 14 - European Grand Prix)
-**Global ELO**: 1500 → 1479
-**Peak Global ELO**: 1490 (1994 Round 16 - Australian Grand Prix)
-**Lowest Global ELO**: 1479 (1995 Round 14 - European Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1428
+
+🏆 **Peak ELO**: 1465
+   *1994 Round 16 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1428
+   *1995 Round 14 - European Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1479
+
+🏆 **Peak ELO**: 1490
+   *1994 Round 16 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1479
+   *1995 Round 14 - European Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

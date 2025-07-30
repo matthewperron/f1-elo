@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1441
-**Peak Qualifying ELO**: 1499 (2016 Round 10 - British Grand Prix)
-**Lowest Qualifying ELO**: 1431 (2016 Round 5 - Spanish Grand Prix)
-**Race ELO**: 1500 → 1361
-**Peak Race ELO**: 1468 (2016 Round 2 - Bahrain Grand Prix)
-**Lowest Race ELO**: 1361 (2016 Round 12 - German Grand Prix)
-**Global ELO**: 1500 → 1384
-**Peak Global ELO**: 1490 (2016 Round 1 - Australian Grand Prix)
-**Lowest Global ELO**: 1384 (2016 Round 12 - German Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1441
+
+🏆 **Peak ELO**: 1499
+   *2016 Round 10 - British Grand Prix*
+
+📉 **Lowest ELO**: 1431
+   *2016 Round 5 - Spanish Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1361
+
+🏆 **Peak ELO**: 1468
+   *2016 Round 2 - Bahrain Grand Prix*
+
+📉 **Lowest ELO**: 1361
+   *2016 Round 12 - German Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1384
+
+🏆 **Peak ELO**: 1490
+   *2016 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1384
+   *2016 Round 12 - German Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

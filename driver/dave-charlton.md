@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1466
-**Peak Qualifying ELO**: 1466 (1971 Round 6 - British Grand Prix)
-**Lowest Qualifying ELO**: 1466 (1971 Round 6 - British Grand Prix)
-**Global ELO**: 1500 → 1490
-**Peak Global ELO**: 1490 (1971 Round 6 - British Grand Prix)
-**Lowest Global ELO**: 1490 (1971 Round 6 - British Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1466
+
+🏆 **Peak ELO**: 1466
+   *1971 Round 6 - British Grand Prix*
+
+📉 **Lowest ELO**: 1466
+   *1971 Round 6 - British Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1490
+
+🏆 **Peak ELO**: 1490
+   *1971 Round 6 - British Grand Prix*
+
+📉 **Lowest ELO**: 1490
+   *1971 Round 6 - British Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

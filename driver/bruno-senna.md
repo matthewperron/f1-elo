@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1511
-**Peak Qualifying ELO**: 1640 (2010 Round 14 - Italian Grand Prix)
-**Lowest Qualifying ELO**: 1456 (2012 Round 19 - United States Grand Prix)
-**Race ELO**: 1500 → 1416
-**Peak Race ELO**: 1556 (2010 Round 19 - Abu Dhabi Grand Prix)
-**Lowest Race ELO**: 1391 (2011 Round 19 - Brazilian Grand Prix)
-**Global ELO**: 1500 → 1444
-**Peak Global ELO**: 1559 (2010 Round 19 - Abu Dhabi Grand Prix)
-**Lowest Global ELO**: 1428 (2012 Round 19 - United States Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1511
+
+🏆 **Peak ELO**: 1640
+   *2010 Round 14 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1456
+   *2012 Round 19 - United States Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1416
+
+🏆 **Peak ELO**: 1556
+   *2010 Round 19 - Abu Dhabi Grand Prix*
+
+📉 **Lowest ELO**: 1391
+   *2011 Round 19 - Brazilian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1444
+
+🏆 **Peak ELO**: 1559
+   *2010 Round 19 - Abu Dhabi Grand Prix*
+
+📉 **Lowest ELO**: 1428
+   *2012 Round 19 - United States Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

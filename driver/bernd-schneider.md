@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1526
-**Peak Qualifying ELO**: 1530 (1988 Round 4 - Mexican Grand Prix)
-**Lowest Qualifying ELO**: 1483 (1988 Round 11 - Belgian Grand Prix)
-**Race ELO**: 1500 → 1462
-**Peak Race ELO**: 1535 (1988 Round 9 - German Grand Prix)
-**Lowest Race ELO**: 1462 (1990 Round 1 - United States Grand Prix)
-**Global ELO**: 1500 → 1481
-**Peak Global ELO**: 1531 (1988 Round 9 - German Grand Prix)
-**Lowest Global ELO**: 1481 (1990 Round 1 - United States Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1526
+
+🏆 **Peak ELO**: 1530
+   *1988 Round 4 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1483
+   *1988 Round 11 - Belgian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1462
+
+🏆 **Peak ELO**: 1535
+   *1988 Round 9 - German Grand Prix*
+
+📉 **Lowest ELO**: 1462
+   *1990 Round 1 - United States Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1481
+
+🏆 **Peak ELO**: 1531
+   *1988 Round 9 - German Grand Prix*
+
+📉 **Lowest ELO**: 1481
+   *1990 Round 1 - United States Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

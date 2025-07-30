@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1513
-**Peak Qualifying ELO**: 1620 (1989 Round 11 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1417 (1990 Round 7 - French Grand Prix)
-**Race ELO**: 1500 → 1532
-**Peak Race ELO**: 1577 (1990 Round 11 - Belgian Grand Prix)
-**Lowest Race ELO**: 1494 (1989 Round 6 - Canadian Grand Prix)
-**Global ELO**: 1500 → 1526
-**Peak Global ELO**: 1571 (1990 Round 15 - Japanese Grand Prix)
-**Lowest Global ELO**: 1494 (1990 Round 7 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1513
+
+🏆 **Peak ELO**: 1620
+   *1989 Round 11 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1417
+   *1990 Round 7 - French Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1532
+
+🏆 **Peak ELO**: 1577
+   *1990 Round 11 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1494
+   *1989 Round 6 - Canadian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1526
+
+🏆 **Peak ELO**: 1571
+   *1990 Round 15 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1494
+   *1990 Round 7 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

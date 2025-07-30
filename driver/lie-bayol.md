@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1558
-**Peak Qualifying ELO**: 1558 (1953 Round 9 - Italian Grand Prix)
-**Lowest Qualifying ELO**: 1532 (1953 Round 5 - French Grand Prix)
-**Global ELO**: 1500 → 1517
-**Peak Global ELO**: 1517 (1953 Round 9 - Italian Grand Prix)
-**Lowest Global ELO**: 1510 (1953 Round 5 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1558
+
+🏆 **Peak ELO**: 1558
+   *1953 Round 9 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1532
+   *1953 Round 5 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1517
+
+🏆 **Peak ELO**: 1517
+   *1953 Round 9 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1510
+   *1953 Round 5 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

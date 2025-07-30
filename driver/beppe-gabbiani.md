@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1561
-**Peak Qualifying ELO**: 1561 (1981 Round 5 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1532 (1981 Round 4 - San Marino Grand Prix)
-**Global ELO**: 1500 → 1518
-**Peak Global ELO**: 1518 (1981 Round 5 - Belgian Grand Prix)
-**Lowest Global ELO**: 1510 (1981 Round 4 - San Marino Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1561
+
+🏆 **Peak ELO**: 1561
+   *1981 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1532
+   *1981 Round 4 - San Marino Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1518
+
+🏆 **Peak ELO**: 1518
+   *1981 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1510
+   *1981 Round 4 - San Marino Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1471
-**Peak Qualifying ELO**: 1471 (1959 Round 1 - Monaco Grand Prix)
-**Lowest Qualifying ELO**: 1471 (1959 Round 1 - Monaco Grand Prix)
-**Global ELO**: 1500 → 1491
-**Peak Global ELO**: 1491 (1959 Round 1 - Monaco Grand Prix)
-**Lowest Global ELO**: 1491 (1959 Round 1 - Monaco Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1471
+
+🏆 **Peak ELO**: 1471
+   *1959 Round 1 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1471
+   *1959 Round 1 - Monaco Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1491
+
+🏆 **Peak ELO**: 1491
+   *1959 Round 1 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1491
+   *1959 Round 1 - Monaco Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

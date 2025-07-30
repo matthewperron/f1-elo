@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1957
-**Peak Qualifying ELO**: 1957 (2025 Round 13 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1419 (2015 Round 7 - Canadian Grand Prix)
-**Race ELO**: 1500 → 2037
-**Peak Race ELO**: 2037 (2025 Round 13 - Belgian Grand Prix)
-**Lowest Race ELO**: 1438 (2015 Round 12 - Italian Grand Prix)
-**Global ELO**: 1500 → 2013
-**Peak Global ELO**: 2013 (2025 Round 13 - Belgian Grand Prix)
-**Lowest Global ELO**: 1435 (2015 Round 12 - Italian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1957
+
+🏆 **Peak ELO**: 1957
+   *2025 Round 13 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1419
+   *2015 Round 7 - Canadian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 2037
+
+🏆 **Peak ELO**: 2037
+   *2025 Round 13 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1438
+   *2015 Round 12 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 2013
+
+🏆 **Peak ELO**: 2013
+   *2025 Round 13 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1435
+   *2015 Round 12 - Italian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

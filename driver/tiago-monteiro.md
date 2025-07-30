@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1516
-**Peak Qualifying ELO**: 1600 (2006 Round 14 - Turkish Grand Prix)
-**Lowest Qualifying ELO**: 1431 (2005 Round 5 - Spanish Grand Prix)
-**Race ELO**: 1500 → 1516
-**Peak Race ELO**: 1566 (2006 Round 5 - European Grand Prix)
-**Lowest Race ELO**: 1420 (2005 Round 4 - San Marino Grand Prix)
-**Global ELO**: 1500 → 1516
-**Peak Global ELO**: 1562 (2006 Round 14 - Turkish Grand Prix)
-**Lowest Global ELO**: 1431 (2005 Round 4 - San Marino Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1516
+
+🏆 **Peak ELO**: 1600
+   *2006 Round 14 - Turkish Grand Prix*
+
+📉 **Lowest ELO**: 1431
+   *2005 Round 5 - Spanish Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1516
+
+🏆 **Peak ELO**: 1566
+   *2006 Round 5 - European Grand Prix*
+
+📉 **Lowest ELO**: 1420
+   *2005 Round 4 - San Marino Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1516
+
+🏆 **Peak ELO**: 1562
+   *2006 Round 14 - Turkish Grand Prix*
+
+📉 **Lowest ELO**: 1431
+   *2005 Round 4 - San Marino Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

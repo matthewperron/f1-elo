@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1396
-**Peak Qualifying ELO**: 1468 (1973 Round 10 - Dutch Grand Prix)
-**Lowest Qualifying ELO**: 1396 (1974 Round 5 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1469
-**Peak Global ELO**: 1490 (1973 Round 10 - Dutch Grand Prix)
-**Lowest Global ELO**: 1469 (1974 Round 5 - Belgian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1396
+
+🏆 **Peak ELO**: 1468
+   *1973 Round 10 - Dutch Grand Prix*
+
+📉 **Lowest ELO**: 1396
+   *1974 Round 5 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1469
+
+🏆 **Peak ELO**: 1490
+   *1973 Round 10 - Dutch Grand Prix*
+
+📉 **Lowest ELO**: 1469
+   *1974 Round 5 - Belgian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

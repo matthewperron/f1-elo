@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1469
-**Peak Qualifying ELO**: 1509 (2011 Round 3 - Chinese Grand Prix)
-**Lowest Qualifying ELO**: 1370 (2011 Round 14 - Singapore Grand Prix)
-**Race ELO**: 1500 → 1447
-**Peak Race ELO**: 1572 (2011 Round 7 - Canadian Grand Prix)
-**Lowest Race ELO**: 1447 (2012 Round 13 - Italian Grand Prix)
-**Global ELO**: 1500 → 1454
-**Peak Global ELO**: 1531 (2011 Round 7 - Canadian Grand Prix)
-**Lowest Global ELO**: 1452 (2011 Round 11 - Hungarian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1469
+
+🏆 **Peak ELO**: 1509
+   *2011 Round 3 - Chinese Grand Prix*
+
+📉 **Lowest ELO**: 1370
+   *2011 Round 14 - Singapore Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1447
+
+🏆 **Peak ELO**: 1572
+   *2011 Round 7 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1447
+   *2012 Round 13 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1454
+
+🏆 **Peak ELO**: 1531
+   *2011 Round 7 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1452
+   *2011 Round 11 - Hungarian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

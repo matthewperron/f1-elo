@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1481
-**Peak Qualifying ELO**: 1530 (2025 Round 6 - Miami Grand Prix)
-**Lowest Qualifying ELO**: 1471 (2025 Round 5 - Saudi Arabian Grand Prix)
-**Race ELO**: 1500 → 1440
-**Peak Race ELO**: 1490 (2025 Round 1 - Australian Grand Prix)
-**Lowest Race ELO**: 1440 (2025 Round 13 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1452
-**Peak Global ELO**: 1491 (2025 Round 1 - Australian Grand Prix)
-**Lowest Global ELO**: 1452 (2025 Round 13 - Belgian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1481
+
+🏆 **Peak ELO**: 1530
+   *2025 Round 6 - Miami Grand Prix*
+
+📉 **Lowest ELO**: 1471
+   *2025 Round 5 - Saudi Arabian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1440
+
+🏆 **Peak ELO**: 1490
+   *2025 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1440
+   *2025 Round 13 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1452
+
+🏆 **Peak ELO**: 1491
+   *2025 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1452
+   *2025 Round 13 - Belgian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

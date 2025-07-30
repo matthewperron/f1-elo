@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1417
-**Peak Qualifying ELO**: 1471 (1975 Round 4 - Spanish Grand Prix)
-**Lowest Qualifying ELO**: 1417 (1975 Round 9 - French Grand Prix)
-**Global ELO**: 1500 → 1475
-**Peak Global ELO**: 1491 (1975 Round 4 - Spanish Grand Prix)
-**Lowest Global ELO**: 1475 (1975 Round 9 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1417
+
+🏆 **Peak ELO**: 1471
+   *1975 Round 4 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1417
+   *1975 Round 9 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1475
+
+🏆 **Peak ELO**: 1491
+   *1975 Round 4 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1475
+   *1975 Round 9 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

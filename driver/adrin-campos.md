@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1302
-**Peak Qualifying ELO**: 1481 (1987 Round 4 - Monaco Grand Prix)
-**Lowest Qualifying ELO**: 1302 (1988 Round 2 - San Marino Grand Prix)
-**Race ELO**: 1500 → 1468
-**Peak Race ELO**: 1468 (1988 Round 2 - San Marino Grand Prix)
-**Lowest Race ELO**: 1468 (1988 Round 2 - San Marino Grand Prix)
-**Global ELO**: 1500 → 1418
-**Peak Global ELO**: 1494 (1987 Round 4 - Monaco Grand Prix)
-**Lowest Global ELO**: 1418 (1988 Round 2 - San Marino Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1302
+
+🏆 **Peak ELO**: 1481
+   *1987 Round 4 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1302
+   *1988 Round 2 - San Marino Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1468
+   *1988 Round 2 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1988 Round 2 - San Marino Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1418
+
+🏆 **Peak ELO**: 1494
+   *1987 Round 4 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1418
+   *1988 Round 2 - San Marino Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

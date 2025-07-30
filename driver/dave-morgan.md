@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1464
-**Peak Qualifying ELO**: 1464 (1975 Round 10 - British Grand Prix)
-**Lowest Qualifying ELO**: 1464 (1975 Round 10 - British Grand Prix)
-**Global ELO**: 1500 → 1489
-**Peak Global ELO**: 1489 (1975 Round 10 - British Grand Prix)
-**Lowest Global ELO**: 1489 (1975 Round 10 - British Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1464
+
+🏆 **Peak ELO**: 1464
+   *1975 Round 10 - British Grand Prix*
+
+📉 **Lowest ELO**: 1464
+   *1975 Round 10 - British Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1489
+
+🏆 **Peak ELO**: 1489
+   *1975 Round 10 - British Grand Prix*
+
+📉 **Lowest ELO**: 1489
+   *1975 Round 10 - British Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

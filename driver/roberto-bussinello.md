@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1468
-**Peak Qualifying ELO**: 1468 (1961 Round 7 - Italian Grand Prix)
-**Lowest Qualifying ELO**: 1468 (1961 Round 7 - Italian Grand Prix)
-**Global ELO**: 1500 → 1490
-**Peak Global ELO**: 1490 (1961 Round 7 - Italian Grand Prix)
-**Lowest Global ELO**: 1490 (1961 Round 7 - Italian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1468
+   *1961 Round 7 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1961 Round 7 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1490
+
+🏆 **Peak ELO**: 1490
+   *1961 Round 7 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1490
+   *1961 Round 7 - Italian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1542
-**Peak Qualifying ELO**: 1542 (1971 Round 10 - Canadian Grand Prix)
-**Lowest Qualifying ELO**: 1542 (1971 Round 10 - Canadian Grand Prix)
-**Race ELO**: 1500 → 1526
-**Peak Race ELO**: 1526 (1971 Round 10 - Canadian Grand Prix)
-**Lowest Race ELO**: 1526 (1971 Round 10 - Canadian Grand Prix)
-**Global ELO**: 1500 → 1531
-**Peak Global ELO**: 1531 (1971 Round 10 - Canadian Grand Prix)
-**Lowest Global ELO**: 1531 (1971 Round 10 - Canadian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1542
+
+🏆 **Peak ELO**: 1542
+   *1971 Round 10 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1542
+   *1971 Round 10 - Canadian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1526
+
+🏆 **Peak ELO**: 1526
+   *1971 Round 10 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1526
+   *1971 Round 10 - Canadian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1531
+
+🏆 **Peak ELO**: 1531
+   *1971 Round 10 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1531
+   *1971 Round 10 - Canadian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1521
-**Peak Qualifying ELO**: 1547 (1994 Round 12 - Italian Grand Prix)
-**Lowest Qualifying ELO**: 1299 (1988 Round 9 - German Grand Prix)
-**Race ELO**: 1500 → 1566
-**Peak Race ELO**: 1566 (1988 Round 14 - Spanish Grand Prix)
-**Lowest Race ELO**: 1526 (1988 Round 2 - San Marino Grand Prix)
-**Global ELO**: 1500 → 1507
-**Peak Global ELO**: 1514 (1994 Round 12 - Italian Grand Prix)
-**Lowest Global ELO**: 1465 (1988 Round 7 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1521
+
+🏆 **Peak ELO**: 1547
+   *1994 Round 12 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1299
+   *1988 Round 9 - German Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1566
+
+🏆 **Peak ELO**: 1566
+   *1988 Round 14 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1526
+   *1988 Round 2 - San Marino Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1507
+
+🏆 **Peak ELO**: 1514
+   *1994 Round 12 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1465
+   *1988 Round 7 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

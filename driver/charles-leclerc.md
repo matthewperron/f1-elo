@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1696
-**Peak Qualifying ELO**: 1857 (2020 Round 13 - Emilia Romagna Grand Prix)
-**Lowest Qualifying ELO**: 1454 (2018 Round 2 - Bahrain Grand Prix)
-**Race ELO**: 1500 → 1790
-**Peak Race ELO**: 1823 (2025 Round 11 - Austrian Grand Prix)
-**Lowest Race ELO**: 1444 (2018 Round 3 - Chinese Grand Prix)
-**Global ELO**: 1500 → 1759
-**Peak Global ELO**: 1786 (2025 Round 11 - Austrian Grand Prix)
-**Lowest Global ELO**: 1461 (2018 Round 3 - Chinese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1696
+
+🏆 **Peak ELO**: 1857
+   *2020 Round 13 - Emilia Romagna Grand Prix*
+
+📉 **Lowest ELO**: 1454
+   *2018 Round 2 - Bahrain Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1790
+
+🏆 **Peak ELO**: 1823
+   *2025 Round 11 - Austrian Grand Prix*
+
+📉 **Lowest ELO**: 1444
+   *2018 Round 3 - Chinese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1759
+
+🏆 **Peak ELO**: 1786
+   *2025 Round 11 - Austrian Grand Prix*
+
+📉 **Lowest ELO**: 1461
+   *2018 Round 3 - Chinese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

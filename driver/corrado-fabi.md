@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1547
-**Peak Qualifying ELO**: 1547 (1984 Round 9 - Dallas Grand Prix)
-**Lowest Qualifying ELO**: 1463 (1983 Round 13 - Italian Grand Prix)
-**Global ELO**: 1500 → 1515
-**Peak Global ELO**: 1515 (1984 Round 9 - Dallas Grand Prix)
-**Lowest Global ELO**: 1489 (1983 Round 13 - Italian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1547
+
+🏆 **Peak ELO**: 1547
+   *1984 Round 9 - Dallas Grand Prix*
+
+📉 **Lowest ELO**: 1463
+   *1983 Round 13 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1515
+
+🏆 **Peak ELO**: 1515
+   *1984 Round 9 - Dallas Grand Prix*
+
+📉 **Lowest ELO**: 1489
+   *1983 Round 13 - Italian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

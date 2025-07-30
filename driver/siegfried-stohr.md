@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1381
-**Peak Qualifying ELO**: 1478 (1981 Round 2 - Brazilian Grand Prix)
-**Lowest Qualifying ELO**: 1381 (1981 Round 12 - Dutch Grand Prix)
-**Race ELO**: 1500 → 1465
-**Peak Race ELO**: 1465 (1981 Round 3 - Argentine Grand Prix)
-**Lowest Race ELO**: 1465 (1981 Round 3 - Argentine Grand Prix)
-**Global ELO**: 1500 → 1440
-**Peak Global ELO**: 1493 (1981 Round 2 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1440 (1981 Round 12 - Dutch Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1381
+
+🏆 **Peak ELO**: 1478
+   *1981 Round 2 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1381
+   *1981 Round 12 - Dutch Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1465
+
+🏆 **Peak ELO**: 1465
+   *1981 Round 3 - Argentine Grand Prix*
+
+📉 **Lowest ELO**: 1465
+   *1981 Round 3 - Argentine Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1440
+
+🏆 **Peak ELO**: 1493
+   *1981 Round 2 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1440
+   *1981 Round 12 - Dutch Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

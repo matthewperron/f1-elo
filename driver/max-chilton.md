@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1356
-**Peak Qualifying ELO**: 1520 (2014 Round 7 - Canadian Grand Prix)
-**Lowest Qualifying ELO**: 1309 (2013 Round 13 - Singapore Grand Prix)
-**Race ELO**: 1500 → 1326
-**Peak Race ELO**: 1468 (2013 Round 1 - Australian Grand Prix)
-**Lowest Race ELO**: 1326 (2014 Round 14 - Singapore Grand Prix)
-**Global ELO**: 1500 → 1335
-**Peak Global ELO**: 1468 (2013 Round 1 - Australian Grand Prix)
-**Lowest Global ELO**: 1325 (2013 Round 12 - Italian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1356
+
+🏆 **Peak ELO**: 1520
+   *2014 Round 7 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1309
+   *2013 Round 13 - Singapore Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1326
+
+🏆 **Peak ELO**: 1468
+   *2013 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1326
+   *2014 Round 14 - Singapore Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1335
+
+🏆 **Peak ELO**: 1468
+   *2013 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1325
+   *2013 Round 12 - Italian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

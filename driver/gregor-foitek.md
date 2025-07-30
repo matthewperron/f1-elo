@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1530
-**Peak Qualifying ELO**: 1578 (1990 Round 6 - Mexican Grand Prix)
-**Lowest Qualifying ELO**: 1472 (1990 Round 2 - Brazilian Grand Prix)
-**Global ELO**: 1500 → 1509
-**Peak Global ELO**: 1523 (1990 Round 6 - Mexican Grand Prix)
-**Lowest Global ELO**: 1492 (1990 Round 2 - Brazilian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1530
+
+🏆 **Peak ELO**: 1578
+   *1990 Round 6 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1472
+   *1990 Round 2 - Brazilian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1509
+
+🏆 **Peak ELO**: 1523
+   *1990 Round 6 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1492
+   *1990 Round 2 - Brazilian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

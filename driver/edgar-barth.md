@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1465
-**Peak Qualifying ELO**: 1532 (1958 Round 8 - German Grand Prix)
-**Lowest Qualifying ELO**: 1465 (1960 Round 9 - Italian Grand Prix)
-**Race ELO**: 1500 → 1468
-**Peak Race ELO**: 1468 (1960 Round 9 - Italian Grand Prix)
-**Lowest Race ELO**: 1468 (1960 Round 9 - Italian Grand Prix)
-**Global ELO**: 1500 → 1467
-**Peak Global ELO**: 1510 (1958 Round 8 - German Grand Prix)
-**Lowest Global ELO**: 1467 (1960 Round 9 - Italian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1465
+
+🏆 **Peak ELO**: 1532
+   *1958 Round 8 - German Grand Prix*
+
+📉 **Lowest ELO**: 1465
+   *1960 Round 9 - Italian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1468
+   *1960 Round 9 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1960 Round 9 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1467
+
+🏆 **Peak ELO**: 1510
+   *1958 Round 8 - German Grand Prix*
+
+📉 **Lowest ELO**: 1467
+   *1960 Round 9 - Italian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

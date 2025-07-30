@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1476
-**Peak Qualifying ELO**: 1476 (1974 Round 7 - Swedish Grand Prix)
-**Lowest Qualifying ELO**: 1476 (1974 Round 7 - Swedish Grand Prix)
-**Global ELO**: 1500 → 1493
-**Peak Global ELO**: 1493 (1974 Round 7 - Swedish Grand Prix)
-**Lowest Global ELO**: 1493 (1974 Round 7 - Swedish Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1476
+
+🏆 **Peak ELO**: 1476
+   *1974 Round 7 - Swedish Grand Prix*
+
+📉 **Lowest ELO**: 1476
+   *1974 Round 7 - Swedish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1493
+
+🏆 **Peak ELO**: 1493
+   *1974 Round 7 - Swedish Grand Prix*
+
+📉 **Lowest ELO**: 1493
+   *1974 Round 7 - Swedish Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

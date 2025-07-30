@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1541
-**Peak Qualifying ELO**: 1584 (2004 Round 8 - Canadian Grand Prix)
-**Lowest Qualifying ELO**: 1409 (2005 Round 1 - Australian Grand Prix)
-**Race ELO**: 1500 → 1470
-**Peak Race ELO**: 1481 (2004 Round 3 - Bahrain Grand Prix)
-**Lowest Race ELO**: 1284 (2005 Round 14 - Turkish Grand Prix)
-**Global ELO**: 1500 → 1491
-**Peak Global ELO**: 1523 (2010 Round 18 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1349 (2005 Round 11 - British Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1541
+
+🏆 **Peak ELO**: 1584
+   *2004 Round 8 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1409
+   *2005 Round 1 - Australian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1470
+
+🏆 **Peak ELO**: 1481
+   *2004 Round 3 - Bahrain Grand Prix*
+
+📉 **Lowest ELO**: 1284
+   *2005 Round 14 - Turkish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1491
+
+🏆 **Peak ELO**: 1523
+   *2010 Round 18 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1349
+   *2005 Round 11 - British Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

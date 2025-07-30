@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1448
-**Peak Qualifying ELO**: 1583 (1984 Round 5 - French Grand Prix)
-**Lowest Qualifying ELO**: 1437 (1985 Round 8 - British Grand Prix)
-**Race ELO**: 1500 → 1529
-**Peak Race ELO**: 1529 (1985 Round 5 - Canadian Grand Prix)
-**Lowest Race ELO**: 1529 (1985 Round 5 - Canadian Grand Prix)
-**Global ELO**: 1500 → 1504
-**Peak Global ELO**: 1532 (1985 Round 5 - Canadian Grand Prix)
-**Lowest Global ELO**: 1482 (1984 Round 13 - Dutch Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1448
+
+🏆 **Peak ELO**: 1583
+   *1984 Round 5 - French Grand Prix*
+
+📉 **Lowest ELO**: 1437
+   *1985 Round 8 - British Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1529
+
+🏆 **Peak ELO**: 1529
+   *1985 Round 5 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1529
+   *1985 Round 5 - Canadian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1504
+
+🏆 **Peak ELO**: 1532
+   *1985 Round 5 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1482
+   *1984 Round 13 - Dutch Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

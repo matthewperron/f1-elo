@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1667
-**Peak Qualifying ELO**: 1768 (2025 Round 7 - Emilia Romagna Grand Prix)
-**Lowest Qualifying ELO**: 1392 (2017 Round 4 - Russian Grand Prix)
-**Race ELO**: 1500 → 1563
-**Peak Race ELO**: 1709 (2022 Round 14 - Belgian Grand Prix)
-**Lowest Race ELO**: 1431 (2015 Round 17 - Mexican Grand Prix)
-**Global ELO**: 1500 → 1595
-**Peak Global ELO**: 1693 (2022 Round 14 - Belgian Grand Prix)
-**Lowest Global ELO**: 1429 (2015 Round 18 - Brazilian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1667
+
+🏆 **Peak ELO**: 1768
+   *2025 Round 7 - Emilia Romagna Grand Prix*
+
+📉 **Lowest ELO**: 1392
+   *2017 Round 4 - Russian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1563
+
+🏆 **Peak ELO**: 1709
+   *2022 Round 14 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1431
+   *2015 Round 17 - Mexican Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1595
+
+🏆 **Peak ELO**: 1693
+   *2022 Round 14 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1429
+   *2015 Round 18 - Brazilian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

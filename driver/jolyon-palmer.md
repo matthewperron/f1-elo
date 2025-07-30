@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1474
-**Peak Qualifying ELO**: 1559 (2016 Round 2 - Bahrain Grand Prix)
-**Lowest Qualifying ELO**: 1430 (2016 Round 6 - Monaco Grand Prix)
-**Race ELO**: 1500 → 1502
-**Peak Race ELO**: 1526 (2016 Round 1 - Australian Grand Prix)
-**Lowest Race ELO**: 1418 (2017 Round 7 - Canadian Grand Prix)
-**Global ELO**: 1500 → 1493
-**Peak Global ELO**: 1536 (2016 Round 2 - Bahrain Grand Prix)
-**Lowest Global ELO**: 1434 (2017 Round 8 - Azerbaijan Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1474
+
+🏆 **Peak ELO**: 1559
+   *2016 Round 2 - Bahrain Grand Prix*
+
+📉 **Lowest ELO**: 1430
+   *2016 Round 6 - Monaco Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1502
+
+🏆 **Peak ELO**: 1526
+   *2016 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1418
+   *2017 Round 7 - Canadian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1493
+
+🏆 **Peak ELO**: 1536
+   *2016 Round 2 - Bahrain Grand Prix*
+
+📉 **Lowest ELO**: 1434
+   *2017 Round 8 - Azerbaijan Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1465
-**Peak Qualifying ELO**: 1580 (1958 Round 5 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1465 (1958 Round 11 - Moroccan Grand Prix)
-**Global ELO**: 1500 → 1489
-**Peak Global ELO**: 1524 (1958 Round 5 - Belgian Grand Prix)
-**Lowest Global ELO**: 1489 (1958 Round 11 - Moroccan Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1465
+
+🏆 **Peak ELO**: 1580
+   *1958 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1465
+   *1958 Round 11 - Moroccan Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1489
+
+🏆 **Peak ELO**: 1524
+   *1958 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1489
+   *1958 Round 11 - Moroccan Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

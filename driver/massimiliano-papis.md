@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1466
-**Peak Qualifying ELO**: 1537 (1995 Round 9 - German Grand Prix)
-**Lowest Qualifying ELO**: 1435 (1995 Round 13 - Portuguese Grand Prix)
-**Race ELO**: 1500 → 1529
-**Peak Race ELO**: 1529 (1995 Round 12 - Italian Grand Prix)
-**Lowest Race ELO**: 1529 (1995 Round 12 - Italian Grand Prix)
-**Global ELO**: 1500 → 1510
-**Peak Global ELO**: 1513 (1995 Round 12 - Italian Grand Prix)
-**Lowest Global ELO**: 1484 (1995 Round 11 - Belgian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1466
+
+🏆 **Peak ELO**: 1537
+   *1995 Round 9 - German Grand Prix*
+
+📉 **Lowest ELO**: 1435
+   *1995 Round 13 - Portuguese Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1529
+
+🏆 **Peak ELO**: 1529
+   *1995 Round 12 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1529
+   *1995 Round 12 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1510
+
+🏆 **Peak ELO**: 1513
+   *1995 Round 12 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1484
+   *1995 Round 11 - Belgian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

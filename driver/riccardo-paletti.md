@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1420
-**Peak Qualifying ELO**: 1468 (1982 Round 4 - San Marino Grand Prix)
-**Lowest Qualifying ELO**: 1420 (1982 Round 8 - Canadian Grand Prix)
-**Global ELO**: 1500 → 1476
-**Peak Global ELO**: 1490 (1982 Round 4 - San Marino Grand Prix)
-**Lowest Global ELO**: 1476 (1982 Round 8 - Canadian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1420
+
+🏆 **Peak ELO**: 1468
+   *1982 Round 4 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1420
+   *1982 Round 8 - Canadian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1476
+
+🏆 **Peak ELO**: 1490
+   *1982 Round 4 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1476
+   *1982 Round 8 - Canadian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

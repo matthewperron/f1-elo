@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1579
-**Peak Qualifying ELO**: 1631 (2021 Round 9 - Austrian Grand Prix)
-**Lowest Qualifying ELO**: 1388 (2019 Round 6 - Monaco Grand Prix)
-**Race ELO**: 1500 → 1571
-**Peak Race ELO**: 1636 (2021 Round 17 - United States Grand Prix)
-**Lowest Race ELO**: 1381 (2020 Round 3 - Hungarian Grand Prix)
-**Global ELO**: 1500 → 1573
-**Peak Global ELO**: 1629 (2021 Round 17 - United States Grand Prix)
-**Lowest Global ELO**: 1401 (2019 Round 6 - Monaco Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1579
+
+🏆 **Peak ELO**: 1631
+   *2021 Round 9 - Austrian Grand Prix*
+
+📉 **Lowest ELO**: 1388
+   *2019 Round 6 - Monaco Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1571
+
+🏆 **Peak ELO**: 1636
+   *2021 Round 17 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1381
+   *2020 Round 3 - Hungarian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1573
+
+🏆 **Peak ELO**: 1629
+   *2021 Round 17 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1401
+   *2019 Round 6 - Monaco Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

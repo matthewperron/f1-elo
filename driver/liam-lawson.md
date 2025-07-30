@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1330
-**Peak Qualifying ELO**: 1501 (2023 Round 15 - Singapore Grand Prix)
-**Lowest Qualifying ELO**: 1308 (2025 Round 10 - Canadian Grand Prix)
-**Race ELO**: 1500 → 1350
-**Peak Race ELO**: 1543 (2023 Round 13 - Dutch Grand Prix)
-**Lowest Race ELO**: 1350 (2025 Round 9 - Spanish Grand Prix)
-**Global ELO**: 1500 → 1343
-**Peak Global ELO**: 1530 (2023 Round 15 - Singapore Grand Prix)
-**Lowest Global ELO**: 1336 (2025 Round 10 - Canadian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1330
+
+🏆 **Peak ELO**: 1501
+   *2023 Round 15 - Singapore Grand Prix*
+
+📉 **Lowest ELO**: 1308
+   *2025 Round 10 - Canadian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1350
+
+🏆 **Peak ELO**: 1543
+   *2023 Round 13 - Dutch Grand Prix*
+
+📉 **Lowest ELO**: 1350
+   *2025 Round 9 - Spanish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1343
+
+🏆 **Peak ELO**: 1530
+   *2023 Round 15 - Singapore Grand Prix*
+
+📉 **Lowest ELO**: 1336
+   *2025 Round 10 - Canadian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

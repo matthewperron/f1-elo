@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1519
-**Peak Qualifying ELO**: 1867 (2009 Round 17 - Abu Dhabi Grand Prix)
-**Lowest Qualifying ELO**: 1380 (2012 Round 8 - European Grand Prix)
-**Race ELO**: 1500 → 1587
-**Peak Race ELO**: 1790 (2007 Round 17 - Brazilian Grand Prix)
-**Lowest Race ELO**: 1410 (2017 Round 9 - Austrian Grand Prix)
-**Global ELO**: 1500 → 1563
-**Peak Global ELO**: 1802 (2007 Round 16 - Chinese Grand Prix)
-**Lowest Global ELO**: 1458 (2015 Round 18 - Brazilian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1519
+
+🏆 **Peak ELO**: 1867
+   *2009 Round 17 - Abu Dhabi Grand Prix*
+
+📉 **Lowest ELO**: 1380
+   *2012 Round 8 - European Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1587
+
+🏆 **Peak ELO**: 1790
+   *2007 Round 17 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1410
+   *2017 Round 9 - Austrian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1563
+
+🏆 **Peak ELO**: 1802
+   *2007 Round 16 - Chinese Grand Prix*
+
+📉 **Lowest ELO**: 1458
+   *2015 Round 18 - Brazilian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

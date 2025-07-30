@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1561
-**Peak Qualifying ELO**: 2172 (2001 Round 14 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1432 (2010 Round 17 - Korean Grand Prix)
-**Race ELO**: 1500 → 1627
-**Peak Race ELO**: 1902 (2006 Round 12 - German Grand Prix)
-**Lowest Race ELO**: 1392 (2010 Round 18 - Brazilian Grand Prix)
-**Global ELO**: 1500 → 1607
-**Peak Global ELO**: 1984 (2001 Round 14 - Belgian Grand Prix)
-**Lowest Global ELO**: 1411 (2010 Round 17 - Korean Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1561
+
+🏆 **Peak ELO**: 2172
+   *2001 Round 14 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1432
+   *2010 Round 17 - Korean Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1627
+
+🏆 **Peak ELO**: 1902
+   *2006 Round 12 - German Grand Prix*
+
+📉 **Lowest ELO**: 1392
+   *2010 Round 18 - Brazilian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1607
+
+🏆 **Peak ELO**: 1984
+   *2001 Round 14 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1411
+   *2010 Round 17 - Korean Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1565
-**Peak Qualifying ELO**: 1565 (2015 Round 18 - Brazilian Grand Prix)
-**Lowest Qualifying ELO**: 1449 (2015 Round 14 - Japanese Grand Prix)
-**Race ELO**: 1500 → 1576
-**Peak Race ELO**: 1576 (2015 Round 17 - Mexican Grand Prix)
-**Lowest Race ELO**: 1531 (2015 Round 13 - Singapore Grand Prix)
-**Global ELO**: 1500 → 1573
-**Peak Global ELO**: 1573 (2015 Round 18 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1513 (2015 Round 13 - Singapore Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1565
+
+🏆 **Peak ELO**: 1565
+   *2015 Round 18 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1449
+   *2015 Round 14 - Japanese Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1576
+
+🏆 **Peak ELO**: 1576
+   *2015 Round 17 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1531
+   *2015 Round 13 - Singapore Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1573
+
+🏆 **Peak ELO**: 1573
+   *2015 Round 18 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1513
+   *2015 Round 13 - Singapore Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

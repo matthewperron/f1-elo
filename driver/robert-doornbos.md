@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1423
-**Peak Qualifying ELO**: 1513 (2005 Round 16 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1423 (2006 Round 18 - Brazilian Grand Prix)
-**Race ELO**: 1500 → 1463
-**Peak Race ELO**: 1537 (2005 Round 15 - Italian Grand Prix)
-**Lowest Race ELO**: 1463 (2006 Round 16 - Chinese Grand Prix)
-**Global ELO**: 1500 → 1450
-**Peak Global ELO**: 1518 (2005 Round 15 - Italian Grand Prix)
-**Lowest Global ELO**: 1450 (2006 Round 18 - Brazilian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1423
+
+🏆 **Peak ELO**: 1513
+   *2005 Round 16 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1423
+   *2006 Round 18 - Brazilian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1463
+
+🏆 **Peak ELO**: 1537
+   *2005 Round 15 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1463
+   *2006 Round 16 - Chinese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1450
+
+🏆 **Peak ELO**: 1518
+   *2005 Round 15 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1450
+   *2006 Round 18 - Brazilian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

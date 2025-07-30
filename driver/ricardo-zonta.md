@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1440
-**Peak Qualifying ELO**: 1522 (1999 Round 7 - French Grand Prix)
-**Lowest Qualifying ELO**: 1397 (2001 Round 12 - German Grand Prix)
-**Race ELO**: 1500 → 1475
-**Peak Race ELO**: 1480 (1999 Round 16 - Japanese Grand Prix)
-**Lowest Race ELO**: 1403 (2000 Round 16 - Japanese Grand Prix)
-**Global ELO**: 1500 → 1464
-**Peak Global ELO**: 1507 (1999 Round 7 - French Grand Prix)
-**Lowest Global ELO**: 1402 (2001 Round 12 - German Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1440
+
+🏆 **Peak ELO**: 1522
+   *1999 Round 7 - French Grand Prix*
+
+📉 **Lowest ELO**: 1397
+   *2001 Round 12 - German Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1475
+
+🏆 **Peak ELO**: 1480
+   *1999 Round 16 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1403
+   *2000 Round 16 - Japanese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1464
+
+🏆 **Peak ELO**: 1507
+   *1999 Round 7 - French Grand Prix*
+
+📉 **Lowest ELO**: 1402
+   *2001 Round 12 - German Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1504
-**Peak Qualifying ELO**: 1551 (1977 Round 15 - United States Grand Prix)
-**Lowest Qualifying ELO**: 1474 (1977 Round 5 - Spanish Grand Prix)
-**Race ELO**: 1500 → 1479
-**Peak Race ELO**: 1479 (1978 Round 7 - Spanish Grand Prix)
-**Lowest Race ELO**: 1479 (1978 Round 7 - Spanish Grand Prix)
-**Global ELO**: 1500 → 1502
-**Peak Global ELO**: 1515 (1977 Round 15 - United States Grand Prix)
-**Lowest Global ELO**: 1486 (1978 Round 9 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1504
+
+🏆 **Peak ELO**: 1551
+   *1977 Round 15 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1474
+   *1977 Round 5 - Spanish Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1479
+
+🏆 **Peak ELO**: 1479
+   *1978 Round 7 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1479
+   *1978 Round 7 - Spanish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1502
+
+🏆 **Peak ELO**: 1515
+   *1977 Round 15 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1486
+   *1978 Round 9 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

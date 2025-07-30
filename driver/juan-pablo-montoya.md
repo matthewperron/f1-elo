@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1481
-**Peak Qualifying ELO**: 1703 (2004 Round 12 - German Grand Prix)
-**Lowest Qualifying ELO**: 1394 (2001 Round 10 - French Grand Prix)
-**Race ELO**: 1500 → 1681
-**Peak Race ELO**: 1725 (2005 Round 17 - Brazilian Grand Prix)
-**Lowest Race ELO**: 1490 (2002 Round 4 - San Marino Grand Prix)
-**Global ELO**: 1500 → 1620
-**Peak Global ELO**: 1706 (2005 Round 17 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1471 (2001 Round 5 - Spanish Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1481
+
+🏆 **Peak ELO**: 1703
+   *2004 Round 12 - German Grand Prix*
+
+📉 **Lowest ELO**: 1394
+   *2001 Round 10 - French Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1681
+
+🏆 **Peak ELO**: 1725
+   *2005 Round 17 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1490
+   *2002 Round 4 - San Marino Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1620
+
+🏆 **Peak ELO**: 1706
+   *2005 Round 17 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1471
+   *2001 Round 5 - Spanish Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

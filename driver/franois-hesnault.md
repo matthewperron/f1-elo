@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1337
-**Peak Qualifying ELO**: 1479 (1984 Round 1 - Brazilian Grand Prix)
-**Lowest Qualifying ELO**: 1337 (1985 Round 3 - San Marino Grand Prix)
-**Race ELO**: 1500 → 1439
-**Peak Race ELO**: 1467 (1984 Round 11 - German Grand Prix)
-**Lowest Race ELO**: 1439 (1984 Round 15 - European Grand Prix)
-**Global ELO**: 1500 → 1408
-**Peak Global ELO**: 1494 (1984 Round 1 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1408 (1985 Round 3 - San Marino Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1337
+
+🏆 **Peak ELO**: 1479
+   *1984 Round 1 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1337
+   *1985 Round 3 - San Marino Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1439
+
+🏆 **Peak ELO**: 1467
+   *1984 Round 11 - German Grand Prix*
+
+📉 **Lowest ELO**: 1439
+   *1984 Round 15 - European Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1408
+
+🏆 **Peak ELO**: 1494
+   *1984 Round 1 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1408
+   *1985 Round 3 - San Marino Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

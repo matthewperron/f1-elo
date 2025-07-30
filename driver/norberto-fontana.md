@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1457
-**Peak Qualifying ELO**: 1488 (1997 Round 8 - French Grand Prix)
-**Lowest Qualifying ELO**: 1457 (1997 Round 17 - European Grand Prix)
-**Race ELO**: 1500 → 1476
-**Peak Race ELO**: 1476 (1997 Round 17 - European Grand Prix)
-**Lowest Race ELO**: 1476 (1997 Round 17 - European Grand Prix)
-**Global ELO**: 1500 → 1470
-**Peak Global ELO**: 1496 (1997 Round 8 - French Grand Prix)
-**Lowest Global ELO**: 1470 (1997 Round 17 - European Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1457
+
+🏆 **Peak ELO**: 1488
+   *1997 Round 8 - French Grand Prix*
+
+📉 **Lowest ELO**: 1457
+   *1997 Round 17 - European Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1476
+
+🏆 **Peak ELO**: 1476
+   *1997 Round 17 - European Grand Prix*
+
+📉 **Lowest ELO**: 1476
+   *1997 Round 17 - European Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1470
+
+🏆 **Peak ELO**: 1496
+   *1997 Round 8 - French Grand Prix*
+
+📉 **Lowest ELO**: 1470
+   *1997 Round 17 - European Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1478
-**Peak Qualifying ELO**: 1662 (1993 Round 15 - Japanese Grand Prix)
-**Lowest Qualifying ELO**: 1368 (1991 Round 5 - Canadian Grand Prix)
-**Race ELO**: 1500 → 1449
-**Peak Race ELO**: 1592 (1992 Round 15 - Japanese Grand Prix)
-**Lowest Race ELO**: 1423 (1992 Round 7 - Canadian Grand Prix)
-**Global ELO**: 1500 → 1458
-**Peak Global ELO**: 1605 (1993 Round 2 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1416 (1991 Round 10 - Hungarian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1478
+
+🏆 **Peak ELO**: 1662
+   *1993 Round 15 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1368
+   *1991 Round 5 - Canadian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1449
+
+🏆 **Peak ELO**: 1592
+   *1992 Round 15 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1423
+   *1992 Round 7 - Canadian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1458
+
+🏆 **Peak ELO**: 1605
+   *1993 Round 2 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1416
+   *1991 Round 10 - Hungarian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

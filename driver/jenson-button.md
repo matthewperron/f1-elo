@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1518
-**Peak Qualifying ELO**: 1923 (2007 Round 16 - Chinese Grand Prix)
-**Lowest Qualifying ELO**: 1404 (2001 Round 10 - French Grand Prix)
-**Race ELO**: 1500 → 1817
-**Peak Race ELO**: 1900 (2016 Round 14 - Italian Grand Prix)
-**Lowest Race ELO**: 1342 (2001 Round 16 - United States Grand Prix)
-**Global ELO**: 1500 → 1729
-**Peak Global ELO**: 1823 (2016 Round 14 - Italian Grand Prix)
-**Lowest Global ELO**: 1375 (2001 Round 14 - Belgian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1518
+
+🏆 **Peak ELO**: 1923
+   *2007 Round 16 - Chinese Grand Prix*
+
+📉 **Lowest ELO**: 1404
+   *2001 Round 10 - French Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1817
+
+🏆 **Peak ELO**: 1900
+   *2016 Round 14 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1342
+   *2001 Round 16 - United States Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1729
+
+🏆 **Peak ELO**: 1823
+   *2016 Round 14 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1375
+   *2001 Round 14 - Belgian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1418
-**Peak Qualifying ELO**: 1489 (1995 Round 5 - Monaco Grand Prix)
-**Lowest Qualifying ELO**: 1418 (1995 Round 15 - Pacific Grand Prix)
-**Race ELO**: 1500 → 1410
-**Peak Race ELO**: 1476 (1995 Round 8 - British Grand Prix)
-**Lowest Race ELO**: 1410 (1995 Round 13 - Portuguese Grand Prix)
-**Global ELO**: 1500 → 1413
-**Peak Global ELO**: 1497 (1995 Round 5 - Monaco Grand Prix)
-**Lowest Global ELO**: 1413 (1995 Round 15 - Pacific Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1418
+
+🏆 **Peak ELO**: 1489
+   *1995 Round 5 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1418
+   *1995 Round 15 - Pacific Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1410
+
+🏆 **Peak ELO**: 1476
+   *1995 Round 8 - British Grand Prix*
+
+📉 **Lowest ELO**: 1410
+   *1995 Round 13 - Portuguese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1413
+
+🏆 **Peak ELO**: 1497
+   *1995 Round 5 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1413
+   *1995 Round 15 - Pacific Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1678
-**Peak Qualifying ELO**: 1879 (2014 Round 12 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1488 (2006 Round 7 - Monaco Grand Prix)
-**Race ELO**: 1500 → 1562
-**Peak Race ELO**: 1732 (2016 Round 4 - Russian Grand Prix)
-**Lowest Race ELO**: 1413 (2007 Round 6 - Canadian Grand Prix)
-**Global ELO**: 1500 → 1598
-**Peak Global ELO**: 1757 (2016 Round 4 - Russian Grand Prix)
-**Lowest Global ELO**: 1460 (2006 Round 7 - Monaco Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1678
+
+🏆 **Peak ELO**: 1879
+   *2014 Round 12 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1488
+   *2006 Round 7 - Monaco Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1562
+
+🏆 **Peak ELO**: 1732
+   *2016 Round 4 - Russian Grand Prix*
+
+📉 **Lowest ELO**: 1413
+   *2007 Round 6 - Canadian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1598
+
+🏆 **Peak ELO**: 1757
+   *2016 Round 4 - Russian Grand Prix*
+
+📉 **Lowest ELO**: 1460
+   *2006 Round 7 - Monaco Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

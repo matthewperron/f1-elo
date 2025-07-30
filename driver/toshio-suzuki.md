@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1446
-**Peak Qualifying ELO**: 1470 (1993 Round 15 - Japanese Grand Prix)
-**Lowest Qualifying ELO**: 1446 (1993 Round 16 - Australian Grand Prix)
-**Global ELO**: 1500 → 1484
-**Peak Global ELO**: 1491 (1993 Round 15 - Japanese Grand Prix)
-**Lowest Global ELO**: 1484 (1993 Round 16 - Australian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1446
+
+🏆 **Peak ELO**: 1470
+   *1993 Round 15 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1446
+   *1993 Round 16 - Australian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1484
+
+🏆 **Peak ELO**: 1491
+   *1993 Round 15 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1484
+   *1993 Round 16 - Australian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

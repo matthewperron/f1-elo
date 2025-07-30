@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1423
-**Peak Qualifying ELO**: 1519 (2004 Round 8 - Canadian Grand Prix)
-**Lowest Qualifying ELO**: 1372 (2004 Round 17 - Japanese Grand Prix)
-**Race ELO**: 1500 → 1449
-**Peak Race ELO**: 1479 (2003 Round 14 - Italian Grand Prix)
-**Lowest Race ELO**: 1449 (2004 Round 7 - European Grand Prix)
-**Global ELO**: 1500 → 1440
-**Peak Global ELO**: 1496 (2003 Round 13 - Hungarian Grand Prix)
-**Lowest Global ELO**: 1425 (2004 Round 17 - Japanese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1423
+
+🏆 **Peak ELO**: 1519
+   *2004 Round 8 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1372
+   *2004 Round 17 - Japanese Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1449
+
+🏆 **Peak ELO**: 1479
+   *2003 Round 14 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1449
+   *2004 Round 7 - European Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1440
+
+🏆 **Peak ELO**: 1496
+   *2003 Round 13 - Hungarian Grand Prix*
+
+📉 **Lowest ELO**: 1425
+   *2004 Round 17 - Japanese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

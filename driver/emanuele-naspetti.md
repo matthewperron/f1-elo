@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1429
-**Peak Qualifying ELO**: 1468 (1992 Round 12 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1396 (1992 Round 15 - Japanese Grand Prix)
-**Race ELO**: 1500 → 1465
-**Peak Race ELO**: 1465 (1992 Round 12 - Belgian Grand Prix)
-**Lowest Race ELO**: 1465 (1992 Round 12 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1454
-**Peak Global ELO**: 1466 (1992 Round 12 - Belgian Grand Prix)
-**Lowest Global ELO**: 1444 (1992 Round 15 - Japanese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1429
+
+🏆 **Peak ELO**: 1468
+   *1992 Round 12 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1396
+   *1992 Round 15 - Japanese Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1465
+
+🏆 **Peak ELO**: 1465
+   *1992 Round 12 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1465
+   *1992 Round 12 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1454
+
+🏆 **Peak ELO**: 1466
+   *1992 Round 12 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1444
+   *1992 Round 15 - Japanese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1440
-**Peak Qualifying ELO**: 1695 (1981 Round 5 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1423 (1982 Round 14 - Swiss Grand Prix)
-**Race ELO**: 1500 → 1386
-**Peak Race ELO**: 1546 (1981 Round 5 - Belgian Grand Prix)
-**Lowest Race ELO**: 1386 (1983 Round 14 - European Grand Prix)
-**Global ELO**: 1500 → 1404
-**Peak Global ELO**: 1591 (1981 Round 5 - Belgian Grand Prix)
-**Lowest Global ELO**: 1404 (1983 Round 15 - South African Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1440
+
+🏆 **Peak ELO**: 1695
+   *1981 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1423
+   *1982 Round 14 - Swiss Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1386
+
+🏆 **Peak ELO**: 1546
+   *1981 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1386
+   *1983 Round 14 - European Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1404
+
+🏆 **Peak ELO**: 1591
+   *1981 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1404
+   *1983 Round 15 - South African Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

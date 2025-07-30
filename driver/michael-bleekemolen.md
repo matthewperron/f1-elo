@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1458
-**Peak Qualifying ELO**: 1458 (1978 Round 15 - United States Grand Prix)
-**Lowest Qualifying ELO**: 1458 (1978 Round 15 - United States Grand Prix)
-**Global ELO**: 1500 → 1487
-**Peak Global ELO**: 1487 (1978 Round 15 - United States Grand Prix)
-**Lowest Global ELO**: 1487 (1978 Round 15 - United States Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1458
+
+🏆 **Peak ELO**: 1458
+   *1978 Round 15 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1458
+   *1978 Round 15 - United States Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1487
+
+🏆 **Peak ELO**: 1487
+   *1978 Round 15 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1487
+   *1978 Round 15 - United States Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

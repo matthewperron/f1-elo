@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1540
-**Peak Qualifying ELO**: 1643 (2018 Round 10 - British Grand Prix)
-**Lowest Qualifying ELO**: 1352 (2017 Round 10 - British Grand Prix)
-**Race ELO**: 1500 → 1499
-**Peak Race ELO**: 1714 (2018 Round 10 - British Grand Prix)
-**Lowest Race ELO**: 1390 (2023 Round 5 - Miami Grand Prix)
-**Global ELO**: 1500 → 1512
-**Peak Global ELO**: 1692 (2018 Round 10 - British Grand Prix)
-**Lowest Global ELO**: 1409 (2023 Round 5 - Miami Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1540
+
+🏆 **Peak ELO**: 1643
+   *2018 Round 10 - British Grand Prix*
+
+📉 **Lowest ELO**: 1352
+   *2017 Round 10 - British Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1499
+
+🏆 **Peak ELO**: 1714
+   *2018 Round 10 - British Grand Prix*
+
+📉 **Lowest ELO**: 1390
+   *2023 Round 5 - Miami Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1512
+
+🏆 **Peak ELO**: 1692
+   *2018 Round 10 - British Grand Prix*
+
+📉 **Lowest ELO**: 1409
+   *2023 Round 5 - Miami Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

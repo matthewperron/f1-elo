@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1492
-**Peak Qualifying ELO**: 1696 (2017 Round 16 - Japanese Grand Prix)
-**Lowest Qualifying ELO**: 1469 (2018 Round 15 - Singapore Grand Prix)
-**Race ELO**: 1500 → 1529
-**Peak Race ELO**: 1548 (2017 Round 15 - Malaysian Grand Prix)
-**Lowest Race ELO**: 1477 (2018 Round 17 - Japanese Grand Prix)
-**Global ELO**: 1500 → 1517
-**Peak Global ELO**: 1586 (2017 Round 16 - Japanese Grand Prix)
-**Lowest Global ELO**: 1481 (2018 Round 15 - Singapore Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1492
+
+🏆 **Peak ELO**: 1696
+   *2017 Round 16 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1469
+   *2018 Round 15 - Singapore Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1529
+
+🏆 **Peak ELO**: 1548
+   *2017 Round 15 - Malaysian Grand Prix*
+
+📉 **Lowest ELO**: 1477
+   *2018 Round 17 - Japanese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1517
+
+🏆 **Peak ELO**: 1586
+   *2017 Round 16 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1481
+   *2018 Round 15 - Singapore Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

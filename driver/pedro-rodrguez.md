@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1572
-**Peak Qualifying ELO**: 1618 (1968 Round 12 - Mexican Grand Prix)
-**Lowest Qualifying ELO**: 1526 (1968 Round 1 - South African Grand Prix)
-**Race ELO**: 1500 → 1532
-**Peak Race ELO**: 1532 (1970 Round 13 - Mexican Grand Prix)
-**Lowest Race ELO**: 1532 (1970 Round 13 - Mexican Grand Prix)
-**Global ELO**: 1500 → 1544
-**Peak Global ELO**: 1557 (1970 Round 13 - Mexican Grand Prix)
-**Lowest Global ELO**: 1508 (1968 Round 1 - South African Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1572
+
+🏆 **Peak ELO**: 1618
+   *1968 Round 12 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1526
+   *1968 Round 1 - South African Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1532
+
+🏆 **Peak ELO**: 1532
+   *1970 Round 13 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1532
+   *1970 Round 13 - Mexican Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1544
+
+🏆 **Peak ELO**: 1557
+   *1970 Round 13 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1508
+   *1968 Round 1 - South African Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

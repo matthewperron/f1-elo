@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1330
-**Peak Qualifying ELO**: 1487 (1975 Round 12 - Austrian Grand Prix)
-**Lowest Qualifying ELO**: 1330 (1982 Round 16 - Caesars Palace Grand Prix)
-**Race ELO**: 1500 → 1396
-**Peak Race ELO**: 1466 (1982 Round 11 - French Grand Prix)
-**Lowest Race ELO**: 1396 (1982 Round 16 - Caesars Palace Grand Prix)
-**Global ELO**: 1500 → 1377
-**Peak Global ELO**: 1496 (1975 Round 12 - Austrian Grand Prix)
-**Lowest Global ELO**: 1377 (1982 Round 16 - Caesars Palace Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1330
+
+🏆 **Peak ELO**: 1487
+   *1975 Round 12 - Austrian Grand Prix*
+
+📉 **Lowest ELO**: 1330
+   *1982 Round 16 - Caesars Palace Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1396
+
+🏆 **Peak ELO**: 1466
+   *1982 Round 11 - French Grand Prix*
+
+📉 **Lowest ELO**: 1396
+   *1982 Round 16 - Caesars Palace Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1377
+
+🏆 **Peak ELO**: 1496
+   *1975 Round 12 - Austrian Grand Prix*
+
+📉 **Lowest ELO**: 1377
+   *1982 Round 16 - Caesars Palace Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

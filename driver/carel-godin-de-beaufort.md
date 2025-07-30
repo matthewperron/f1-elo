@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1442
-**Peak Qualifying ELO**: 1468 (1958 Round 8 - German Grand Prix)
-**Lowest Qualifying ELO**: 1442 (1963 Round 6 - German Grand Prix)
-**Global ELO**: 1500 → 1483
-**Peak Global ELO**: 1490 (1958 Round 8 - German Grand Prix)
-**Lowest Global ELO**: 1483 (1963 Round 6 - German Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1442
+
+🏆 **Peak ELO**: 1468
+   *1958 Round 8 - German Grand Prix*
+
+📉 **Lowest ELO**: 1442
+   *1963 Round 6 - German Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1483
+
+🏆 **Peak ELO**: 1490
+   *1958 Round 8 - German Grand Prix*
+
+📉 **Lowest ELO**: 1483
+   *1963 Round 6 - German Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

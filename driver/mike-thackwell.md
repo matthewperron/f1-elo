@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1531
-**Peak Qualifying ELO**: 1531 (1984 Round 7 - Canadian Grand Prix)
-**Lowest Qualifying ELO**: 1531 (1984 Round 7 - Canadian Grand Prix)
-**Global ELO**: 1500 → 1509
-**Peak Global ELO**: 1509 (1984 Round 7 - Canadian Grand Prix)
-**Lowest Global ELO**: 1509 (1984 Round 7 - Canadian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1531
+
+🏆 **Peak ELO**: 1531
+   *1984 Round 7 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1531
+   *1984 Round 7 - Canadian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1509
+
+🏆 **Peak ELO**: 1509
+   *1984 Round 7 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1509
+   *1984 Round 7 - Canadian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

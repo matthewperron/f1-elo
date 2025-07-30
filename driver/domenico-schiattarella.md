@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1431
-**Peak Qualifying ELO**: 1474 (1994 Round 14 - European Grand Prix)
-**Lowest Qualifying ELO**: 1380 (1995 Round 4 - Spanish Grand Prix)
-**Global ELO**: 1500 → 1480
-**Peak Global ELO**: 1492 (1994 Round 14 - European Grand Prix)
-**Lowest Global ELO**: 1464 (1995 Round 4 - Spanish Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1431
+
+🏆 **Peak ELO**: 1474
+   *1994 Round 14 - European Grand Prix*
+
+📉 **Lowest ELO**: 1380
+   *1995 Round 4 - Spanish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1480
+
+🏆 **Peak ELO**: 1492
+   *1994 Round 14 - European Grand Prix*
+
+📉 **Lowest ELO**: 1464
+   *1995 Round 4 - Spanish Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

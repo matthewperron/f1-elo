@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1463
-**Peak Qualifying ELO**: 1479 (1994 Round 11 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1463 (1994 Round 13 - Portuguese Grand Prix)
-**Global ELO**: 1500 → 1489
-**Peak Global ELO**: 1494 (1994 Round 11 - Belgian Grand Prix)
-**Lowest Global ELO**: 1489 (1994 Round 13 - Portuguese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1463
+
+🏆 **Peak ELO**: 1479
+   *1994 Round 11 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1463
+   *1994 Round 13 - Portuguese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1489
+
+🏆 **Peak ELO**: 1494
+   *1994 Round 11 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1489
+   *1994 Round 13 - Portuguese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

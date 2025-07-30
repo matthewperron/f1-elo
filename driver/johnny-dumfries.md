@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1410
-**Peak Qualifying ELO**: 1490 (1986 Round 1 - Brazilian Grand Prix)
-**Lowest Qualifying ELO**: 1410 (1986 Round 16 - Australian Grand Prix)
-**Race ELO**: 1500 → 1454
-**Peak Race ELO**: 1482 (1986 Round 1 - Brazilian Grand Prix)
-**Lowest Race ELO**: 1454 (1986 Round 11 - Hungarian Grand Prix)
-**Global ELO**: 1500 → 1441
-**Peak Global ELO**: 1484 (1986 Round 1 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1441 (1986 Round 16 - Australian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1410
+
+🏆 **Peak ELO**: 1490
+   *1986 Round 1 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1410
+   *1986 Round 16 - Australian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1454
+
+🏆 **Peak ELO**: 1482
+   *1986 Round 1 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1454
+   *1986 Round 11 - Hungarian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1441
+
+🏆 **Peak ELO**: 1484
+   *1986 Round 1 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1441
+   *1986 Round 16 - Australian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

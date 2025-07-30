@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1568
-**Peak Qualifying ELO**: 1570 (2004 Round 12 - German Grand Prix)
-**Lowest Qualifying ELO**: 1470 (2004 Round 2 - Malaysian Grand Prix)
-**Race ELO**: 1500 → 1432
-**Peak Race ELO**: 1475 (2004 Round 3 - Bahrain Grand Prix)
-**Lowest Race ELO**: 1432 (2004 Round 10 - French Grand Prix)
-**Global ELO**: 1500 → 1474
-**Peak Global ELO**: 1503 (2004 Round 4 - San Marino Grand Prix)
-**Lowest Global ELO**: 1444 (2004 Round 10 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1568
+
+🏆 **Peak ELO**: 1570
+   *2004 Round 12 - German Grand Prix*
+
+📉 **Lowest ELO**: 1470
+   *2004 Round 2 - Malaysian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1432
+
+🏆 **Peak ELO**: 1475
+   *2004 Round 3 - Bahrain Grand Prix*
+
+📉 **Lowest ELO**: 1432
+   *2004 Round 10 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1474
+
+🏆 **Peak ELO**: 1503
+   *2004 Round 4 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1444
+   *2004 Round 10 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

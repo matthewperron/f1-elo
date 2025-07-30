@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1436
-**Peak Qualifying ELO**: 1468 (1957 Round 5 - British Grand Prix)
-**Lowest Qualifying ELO**: 1436 (1958 Round 7 - British Grand Prix)
-**Global ELO**: 1500 → 1480
-**Peak Global ELO**: 1490 (1957 Round 5 - British Grand Prix)
-**Lowest Global ELO**: 1480 (1958 Round 7 - British Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1436
+
+🏆 **Peak ELO**: 1468
+   *1957 Round 5 - British Grand Prix*
+
+📉 **Lowest ELO**: 1436
+   *1958 Round 7 - British Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1480
+
+🏆 **Peak ELO**: 1490
+   *1957 Round 5 - British Grand Prix*
+
+📉 **Lowest ELO**: 1480
+   *1958 Round 7 - British Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

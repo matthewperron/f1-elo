@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1361
-**Peak Qualifying ELO**: 1475 (1994 Round 1 - Brazilian Grand Prix)
-**Lowest Qualifying ELO**: 1361 (1994 Round 10 - Hungarian Grand Prix)
-**Race ELO**: 1500 → 1489
-**Peak Race ELO**: 1542 (1994 Round 4 - Monaco Grand Prix)
-**Lowest Race ELO**: 1489 (1994 Round 10 - Hungarian Grand Prix)
-**Global ELO**: 1500 → 1451
-**Peak Global ELO**: 1506 (1994 Round 4 - Monaco Grand Prix)
-**Lowest Global ELO**: 1451 (1994 Round 10 - Hungarian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1361
+
+🏆 **Peak ELO**: 1475
+   *1994 Round 1 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1361
+   *1994 Round 10 - Hungarian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1489
+
+🏆 **Peak ELO**: 1542
+   *1994 Round 4 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1489
+   *1994 Round 10 - Hungarian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1451
+
+🏆 **Peak ELO**: 1506
+   *1994 Round 4 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1451
+   *1994 Round 10 - Hungarian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

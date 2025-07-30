@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1526
-**Peak Qualifying ELO**: 1553 (1971 Round 2 - Spanish Grand Prix)
-**Lowest Qualifying ELO**: 1431 (1970 Round 10 - Italian Grand Prix)
-**Race ELO**: 1500 → 1458
-**Peak Race ELO**: 1458 (1971 Round 2 - Spanish Grand Prix)
-**Lowest Race ELO**: 1458 (1971 Round 2 - Spanish Grand Prix)
-**Global ELO**: 1500 → 1508
-**Peak Global ELO**: 1508 (1974 Round 10 - British Grand Prix)
-**Lowest Global ELO**: 1453 (1971 Round 7 - German Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1526
+
+🏆 **Peak ELO**: 1553
+   *1971 Round 2 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1431
+   *1970 Round 10 - Italian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1458
+
+🏆 **Peak ELO**: 1458
+   *1971 Round 2 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1458
+   *1971 Round 2 - Spanish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1508
+
+🏆 **Peak ELO**: 1508
+   *1974 Round 10 - British Grand Prix*
+
+📉 **Lowest ELO**: 1453
+   *1971 Round 7 - German Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

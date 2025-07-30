@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1637
-**Peak Qualifying ELO**: 1637 (1994 Round 16 - Australian Grand Prix)
-**Lowest Qualifying ELO**: 1439 (1990 Round 13 - Portuguese Grand Prix)
-**Race ELO**: 1500 → 1532
-**Peak Race ELO**: 1532 (1994 Round 8 - British Grand Prix)
-**Lowest Race ELO**: 1467 (1990 Round 7 - French Grand Prix)
-**Global ELO**: 1500 → 1564
-**Peak Global ELO**: 1564 (1994 Round 16 - Australian Grand Prix)
-**Lowest Global ELO**: 1459 (1990 Round 13 - Portuguese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1637
+
+🏆 **Peak ELO**: 1637
+   *1994 Round 16 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1439
+   *1990 Round 13 - Portuguese Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1532
+
+🏆 **Peak ELO**: 1532
+   *1994 Round 8 - British Grand Prix*
+
+📉 **Lowest ELO**: 1467
+   *1990 Round 7 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1564
+
+🏆 **Peak ELO**: 1564
+   *1994 Round 16 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1459
+   *1990 Round 13 - Portuguese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

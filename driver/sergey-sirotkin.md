@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1532
-**Peak Qualifying ELO**: 1532 (2018 Round 21 - Abu Dhabi Grand Prix)
-**Lowest Qualifying ELO**: 1448 (2018 Round 5 - Spanish Grand Prix)
-**Race ELO**: 1500 → 1453
-**Peak Race ELO**: 1514 (2018 Round 13 - Belgian Grand Prix)
-**Lowest Race ELO**: 1406 (2018 Round 5 - Spanish Grand Prix)
-**Global ELO**: 1500 → 1477
-**Peak Global ELO**: 1512 (2018 Round 13 - Belgian Grand Prix)
-**Lowest Global ELO**: 1419 (2018 Round 5 - Spanish Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1532
+
+🏆 **Peak ELO**: 1532
+   *2018 Round 21 - Abu Dhabi Grand Prix*
+
+📉 **Lowest ELO**: 1448
+   *2018 Round 5 - Spanish Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1453
+
+🏆 **Peak ELO**: 1514
+   *2018 Round 13 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1406
+   *2018 Round 5 - Spanish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1477
+
+🏆 **Peak ELO**: 1512
+   *2018 Round 13 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1419
+   *2018 Round 5 - Spanish Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

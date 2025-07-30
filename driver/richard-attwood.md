@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1553
-**Peak Qualifying ELO**: 1567 (1965 Round 3 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1479 (1965 Round 7 - German Grand Prix)
-**Race ELO**: 1500 → 1506
-**Peak Race ELO**: 1506 (1965 Round 8 - Italian Grand Prix)
-**Lowest Race ELO**: 1468 (1965 Round 6 - Dutch Grand Prix)
-**Global ELO**: 1500 → 1520
-**Peak Global ELO**: 1520 (1965 Round 3 - Belgian Grand Prix)
-**Lowest Global ELO**: 1471 (1965 Round 7 - German Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1553
+
+🏆 **Peak ELO**: 1567
+   *1965 Round 3 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1479
+   *1965 Round 7 - German Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1506
+
+🏆 **Peak ELO**: 1506
+   *1965 Round 8 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1965 Round 6 - Dutch Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1520
+
+🏆 **Peak ELO**: 1520
+   *1965 Round 3 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1471
+   *1965 Round 7 - German Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

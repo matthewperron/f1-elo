@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1379
-**Peak Qualifying ELO**: 1526 (1965 Round 2 - Monaco Grand Prix)
-**Lowest Qualifying ELO**: 1379 (1966 Round 9 - Mexican Grand Prix)
-**Race ELO**: 1500 → 1464
-**Peak Race ELO**: 1464 (1965 Round 10 - Mexican Grand Prix)
-**Lowest Race ELO**: 1464 (1965 Round 10 - Mexican Grand Prix)
-**Global ELO**: 1500 → 1438
-**Peak Global ELO**: 1508 (1965 Round 2 - Monaco Grand Prix)
-**Lowest Global ELO**: 1438 (1966 Round 9 - Mexican Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1379
+
+🏆 **Peak ELO**: 1526
+   *1965 Round 2 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1379
+   *1966 Round 9 - Mexican Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1464
+
+🏆 **Peak ELO**: 1464
+   *1965 Round 10 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1464
+   *1965 Round 10 - Mexican Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1438
+
+🏆 **Peak ELO**: 1508
+   *1965 Round 2 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1438
+   *1966 Round 9 - Mexican Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

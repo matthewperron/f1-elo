@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1420
-**Peak Qualifying ELO**: 1468 (1962 Round 2 - Monaco Grand Prix)
-**Lowest Qualifying ELO**: 1420 (1962 Round 7 - Italian Grand Prix)
-**Race ELO**: 1500 → 1468
-**Peak Race ELO**: 1468 (1962 Round 7 - Italian Grand Prix)
-**Lowest Race ELO**: 1468 (1962 Round 7 - Italian Grand Prix)
-**Global ELO**: 1500 → 1454
-**Peak Global ELO**: 1490 (1962 Round 2 - Monaco Grand Prix)
-**Lowest Global ELO**: 1454 (1962 Round 7 - Italian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1420
+
+🏆 **Peak ELO**: 1468
+   *1962 Round 2 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1420
+   *1962 Round 7 - Italian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1468
+   *1962 Round 7 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1962 Round 7 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1454
+
+🏆 **Peak ELO**: 1490
+   *1962 Round 2 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1454
+   *1962 Round 7 - Italian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1497
-**Peak Qualifying ELO**: 1752 (2016 Round 5 - Spanish Grand Prix)
-**Lowest Qualifying ELO**: 1343 (2013 Round 7 - Canadian Grand Prix)
-**Race ELO**: 1500 → 1468
-**Peak Race ELO**: 1631 (2015 Round 18 - Brazilian Grand Prix)
-**Lowest Race ELO**: 1345 (2013 Round 10 - Hungarian Grand Prix)
-**Global ELO**: 1500 → 1480
-**Peak Global ELO**: 1669 (2015 Round 18 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1360 (2013 Round 7 - Canadian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1497
+
+🏆 **Peak ELO**: 1752
+   *2016 Round 5 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1343
+   *2013 Round 7 - Canadian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1631
+   *2015 Round 18 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1345
+   *2013 Round 10 - Hungarian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1480
+
+🏆 **Peak ELO**: 1669
+   *2015 Round 18 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1360
+   *2013 Round 7 - Canadian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

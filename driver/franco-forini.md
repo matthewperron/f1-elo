@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1445
-**Peak Qualifying ELO**: 1470 (1987 Round 11 - Italian Grand Prix)
-**Lowest Qualifying ELO**: 1445 (1987 Round 12 - Portuguese Grand Prix)
-**Global ELO**: 1500 → 1484
-**Peak Global ELO**: 1491 (1987 Round 11 - Italian Grand Prix)
-**Lowest Global ELO**: 1484 (1987 Round 12 - Portuguese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1445
+
+🏆 **Peak ELO**: 1470
+   *1987 Round 11 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1445
+   *1987 Round 12 - Portuguese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1484
+
+🏆 **Peak ELO**: 1491
+   *1987 Round 11 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1484
+   *1987 Round 12 - Portuguese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

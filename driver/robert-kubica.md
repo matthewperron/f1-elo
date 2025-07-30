@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1451
-**Peak Qualifying ELO**: 1751 (2010 Round 11 - German Grand Prix)
-**Lowest Qualifying ELO**: 1371 (2019 Round 21 - Abu Dhabi Grand Prix)
-**Race ELO**: 1500 → 1453
-**Peak Race ELO**: 1707 (2010 Round 19 - Abu Dhabi Grand Prix)
-**Lowest Race ELO**: 1337 (2019 Round 21 - Abu Dhabi Grand Prix)
-**Global ELO**: 1500 → 1452
-**Peak Global ELO**: 1715 (2010 Round 18 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1347 (2019 Round 21 - Abu Dhabi Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1451
+
+🏆 **Peak ELO**: 1751
+   *2010 Round 11 - German Grand Prix*
+
+📉 **Lowest ELO**: 1371
+   *2019 Round 21 - Abu Dhabi Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1453
+
+🏆 **Peak ELO**: 1707
+   *2010 Round 19 - Abu Dhabi Grand Prix*
+
+📉 **Lowest ELO**: 1337
+   *2019 Round 21 - Abu Dhabi Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1452
+
+🏆 **Peak ELO**: 1715
+   *2010 Round 18 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1347
+   *2019 Round 21 - Abu Dhabi Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

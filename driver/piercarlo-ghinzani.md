@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1406
-**Peak Qualifying ELO**: 1736 (1986 Round 16 - Australian Grand Prix)
-**Lowest Qualifying ELO**: 1406 (1989 Round 16 - Australian Grand Prix)
-**Race ELO**: 1500 → 1501
-**Peak Race ELO**: 1536 (1987 Round 11 - Italian Grand Prix)
-**Lowest Race ELO**: 1468 (1987 Round 3 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1473
-**Peak Global ELO**: 1571 (1986 Round 16 - Australian Grand Prix)
-**Lowest Global ELO**: 1473 (1989 Round 16 - Australian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1406
+
+🏆 **Peak ELO**: 1736
+   *1986 Round 16 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1406
+   *1989 Round 16 - Australian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1501
+
+🏆 **Peak ELO**: 1536
+   *1987 Round 11 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1987 Round 3 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1473
+
+🏆 **Peak ELO**: 1571
+   *1986 Round 16 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1473
+   *1989 Round 16 - Australian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

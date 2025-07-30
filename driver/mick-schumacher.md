@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1575
-**Peak Qualifying ELO**: 1671 (2021 Round 22 - Abu Dhabi Grand Prix)
-**Lowest Qualifying ELO**: 1480 (2022 Round 11 - Austrian Grand Prix)
-**Race ELO**: 1500 → 1582
-**Peak Race ELO**: 1640 (2022 Round 13 - Hungarian Grand Prix)
-**Lowest Race ELO**: 1515 (2022 Round 19 - United States Grand Prix)
-**Global ELO**: 1500 → 1579
-**Peak Global ELO**: 1620 (2021 Round 18 - Mexico City Grand Prix)
-**Lowest Global ELO**: 1510 (2021 Round 1 - Bahrain Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1575
+
+🏆 **Peak ELO**: 1671
+   *2021 Round 22 - Abu Dhabi Grand Prix*
+
+📉 **Lowest ELO**: 1480
+   *2022 Round 11 - Austrian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1582
+
+🏆 **Peak ELO**: 1640
+   *2022 Round 13 - Hungarian Grand Prix*
+
+📉 **Lowest ELO**: 1515
+   *2022 Round 19 - United States Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1579
+
+🏆 **Peak ELO**: 1620
+   *2021 Round 18 - Mexico City Grand Prix*
+
+📉 **Lowest ELO**: 1510
+   *2021 Round 1 - Bahrain Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

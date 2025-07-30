@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1420
-**Peak Qualifying ELO**: 1468 (1992 Round 2 - Mexican Grand Prix)
-**Lowest Qualifying ELO**: 1420 (1992 Round 8 - French Grand Prix)
-**Global ELO**: 1500 → 1476
-**Peak Global ELO**: 1490 (1992 Round 2 - Mexican Grand Prix)
-**Lowest Global ELO**: 1476 (1992 Round 8 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1420
+
+🏆 **Peak ELO**: 1468
+   *1992 Round 2 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1420
+   *1992 Round 8 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1476
+
+🏆 **Peak ELO**: 1490
+   *1992 Round 2 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1476
+   *1992 Round 8 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

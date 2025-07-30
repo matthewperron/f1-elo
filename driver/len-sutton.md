@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1468
-**Peak Qualifying ELO**: 1468 (1959 Round 2 - Indianapolis 500)
-**Lowest Qualifying ELO**: 1468 (1959 Round 2 - Indianapolis 500)
-**Global ELO**: 1500 → 1490
-**Peak Global ELO**: 1490 (1959 Round 2 - Indianapolis 500)
-**Lowest Global ELO**: 1490 (1959 Round 2 - Indianapolis 500)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1468
+   *1959 Round 2 - Indianapolis 500*
+
+📉 **Lowest ELO**: 1468
+   *1959 Round 2 - Indianapolis 500*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1490
+
+🏆 **Peak ELO**: 1490
+   *1959 Round 2 - Indianapolis 500*
+
+📉 **Lowest ELO**: 1490
+   *1959 Round 2 - Indianapolis 500*
+
 
 ## Complete Race-by-Race Results
 

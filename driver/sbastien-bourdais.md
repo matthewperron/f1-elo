@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1325
-**Peak Qualifying ELO**: 1534 (2008 Round 7 - Canadian Grand Prix)
-**Lowest Qualifying ELO**: 1291 (2009 Round 7 - Turkish Grand Prix)
-**Race ELO**: 1500 → 1322
-**Peak Race ELO**: 1466 (2008 Round 7 - Canadian Grand Prix)
-**Lowest Race ELO**: 1290 (2009 Round 3 - Chinese Grand Prix)
-**Global ELO**: 1500 → 1323
-**Peak Global ELO**: 1503 (2008 Round 4 - Spanish Grand Prix)
-**Lowest Global ELO**: 1310 (2009 Round 3 - Chinese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1325
+
+🏆 **Peak ELO**: 1534
+   *2008 Round 7 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1291
+   *2009 Round 7 - Turkish Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1322
+
+🏆 **Peak ELO**: 1466
+   *2008 Round 7 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1290
+   *2009 Round 3 - Chinese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1323
+
+🏆 **Peak ELO**: 1503
+   *2008 Round 4 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1310
+   *2009 Round 3 - Chinese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

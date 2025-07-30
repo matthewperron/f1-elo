@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1503
-**Peak Qualifying ELO**: 1503 (1951 Round 7 - Italian Grand Prix)
-**Lowest Qualifying ELO**: 1468 (1951 Round 5 - British Grand Prix)
-**Global ELO**: 1500 → 1501
-**Peak Global ELO**: 1501 (1951 Round 7 - Italian Grand Prix)
-**Lowest Global ELO**: 1490 (1951 Round 5 - British Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1503
+
+🏆 **Peak ELO**: 1503
+   *1951 Round 7 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1951 Round 5 - British Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1501
+
+🏆 **Peak ELO**: 1501
+   *1951 Round 7 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1490
+   *1951 Round 5 - British Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

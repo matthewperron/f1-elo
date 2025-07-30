@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1408
-**Peak Qualifying ELO**: 1532 (2001 Round 6 - Austrian Grand Prix)
-**Lowest Qualifying ELO**: 1408 (2001 Round 14 - Belgian Grand Prix)
-**Race ELO**: 1500 → 1515
-**Peak Race ELO**: 1519 (2001 Round 1 - Australian Grand Prix)
-**Lowest Race ELO**: 1464 (2001 Round 8 - Canadian Grand Prix)
-**Global ELO**: 1500 → 1483
-**Peak Global ELO**: 1513 (2001 Round 10 - French Grand Prix)
-**Lowest Global ELO**: 1463 (2001 Round 9 - European Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1408
+
+🏆 **Peak ELO**: 1532
+   *2001 Round 6 - Austrian Grand Prix*
+
+📉 **Lowest ELO**: 1408
+   *2001 Round 14 - Belgian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1515
+
+🏆 **Peak ELO**: 1519
+   *2001 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1464
+   *2001 Round 8 - Canadian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1483
+
+🏆 **Peak ELO**: 1513
+   *2001 Round 10 - French Grand Prix*
+
+📉 **Lowest ELO**: 1463
+   *2001 Round 9 - European Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

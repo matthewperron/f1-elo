@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1564
-**Peak Qualifying ELO**: 1564 (1952 Round 1 - Swiss Grand Prix)
-**Lowest Qualifying ELO**: 1532 (1951 Round 6 - German Grand Prix)
-**Global ELO**: 1500 → 1520
-**Peak Global ELO**: 1520 (1952 Round 1 - Swiss Grand Prix)
-**Lowest Global ELO**: 1510 (1951 Round 6 - German Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1564
+
+🏆 **Peak ELO**: 1564
+   *1952 Round 1 - Swiss Grand Prix*
+
+📉 **Lowest ELO**: 1532
+   *1951 Round 6 - German Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1520
+
+🏆 **Peak ELO**: 1520
+   *1952 Round 1 - Swiss Grand Prix*
+
+📉 **Lowest ELO**: 1510
+   *1951 Round 6 - German Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

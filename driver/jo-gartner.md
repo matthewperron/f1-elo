@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1394
-**Peak Qualifying ELO**: 1484 (1984 Round 12 - Austrian Grand Prix)
-**Lowest Qualifying ELO**: 1394 (1984 Round 16 - Portuguese Grand Prix)
-**Global ELO**: 1500 → 1468
-**Peak Global ELO**: 1495 (1984 Round 12 - Austrian Grand Prix)
-**Lowest Global ELO**: 1468 (1984 Round 16 - Portuguese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1394
+
+🏆 **Peak ELO**: 1484
+   *1984 Round 12 - Austrian Grand Prix*
+
+📉 **Lowest ELO**: 1394
+   *1984 Round 16 - Portuguese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1495
+   *1984 Round 12 - Austrian Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1984 Round 16 - Portuguese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

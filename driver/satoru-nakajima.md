@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1321
-**Peak Qualifying ELO**: 1503 (1989 Round 7 - French Grand Prix)
-**Lowest Qualifying ELO**: 1300 (1991 Round 8 - British Grand Prix)
-**Race ELO**: 1500 → 1293
-**Peak Race ELO**: 1485 (1987 Round 4 - Monaco Grand Prix)
-**Lowest Race ELO**: 1293 (1991 Round 14 - Spanish Grand Prix)
-**Global ELO**: 1500 → 1301
-**Peak Global ELO**: 1498 (1987 Round 1 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1301 (1991 Round 16 - Australian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1321
+
+🏆 **Peak ELO**: 1503
+   *1989 Round 7 - French Grand Prix*
+
+📉 **Lowest ELO**: 1300
+   *1991 Round 8 - British Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1293
+
+🏆 **Peak ELO**: 1485
+   *1987 Round 4 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1293
+   *1991 Round 14 - Spanish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1301
+
+🏆 **Peak ELO**: 1498
+   *1987 Round 1 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1301
+   *1991 Round 16 - Australian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

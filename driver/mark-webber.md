@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1562
-**Peak Qualifying ELO**: 1865 (2008 Round 15 - Singapore Grand Prix)
-**Lowest Qualifying ELO**: 1487 (2013 Round 14 - Korean Grand Prix)
-**Race ELO**: 1500 → 1448
-**Peak Race ELO**: 1746 (2004 Round 15 - Italian Grand Prix)
-**Lowest Race ELO**: 1448 (2013 Round 19 - Brazilian Grand Prix)
-**Global ELO**: 1500 → 1487
-**Peak Global ELO**: 1774 (2008 Round 15 - Singapore Grand Prix)
-**Lowest Global ELO**: 1480 (2013 Round 14 - Korean Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1562
+
+🏆 **Peak ELO**: 1865
+   *2008 Round 15 - Singapore Grand Prix*
+
+📉 **Lowest ELO**: 1487
+   *2013 Round 14 - Korean Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1448
+
+🏆 **Peak ELO**: 1746
+   *2004 Round 15 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1448
+   *2013 Round 19 - Brazilian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1487
+
+🏆 **Peak ELO**: 1774
+   *2008 Round 15 - Singapore Grand Prix*
+
+📉 **Lowest ELO**: 1480
+   *2013 Round 14 - Korean Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1479
-**Peak Qualifying ELO**: 1659 (1996 Round 9 - French Grand Prix)
-**Lowest Qualifying ELO**: 1434 (1995 Round 16 - Japanese Grand Prix)
-**Race ELO**: 1500 → 1461
-**Peak Race ELO**: 1532 (1999 Round 3 - San Marino Grand Prix)
-**Lowest Race ELO**: 1438 (1995 Round 15 - Pacific Grand Prix)
-**Global ELO**: 1500 → 1466
-**Peak Global ELO**: 1538 (1995 Round 10 - Hungarian Grand Prix)
-**Lowest Global ELO**: 1445 (1995 Round 15 - Pacific Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1479
+
+🏆 **Peak ELO**: 1659
+   *1996 Round 9 - French Grand Prix*
+
+📉 **Lowest ELO**: 1434
+   *1995 Round 16 - Japanese Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1461
+
+🏆 **Peak ELO**: 1532
+   *1999 Round 3 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1438
+   *1995 Round 15 - Pacific Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1466
+
+🏆 **Peak ELO**: 1538
+   *1995 Round 10 - Hungarian Grand Prix*
+
+📉 **Lowest ELO**: 1445
+   *1995 Round 15 - Pacific Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

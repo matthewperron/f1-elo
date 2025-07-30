@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1486
-**Peak Qualifying ELO**: 1486 (1985 Round 12 - Italian Grand Prix)
-**Lowest Qualifying ELO**: 1457 (1985 Round 10 - Austrian Grand Prix)
-**Global ELO**: 1500 → 1496
-**Peak Global ELO**: 1496 (1985 Round 12 - Italian Grand Prix)
-**Lowest Global ELO**: 1487 (1985 Round 10 - Austrian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1486
+
+🏆 **Peak ELO**: 1486
+   *1985 Round 12 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1457
+   *1985 Round 10 - Austrian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1496
+
+🏆 **Peak ELO**: 1496
+   *1985 Round 12 - Italian Grand Prix*
+
+📉 **Lowest ELO**: 1487
+   *1985 Round 10 - Austrian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

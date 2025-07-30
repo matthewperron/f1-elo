@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1377
-**Peak Qualifying ELO**: 1477 (1986 Round 7 - Detroit Grand Prix)
-**Lowest Qualifying ELO**: 1377 (1986 Round 16 - Australian Grand Prix)
-**Global ELO**: 1500 → 1463
-**Peak Global ELO**: 1493 (1986 Round 7 - Detroit Grand Prix)
-**Lowest Global ELO**: 1463 (1986 Round 16 - Australian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1377
+
+🏆 **Peak ELO**: 1477
+   *1986 Round 7 - Detroit Grand Prix*
+
+📉 **Lowest ELO**: 1377
+   *1986 Round 16 - Australian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1463
+
+🏆 **Peak ELO**: 1493
+   *1986 Round 7 - Detroit Grand Prix*
+
+📉 **Lowest ELO**: 1463
+   *1986 Round 16 - Australian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

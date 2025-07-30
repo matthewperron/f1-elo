@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1360
-**Peak Qualifying ELO**: 1543 (1988 Round 10 - Hungarian Grand Prix)
-**Lowest Qualifying ELO**: 1312 (1989 Round 14 - Spanish Grand Prix)
-**Race ELO**: 1500 → 1409
-**Peak Race ELO**: 1532 (1988 Round 2 - San Marino Grand Prix)
-**Lowest Race ELO**: 1409 (1989 Round 13 - Portuguese Grand Prix)
-**Global ELO**: 1500 → 1394
-**Peak Global ELO**: 1535 (1988 Round 10 - Hungarian Grand Prix)
-**Lowest Global ELO**: 1379 (1989 Round 14 - Spanish Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1360
+
+🏆 **Peak ELO**: 1543
+   *1988 Round 10 - Hungarian Grand Prix*
+
+📉 **Lowest ELO**: 1312
+   *1989 Round 14 - Spanish Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1409
+
+🏆 **Peak ELO**: 1532
+   *1988 Round 2 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1409
+   *1989 Round 13 - Portuguese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1394
+
+🏆 **Peak ELO**: 1535
+   *1988 Round 10 - Hungarian Grand Prix*
+
+📉 **Lowest ELO**: 1379
+   *1989 Round 14 - Spanish Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

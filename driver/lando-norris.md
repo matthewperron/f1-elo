@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1691
-**Peak Qualifying ELO**: 1879 (2023 Round 11 - Hungarian Grand Prix)
-**Lowest Qualifying ELO**: 1451 (2019 Round 19 - United States Grand Prix)
-**Race ELO**: 1500 → 1617
-**Peak Race ELO**: 1755 (2024 Round 7 - Emilia Romagna Grand Prix)
-**Lowest Race ELO**: 1438 (2019 Round 8 - French Grand Prix)
-**Global ELO**: 1500 → 1637
-**Peak Global ELO**: 1771 (2022 Round 19 - United States Grand Prix)
-**Lowest Global ELO**: 1457 (2019 Round 18 - Mexican Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1691
+
+🏆 **Peak ELO**: 1879
+   *2023 Round 11 - Hungarian Grand Prix*
+
+📉 **Lowest ELO**: 1451
+   *2019 Round 19 - United States Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1617
+
+🏆 **Peak ELO**: 1755
+   *2024 Round 7 - Emilia Romagna Grand Prix*
+
+📉 **Lowest ELO**: 1438
+   *2019 Round 8 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1637
+
+🏆 **Peak ELO**: 1771
+   *2022 Round 19 - United States Grand Prix*
+
+📉 **Lowest ELO**: 1457
+   *2019 Round 18 - Mexican Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

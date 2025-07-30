@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1615
-**Peak Qualifying ELO**: 1957 (1996 Round 10 - British Grand Prix)
-**Lowest Qualifying ELO**: 1449 (1989 Round 8 - British Grand Prix)
-**Race ELO**: 1500 → 1617
-**Peak Race ELO**: 1701 (1998 Round 16 - Japanese Grand Prix)
-**Lowest Race ELO**: 1534 (1989 Round 7 - French Grand Prix)
-**Global ELO**: 1500 → 1613
-**Peak Global ELO**: 1751 (1996 Round 15 - Portuguese Grand Prix)
-**Lowest Global ELO**: 1509 (1989 Round 8 - British Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1615
+
+🏆 **Peak ELO**: 1957
+   *1996 Round 10 - British Grand Prix*
+
+📉 **Lowest ELO**: 1449
+   *1989 Round 8 - British Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1617
+
+🏆 **Peak ELO**: 1701
+   *1998 Round 16 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1534
+   *1989 Round 7 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1613
+
+🏆 **Peak ELO**: 1751
+   *1996 Round 15 - Portuguese Grand Prix*
+
+📉 **Lowest ELO**: 1509
+   *1989 Round 8 - British Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

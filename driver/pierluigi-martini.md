@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1636
-**Peak Qualifying ELO**: 1819 (1991 Round 2 - Brazilian Grand Prix)
-**Lowest Qualifying ELO**: 1490 (1988 Round 10 - Hungarian Grand Prix)
-**Race ELO**: 1500 → 1615
-**Peak Race ELO**: 1693 (1992 Round 7 - Canadian Grand Prix)
-**Lowest Race ELO**: 1496 (1993 Round 10 - German Grand Prix)
-**Global ELO**: 1500 → 1625
-**Peak Global ELO**: 1698 (1991 Round 2 - Brazilian Grand Prix)
-**Lowest Global ELO**: 1497 (1988 Round 10 - Hungarian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1636
+
+🏆 **Peak ELO**: 1819
+   *1991 Round 2 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1490
+   *1988 Round 10 - Hungarian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1615
+
+🏆 **Peak ELO**: 1693
+   *1992 Round 7 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1496
+   *1993 Round 10 - German Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1625
+
+🏆 **Peak ELO**: 1698
+   *1991 Round 2 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1497
+   *1988 Round 10 - Hungarian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

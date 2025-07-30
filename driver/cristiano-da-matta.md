@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1522
-**Peak Qualifying ELO**: 1558 (2004 Round 11 - British Grand Prix)
-**Lowest Qualifying ELO**: 1397 (2003 Round 6 - Austrian Grand Prix)
-**Race ELO**: 1500 → 1588
-**Peak Race ELO**: 1588 (2004 Round 10 - French Grand Prix)
-**Lowest Race ELO**: 1450 (2003 Round 10 - French Grand Prix)
-**Global ELO**: 1500 → 1568
-**Peak Global ELO**: 1578 (2004 Round 11 - British Grand Prix)
-**Lowest Global ELO**: 1436 (2003 Round 10 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1522
+
+🏆 **Peak ELO**: 1558
+   *2004 Round 11 - British Grand Prix*
+
+📉 **Lowest ELO**: 1397
+   *2003 Round 6 - Austrian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1588
+
+🏆 **Peak ELO**: 1588
+   *2004 Round 10 - French Grand Prix*
+
+📉 **Lowest ELO**: 1450
+   *2003 Round 10 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1568
+
+🏆 **Peak ELO**: 1578
+   *2004 Round 11 - British Grand Prix*
+
+📉 **Lowest ELO**: 1436
+   *2003 Round 10 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

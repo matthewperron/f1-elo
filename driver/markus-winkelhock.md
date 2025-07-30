@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1478
-**Peak Qualifying ELO**: 1478 (2007 Round 10 - European Grand Prix)
-**Lowest Qualifying ELO**: 1478 (2007 Round 10 - European Grand Prix)
-**Global ELO**: 1500 → 1493
-**Peak Global ELO**: 1493 (2007 Round 10 - European Grand Prix)
-**Lowest Global ELO**: 1493 (2007 Round 10 - European Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1478
+
+🏆 **Peak ELO**: 1478
+   *2007 Round 10 - European Grand Prix*
+
+📉 **Lowest ELO**: 1478
+   *2007 Round 10 - European Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1493
+
+🏆 **Peak ELO**: 1493
+   *2007 Round 10 - European Grand Prix*
+
+📉 **Lowest ELO**: 1493
+   *2007 Round 10 - European Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

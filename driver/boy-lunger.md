@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1472
-**Peak Qualifying ELO**: 1472 (1976 Round 12 - Dutch Grand Prix)
-**Lowest Qualifying ELO**: 1472 (1976 Round 12 - Dutch Grand Prix)
-**Global ELO**: 1500 → 1492
-**Peak Global ELO**: 1492 (1976 Round 12 - Dutch Grand Prix)
-**Lowest Global ELO**: 1492 (1976 Round 12 - Dutch Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1472
+
+🏆 **Peak ELO**: 1472
+   *1976 Round 12 - Dutch Grand Prix*
+
+📉 **Lowest ELO**: 1472
+   *1976 Round 12 - Dutch Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1492
+
+🏆 **Peak ELO**: 1492
+   *1976 Round 12 - Dutch Grand Prix*
+
+📉 **Lowest ELO**: 1492
+   *1976 Round 12 - Dutch Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

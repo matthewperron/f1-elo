@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1453
-**Peak Qualifying ELO**: 1527 (2017 Round 19 - Brazilian Grand Prix)
-**Lowest Qualifying ELO**: 1345 (2018 Round 16 - Russian Grand Prix)
-**Race ELO**: 1500 → 1466
-**Peak Race ELO**: 1527 (2018 Round 11 - German Grand Prix)
-**Lowest Race ELO**: 1405 (2018 Round 17 - Japanese Grand Prix)
-**Global ELO**: 1500 → 1461
-**Peak Global ELO**: 1503 (2018 Round 1 - Australian Grand Prix)
-**Lowest Global ELO**: 1402 (2018 Round 16 - Russian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1453
+
+🏆 **Peak ELO**: 1527
+   *2017 Round 19 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1345
+   *2018 Round 16 - Russian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1466
+
+🏆 **Peak ELO**: 1527
+   *2018 Round 11 - German Grand Prix*
+
+📉 **Lowest ELO**: 1405
+   *2018 Round 17 - Japanese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1461
+
+🏆 **Peak ELO**: 1503
+   *2018 Round 1 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1402
+   *2018 Round 16 - Russian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

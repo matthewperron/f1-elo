@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1472
-**Peak Qualifying ELO**: 1559 (1973 Round 6 - Monaco Grand Prix)
-**Lowest Qualifying ELO**: 1404 (1970 Round 13 - Mexican Grand Prix)
-**Race ELO**: 1500 → 1468
-**Peak Race ELO**: 1468 (1970 Round 13 - Mexican Grand Prix)
-**Lowest Race ELO**: 1468 (1970 Round 13 - Mexican Grand Prix)
-**Global ELO**: 1500 → 1492
-**Peak Global ELO**: 1518 (1973 Round 6 - Monaco Grand Prix)
-**Lowest Global ELO**: 1448 (1970 Round 13 - Mexican Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1472
+
+🏆 **Peak ELO**: 1559
+   *1973 Round 6 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1404
+   *1970 Round 13 - Mexican Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1468
+   *1970 Round 13 - Mexican Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1970 Round 13 - Mexican Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1492
+
+🏆 **Peak ELO**: 1518
+   *1973 Round 6 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1448
+   *1970 Round 13 - Mexican Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

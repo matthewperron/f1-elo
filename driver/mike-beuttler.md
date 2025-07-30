@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1422
-**Peak Qualifying ELO**: 1468 (1973 Round 1 - Argentine Grand Prix)
-**Lowest Qualifying ELO**: 1379 (1973 Round 5 - Belgian Grand Prix)
-**Race ELO**: 1500 → 1497
-**Peak Race ELO**: 1532 (1973 Round 4 - Spanish Grand Prix)
-**Lowest Race ELO**: 1497 (1973 Round 11 - German Grand Prix)
-**Global ELO**: 1500 → 1475
-**Peak Global ELO**: 1491 (1973 Round 4 - Spanish Grand Prix)
-**Lowest Global ELO**: 1475 (1973 Round 11 - German Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1422
+
+🏆 **Peak ELO**: 1468
+   *1973 Round 1 - Argentine Grand Prix*
+
+📉 **Lowest ELO**: 1379
+   *1973 Round 5 - Belgian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1497
+
+🏆 **Peak ELO**: 1532
+   *1973 Round 4 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1497
+   *1973 Round 11 - German Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1475
+
+🏆 **Peak ELO**: 1491
+   *1973 Round 4 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1475
+   *1973 Round 11 - German Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

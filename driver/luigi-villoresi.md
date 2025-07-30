@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1468
-**Peak Qualifying ELO**: 1532 (1950 Round 5 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1468 (1954 Round 9 - Spanish Grand Prix)
-**Race ELO**: 1500 → 1468
-**Peak Race ELO**: 1468 (1950 Round 5 - Belgian Grand Prix)
-**Lowest Race ELO**: 1468 (1950 Round 5 - Belgian Grand Prix)
-**Global ELO**: 1500 → 1490
-**Peak Global ELO**: 1490 (1954 Round 9 - Spanish Grand Prix)
-**Lowest Global ELO**: 1487 (1950 Round 5 - Belgian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1532
+   *1950 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1954 Round 9 - Spanish Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1468
+   *1950 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1468
+   *1950 Round 5 - Belgian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1490
+
+🏆 **Peak ELO**: 1490
+   *1954 Round 9 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1487
+   *1950 Round 5 - Belgian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

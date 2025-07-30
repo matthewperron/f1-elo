@@ -303,9 +303,12 @@ async function generateComprehensiveDriverFiles() {
             const qualStart = qualifyingResults[0].startingElo;
             const qualEnd = qualifyingResults[qualifyingResults.length - 1].newElo;
             
-            content += `**Qualifying ELO**: ${qualStart} → ${qualEnd}\n`;
-            content += `**Peak Qualifying ELO**: ${qualPeakResult.newElo} (${qualPeakResult.season} Round ${qualPeakResult.round} - ${qualPeakResult.raceName})\n`;
-            content += `**Lowest Qualifying ELO**: ${qualLowResult.newElo} (${qualLowResult.season} Round ${qualLowResult.round} - ${qualLowResult.raceName})\n`;
+            content += `### 🏁 Qualifying Performance\n`;
+            content += `**Career Journey**: ${qualStart} → ${qualEnd}\n\n`;
+            content += `🏆 **Peak ELO**: ${qualPeakResult.newElo}\n`;
+            content += `   *${qualPeakResult.season} Round ${qualPeakResult.round} - ${qualPeakResult.raceName}*\n\n`;
+            content += `📉 **Lowest ELO**: ${qualLowResult.newElo}\n`;
+            content += `   *${qualLowResult.season} Round ${qualLowResult.round} - ${qualLowResult.raceName}*\n\n`;
         }
         
         if (raceResults.length > 0) {
@@ -314,9 +317,12 @@ async function generateComprehensiveDriverFiles() {
             const raceStart = raceResults[0].startingElo;
             const raceEnd = raceResults[raceResults.length - 1].newElo;
             
-            content += `**Race ELO**: ${raceStart} → ${raceEnd}\n`;
-            content += `**Peak Race ELO**: ${racePeakResult.newElo} (${racePeakResult.season} Round ${racePeakResult.round} - ${racePeakResult.raceName})\n`;
-            content += `**Lowest Race ELO**: ${raceLowResult.newElo} (${raceLowResult.season} Round ${raceLowResult.round} - ${raceLowResult.raceName})\n`;
+            content += `### 🏎️ Race Performance\n`;
+            content += `**Career Journey**: ${raceStart} → ${raceEnd}\n\n`;
+            content += `🏆 **Peak ELO**: ${racePeakResult.newElo}\n`;
+            content += `   *${racePeakResult.season} Round ${racePeakResult.round} - ${racePeakResult.raceName}*\n\n`;
+            content += `📉 **Lowest ELO**: ${raceLowResult.newElo}\n`;
+            content += `   *${raceLowResult.season} Round ${raceLowResult.round} - ${raceLowResult.raceName}*\n\n`;
         }
         
         if (globalResults.length > 0) {
@@ -325,9 +331,12 @@ async function generateComprehensiveDriverFiles() {
             const globalStart = globalResults[0].startingElo;
             const globalEnd = globalResults[globalResults.length - 1].newElo;
             
-            content += `**Global ELO**: ${globalStart} → ${globalEnd}\n`;
-            content += `**Peak Global ELO**: ${globalPeakResult.newElo} (${globalPeakResult.season} Round ${globalPeakResult.round} - ${globalPeakResult.raceName})\n`;
-            content += `**Lowest Global ELO**: ${globalLowResult.newElo} (${globalLowResult.season} Round ${globalLowResult.round} - ${globalLowResult.raceName})\n`;
+            content += `### 🌟 Overall Performance\n`;
+            content += `**Career Journey**: ${globalStart} → ${globalEnd}\n\n`;
+            content += `🏆 **Peak ELO**: ${globalPeakResult.newElo}\n`;
+            content += `   *${globalPeakResult.season} Round ${globalPeakResult.round} - ${globalPeakResult.raceName}*\n\n`;
+            content += `📉 **Lowest ELO**: ${globalLowResult.newElo}\n`;
+            content += `   *${globalLowResult.season} Round ${globalLowResult.round} - ${globalLowResult.raceName}*\n\n`;
         }
         
         content += `\n`;

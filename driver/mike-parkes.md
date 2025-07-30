@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1488
-**Peak Qualifying ELO**: 1488 (1966 Round 5 - Dutch Grand Prix)
-**Lowest Qualifying ELO**: 1458 (1966 Round 3 - French Grand Prix)
-**Global ELO**: 1500 → 1496
-**Peak Global ELO**: 1496 (1966 Round 5 - Dutch Grand Prix)
-**Lowest Global ELO**: 1487 (1966 Round 3 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1488
+
+🏆 **Peak ELO**: 1488
+   *1966 Round 5 - Dutch Grand Prix*
+
+📉 **Lowest ELO**: 1458
+   *1966 Round 3 - French Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1496
+
+🏆 **Peak ELO**: 1496
+   *1966 Round 5 - Dutch Grand Prix*
+
+📉 **Lowest ELO**: 1487
+   *1966 Round 3 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1435
-**Peak Qualifying ELO**: 1531 (1959 Round 3 - Dutch Grand Prix)
-**Lowest Qualifying ELO**: 1435 (1959 Round 8 - Italian Grand Prix)
-**Global ELO**: 1500 → 1481
-**Peak Global ELO**: 1509 (1959 Round 3 - Dutch Grand Prix)
-**Lowest Global ELO**: 1481 (1959 Round 8 - Italian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1435
+
+🏆 **Peak ELO**: 1531
+   *1959 Round 3 - Dutch Grand Prix*
+
+📉 **Lowest ELO**: 1435
+   *1959 Round 8 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1481
+
+🏆 **Peak ELO**: 1509
+   *1959 Round 3 - Dutch Grand Prix*
+
+📉 **Lowest ELO**: 1481
+   *1959 Round 8 - Italian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

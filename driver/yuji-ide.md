@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1378
-**Peak Qualifying ELO**: 1460 (2006 Round 1 - Bahrain Grand Prix)
-**Lowest Qualifying ELO**: 1378 (2006 Round 4 - San Marino Grand Prix)
-**Race ELO**: 1500 → 1450
-**Peak Race ELO**: 1450 (2006 Round 3 - Australian Grand Prix)
-**Lowest Race ELO**: 1450 (2006 Round 3 - Australian Grand Prix)
-**Global ELO**: 1500 → 1428
-**Peak Global ELO**: 1488 (2006 Round 1 - Bahrain Grand Prix)
-**Lowest Global ELO**: 1428 (2006 Round 4 - San Marino Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1378
+
+🏆 **Peak ELO**: 1460
+   *2006 Round 1 - Bahrain Grand Prix*
+
+📉 **Lowest ELO**: 1378
+   *2006 Round 4 - San Marino Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1450
+
+🏆 **Peak ELO**: 1450
+   *2006 Round 3 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1450
+   *2006 Round 3 - Australian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1428
+
+🏆 **Peak ELO**: 1488
+   *2006 Round 1 - Bahrain Grand Prix*
+
+📉 **Lowest ELO**: 1428
+   *2006 Round 4 - San Marino Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

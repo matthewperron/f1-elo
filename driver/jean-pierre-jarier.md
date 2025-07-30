@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1717
-**Peak Qualifying ELO**: 1720 (1983 Round 8 - Canadian Grand Prix)
-**Lowest Qualifying ELO**: 1333 (1978 Round 4 - United States Grand Prix West)
-**Race ELO**: 1500 → 1376
-**Peak Race ELO**: 1506 (1976 Round 5 - Belgian Grand Prix)
-**Lowest Race ELO**: 1314 (1978 Round 1 - Argentine Grand Prix)
-**Global ELO**: 1500 → 1479
-**Peak Global ELO**: 1542 (1974 Round 8 - Dutch Grand Prix)
-**Lowest Global ELO**: 1320 (1978 Round 4 - United States Grand Prix West)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1717
+
+🏆 **Peak ELO**: 1720
+   *1983 Round 8 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1333
+   *1978 Round 4 - United States Grand Prix West*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1376
+
+🏆 **Peak ELO**: 1506
+   *1976 Round 5 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1314
+   *1978 Round 1 - Argentine Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1479
+
+🏆 **Peak ELO**: 1542
+   *1974 Round 8 - Dutch Grand Prix*
+
+📉 **Lowest ELO**: 1320
+   *1978 Round 4 - United States Grand Prix West*
+
 
 ## Complete Race-by-Race Results
 

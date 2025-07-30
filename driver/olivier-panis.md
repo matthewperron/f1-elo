@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1555
-**Peak Qualifying ELO**: 1792 (1998 Round 5 - Spanish Grand Prix)
-**Lowest Qualifying ELO**: 1422 (1995 Round 17 - Australian Grand Prix)
-**Race ELO**: 1500 → 1437
-**Peak Race ELO**: 1652 (1997 Round 17 - European Grand Prix)
-**Lowest Race ELO**: 1437 (2004 Round 17 - Japanese Grand Prix)
-**Global ELO**: 1500 → 1473
-**Peak Global ELO**: 1693 (1998 Round 5 - Spanish Grand Prix)
-**Lowest Global ELO**: 1473 (2004 Round 17 - Japanese Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1555
+
+🏆 **Peak ELO**: 1792
+   *1998 Round 5 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1422
+   *1995 Round 17 - Australian Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1437
+
+🏆 **Peak ELO**: 1652
+   *1997 Round 17 - European Grand Prix*
+
+📉 **Lowest ELO**: 1437
+   *2004 Round 17 - Japanese Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1473
+
+🏆 **Peak ELO**: 1693
+   *1998 Round 5 - Spanish Grand Prix*
+
+📉 **Lowest ELO**: 1473
+   *2004 Round 17 - Japanese Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

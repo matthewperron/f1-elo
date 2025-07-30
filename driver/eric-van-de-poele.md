@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1463
-**Peak Qualifying ELO**: 1532 (1992 Round 9 - British Grand Prix)
-**Lowest Qualifying ELO**: 1463 (1992 Round 13 - Italian Grand Prix)
-**Global ELO**: 1500 → 1489
-**Peak Global ELO**: 1510 (1992 Round 9 - British Grand Prix)
-**Lowest Global ELO**: 1489 (1992 Round 13 - Italian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1463
+
+🏆 **Peak ELO**: 1532
+   *1992 Round 9 - British Grand Prix*
+
+📉 **Lowest ELO**: 1463
+   *1992 Round 13 - Italian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1489
+
+🏆 **Peak ELO**: 1510
+   *1992 Round 9 - British Grand Prix*
+
+📉 **Lowest ELO**: 1489
+   *1992 Round 13 - Italian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

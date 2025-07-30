@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1524
-**Peak Qualifying ELO**: 1581 (2011 Round 12 - Belgian Grand Prix)
-**Lowest Qualifying ELO**: 1370 (2010 Round 17 - Korean Grand Prix)
-**Race ELO**: 1500 → 1513
-**Peak Race ELO**: 1590 (2011 Round 9 - British Grand Prix)
-**Lowest Race ELO**: 1429 (2010 Round 10 - British Grand Prix)
-**Global ELO**: 1500 → 1516
-**Peak Global ELO**: 1587 (2011 Round 12 - Belgian Grand Prix)
-**Lowest Global ELO**: 1429 (2010 Round 13 - Belgian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1524
+
+🏆 **Peak ELO**: 1581
+   *2011 Round 12 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1370
+   *2010 Round 17 - Korean Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1513
+
+🏆 **Peak ELO**: 1590
+   *2011 Round 9 - British Grand Prix*
+
+📉 **Lowest ELO**: 1429
+   *2010 Round 10 - British Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1516
+
+🏆 **Peak ELO**: 1587
+   *2011 Round 12 - Belgian Grand Prix*
+
+📉 **Lowest ELO**: 1429
+   *2010 Round 13 - Belgian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

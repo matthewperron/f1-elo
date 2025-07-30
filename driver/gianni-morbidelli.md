@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1492
-**Peak Qualifying ELO**: 1696 (1995 Round 17 - Australian Grand Prix)
-**Lowest Qualifying ELO**: 1434 (1997 Round 15 - Luxembourg Grand Prix)
-**Race ELO**: 1500 → 1375
-**Peak Race ELO**: 1522 (1995 Round 6 - Canadian Grand Prix)
-**Lowest Race ELO**: 1375 (1997 Round 15 - Luxembourg Grand Prix)
-**Global ELO**: 1500 → 1410
-**Peak Global ELO**: 1573 (1995 Round 17 - Australian Grand Prix)
-**Lowest Global ELO**: 1393 (1997 Round 15 - Luxembourg Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1492
+
+🏆 **Peak ELO**: 1696
+   *1995 Round 17 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1434
+   *1997 Round 15 - Luxembourg Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1375
+
+🏆 **Peak ELO**: 1522
+   *1995 Round 6 - Canadian Grand Prix*
+
+📉 **Lowest ELO**: 1375
+   *1997 Round 15 - Luxembourg Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1410
+
+🏆 **Peak ELO**: 1573
+   *1995 Round 17 - Australian Grand Prix*
+
+📉 **Lowest ELO**: 1393
+   *1997 Round 15 - Luxembourg Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

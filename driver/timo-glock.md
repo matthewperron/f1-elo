@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1672
-**Peak Qualifying ELO**: 1747 (2011 Round 14 - Singapore Grand Prix)
-**Lowest Qualifying ELO**: 1427 (2008 Round 6 - Monaco Grand Prix)
-**Race ELO**: 1500 → 1564
-**Peak Race ELO**: 1668 (2012 Round 9 - British Grand Prix)
-**Lowest Race ELO**: 1442 (2008 Round 5 - Turkish Grand Prix)
-**Global ELO**: 1500 → 1595
-**Peak Global ELO**: 1667 (2012 Round 9 - British Grand Prix)
-**Lowest Global ELO**: 1440 (2008 Round 5 - Turkish Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1672
+
+🏆 **Peak ELO**: 1747
+   *2011 Round 14 - Singapore Grand Prix*
+
+📉 **Lowest ELO**: 1427
+   *2008 Round 6 - Monaco Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1564
+
+🏆 **Peak ELO**: 1668
+   *2012 Round 9 - British Grand Prix*
+
+📉 **Lowest ELO**: 1442
+   *2008 Round 5 - Turkish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1595
+
+🏆 **Peak ELO**: 1667
+   *2012 Round 9 - British Grand Prix*
+
+📉 **Lowest ELO**: 1440
+   *2008 Round 5 - Turkish Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

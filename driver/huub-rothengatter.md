@@ -7,12 +7,24 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1316
-**Peak Qualifying ELO**: 1468 (1986 Round 3 - San Marino Grand Prix)
-**Lowest Qualifying ELO**: 1316 (1986 Round 16 - Australian Grand Prix)
-**Global ELO**: 1500 → 1445
-**Peak Global ELO**: 1490 (1986 Round 3 - San Marino Grand Prix)
-**Lowest Global ELO**: 1445 (1986 Round 16 - Australian Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1316
+
+🏆 **Peak ELO**: 1468
+   *1986 Round 3 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1316
+   *1986 Round 16 - Australian Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1445
+
+🏆 **Peak ELO**: 1490
+   *1986 Round 3 - San Marino Grand Prix*
+
+📉 **Lowest ELO**: 1445
+   *1986 Round 16 - Australian Grand Prix*
+
 
 ## Complete Race-by-Race Results
 

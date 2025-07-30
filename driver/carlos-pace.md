@@ -7,15 +7,33 @@
 
 ## Career Statistics
 
-**Qualifying ELO**: 1500 → 1653
-**Peak Qualifying ELO**: 1696 (1976 Round 16 - Japanese Grand Prix)
-**Lowest Qualifying ELO**: 1411 (1973 Round 8 - French Grand Prix)
-**Race ELO**: 1500 → 1496
-**Peak Race ELO**: 1561 (1975 Round 2 - Brazilian Grand Prix)
-**Lowest Race ELO**: 1456 (1976 Round 4 - Spanish Grand Prix)
-**Global ELO**: 1500 → 1542
-**Peak Global ELO**: 1579 (1975 Round 5 - Monaco Grand Prix)
-**Lowest Global ELO**: 1473 (1973 Round 8 - French Grand Prix)
+### 🏁 Qualifying Performance
+**Career Journey**: 1500 → 1653
+
+🏆 **Peak ELO**: 1696
+   *1976 Round 16 - Japanese Grand Prix*
+
+📉 **Lowest ELO**: 1411
+   *1973 Round 8 - French Grand Prix*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1496
+
+🏆 **Peak ELO**: 1561
+   *1975 Round 2 - Brazilian Grand Prix*
+
+📉 **Lowest ELO**: 1456
+   *1976 Round 4 - Spanish Grand Prix*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1542
+
+🏆 **Peak ELO**: 1579
+   *1975 Round 5 - Monaco Grand Prix*
+
+📉 **Lowest ELO**: 1473
+   *1973 Round 8 - French Grand Prix*
+
 
 ## Complete Race-by-Race Results
 
