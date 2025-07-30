@@ -37,35 +37,35 @@ The following table shows current ELO ratings for all F1 drivers (updated automa
 
 | Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
 |------|--------------|--------|-------------|----------------|----------|-----|
-| 1 | 1100 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="30"/> Nelson Piquet | Brabham | 1123 | 1111 | 1111 |
+| 1 | 1100 | Nelson Piquet | Brabham | 1123 | 1111 | 1111 |
 | 2 | 1067 | Keke Rosberg | Williams | 1148 | 1102 | 1102 |
-| 3 | 1021 | 🇫🇷 Alain Prost | Renault | 1079 | 1064 | 1064 |
+| 3 | 1021 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 1079 | 1064 | 1064 |
 | 4 | 1033 | Niki Lauda | McLaren | 1095 | 1047 | 1047 |
-| 5 | 1030 | 🇮🇹 Michele Alboreto | Tyrrell | 1081 | 1015 | 1044 |
-| 6 | 1013 | 🇮🇹 Elio de Angelis | Team Lotus | 1093 | 1029 | 1029 |
-| 7 | 1017 | 🇮🇹 Andrea de Cesaris | Alfa Romeo | 1104 | 1017 | 1017 |
+| 5 | 1030 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 1081 | 1015 | 1044 |
+| 6 | 1013 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 1093 | 1029 | 1029 |
+| 7 | 1017 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 1104 | 1017 | 1017 |
 | 8 | 1000 | Roberto Guerrero | Theodore | 1056 | 984 | 1016 |
 | 9 | 1000 | Thierry Boutsen | Arrows | 997 | 1016 | 1016 |
 | 10 | 1015 | Marc Surer | Arrows | 1044 | 1015 | 1015 |
-| 11 | 1000 | 🇬🇧 Derek Warwick | Toleman | 1085 | 1041 | 1014 |
-| 12 | 1018 | 🇬🇧 Nigel Mansell | Team Lotus | 938 | 1002 | 1002 |
+| 11 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | 1085 | 1041 | 1014 |
+| 12 | 1018 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | 938 | 1002 | 1002 |
 | 13 | 1000 | Raul Boesel | Ligier | 909 | 1000 | 1000 |
 | 14 | 1000 | Alan Jones | Arrows | 1017 | 1000 | 1000 |
-| 15 | 1000 | 🇮🇹 Piercarlo Ghinzani | Osella | 1000 | 1000 | 1000 |
-| 16 | 1000 | 🇮🇹 Corrado Fabi | Osella | 1000 | 1000 | 1000 |
-| 17 | 1000 | 🇬🇧 Jonathan Palmer | Williams | 990 | 1000 | 1000 |
-| 18 | 1000 | 🇺🇸 Danny Sullivan | Tyrrell | 949 | 1015 | 986 |
+| 15 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Piercarlo Ghinzani | Osella | 1000 | 1000 | 1000 |
+| 16 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Corrado Fabi | Osella | 1000 | 1000 | 1000 |
+| 17 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jonathan Palmer | Williams | 990 | 1000 | 1000 |
+| 18 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Danny Sullivan | Tyrrell | 949 | 1015 | 986 |
 | 19 | 1000 | Chico Serra | Arrows | 957 | 985 | 985 |
-| 20 | 985 | 🇮🇹 Mauro Baldi | Alfa Romeo | 898 | 985 | 985 |
+| 20 | 985 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Alfa Romeo | 898 | 985 | 985 |
 | 21 | 1000 | Johnny Cecotto | Theodore | 944 | 1016 | 984 |
-| 22 | 992 | 🇬🇧 John Watson | McLaren | 930 | 978 | 978 |
-| 23 | 987 | 🇮🇹 Riccardo Patrese | Brabham | 964 | 976 | 976 |
-| 24 | 1016 | 🇺🇸 Eddie Cheever | Renault | 958 | 973 | 973 |
-| 25 | 953 | 🇫🇷 Patrick Tambay | Ferrari | 981 | 937 | 966 |
-| 26 | 998 | 🇫🇷 Jacques Laffite | Williams | 928 | 963 | 963 |
-| 27 | 976 | 🇮🇹 Bruno Giacomelli | Toleman | 891 | 935 | 962 |
-| 28 | 963 | 🇫🇷 René Arnoux | Ferrari | 935 | 979 | 950 |
-| 29 | 944 | 🇫🇷 Jean-Pierre Jarier | Ligier | 1035 | 944 | 944 |
+| 22 | 992 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 930 | 978 | 978 |
+| 23 | 987 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 964 | 976 | 976 |
+| 24 | 1016 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Renault | 958 | 973 | 973 |
+| 25 | 953 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay | Ferrari | 981 | 937 | 966 |
+| 26 | 998 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Williams | 928 | 963 | 963 |
+| 27 | 976 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Toleman | 891 | 935 | 962 |
+| 28 | 963 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Ferrari | 935 | 979 | 950 |
+| 29 | 944 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jean-Pierre Jarier | Ligier | 1035 | 944 | 944 |
 
 
 *Showing top 50 drivers by global ELO rating*
