@@ -79,11 +79,11 @@ The following table shows current ELO ratings for all F1 drivers (updated automa
 
 <!-- ELO_RESULTS_START -->
 ### ELO Ratings (2025 Season)
-*Last updated: 2025-07-30 18:17*
+*Last updated: 2025-07-30 18:42*
 
 | Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
 |------|--------------|--------|-------------|----------------|----------|-----|
-| 1 | 1959 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](docs/drivers/max-verstappen) | Red Bull | 1957 | 2037 | 2013 |
+| 1 | 1959 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](docs/drivers/max-verstappen.md) | Red Bull | 1957 | 2037 | 2013 |
 | 2 | 1818 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](docs/drivers/george-russell.md) | Mercedes | 1897 | 1856 | 1866 |
 | 3 | 1780 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](docs/drivers/alexander-albon.md) | Williams | 1786 | 1823 | 1812 |
 | 4 | 1667 | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc](docs/drivers/charles-leclerc.md) | Ferrari | 1696 | 1790 | 1759 |

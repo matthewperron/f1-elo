@@ -2,7 +2,7 @@
 
 *Generated: 2025-07-30*
 
-**Seasons**: [2001](../seasons/2001-season-report.md)
+**Seasons**: [2001](../seasons/2001-season-report)
 **Total Race Events**: 3 (9 individual ELO calculations)
 
 ## Career Statistics
@@ -11,40 +11,40 @@
 **Career Journey**: 1500 → 1429
 
 🏆 **Peak ELO**: 1472
-   *[2001 Round 15 - Italian Grand Prix](../seasons/2001-season-report.md#round-15-italian-grand-prix)*
+   *[2001 Round 15 - Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1429
-   *[2001 Round 17 - Japanese Grand Prix](../seasons/2001-season-report.md#round-17-japanese-grand-prix)*
+   *[2001 Round 17 - Japanese Grand Prix](../seasons/2001-season-report#round-17-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1484
 
 🏆 **Peak ELO**: 1484
-   *[2001 Round 16 - United States Grand Prix](../seasons/2001-season-report.md#round-16-united-states-grand-prix)*
+   *[2001 Round 16 - United States Grand Prix](../seasons/2001-season-report#round-16-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1484
-   *[2001 Round 16 - United States Grand Prix](../seasons/2001-season-report.md#round-16-united-states-grand-prix)*
+   *[2001 Round 16 - United States Grand Prix](../seasons/2001-season-report#round-16-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1492
-   *[2001 Round 15 - Italian Grand Prix](../seasons/2001-season-report.md#round-15-italian-grand-prix)*
+   *[2001 Round 15 - Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *[2001 Round 17 - Japanese Grand Prix](../seasons/2001-season-report.md#round-17-japanese-grand-prix)*
+   *[2001 Round 17 - Japanese Grand Prix](../seasons/2001-season-report#round-17-japanese-grand-prix)*
 
 
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 2001 | [Round 15: Italian Grand Prix](../seasons/2001-season-report.md#round-15-italian-grand-prix) | 2001-09-16 | qualifying | Prost | 20 | 1500 | -28 | 1472 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-| 2001 | [Round 15: Italian Grand Prix](../seasons/2001-season-report.md#round-15-italian-grand-prix) | 2001-09-16 | race | Prost | 12 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-| 2001 | [Round 15: Italian Grand Prix](../seasons/2001-season-report.md#round-15-italian-grand-prix) | 2001-09-16 | global | Prost | Q:20/R:12 | 1500 | -8 | 1492 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-| 2001 | [Round 16: United States Grand Prix](../seasons/2001-season-report.md#round-16-united-states-grand-prix) | 2001-09-30 | qualifying | Prost | 21 | 1472 | -23 | 1449 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-| 2001 | [Round 16: United States Grand Prix](../seasons/2001-season-report.md#round-16-united-states-grand-prix) | 2001-09-30 | race | Prost | 14 | 1500 | -16 | 1484 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-| 2001 | [Round 16: United States Grand Prix](../seasons/2001-season-report.md#round-16-united-states-grand-prix) | 2001-09-30 | global | Prost | Q:21/R:14 | 1492 | -18 | 1474 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-| 2001 | [Round 17: Japanese Grand Prix](../seasons/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | qualifying | Prost | 19 | 1449 | -19 | 1429 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-| 2001 | [Round 17: Japanese Grand Prix](../seasons/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | race | Prost | DNF | 1484 | N/A | 1484 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
-| 2001 | [Round 17: Japanese Grand Prix](../seasons/2001-season-report.md#round-17-japanese-grand-prix) | 2001-10-14 | global | Prost | Q:19/R:DNF | 1474 | -6 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
+| 2001 | [Round 15: Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix) | 2001-09-16 | qualifying | Prost | 20 | 1500 | -28 | 1472 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
+| 2001 | [Round 15: Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix) | 2001-09-16 | race | Prost | 12 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
+| 2001 | [Round 15: Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix) | 2001-09-16 | global | Prost | Q:20/R:12 | 1500 | -8 | 1492 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
+| 2001 | [Round 16: United States Grand Prix](../seasons/2001-season-report#round-16-united-states-grand-prix) | 2001-09-30 | qualifying | Prost | 21 | 1472 | -23 | 1449 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
+| 2001 | [Round 16: United States Grand Prix](../seasons/2001-season-report#round-16-united-states-grand-prix) | 2001-09-30 | race | Prost | 14 | 1500 | -16 | 1484 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
+| 2001 | [Round 16: United States Grand Prix](../seasons/2001-season-report#round-16-united-states-grand-prix) | 2001-09-30 | global | Prost | Q:21/R:14 | 1492 | -18 | 1474 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
+| 2001 | [Round 17: Japanese Grand Prix](../seasons/2001-season-report#round-17-japanese-grand-prix) | 2001-10-14 | qualifying | Prost | 19 | 1449 | -19 | 1429 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
+| 2001 | [Round 17: Japanese Grand Prix](../seasons/2001-season-report#round-17-japanese-grand-prix) | 2001-10-14 | race | Prost | DNF | 1484 | N/A | 1484 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
+| 2001 | [Round 17: Japanese Grand Prix](../seasons/2001-season-report#round-17-japanese-grand-prix) | 2001-10-14 | global | Prost | Q:19/R:DNF | 1474 | -6 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen |
