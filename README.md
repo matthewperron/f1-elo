@@ -13,7 +13,7 @@ This project calculates ELO ratings for Formula 1 drivers by comparing their per
 
 The ELO calculation follows the classic chess ELO formula, comparing each driver directly with their teammate(s) for each race weekend. Key rules:
 
-1. **Data Source**: Historical race results from `data/YYYY-race-results.json` files (fetched from Ergast API)
+1. **Data Source**: Historical race results from `data/YYYY-race-results.json` files (fetched from [Ergast API](https://api.jolpi.ca/ergast/f1/))
 2. **Teammate Comparison**: Only head-to-head comparisons between teammates are considered
 3. **Exclusions**: Races where no teammate participated or either driver had a DNF are excluded from calculations
 4. **Chronological Processing**: Race history is processed in chronological order to maintain accurate ELO progression
