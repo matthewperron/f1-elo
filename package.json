@@ -9,7 +9,9 @@
     "fetch-only": "node fetch-results.js",
     "elo-only": "node calculate-elo.js",
     "bulk-calculate": "node bulk-calculate.js",
-    "rebuild-all": "node bulk-calculate.js 1950"
+    "rebuild-all": "node bulk-calculate.js 1950",
+    "cache-stats": "node cache-manager.js stats",
+    "cache-clear": "node cache-manager.js clear"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"

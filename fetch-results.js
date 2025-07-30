@@ -4,6 +4,7 @@ import path from 'path';
 
 const API_BASE_URL = 'https://api.jolpi.ca/ergast/f1';
 const RATE_LIMIT_DELAY = 8000; // 8 seconds between API calls (API limits: 4/sec, 500/hour)
+const RAW_DATA_DIR = 'raw-data'; // Local cache directory for raw API responses
 // Output file will be determined dynamically based on season
 
 /**
@@ -14,11 +15,54 @@ function sleep(ms) {
 }
 
 /**
+ * Generate cache file path for a specific API request
+ */
+function getCacheFilePath(season, offset, limit) {
+    return path.join(RAW_DATA_DIR, `${season}-offset-${offset}-limit-${limit}.json`);
+}
+
+/**
+ * Check if cached data exists for a specific API request
+ */
+async function getCachedData(season, offset, limit) {
+    try {
+        const cacheFile = getCacheFilePath(season, offset, limit);
+        const data = await fs.readFile(cacheFile, 'utf8');
+        return JSON.parse(data);
+    } catch (error) {
+        // Cache miss or invalid data
+        return null;
+    }
+}
+
+/**
+ * Save API response to cache
+ */
+async function saveCachedData(season, offset, limit, data) {
+    try {
+        // Ensure raw-data directory exists
+        await fs.mkdir(RAW_DATA_DIR, { recursive: true });
+        
+        const cacheFile = getCacheFilePath(season, offset, limit);
+        await fs.writeFile(cacheFile, JSON.stringify(data, null, 2), 'utf8');
+    } catch (error) {
+        console.warn(`⚠ Failed to save cache for ${season} offset ${offset}:`, error.message);
+    }
+}
+
+/**
  * Fetch a single page of results from the Ergast API with rate limit handling
  */
 async function fetchResultsPage(season, offset = 0, limit = 30, retryCount = 0) {
     const url = `${API_BASE_URL}/${season}/results/?offset=${offset}&limit=${limit}`;
     const maxRetries = 3;
+    
+    // Check cache first
+    const cachedData = await getCachedData(season, offset, limit);
+    if (cachedData) {
+        console.log(`Using cached data: ${season} offset ${offset}`);
+        return cachedData;
+    }
     
     console.log(`Fetching: ${url}`);
     
@@ -46,7 +90,12 @@ async function fetchResultsPage(season, offset = 0, limit = 30, retryCount = 0) 
         }
         
         const data = await response.json();
-        return data.MRData;
+        const mRData = data.MRData;
+        
+        // Cache successful response
+        await saveCachedData(season, offset, limit, mRData);
+        
+        return mRData;
     } catch (error) {
         // If it's a rate limit error that we've already handled, re-throw
         if (error.message.includes('Rate limit exceeded')) {
@@ -79,6 +128,7 @@ async function fetchAllSeasonResults(season) {
     console.log(`Starting to fetch all results for ${season} season...`);
     console.log(`API Rate Limits: 4 requests/second, 500 requests/hour`);
     console.log(`Using ${RATE_LIMIT_DELAY / 1000}s delay between requests to stay within limits`);
+    console.log(`Cache directory: ${RAW_DATA_DIR}/ (will use cached data if available)`);
     
     do {
         requestCount++;
@@ -125,6 +175,7 @@ async function fetchAllSeasonResults(season) {
     
     console.log(`✓ Successfully fetched all data for ${season} season`);
     console.log(`✓ Raw race events collected: ${allRaces.length} (includes duplicates)`);
+    console.log(`✓ Raw API responses cached in ${RAW_DATA_DIR}/ directory`);
     return allRaces;
 }
 
@@ -266,8 +317,49 @@ async function main() {
     }
 }
 
+/**
+ * Get cache statistics for a season
+ */
+async function getCacheStats(season) {
+    try {
+        const files = await fs.readdir(RAW_DATA_DIR);
+        const seasonFiles = files.filter(file => file.startsWith(`${season}-offset-`));
+        return {
+            season,
+            cachedPages: seasonFiles.length,
+            cacheFiles: seasonFiles
+        };
+    } catch (error) {
+        return {
+            season,
+            cachedPages: 0,
+            cacheFiles: []
+        };
+    }
+}
+
+/**
+ * Clear cache for a specific season
+ */
+async function clearSeasonCache(season) {
+    try {
+        const files = await fs.readdir(RAW_DATA_DIR);
+        const seasonFiles = files.filter(file => file.startsWith(`${season}-offset-`));
+        
+        for (const file of seasonFiles) {
+            await fs.unlink(path.join(RAW_DATA_DIR, file));
+        }
+        
+        console.log(`✓ Cleared ${seasonFiles.length} cache files for ${season} season`);
+        return seasonFiles.length;
+    } catch (error) {
+        console.warn(`⚠ Failed to clear cache for ${season}:`, error.message);
+        return 0;
+    }
+}
+
 // Export functions for use in other modules
-export { fetchAllSeasonResults, transformRaceData, saveToFile };
+export { fetchAllSeasonResults, transformRaceData, saveToFile, getCacheStats, clearSeasonCache };
 
 // Run the script if called directly
 import { fileURLToPath } from 'url';

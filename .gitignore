@@ -94,3 +94,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Raw API data cache (local backup, don't commit)
+raw-data/
