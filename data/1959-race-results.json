@@ -1,0 +1,3969 @@
+{
+  "season": "1959",
+  "totalRaces": 9,
+  "races": [
+    {
+      "round": 1,
+      "raceName": "Monaco Grand Prix",
+      "circuitName": "Circuit de Monaco",
+      "country": "Monaco",
+      "date": "1959-05-10",
+      "time": null,
+      "results": [
+        {
+          "position": "1",
+          "positionText": "1",
+          "points": 9,
+          "driver": {
+            "driverId": "jack_brabham",
+            "givenName": "Jack",
+            "familyName": "Brabham",
+            "nationality": "Australian"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 3,
+          "laps": 100,
+          "status": "Finished",
+          "time": "2:55:51.300",
+          "fastestLap": null
+        },
+        {
+          "position": "2",
+          "positionText": "2",
+          "points": 6,
+          "driver": {
+            "driverId": "brooks",
+            "givenName": "Tony",
+            "familyName": "Brooks",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 4,
+          "laps": 100,
+          "status": "Finished",
+          "time": "+20.400",
+          "fastestLap": null
+        },
+        {
+          "position": "3",
+          "positionText": "3",
+          "points": 4,
+          "driver": {
+            "driverId": "trintignant",
+            "givenName": "Maurice",
+            "familyName": "Trintignant",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 6,
+          "laps": 98,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "4",
+          "positionText": "4",
+          "points": 3,
+          "driver": {
+            "driverId": "phil_hill",
+            "givenName": "Phil",
+            "familyName": "Hill",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 5,
+          "laps": 97,
+          "status": "+3 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "5",
+          "positionText": "5",
+          "points": 2,
+          "driver": {
+            "driverId": "mclaren",
+            "givenName": "Bruce",
+            "familyName": "McLaren",
+            "nationality": "New Zealander"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 13,
+          "laps": 96,
+          "status": "+4 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "6",
+          "positionText": "6",
+          "points": 0,
+          "driver": {
+            "driverId": "salvadori",
+            "givenName": "Roy",
+            "familyName": "Salvadori",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 8,
+          "laps": 83,
+          "status": "+17 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "7",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "moss",
+            "givenName": "Stirling",
+            "familyName": "Moss",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 1,
+          "laps": 81,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "8",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "flockhart",
+            "givenName": "Ron",
+            "familyName": "Flockhart",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 10,
+          "laps": 64,
+          "status": "Spun off",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "9",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "schell",
+            "givenName": "Harry",
+            "familyName": "Schell",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 9,
+          "laps": 48,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "10",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "bonnier",
+            "givenName": "Jo",
+            "familyName": "Bonnier",
+            "nationality": "Swedish"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 7,
+          "laps": 44,
+          "status": "Brakes",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "11",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "behra",
+            "givenName": "Jean",
+            "familyName": "Behra",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 2,
+          "laps": 24,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "12",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "hill",
+            "givenName": "Graham",
+            "familyName": "Hill",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 14,
+          "laps": 21,
+          "status": "Heat shield fire",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "13",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "gregory",
+            "givenName": "Masten",
+            "familyName": "Gregory",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 11,
+          "laps": 6,
+          "status": "Gearbox",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "14",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "trips",
+            "givenName": "Wolfgang",
+            "familyName": "von Trips",
+            "nationality": "German"
+          },
+          "constructor": {
+            "constructorId": "porsche",
+            "name": "Porsche",
+            "nationality": "German"
+          },
+          "grid": 12,
+          "laps": 1,
+          "status": "Collision",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "15",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "allison",
+            "givenName": "Cliff",
+            "familyName": "Allison",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 15,
+          "laps": 1,
+          "status": "Collision",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "16",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "halford",
+            "givenName": "Bruce",
+            "familyName": "Halford",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 16,
+          "laps": 1,
+          "status": "Collision",
+          "time": null,
+          "fastestLap": null
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "raceName": "Indianapolis 500",
+      "circuitName": "Indianapolis Motor Speedway",
+      "country": "USA",
+      "date": "1959-05-30",
+      "time": null,
+      "results": [
+        {
+          "position": "1",
+          "positionText": "1",
+          "points": 8,
+          "driver": {
+            "driverId": "ward",
+            "givenName": "Rodger",
+            "familyName": "Ward",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "watson",
+            "name": "Watson",
+            "nationality": "American"
+          },
+          "grid": 6,
+          "laps": 200,
+          "status": "Finished",
+          "time": "3:40:49.200",
+          "fastestLap": null
+        },
+        {
+          "position": "2",
+          "positionText": "2",
+          "points": 6,
+          "driver": {
+            "driverId": "rathmann",
+            "givenName": "Jim",
+            "familyName": "Rathmann",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "watson",
+            "name": "Watson",
+            "nationality": "American"
+          },
+          "grid": 3,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+23.280",
+          "fastestLap": null
+        },
+        {
+          "position": "3",
+          "positionText": "3",
+          "points": 5,
+          "driver": {
+            "driverId": "thomson",
+            "givenName": "Johnny",
+            "familyName": "Thomson",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "lesovsky",
+            "name": "Lesovsky",
+            "nationality": "American"
+          },
+          "grid": 1,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+50.640",
+          "fastestLap": null
+        },
+        {
+          "position": "4",
+          "positionText": "4",
+          "points": 3,
+          "driver": {
+            "driverId": "bettenhausen",
+            "givenName": "Tony",
+            "familyName": "Bettenhausen",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "epperly",
+            "name": "Epperly",
+            "nationality": "American"
+          },
+          "grid": 15,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+1:47.090",
+          "fastestLap": null
+        },
+        {
+          "position": "5",
+          "positionText": "5",
+          "points": 2,
+          "driver": {
+            "driverId": "goldsmith",
+            "givenName": "Paul",
+            "familyName": "Goldsmith",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "epperly",
+            "name": "Epperly",
+            "nationality": "American"
+          },
+          "grid": 16,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+2:06.440",
+          "fastestLap": null
+        },
+        {
+          "position": "6",
+          "positionText": "6",
+          "points": 0,
+          "driver": {
+            "driverId": "boyd",
+            "givenName": "Johnny",
+            "familyName": "Boyd",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "epperly",
+            "name": "Epperly",
+            "nationality": "American"
+          },
+          "grid": 11,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+3:16.980",
+          "fastestLap": null
+        },
+        {
+          "position": "7",
+          "positionText": "7",
+          "points": 0,
+          "driver": {
+            "driverId": "darter",
+            "givenName": "Duane",
+            "familyName": "Carter",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 12,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+4:09.920",
+          "fastestLap": null
+        },
+        {
+          "position": "8",
+          "positionText": "8",
+          "points": 0,
+          "driver": {
+            "driverId": "johnson",
+            "givenName": "Eddie",
+            "familyName": "Johnson",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 8,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+4:10.530",
+          "fastestLap": null
+        },
+        {
+          "position": "9",
+          "positionText": "9",
+          "points": 0,
+          "driver": {
+            "driverId": "paul_russo",
+            "givenName": "Paul",
+            "familyName": "Russo",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 27,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+4:11.040",
+          "fastestLap": null
+        },
+        {
+          "position": "10",
+          "positionText": "10",
+          "points": 0,
+          "driver": {
+            "driverId": "foyt",
+            "givenName": "Anthony",
+            "familyName": "Foyt",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kuzma",
+            "name": "Kuzma",
+            "nationality": "American"
+          },
+          "grid": 17,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+4:14.480",
+          "fastestLap": null
+        },
+        {
+          "position": "11",
+          "positionText": "11",
+          "points": 0,
+          "driver": {
+            "driverId": "hartley",
+            "givenName": "Gene",
+            "familyName": "Hartley",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kuzma",
+            "name": "Kuzma",
+            "nationality": "American"
+          },
+          "grid": 9,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+5:42.480",
+          "fastestLap": null
+        },
+        {
+          "position": "12",
+          "positionText": "12",
+          "points": 0,
+          "driver": {
+            "driverId": "veith",
+            "givenName": "Bob",
+            "familyName": "Veith",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "moore",
+            "name": "Moore",
+            "nationality": "American"
+          },
+          "grid": 7,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+6:09.730",
+          "fastestLap": null
+        },
+        {
+          "position": "13",
+          "positionText": "13",
+          "points": 0,
+          "driver": {
+            "driverId": "herman",
+            "givenName": "Al",
+            "familyName": "Herman",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "dunn",
+            "name": "Dunn",
+            "nationality": "American"
+          },
+          "grid": 23,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+6:40.400",
+          "fastestLap": null
+        },
+        {
+          "position": "14",
+          "positionText": "14",
+          "points": 0,
+          "driver": {
+            "driverId": "daywalt",
+            "givenName": "Jimmy",
+            "familyName": "Daywalt",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 13,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+6:41.540",
+          "fastestLap": null
+        },
+        {
+          "position": "15",
+          "positionText": "15",
+          "points": 0,
+          "driver": {
+            "driverId": "arnold",
+            "givenName": "Chuck",
+            "familyName": "Arnold",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 21,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+8:19.860",
+          "fastestLap": null
+        },
+        {
+          "position": "16",
+          "positionText": "16",
+          "points": 0,
+          "driver": {
+            "driverId": "mcwithey",
+            "givenName": "Jim",
+            "familyName": "McWithey",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 33,
+          "laps": 200,
+          "status": "Finished",
+          "time": "+11:41.690",
+          "fastestLap": null
+        },
+        {
+          "position": "17",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "sachs",
+            "givenName": "Eddie",
+            "familyName": "Sachs",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kuzma",
+            "name": "Kuzma",
+            "nationality": "American"
+          },
+          "grid": 2,
+          "laps": 182,
+          "status": "Spun off",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "18",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "keller",
+            "givenName": "Al",
+            "familyName": "Keller",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kuzma",
+            "name": "Kuzma",
+            "nationality": "American"
+          },
+          "grid": 28,
+          "laps": 163,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "19",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "flaherty",
+            "givenName": "Pat",
+            "familyName": "Flaherty",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "watson",
+            "name": "Watson",
+            "nationality": "American"
+          },
+          "grid": 18,
+          "laps": 162,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "20",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "dick_rathmann",
+            "givenName": "Dick",
+            "familyName": "Rathmann",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "watson",
+            "name": "Watson",
+            "nationality": "American"
+          },
+          "grid": 4,
+          "laps": 150,
+          "status": "Heat shield fire",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "21",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "cheesbourg",
+            "givenName": "Bill",
+            "familyName": "Cheesbourg",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kuzma",
+            "name": "Kuzma",
+            "nationality": "American"
+          },
+          "grid": 30,
+          "laps": 147,
+          "status": "Magneto",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "22",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "freeland",
+            "givenName": "Don",
+            "familyName": "Freeland",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 25,
+          "laps": 136,
+          "status": "Magneto",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "23",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "ray_crawford",
+            "givenName": "Ray",
+            "familyName": "Crawford",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "elder",
+            "name": "Elder",
+            "nationality": "American"
+          },
+          "grid": 32,
+          "laps": 115,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "24",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "branson",
+            "givenName": "Don",
+            "familyName": "Branson",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "phillips",
+            "name": "Phillips",
+            "nationality": "American"
+          },
+          "grid": 10,
+          "laps": 112,
+          "status": "Suspension",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "25",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "christie",
+            "givenName": "Bob",
+            "familyName": "Christie",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 24,
+          "laps": 109,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "26",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "grim",
+            "givenName": "Bobby",
+            "familyName": "Grim",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 5,
+          "laps": 85,
+          "status": "Magneto",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "27",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "turner",
+            "givenName": "Jack",
+            "familyName": "Turner",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "vhristensen",
+            "name": "Christensen",
+            "nationality": "American"
+          },
+          "grid": 14,
+          "laps": 47,
+          "status": "Fuel leak",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "28",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "weyant",
+            "givenName": "Chuck",
+            "familyName": "Weyant",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 29,
+          "laps": 45,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "29",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "larson",
+            "givenName": "Jud",
+            "familyName": "Larson",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 19,
+          "laps": 45,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "30",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "magill",
+            "givenName": "Mike",
+            "familyName": "Magill",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "sutton",
+            "name": "Sutton",
+            "nationality": "American"
+          },
+          "grid": 31,
+          "laps": 45,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "31",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "amick",
+            "givenName": "Red",
+            "familyName": "Amick",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 26,
+          "laps": 45,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "32",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "sutton",
+            "givenName": "Len",
+            "familyName": "Sutton",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "lesovsky",
+            "name": "Lesovsky",
+            "nationality": "American"
+          },
+          "grid": 22,
+          "laps": 34,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "33",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "bryan",
+            "givenName": "Jimmy",
+            "familyName": "Bryan",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "epperly",
+            "name": "Epperly",
+            "nationality": "American"
+          },
+          "grid": 20,
+          "laps": 1,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "raceName": "Dutch Grand Prix",
+      "circuitName": "Circuit Park Zandvoort",
+      "country": "Netherlands",
+      "date": "1959-05-31",
+      "time": null,
+      "results": [
+        {
+          "position": "1",
+          "positionText": "1",
+          "points": 8,
+          "driver": {
+            "driverId": "bonnier",
+            "givenName": "Jo",
+            "familyName": "Bonnier",
+            "nationality": "Swedish"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 1,
+          "laps": 75,
+          "status": "Finished",
+          "time": "2:05:26.800",
+          "fastestLap": null
+        },
+        {
+          "position": "2",
+          "positionText": "2",
+          "points": 6,
+          "driver": {
+            "driverId": "jack_brabham",
+            "givenName": "Jack",
+            "familyName": "Brabham",
+            "nationality": "Australian"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 2,
+          "laps": 75,
+          "status": "Finished",
+          "time": "+14.200",
+          "fastestLap": null
+        },
+        {
+          "position": "3",
+          "positionText": "3",
+          "points": 4,
+          "driver": {
+            "driverId": "gregory",
+            "givenName": "Masten",
+            "familyName": "Gregory",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 7,
+          "laps": 75,
+          "status": "Finished",
+          "time": "+1:23.000",
+          "fastestLap": null
+        },
+        {
+          "position": "4",
+          "positionText": "4",
+          "points": 3,
+          "driver": {
+            "driverId": "ireland",
+            "givenName": "Innes",
+            "familyName": "Ireland",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 9,
+          "laps": 74,
+          "status": "+1 Lap",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "5",
+          "positionText": "5",
+          "points": 2,
+          "driver": {
+            "driverId": "behra",
+            "givenName": "Jean",
+            "familyName": "Behra",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 4,
+          "laps": 74,
+          "status": "+1 Lap",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "6",
+          "positionText": "6",
+          "points": 0,
+          "driver": {
+            "driverId": "phil_hill",
+            "givenName": "Phil",
+            "familyName": "Hill",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 12,
+          "laps": 73,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "7",
+          "positionText": "7",
+          "points": 0,
+          "driver": {
+            "driverId": "hill",
+            "givenName": "Graham",
+            "familyName": "Hill",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 5,
+          "laps": 73,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "8",
+          "positionText": "8",
+          "points": 0,
+          "driver": {
+            "driverId": "trintignant",
+            "givenName": "Maurice",
+            "familyName": "Trintignant",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 11,
+          "laps": 73,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "9",
+          "positionText": "9",
+          "points": 0,
+          "driver": {
+            "driverId": "allison",
+            "givenName": "Cliff",
+            "familyName": "Allison",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 15,
+          "laps": 71,
+          "status": "+4 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "10",
+          "positionText": "10",
+          "points": 0,
+          "driver": {
+            "driverId": "beaufort",
+            "givenName": "Carel Godin",
+            "familyName": "de Beaufort",
+            "nationality": "Dutch"
+          },
+          "constructor": {
+            "constructorId": "porsche",
+            "name": "Porsche",
+            "nationality": "German"
+          },
+          "grid": 14,
+          "laps": 68,
+          "status": "+7 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "11",
+          "positionText": "R",
+          "points": 1,
+          "driver": {
+            "driverId": "moss",
+            "givenName": "Stirling",
+            "familyName": "Moss",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 3,
+          "laps": 62,
+          "status": "Gearbox",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "12",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "schell",
+            "givenName": "Harry",
+            "familyName": "Schell",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 6,
+          "laps": 46,
+          "status": "Gearbox",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "13",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "brooks",
+            "givenName": "Tony",
+            "familyName": "Brooks",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 8,
+          "laps": 42,
+          "status": "Oil leak",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "14",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "shelby",
+            "givenName": "Carroll",
+            "familyName": "Shelby",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "aston_martin",
+            "name": "Aston Martin",
+            "nationality": "British"
+          },
+          "grid": 10,
+          "laps": 25,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "15",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "salvadori",
+            "givenName": "Roy",
+            "familyName": "Salvadori",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "aston_martin",
+            "name": "Aston Martin",
+            "nationality": "British"
+          },
+          "grid": 13,
+          "laps": 3,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "raceName": "French Grand Prix",
+      "circuitName": "Reims-Gueux",
+      "country": "France",
+      "date": "1959-07-05",
+      "time": null,
+      "results": [
+        {
+          "position": "1",
+          "positionText": "1",
+          "points": 8,
+          "driver": {
+            "driverId": "brooks",
+            "givenName": "Tony",
+            "familyName": "Brooks",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 1,
+          "laps": 50,
+          "status": "Finished",
+          "time": "2:01:26.500",
+          "fastestLap": null
+        },
+        {
+          "position": "2",
+          "positionText": "2",
+          "points": 6,
+          "driver": {
+            "driverId": "phil_hill",
+            "givenName": "Phil",
+            "familyName": "Hill",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 3,
+          "laps": 50,
+          "status": "Finished",
+          "time": "+27.500",
+          "fastestLap": null
+        },
+        {
+          "position": "3",
+          "positionText": "3",
+          "points": 4,
+          "driver": {
+            "driverId": "jack_brabham",
+            "givenName": "Jack",
+            "familyName": "Brabham",
+            "nationality": "Australian"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 2,
+          "laps": 50,
+          "status": "Finished",
+          "time": "+1:37.700",
+          "fastestLap": null
+        },
+        {
+          "position": "4",
+          "positionText": "4",
+          "points": 3,
+          "driver": {
+            "driverId": "gendebien",
+            "givenName": "Olivier",
+            "familyName": "Gendebien",
+            "nationality": "Belgian"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 11,
+          "laps": 50,
+          "status": "Finished",
+          "time": "+1:47.500",
+          "fastestLap": null
+        },
+        {
+          "position": "5",
+          "positionText": "5",
+          "points": 2,
+          "driver": {
+            "driverId": "mclaren",
+            "givenName": "Bruce",
+            "familyName": "McLaren",
+            "nationality": "New Zealander"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 10,
+          "laps": 50,
+          "status": "Finished",
+          "time": "+1:47.700",
+          "fastestLap": null
+        },
+        {
+          "position": "6",
+          "positionText": "6",
+          "points": 0,
+          "driver": {
+            "driverId": "flockhart",
+            "givenName": "Ron",
+            "familyName": "Flockhart",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 13,
+          "laps": 50,
+          "status": "Finished",
+          "time": "+2:05.700",
+          "fastestLap": null
+        },
+        {
+          "position": "7",
+          "positionText": "7",
+          "points": 0,
+          "driver": {
+            "driverId": "schell",
+            "givenName": "Harry",
+            "familyName": "Schell",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 9,
+          "laps": 47,
+          "status": "+3 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "8",
+          "positionText": "8",
+          "points": 0,
+          "driver": {
+            "driverId": "scarlatti",
+            "givenName": "Giorgio",
+            "familyName": "Scarlatti",
+            "nationality": "Italian"
+          },
+          "constructor": {
+            "constructorId": "maserati",
+            "name": "Maserati",
+            "nationality": "Italian"
+          },
+          "grid": 21,
+          "laps": 41,
+          "status": "+9 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "9",
+          "positionText": "9",
+          "points": 0,
+          "driver": {
+            "driverId": "beaufort",
+            "givenName": "Carel Godin",
+            "familyName": "de Beaufort",
+            "nationality": "Dutch"
+          },
+          "constructor": {
+            "constructorId": "maserati",
+            "name": "Maserati",
+            "nationality": "Italian"
+          },
+          "grid": 20,
+          "laps": 40,
+          "status": "+10 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "10",
+          "positionText": "10",
+          "points": 0,
+          "driver": {
+            "driverId": "orey",
+            "givenName": "Fritz",
+            "familyName": "d'Orey",
+            "nationality": "Brazilian"
+          },
+          "constructor": {
+            "constructorId": "maserati",
+            "name": "Maserati",
+            "nationality": "Italian"
+          },
+          "grid": 18,
+          "laps": 40,
+          "status": "+10 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "11",
+          "positionText": "11",
+          "points": 0,
+          "driver": {
+            "driverId": "trintignant",
+            "givenName": "Maurice",
+            "familyName": "Trintignant",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 8,
+          "laps": 36,
+          "status": "+14 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "12",
+          "positionText": "D",
+          "points": 1,
+          "driver": {
+            "driverId": "moss",
+            "givenName": "Stirling",
+            "familyName": "Moss",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 4,
+          "laps": 42,
+          "status": "Disqualified",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "13",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "behra",
+            "givenName": "Jean",
+            "familyName": "Behra",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 5,
+          "laps": 31,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "14",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "salvadori",
+            "givenName": "Roy",
+            "familyName": "Salvadori",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 16,
+          "laps": 20,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "15",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "gurney",
+            "givenName": "Dan",
+            "familyName": "Gurney",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 12,
+          "laps": 19,
+          "status": "Radiator",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "16",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "ireland",
+            "givenName": "Innes",
+            "familyName": "Ireland",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 15,
+          "laps": 14,
+          "status": "Wheel",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "17",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "burgess",
+            "givenName": "Ian",
+            "familyName": "Burgess",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 19,
+          "laps": 13,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "18",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "gregory",
+            "givenName": "Masten",
+            "familyName": "Gregory",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 7,
+          "laps": 8,
+          "status": "Physical",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "19",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "hill",
+            "givenName": "Graham",
+            "familyName": "Hill",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 14,
+          "laps": 7,
+          "status": "Radiator",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "20",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "davis",
+            "givenName": "Colin",
+            "familyName": "Davis",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 17,
+          "laps": 7,
+          "status": "Oil leak",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "21",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "bonnier",
+            "givenName": "Jo",
+            "familyName": "Bonnier",
+            "nationality": "Swedish"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 6,
+          "laps": 6,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "22",
+          "positionText": "W",
+          "points": 0,
+          "driver": {
+            "driverId": "fontes",
+            "givenName": "Azdrubal",
+            "familyName": "Fontes",
+            "nationality": "Uruguayan"
+          },
+          "constructor": {
+            "constructorId": "maserati",
+            "name": "Maserati",
+            "nationality": "Italian"
+          },
+          "grid": 0,
+          "laps": 0,
+          "status": "Withdrew",
+          "time": null,
+          "fastestLap": null
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "raceName": "British Grand Prix",
+      "circuitName": "Aintree",
+      "country": "UK",
+      "date": "1959-07-18",
+      "time": null,
+      "results": [
+        {
+          "position": "1",
+          "positionText": "1",
+          "points": 8,
+          "driver": {
+            "driverId": "jack_brabham",
+            "givenName": "Jack",
+            "familyName": "Brabham",
+            "nationality": "Australian"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 1,
+          "laps": 75,
+          "status": "Finished",
+          "time": "2:30:11.600",
+          "fastestLap": null
+        },
+        {
+          "position": "2",
+          "positionText": "2",
+          "points": 6.5,
+          "driver": {
+            "driverId": "moss",
+            "givenName": "Stirling",
+            "familyName": "Moss",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 7,
+          "laps": 75,
+          "status": "Finished",
+          "time": "+22.200",
+          "fastestLap": null
+        },
+        {
+          "position": "3",
+          "positionText": "3",
+          "points": 4.5,
+          "driver": {
+            "driverId": "mclaren",
+            "givenName": "Bruce",
+            "familyName": "McLaren",
+            "nationality": "New Zealander"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 8,
+          "laps": 75,
+          "status": "Finished",
+          "time": "+22.400",
+          "fastestLap": null
+        },
+        {
+          "position": "4",
+          "positionText": "4",
+          "points": 3,
+          "driver": {
+            "driverId": "schell",
+            "givenName": "Harry",
+            "familyName": "Schell",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 3,
+          "laps": 74,
+          "status": "+1 Lap",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "5",
+          "positionText": "5",
+          "points": 2,
+          "driver": {
+            "driverId": "trintignant",
+            "givenName": "Maurice",
+            "familyName": "Trintignant",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 4,
+          "laps": 74,
+          "status": "+1 Lap",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "6",
+          "positionText": "6",
+          "points": 0,
+          "driver": {
+            "driverId": "salvadori",
+            "givenName": "Roy",
+            "familyName": "Salvadori",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "aston_martin",
+            "name": "Aston Martin",
+            "nationality": "British"
+          },
+          "grid": 2,
+          "laps": 74,
+          "status": "+1 Lap",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "7",
+          "positionText": "7",
+          "points": 0,
+          "driver": {
+            "driverId": "gregory",
+            "givenName": "Masten",
+            "familyName": "Gregory",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 5,
+          "laps": 73,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "8",
+          "positionText": "8",
+          "points": 0,
+          "driver": {
+            "driverId": "stacey",
+            "givenName": "Alan",
+            "familyName": "Stacey",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 12,
+          "laps": 71,
+          "status": "+4 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "9",
+          "positionText": "9",
+          "points": 0,
+          "driver": {
+            "driverId": "hill",
+            "givenName": "Graham",
+            "familyName": "Hill",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 9,
+          "laps": 70,
+          "status": "+5 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "10",
+          "positionText": "10",
+          "points": 0,
+          "driver": {
+            "driverId": "bristow",
+            "givenName": "Chris",
+            "familyName": "Bristow",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-borgward",
+            "name": "Cooper-Borgward",
+            "nationality": "British"
+          },
+          "grid": 16,
+          "laps": 70,
+          "status": "+5 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "11",
+          "positionText": "11",
+          "points": 0,
+          "driver": {
+            "driverId": "henry_taylor",
+            "givenName": "Henry",
+            "familyName": "Taylor",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 21,
+          "laps": 69,
+          "status": "+6 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "12",
+          "positionText": "12",
+          "points": 0,
+          "driver": {
+            "driverId": "ashdown",
+            "givenName": "Peter",
+            "familyName": "Ashdown",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 23,
+          "laps": 69,
+          "status": "+6 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "13",
+          "positionText": "13",
+          "points": 0,
+          "driver": {
+            "driverId": "bueb",
+            "givenName": "Ivor",
+            "familyName": "Bueb",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-borgward",
+            "name": "Cooper-Borgward",
+            "nationality": "British"
+          },
+          "grid": 18,
+          "laps": 69,
+          "status": "+6 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "14",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "shelby",
+            "givenName": "Carroll",
+            "familyName": "Shelby",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "aston_martin",
+            "name": "Aston Martin",
+            "nationality": "British"
+          },
+          "grid": 6,
+          "laps": 69,
+          "status": "Ignition",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "15",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "orey",
+            "givenName": "Fritz",
+            "familyName": "d'Orey",
+            "nationality": "Brazilian"
+          },
+          "constructor": {
+            "constructorId": "maserati",
+            "name": "Maserati",
+            "nationality": "Italian"
+          },
+          "grid": 20,
+          "laps": 57,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "16",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "flockhart",
+            "givenName": "Ron",
+            "familyName": "Flockhart",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 11,
+          "laps": 53,
+          "status": "Spun off",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "17",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "fairman",
+            "givenName": "Jack",
+            "familyName": "Fairman",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 15,
+          "laps": 39,
+          "status": "Gearbox",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "18",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "bonnier",
+            "givenName": "Jo",
+            "familyName": "Bonnier",
+            "nationality": "Swedish"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 10,
+          "laps": 37,
+          "status": "Brakes",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "19",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "burgess",
+            "givenName": "Ian",
+            "familyName": "Burgess",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 13,
+          "laps": 31,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "20",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "herrmann",
+            "givenName": "Hans",
+            "familyName": "Herrmann",
+            "nationality": "German"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 19,
+          "laps": 21,
+          "status": "Gearbox",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "21",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "piper",
+            "givenName": "David",
+            "familyName": "Piper",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 22,
+          "laps": 19,
+          "status": "Overheating",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "22",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "naylor",
+            "givenName": "Brian",
+            "familyName": "Naylor",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "jbw",
+            "name": "JBW",
+            "nationality": "British"
+          },
+          "grid": 14,
+          "laps": 18,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "23",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "mike_taylor",
+            "givenName": "Mike",
+            "familyName": "Taylor",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 24,
+          "laps": 17,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "24",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "brooks",
+            "givenName": "Tony",
+            "familyName": "Brooks",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "vanwall",
+            "name": "Vanwall",
+            "nationality": "British"
+          },
+          "grid": 17,
+          "laps": 13,
+          "status": "Ignition",
+          "time": null,
+          "fastestLap": null
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "raceName": "German Grand Prix",
+      "circuitName": "AVUS",
+      "country": "Germany",
+      "date": "1959-08-02",
+      "time": null,
+      "results": [
+        {
+          "position": "1",
+          "positionText": "1",
+          "points": 9,
+          "driver": {
+            "driverId": "brooks",
+            "givenName": "Tony",
+            "familyName": "Brooks",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 1,
+          "laps": 60,
+          "status": "Finished",
+          "time": "2:09:31.600",
+          "fastestLap": null
+        },
+        {
+          "position": "2",
+          "positionText": "2",
+          "points": 6,
+          "driver": {
+            "driverId": "gurney",
+            "givenName": "Dan",
+            "familyName": "Gurney",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 3,
+          "laps": 60,
+          "status": "Finished",
+          "time": "+2.900",
+          "fastestLap": null
+        },
+        {
+          "position": "3",
+          "positionText": "3",
+          "points": 4,
+          "driver": {
+            "driverId": "phil_hill",
+            "givenName": "Phil",
+            "familyName": "Hill",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 6,
+          "laps": 60,
+          "status": "Finished",
+          "time": "+1:04.800",
+          "fastestLap": null
+        },
+        {
+          "position": "4",
+          "positionText": "4",
+          "points": 3,
+          "driver": {
+            "driverId": "trintignant",
+            "givenName": "Maurice",
+            "familyName": "Trintignant",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 12,
+          "laps": 59,
+          "status": "+1 Lap",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "5",
+          "positionText": "5",
+          "points": 2,
+          "driver": {
+            "driverId": "bonnier",
+            "givenName": "Jo",
+            "familyName": "Bonnier",
+            "nationality": "Swedish"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 7,
+          "laps": 58,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "6",
+          "positionText": "6",
+          "points": 0,
+          "driver": {
+            "driverId": "burgess",
+            "givenName": "Ian",
+            "familyName": "Burgess",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 15,
+          "laps": 56,
+          "status": "+4 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "7",
+          "positionText": "7",
+          "points": 0,
+          "driver": {
+            "driverId": "schell",
+            "givenName": "Harry",
+            "familyName": "Schell",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 8,
+          "laps": 49,
+          "status": "+11 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "8",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "mclaren",
+            "givenName": "Bruce",
+            "familyName": "McLaren",
+            "nationality": "New Zealander"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 9,
+          "laps": 36,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "9",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "herrmann",
+            "givenName": "Hans",
+            "familyName": "Herrmann",
+            "nationality": "German"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 11,
+          "laps": 36,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "10",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "gregory",
+            "givenName": "Masten",
+            "familyName": "Gregory",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 5,
+          "laps": 23,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "11",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "jack_brabham",
+            "givenName": "Jack",
+            "familyName": "Brabham",
+            "nationality": "Australian"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 4,
+          "laps": 15,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "12",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "hill",
+            "givenName": "Graham",
+            "familyName": "Hill",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 10,
+          "laps": 10,
+          "status": "Gearbox",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "13",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "ireland",
+            "givenName": "Innes",
+            "familyName": "Ireland",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 13,
+          "laps": 7,
+          "status": "Differential",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "14",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "allison",
+            "givenName": "Cliff",
+            "familyName": "Allison",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 14,
+          "laps": 2,
+          "status": "Clutch",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "15",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "moss",
+            "givenName": "Stirling",
+            "familyName": "Moss",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 2,
+          "laps": 1,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "raceName": "Portuguese Grand Prix",
+      "circuitName": "Monsanto Park Circuit",
+      "country": "Portugal",
+      "date": "1959-08-23",
+      "time": null,
+      "results": [
+        {
+          "position": "1",
+          "positionText": "1",
+          "points": 9,
+          "driver": {
+            "driverId": "moss",
+            "givenName": "Stirling",
+            "familyName": "Moss",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 1,
+          "laps": 62,
+          "status": "Finished",
+          "time": "2:11:55.410",
+          "fastestLap": null
+        },
+        {
+          "position": "2",
+          "positionText": "2",
+          "points": 6,
+          "driver": {
+            "driverId": "gregory",
+            "givenName": "Masten",
+            "familyName": "Gregory",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 3,
+          "laps": 61,
+          "status": "+1 Lap",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "3",
+          "positionText": "3",
+          "points": 4,
+          "driver": {
+            "driverId": "gurney",
+            "givenName": "Dan",
+            "familyName": "Gurney",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 6,
+          "laps": 61,
+          "status": "+1 Lap",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "4",
+          "positionText": "4",
+          "points": 3,
+          "driver": {
+            "driverId": "trintignant",
+            "givenName": "Maurice",
+            "familyName": "Trintignant",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 4,
+          "laps": 60,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "5",
+          "positionText": "5",
+          "points": 2,
+          "driver": {
+            "driverId": "schell",
+            "givenName": "Harry",
+            "familyName": "Schell",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 9,
+          "laps": 59,
+          "status": "+3 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "6",
+          "positionText": "6",
+          "points": 0,
+          "driver": {
+            "driverId": "salvadori",
+            "givenName": "Roy",
+            "familyName": "Salvadori",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "aston_martin",
+            "name": "Aston Martin",
+            "nationality": "British"
+          },
+          "grid": 12,
+          "laps": 59,
+          "status": "+3 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "7",
+          "positionText": "7",
+          "points": 0,
+          "driver": {
+            "driverId": "flockhart",
+            "givenName": "Ron",
+            "familyName": "Flockhart",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 11,
+          "laps": 59,
+          "status": "+3 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "8",
+          "positionText": "8",
+          "points": 0,
+          "driver": {
+            "driverId": "shelby",
+            "givenName": "Carroll",
+            "familyName": "Shelby",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "aston_martin",
+            "name": "Aston Martin",
+            "nationality": "British"
+          },
+          "grid": 13,
+          "laps": 58,
+          "status": "+4 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "9",
+          "positionText": "9",
+          "points": 0,
+          "driver": {
+            "driverId": "brooks",
+            "givenName": "Tony",
+            "familyName": "Brooks",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 10,
+          "laps": 57,
+          "status": "+5 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "10",
+          "positionText": "10",
+          "points": 0,
+          "driver": {
+            "driverId": "cabral",
+            "givenName": "Mário de Araújo",
+            "familyName": "Cabral",
+            "nationality": "Portuguese"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 14,
+          "laps": 56,
+          "status": "+6 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "11",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "mclaren",
+            "givenName": "Bruce",
+            "familyName": "McLaren",
+            "nationality": "New Zealander"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 8,
+          "laps": 38,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "12",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "jack_brabham",
+            "givenName": "Jack",
+            "familyName": "Brabham",
+            "nationality": "Australian"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 2,
+          "laps": 23,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "13",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "bonnier",
+            "givenName": "Jo",
+            "familyName": "Bonnier",
+            "nationality": "Swedish"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 5,
+          "laps": 10,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "14",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "phil_hill",
+            "givenName": "Phil",
+            "familyName": "Hill",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 7,
+          "laps": 5,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "15",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "hill",
+            "givenName": "Graham",
+            "familyName": "Hill",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 15,
+          "laps": 5,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "16",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "ireland",
+            "givenName": "Innes",
+            "familyName": "Ireland",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 16,
+          "laps": 3,
+          "status": "Gearbox",
+          "time": null,
+          "fastestLap": null
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "raceName": "Italian Grand Prix",
+      "circuitName": "Autodromo Nazionale di Monza",
+      "country": "Italy",
+      "date": "1959-09-13",
+      "time": null,
+      "results": [
+        {
+          "position": "1",
+          "positionText": "1",
+          "points": 8,
+          "driver": {
+            "driverId": "moss",
+            "givenName": "Stirling",
+            "familyName": "Moss",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 1,
+          "laps": 72,
+          "status": "Finished",
+          "time": "2:04:05.400",
+          "fastestLap": null
+        },
+        {
+          "position": "2",
+          "positionText": "2",
+          "points": 7,
+          "driver": {
+            "driverId": "phil_hill",
+            "givenName": "Phil",
+            "familyName": "Hill",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 5,
+          "laps": 72,
+          "status": "Finished",
+          "time": "+46.700",
+          "fastestLap": null
+        },
+        {
+          "position": "3",
+          "positionText": "3",
+          "points": 4,
+          "driver": {
+            "driverId": "jack_brabham",
+            "givenName": "Jack",
+            "familyName": "Brabham",
+            "nationality": "Australian"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 3,
+          "laps": 72,
+          "status": "Finished",
+          "time": "+1:12.500",
+          "fastestLap": null
+        },
+        {
+          "position": "4",
+          "positionText": "4",
+          "points": 3,
+          "driver": {
+            "driverId": "gurney",
+            "givenName": "Dan",
+            "familyName": "Gurney",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 4,
+          "laps": 72,
+          "status": "Finished",
+          "time": "+1:19.600",
+          "fastestLap": null
+        },
+        {
+          "position": "5",
+          "positionText": "5",
+          "points": 2,
+          "driver": {
+            "driverId": "allison",
+            "givenName": "Cliff",
+            "familyName": "Allison",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 8,
+          "laps": 71,
+          "status": "+1 Lap",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "6",
+          "positionText": "6",
+          "points": 0,
+          "driver": {
+            "driverId": "gendebien",
+            "givenName": "Olivier",
+            "familyName": "Gendebien",
+            "nationality": "Belgian"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 6,
+          "laps": 71,
+          "status": "+1 Lap",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "7",
+          "positionText": "7",
+          "points": 0,
+          "driver": {
+            "driverId": "schell",
+            "givenName": "Harry",
+            "familyName": "Schell",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 7,
+          "laps": 70,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "8",
+          "positionText": "8",
+          "points": 0,
+          "driver": {
+            "driverId": "bonnier",
+            "givenName": "Jo",
+            "familyName": "Bonnier",
+            "nationality": "Swedish"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 11,
+          "laps": 70,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "9",
+          "positionText": "9",
+          "points": 0,
+          "driver": {
+            "driverId": "trintignant",
+            "givenName": "Maurice",
+            "familyName": "Trintignant",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 13,
+          "laps": 70,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "10",
+          "positionText": "10",
+          "points": 0,
+          "driver": {
+            "driverId": "shelby",
+            "givenName": "Carroll",
+            "familyName": "Shelby",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "aston_martin",
+            "name": "Aston Martin",
+            "nationality": "British"
+          },
+          "grid": 19,
+          "laps": 70,
+          "status": "+2 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "11",
+          "positionText": "11",
+          "points": 0,
+          "driver": {
+            "driverId": "davis",
+            "givenName": "Colin",
+            "familyName": "Davis",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 18,
+          "laps": 68,
+          "status": "+4 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "12",
+          "positionText": "12",
+          "points": 0,
+          "driver": {
+            "driverId": "scarlatti",
+            "givenName": "Giorgio",
+            "familyName": "Scarlatti",
+            "nationality": "Italian"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 12,
+          "laps": 68,
+          "status": "+4 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "13",
+          "positionText": "13",
+          "points": 0,
+          "driver": {
+            "driverId": "flockhart",
+            "givenName": "Ron",
+            "familyName": "Flockhart",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "brm",
+            "name": "BRM",
+            "nationality": "British"
+          },
+          "grid": 15,
+          "laps": 67,
+          "status": "+5 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "14",
+          "positionText": "14",
+          "points": 0,
+          "driver": {
+            "driverId": "burgess",
+            "givenName": "Ian",
+            "familyName": "Burgess",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 16,
+          "laps": 67,
+          "status": "+5 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "15",
+          "positionText": "15",
+          "points": 0,
+          "driver": {
+            "driverId": "cabianca",
+            "givenName": "Giulio",
+            "familyName": "Cabianca",
+            "nationality": "Italian"
+          },
+          "constructor": {
+            "constructorId": "maserati",
+            "name": "Maserati",
+            "nationality": "Italian"
+          },
+          "grid": 21,
+          "laps": 64,
+          "status": "+8 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "16",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "salvadori",
+            "givenName": "Roy",
+            "familyName": "Salvadori",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "aston_martin",
+            "name": "Aston Martin",
+            "nationality": "British"
+          },
+          "grid": 17,
+          "laps": 44,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "17",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "mclaren",
+            "givenName": "Bruce",
+            "familyName": "McLaren",
+            "nationality": "New Zealander"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 9,
+          "laps": 22,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "18",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "fairman",
+            "givenName": "Jack",
+            "familyName": "Fairman",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 12,
+          "laps": 18,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "19",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "ireland",
+            "givenName": "Innes",
+            "familyName": "Ireland",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 14,
+          "laps": 14,
+          "status": "Brakes",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "20",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "hill",
+            "givenName": "Graham",
+            "familyName": "Hill",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 10,
+          "laps": 1,
+          "status": "Clutch",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "21",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "brooks",
+            "givenName": "Tony",
+            "familyName": "Brooks",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 2,
+          "laps": 0,
+          "status": "Clutch",
+          "time": null,
+          "fastestLap": null
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "raceName": "United States Grand Prix",
+      "circuitName": "Sebring International Raceway",
+      "country": "USA",
+      "date": "1959-12-12",
+      "time": null,
+      "results": [
+        {
+          "position": "1",
+          "positionText": "1",
+          "points": 8,
+          "driver": {
+            "driverId": "mclaren",
+            "givenName": "Bruce",
+            "familyName": "McLaren",
+            "nationality": "New Zealander"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 10,
+          "laps": 42,
+          "status": "Finished",
+          "time": "2:12:35.700",
+          "fastestLap": null
+        },
+        {
+          "position": "2",
+          "positionText": "2",
+          "points": 7,
+          "driver": {
+            "driverId": "trintignant",
+            "givenName": "Maurice",
+            "familyName": "Trintignant",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 5,
+          "laps": 42,
+          "status": "Finished",
+          "time": "+0.600",
+          "fastestLap": null
+        },
+        {
+          "position": "3",
+          "positionText": "3",
+          "points": 4,
+          "driver": {
+            "driverId": "brooks",
+            "givenName": "Tony",
+            "familyName": "Brooks",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 4,
+          "laps": 42,
+          "status": "Finished",
+          "time": "+3:00.900",
+          "fastestLap": null
+        },
+        {
+          "position": "4",
+          "positionText": "4",
+          "points": 3,
+          "driver": {
+            "driverId": "jack_brabham",
+            "givenName": "Jack",
+            "familyName": "Brabham",
+            "nationality": "Australian"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 2,
+          "laps": 42,
+          "status": "Finished",
+          "time": "+4:57.300",
+          "fastestLap": null
+        },
+        {
+          "position": "5",
+          "positionText": "5",
+          "points": 2,
+          "driver": {
+            "driverId": "ireland",
+            "givenName": "Innes",
+            "familyName": "Ireland",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 9,
+          "laps": 39,
+          "status": "+3 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "6",
+          "positionText": "6",
+          "points": 0,
+          "driver": {
+            "driverId": "trips",
+            "givenName": "Wolfgang",
+            "familyName": "von Trips",
+            "nationality": "German"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 6,
+          "laps": 38,
+          "status": "Engine",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "7",
+          "positionText": "7",
+          "points": 0,
+          "driver": {
+            "driverId": "blanchard",
+            "givenName": "Harry",
+            "familyName": "Blanchard",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "porsche",
+            "name": "Porsche",
+            "nationality": "German"
+          },
+          "grid": 16,
+          "laps": 38,
+          "status": "+4 Laps",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "8",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "allison",
+            "givenName": "Cliff",
+            "familyName": "Allison",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 11,
+          "laps": 23,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "9",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "salvadori",
+            "givenName": "Roy",
+            "familyName": "Salvadori",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-maserati",
+            "name": "Cooper-Maserati",
+            "nationality": "British"
+          },
+          "grid": 11,
+          "laps": 23,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "10",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "ward",
+            "givenName": "Rodger",
+            "familyName": "Ward",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "kurtis_kraft",
+            "name": "Kurtis Kraft",
+            "nationality": "American"
+          },
+          "grid": 19,
+          "laps": 20,
+          "status": "Clutch",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "11",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "tomaso",
+            "givenName": "Alessandro",
+            "familyName": "de Tomaso",
+            "nationality": "Argentine"
+          },
+          "constructor": {
+            "constructorId": "cooper-osca",
+            "name": "Cooper-OSCA",
+            "nationality": "British"
+          },
+          "grid": 14,
+          "laps": 13,
+          "status": "Brakes",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "12",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "phil_hill",
+            "givenName": "Phil",
+            "familyName": "Hill",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 8,
+          "laps": 8,
+          "status": "Clutch",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "13",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "orey",
+            "givenName": "Fritz",
+            "familyName": "d'Orey",
+            "nationality": "Brazilian"
+          },
+          "constructor": {
+            "constructorId": "tec-mec",
+            "name": "Tec-Mec",
+            "nationality": "Italian"
+          },
+          "grid": 17,
+          "laps": 6,
+          "status": "Oil leak",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "14",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "moss",
+            "givenName": "Stirling",
+            "familyName": "Moss",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 1,
+          "laps": 5,
+          "status": "Transmission",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "15",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "schell",
+            "givenName": "Harry",
+            "familyName": "Schell",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "cooper-climax",
+            "name": "Cooper-Climax",
+            "nationality": "British"
+          },
+          "grid": 3,
+          "laps": 5,
+          "status": "Clutch",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "16",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "constantine",
+            "givenName": "George",
+            "familyName": "Constantine",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "cooper-borgward",
+            "name": "Cooper-Borgward",
+            "nationality": "British"
+          },
+          "grid": 15,
+          "laps": 5,
+          "status": "Overheating",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "17",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "stacey",
+            "givenName": "Alan",
+            "familyName": "Stacey",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "team_lotus",
+            "name": "Team Lotus",
+            "nationality": "British"
+          },
+          "grid": 12,
+          "laps": 2,
+          "status": "Clutch",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "18",
+          "positionText": "R",
+          "points": 0,
+          "driver": {
+            "driverId": "said",
+            "givenName": "Bob",
+            "familyName": "Said",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "connaught",
+            "name": "Connaught",
+            "nationality": "British"
+          },
+          "grid": 13,
+          "laps": 0,
+          "status": "Accident",
+          "time": null,
+          "fastestLap": null
+        },
+        {
+          "position": "19",
+          "positionText": "W",
+          "points": 0,
+          "driver": {
+            "driverId": "cade",
+            "givenName": "Phil",
+            "familyName": "Cade",
+            "nationality": "American"
+          },
+          "constructor": {
+            "constructorId": "maserati",
+            "name": "Maserati",
+            "nationality": "Italian"
+          },
+          "grid": 0,
+          "laps": 0,
+          "status": "Withdrew",
+          "time": null,
+          "fastestLap": null
+        }
+      ]
+    }
+  ],
+  "finalELOs": {
+    "hill": {
+      "qualifyingElo": 1659,
+      "raceElo": 1468,
+      "globalElo": 1526
+    },
+    "salvadori": {
+      "qualifyingElo": 1556,
+      "raceElo": 1500,
+      "globalElo": 1516
+    },
+    "thomson": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "bristow": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "burgess": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "ireland": {
+      "qualifyingElo": 1445,
+      "raceElo": 1532,
+      "globalElo": 1506
+    },
+    "bonnier": {
+      "qualifyingElo": 1504,
+      "raceElo": 1500,
+      "globalElo": 1501
+    },
+    "halford": {
+      "qualifyingElo": 1471,
+      "raceElo": 1500,
+      "globalElo": 1491
+    },
+    "sutton": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "bueb": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "herrmann": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "stacey": {
+      "qualifyingElo": 1459,
+      "raceElo": 1500,
+      "globalElo": 1488
+    },
+    "schell": {
+      "qualifyingElo": 1471,
+      "raceElo": 1494,
+      "globalElo": 1487
+    },
+    "shelby": {
+      "qualifyingElo": 1435,
+      "raceElo": 1500,
+      "globalElo": 1481
+    }
+  }
+}

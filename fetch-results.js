@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 import path from 'path';
 
 const API_BASE_URL = 'https://api.jolpi.ca/ergast/f1';
-const RATE_LIMIT_DELAY = 8000; // 8 seconds between API calls (API limits: 4/sec, 500/hour)
+const RATE_LIMIT_DELAY = 8000; // 1 request per 8 second to respect API ratelimit (API limits: 4/sec, 500/hour)
 const RAW_DATA_DIR = 'raw-data'; // Local cache directory for raw API responses
 // Output file will be determined dynamically based on season
 
