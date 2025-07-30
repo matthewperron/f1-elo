@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1478
 
 🏆 **Peak ELO**: 1662
-   *1993 Round 15 - Japanese Grand Prix*
+   *[1993 Round 15 - Japanese Grand Prix](../results/1993-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1368
-   *1991 Round 5 - Canadian Grand Prix*
+   *[1991 Round 5 - Canadian Grand Prix](../results/1991-season-report.md#round-5-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1449
 
 🏆 **Peak ELO**: 1592
-   *1992 Round 15 - Japanese Grand Prix*
+   *[1992 Round 15 - Japanese Grand Prix](../results/1992-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1423
-   *1992 Round 7 - Canadian Grand Prix*
+   *[1992 Round 7 - Canadian Grand Prix](../results/1992-season-report.md#round-7-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1458
 
 🏆 **Peak ELO**: 1605
-   *1993 Round 2 - Brazilian Grand Prix*
+   *[1993 Round 2 - Brazilian Grand Prix](../results/1993-season-report.md#round-2-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1416
-   *1991 Round 10 - Hungarian Grand Prix*
+   *[1991 Round 10 - Hungarian Grand Prix](../results/1991-season-report.md#round-10-hungarian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

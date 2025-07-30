@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1431
 
 🏆 **Peak ELO**: 1474
-   *1994 Round 14 - European Grand Prix*
+   *[1994 Round 14 - European Grand Prix](../results/1994-season-report.md#round-14-european-grand-prix)*
 
 📉 **Lowest ELO**: 1380
-   *1995 Round 4 - Spanish Grand Prix*
+   *[1995 Round 4 - Spanish Grand Prix](../results/1995-season-report.md#round-4-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1480
 
 🏆 **Peak ELO**: 1492
-   *1994 Round 14 - European Grand Prix*
+   *[1994 Round 14 - European Grand Prix](../results/1994-season-report.md#round-14-european-grand-prix)*
 
 📉 **Lowest ELO**: 1464
-   *1995 Round 4 - Spanish Grand Prix*
+   *[1995 Round 4 - Spanish Grand Prix](../results/1995-season-report.md#round-4-spanish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

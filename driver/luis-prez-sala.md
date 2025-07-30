@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1360
 
 🏆 **Peak ELO**: 1543
-   *1988 Round 10 - Hungarian Grand Prix*
+   *[1988 Round 10 - Hungarian Grand Prix](../results/1988-season-report.md#round-10-hungarian-grand-prix)*
 
 📉 **Lowest ELO**: 1312
-   *1989 Round 14 - Spanish Grand Prix*
+   *[1989 Round 14 - Spanish Grand Prix](../results/1989-season-report.md#round-14-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1409
 
 🏆 **Peak ELO**: 1532
-   *1988 Round 2 - San Marino Grand Prix*
+   *[1988 Round 2 - San Marino Grand Prix](../results/1988-season-report.md#round-2-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1409
-   *1989 Round 13 - Portuguese Grand Prix*
+   *[1989 Round 13 - Portuguese Grand Prix](../results/1989-season-report.md#round-13-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1394
 
 🏆 **Peak ELO**: 1535
-   *1988 Round 10 - Hungarian Grand Prix*
+   *[1988 Round 10 - Hungarian Grand Prix](../results/1988-season-report.md#round-10-hungarian-grand-prix)*
 
 📉 **Lowest ELO**: 1379
-   *1989 Round 14 - Spanish Grand Prix*
+   *[1989 Round 14 - Spanish Grand Prix](../results/1989-season-report.md#round-14-spanish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

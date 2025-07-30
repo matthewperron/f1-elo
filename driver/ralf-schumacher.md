@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1493
 
 🏆 **Peak ELO**: 1668
-   *2001 Round 10 - French Grand Prix*
+   *[2001 Round 10 - French Grand Prix](../results/2001-season-report.md#round-10-french-grand-prix)*
 
 📉 **Lowest ELO**: 1394
-   *2005 Round 16 - Belgian Grand Prix*
+   *[2005 Round 16 - Belgian Grand Prix](../results/2005-season-report.md#round-16-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1563
 
 🏆 **Peak ELO**: 1665
-   *2006 Round 2 - Malaysian Grand Prix*
+   *[2006 Round 2 - Malaysian Grand Prix](../results/2006-season-report.md#round-2-malaysian-grand-prix)*
 
 📉 **Lowest ELO**: 1402
-   *1998 Round 13 - Belgian Grand Prix*
+   *[1998 Round 13 - Belgian Grand Prix](../results/1998-season-report.md#round-13-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1541
 
 🏆 **Peak ELO**: 1646
-   *2006 Round 10 - United States Grand Prix*
+   *[2006 Round 10 - United States Grand Prix](../results/2006-season-report.md#round-10-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1431
-   *1998 Round 13 - Belgian Grand Prix*
+   *[1998 Round 13 - Belgian Grand Prix](../results/1998-season-report.md#round-13-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1326
 
 🏆 **Peak ELO**: 1468
-   *1995 Round 9 - German Grand Prix*
+   *[1995 Round 9 - German Grand Prix](../results/1995-season-report.md#round-9-german-grand-prix)*
 
 📉 **Lowest ELO**: 1326
-   *1996 Round 15 - Portuguese Grand Prix*
+   *[1996 Round 15 - Portuguese Grand Prix](../results/1996-season-report.md#round-15-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1448
 
 🏆 **Peak ELO**: 1490
-   *1995 Round 9 - German Grand Prix*
+   *[1995 Round 9 - German Grand Prix](../results/1995-season-report.md#round-9-german-grand-prix)*
 
 📉 **Lowest ELO**: 1448
-   *1996 Round 15 - Portuguese Grand Prix*
+   *[1996 Round 15 - Portuguese Grand Prix](../results/1996-season-report.md#round-15-portuguese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

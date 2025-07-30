@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1426
 
 🏆 **Peak ELO**: 1524
-   *2006 Round 16 - Chinese Grand Prix*
+   *[2006 Round 16 - Chinese Grand Prix](../results/2006-season-report.md#round-16-chinese-grand-prix)*
 
 📉 **Lowest ELO**: 1375
-   *2010 Round 16 - Japanese Grand Prix*
+   *[2010 Round 16 - Japanese Grand Prix](../results/2010-season-report.md#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1412
 
 🏆 **Peak ELO**: 1471
-   *2010 Round 10 - British Grand Prix*
+   *[2010 Round 10 - British Grand Prix](../results/2010-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1373
-   *2007 Round 15 - Japanese Grand Prix*
+   *[2007 Round 15 - Japanese Grand Prix](../results/2007-season-report.md#round-15-japanese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1417
 
 🏆 **Peak ELO**: 1507
-   *2006 Round 16 - Chinese Grand Prix*
+   *[2006 Round 16 - Chinese Grand Prix](../results/2006-season-report.md#round-16-chinese-grand-prix)*
 
 📉 **Lowest ELO**: 1376
-   *2007 Round 17 - Brazilian Grand Prix*
+   *[2007 Round 17 - Brazilian Grand Prix](../results/2007-season-report.md#round-17-brazilian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

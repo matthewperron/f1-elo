@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1439
 
 🏆 **Peak ELO**: 1468
-   *1967 Round 7 - German Grand Prix*
+   *[1967 Round 7 - German Grand Prix](../results/1967-season-report.md#round-7-german-grand-prix)*
 
 📉 **Lowest ELO**: 1439
-   *1968 Round 6 - French Grand Prix*
+   *[1968 Round 6 - French Grand Prix](../results/1968-season-report.md#round-6-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1481
 
 🏆 **Peak ELO**: 1490
-   *1967 Round 7 - German Grand Prix*
+   *[1967 Round 7 - German Grand Prix](../results/1967-season-report.md#round-7-german-grand-prix)*
 
 📉 **Lowest ELO**: 1481
-   *1968 Round 6 - French Grand Prix*
+   *[1968 Round 6 - French Grand Prix](../results/1968-season-report.md#round-6-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

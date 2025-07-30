@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1435
 
 🏆 **Peak ELO**: 1531
-   *1959 Round 3 - Dutch Grand Prix*
+   *[1959 Round 3 - Dutch Grand Prix](../results/1959-season-report.md#round-3-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1435
-   *1959 Round 8 - Italian Grand Prix*
+   *[1959 Round 8 - Italian Grand Prix](../results/1959-season-report.md#round-8-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1481
 
 🏆 **Peak ELO**: 1509
-   *1959 Round 3 - Dutch Grand Prix*
+   *[1959 Round 3 - Dutch Grand Prix](../results/1959-season-report.md#round-3-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1481
-   *1959 Round 8 - Italian Grand Prix*
+   *[1959 Round 8 - Italian Grand Prix](../results/1959-season-report.md#round-8-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

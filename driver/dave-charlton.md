@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1466
 
 🏆 **Peak ELO**: 1466
-   *1971 Round 6 - British Grand Prix*
+   *[1971 Round 6 - British Grand Prix](../results/1971-season-report.md#round-6-british-grand-prix)*
 
 📉 **Lowest ELO**: 1466
-   *1971 Round 6 - British Grand Prix*
+   *[1971 Round 6 - British Grand Prix](../results/1971-season-report.md#round-6-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1971 Round 6 - British Grand Prix*
+   *[1971 Round 6 - British Grand Prix](../results/1971-season-report.md#round-6-british-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1971 Round 6 - British Grand Prix*
+   *[1971 Round 6 - British Grand Prix](../results/1971-season-report.md#round-6-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

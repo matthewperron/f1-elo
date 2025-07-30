@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1981 Round 2 - Brazilian Grand Prix*
+   *[1981 Round 2 - Brazilian Grand Prix](../results/1981-season-report.md#round-2-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1981 Round 2 - Brazilian Grand Prix*
+   *[1981 Round 2 - Brazilian Grand Prix](../results/1981-season-report.md#round-2-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1510
 
 🏆 **Peak ELO**: 1510
-   *1981 Round 2 - Brazilian Grand Prix*
+   *[1981 Round 2 - Brazilian Grand Prix](../results/1981-season-report.md#round-2-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1981 Round 2 - Brazilian Grand Prix*
+   *[1981 Round 2 - Brazilian Grand Prix](../results/1981-season-report.md#round-2-brazilian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

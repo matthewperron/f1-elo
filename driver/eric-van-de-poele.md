@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1463
 
 🏆 **Peak ELO**: 1532
-   *1992 Round 9 - British Grand Prix*
+   *[1992 Round 9 - British Grand Prix](../results/1992-season-report.md#round-9-british-grand-prix)*
 
 📉 **Lowest ELO**: 1463
-   *1992 Round 13 - Italian Grand Prix*
+   *[1992 Round 13 - Italian Grand Prix](../results/1992-season-report.md#round-13-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1489
 
 🏆 **Peak ELO**: 1510
-   *1992 Round 9 - British Grand Prix*
+   *[1992 Round 9 - British Grand Prix](../results/1992-season-report.md#round-9-british-grand-prix)*
 
 📉 **Lowest ELO**: 1489
-   *1992 Round 13 - Italian Grand Prix*
+   *[1992 Round 13 - Italian Grand Prix](../results/1992-season-report.md#round-13-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

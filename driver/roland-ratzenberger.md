@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1506
 
 🏆 **Peak ELO**: 1506
-   *1994 Round 3 - San Marino Grand Prix*
+   *[1994 Round 3 - San Marino Grand Prix](../results/1994-season-report.md#round-3-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1994 Round 2 - Pacific Grand Prix*
+   *[1994 Round 2 - Pacific Grand Prix](../results/1994-season-report.md#round-2-pacific-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1502
 
 🏆 **Peak ELO**: 1502
-   *1994 Round 3 - San Marino Grand Prix*
+   *[1994 Round 3 - San Marino Grand Prix](../results/1994-season-report.md#round-3-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1994 Round 2 - Pacific Grand Prix*
+   *[1994 Round 2 - Pacific Grand Prix](../results/1994-season-report.md#round-2-pacific-grand-prix)*
 
 
 ## Complete Race-by-Race Results

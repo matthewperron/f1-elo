@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1464
 
 🏆 **Peak ELO**: 1464
-   *1975 Round 10 - British Grand Prix*
+   *[1975 Round 10 - British Grand Prix](../results/1975-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1464
-   *1975 Round 10 - British Grand Prix*
+   *[1975 Round 10 - British Grand Prix](../results/1975-season-report.md#round-10-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1489
 
 🏆 **Peak ELO**: 1489
-   *1975 Round 10 - British Grand Prix*
+   *[1975 Round 10 - British Grand Prix](../results/1975-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1489
-   *1975 Round 10 - British Grand Prix*
+   *[1975 Round 10 - British Grand Prix](../results/1975-season-report.md#round-10-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

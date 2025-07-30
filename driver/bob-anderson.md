@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1503
 
 🏆 **Peak ELO**: 1503
-   *1966 Round 3 - French Grand Prix*
+   *[1966 Round 3 - French Grand Prix](../results/1966-season-report.md#round-3-french-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1966 Round 1 - Monaco Grand Prix*
+   *[1966 Round 1 - Monaco Grand Prix](../results/1966-season-report.md#round-1-monaco-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1501
 
 🏆 **Peak ELO**: 1501
-   *1966 Round 3 - French Grand Prix*
+   *[1966 Round 3 - French Grand Prix](../results/1966-season-report.md#round-3-french-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1966 Round 1 - Monaco Grand Prix*
+   *[1966 Round 1 - Monaco Grand Prix](../results/1966-season-report.md#round-1-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

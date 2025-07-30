@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1957 Round 4 - French Grand Prix*
+   *[1957 Round 4 - French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1957 Round 4 - French Grand Prix*
+   *[1957 Round 4 - French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1510
 
 🏆 **Peak ELO**: 1510
-   *1957 Round 4 - French Grand Prix*
+   *[1957 Round 4 - French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1957 Round 4 - French Grand Prix*
+   *[1957 Round 4 - French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

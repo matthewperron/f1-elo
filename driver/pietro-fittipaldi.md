@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1509
 
 🏆 **Peak ELO**: 1509
-   *2020 Round 17 - Abu Dhabi Grand Prix*
+   *[2020 Round 17 - Abu Dhabi Grand Prix](../results/2020-season-report.md#round-17-abu-dhabi-grand-prix)*
 
 📉 **Lowest ELO**: 1470
-   *2020 Round 16 - Sakhir Grand Prix*
+   *[2020 Round 16 - Sakhir Grand Prix](../results/2020-season-report.md#round-16-sakhir-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1454
 
 🏆 **Peak ELO**: 1475
-   *2020 Round 16 - Sakhir Grand Prix*
+   *[2020 Round 16 - Sakhir Grand Prix](../results/2020-season-report.md#round-16-sakhir-grand-prix)*
 
 📉 **Lowest ELO**: 1454
-   *2020 Round 17 - Abu Dhabi Grand Prix*
+   *[2020 Round 17 - Abu Dhabi Grand Prix](../results/2020-season-report.md#round-17-abu-dhabi-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1471
 
 🏆 **Peak ELO**: 1474
-   *2020 Round 16 - Sakhir Grand Prix*
+   *[2020 Round 16 - Sakhir Grand Prix](../results/2020-season-report.md#round-16-sakhir-grand-prix)*
 
 📉 **Lowest ELO**: 1471
-   *2020 Round 17 - Abu Dhabi Grand Prix*
+   *[2020 Round 17 - Abu Dhabi Grand Prix](../results/2020-season-report.md#round-17-abu-dhabi-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1316
 
 🏆 **Peak ELO**: 1468
-   *1986 Round 3 - San Marino Grand Prix*
+   *[1986 Round 3 - San Marino Grand Prix](../results/1986-season-report.md#round-3-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1316
-   *1986 Round 16 - Australian Grand Prix*
+   *[1986 Round 16 - Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1445
 
 🏆 **Peak ELO**: 1490
-   *1986 Round 3 - San Marino Grand Prix*
+   *[1986 Round 3 - San Marino Grand Prix](../results/1986-season-report.md#round-3-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1445
-   *1986 Round 16 - Australian Grand Prix*
+   *[1986 Round 16 - Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

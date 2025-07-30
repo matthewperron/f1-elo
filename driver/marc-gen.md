@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1433
 
 🏆 **Peak ELO**: 1629
-   *2000 Round 10 - Austrian Grand Prix*
+   *[2000 Round 10 - Austrian Grand Prix](../results/2000-season-report.md#round-10-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1382
-   *1999 Round 14 - European Grand Prix*
+   *[1999 Round 14 - European Grand Prix](../results/1999-season-report.md#round-14-european-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1432
 
 🏆 **Peak ELO**: 1627
-   *2000 Round 14 - Italian Grand Prix*
+   *[2000 Round 14 - Italian Grand Prix](../results/2000-season-report.md#round-14-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1432
-   *2004 Round 11 - British Grand Prix*
+   *[2004 Round 11 - British Grand Prix](../results/2004-season-report.md#round-11-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1432
 
 🏆 **Peak ELO**: 1625
-   *2000 Round 14 - Italian Grand Prix*
+   *[2000 Round 14 - Italian Grand Prix](../results/2000-season-report.md#round-14-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1432
-   *2004 Round 11 - British Grand Prix*
+   *[2004 Round 11 - British Grand Prix](../results/2004-season-report.md#round-11-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

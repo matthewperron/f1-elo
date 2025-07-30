@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1967 Round 11 - Mexican Grand Prix*
+   *[1967 Round 11 - Mexican Grand Prix](../results/1967-season-report.md#round-11-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1967 Round 11 - Mexican Grand Prix*
+   *[1967 Round 11 - Mexican Grand Prix](../results/1967-season-report.md#round-11-mexican-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1967 Round 11 - Mexican Grand Prix*
+   *[1967 Round 11 - Mexican Grand Prix](../results/1967-season-report.md#round-11-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1967 Round 11 - Mexican Grand Prix*
+   *[1967 Round 11 - Mexican Grand Prix](../results/1967-season-report.md#round-11-mexican-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1457
 
 🏆 **Peak ELO**: 1558
-   *1984 Round 13 - Dutch Grand Prix*
+   *[1984 Round 13 - Dutch Grand Prix](../results/1984-season-report.md#round-13-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1396
-   *1988 Round 5 - Canadian Grand Prix*
+   *[1988 Round 5 - Canadian Grand Prix](../results/1988-season-report.md#round-5-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1483
 
 🏆 **Peak ELO**: 1530
-   *1985 Round 6 - Detroit Grand Prix*
+   *[1985 Round 6 - Detroit Grand Prix](../results/1985-season-report.md#round-6-detroit-grand-prix)*
 
 📉 **Lowest ELO**: 1426
-   *1987 Round 13 - Spanish Grand Prix*
+   *[1987 Round 13 - Spanish Grand Prix](../results/1987-season-report.md#round-13-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1487
 
 🏆 **Peak ELO**: 1523
-   *1986 Round 11 - Hungarian Grand Prix*
+   *[1986 Round 11 - Hungarian Grand Prix](../results/1986-season-report.md#round-11-hungarian-grand-prix)*
 
 📉 **Lowest ELO**: 1427
-   *1987 Round 14 - Mexican Grand Prix*
+   *[1987 Round 14 - Mexican Grand Prix](../results/1987-season-report.md#round-14-mexican-grand-prix)*
 
 
 ## Complete Race-by-Race Results

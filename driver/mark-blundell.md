@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1454
 
 🏆 **Peak ELO**: 1572
-   *1991 Round 13 - Portuguese Grand Prix*
+   *[1991 Round 13 - Portuguese Grand Prix](../results/1991-season-report.md#round-13-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1250
-   *1994 Round 10 - Hungarian Grand Prix*
+   *[1994 Round 10 - Hungarian Grand Prix](../results/1994-season-report.md#round-10-hungarian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1398
 
 🏆 **Peak ELO**: 1537
-   *1991 Round 12 - Italian Grand Prix*
+   *[1991 Round 12 - Italian Grand Prix](../results/1991-season-report.md#round-12-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1366
-   *1995 Round 12 - Italian Grand Prix*
+   *[1995 Round 12 - Italian Grand Prix](../results/1995-season-report.md#round-12-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1415
 
 🏆 **Peak ELO**: 1548
-   *1991 Round 13 - Portuguese Grand Prix*
+   *[1991 Round 13 - Portuguese Grand Prix](../results/1991-season-report.md#round-13-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1348
-   *1995 Round 12 - Italian Grand Prix*
+   *[1995 Round 12 - Italian Grand Prix](../results/1995-season-report.md#round-12-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

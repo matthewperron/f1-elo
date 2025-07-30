@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1951 Round 5 - British Grand Prix*
+   *[1951 Round 5 - British Grand Prix](../results/1951-season-report.md#round-5-british-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1951 Round 5 - British Grand Prix*
+   *[1951 Round 5 - British Grand Prix](../results/1951-season-report.md#round-5-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1510
 
 🏆 **Peak ELO**: 1510
-   *1951 Round 5 - British Grand Prix*
+   *[1951 Round 5 - British Grand Prix](../results/1951-season-report.md#round-5-british-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1951 Round 5 - British Grand Prix*
+   *[1951 Round 5 - British Grand Prix](../results/1951-season-report.md#round-5-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

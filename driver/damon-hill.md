@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1382
 
 🏆 **Peak ELO**: 1645
-   *1996 Round 12 - Hungarian Grand Prix*
+   *[1996 Round 12 - Hungarian Grand Prix](../results/1996-season-report.md#round-12-hungarian-grand-prix)*
 
 📉 **Lowest ELO**: 1328
-   *1993 Round 13 - Italian Grand Prix*
+   *[1993 Round 13 - Italian Grand Prix](../results/1993-season-report.md#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1403
 
 🏆 **Peak ELO**: 1616
-   *1995 Round 10 - Hungarian Grand Prix*
+   *[1995 Round 10 - Hungarian Grand Prix](../results/1995-season-report.md#round-10-hungarian-grand-prix)*
 
 📉 **Lowest ELO**: 1399
-   *1997 Round 15 - Luxembourg Grand Prix*
+   *[1997 Round 15 - Luxembourg Grand Prix](../results/1997-season-report.md#round-15-luxembourg-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1396
 
 🏆 **Peak ELO**: 1609
-   *1996 Round 11 - German Grand Prix*
+   *[1996 Round 11 - German Grand Prix](../results/1996-season-report.md#round-11-german-grand-prix)*
 
 📉 **Lowest ELO**: 1381
-   *1999 Round 14 - European Grand Prix*
+   *[1999 Round 14 - European Grand Prix](../results/1999-season-report.md#round-14-european-grand-prix)*
 
 
 ## Complete Race-by-Race Results

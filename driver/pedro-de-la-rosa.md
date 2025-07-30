@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1487
 
 🏆 **Peak ELO**: 1783
-   *2002 Round 7 - Monaco Grand Prix*
+   *[2002 Round 7 - Monaco Grand Prix](../results/2002-season-report.md#round-7-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1428
-   *2011 Round 7 - Canadian Grand Prix*
+   *[2011 Round 7 - Canadian Grand Prix](../results/2011-season-report.md#round-7-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1584
 
 🏆 **Peak ELO**: 1584
-   *2012 Round 20 - Brazilian Grand Prix*
+   *[2012 Round 20 - Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1402
-   *2012 Round 2 - Malaysian Grand Prix*
+   *[2012 Round 2 - Malaysian Grand Prix](../results/2012-season-report.md#round-2-malaysian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1556
 
 🏆 **Peak ELO**: 1566
-   *1999 Round 11 - Hungarian Grand Prix*
+   *[1999 Round 11 - Hungarian Grand Prix](../results/1999-season-report.md#round-11-hungarian-grand-prix)*
 
 📉 **Lowest ELO**: 1418
-   *2012 Round 2 - Malaysian Grand Prix*
+   *[2012 Round 2 - Malaysian Grand Prix](../results/2012-season-report.md#round-2-malaysian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

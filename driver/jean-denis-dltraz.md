@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1428
 
 🏆 **Peak ELO**: 1465
-   *1994 Round 16 - Australian Grand Prix*
+   *[1994 Round 16 - Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1428
-   *1995 Round 14 - European Grand Prix*
+   *[1995 Round 14 - European Grand Prix](../results/1995-season-report.md#round-14-european-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1479
 
 🏆 **Peak ELO**: 1490
-   *1994 Round 16 - Australian Grand Prix*
+   *[1994 Round 16 - Australian Grand Prix](../results/1994-season-report.md#round-16-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1479
-   *1995 Round 14 - European Grand Prix*
+   *[1995 Round 14 - European Grand Prix](../results/1995-season-report.md#round-14-european-grand-prix)*
 
 
 ## Complete Race-by-Race Results

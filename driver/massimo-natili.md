@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1470
 
 🏆 **Peak ELO**: 1470
-   *1961 Round 5 - British Grand Prix*
+   *[1961 Round 5 - British Grand Prix](../results/1961-season-report.md#round-5-british-grand-prix)*
 
 📉 **Lowest ELO**: 1470
-   *1961 Round 5 - British Grand Prix*
+   *[1961 Round 5 - British Grand Prix](../results/1961-season-report.md#round-5-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1491
 
 🏆 **Peak ELO**: 1491
-   *1961 Round 5 - British Grand Prix*
+   *[1961 Round 5 - British Grand Prix](../results/1961-season-report.md#round-5-british-grand-prix)*
 
 📉 **Lowest ELO**: 1491
-   *1961 Round 5 - British Grand Prix*
+   *[1961 Round 5 - British Grand Prix](../results/1961-season-report.md#round-5-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

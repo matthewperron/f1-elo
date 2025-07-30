@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1526
 
 🏆 **Peak ELO**: 1526
-   *2014 Round 12 - Belgian Grand Prix*
+   *[2014 Round 12 - Belgian Grand Prix](../results/2014-season-report.md#round-12-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1526
-   *2014 Round 12 - Belgian Grand Prix*
+   *[2014 Round 12 - Belgian Grand Prix](../results/2014-season-report.md#round-12-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1508
 
 🏆 **Peak ELO**: 1508
-   *2014 Round 12 - Belgian Grand Prix*
+   *[2014 Round 12 - Belgian Grand Prix](../results/2014-season-report.md#round-12-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1508
-   *2014 Round 12 - Belgian Grand Prix*
+   *[2014 Round 12 - Belgian Grand Prix](../results/2014-season-report.md#round-12-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1417
 
 🏆 **Peak ELO**: 1471
-   *1975 Round 4 - Spanish Grand Prix*
+   *[1975 Round 4 - Spanish Grand Prix](../results/1975-season-report.md#round-4-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1417
-   *1975 Round 9 - French Grand Prix*
+   *[1975 Round 9 - French Grand Prix](../results/1975-season-report.md#round-9-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1475
 
 🏆 **Peak ELO**: 1491
-   *1975 Round 4 - Spanish Grand Prix*
+   *[1975 Round 4 - Spanish Grand Prix](../results/1975-season-report.md#round-4-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1475
-   *1975 Round 9 - French Grand Prix*
+   *[1975 Round 9 - French Grand Prix](../results/1975-season-report.md#round-9-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

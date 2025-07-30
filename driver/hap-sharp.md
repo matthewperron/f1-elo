@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1449
 
 🏆 **Peak ELO**: 1472
-   *1964 Round 9 - United States Grand Prix*
+   *[1964 Round 9 - United States Grand Prix](../results/1964-season-report.md#round-9-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1449
-   *1964 Round 10 - Mexican Grand Prix*
+   *[1964 Round 10 - Mexican Grand Prix](../results/1964-season-report.md#round-10-mexican-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1485
 
 🏆 **Peak ELO**: 1492
-   *1964 Round 9 - United States Grand Prix*
+   *[1964 Round 9 - United States Grand Prix](../results/1964-season-report.md#round-9-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1485
-   *1964 Round 10 - Mexican Grand Prix*
+   *[1964 Round 10 - Mexican Grand Prix](../results/1964-season-report.md#round-10-mexican-grand-prix)*
 
 
 ## Complete Race-by-Race Results

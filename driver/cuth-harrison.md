@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1950 Round 2 - Monaco Grand Prix*
+   *[1950 Round 2 - Monaco Grand Prix](../results/1950-season-report.md#round-2-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1950 Round 2 - Monaco Grand Prix*
+   *[1950 Round 2 - Monaco Grand Prix](../results/1950-season-report.md#round-2-monaco-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1510
 
 🏆 **Peak ELO**: 1510
-   *1950 Round 2 - Monaco Grand Prix*
+   *[1950 Round 2 - Monaco Grand Prix](../results/1950-season-report.md#round-2-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1950 Round 2 - Monaco Grand Prix*
+   *[1950 Round 2 - Monaco Grand Prix](../results/1950-season-report.md#round-2-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1302
 
 🏆 **Peak ELO**: 1481
-   *1987 Round 4 - Monaco Grand Prix*
+   *[1987 Round 4 - Monaco Grand Prix](../results/1987-season-report.md#round-4-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1302
-   *1988 Round 2 - San Marino Grand Prix*
+   *[1988 Round 2 - San Marino Grand Prix](../results/1988-season-report.md#round-2-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1988 Round 2 - San Marino Grand Prix*
+   *[1988 Round 2 - San Marino Grand Prix](../results/1988-season-report.md#round-2-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1988 Round 2 - San Marino Grand Prix*
+   *[1988 Round 2 - San Marino Grand Prix](../results/1988-season-report.md#round-2-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1418
 
 🏆 **Peak ELO**: 1494
-   *1987 Round 4 - Monaco Grand Prix*
+   *[1987 Round 4 - Monaco Grand Prix](../results/1987-season-report.md#round-4-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1418
-   *1988 Round 2 - San Marino Grand Prix*
+   *[1988 Round 2 - San Marino Grand Prix](../results/1988-season-report.md#round-2-san-marino-grand-prix)*
 
 
 ## Complete Race-by-Race Results

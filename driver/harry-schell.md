@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1471
 
 🏆 **Peak ELO**: 1585
-   *1956 Round 4 - Belgian Grand Prix*
+   *[1956 Round 4 - Belgian Grand Prix](../results/1956-season-report.md#round-4-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1442
-   *1958 Round 3 - Dutch Grand Prix*
+   *[1958 Round 3 - Dutch Grand Prix](../results/1958-season-report.md#round-3-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1494
 
 🏆 **Peak ELO**: 1532
-   *1958 Round 3 - Dutch Grand Prix*
+   *[1958 Round 3 - Dutch Grand Prix](../results/1958-season-report.md#round-3-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1494
-   *1958 Round 9 - Portuguese Grand Prix*
+   *[1958 Round 9 - Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1487
 
 🏆 **Peak ELO**: 1537
-   *1958 Round 8 - German Grand Prix*
+   *[1958 Round 8 - German Grand Prix](../results/1958-season-report.md#round-8-german-grand-prix)*
 
 📉 **Lowest ELO**: 1481
-   *1955 Round 6 - British Grand Prix*
+   *[1955 Round 6 - British Grand Prix](../results/1955-season-report.md#round-6-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

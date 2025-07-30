@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1952 Round 6 - German Grand Prix*
+   *[1952 Round 6 - German Grand Prix](../results/1952-season-report.md#round-6-german-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1952 Round 6 - German Grand Prix*
+   *[1952 Round 6 - German Grand Prix](../results/1952-season-report.md#round-6-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1952 Round 6 - German Grand Prix*
+   *[1952 Round 6 - German Grand Prix](../results/1952-season-report.md#round-6-german-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1952 Round 6 - German Grand Prix*
+   *[1952 Round 6 - German Grand Prix](../results/1952-season-report.md#round-6-german-grand-prix)*
 
 
 ## Complete Race-by-Race Results

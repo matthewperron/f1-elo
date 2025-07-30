@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *2018 Round 21 - Abu Dhabi Grand Prix*
+   *[2018 Round 21 - Abu Dhabi Grand Prix](../results/2018-season-report.md#round-21-abu-dhabi-grand-prix)*
 
 📉 **Lowest ELO**: 1448
-   *2018 Round 5 - Spanish Grand Prix*
+   *[2018 Round 5 - Spanish Grand Prix](../results/2018-season-report.md#round-5-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1453
 
 🏆 **Peak ELO**: 1514
-   *2018 Round 13 - Belgian Grand Prix*
+   *[2018 Round 13 - Belgian Grand Prix](../results/2018-season-report.md#round-13-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1406
-   *2018 Round 5 - Spanish Grand Prix*
+   *[2018 Round 5 - Spanish Grand Prix](../results/2018-season-report.md#round-5-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1477
 
 🏆 **Peak ELO**: 1512
-   *2018 Round 13 - Belgian Grand Prix*
+   *[2018 Round 13 - Belgian Grand Prix](../results/2018-season-report.md#round-13-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1419
-   *2018 Round 5 - Spanish Grand Prix*
+   *[2018 Round 5 - Spanish Grand Prix](../results/2018-season-report.md#round-5-spanish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

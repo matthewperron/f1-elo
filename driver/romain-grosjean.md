@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1497
 
 🏆 **Peak ELO**: 1752
-   *2016 Round 5 - Spanish Grand Prix*
+   *[2016 Round 5 - Spanish Grand Prix](../results/2016-season-report.md#round-5-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1343
-   *2013 Round 7 - Canadian Grand Prix*
+   *[2013 Round 7 - Canadian Grand Prix](../results/2013-season-report.md#round-7-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1631
-   *2015 Round 18 - Brazilian Grand Prix*
+   *[2015 Round 18 - Brazilian Grand Prix](../results/2015-season-report.md#round-18-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1345
-   *2013 Round 10 - Hungarian Grand Prix*
+   *[2013 Round 10 - Hungarian Grand Prix](../results/2013-season-report.md#round-10-hungarian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1480
 
 🏆 **Peak ELO**: 1669
-   *2015 Round 18 - Brazilian Grand Prix*
+   *[2015 Round 18 - Brazilian Grand Prix](../results/2015-season-report.md#round-18-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1360
-   *2013 Round 7 - Canadian Grand Prix*
+   *[2013 Round 7 - Canadian Grand Prix](../results/2013-season-report.md#round-7-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

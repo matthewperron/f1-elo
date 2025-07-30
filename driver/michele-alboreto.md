@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1494
 
 🏆 **Peak ELO**: 1824
-   *1983 Round 12 - Dutch Grand Prix*
+   *[1983 Round 12 - Dutch Grand Prix](../results/1983-season-report.md#round-12-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1371
-   *1990 Round 15 - Japanese Grand Prix*
+   *[1990 Round 15 - Japanese Grand Prix](../results/1990-season-report.md#round-15-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1498
 
 🏆 **Peak ELO**: 1664
-   *1987 Round 4 - Monaco Grand Prix*
+   *[1987 Round 4 - Monaco Grand Prix](../results/1987-season-report.md#round-4-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1424
-   *1990 Round 11 - Belgian Grand Prix*
+   *[1990 Round 11 - Belgian Grand Prix](../results/1990-season-report.md#round-11-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1497
 
 🏆 **Peak ELO**: 1681
-   *1985 Round 13 - Belgian Grand Prix*
+   *[1985 Round 13 - Belgian Grand Prix](../results/1985-season-report.md#round-13-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1409
-   *1990 Round 15 - Japanese Grand Prix*
+   *[1990 Round 15 - Japanese Grand Prix](../results/1990-season-report.md#round-15-japanese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

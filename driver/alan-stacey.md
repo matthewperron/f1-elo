@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1459
 
 🏆 **Peak ELO**: 1459
-   *1959 Round 9 - United States Grand Prix*
+   *[1959 Round 9 - United States Grand Prix](../results/1959-season-report.md#round-9-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1459
-   *1959 Round 9 - United States Grand Prix*
+   *[1959 Round 9 - United States Grand Prix](../results/1959-season-report.md#round-9-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1488
 
 🏆 **Peak ELO**: 1488
-   *1959 Round 9 - United States Grand Prix*
+   *[1959 Round 9 - United States Grand Prix](../results/1959-season-report.md#round-9-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1488
-   *1959 Round 9 - United States Grand Prix*
+   *[1959 Round 9 - United States Grand Prix](../results/1959-season-report.md#round-9-united-states-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1507
 
 🏆 **Peak ELO**: 1668
-   *2023 Round 3 - Australian Grand Prix*
+   *[2023 Round 3 - Australian Grand Prix](../results/2023-season-report.md#round-3-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1408
-   *2024 Round 21 - São Paulo Grand Prix*
+   *[2024 Round 21 - São Paulo Grand Prix](../results/2024-season-report.md#round-21-so-paulo-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1507
 
 🏆 **Peak ELO**: 1507
-   *2024 Round 23 - Qatar Grand Prix*
+   *[2024 Round 23 - Qatar Grand Prix](../results/2024-season-report.md#round-23-qatar-grand-prix)*
 
 📉 **Lowest ELO**: 1370
-   *2022 Round 11 - Austrian Grand Prix*
+   *[2022 Round 11 - Austrian Grand Prix](../results/2022-season-report.md#round-11-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1509
 
 🏆 **Peak ELO**: 1529
-   *2023 Round 3 - Australian Grand Prix*
+   *[2023 Round 3 - Australian Grand Prix](../results/2023-season-report.md#round-3-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1416
-   *2022 Round 14 - Belgian Grand Prix*
+   *[2022 Round 14 - Belgian Grand Prix](../results/2022-season-report.md#round-14-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

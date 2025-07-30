@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1485
 
 🏆 **Peak ELO**: 1485
-   *1988 Round 12 - Italian Grand Prix*
+   *[1988 Round 12 - Italian Grand Prix](../results/1988-season-report.md#round-12-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1485
-   *1988 Round 12 - Italian Grand Prix*
+   *[1988 Round 12 - Italian Grand Prix](../results/1988-season-report.md#round-12-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1472
 
 🏆 **Peak ELO**: 1472
-   *1988 Round 12 - Italian Grand Prix*
+   *[1988 Round 12 - Italian Grand Prix](../results/1988-season-report.md#round-12-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1472
-   *1988 Round 12 - Italian Grand Prix*
+   *[1988 Round 12 - Italian Grand Prix](../results/1988-season-report.md#round-12-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1476
 
 🏆 **Peak ELO**: 1476
-   *1988 Round 12 - Italian Grand Prix*
+   *[1988 Round 12 - Italian Grand Prix](../results/1988-season-report.md#round-12-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1476
-   *1988 Round 12 - Italian Grand Prix*
+   *[1988 Round 12 - Italian Grand Prix](../results/1988-season-report.md#round-12-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

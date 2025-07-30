@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1381
 
 🏆 **Peak ELO**: 1462
-   *1975 Round 3 - South African Grand Prix*
+   *[1975 Round 3 - South African Grand Prix](../results/1975-season-report.md#round-3-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1338
-   *1975 Round 14 - United States Grand Prix*
+   *[1975 Round 14 - United States Grand Prix](../results/1975-season-report.md#round-14-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1463
 
 🏆 **Peak ELO**: 1463
-   *1975 Round 4 - Spanish Grand Prix*
+   *[1975 Round 4 - Spanish Grand Prix](../results/1975-season-report.md#round-4-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1463
-   *1975 Round 4 - Spanish Grand Prix*
+   *[1975 Round 4 - Spanish Grand Prix](../results/1975-season-report.md#round-4-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1439
 
 🏆 **Peak ELO**: 1489
-   *1975 Round 3 - South African Grand Prix*
+   *[1975 Round 3 - South African Grand Prix](../results/1975-season-report.md#round-3-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1426
-   *1975 Round 14 - United States Grand Prix*
+   *[1975 Round 14 - United States Grand Prix](../results/1975-season-report.md#round-14-united-states-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1396
 
 🏆 **Peak ELO**: 1475
-   *1972 Round 1 - Argentine Grand Prix*
+   *[1972 Round 1 - Argentine Grand Prix](../results/1972-season-report.md#round-1-argentine-grand-prix)*
 
 📉 **Lowest ELO**: 1396
-   *1972 Round 9 - Austrian Grand Prix*
+   *[1972 Round 9 - Austrian Grand Prix](../results/1972-season-report.md#round-9-austrian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1473
 
 🏆 **Peak ELO**: 1473
-   *1972 Round 3 - Spanish Grand Prix*
+   *[1972 Round 3 - Spanish Grand Prix](../results/1972-season-report.md#round-3-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1473
-   *1972 Round 3 - Spanish Grand Prix*
+   *[1972 Round 3 - Spanish Grand Prix](../results/1972-season-report.md#round-3-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1450
 
 🏆 **Peak ELO**: 1493
-   *1972 Round 1 - Argentine Grand Prix*
+   *[1972 Round 1 - Argentine Grand Prix](../results/1972-season-report.md#round-1-argentine-grand-prix)*
 
 📉 **Lowest ELO**: 1450
-   *1972 Round 9 - Austrian Grand Prix*
+   *[1972 Round 9 - Austrian Grand Prix](../results/1972-season-report.md#round-9-austrian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

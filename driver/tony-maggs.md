@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1420
 
 🏆 **Peak ELO**: 1468
-   *1962 Round 2 - Monaco Grand Prix*
+   *[1962 Round 2 - Monaco Grand Prix](../results/1962-season-report.md#round-2-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1420
-   *1962 Round 7 - Italian Grand Prix*
+   *[1962 Round 7 - Italian Grand Prix](../results/1962-season-report.md#round-7-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1962 Round 7 - Italian Grand Prix*
+   *[1962 Round 7 - Italian Grand Prix](../results/1962-season-report.md#round-7-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1962 Round 7 - Italian Grand Prix*
+   *[1962 Round 7 - Italian Grand Prix](../results/1962-season-report.md#round-7-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1454
 
 🏆 **Peak ELO**: 1490
-   *1962 Round 2 - Monaco Grand Prix*
+   *[1962 Round 2 - Monaco Grand Prix](../results/1962-season-report.md#round-2-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1454
-   *1962 Round 7 - Italian Grand Prix*
+   *[1962 Round 7 - Italian Grand Prix](../results/1962-season-report.md#round-7-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

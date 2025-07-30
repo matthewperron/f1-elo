@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1445
 
 🏆 **Peak ELO**: 1470
-   *1987 Round 11 - Italian Grand Prix*
+   *[1987 Round 11 - Italian Grand Prix](../results/1987-season-report.md#round-11-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1445
-   *1987 Round 12 - Portuguese Grand Prix*
+   *[1987 Round 12 - Portuguese Grand Prix](../results/1987-season-report.md#round-12-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1484
 
 🏆 **Peak ELO**: 1491
-   *1987 Round 11 - Italian Grand Prix*
+   *[1987 Round 11 - Italian Grand Prix](../results/1987-season-report.md#round-11-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1484
-   *1987 Round 12 - Portuguese Grand Prix*
+   *[1987 Round 12 - Portuguese Grand Prix](../results/1987-season-report.md#round-12-portuguese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

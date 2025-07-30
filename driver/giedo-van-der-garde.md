@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1507
 
 🏆 **Peak ELO**: 1554
-   *2013 Round 18 - United States Grand Prix*
+   *[2013 Round 18 - United States Grand Prix](../results/2013-season-report.md#round-18-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1422
-   *2013 Round 4 - Bahrain Grand Prix*
+   *[2013 Round 4 - Bahrain Grand Prix](../results/2013-season-report.md#round-4-bahrain-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *2013 Round 18 - United States Grand Prix*
+   *[2013 Round 18 - United States Grand Prix](../results/2013-season-report.md#round-18-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1388
-   *2013 Round 9 - German Grand Prix*
+   *[2013 Round 9 - German Grand Prix](../results/2013-season-report.md#round-9-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1524
 
 🏆 **Peak ELO**: 1538
-   *2013 Round 18 - United States Grand Prix*
+   *[2013 Round 18 - United States Grand Prix](../results/2013-season-report.md#round-18-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1409
-   *2013 Round 8 - British Grand Prix*
+   *[2013 Round 8 - British Grand Prix](../results/2013-season-report.md#round-8-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

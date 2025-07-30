@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1466
 
 🏆 **Peak ELO**: 1466
-   *1974 Round 3 - South African Grand Prix*
+   *[1974 Round 3 - South African Grand Prix](../results/1974-season-report.md#round-3-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1466
-   *1974 Round 3 - South African Grand Prix*
+   *[1974 Round 3 - South African Grand Prix](../results/1974-season-report.md#round-3-south-african-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1974 Round 3 - South African Grand Prix*
+   *[1974 Round 3 - South African Grand Prix](../results/1974-season-report.md#round-3-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1974 Round 3 - South African Grand Prix*
+   *[1974 Round 3 - South African Grand Prix](../results/1974-season-report.md#round-3-south-african-grand-prix)*
 
 
 ## Complete Race-by-Race Results

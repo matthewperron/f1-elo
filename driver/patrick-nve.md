@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1548
 
 🏆 **Peak ELO**: 1593
-   *1977 Round 12 - Austrian Grand Prix*
+   *[1977 Round 12 - Austrian Grand Prix](../results/1977-season-report.md#round-12-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1976 Round 5 - Belgian Grand Prix*
+   *[1976 Round 5 - Belgian Grand Prix](../results/1976-season-report.md#round-5-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1515
 
 🏆 **Peak ELO**: 1528
-   *1977 Round 12 - Austrian Grand Prix*
+   *[1977 Round 12 - Austrian Grand Prix](../results/1977-season-report.md#round-12-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1976 Round 5 - Belgian Grand Prix*
+   *[1976 Round 5 - Belgian Grand Prix](../results/1976-season-report.md#round-5-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

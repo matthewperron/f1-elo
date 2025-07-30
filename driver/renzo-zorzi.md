@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1408
 
 🏆 **Peak ELO**: 1485
-   *1977 Round 1 - Argentine Grand Prix*
+   *[1977 Round 1 - Argentine Grand Prix](../results/1977-season-report.md#round-1-argentine-grand-prix)*
 
 📉 **Lowest ELO**: 1408
-   *1977 Round 5 - Spanish Grand Prix*
+   *[1977 Round 5 - Spanish Grand Prix](../results/1977-season-report.md#round-5-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1473
 
 🏆 **Peak ELO**: 1496
-   *1977 Round 1 - Argentine Grand Prix*
+   *[1977 Round 1 - Argentine Grand Prix](../results/1977-season-report.md#round-1-argentine-grand-prix)*
 
 📉 **Lowest ELO**: 1473
-   *1977 Round 5 - Spanish Grand Prix*
+   *[1977 Round 5 - Spanish Grand Prix](../results/1977-season-report.md#round-5-spanish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

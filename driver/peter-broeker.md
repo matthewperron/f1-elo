@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1963 Round 8 - United States Grand Prix*
+   *[1963 Round 8 - United States Grand Prix](../results/1963-season-report.md#round-8-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1963 Round 8 - United States Grand Prix*
+   *[1963 Round 8 - United States Grand Prix](../results/1963-season-report.md#round-8-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1963 Round 8 - United States Grand Prix*
+   *[1963 Round 8 - United States Grand Prix](../results/1963-season-report.md#round-8-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1963 Round 8 - United States Grand Prix*
+   *[1963 Round 8 - United States Grand Prix](../results/1963-season-report.md#round-8-united-states-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1407
 
 🏆 **Peak ELO**: 1724
-   *2010 Round 17 - Korean Grand Prix*
+   *[2010 Round 17 - Korean Grand Prix](../results/2010-season-report.md#round-17-korean-grand-prix)*
 
 📉 **Lowest ELO**: 1301
-   *2014 Round 6 - Monaco Grand Prix*
+   *[2014 Round 6 - Monaco Grand Prix](../results/2014-season-report.md#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1315
 
 🏆 **Peak ELO**: 1623
-   *2007 Round 15 - Japanese Grand Prix*
+   *[2007 Round 15 - Japanese Grand Prix](../results/2007-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1315
-   *2014 Round 19 - Abu Dhabi Grand Prix*
+   *[2014 Round 19 - Abu Dhabi Grand Prix](../results/2014-season-report.md#round-19-abu-dhabi-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1342
 
 🏆 **Peak ELO**: 1655
-   *2007 Round 17 - Brazilian Grand Prix*
+   *[2007 Round 17 - Brazilian Grand Prix](../results/2007-season-report.md#round-17-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1319
-   *2014 Round 6 - Monaco Grand Prix*
+   *[2014 Round 6 - Monaco Grand Prix](../results/2014-season-report.md#round-6-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

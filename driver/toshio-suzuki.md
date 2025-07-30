@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1446
 
 🏆 **Peak ELO**: 1470
-   *1993 Round 15 - Japanese Grand Prix*
+   *[1993 Round 15 - Japanese Grand Prix](../results/1993-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1446
-   *1993 Round 16 - Australian Grand Prix*
+   *[1993 Round 16 - Australian Grand Prix](../results/1993-season-report.md#round-16-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1484
 
 🏆 **Peak ELO**: 1491
-   *1993 Round 15 - Japanese Grand Prix*
+   *[1993 Round 15 - Japanese Grand Prix](../results/1993-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1484
-   *1993 Round 16 - Australian Grand Prix*
+   *[1993 Round 16 - Australian Grand Prix](../results/1993-season-report.md#round-16-australian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1420
 
 🏆 **Peak ELO**: 1468
-   *1992 Round 2 - Mexican Grand Prix*
+   *[1992 Round 2 - Mexican Grand Prix](../results/1992-season-report.md#round-2-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1420
-   *1992 Round 8 - French Grand Prix*
+   *[1992 Round 8 - French Grand Prix](../results/1992-season-report.md#round-8-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1476
 
 🏆 **Peak ELO**: 1490
-   *1992 Round 2 - Mexican Grand Prix*
+   *[1992 Round 2 - Mexican Grand Prix](../results/1992-season-report.md#round-2-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1476
-   *1992 Round 8 - French Grand Prix*
+   *[1992 Round 8 - French Grand Prix](../results/1992-season-report.md#round-8-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

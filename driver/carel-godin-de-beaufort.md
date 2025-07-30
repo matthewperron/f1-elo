@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1442
 
 🏆 **Peak ELO**: 1468
-   *1958 Round 8 - German Grand Prix*
+   *[1958 Round 8 - German Grand Prix](../results/1958-season-report.md#round-8-german-grand-prix)*
 
 📉 **Lowest ELO**: 1442
-   *1963 Round 6 - German Grand Prix*
+   *[1963 Round 6 - German Grand Prix](../results/1963-season-report.md#round-6-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1483
 
 🏆 **Peak ELO**: 1490
-   *1958 Round 8 - German Grand Prix*
+   *[1958 Round 8 - German Grand Prix](../results/1958-season-report.md#round-8-german-grand-prix)*
 
 📉 **Lowest ELO**: 1483
-   *1963 Round 6 - German Grand Prix*
+   *[1963 Round 6 - German Grand Prix](../results/1963-season-report.md#round-6-german-grand-prix)*
 
 
 ## Complete Race-by-Race Results

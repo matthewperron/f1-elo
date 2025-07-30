@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1531
 
 🏆 **Peak ELO**: 1531
-   *1984 Round 7 - Canadian Grand Prix*
+   *[1984 Round 7 - Canadian Grand Prix](../results/1984-season-report.md#round-7-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1531
-   *1984 Round 7 - Canadian Grand Prix*
+   *[1984 Round 7 - Canadian Grand Prix](../results/1984-season-report.md#round-7-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1509
 
 🏆 **Peak ELO**: 1509
-   *1984 Round 7 - Canadian Grand Prix*
+   *[1984 Round 7 - Canadian Grand Prix](../results/1984-season-report.md#round-7-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1509
-   *1984 Round 7 - Canadian Grand Prix*
+   *[1984 Round 7 - Canadian Grand Prix](../results/1984-season-report.md#round-7-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

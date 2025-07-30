@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1472
 
 🏆 **Peak ELO**: 1649
-   *1992 Round 13 - Italian Grand Prix*
+   *[1992 Round 13 - Italian Grand Prix](../results/1992-season-report.md#round-13-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1467
-   *1987 Round 2 - San Marino Grand Prix*
+   *[1987 Round 2 - San Marino Grand Prix](../results/1987-season-report.md#round-2-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1492
 
 🏆 **Peak ELO**: 1545
-   *1992 Round 13 - Italian Grand Prix*
+   *[1992 Round 13 - Italian Grand Prix](../results/1992-season-report.md#round-13-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1987 Round 2 - San Marino Grand Prix*
+   *[1987 Round 2 - San Marino Grand Prix](../results/1987-season-report.md#round-2-san-marino-grand-prix)*
 
 
 ## Complete Race-by-Race Results

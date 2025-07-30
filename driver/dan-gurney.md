@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1441
 
 🏆 **Peak ELO**: 1621
-   *1968 Round 11 - United States Grand Prix*
+   *[1968 Round 11 - United States Grand Prix](../results/1968-season-report.md#round-11-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1441
-   *1970 Round 7 - British Grand Prix*
+   *[1970 Round 7 - British Grand Prix](../results/1970-season-report.md#round-7-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1455
 
 🏆 **Peak ELO**: 1532
-   *1961 Round 8 - United States Grand Prix*
+   *[1961 Round 8 - United States Grand Prix](../results/1961-season-report.md#round-8-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1455
-   *1970 Round 6 - French Grand Prix*
+   *[1970 Round 6 - French Grand Prix](../results/1970-season-report.md#round-6-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1451
 
 🏆 **Peak ELO**: 1555
-   *1963 Round 2 - Belgian Grand Prix*
+   *[1963 Round 2 - Belgian Grand Prix](../results/1963-season-report.md#round-2-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1451
-   *1970 Round 7 - British Grand Prix*
+   *[1970 Round 7 - British Grand Prix](../results/1970-season-report.md#round-7-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

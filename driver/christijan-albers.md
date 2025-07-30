@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1462
 
 🏆 **Peak ELO**: 1654
-   *2006 Round 3 - Australian Grand Prix*
+   *[2006 Round 3 - Australian Grand Prix](../results/2006-season-report.md#round-3-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1436
-   *2007 Round 7 - United States Grand Prix*
+   *[2007 Round 7 - United States Grand Prix](../results/2007-season-report.md#round-7-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1525
 
 🏆 **Peak ELO**: 1610
-   *2006 Round 8 - British Grand Prix*
+   *[2006 Round 8 - British Grand Prix](../results/2006-season-report.md#round-8-british-grand-prix)*
 
 📉 **Lowest ELO**: 1521
-   *2005 Round 15 - Italian Grand Prix*
+   *[2005 Round 15 - Italian Grand Prix](../results/2005-season-report.md#round-15-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1506
 
 🏆 **Peak ELO**: 1608
-   *2006 Round 3 - Australian Grand Prix*
+   *[2006 Round 3 - Australian Grand Prix](../results/2006-season-report.md#round-3-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *2005 Round 1 - Australian Grand Prix*
+   *[2005 Round 1 - Australian Grand Prix](../results/2005-season-report.md#round-1-australian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1528
 
 🏆 **Peak ELO**: 1649
-   *2001 Round 10 - French Grand Prix*
+   *[2001 Round 10 - French Grand Prix](../results/2001-season-report.md#round-10-french-grand-prix)*
 
 📉 **Lowest ELO**: 1297
-   *1995 Round 1 - Brazilian Grand Prix*
+   *[1995 Round 1 - Brazilian Grand Prix](../results/1995-season-report.md#round-1-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1470
 
 🏆 **Peak ELO**: 1649
-   *2002 Round 8 - Canadian Grand Prix*
+   *[2002 Round 8 - Canadian Grand Prix](../results/2002-season-report.md#round-8-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1341
-   *1995 Round 10 - Hungarian Grand Prix*
+   *[1995 Round 10 - Hungarian Grand Prix](../results/1995-season-report.md#round-10-hungarian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1489
 
 🏆 **Peak ELO**: 1634
-   *2001 Round 15 - Italian Grand Prix*
+   *[2001 Round 15 - Italian Grand Prix](../results/2001-season-report.md#round-15-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1333
-   *1995 Round 10 - Hungarian Grand Prix*
+   *[1995 Round 10 - Hungarian Grand Prix](../results/1995-season-report.md#round-10-hungarian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

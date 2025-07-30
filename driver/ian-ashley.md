@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1509
 
 🏆 **Peak ELO**: 1509
-   *1977 Round 16 - Canadian Grand Prix*
+   *[1977 Round 16 - Canadian Grand Prix](../results/1977-season-report.md#round-16-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1470
-   *1975 Round 11 - German Grand Prix*
+   *[1975 Round 11 - German Grand Prix](../results/1975-season-report.md#round-11-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1503
 
 🏆 **Peak ELO**: 1503
-   *1977 Round 16 - Canadian Grand Prix*
+   *[1977 Round 16 - Canadian Grand Prix](../results/1977-season-report.md#round-16-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1491
-   *1975 Round 11 - German Grand Prix*
+   *[1975 Round 11 - German Grand Prix](../results/1975-season-report.md#round-11-german-grand-prix)*
 
 
 ## Complete Race-by-Race Results

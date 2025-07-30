@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1543
 
 🏆 **Peak ELO**: 1796
-   *2012 Round 1 - Australian Grand Prix*
+   *[2012 Round 1 - Australian Grand Prix](../results/2012-season-report.md#round-1-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1476
-   *2007 Round 1 - Australian Grand Prix*
+   *[2007 Round 1 - Australian Grand Prix](../results/2007-season-report.md#round-1-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1470
 
 🏆 **Peak ELO**: 1653
-   *2008 Round 3 - Bahrain Grand Prix*
+   *[2008 Round 3 - Bahrain Grand Prix](../results/2008-season-report.md#round-3-bahrain-grand-prix)*
 
 📉 **Lowest ELO**: 1420
-   *2007 Round 3 - Bahrain Grand Prix*
+   *[2007 Round 3 - Bahrain Grand Prix](../results/2007-season-report.md#round-3-bahrain-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1648
-   *2012 Round 15 - Japanese Grand Prix*
+   *[2012 Round 15 - Japanese Grand Prix](../results/2012-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1442
-   *2007 Round 3 - Bahrain Grand Prix*
+   *[2007 Round 3 - Bahrain Grand Prix](../results/2007-season-report.md#round-3-bahrain-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1356
 
 🏆 **Peak ELO**: 1478
-   *1979 Round 15 - United States Grand Prix*
+   *[1979 Round 15 - United States Grand Prix](../results/1979-season-report.md#round-15-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1356
-   *1981 Round 3 - Argentine Grand Prix*
+   *[1981 Round 3 - Argentine Grand Prix](../results/1981-season-report.md#round-3-argentine-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1440
 
 🏆 **Peak ELO**: 1467
-   *1980 Round 1 - Argentine Grand Prix*
+   *[1980 Round 1 - Argentine Grand Prix](../results/1980-season-report.md#round-1-argentine-grand-prix)*
 
 📉 **Lowest ELO**: 1440
-   *1980 Round 3 - South African Grand Prix*
+   *[1980 Round 3 - South African Grand Prix](../results/1980-season-report.md#round-3-south-african-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1414
 
 🏆 **Peak ELO**: 1493
-   *1979 Round 15 - United States Grand Prix*
+   *[1979 Round 15 - United States Grand Prix](../results/1979-season-report.md#round-15-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1414
-   *1981 Round 3 - Argentine Grand Prix*
+   *[1981 Round 3 - Argentine Grand Prix](../results/1981-season-report.md#round-3-argentine-grand-prix)*
 
 
 ## Complete Race-by-Race Results

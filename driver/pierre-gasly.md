@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1639
 
 🏆 **Peak ELO**: 1669
-   *2021 Round 21 - Saudi Arabian Grand Prix*
+   *[2021 Round 21 - Saudi Arabian Grand Prix](../results/2021-season-report.md#round-21-saudi-arabian-grand-prix)*
 
 📉 **Lowest ELO**: 1391
-   *2023 Round 2 - Saudi Arabian Grand Prix*
+   *[2023 Round 2 - Saudi Arabian Grand Prix](../results/2023-season-report.md#round-2-saudi-arabian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1567
 
 🏆 **Peak ELO**: 1689
-   *2021 Round 21 - Saudi Arabian Grand Prix*
+   *[2021 Round 21 - Saudi Arabian Grand Prix](../results/2021-season-report.md#round-21-saudi-arabian-grand-prix)*
 
 📉 **Lowest ELO**: 1336
-   *2024 Round 6 - Miami Grand Prix*
+   *[2024 Round 6 - Miami Grand Prix](../results/2024-season-report.md#round-6-miami-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1588
 
 🏆 **Peak ELO**: 1682
-   *2021 Round 21 - Saudi Arabian Grand Prix*
+   *[2021 Round 21 - Saudi Arabian Grand Prix](../results/2021-season-report.md#round-21-saudi-arabian-grand-prix)*
 
 📉 **Lowest ELO**: 1361
-   *2024 Round 7 - Emilia Romagna Grand Prix*
+   *[2024 Round 7 - Emilia Romagna Grand Prix](../results/2024-season-report.md#round-7-emilia-romagna-grand-prix)*
 
 
 ## Complete Race-by-Race Results

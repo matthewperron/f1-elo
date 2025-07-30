@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1545
 
 🏆 **Peak ELO**: 1848
-   *1988 Round 5 - Canadian Grand Prix*
+   *[1988 Round 5 - Canadian Grand Prix](../results/1988-season-report.md#round-5-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1328
-   *1984 Round 3 - Belgian Grand Prix*
+   *[1984 Round 3 - Belgian Grand Prix](../results/1984-season-report.md#round-3-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1431
 
 🏆 **Peak ELO**: 1527
-   *1987 Round 3 - Belgian Grand Prix*
+   *[1987 Round 3 - Belgian Grand Prix](../results/1987-season-report.md#round-3-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1349
-   *1983 Round 4 - San Marino Grand Prix*
+   *[1983 Round 4 - San Marino Grand Prix](../results/1983-season-report.md#round-4-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1462
 
 🏆 **Peak ELO**: 1592
-   *1987 Round 9 - Hungarian Grand Prix*
+   *[1987 Round 9 - Hungarian Grand Prix](../results/1987-season-report.md#round-9-hungarian-grand-prix)*
 
 📉 **Lowest ELO**: 1366
-   *1983 Round 6 - Belgian Grand Prix*
+   *[1983 Round 6 - Belgian Grand Prix](../results/1983-season-report.md#round-6-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

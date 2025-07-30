@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1414
 
 🏆 **Peak ELO**: 1474
-   *1996 Round 1 - Australian Grand Prix*
+   *[1996 Round 1 - Australian Grand Prix](../results/1996-season-report.md#round-1-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1320
-   *1996 Round 16 - Japanese Grand Prix*
+   *[1996 Round 16 - Japanese Grand Prix](../results/1996-season-report.md#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1998 Round 14 - Italian Grand Prix*
+   *[1998 Round 14 - Italian Grand Prix](../results/1998-season-report.md#round-14-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1466
-   *1996 Round 16 - Japanese Grand Prix*
+   *[1996 Round 16 - Japanese Grand Prix](../results/1996-season-report.md#round-16-japanese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1452
 
 🏆 **Peak ELO**: 1492
-   *1996 Round 1 - Australian Grand Prix*
+   *[1996 Round 1 - Australian Grand Prix](../results/1996-season-report.md#round-1-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1422
-   *1996 Round 16 - Japanese Grand Prix*
+   *[1996 Round 16 - Japanese Grand Prix](../results/1996-season-report.md#round-16-japanese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

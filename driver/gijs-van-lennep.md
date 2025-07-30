@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1396
 
 🏆 **Peak ELO**: 1468
-   *1973 Round 10 - Dutch Grand Prix*
+   *[1973 Round 10 - Dutch Grand Prix](../results/1973-season-report.md#round-10-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1396
-   *1974 Round 5 - Belgian Grand Prix*
+   *[1974 Round 5 - Belgian Grand Prix](../results/1974-season-report.md#round-5-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1469
 
 🏆 **Peak ELO**: 1490
-   *1973 Round 10 - Dutch Grand Prix*
+   *[1973 Round 10 - Dutch Grand Prix](../results/1973-season-report.md#round-10-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1469
-   *1974 Round 5 - Belgian Grand Prix*
+   *[1974 Round 5 - Belgian Grand Prix](../results/1974-season-report.md#round-5-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

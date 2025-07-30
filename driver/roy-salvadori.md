@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1422
 
 🏆 **Peak ELO**: 1580
-   *1960 Round 7 - British Grand Prix*
+   *[1960 Round 7 - British Grand Prix](../results/1960-season-report.md#round-7-british-grand-prix)*
 
 📉 **Lowest ELO**: 1394
-   *1962 Round 7 - Italian Grand Prix*
+   *[1962 Round 7 - Italian Grand Prix](../results/1962-season-report.md#round-7-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1476
 
 🏆 **Peak ELO**: 1523
-   *1960 Round 7 - British Grand Prix*
+   *[1960 Round 7 - British Grand Prix](../results/1960-season-report.md#round-7-british-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1962 Round 7 - Italian Grand Prix*
+   *[1962 Round 7 - Italian Grand Prix](../results/1962-season-report.md#round-7-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

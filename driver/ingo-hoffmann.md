@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1441
 
 🏆 **Peak ELO**: 1477
-   *1976 Round 1 - Brazilian Grand Prix*
+   *[1976 Round 1 - Brazilian Grand Prix](../results/1976-season-report.md#round-1-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1441
-   *1977 Round 2 - Brazilian Grand Prix*
+   *[1977 Round 2 - Brazilian Grand Prix](../results/1977-season-report.md#round-2-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1497
 
 🏆 **Peak ELO**: 1534
-   *1976 Round 1 - Brazilian Grand Prix*
+   *[1976 Round 1 - Brazilian Grand Prix](../results/1976-season-report.md#round-1-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1497
-   *1977 Round 2 - Brazilian Grand Prix*
+   *[1977 Round 2 - Brazilian Grand Prix](../results/1977-season-report.md#round-2-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1481
 
 🏆 **Peak ELO**: 1517
-   *1976 Round 1 - Brazilian Grand Prix*
+   *[1976 Round 1 - Brazilian Grand Prix](../results/1976-season-report.md#round-1-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1481
-   *1977 Round 2 - Brazilian Grand Prix*
+   *[1977 Round 2 - Brazilian Grand Prix](../results/1977-season-report.md#round-2-brazilian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

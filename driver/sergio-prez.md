@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1535
 
 🏆 **Peak ELO**: 1772
-   *2016 Round 5 - Spanish Grand Prix*
+   *[2016 Round 5 - Spanish Grand Prix](../results/2016-season-report.md#round-5-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1389
-   *2018 Round 10 - British Grand Prix*
+   *[2018 Round 10 - British Grand Prix](../results/2018-season-report.md#round-10-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1455
 
 🏆 **Peak ELO**: 1722
-   *2017 Round 5 - Spanish Grand Prix*
+   *[2017 Round 5 - Spanish Grand Prix](../results/2017-season-report.md#round-5-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1455
-   *2024 Round 22 - Las Vegas Grand Prix*
+   *[2024 Round 22 - Las Vegas Grand Prix](../results/2024-season-report.md#round-22-las-vegas-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1480
 
 🏆 **Peak ELO**: 1696
-   *2017 Round 9 - Austrian Grand Prix*
+   *[2017 Round 9 - Austrian Grand Prix](../results/2017-season-report.md#round-9-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1455
-   *2018 Round 10 - British Grand Prix*
+   *[2018 Round 10 - British Grand Prix](../results/2018-season-report.md#round-10-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

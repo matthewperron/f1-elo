@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1492
 
 🏆 **Peak ELO**: 1696
-   *2017 Round 16 - Japanese Grand Prix*
+   *[2017 Round 16 - Japanese Grand Prix](../results/2017-season-report.md#round-16-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1469
-   *2018 Round 15 - Singapore Grand Prix*
+   *[2018 Round 15 - Singapore Grand Prix](../results/2018-season-report.md#round-15-singapore-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1529
 
 🏆 **Peak ELO**: 1548
-   *2017 Round 15 - Malaysian Grand Prix*
+   *[2017 Round 15 - Malaysian Grand Prix](../results/2017-season-report.md#round-15-malaysian-grand-prix)*
 
 📉 **Lowest ELO**: 1477
-   *2018 Round 17 - Japanese Grand Prix*
+   *[2018 Round 17 - Japanese Grand Prix](../results/2018-season-report.md#round-17-japanese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1517
 
 🏆 **Peak ELO**: 1586
-   *2017 Round 16 - Japanese Grand Prix*
+   *[2017 Round 16 - Japanese Grand Prix](../results/2017-season-report.md#round-16-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1481
-   *2018 Round 15 - Singapore Grand Prix*
+   *[2018 Round 15 - Singapore Grand Prix](../results/2018-season-report.md#round-15-singapore-grand-prix)*
 
 
 ## Complete Race-by-Race Results

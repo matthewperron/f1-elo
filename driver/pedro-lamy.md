@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1496
 
 🏆 **Peak ELO**: 1547
-   *1995 Round 16 - Japanese Grand Prix*
+   *[1995 Round 16 - Japanese Grand Prix](../results/1995-season-report.md#round-16-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1370
-   *1995 Round 10 - Hungarian Grand Prix*
+   *[1995 Round 10 - Hungarian Grand Prix](../results/1995-season-report.md#round-10-hungarian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1504
 
 🏆 **Peak ELO**: 1507
-   *1995 Round 15 - Pacific Grand Prix*
+   *[1995 Round 15 - Pacific Grand Prix](../results/1995-season-report.md#round-15-pacific-grand-prix)*
 
 📉 **Lowest ELO**: 1438
-   *1995 Round 10 - Hungarian Grand Prix*
+   *[1995 Round 10 - Hungarian Grand Prix](../results/1995-season-report.md#round-10-hungarian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1502
 
 🏆 **Peak ELO**: 1511
-   *1995 Round 15 - Pacific Grand Prix*
+   *[1995 Round 15 - Pacific Grand Prix](../results/1995-season-report.md#round-15-pacific-grand-prix)*
 
 📉 **Lowest ELO**: 1417
-   *1995 Round 10 - Hungarian Grand Prix*
+   *[1995 Round 10 - Hungarian Grand Prix](../results/1995-season-report.md#round-10-hungarian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

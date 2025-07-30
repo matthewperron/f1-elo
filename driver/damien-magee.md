@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1975 Round 7 - Swedish Grand Prix*
+   *[1975 Round 7 - Swedish Grand Prix](../results/1975-season-report.md#round-7-swedish-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1975 Round 7 - Swedish Grand Prix*
+   *[1975 Round 7 - Swedish Grand Prix](../results/1975-season-report.md#round-7-swedish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1975 Round 7 - Swedish Grand Prix*
+   *[1975 Round 7 - Swedish Grand Prix](../results/1975-season-report.md#round-7-swedish-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1975 Round 7 - Swedish Grand Prix*
+   *[1975 Round 7 - Swedish Grand Prix](../results/1975-season-report.md#round-7-swedish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

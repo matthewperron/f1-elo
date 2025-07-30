@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1385
 
 🏆 **Peak ELO**: 1468
-   *2002 Round 1 - Australian Grand Prix*
+   *[2002 Round 1 - Australian Grand Prix](../results/2002-season-report.md#round-1-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1323
-   *2002 Round 11 - French Grand Prix*
+   *[2002 Round 11 - French Grand Prix](../results/2002-season-report.md#round-11-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1472
 
 🏆 **Peak ELO**: 1558
-   *2002 Round 5 - Spanish Grand Prix*
+   *[2002 Round 5 - Spanish Grand Prix](../results/2002-season-report.md#round-5-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1472
-   *2002 Round 16 - United States Grand Prix*
+   *[2002 Round 16 - United States Grand Prix](../results/2002-season-report.md#round-16-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1446
 
 🏆 **Peak ELO**: 1506
-   *2002 Round 5 - Spanish Grand Prix*
+   *[2002 Round 5 - Spanish Grand Prix](../results/2002-season-report.md#round-5-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1446
-   *2002 Round 17 - Japanese Grand Prix*
+   *[2002 Round 17 - Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

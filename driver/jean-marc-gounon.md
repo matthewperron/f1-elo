@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1418
 
 🏆 **Peak ELO**: 1547
-   *1993 Round 15 - Japanese Grand Prix*
+   *[1993 Round 15 - Japanese Grand Prix](../results/1993-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1391
-   *1994 Round 11 - Belgian Grand Prix*
+   *[1994 Round 11 - Belgian Grand Prix](../results/1994-season-report.md#round-11-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1994 Round 8 - British Grand Prix*
+   *[1994 Round 8 - British Grand Prix](../results/1994-season-report.md#round-8-british-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1994 Round 8 - British Grand Prix*
+   *[1994 Round 8 - British Grand Prix](../results/1994-season-report.md#round-8-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1453
 
 🏆 **Peak ELO**: 1514
-   *1993 Round 15 - Japanese Grand Prix*
+   *[1993 Round 15 - Japanese Grand Prix](../results/1993-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1445
-   *1994 Round 11 - Belgian Grand Prix*
+   *[1994 Round 11 - Belgian Grand Prix](../results/1994-season-report.md#round-11-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

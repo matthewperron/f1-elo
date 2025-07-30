@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1960 Round 1 - Argentine Grand Prix*
+   *[1960 Round 1 - Argentine Grand Prix](../results/1960-season-report.md#round-1-argentine-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1960 Round 1 - Argentine Grand Prix*
+   *[1960 Round 1 - Argentine Grand Prix](../results/1960-season-report.md#round-1-argentine-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1510
 
 🏆 **Peak ELO**: 1510
-   *1960 Round 1 - Argentine Grand Prix*
+   *[1960 Round 1 - Argentine Grand Prix](../results/1960-season-report.md#round-1-argentine-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1960 Round 1 - Argentine Grand Prix*
+   *[1960 Round 1 - Argentine Grand Prix](../results/1960-season-report.md#round-1-argentine-grand-prix)*
 
 
 ## Complete Race-by-Race Results

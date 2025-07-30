@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1466
 
 🏆 **Peak ELO**: 1466
-   *1975 Round 12 - Austrian Grand Prix*
+   *[1975 Round 12 - Austrian Grand Prix](../results/1975-season-report.md#round-12-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1466
-   *1975 Round 12 - Austrian Grand Prix*
+   *[1975 Round 12 - Austrian Grand Prix](../results/1975-season-report.md#round-12-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1975 Round 12 - Austrian Grand Prix*
+   *[1975 Round 12 - Austrian Grand Prix](../results/1975-season-report.md#round-12-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1975 Round 12 - Austrian Grand Prix*
+   *[1975 Round 12 - Austrian Grand Prix](../results/1975-season-report.md#round-12-austrian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

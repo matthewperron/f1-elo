@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1575
 
 🏆 **Peak ELO**: 1894
-   *2013 Round 14 - Korean Grand Prix*
+   *[2013 Round 14 - Korean Grand Prix](../results/2013-season-report.md#round-14-korean-grand-prix)*
 
 📉 **Lowest ELO**: 1416
-   *2007 Round 12 - Turkish Grand Prix*
+   *[2007 Round 12 - Turkish Grand Prix](../results/2007-season-report.md#round-12-turkish-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1467
 
 🏆 **Peak ELO**: 1883
-   *2013 Round 19 - Brazilian Grand Prix*
+   *[2013 Round 19 - Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1418
-   *2021 Round 16 - Turkish Grand Prix*
+   *[2021 Round 16 - Turkish Grand Prix](../results/2021-season-report.md#round-16-turkish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1501
 
 🏆 **Peak ELO**: 1867
-   *2013 Round 14 - Korean Grand Prix*
+   *[2013 Round 14 - Korean Grand Prix](../results/2013-season-report.md#round-14-korean-grand-prix)*
 
 📉 **Lowest ELO**: 1425
-   *2021 Round 16 - Turkish Grand Prix*
+   *[2021 Round 16 - Turkish Grand Prix](../results/2021-season-report.md#round-16-turkish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

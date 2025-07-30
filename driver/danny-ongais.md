@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1494
 
 🏆 **Peak ELO**: 1532
-   *1978 Round 1 - Argentine Grand Prix*
+   *[1978 Round 1 - Argentine Grand Prix](../results/1978-season-report.md#round-1-argentine-grand-prix)*
 
 📉 **Lowest ELO**: 1494
-   *1978 Round 2 - Brazilian Grand Prix*
+   *[1978 Round 2 - Brazilian Grand Prix](../results/1978-season-report.md#round-2-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1498
 
 🏆 **Peak ELO**: 1510
-   *1978 Round 1 - Argentine Grand Prix*
+   *[1978 Round 1 - Argentine Grand Prix](../results/1978-season-report.md#round-1-argentine-grand-prix)*
 
 📉 **Lowest ELO**: 1498
-   *1978 Round 2 - Brazilian Grand Prix*
+   *[1978 Round 2 - Brazilian Grand Prix](../results/1978-season-report.md#round-2-brazilian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1395
 
 🏆 **Peak ELO**: 1458
-   *1976 Round 2 - South African Grand Prix*
+   *[1976 Round 2 - South African Grand Prix](../results/1976-season-report.md#round-2-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1395
-   *1976 Round 8 - French Grand Prix*
+   *[1976 Round 8 - French Grand Prix](../results/1976-season-report.md#round-8-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1446
 
 🏆 **Peak ELO**: 1470
-   *1976 Round 4 - Spanish Grand Prix*
+   *[1976 Round 4 - Spanish Grand Prix](../results/1976-season-report.md#round-4-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1446
-   *1976 Round 8 - French Grand Prix*
+   *[1976 Round 8 - French Grand Prix](../results/1976-season-report.md#round-8-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1431
 
 🏆 **Peak ELO**: 1487
-   *1976 Round 2 - South African Grand Prix*
+   *[1976 Round 2 - South African Grand Prix](../results/1976-season-report.md#round-2-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1431
-   *1976 Round 8 - French Grand Prix*
+   *[1976 Round 8 - French Grand Prix](../results/1976-season-report.md#round-8-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

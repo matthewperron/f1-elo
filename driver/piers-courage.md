@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1361
 
 🏆 **Peak ELO**: 1470
-   *1968 Round 2 - Spanish Grand Prix*
+   *[1968 Round 2 - Spanish Grand Prix](../results/1968-season-report.md#round-2-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1361
-   *1969 Round 7 - German Grand Prix*
+   *[1969 Round 7 - German Grand Prix](../results/1969-season-report.md#round-7-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1465
 
 🏆 **Peak ELO**: 1465
-   *1969 Round 6 - British Grand Prix*
+   *[1969 Round 6 - British Grand Prix](../results/1969-season-report.md#round-6-british-grand-prix)*
 
 📉 **Lowest ELO**: 1465
-   *1969 Round 6 - British Grand Prix*
+   *[1969 Round 6 - British Grand Prix](../results/1969-season-report.md#round-6-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1434
 
 🏆 **Peak ELO**: 1491
-   *1968 Round 2 - Spanish Grand Prix*
+   *[1968 Round 2 - Spanish Grand Prix](../results/1968-season-report.md#round-2-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1434
-   *1969 Round 7 - German Grand Prix*
+   *[1969 Round 7 - German Grand Prix](../results/1969-season-report.md#round-7-german-grand-prix)*
 
 
 ## Complete Race-by-Race Results

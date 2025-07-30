@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1433
 
 🏆 **Peak ELO**: 1472
-   *1976 Round 15 - United States Grand Prix*
+   *[1976 Round 15 - United States Grand Prix](../results/1976-season-report.md#round-15-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1393
-   *1977 Round 11 - German Grand Prix*
+   *[1977 Round 11 - German Grand Prix](../results/1977-season-report.md#round-11-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1977 Round 13 - Dutch Grand Prix*
+   *[1977 Round 13 - Dutch Grand Prix](../results/1977-season-report.md#round-13-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1977 Round 13 - Dutch Grand Prix*
+   *[1977 Round 13 - Dutch Grand Prix](../results/1977-season-report.md#round-13-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1458
 
 🏆 **Peak ELO**: 1492
-   *1976 Round 15 - United States Grand Prix*
+   *[1976 Round 15 - United States Grand Prix](../results/1976-season-report.md#round-15-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1458
-   *1977 Round 13 - Dutch Grand Prix*
+   *[1977 Round 13 - Dutch Grand Prix](../results/1977-season-report.md#round-13-dutch-grand-prix)*
 
 
 ## Complete Race-by-Race Results

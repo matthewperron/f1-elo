@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1523
 
 🏆 **Peak ELO**: 1706
-   *1995 Round 17 - Australian Grand Prix*
+   *[1995 Round 17 - Australian Grand Prix](../results/1995-season-report.md#round-17-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1489
-   *1995 Round 6 - Canadian Grand Prix*
+   *[1995 Round 6 - Canadian Grand Prix](../results/1995-season-report.md#round-6-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1507
 
 🏆 **Peak ELO**: 1562
-   *1995 Round 17 - Australian Grand Prix*
+   *[1995 Round 17 - Australian Grand Prix](../results/1995-season-report.md#round-17-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1496
-   *1995 Round 6 - Canadian Grand Prix*
+   *[1995 Round 6 - Canadian Grand Prix](../results/1995-season-report.md#round-6-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

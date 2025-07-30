@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1358
 
 🏆 **Peak ELO**: 1660
-   *1998 Round 4 - San Marino Grand Prix*
+   *[1998 Round 4 - San Marino Grand Prix](../results/1998-season-report.md#round-4-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1358
-   *2007 Round 16 - Chinese Grand Prix*
+   *[2007 Round 16 - Chinese Grand Prix](../results/2007-season-report.md#round-16-chinese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1423
 
 🏆 **Peak ELO**: 1554
-   *1998 Round 9 - British Grand Prix*
+   *[1998 Round 9 - British Grand Prix](../results/1998-season-report.md#round-9-british-grand-prix)*
 
 📉 **Lowest ELO**: 1355
-   *2000 Round 1 - Australian Grand Prix*
+   *[2000 Round 1 - Australian Grand Prix](../results/2000-season-report.md#round-1-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1404
 
 🏆 **Peak ELO**: 1577
-   *1998 Round 4 - San Marino Grand Prix*
+   *[1998 Round 4 - San Marino Grand Prix](../results/1998-season-report.md#round-4-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1373
-   *2000 Round 13 - Belgian Grand Prix*
+   *[2000 Round 13 - Belgian Grand Prix](../results/2000-season-report.md#round-13-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

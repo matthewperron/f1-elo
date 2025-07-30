@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1414
 
 🏆 **Peak ELO**: 1481
-   *1981 Round 1 - United States Grand Prix West*
+   *[1981 Round 1 - United States Grand Prix West](../results/1981-season-report.md#round-1-united-states-grand-prix-west)*
 
 📉 **Lowest ELO**: 1414
-   *1983 Round 5 - Monaco Grand Prix*
+   *[1983 Round 5 - Monaco Grand Prix](../results/1983-season-report.md#round-5-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1446
 
 🏆 **Peak ELO**: 1531
-   *1981 Round 7 - Spanish Grand Prix*
+   *[1981 Round 7 - Spanish Grand Prix](../results/1981-season-report.md#round-7-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1446
-   *1983 Round 4 - San Marino Grand Prix*
+   *[1983 Round 4 - San Marino Grand Prix](../results/1983-season-report.md#round-4-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1436
 
 🏆 **Peak ELO**: 1500
-   *1981 Round 7 - Spanish Grand Prix*
+   *[1981 Round 7 - Spanish Grand Prix](../results/1981-season-report.md#round-7-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1436
-   *1983 Round 5 - Monaco Grand Prix*
+   *[1983 Round 5 - Monaco Grand Prix](../results/1983-season-report.md#round-5-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

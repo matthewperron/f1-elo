@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1289
 
 🏆 **Peak ELO**: 1480
-   *2001 Round 15 - Italian Grand Prix*
+   *[2001 Round 15 - Italian Grand Prix](../results/2001-season-report.md#round-15-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1289
-   *2002 Round 17 - Japanese Grand Prix*
+   *[2002 Round 17 - Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1418
 
 🏆 **Peak ELO**: 1471
-   *2001 Round 17 - Japanese Grand Prix*
+   *[2001 Round 17 - Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1418
-   *2002 Round 8 - Canadian Grand Prix*
+   *[2002 Round 8 - Canadian Grand Prix](../results/2002-season-report.md#round-8-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1379
 
 🏆 **Peak ELO**: 1494
-   *2001 Round 15 - Italian Grand Prix*
+   *[2001 Round 15 - Italian Grand Prix](../results/2001-season-report.md#round-15-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1379
-   *2002 Round 17 - Japanese Grand Prix*
+   *[2002 Round 17 - Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

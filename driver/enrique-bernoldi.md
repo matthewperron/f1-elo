@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1437
 
 🏆 **Peak ELO**: 1544
-   *2001 Round 6 - Austrian Grand Prix*
+   *[2001 Round 6 - Austrian Grand Prix](../results/2001-season-report.md#round-6-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1423
-   *2001 Round 11 - British Grand Prix*
+   *[2001 Round 11 - British Grand Prix](../results/2001-season-report.md#round-11-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1550
 
 🏆 **Peak ELO**: 1550
-   *2002 Round 9 - European Grand Prix*
+   *[2002 Round 9 - European Grand Prix](../results/2002-season-report.md#round-9-european-grand-prix)*
 
 📉 **Lowest ELO**: 1453
-   *2001 Round 11 - British Grand Prix*
+   *[2001 Round 11 - British Grand Prix](../results/2001-season-report.md#round-11-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1516
 
 🏆 **Peak ELO**: 1523
-   *2002 Round 9 - European Grand Prix*
+   *[2002 Round 9 - European Grand Prix](../results/2002-season-report.md#round-9-european-grand-prix)*
 
 📉 **Lowest ELO**: 1444
-   *2001 Round 11 - British Grand Prix*
+   *[2001 Round 11 - British Grand Prix](../results/2001-season-report.md#round-11-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

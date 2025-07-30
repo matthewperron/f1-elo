@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1459
 
 🏆 **Peak ELO**: 1533
-   *1964 Round 2 - Dutch Grand Prix*
+   *[1964 Round 2 - Dutch Grand Prix](../results/1964-season-report.md#round-2-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1429
-   *1962 Round 2 - Monaco Grand Prix*
+   *[1962 Round 2 - Monaco Grand Prix](../results/1962-season-report.md#round-2-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1961 Round 8 - United States Grand Prix*
+   *[1961 Round 8 - United States Grand Prix](../results/1961-season-report.md#round-8-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1961 Round 8 - United States Grand Prix*
+   *[1961 Round 8 - United States Grand Prix](../results/1961-season-report.md#round-8-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1488
 
 🏆 **Peak ELO**: 1510
-   *1964 Round 2 - Dutch Grand Prix*
+   *[1964 Round 2 - Dutch Grand Prix](../results/1964-season-report.md#round-2-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1456
-   *1962 Round 2 - Monaco Grand Prix*
+   *[1962 Round 2 - Monaco Grand Prix](../results/1962-season-report.md#round-2-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

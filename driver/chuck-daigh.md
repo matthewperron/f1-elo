@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1463
 
 🏆 **Peak ELO**: 1532
-   *1960 Round 4 - Dutch Grand Prix*
+   *[1960 Round 4 - Dutch Grand Prix](../results/1960-season-report.md#round-4-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1463
-   *1960 Round 6 - French Grand Prix*
+   *[1960 Round 6 - French Grand Prix](../results/1960-season-report.md#round-6-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1489
 
 🏆 **Peak ELO**: 1510
-   *1960 Round 4 - Dutch Grand Prix*
+   *[1960 Round 4 - Dutch Grand Prix](../results/1960-season-report.md#round-4-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1489
-   *1960 Round 6 - French Grand Prix*
+   *[1960 Round 6 - French Grand Prix](../results/1960-season-report.md#round-6-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

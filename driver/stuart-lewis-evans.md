@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1497
 
 🏆 **Peak ELO**: 1532
-   *1957 Round 2 - Monaco Grand Prix*
+   *[1957 Round 2 - Monaco Grand Prix](../results/1957-season-report.md#round-2-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1497
-   *1957 Round 4 - French Grand Prix*
+   *[1957 Round 4 - French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1499
 
 🏆 **Peak ELO**: 1510
-   *1957 Round 2 - Monaco Grand Prix*
+   *[1957 Round 2 - Monaco Grand Prix](../results/1957-season-report.md#round-2-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1499
-   *1957 Round 4 - French Grand Prix*
+   *[1957 Round 4 - French Grand Prix](../results/1957-season-report.md#round-4-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

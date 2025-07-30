@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1400
 
 🏆 **Peak ELO**: 1541
-   *2024 Round 17 - Azerbaijan Grand Prix*
+   *[2024 Round 17 - Azerbaijan Grand Prix](../results/2024-season-report.md#round-17-azerbaijan-grand-prix)*
 
 📉 **Lowest ELO**: 1400
-   *2025 Round 13 - Belgian Grand Prix*
+   *[2025 Round 13 - Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1400
 
 🏆 **Peak ELO**: 1488
-   *2024 Round 16 - Italian Grand Prix*
+   *[2024 Round 16 - Italian Grand Prix](../results/2024-season-report.md#round-16-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1400
-   *2025 Round 13 - Belgian Grand Prix*
+   *[2025 Round 13 - Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1400
 
 🏆 **Peak ELO**: 1496
-   *2024 Round 17 - Azerbaijan Grand Prix*
+   *[2024 Round 17 - Azerbaijan Grand Prix](../results/2024-season-report.md#round-17-azerbaijan-grand-prix)*
 
 📉 **Lowest ELO**: 1400
-   *2025 Round 13 - Belgian Grand Prix*
+   *[2025 Round 13 - Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

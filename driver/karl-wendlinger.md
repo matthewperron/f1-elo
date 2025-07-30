@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1440
 
 🏆 **Peak ELO**: 1688
-   *1993 Round 8 - French Grand Prix*
+   *[1993 Round 8 - French Grand Prix](../results/1993-season-report.md#round-8-french-grand-prix)*
 
 📉 **Lowest ELO**: 1434
-   *1991 Round 16 - Australian Grand Prix*
+   *[1991 Round 16 - Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1541
 
 🏆 **Peak ELO**: 1600
-   *1994 Round 3 - San Marino Grand Prix*
+   *[1994 Round 3 - San Marino Grand Prix](../results/1994-season-report.md#round-3-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1467
-   *1992 Round 10 - German Grand Prix*
+   *[1992 Round 10 - German Grand Prix](../results/1992-season-report.md#round-10-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1511
 
 🏆 **Peak ELO**: 1586
-   *1993 Round 8 - French Grand Prix*
+   *[1993 Round 8 - French Grand Prix](../results/1993-season-report.md#round-8-french-grand-prix)*
 
 📉 **Lowest ELO**: 1458
-   *1991 Round 16 - Australian Grand Prix*
+   *[1991 Round 16 - Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

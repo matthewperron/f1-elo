@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1448
 
 🏆 **Peak ELO**: 1583
-   *1984 Round 5 - French Grand Prix*
+   *[1984 Round 5 - French Grand Prix](../results/1984-season-report.md#round-5-french-grand-prix)*
 
 📉 **Lowest ELO**: 1437
-   *1985 Round 8 - British Grand Prix*
+   *[1985 Round 8 - British Grand Prix](../results/1985-season-report.md#round-8-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1529
 
 🏆 **Peak ELO**: 1529
-   *1985 Round 5 - Canadian Grand Prix*
+   *[1985 Round 5 - Canadian Grand Prix](../results/1985-season-report.md#round-5-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1529
-   *1985 Round 5 - Canadian Grand Prix*
+   *[1985 Round 5 - Canadian Grand Prix](../results/1985-season-report.md#round-5-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1504
 
 🏆 **Peak ELO**: 1532
-   *1985 Round 5 - Canadian Grand Prix*
+   *[1985 Round 5 - Canadian Grand Prix](../results/1985-season-report.md#round-5-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1482
-   *1984 Round 13 - Dutch Grand Prix*
+   *[1984 Round 13 - Dutch Grand Prix](../results/1984-season-report.md#round-13-dutch-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1565
 
 🏆 **Peak ELO**: 1785
-   *2000 Round 14 - Italian Grand Prix*
+   *[2000 Round 14 - Italian Grand Prix](../results/2000-season-report.md#round-14-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1432
-   *2007 Round 14 - Belgian Grand Prix*
+   *[2007 Round 14 - Belgian Grand Prix](../results/2007-season-report.md#round-14-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1454
 
 🏆 **Peak ELO**: 1723
-   *2004 Round 12 - German Grand Prix*
+   *[2004 Round 12 - German Grand Prix](../results/2004-season-report.md#round-12-german-grand-prix)*
 
 📉 **Lowest ELO**: 1368
-   *2007 Round 16 - Chinese Grand Prix*
+   *[2007 Round 16 - Chinese Grand Prix](../results/2007-season-report.md#round-16-chinese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1487
 
 🏆 **Peak ELO**: 1715
-   *2004 Round 13 - Hungarian Grand Prix*
+   *[2004 Round 13 - Hungarian Grand Prix](../results/2004-season-report.md#round-13-hungarian-grand-prix)*
 
 📉 **Lowest ELO**: 1393
-   *2007 Round 16 - Chinese Grand Prix*
+   *[2007 Round 16 - Chinese Grand Prix](../results/2007-season-report.md#round-16-chinese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

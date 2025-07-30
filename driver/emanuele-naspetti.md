@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1429
 
 🏆 **Peak ELO**: 1468
-   *1992 Round 12 - Belgian Grand Prix*
+   *[1992 Round 12 - Belgian Grand Prix](../results/1992-season-report.md#round-12-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1396
-   *1992 Round 15 - Japanese Grand Prix*
+   *[1992 Round 15 - Japanese Grand Prix](../results/1992-season-report.md#round-15-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1465
 
 🏆 **Peak ELO**: 1465
-   *1992 Round 12 - Belgian Grand Prix*
+   *[1992 Round 12 - Belgian Grand Prix](../results/1992-season-report.md#round-12-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1465
-   *1992 Round 12 - Belgian Grand Prix*
+   *[1992 Round 12 - Belgian Grand Prix](../results/1992-season-report.md#round-12-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1454
 
 🏆 **Peak ELO**: 1466
-   *1992 Round 12 - Belgian Grand Prix*
+   *[1992 Round 12 - Belgian Grand Prix](../results/1992-season-report.md#round-12-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1444
-   *1992 Round 15 - Japanese Grand Prix*
+   *[1992 Round 15 - Japanese Grand Prix](../results/1992-season-report.md#round-15-japanese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

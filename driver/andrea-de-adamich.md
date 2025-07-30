@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1444
 
 🏆 **Peak ELO**: 1505
-   *1971 Round 7 - German Grand Prix*
+   *[1971 Round 7 - German Grand Prix](../results/1971-season-report.md#round-7-german-grand-prix)*
 
 📉 **Lowest ELO**: 1444
-   *1972 Round 11 - Canadian Grand Prix*
+   *[1972 Round 11 - Canadian Grand Prix](../results/1972-season-report.md#round-11-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1484
 
 🏆 **Peak ELO**: 1502
-   *1971 Round 7 - German Grand Prix*
+   *[1971 Round 7 - German Grand Prix](../results/1971-season-report.md#round-7-german-grand-prix)*
 
 📉 **Lowest ELO**: 1484
-   *1972 Round 11 - Canadian Grand Prix*
+   *[1972 Round 11 - Canadian Grand Prix](../results/1972-season-report.md#round-11-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

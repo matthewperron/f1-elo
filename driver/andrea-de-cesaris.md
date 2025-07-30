@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1492
 
 🏆 **Peak ELO**: 1828
-   *1985 Round 5 - Canadian Grand Prix*
+   *[1985 Round 5 - Canadian Grand Prix](../results/1985-season-report.md#round-5-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1342
-   *1981 Round 11 - Austrian Grand Prix*
+   *[1981 Round 11 - Austrian Grand Prix](../results/1981-season-report.md#round-11-austrian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1583
 
 🏆 **Peak ELO**: 1628
-   *1992 Round 7 - Canadian Grand Prix*
+   *[1992 Round 7 - Canadian Grand Prix](../results/1992-season-report.md#round-7-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1450
-   *1981 Round 11 - Austrian Grand Prix*
+   *[1981 Round 11 - Austrian Grand Prix](../results/1981-season-report.md#round-11-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1556
 
 🏆 **Peak ELO**: 1653
-   *1992 Round 9 - British Grand Prix*
+   *[1992 Round 9 - British Grand Prix](../results/1992-season-report.md#round-9-british-grand-prix)*
 
 📉 **Lowest ELO**: 1418
-   *1981 Round 11 - Austrian Grand Prix*
+   *[1981 Round 11 - Austrian Grand Prix](../results/1981-season-report.md#round-11-austrian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

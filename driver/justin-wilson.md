@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1414
 
 🏆 **Peak ELO**: 1559
-   *2003 Round 6 - Austrian Grand Prix*
+   *[2003 Round 6 - Austrian Grand Prix](../results/2003-season-report.md#round-6-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1414
-   *2003 Round 16 - Japanese Grand Prix*
+   *[2003 Round 16 - Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1493
 
 🏆 **Peak ELO**: 1558
-   *2003 Round 9 - European Grand Prix*
+   *[2003 Round 9 - European Grand Prix](../results/2003-season-report.md#round-9-european-grand-prix)*
 
 📉 **Lowest ELO**: 1493
-   *2003 Round 16 - Japanese Grand Prix*
+   *[2003 Round 16 - Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1469
 
 🏆 **Peak ELO**: 1540
-   *2003 Round 6 - Austrian Grand Prix*
+   *[2003 Round 6 - Austrian Grand Prix](../results/2003-season-report.md#round-6-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1469
-   *2003 Round 16 - Japanese Grand Prix*
+   *[2003 Round 16 - Japanese Grand Prix](../results/2003-season-report.md#round-16-japanese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1386
 
 🏆 **Peak ELO**: 1452
-   *1989 Round 15 - Japanese Grand Prix*
+   *[1989 Round 15 - Japanese Grand Prix](../results/1989-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1386
-   *1990 Round 11 - Belgian Grand Prix*
+   *[1990 Round 11 - Belgian Grand Prix](../results/1990-season-report.md#round-11-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1479
 
 🏆 **Peak ELO**: 1479
-   *1990 Round 6 - Mexican Grand Prix*
+   *[1990 Round 6 - Mexican Grand Prix](../results/1990-season-report.md#round-6-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1479
-   *1990 Round 6 - Mexican Grand Prix*
+   *[1990 Round 6 - Mexican Grand Prix](../results/1990-season-report.md#round-6-mexican-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1452
 
 🏆 **Peak ELO**: 1486
-   *1989 Round 15 - Japanese Grand Prix*
+   *[1989 Round 15 - Japanese Grand Prix](../results/1989-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1452
-   *1990 Round 11 - Belgian Grand Prix*
+   *[1990 Round 11 - Belgian Grand Prix](../results/1990-season-report.md#round-11-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

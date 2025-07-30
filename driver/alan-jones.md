@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1434
 
 🏆 **Peak ELO**: 1756
-   *1981 Round 1 - United States Grand Prix West*
+   *[1981 Round 1 - United States Grand Prix West](../results/1981-season-report.md#round-1-united-states-grand-prix-west)*
 
 📉 **Lowest ELO**: 1363
-   *1975 Round 11 - German Grand Prix*
+   *[1975 Round 11 - German Grand Prix](../results/1975-season-report.md#round-11-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1504
 
 🏆 **Peak ELO**: 1592
-   *1980 Round 7 - French Grand Prix*
+   *[1980 Round 7 - French Grand Prix](../results/1980-season-report.md#round-7-french-grand-prix)*
 
 📉 **Lowest ELO**: 1416
-   *1981 Round 7 - Spanish Grand Prix*
+   *[1981 Round 7 - Spanish Grand Prix](../results/1981-season-report.md#round-7-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1482
 
 🏆 **Peak ELO**: 1631
-   *1980 Round 7 - French Grand Prix*
+   *[1980 Round 7 - French Grand Prix](../results/1980-season-report.md#round-7-french-grand-prix)*
 
 📉 **Lowest ELO**: 1436
-   *1975 Round 11 - German Grand Prix*
+   *[1975 Round 11 - German Grand Prix](../results/1975-season-report.md#round-11-german-grand-prix)*
 
 
 ## Complete Race-by-Race Results

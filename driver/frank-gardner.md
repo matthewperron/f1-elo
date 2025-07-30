@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1402
 
 🏆 **Peak ELO**: 1476
-   *1965 Round 1 - South African Grand Prix*
+   *[1965 Round 1 - South African Grand Prix](../results/1965-season-report.md#round-1-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1402
-   *1965 Round 8 - Italian Grand Prix*
+   *[1965 Round 8 - Italian Grand Prix](../results/1965-season-report.md#round-8-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1470
 
 🏆 **Peak ELO**: 1493
-   *1965 Round 1 - South African Grand Prix*
+   *[1965 Round 1 - South African Grand Prix](../results/1965-season-report.md#round-1-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1470
-   *1965 Round 8 - Italian Grand Prix*
+   *[1965 Round 8 - Italian Grand Prix](../results/1965-season-report.md#round-8-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

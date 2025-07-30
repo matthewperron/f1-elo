@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1394
 
 🏆 **Peak ELO**: 1484
-   *1984 Round 12 - Austrian Grand Prix*
+   *[1984 Round 12 - Austrian Grand Prix](../results/1984-season-report.md#round-12-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1394
-   *1984 Round 16 - Portuguese Grand Prix*
+   *[1984 Round 16 - Portuguese Grand Prix](../results/1984-season-report.md#round-16-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1495
-   *1984 Round 12 - Austrian Grand Prix*
+   *[1984 Round 12 - Austrian Grand Prix](../results/1984-season-report.md#round-12-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1984 Round 16 - Portuguese Grand Prix*
+   *[1984 Round 16 - Portuguese Grand Prix](../results/1984-season-report.md#round-16-portuguese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

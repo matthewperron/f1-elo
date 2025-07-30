@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1473
 
 🏆 **Peak ELO**: 1598
-   *1995 Round 4 - Spanish Grand Prix*
+   *[1995 Round 4 - Spanish Grand Prix](../results/1995-season-report.md#round-4-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1429
-   *1995 Round 16 - Japanese Grand Prix*
+   *[1995 Round 16 - Japanese Grand Prix](../results/1995-season-report.md#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1482
-   *1990 Round 15 - Japanese Grand Prix*
+   *[1990 Round 15 - Japanese Grand Prix](../results/1990-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1419
-   *1991 Round 13 - Portuguese Grand Prix*
+   *[1991 Round 13 - Portuguese Grand Prix](../results/1991-season-report.md#round-13-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1470
 
 🏆 **Peak ELO**: 1529
-   *1995 Round 4 - Spanish Grand Prix*
+   *[1995 Round 4 - Spanish Grand Prix](../results/1995-season-report.md#round-4-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1440
-   *1991 Round 16 - Australian Grand Prix*
+   *[1991 Round 16 - Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

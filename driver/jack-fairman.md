@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1436
 
 🏆 **Peak ELO**: 1468
-   *1957 Round 5 - British Grand Prix*
+   *[1957 Round 5 - British Grand Prix](../results/1957-season-report.md#round-5-british-grand-prix)*
 
 📉 **Lowest ELO**: 1436
-   *1958 Round 7 - British Grand Prix*
+   *[1958 Round 7 - British Grand Prix](../results/1958-season-report.md#round-7-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1480
 
 🏆 **Peak ELO**: 1490
-   *1957 Round 5 - British Grand Prix*
+   *[1957 Round 5 - British Grand Prix](../results/1957-season-report.md#round-5-british-grand-prix)*
 
 📉 **Lowest ELO**: 1480
-   *1958 Round 7 - British Grand Prix*
+   *[1958 Round 7 - British Grand Prix](../results/1958-season-report.md#round-7-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

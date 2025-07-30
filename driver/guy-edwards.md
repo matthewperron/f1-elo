@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1467
 
 🏆 **Peak ELO**: 1530
-   *1976 Round 8 - French Grand Prix*
+   *[1976 Round 8 - French Grand Prix](../results/1976-season-report.md#round-8-french-grand-prix)*
 
 📉 **Lowest ELO**: 1451
-   *1974 Round 7 - Swedish Grand Prix*
+   *[1974 Round 7 - Swedish Grand Prix](../results/1974-season-report.md#round-7-swedish-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1379
 
 🏆 **Peak ELO**: 1460
-   *1974 Round 5 - Belgian Grand Prix*
+   *[1974 Round 5 - Belgian Grand Prix](../results/1974-season-report.md#round-5-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1379
-   *1974 Round 9 - French Grand Prix*
+   *[1974 Round 9 - French Grand Prix](../results/1974-season-report.md#round-9-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1509
-   *1976 Round 8 - French Grand Prix*
+   *[1976 Round 8 - French Grand Prix](../results/1976-season-report.md#round-8-french-grand-prix)*
 
 📉 **Lowest ELO**: 1415
-   *1974 Round 7 - Swedish Grand Prix*
+   *[1974 Round 7 - Swedish Grand Prix](../results/1974-season-report.md#round-7-swedish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1516
 
 🏆 **Peak ELO**: 1824
-   *2020 Round 16 - Sakhir Grand Prix*
+   *[2020 Round 16 - Sakhir Grand Prix](../results/2020-season-report.md#round-16-sakhir-grand-prix)*
 
 📉 **Lowest ELO**: 1443
-   *2024 Round 4 - Japanese Grand Prix*
+   *[2024 Round 4 - Japanese Grand Prix](../results/2024-season-report.md#round-4-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1536
 
 🏆 **Peak ELO**: 1817
-   *2014 Round 13 - Italian Grand Prix*
+   *[2014 Round 13 - Italian Grand Prix](../results/2014-season-report.md#round-13-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1422
-   *2012 Round 5 - Spanish Grand Prix*
+   *[2012 Round 5 - Spanish Grand Prix](../results/2012-season-report.md#round-5-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1529
 
 🏆 **Peak ELO**: 1795
-   *2014 Round 17 - United States Grand Prix*
+   *[2014 Round 17 - United States Grand Prix](../results/2014-season-report.md#round-17-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1451
-   *2022 Round 19 - United States Grand Prix*
+   *[2022 Round 19 - United States Grand Prix](../results/2022-season-report.md#round-19-united-states-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1953 Round 3 - Dutch Grand Prix*
+   *[1953 Round 3 - Dutch Grand Prix](../results/1953-season-report.md#round-3-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1953 Round 3 - Dutch Grand Prix*
+   *[1953 Round 3 - Dutch Grand Prix](../results/1953-season-report.md#round-3-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1953 Round 3 - Dutch Grand Prix*
+   *[1953 Round 3 - Dutch Grand Prix](../results/1953-season-report.md#round-3-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1953 Round 3 - Dutch Grand Prix*
+   *[1953 Round 3 - Dutch Grand Prix](../results/1953-season-report.md#round-3-dutch-grand-prix)*
 
 
 ## Complete Race-by-Race Results

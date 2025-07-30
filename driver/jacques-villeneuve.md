@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1657
 
 🏆 **Peak ELO**: 1819
-   *2001 Round 2 - Malaysian Grand Prix*
+   *[2001 Round 2 - Malaysian Grand Prix](../results/2001-season-report.md#round-2-malaysian-grand-prix)*
 
 📉 **Lowest ELO**: 1312
-   *1996 Round 12 - Hungarian Grand Prix*
+   *[1996 Round 12 - Hungarian Grand Prix](../results/1996-season-report.md#round-12-hungarian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1411
 
 🏆 **Peak ELO**: 1731
-   *2001 Round 17 - Japanese Grand Prix*
+   *[2001 Round 17 - Japanese Grand Prix](../results/2001-season-report.md#round-17-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1371
-   *2006 Round 3 - Australian Grand Prix*
+   *[2006 Round 3 - Australian Grand Prix](../results/2006-season-report.md#round-3-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1483
 
 🏆 **Peak ELO**: 1756
-   *2001 Round 2 - Malaysian Grand Prix*
+   *[2001 Round 2 - Malaysian Grand Prix](../results/2001-season-report.md#round-2-malaysian-grand-prix)*
 
 📉 **Lowest ELO**: 1389
-   *1996 Round 11 - German Grand Prix*
+   *[1996 Round 11 - German Grand Prix](../results/1996-season-report.md#round-11-german-grand-prix)*
 
 
 ## Complete Race-by-Race Results

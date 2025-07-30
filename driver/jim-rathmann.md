@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1957 Round 3 - Indianapolis 500*
+   *[1957 Round 3 - Indianapolis 500](../results/1957-season-report.md#round-3-indianapolis-500)*
 
 📉 **Lowest ELO**: 1468
-   *1957 Round 3 - Indianapolis 500*
+   *[1957 Round 3 - Indianapolis 500](../results/1957-season-report.md#round-3-indianapolis-500)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1957 Round 3 - Indianapolis 500*
+   *[1957 Round 3 - Indianapolis 500](../results/1957-season-report.md#round-3-indianapolis-500)*
 
 📉 **Lowest ELO**: 1468
-   *1957 Round 3 - Indianapolis 500*
+   *[1957 Round 3 - Indianapolis 500](../results/1957-season-report.md#round-3-indianapolis-500)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1957 Round 3 - Indianapolis 500*
+   *[1957 Round 3 - Indianapolis 500](../results/1957-season-report.md#round-3-indianapolis-500)*
 
 📉 **Lowest ELO**: 1468
-   *1957 Round 3 - Indianapolis 500*
+   *[1957 Round 3 - Indianapolis 500](../results/1957-season-report.md#round-3-indianapolis-500)*
 
 
 ## Complete Race-by-Race Results

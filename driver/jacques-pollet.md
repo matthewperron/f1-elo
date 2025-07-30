@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1527
 
 🏆 **Peak ELO**: 1527
-   *1954 Round 9 - Spanish Grand Prix*
+   *[1954 Round 9 - Spanish Grand Prix](../results/1954-season-report.md#round-9-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1527
-   *1954 Round 9 - Spanish Grand Prix*
+   *[1954 Round 9 - Spanish Grand Prix](../results/1954-season-report.md#round-9-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1508
 
 🏆 **Peak ELO**: 1508
-   *1954 Round 9 - Spanish Grand Prix*
+   *[1954 Round 9 - Spanish Grand Prix](../results/1954-season-report.md#round-9-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1508
-   *1954 Round 9 - Spanish Grand Prix*
+   *[1954 Round 9 - Spanish Grand Prix](../results/1954-season-report.md#round-9-spanish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

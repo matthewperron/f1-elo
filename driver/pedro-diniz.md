@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1416
 
 🏆 **Peak ELO**: 1571
-   *1995 Round 16 - Japanese Grand Prix*
+   *[1995 Round 16 - Japanese Grand Prix](../results/1995-season-report.md#round-16-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1248
-   *1997 Round 7 - Canadian Grand Prix*
+   *[1997 Round 7 - Canadian Grand Prix](../results/1997-season-report.md#round-7-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1399
 
 🏆 **Peak ELO**: 1555
-   *1997 Round 15 - Luxembourg Grand Prix*
+   *[1997 Round 15 - Luxembourg Grand Prix](../results/1997-season-report.md#round-15-luxembourg-grand-prix)*
 
 📉 **Lowest ELO**: 1399
-   *2000 Round 16 - Japanese Grand Prix*
+   *[2000 Round 16 - Japanese Grand Prix](../results/2000-season-report.md#round-16-japanese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1406
 
 🏆 **Peak ELO**: 1543
-   *1995 Round 16 - Japanese Grand Prix*
+   *[1995 Round 16 - Japanese Grand Prix](../results/1995-season-report.md#round-16-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1406
-   *2000 Round 17 - Malaysian Grand Prix*
+   *[2000 Round 17 - Malaysian Grand Prix](../results/2000-season-report.md#round-17-malaysian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

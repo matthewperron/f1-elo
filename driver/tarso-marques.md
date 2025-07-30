@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1359
 
 🏆 **Peak ELO**: 1506
-   *2001 Round 2 - Malaysian Grand Prix*
+   *[2001 Round 2 - Malaysian Grand Prix](../results/2001-season-report.md#round-2-malaysian-grand-prix)*
 
 📉 **Lowest ELO**: 1352
-   *1997 Round 13 - Italian Grand Prix*
+   *[1997 Round 13 - Italian Grand Prix](../results/1997-season-report.md#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1491
-   *1997 Round 17 - European Grand Prix*
+   *[1997 Round 17 - European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix)*
 
 📉 **Lowest ELO**: 1460
-   *1997 Round 11 - Hungarian Grand Prix*
+   *[1997 Round 11 - Hungarian Grand Prix](../results/1997-season-report.md#round-11-hungarian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1436
 
 🏆 **Peak ELO**: 1502
-   *2001 Round 2 - Malaysian Grand Prix*
+   *[2001 Round 2 - Malaysian Grand Prix](../results/2001-season-report.md#round-2-malaysian-grand-prix)*
 
 📉 **Lowest ELO**: 1428
-   *1997 Round 13 - Italian Grand Prix*
+   *[1997 Round 13 - Italian Grand Prix](../results/1997-season-report.md#round-13-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

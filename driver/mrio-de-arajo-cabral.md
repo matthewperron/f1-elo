@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1471
 
 🏆 **Peak ELO**: 1471
-   *1960 Round 8 - Portuguese Grand Prix*
+   *[1960 Round 8 - Portuguese Grand Prix](../results/1960-season-report.md#round-8-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1471
-   *1960 Round 8 - Portuguese Grand Prix*
+   *[1960 Round 8 - Portuguese Grand Prix](../results/1960-season-report.md#round-8-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1491
 
 🏆 **Peak ELO**: 1491
-   *1960 Round 8 - Portuguese Grand Prix*
+   *[1960 Round 8 - Portuguese Grand Prix](../results/1960-season-report.md#round-8-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1491
-   *1960 Round 8 - Portuguese Grand Prix*
+   *[1960 Round 8 - Portuguese Grand Prix](../results/1960-season-report.md#round-8-portuguese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

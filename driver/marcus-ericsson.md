@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1411
 
 🏆 **Peak ELO**: 1653
-   *2017 Round 18 - Mexican Grand Prix*
+   *[2017 Round 18 - Mexican Grand Prix](../results/2017-season-report.md#round-18-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1368
-   *2018 Round 19 - Mexican Grand Prix*
+   *[2018 Round 19 - Mexican Grand Prix](../results/2018-season-report.md#round-19-mexican-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1389
 
 🏆 **Peak ELO**: 1593
-   *2016 Round 7 - Canadian Grand Prix*
+   *[2016 Round 7 - Canadian Grand Prix](../results/2016-season-report.md#round-7-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1356
-   *2015 Round 6 - Monaco Grand Prix*
+   *[2015 Round 6 - Monaco Grand Prix](../results/2015-season-report.md#round-6-monaco-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1398
 
 🏆 **Peak ELO**: 1575
-   *2017 Round 7 - Canadian Grand Prix*
+   *[2017 Round 7 - Canadian Grand Prix](../results/2017-season-report.md#round-7-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1364
-   *2015 Round 6 - Monaco Grand Prix*
+   *[2015 Round 6 - Monaco Grand Prix](../results/2015-season-report.md#round-6-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

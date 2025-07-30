@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1616
 
 🏆 **Peak ELO**: 2030
-   *2011 Round 10 - German Grand Prix*
+   *[2011 Round 10 - German Grand Prix](../results/2011-season-report.md#round-10-german-grand-prix)*
 
 📉 **Lowest ELO**: 1404
-   *2021 Round 5 - Monaco Grand Prix*
+   *[2021 Round 5 - Monaco Grand Prix](../results/2021-season-report.md#round-5-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1581
 
 🏆 **Peak ELO**: 2070
-   *2013 Round 15 - Japanese Grand Prix*
+   *[2013 Round 15 - Japanese Grand Prix](../results/2013-season-report.md#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1399
-   *2021 Round 5 - Monaco Grand Prix*
+   *[2021 Round 5 - Monaco Grand Prix](../results/2021-season-report.md#round-5-monaco-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1593
 
 🏆 **Peak ELO**: 2027
-   *2012 Round 19 - United States Grand Prix*
+   *[2012 Round 19 - United States Grand Prix](../results/2012-season-report.md#round-19-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1400
-   *2021 Round 5 - Monaco Grand Prix*
+   *[2021 Round 5 - Monaco Grand Prix](../results/2021-season-report.md#round-5-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1488
 
 🏆 **Peak ELO**: 1488
-   *1975 Round 13 - Italian Grand Prix*
+   *[1975 Round 13 - Italian Grand Prix](../results/1975-season-report.md#round-13-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1488
-   *1975 Round 13 - Italian Grand Prix*
+   *[1975 Round 13 - Italian Grand Prix](../results/1975-season-report.md#round-13-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1496
 
 🏆 **Peak ELO**: 1496
-   *1975 Round 13 - Italian Grand Prix*
+   *[1975 Round 13 - Italian Grand Prix](../results/1975-season-report.md#round-13-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1496
-   *1975 Round 13 - Italian Grand Prix*
+   *[1975 Round 13 - Italian Grand Prix](../results/1975-season-report.md#round-13-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

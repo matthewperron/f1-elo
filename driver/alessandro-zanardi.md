@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1521
 
 🏆 **Peak ELO**: 1551
-   *1999 Round 7 - French Grand Prix*
+   *[1999 Round 7 - French Grand Prix](../results/1999-season-report.md#round-7-french-grand-prix)*
 
 📉 **Lowest ELO**: 1318
-   *1994 Round 7 - French Grand Prix*
+   *[1994 Round 7 - French Grand Prix](../results/1994-season-report.md#round-7-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1408
 
 🏆 **Peak ELO**: 1475
-   *1991 Round 16 - Australian Grand Prix*
+   *[1991 Round 16 - Australian Grand Prix](../results/1991-season-report.md#round-16-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1408
-   *1999 Round 13 - Italian Grand Prix*
+   *[1999 Round 13 - Italian Grand Prix](../results/1999-season-report.md#round-13-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1442
 
 🏆 **Peak ELO**: 1515
-   *1999 Round 7 - French Grand Prix*
+   *[1999 Round 7 - French Grand Prix](../results/1999-season-report.md#round-7-french-grand-prix)*
 
 📉 **Lowest ELO**: 1385
-   *1994 Round 7 - French Grand Prix*
+   *[1994 Round 7 - French Grand Prix](../results/1994-season-report.md#round-7-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

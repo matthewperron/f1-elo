@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1340
 
 🏆 **Peak ELO**: 1742
-   *2006 Round 1 - Bahrain Grand Prix*
+   *[2006 Round 1 - Bahrain Grand Prix](../results/2006-season-report.md#round-1-bahrain-grand-prix)*
 
 📉 **Lowest ELO**: 1328
-   *2011 Round 6 - Monaco Grand Prix*
+   *[2011 Round 6 - Monaco Grand Prix](../results/2011-season-report.md#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1569
 
 🏆 **Peak ELO**: 1711
-   *2006 Round 3 - Australian Grand Prix*
+   *[2006 Round 3 - Australian Grand Prix](../results/2006-season-report.md#round-3-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1477
-   *2008 Round 8 - French Grand Prix*
+   *[2008 Round 8 - French Grand Prix](../results/2008-season-report.md#round-8-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1497
 
 🏆 **Peak ELO**: 1714
-   *2006 Round 1 - Bahrain Grand Prix*
+   *[2006 Round 1 - Bahrain Grand Prix](../results/2006-season-report.md#round-1-bahrain-grand-prix)*
 
 📉 **Lowest ELO**: 1454
-   *2011 Round 3 - Chinese Grand Prix*
+   *[2011 Round 3 - Chinese Grand Prix](../results/2011-season-report.md#round-3-chinese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

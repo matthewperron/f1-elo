@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1411
 
 🏆 **Peak ELO**: 1671
-   *1989 Round 16 - Australian Grand Prix*
+   *[1989 Round 16 - Australian Grand Prix](../results/1989-season-report.md#round-16-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1372
-   *1992 Round 9 - British Grand Prix*
+   *[1992 Round 9 - British Grand Prix](../results/1992-season-report.md#round-9-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1477
 
 🏆 **Peak ELO**: 1528
-   *1989 Round 4 - Mexican Grand Prix*
+   *[1989 Round 4 - Mexican Grand Prix](../results/1989-season-report.md#round-4-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1477
-   *1992 Round 7 - Canadian Grand Prix*
+   *[1992 Round 7 - Canadian Grand Prix](../results/1992-season-report.md#round-7-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1458
 
 🏆 **Peak ELO**: 1571
-   *1989 Round 16 - Australian Grand Prix*
+   *[1989 Round 16 - Australian Grand Prix](../results/1989-season-report.md#round-16-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1446
-   *1992 Round 9 - British Grand Prix*
+   *[1992 Round 9 - British Grand Prix](../results/1992-season-report.md#round-9-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

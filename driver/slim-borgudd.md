@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1389
 
 🏆 **Peak ELO**: 1468
-   *1981 Round 4 - San Marino Grand Prix*
+   *[1981 Round 4 - San Marino Grand Prix](../results/1981-season-report.md#round-4-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1389
-   *1982 Round 3 - United States Grand Prix West*
+   *[1982 Round 3 - United States Grand Prix West](../results/1982-season-report.md#round-3-united-states-grand-prix-west)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1463
 
 🏆 **Peak ELO**: 1463
-   *1982 Round 2 - Brazilian Grand Prix*
+   *[1982 Round 2 - Brazilian Grand Prix](../results/1982-season-report.md#round-2-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1463
-   *1982 Round 2 - Brazilian Grand Prix*
+   *[1982 Round 2 - Brazilian Grand Prix](../results/1982-season-report.md#round-2-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1441
 
 🏆 **Peak ELO**: 1490
-   *1981 Round 4 - San Marino Grand Prix*
+   *[1981 Round 4 - San Marino Grand Prix](../results/1981-season-report.md#round-4-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1441
-   *1982 Round 3 - United States Grand Prix West*
+   *[1982 Round 3 - United States Grand Prix West](../results/1982-season-report.md#round-3-united-states-grand-prix-west)*
 
 
 ## Complete Race-by-Race Results

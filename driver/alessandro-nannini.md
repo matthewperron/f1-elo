@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1739
 
 🏆 **Peak ELO**: 1809
-   *1990 Round 12 - Italian Grand Prix*
+   *[1990 Round 12 - Italian Grand Prix](../results/1990-season-report.md#round-12-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1466
-   *1986 Round 2 - Spanish Grand Prix*
+   *[1986 Round 2 - Spanish Grand Prix](../results/1986-season-report.md#round-2-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1614
 
 🏆 **Peak ELO**: 1690
-   *1990 Round 11 - Belgian Grand Prix*
+   *[1990 Round 11 - Belgian Grand Prix](../results/1990-season-report.md#round-11-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1479
-   *1988 Round 2 - San Marino Grand Prix*
+   *[1988 Round 2 - San Marino Grand Prix](../results/1988-season-report.md#round-2-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1651
 
 🏆 **Peak ELO**: 1716
-   *1990 Round 11 - Belgian Grand Prix*
+   *[1990 Round 11 - Belgian Grand Prix](../results/1990-season-report.md#round-11-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1986 Round 2 - Spanish Grand Prix*
+   *[1986 Round 2 - Spanish Grand Prix](../results/1986-season-report.md#round-2-spanish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

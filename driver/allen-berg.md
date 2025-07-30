@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1377
 
 🏆 **Peak ELO**: 1477
-   *1986 Round 7 - Detroit Grand Prix*
+   *[1986 Round 7 - Detroit Grand Prix](../results/1986-season-report.md#round-7-detroit-grand-prix)*
 
 📉 **Lowest ELO**: 1377
-   *1986 Round 16 - Australian Grand Prix*
+   *[1986 Round 16 - Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1463
 
 🏆 **Peak ELO**: 1493
-   *1986 Round 7 - Detroit Grand Prix*
+   *[1986 Round 7 - Detroit Grand Prix](../results/1986-season-report.md#round-7-detroit-grand-prix)*
 
 📉 **Lowest ELO**: 1463
-   *1986 Round 16 - Australian Grand Prix*
+   *[1986 Round 16 - Australian Grand Prix](../results/1986-season-report.md#round-16-australian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

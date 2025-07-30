@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1465
 
 🏆 **Peak ELO**: 1465
-   *1968 Round 7 - British Grand Prix*
+   *[1968 Round 7 - British Grand Prix](../results/1968-season-report.md#round-7-british-grand-prix)*
 
 📉 **Lowest ELO**: 1465
-   *1968 Round 7 - British Grand Prix*
+   *[1968 Round 7 - British Grand Prix](../results/1968-season-report.md#round-7-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1968 Round 7 - British Grand Prix*
+   *[1968 Round 7 - British Grand Prix](../results/1968-season-report.md#round-7-british-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1968 Round 7 - British Grand Prix*
+   *[1968 Round 7 - British Grand Prix](../results/1968-season-report.md#round-7-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

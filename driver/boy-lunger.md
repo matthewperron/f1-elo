@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1472
 
 🏆 **Peak ELO**: 1472
-   *1976 Round 12 - Dutch Grand Prix*
+   *[1976 Round 12 - Dutch Grand Prix](../results/1976-season-report.md#round-12-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1472
-   *1976 Round 12 - Dutch Grand Prix*
+   *[1976 Round 12 - Dutch Grand Prix](../results/1976-season-report.md#round-12-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1492
 
 🏆 **Peak ELO**: 1492
-   *1976 Round 12 - Dutch Grand Prix*
+   *[1976 Round 12 - Dutch Grand Prix](../results/1976-season-report.md#round-12-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1492
-   *1976 Round 12 - Dutch Grand Prix*
+   *[1976 Round 12 - Dutch Grand Prix](../results/1976-season-report.md#round-12-dutch-grand-prix)*
 
 
 ## Complete Race-by-Race Results

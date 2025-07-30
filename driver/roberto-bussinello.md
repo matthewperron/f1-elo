@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1961 Round 7 - Italian Grand Prix*
+   *[1961 Round 7 - Italian Grand Prix](../results/1961-season-report.md#round-7-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1961 Round 7 - Italian Grand Prix*
+   *[1961 Round 7 - Italian Grand Prix](../results/1961-season-report.md#round-7-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1961 Round 7 - Italian Grand Prix*
+   *[1961 Round 7 - Italian Grand Prix](../results/1961-season-report.md#round-7-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1961 Round 7 - Italian Grand Prix*
+   *[1961 Round 7 - Italian Grand Prix](../results/1961-season-report.md#round-7-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

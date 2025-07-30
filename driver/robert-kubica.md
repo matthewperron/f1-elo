@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1451
 
 🏆 **Peak ELO**: 1751
-   *2010 Round 11 - German Grand Prix*
+   *[2010 Round 11 - German Grand Prix](../results/2010-season-report.md#round-11-german-grand-prix)*
 
 📉 **Lowest ELO**: 1371
-   *2019 Round 21 - Abu Dhabi Grand Prix*
+   *[2019 Round 21 - Abu Dhabi Grand Prix](../results/2019-season-report.md#round-21-abu-dhabi-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1453
 
 🏆 **Peak ELO**: 1707
-   *2010 Round 19 - Abu Dhabi Grand Prix*
+   *[2010 Round 19 - Abu Dhabi Grand Prix](../results/2010-season-report.md#round-19-abu-dhabi-grand-prix)*
 
 📉 **Lowest ELO**: 1337
-   *2019 Round 21 - Abu Dhabi Grand Prix*
+   *[2019 Round 21 - Abu Dhabi Grand Prix](../results/2019-season-report.md#round-21-abu-dhabi-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1452
 
 🏆 **Peak ELO**: 1715
-   *2010 Round 18 - Brazilian Grand Prix*
+   *[2010 Round 18 - Brazilian Grand Prix](../results/2010-season-report.md#round-18-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1347
-   *2019 Round 21 - Abu Dhabi Grand Prix*
+   *[2019 Round 21 - Abu Dhabi Grand Prix](../results/2019-season-report.md#round-21-abu-dhabi-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1585
 
 🏆 **Peak ELO**: 1585
-   *2025 Round 13 - Belgian Grand Prix*
+   *[2025 Round 13 - Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1431
-   *2025 Round 5 - Saudi Arabian Grand Prix*
+   *[2025 Round 5 - Saudi Arabian Grand Prix](../results/2025-season-report.md#round-5-saudi-arabian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1483
 
 🏆 **Peak ELO**: 1483
-   *2025 Round 13 - Belgian Grand Prix*
+   *[2025 Round 13 - Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1435
-   *2025 Round 9 - Spanish Grand Prix*
+   *[2025 Round 9 - Spanish Grand Prix](../results/2025-season-report.md#round-9-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1514
 
 🏆 **Peak ELO**: 1514
-   *2025 Round 13 - Belgian Grand Prix*
+   *[2025 Round 13 - Belgian Grand Prix](../results/2025-season-report.md#round-13-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1452
-   *2025 Round 10 - Canadian Grand Prix*
+   *[2025 Round 10 - Canadian Grand Prix](../results/2025-season-report.md#round-10-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

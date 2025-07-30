@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1516
 
 🏆 **Peak ELO**: 1661
-   *2007 Round 2 - Malaysian Grand Prix*
+   *[2007 Round 2 - Malaysian Grand Prix](../results/2007-season-report.md#round-2-malaysian-grand-prix)*
 
 📉 **Lowest ELO**: 1409
-   *2005 Round 19 - Chinese Grand Prix*
+   *[2005 Round 19 - Chinese Grand Prix](../results/2005-season-report.md#round-19-chinese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1467
 
 🏆 **Peak ELO**: 1584
-   *2007 Round 6 - Canadian Grand Prix*
+   *[2007 Round 6 - Canadian Grand Prix](../results/2007-season-report.md#round-6-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1285
-   *2005 Round 17 - Brazilian Grand Prix*
+   *[2005 Round 17 - Brazilian Grand Prix](../results/2005-season-report.md#round-17-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1481
 
 🏆 **Peak ELO**: 1594
-   *2007 Round 6 - Canadian Grand Prix*
+   *[2007 Round 6 - Canadian Grand Prix](../results/2007-season-report.md#round-6-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1321
-   *2005 Round 19 - Chinese Grand Prix*
+   *[2005 Round 19 - Chinese Grand Prix](../results/2005-season-report.md#round-19-chinese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

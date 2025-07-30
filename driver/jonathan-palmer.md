@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1411
 
 🏆 **Peak ELO**: 1698
-   *1987 Round 1 - Brazilian Grand Prix*
+   *[1987 Round 1 - Brazilian Grand Prix](../results/1987-season-report.md#round-1-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1411
-   *1989 Round 15 - Japanese Grand Prix*
+   *[1989 Round 15 - Japanese Grand Prix](../results/1989-season-report.md#round-15-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1463
 
 🏆 **Peak ELO**: 1570
-   *1989 Round 1 - Brazilian Grand Prix*
+   *[1989 Round 1 - Brazilian Grand Prix](../results/1989-season-report.md#round-1-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1455
-   *1987 Round 11 - Italian Grand Prix*
+   *[1987 Round 11 - Italian Grand Prix](../results/1987-season-report.md#round-11-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1447
 
 🏆 **Peak ELO**: 1592
-   *1989 Round 1 - Brazilian Grand Prix*
+   *[1989 Round 1 - Brazilian Grand Prix](../results/1989-season-report.md#round-1-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1447
-   *1989 Round 15 - Japanese Grand Prix*
+   *[1989 Round 15 - Japanese Grand Prix](../results/1989-season-report.md#round-15-japanese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

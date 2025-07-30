@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1958 Round 9 - Portuguese Grand Prix*
+   *[1958 Round 9 - Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1956 Round 2 - Monaco Grand Prix*
+   *[1956 Round 2 - Monaco Grand Prix](../results/1956-season-report.md#round-2-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1958 Round 9 - Portuguese Grand Prix*
+   *[1958 Round 9 - Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1958 Round 9 - Portuguese Grand Prix*
+   *[1958 Round 9 - Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1958 Round 9 - Portuguese Grand Prix*
+   *[1958 Round 9 - Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1956 Round 2 - Monaco Grand Prix*
+   *[1956 Round 2 - Monaco Grand Prix](../results/1956-season-report.md#round-2-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

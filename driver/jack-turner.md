@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1529
 
 🏆 **Peak ELO**: 1529
-   *1958 Round 4 - Indianapolis 500*
+   *[1958 Round 4 - Indianapolis 500](../results/1958-season-report.md#round-4-indianapolis-500)*
 
 📉 **Lowest ELO**: 1529
-   *1958 Round 4 - Indianapolis 500*
+   *[1958 Round 4 - Indianapolis 500](../results/1958-season-report.md#round-4-indianapolis-500)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1509
 
 🏆 **Peak ELO**: 1509
-   *1958 Round 4 - Indianapolis 500*
+   *[1958 Round 4 - Indianapolis 500](../results/1958-season-report.md#round-4-indianapolis-500)*
 
 📉 **Lowest ELO**: 1509
-   *1958 Round 4 - Indianapolis 500*
+   *[1958 Round 4 - Indianapolis 500](../results/1958-season-report.md#round-4-indianapolis-500)*
 
 
 ## Complete Race-by-Race Results

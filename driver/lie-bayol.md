@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1558
 
 🏆 **Peak ELO**: 1558
-   *1953 Round 9 - Italian Grand Prix*
+   *[1953 Round 9 - Italian Grand Prix](../results/1953-season-report.md#round-9-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1953 Round 5 - French Grand Prix*
+   *[1953 Round 5 - French Grand Prix](../results/1953-season-report.md#round-5-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1517
 
 🏆 **Peak ELO**: 1517
-   *1953 Round 9 - Italian Grand Prix*
+   *[1953 Round 9 - Italian Grand Prix](../results/1953-season-report.md#round-9-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1953 Round 5 - French Grand Prix*
+   *[1953 Round 5 - French Grand Prix](../results/1953-season-report.md#round-5-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

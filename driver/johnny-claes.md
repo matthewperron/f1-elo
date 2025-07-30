@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1952 Round 4 - French Grand Prix*
+   *[1952 Round 4 - French Grand Prix](../results/1952-season-report.md#round-4-french-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1952 Round 4 - French Grand Prix*
+   *[1952 Round 4 - French Grand Prix](../results/1952-season-report.md#round-4-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1952 Round 4 - French Grand Prix*
+   *[1952 Round 4 - French Grand Prix](../results/1952-season-report.md#round-4-french-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1952 Round 4 - French Grand Prix*
+   *[1952 Round 4 - French Grand Prix](../results/1952-season-report.md#round-4-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

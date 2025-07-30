@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1288
 
 🏆 **Peak ELO**: 1465
-   *1982 Round 5 - Belgian Grand Prix*
+   *[1982 Round 5 - Belgian Grand Prix](../results/1982-season-report.md#round-5-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1274
-   *1983 Round 10 - German Grand Prix*
+   *[1983 Round 10 - German Grand Prix](../results/1983-season-report.md#round-10-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1509
 
 🏆 **Peak ELO**: 1509
-   *1983 Round 9 - British Grand Prix*
+   *[1983 Round 9 - British Grand Prix](../results/1983-season-report.md#round-9-british-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1982 Round 8 - Canadian Grand Prix*
+   *[1982 Round 8 - Canadian Grand Prix](../results/1982-season-report.md#round-8-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1443
 
 🏆 **Peak ELO**: 1491
-   *1982 Round 9 - Dutch Grand Prix*
+   *[1982 Round 9 - Dutch Grand Prix](../results/1982-season-report.md#round-9-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1418
-   *1983 Round 8 - Canadian Grand Prix*
+   *[1983 Round 8 - Canadian Grand Prix](../results/1983-season-report.md#round-8-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

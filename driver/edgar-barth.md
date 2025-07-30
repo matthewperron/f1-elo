@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1465
 
 🏆 **Peak ELO**: 1532
-   *1958 Round 8 - German Grand Prix*
+   *[1958 Round 8 - German Grand Prix](../results/1958-season-report.md#round-8-german-grand-prix)*
 
 📉 **Lowest ELO**: 1465
-   *1960 Round 9 - Italian Grand Prix*
+   *[1960 Round 9 - Italian Grand Prix](../results/1960-season-report.md#round-9-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1960 Round 9 - Italian Grand Prix*
+   *[1960 Round 9 - Italian Grand Prix](../results/1960-season-report.md#round-9-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1960 Round 9 - Italian Grand Prix*
+   *[1960 Round 9 - Italian Grand Prix](../results/1960-season-report.md#round-9-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1467
 
 🏆 **Peak ELO**: 1510
-   *1958 Round 8 - German Grand Prix*
+   *[1958 Round 8 - German Grand Prix](../results/1958-season-report.md#round-8-german-grand-prix)*
 
 📉 **Lowest ELO**: 1467
-   *1960 Round 9 - Italian Grand Prix*
+   *[1960 Round 9 - Italian Grand Prix](../results/1960-season-report.md#round-9-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

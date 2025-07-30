@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1565
 
 🏆 **Peak ELO**: 1565
-   *2015 Round 18 - Brazilian Grand Prix*
+   *[2015 Round 18 - Brazilian Grand Prix](../results/2015-season-report.md#round-18-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1449
-   *2015 Round 14 - Japanese Grand Prix*
+   *[2015 Round 14 - Japanese Grand Prix](../results/2015-season-report.md#round-14-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1576
 
 🏆 **Peak ELO**: 1576
-   *2015 Round 17 - Mexican Grand Prix*
+   *[2015 Round 17 - Mexican Grand Prix](../results/2015-season-report.md#round-17-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1531
-   *2015 Round 13 - Singapore Grand Prix*
+   *[2015 Round 13 - Singapore Grand Prix](../results/2015-season-report.md#round-13-singapore-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1573
 
 🏆 **Peak ELO**: 1573
-   *2015 Round 18 - Brazilian Grand Prix*
+   *[2015 Round 18 - Brazilian Grand Prix](../results/2015-season-report.md#round-18-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1513
-   *2015 Round 13 - Singapore Grand Prix*
+   *[2015 Round 13 - Singapore Grand Prix](../results/2015-season-report.md#round-13-singapore-grand-prix)*
 
 
 ## Complete Race-by-Race Results

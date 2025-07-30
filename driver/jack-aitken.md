@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1462
 
 🏆 **Peak ELO**: 1462
-   *2020 Round 16 - Sakhir Grand Prix*
+   *[2020 Round 16 - Sakhir Grand Prix](../results/2020-season-report.md#round-16-sakhir-grand-prix)*
 
 📉 **Lowest ELO**: 1462
-   *2020 Round 16 - Sakhir Grand Prix*
+   *[2020 Round 16 - Sakhir Grand Prix](../results/2020-season-report.md#round-16-sakhir-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1489
 
 🏆 **Peak ELO**: 1489
-   *2020 Round 16 - Sakhir Grand Prix*
+   *[2020 Round 16 - Sakhir Grand Prix](../results/2020-season-report.md#round-16-sakhir-grand-prix)*
 
 📉 **Lowest ELO**: 1489
-   *2020 Round 16 - Sakhir Grand Prix*
+   *[2020 Round 16 - Sakhir Grand Prix](../results/2020-season-report.md#round-16-sakhir-grand-prix)*
 
 
 ## Complete Race-by-Race Results

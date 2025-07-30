@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1974 Round 15 - United States Grand Prix*
+   *[1974 Round 15 - United States Grand Prix](../results/1974-season-report.md#round-15-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1974 Round 15 - United States Grand Prix*
+   *[1974 Round 15 - United States Grand Prix](../results/1974-season-report.md#round-15-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1974 Round 15 - United States Grand Prix*
+   *[1974 Round 15 - United States Grand Prix](../results/1974-season-report.md#round-15-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1974 Round 15 - United States Grand Prix*
+   *[1974 Round 15 - United States Grand Prix](../results/1974-season-report.md#round-15-united-states-grand-prix)*
 
 
 ## Complete Race-by-Race Results

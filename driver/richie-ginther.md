@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1559
 
 🏆 **Peak ELO**: 1559
-   *1966 Round 9 - Mexican Grand Prix*
+   *[1966 Round 9 - Mexican Grand Prix](../results/1966-season-report.md#round-9-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1412
-   *1965 Round 2 - Monaco Grand Prix*
+   *[1965 Round 2 - Monaco Grand Prix](../results/1965-season-report.md#round-2-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1493
 
 🏆 **Peak ELO**: 1493
-   *1965 Round 10 - Mexican Grand Prix*
+   *[1965 Round 10 - Mexican Grand Prix](../results/1965-season-report.md#round-10-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1413
-   *1964 Round 9 - United States Grand Prix*
+   *[1964 Round 9 - United States Grand Prix](../results/1964-season-report.md#round-9-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1513
 
 🏆 **Peak ELO**: 1513
-   *1966 Round 9 - Mexican Grand Prix*
+   *[1966 Round 9 - Mexican Grand Prix](../results/1966-season-report.md#round-9-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1423
-   *1964 Round 9 - United States Grand Prix*
+   *[1964 Round 9 - United States Grand Prix](../results/1964-season-report.md#round-9-united-states-grand-prix)*
 
 
 ## Complete Race-by-Race Results

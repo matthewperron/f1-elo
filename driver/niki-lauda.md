@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1510
 
 🏆 **Peak ELO**: 1790
-   *1977 Round 1 - Argentine Grand Prix*
+   *[1977 Round 1 - Argentine Grand Prix](../results/1977-season-report.md#round-1-argentine-grand-prix)*
 
 📉 **Lowest ELO**: 1454
-   *1974 Round 2 - Brazilian Grand Prix*
+   *[1974 Round 2 - Brazilian Grand Prix](../results/1974-season-report.md#round-2-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1571
 
 🏆 **Peak ELO**: 1744
-   *1979 Round 3 - South African Grand Prix*
+   *[1979 Round 3 - South African Grand Prix](../results/1979-season-report.md#round-3-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1445
-   *1975 Round 2 - Brazilian Grand Prix*
+   *[1975 Round 2 - Brazilian Grand Prix](../results/1975-season-report.md#round-2-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1553
 
 🏆 **Peak ELO**: 1756
-   *1979 Round 5 - Spanish Grand Prix*
+   *[1979 Round 5 - Spanish Grand Prix](../results/1979-season-report.md#round-5-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1502
-   *1974 Round 2 - Brazilian Grand Prix*
+   *[1974 Round 2 - Brazilian Grand Prix](../results/1974-season-report.md#round-2-brazilian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

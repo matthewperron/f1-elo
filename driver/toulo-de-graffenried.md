@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1564
 
 🏆 **Peak ELO**: 1564
-   *1952 Round 1 - Swiss Grand Prix*
+   *[1952 Round 1 - Swiss Grand Prix](../results/1952-season-report.md#round-1-swiss-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1951 Round 6 - German Grand Prix*
+   *[1951 Round 6 - German Grand Prix](../results/1951-season-report.md#round-6-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1520
 
 🏆 **Peak ELO**: 1520
-   *1952 Round 1 - Swiss Grand Prix*
+   *[1952 Round 1 - Swiss Grand Prix](../results/1952-season-report.md#round-1-swiss-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1951 Round 6 - German Grand Prix*
+   *[1951 Round 6 - German Grand Prix](../results/1951-season-report.md#round-6-german-grand-prix)*
 
 
 ## Complete Race-by-Race Results

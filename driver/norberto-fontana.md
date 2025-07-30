@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1457
 
 🏆 **Peak ELO**: 1488
-   *1997 Round 8 - French Grand Prix*
+   *[1997 Round 8 - French Grand Prix](../results/1997-season-report.md#round-8-french-grand-prix)*
 
 📉 **Lowest ELO**: 1457
-   *1997 Round 17 - European Grand Prix*
+   *[1997 Round 17 - European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1476
 
 🏆 **Peak ELO**: 1476
-   *1997 Round 17 - European Grand Prix*
+   *[1997 Round 17 - European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix)*
 
 📉 **Lowest ELO**: 1476
-   *1997 Round 17 - European Grand Prix*
+   *[1997 Round 17 - European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1470
 
 🏆 **Peak ELO**: 1496
-   *1997 Round 8 - French Grand Prix*
+   *[1997 Round 8 - French Grand Prix](../results/1997-season-report.md#round-8-french-grand-prix)*
 
 📉 **Lowest ELO**: 1470
-   *1997 Round 17 - European Grand Prix*
+   *[1997 Round 17 - European Grand Prix](../results/1997-season-report.md#round-17-european-grand-prix)*
 
 
 ## Complete Race-by-Race Results

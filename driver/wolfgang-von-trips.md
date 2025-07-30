@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1558
 
 🏆 **Peak ELO**: 1558
-   *1960 Round 8 - Portuguese Grand Prix*
+   *[1960 Round 8 - Portuguese Grand Prix](../results/1960-season-report.md#round-8-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1958 Round 9 - Portuguese Grand Prix*
+   *[1958 Round 9 - Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1960 Round 7 - British Grand Prix*
+   *[1960 Round 7 - British Grand Prix](../results/1960-season-report.md#round-7-british-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1958 Round 9 - Portuguese Grand Prix*
+   *[1958 Round 9 - Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1540
 
 🏆 **Peak ELO**: 1540
-   *1960 Round 8 - Portuguese Grand Prix*
+   *[1960 Round 8 - Portuguese Grand Prix](../results/1960-season-report.md#round-8-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1958 Round 9 - Portuguese Grand Prix*
+   *[1958 Round 9 - Portuguese Grand Prix](../results/1958-season-report.md#round-9-portuguese-grand-prix)*
 
 
 ## Complete Race-by-Race Results

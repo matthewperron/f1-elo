@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1615
 
 🏆 **Peak ELO**: 1957
-   *1996 Round 10 - British Grand Prix*
+   *[1996 Round 10 - British Grand Prix](../results/1996-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1449
-   *1989 Round 8 - British Grand Prix*
+   *[1989 Round 8 - British Grand Prix](../results/1989-season-report.md#round-8-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1617
 
 🏆 **Peak ELO**: 1701
-   *1998 Round 16 - Japanese Grand Prix*
+   *[1998 Round 16 - Japanese Grand Prix](../results/1998-season-report.md#round-16-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1534
-   *1989 Round 7 - French Grand Prix*
+   *[1989 Round 7 - French Grand Prix](../results/1989-season-report.md#round-7-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1613
 
 🏆 **Peak ELO**: 1751
-   *1996 Round 15 - Portuguese Grand Prix*
+   *[1996 Round 15 - Portuguese Grand Prix](../results/1996-season-report.md#round-15-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1509
-   *1989 Round 8 - British Grand Prix*
+   *[1989 Round 8 - British Grand Prix](../results/1989-season-report.md#round-8-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1460
 
 🏆 **Peak ELO**: 1523
-   *1992 Round 1 - South African Grand Prix*
+   *[1992 Round 1 - South African Grand Prix](../results/1992-season-report.md#round-1-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1267
-   *1996 Round 9 - French Grand Prix*
+   *[1996 Round 9 - French Grand Prix](../results/1996-season-report.md#round-9-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1416
 
 🏆 **Peak ELO**: 1518
-   *1994 Round 14 - European Grand Prix*
+   *[1994 Round 14 - European Grand Prix](../results/1994-season-report.md#round-14-european-grand-prix)*
 
 📉 **Lowest ELO**: 1407
-   *1996 Round 15 - Portuguese Grand Prix*
+   *[1996 Round 15 - Portuguese Grand Prix](../results/1996-season-report.md#round-15-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1428
 
 🏆 **Peak ELO**: 1513
-   *1994 Round 14 - European Grand Prix*
+   *[1994 Round 14 - European Grand Prix](../results/1994-season-report.md#round-14-european-grand-prix)*
 
 📉 **Lowest ELO**: 1381
-   *1997 Round 7 - Canadian Grand Prix*
+   *[1997 Round 7 - Canadian Grand Prix](../results/1997-season-report.md#round-7-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

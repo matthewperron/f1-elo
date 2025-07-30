@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1540
 
 🏆 **Peak ELO**: 1643
-   *2018 Round 10 - British Grand Prix*
+   *[2018 Round 10 - British Grand Prix](../results/2018-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1352
-   *2017 Round 10 - British Grand Prix*
+   *[2017 Round 10 - British Grand Prix](../results/2017-season-report.md#round-10-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1499
 
 🏆 **Peak ELO**: 1714
-   *2018 Round 10 - British Grand Prix*
+   *[2018 Round 10 - British Grand Prix](../results/2018-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1390
-   *2023 Round 5 - Miami Grand Prix*
+   *[2023 Round 5 - Miami Grand Prix](../results/2023-season-report.md#round-5-miami-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1512
 
 🏆 **Peak ELO**: 1692
-   *2018 Round 10 - British Grand Prix*
+   *[2018 Round 10 - British Grand Prix](../results/2018-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1409
-   *2023 Round 5 - Miami Grand Prix*
+   *[2023 Round 5 - Miami Grand Prix](../results/2023-season-report.md#round-5-miami-grand-prix)*
 
 
 ## Complete Race-by-Race Results

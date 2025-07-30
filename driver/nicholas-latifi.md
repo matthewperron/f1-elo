@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1374
 
 🏆 **Peak ELO**: 1575
-   *2021 Round 19 - São Paulo Grand Prix*
+   *[2021 Round 19 - São Paulo Grand Prix](../results/2021-season-report.md#round-19-so-paulo-grand-prix)*
 
 📉 **Lowest ELO**: 1328
-   *2022 Round 20 - Mexico City Grand Prix*
+   *[2022 Round 20 - Mexico City Grand Prix](../results/2022-season-report.md#round-20-mexico-city-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1255
 
 🏆 **Peak ELO**: 1541
-   *2020 Round 10 - Russian Grand Prix*
+   *[2020 Round 10 - Russian Grand Prix](../results/2020-season-report.md#round-10-russian-grand-prix)*
 
 📉 **Lowest ELO**: 1255
-   *2022 Round 21 - São Paulo Grand Prix*
+   *[2022 Round 21 - São Paulo Grand Prix](../results/2022-season-report.md#round-21-so-paulo-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1293
 
 🏆 **Peak ELO**: 1503
-   *2020 Round 10 - Russian Grand Prix*
+   *[2020 Round 10 - Russian Grand Prix](../results/2020-season-report.md#round-10-russian-grand-prix)*
 
 📉 **Lowest ELO**: 1284
-   *2022 Round 20 - Mexico City Grand Prix*
+   *[2022 Round 20 - Mexico City Grand Prix](../results/2022-season-report.md#round-20-mexico-city-grand-prix)*
 
 
 ## Complete Race-by-Race Results

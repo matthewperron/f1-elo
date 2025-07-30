@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1486
 
 🏆 **Peak ELO**: 1486
-   *1985 Round 12 - Italian Grand Prix*
+   *[1985 Round 12 - Italian Grand Prix](../results/1985-season-report.md#round-12-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1457
-   *1985 Round 10 - Austrian Grand Prix*
+   *[1985 Round 10 - Austrian Grand Prix](../results/1985-season-report.md#round-10-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1496
 
 🏆 **Peak ELO**: 1496
-   *1985 Round 12 - Italian Grand Prix*
+   *[1985 Round 12 - Italian Grand Prix](../results/1985-season-report.md#round-12-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1487
-   *1985 Round 10 - Austrian Grand Prix*
+   *[1985 Round 10 - Austrian Grand Prix](../results/1985-season-report.md#round-10-austrian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

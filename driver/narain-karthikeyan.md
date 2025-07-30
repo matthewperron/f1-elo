@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1299
 
 🏆 **Peak ELO**: 1569
-   *2005 Round 5 - Spanish Grand Prix*
+   *[2005 Round 5 - Spanish Grand Prix](../results/2005-season-report.md#round-5-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1208
-   *2012 Round 12 - Belgian Grand Prix*
+   *[2012 Round 12 - Belgian Grand Prix](../results/2012-season-report.md#round-12-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1307
 
 🏆 **Peak ELO**: 1580
-   *2005 Round 4 - San Marino Grand Prix*
+   *[2005 Round 4 - San Marino Grand Prix](../results/2005-season-report.md#round-4-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1307
-   *2012 Round 20 - Brazilian Grand Prix*
+   *[2012 Round 20 - Brazilian Grand Prix](../results/2012-season-report.md#round-20-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1303
 
 🏆 **Peak ELO**: 1570
-   *2005 Round 4 - San Marino Grand Prix*
+   *[2005 Round 4 - San Marino Grand Prix](../results/2005-season-report.md#round-4-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1295
-   *2012 Round 19 - United States Grand Prix*
+   *[2012 Round 19 - United States Grand Prix](../results/2012-season-report.md#round-19-united-states-grand-prix)*
 
 
 ## Complete Race-by-Race Results

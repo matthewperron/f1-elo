@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1420
 
 🏆 **Peak ELO**: 1468
-   *1982 Round 4 - San Marino Grand Prix*
+   *[1982 Round 4 - San Marino Grand Prix](../results/1982-season-report.md#round-4-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1420
-   *1982 Round 8 - Canadian Grand Prix*
+   *[1982 Round 8 - Canadian Grand Prix](../results/1982-season-report.md#round-8-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1476
 
 🏆 **Peak ELO**: 1490
-   *1982 Round 4 - San Marino Grand Prix*
+   *[1982 Round 4 - San Marino Grand Prix](../results/1982-season-report.md#round-4-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1476
-   *1982 Round 8 - Canadian Grand Prix*
+   *[1982 Round 8 - Canadian Grand Prix](../results/1982-season-report.md#round-8-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1497
 
 🏆 **Peak ELO**: 1532
-   *1951 Round 2 - Indianapolis 500*
+   *[1951 Round 2 - Indianapolis 500](../results/1951-season-report.md#round-2-indianapolis-500)*
 
 📉 **Lowest ELO**: 1497
-   *1952 Round 2 - Indianapolis 500*
+   *[1952 Round 2 - Indianapolis 500](../results/1952-season-report.md#round-2-indianapolis-500)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1500
 
 🏆 **Peak ELO**: 1510
-   *1951 Round 2 - Indianapolis 500*
+   *[1951 Round 2 - Indianapolis 500](../results/1951-season-report.md#round-2-indianapolis-500)*
 
 📉 **Lowest ELO**: 1500
-   *1952 Round 2 - Indianapolis 500*
+   *[1952 Round 2 - Indianapolis 500](../results/1952-season-report.md#round-2-indianapolis-500)*
 
 
 ## Complete Race-by-Race Results

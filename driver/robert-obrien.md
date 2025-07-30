@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1471
 
 🏆 **Peak ELO**: 1471
-   *1952 Round 3 - Belgian Grand Prix*
+   *[1952 Round 3 - Belgian Grand Prix](../results/1952-season-report.md#round-3-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1471
-   *1952 Round 3 - Belgian Grand Prix*
+   *[1952 Round 3 - Belgian Grand Prix](../results/1952-season-report.md#round-3-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1491
 
 🏆 **Peak ELO**: 1491
-   *1952 Round 3 - Belgian Grand Prix*
+   *[1952 Round 3 - Belgian Grand Prix](../results/1952-season-report.md#round-3-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1491
-   *1952 Round 3 - Belgian Grand Prix*
+   *[1952 Round 3 - Belgian Grand Prix](../results/1952-season-report.md#round-3-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

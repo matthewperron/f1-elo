@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1609
 
 🏆 **Peak ELO**: 2018
-   *2021 Round 15 - Russian Grand Prix*
+   *[2021 Round 15 - Russian Grand Prix](../results/2021-season-report.md#round-15-russian-grand-prix)*
 
 📉 **Lowest ELO**: 1476
-   *2007 Round 2 - Malaysian Grand Prix*
+   *[2007 Round 2 - Malaysian Grand Prix](../results/2007-season-report.md#round-2-malaysian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1604
 
 🏆 **Peak ELO**: 1884
-   *2023 Round 21 - Las Vegas Grand Prix*
+   *[2023 Round 21 - Las Vegas Grand Prix](../results/2023-season-report.md#round-21-las-vegas-grand-prix)*
 
 📉 **Lowest ELO**: 1484
-   *2007 Round 2 - Malaysian Grand Prix*
+   *[2007 Round 2 - Malaysian Grand Prix](../results/2007-season-report.md#round-2-malaysian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1610
 
 🏆 **Peak ELO**: 1861
-   *2023 Round 20 - São Paulo Grand Prix*
+   *[2023 Round 20 - São Paulo Grand Prix](../results/2023-season-report.md#round-20-so-paulo-grand-prix)*
 
 📉 **Lowest ELO**: 1482
-   *2007 Round 2 - Malaysian Grand Prix*
+   *[2007 Round 2 - Malaysian Grand Prix](../results/2007-season-report.md#round-2-malaysian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

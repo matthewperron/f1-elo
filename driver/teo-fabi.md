@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1373
 
 🏆 **Peak ELO**: 1527
-   *1986 Round 1 - Brazilian Grand Prix*
+   *[1986 Round 1 - Brazilian Grand Prix](../results/1986-season-report.md#round-1-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1353
-   *1987 Round 12 - Portuguese Grand Prix*
+   *[1987 Round 12 - Portuguese Grand Prix](../results/1987-season-report.md#round-12-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1577
 
 🏆 **Peak ELO**: 1612
-   *1987 Round 10 - Austrian Grand Prix*
+   *[1987 Round 10 - Austrian Grand Prix](../results/1987-season-report.md#round-10-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1467
-   *1984 Round 12 - Austrian Grand Prix*
+   *[1984 Round 12 - Austrian Grand Prix](../results/1984-season-report.md#round-12-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1515
 
 🏆 **Peak ELO**: 1539
-   *1987 Round 10 - Austrian Grand Prix*
+   *[1987 Round 10 - Austrian Grand Prix](../results/1987-season-report.md#round-10-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1455
-   *1984 Round 15 - European Grand Prix*
+   *[1984 Round 15 - European Grand Prix](../results/1984-season-report.md#round-15-european-grand-prix)*
 
 
 ## Complete Race-by-Race Results

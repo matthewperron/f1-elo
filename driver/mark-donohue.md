@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1542
 
 🏆 **Peak ELO**: 1542
-   *1971 Round 10 - Canadian Grand Prix*
+   *[1971 Round 10 - Canadian Grand Prix](../results/1971-season-report.md#round-10-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1542
-   *1971 Round 10 - Canadian Grand Prix*
+   *[1971 Round 10 - Canadian Grand Prix](../results/1971-season-report.md#round-10-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1526
 
 🏆 **Peak ELO**: 1526
-   *1971 Round 10 - Canadian Grand Prix*
+   *[1971 Round 10 - Canadian Grand Prix](../results/1971-season-report.md#round-10-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1526
-   *1971 Round 10 - Canadian Grand Prix*
+   *[1971 Round 10 - Canadian Grand Prix](../results/1971-season-report.md#round-10-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1531
 
 🏆 **Peak ELO**: 1531
-   *1971 Round 10 - Canadian Grand Prix*
+   *[1971 Round 10 - Canadian Grand Prix](../results/1971-season-report.md#round-10-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1531
-   *1971 Round 10 - Canadian Grand Prix*
+   *[1971 Round 10 - Canadian Grand Prix](../results/1971-season-report.md#round-10-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

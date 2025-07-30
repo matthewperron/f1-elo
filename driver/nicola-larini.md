@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1426
 
 🏆 **Peak ELO**: 1606
-   *1990 Round 16 - Australian Grand Prix*
+   *[1990 Round 16 - Australian Grand Prix](../results/1990-season-report.md#round-16-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1426
-   *1997 Round 5 - Monaco Grand Prix*
+   *[1997 Round 5 - Monaco Grand Prix](../results/1997-season-report.md#round-5-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1461
 
 🏆 **Peak ELO**: 1590
-   *1990 Round 16 - Australian Grand Prix*
+   *[1990 Round 16 - Australian Grand Prix](../results/1990-season-report.md#round-16-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1457
-   *1992 Round 16 - Australian Grand Prix*
+   *[1992 Round 16 - Australian Grand Prix](../results/1992-season-report.md#round-16-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1451
 
 🏆 **Peak ELO**: 1596
-   *1990 Round 16 - Australian Grand Prix*
+   *[1990 Round 16 - Australian Grand Prix](../results/1990-season-report.md#round-16-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1451
-   *1997 Round 5 - Monaco Grand Prix*
+   *[1997 Round 5 - Monaco Grand Prix](../results/1997-season-report.md#round-5-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

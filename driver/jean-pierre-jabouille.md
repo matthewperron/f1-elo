@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1437
 
 🏆 **Peak ELO**: 1627
-   *1979 Round 6 - Belgian Grand Prix*
+   *[1979 Round 6 - Belgian Grand Prix](../results/1979-season-report.md#round-6-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1437
-   *1981 Round 7 - Spanish Grand Prix*
+   *[1981 Round 7 - Spanish Grand Prix](../results/1981-season-report.md#round-7-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1558
 
 🏆 **Peak ELO**: 1558
-   *1980 Round 10 - Austrian Grand Prix*
+   *[1980 Round 10 - Austrian Grand Prix](../results/1980-season-report.md#round-10-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1979 Round 8 - French Grand Prix*
+   *[1979 Round 8 - French Grand Prix](../results/1979-season-report.md#round-8-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1522
 
 🏆 **Peak ELO**: 1560
-   *1979 Round 10 - German Grand Prix*
+   *[1979 Round 10 - German Grand Prix](../results/1979-season-report.md#round-10-german-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1979 Round 1 - Argentine Grand Prix*
+   *[1979 Round 1 - Argentine Grand Prix](../results/1979-season-report.md#round-1-argentine-grand-prix)*
 
 
 ## Complete Race-by-Race Results

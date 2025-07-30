@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1329
 
 🏆 **Peak ELO**: 1478
-   *2000 Round 3 - San Marino Grand Prix*
+   *[2000 Round 3 - San Marino Grand Prix](../results/2000-season-report.md#round-3-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1329
-   *2001 Round 4 - San Marino Grand Prix*
+   *[2001 Round 4 - San Marino Grand Prix](../results/2001-season-report.md#round-4-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1379
 
 🏆 **Peak ELO**: 1470
-   *2000 Round 4 - British Grand Prix*
+   *[2000 Round 4 - British Grand Prix](../results/2000-season-report.md#round-4-british-grand-prix)*
 
 📉 **Lowest ELO**: 1379
-   *2001 Round 2 - Malaysian Grand Prix*
+   *[2001 Round 2 - Malaysian Grand Prix](../results/2001-season-report.md#round-2-malaysian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1364
 
 🏆 **Peak ELO**: 1494
-   *2000 Round 3 - San Marino Grand Prix*
+   *[2000 Round 3 - San Marino Grand Prix](../results/2000-season-report.md#round-3-san-marino-grand-prix)*
 
 📉 **Lowest ELO**: 1364
-   *2001 Round 4 - San Marino Grand Prix*
+   *[2001 Round 4 - San Marino Grand Prix](../results/2001-season-report.md#round-4-san-marino-grand-prix)*
 
 
 ## Complete Race-by-Race Results

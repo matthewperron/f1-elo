@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1561
 
 🏆 **Peak ELO**: 2172
-   *2001 Round 14 - Belgian Grand Prix*
+   *[2001 Round 14 - Belgian Grand Prix](../results/2001-season-report.md#round-14-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1432
-   *2010 Round 17 - Korean Grand Prix*
+   *[2010 Round 17 - Korean Grand Prix](../results/2010-season-report.md#round-17-korean-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1627
 
 🏆 **Peak ELO**: 1902
-   *2006 Round 12 - German Grand Prix*
+   *[2006 Round 12 - German Grand Prix](../results/2006-season-report.md#round-12-german-grand-prix)*
 
 📉 **Lowest ELO**: 1392
-   *2010 Round 18 - Brazilian Grand Prix*
+   *[2010 Round 18 - Brazilian Grand Prix](../results/2010-season-report.md#round-18-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1607
 
 🏆 **Peak ELO**: 1984
-   *2001 Round 14 - Belgian Grand Prix*
+   *[2001 Round 14 - Belgian Grand Prix](../results/2001-season-report.md#round-14-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1411
-   *2010 Round 17 - Korean Grand Prix*
+   *[2010 Round 17 - Korean Grand Prix](../results/2010-season-report.md#round-17-korean-grand-prix)*
 
 
 ## Complete Race-by-Race Results

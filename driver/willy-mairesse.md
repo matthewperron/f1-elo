@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1453
 
 🏆 **Peak ELO**: 1475
-   *1963 Round 1 - Monaco Grand Prix*
+   *[1963 Round 1 - Monaco Grand Prix](../results/1963-season-report.md#round-1-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1453
-   *1963 Round 6 - German Grand Prix*
+   *[1963 Round 6 - German Grand Prix](../results/1963-season-report.md#round-6-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1486
 
 🏆 **Peak ELO**: 1493
-   *1963 Round 1 - Monaco Grand Prix*
+   *[1963 Round 1 - Monaco Grand Prix](../results/1963-season-report.md#round-1-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1486
-   *1963 Round 6 - German Grand Prix*
+   *[1963 Round 6 - German Grand Prix](../results/1963-season-report.md#round-6-german-grand-prix)*
 
 
 ## Complete Race-by-Race Results

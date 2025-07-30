@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1442
 
 🏆 **Peak ELO**: 1468
-   *1951 Round 1 - Swiss Grand Prix*
+   *[1951 Round 1 - Swiss Grand Prix](../results/1951-season-report.md#round-1-swiss-grand-prix)*
 
 📉 **Lowest ELO**: 1442
-   *1953 Round 9 - Italian Grand Prix*
+   *[1953 Round 9 - Italian Grand Prix](../results/1953-season-report.md#round-9-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1483
 
 🏆 **Peak ELO**: 1490
-   *1951 Round 1 - Swiss Grand Prix*
+   *[1951 Round 1 - Swiss Grand Prix](../results/1951-season-report.md#round-1-swiss-grand-prix)*
 
 📉 **Lowest ELO**: 1483
-   *1953 Round 9 - Italian Grand Prix*
+   *[1953 Round 9 - Italian Grand Prix](../results/1953-season-report.md#round-9-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

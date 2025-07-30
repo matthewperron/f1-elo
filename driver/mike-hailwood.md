@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1507
 
 🏆 **Peak ELO**: 1589
-   *1973 Round 8 - French Grand Prix*
+   *[1973 Round 8 - French Grand Prix](../results/1973-season-report.md#round-8-french-grand-prix)*
 
 📉 **Lowest ELO**: 1457
-   *1965 Round 2 - Monaco Grand Prix*
+   *[1965 Round 2 - Monaco Grand Prix](../results/1965-season-report.md#round-2-monaco-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1502
 
 🏆 **Peak ELO**: 1527
-   *1973 Round 8 - French Grand Prix*
+   *[1973 Round 8 - French Grand Prix](../results/1973-season-report.md#round-8-french-grand-prix)*
 
 📉 **Lowest ELO**: 1488
-   *1965 Round 2 - Monaco Grand Prix*
+   *[1965 Round 2 - Monaco Grand Prix](../results/1965-season-report.md#round-2-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

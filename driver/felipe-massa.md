@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1736
 
 🏆 **Peak ELO**: 1915
-   *2008 Round 15 - Singapore Grand Prix*
+   *[2008 Round 15 - Singapore Grand Prix](../results/2008-season-report.md#round-15-singapore-grand-prix)*
 
 📉 **Lowest ELO**: 1420
-   *2002 Round 12 - German Grand Prix*
+   *[2002 Round 12 - German Grand Prix](../results/2002-season-report.md#round-12-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1527
 
 🏆 **Peak ELO**: 1784
-   *2010 Round 7 - Turkish Grand Prix*
+   *[2010 Round 7 - Turkish Grand Prix](../results/2010-season-report.md#round-7-turkish-grand-prix)*
 
 📉 **Lowest ELO**: 1410
-   *2016 Round 16 - Malaysian Grand Prix*
+   *[2016 Round 16 - Malaysian Grand Prix](../results/2016-season-report.md#round-16-malaysian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1596
 
 🏆 **Peak ELO**: 1796
-   *2010 Round 7 - Turkish Grand Prix*
+   *[2010 Round 7 - Turkish Grand Prix](../results/2010-season-report.md#round-7-turkish-grand-prix)*
 
 📉 **Lowest ELO**: 1454
-   *2004 Round 13 - Hungarian Grand Prix*
+   *[2004 Round 13 - Hungarian Grand Prix](../results/2004-season-report.md#round-13-hungarian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

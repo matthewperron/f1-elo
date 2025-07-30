@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1533
 
 🏆 **Peak ELO**: 1533
-   *1976 Round 15 - United States Grand Prix*
+   *[1976 Round 15 - United States Grand Prix](../results/1976-season-report.md#round-15-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1533
-   *1976 Round 15 - United States Grand Prix*
+   *[1976 Round 15 - United States Grand Prix](../results/1976-season-report.md#round-15-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1510
 
 🏆 **Peak ELO**: 1510
-   *1976 Round 15 - United States Grand Prix*
+   *[1976 Round 15 - United States Grand Prix](../results/1976-season-report.md#round-15-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1976 Round 15 - United States Grand Prix*
+   *[1976 Round 15 - United States Grand Prix](../results/1976-season-report.md#round-15-united-states-grand-prix)*
 
 
 ## Complete Race-by-Race Results

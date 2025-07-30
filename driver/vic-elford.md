@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1599
 
 🏆 **Peak ELO**: 1599
-   *1968 Round 12 - Mexican Grand Prix*
+   *[1968 Round 12 - Mexican Grand Prix](../results/1968-season-report.md#round-12-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1968 Round 6 - French Grand Prix*
+   *[1968 Round 6 - French Grand Prix](../results/1968-season-report.md#round-6-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1530
 
 🏆 **Peak ELO**: 1530
-   *1968 Round 12 - Mexican Grand Prix*
+   *[1968 Round 12 - Mexican Grand Prix](../results/1968-season-report.md#round-12-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1968 Round 6 - French Grand Prix*
+   *[1968 Round 6 - French Grand Prix](../results/1968-season-report.md#round-6-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

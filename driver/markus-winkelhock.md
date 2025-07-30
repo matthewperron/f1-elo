@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1478
 
 🏆 **Peak ELO**: 1478
-   *2007 Round 10 - European Grand Prix*
+   *[2007 Round 10 - European Grand Prix](../results/2007-season-report.md#round-10-european-grand-prix)*
 
 📉 **Lowest ELO**: 1478
-   *2007 Round 10 - European Grand Prix*
+   *[2007 Round 10 - European Grand Prix](../results/2007-season-report.md#round-10-european-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1493
 
 🏆 **Peak ELO**: 1493
-   *2007 Round 10 - European Grand Prix*
+   *[2007 Round 10 - European Grand Prix](../results/2007-season-report.md#round-10-european-grand-prix)*
 
 📉 **Lowest ELO**: 1493
-   *2007 Round 10 - European Grand Prix*
+   *[2007 Round 10 - European Grand Prix](../results/2007-season-report.md#round-10-european-grand-prix)*
 
 
 ## Complete Race-by-Race Results

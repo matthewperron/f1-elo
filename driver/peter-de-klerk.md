@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1969 Round 1 - South African Grand Prix*
+   *[1969 Round 1 - South African Grand Prix](../results/1969-season-report.md#round-1-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1969 Round 1 - South African Grand Prix*
+   *[1969 Round 1 - South African Grand Prix](../results/1969-season-report.md#round-1-south-african-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1510
 
 🏆 **Peak ELO**: 1510
-   *1969 Round 1 - South African Grand Prix*
+   *[1969 Round 1 - South African Grand Prix](../results/1969-season-report.md#round-1-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1969 Round 1 - South African Grand Prix*
+   *[1969 Round 1 - South African Grand Prix](../results/1969-season-report.md#round-1-south-african-grand-prix)*
 
 
 ## Complete Race-by-Race Results

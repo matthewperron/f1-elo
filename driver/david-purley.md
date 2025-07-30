@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1457
 
 🏆 **Peak ELO**: 1457
-   *1973 Round 11 - German Grand Prix*
+   *[1973 Round 11 - German Grand Prix](../results/1973-season-report.md#round-11-german-grand-prix)*
 
 📉 **Lowest ELO**: 1457
-   *1973 Round 11 - German Grand Prix*
+   *[1973 Round 11 - German Grand Prix](../results/1973-season-report.md#round-11-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1535
 
 🏆 **Peak ELO**: 1535
-   *1973 Round 11 - German Grand Prix*
+   *[1973 Round 11 - German Grand Prix](../results/1973-season-report.md#round-11-german-grand-prix)*
 
 📉 **Lowest ELO**: 1535
-   *1973 Round 11 - German Grand Prix*
+   *[1973 Round 11 - German Grand Prix](../results/1973-season-report.md#round-11-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1512
 
 🏆 **Peak ELO**: 1512
-   *1973 Round 11 - German Grand Prix*
+   *[1973 Round 11 - German Grand Prix](../results/1973-season-report.md#round-11-german-grand-prix)*
 
 📉 **Lowest ELO**: 1512
-   *1973 Round 11 - German Grand Prix*
+   *[1973 Round 11 - German Grand Prix](../results/1973-season-report.md#round-11-german-grand-prix)*
 
 
 ## Complete Race-by-Race Results

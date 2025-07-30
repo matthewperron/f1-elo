@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1465
 
 🏆 **Peak ELO**: 1580
-   *1958 Round 5 - Belgian Grand Prix*
+   *[1958 Round 5 - Belgian Grand Prix](../results/1958-season-report.md#round-5-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1465
-   *1958 Round 11 - Moroccan Grand Prix*
+   *[1958 Round 11 - Moroccan Grand Prix](../results/1958-season-report.md#round-11-moroccan-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1489
 
 🏆 **Peak ELO**: 1524
-   *1958 Round 5 - Belgian Grand Prix*
+   *[1958 Round 5 - Belgian Grand Prix](../results/1958-season-report.md#round-5-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1489
-   *1958 Round 11 - Moroccan Grand Prix*
+   *[1958 Round 11 - Moroccan Grand Prix](../results/1958-season-report.md#round-11-moroccan-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1501
 
 🏆 **Peak ELO**: 1546
-   *1961 Round 6 - German Grand Prix*
+   *[1961 Round 6 - German Grand Prix](../results/1961-season-report.md#round-6-german-grand-prix)*
 
 📉 **Lowest ELO**: 1444
-   *1961 Round 4 - French Grand Prix*
+   *[1961 Round 4 - French Grand Prix](../results/1961-season-report.md#round-4-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1501
 
 🏆 **Peak ELO**: 1501
-   *1961 Round 8 - United States Grand Prix*
+   *[1961 Round 8 - United States Grand Prix](../results/1961-season-report.md#round-8-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1465
-   *1961 Round 2 - Dutch Grand Prix*
+   *[1961 Round 2 - Dutch Grand Prix](../results/1961-season-report.md#round-2-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1500
 
 🏆 **Peak ELO**: 1511
-   *1958 Round 8 - German Grand Prix*
+   *[1958 Round 8 - German Grand Prix](../results/1958-season-report.md#round-8-german-grand-prix)*
 
 📉 **Lowest ELO**: 1459
-   *1961 Round 4 - French Grand Prix*
+   *[1961 Round 4 - French Grand Prix](../results/1961-season-report.md#round-4-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results

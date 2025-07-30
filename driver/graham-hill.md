@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1373
 
 🏆 **Peak ELO**: 1776
-   *1967 Round 3 - Dutch Grand Prix*
+   *[1967 Round 3 - Dutch Grand Prix](../results/1967-season-report.md#round-3-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1320
-   *1975 Round 1 - Argentine Grand Prix*
+   *[1975 Round 1 - Argentine Grand Prix](../results/1975-season-report.md#round-1-argentine-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1564
 
 🏆 **Peak ELO**: 1567
-   *1965 Round 2 - Monaco Grand Prix*
+   *[1965 Round 2 - Monaco Grand Prix](../results/1965-season-report.md#round-2-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1415
-   *1971 Round 8 - Austrian Grand Prix*
+   *[1971 Round 8 - Austrian Grand Prix](../results/1971-season-report.md#round-8-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1507
 
 🏆 **Peak ELO**: 1627
-   *1965 Round 2 - Monaco Grand Prix*
+   *[1965 Round 2 - Monaco Grand Prix](../results/1965-season-report.md#round-2-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1414
-   *1971 Round 9 - Italian Grand Prix*
+   *[1971 Round 9 - Italian Grand Prix](../results/1971-season-report.md#round-9-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

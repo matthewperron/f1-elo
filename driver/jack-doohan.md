@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1429
 
 🏆 **Peak ELO**: 1469
-   *2024 Round 24 - Abu Dhabi Grand Prix*
+   *[2024 Round 24 - Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix)*
 
 📉 **Lowest ELO**: 1377
-   *2025 Round 5 - Saudi Arabian Grand Prix*
+   *[2025 Round 5 - Saudi Arabian Grand Prix](../results/2025-season-report.md#round-5-saudi-arabian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1428
 
 🏆 **Peak ELO**: 1461
-   *2025 Round 3 - Japanese Grand Prix*
+   *[2025 Round 3 - Japanese Grand Prix](../results/2025-season-report.md#round-3-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1428
-   *2025 Round 4 - Bahrain Grand Prix*
+   *[2025 Round 4 - Bahrain Grand Prix](../results/2025-season-report.md#round-4-bahrain-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1429
 
 🏆 **Peak ELO**: 1491
-   *2024 Round 24 - Abu Dhabi Grand Prix*
+   *[2024 Round 24 - Abu Dhabi Grand Prix](../results/2024-season-report.md#round-24-abu-dhabi-grand-prix)*
 
 📉 **Lowest ELO**: 1414
-   *2025 Round 5 - Saudi Arabian Grand Prix*
+   *[2025 Round 5 - Saudi Arabian Grand Prix](../results/2025-season-report.md#round-5-saudi-arabian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

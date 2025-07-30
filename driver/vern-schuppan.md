@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1448
 
 🏆 **Peak ELO**: 1480
-   *1977 Round 10 - British Grand Prix*
+   *[1977 Round 10 - British Grand Prix](../results/1977-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1448
-   *1977 Round 12 - Austrian Grand Prix*
+   *[1977 Round 12 - Austrian Grand Prix](../results/1977-season-report.md#round-12-austrian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1433
 
 🏆 **Peak ELO**: 1473
-   *1977 Round 10 - British Grand Prix*
+   *[1977 Round 10 - British Grand Prix](../results/1977-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1433
-   *1977 Round 12 - Austrian Grand Prix*
+   *[1977 Round 12 - Austrian Grand Prix](../results/1977-season-report.md#round-12-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1437
 
 🏆 **Peak ELO**: 1492
-   *1975 Round 7 - Swedish Grand Prix*
+   *[1975 Round 7 - Swedish Grand Prix](../results/1975-season-report.md#round-7-swedish-grand-prix)*
 
 📉 **Lowest ELO**: 1437
-   *1977 Round 12 - Austrian Grand Prix*
+   *[1977 Round 12 - Austrian Grand Prix](../results/1977-season-report.md#round-12-austrian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

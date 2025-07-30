@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1340
 
 🏆 **Peak ELO**: 1465
-   *1988 Round 1 - Brazilian Grand Prix*
+   *[1988 Round 1 - Brazilian Grand Prix](../results/1988-season-report.md#round-1-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1340
-   *1988 Round 16 - Australian Grand Prix*
+   *[1988 Round 16 - Australian Grand Prix](../results/1988-season-report.md#round-16-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1452
 
 🏆 **Peak ELO**: 1490
-   *1988 Round 1 - Brazilian Grand Prix*
+   *[1988 Round 1 - Brazilian Grand Prix](../results/1988-season-report.md#round-1-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1452
-   *1988 Round 16 - Australian Grand Prix*
+   *[1988 Round 16 - Australian Grand Prix](../results/1988-season-report.md#round-16-australian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

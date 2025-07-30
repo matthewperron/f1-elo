@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1382
 
 🏆 **Peak ELO**: 1480
-   *2015 Round 10 - Hungarian Grand Prix*
+   *[2015 Round 10 - Hungarian Grand Prix](../results/2015-season-report.md#round-10-hungarian-grand-prix)*
 
 📉 **Lowest ELO**: 1377
-   *2015 Round 6 - Monaco Grand Prix*
+   *[2015 Round 6 - Monaco Grand Prix](../results/2015-season-report.md#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1488
 
 🏆 **Peak ELO**: 1548
-   *2015 Round 11 - Belgian Grand Prix*
+   *[2015 Round 11 - Belgian Grand Prix](../results/2015-season-report.md#round-11-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1442
-   *2015 Round 4 - Bahrain Grand Prix*
+   *[2015 Round 4 - Bahrain Grand Prix](../results/2015-season-report.md#round-4-bahrain-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1457
 
 🏆 **Peak ELO**: 1518
-   *2015 Round 11 - Belgian Grand Prix*
+   *[2015 Round 11 - Belgian Grand Prix](../results/2015-season-report.md#round-11-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1428
-   *2015 Round 5 - Spanish Grand Prix*
+   *[2015 Round 5 - Spanish Grand Prix](../results/2015-season-report.md#round-5-spanish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

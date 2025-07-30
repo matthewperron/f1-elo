@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1504
 
 🏆 **Peak ELO**: 1579
-   *1965 Round 6 - Dutch Grand Prix*
+   *[1965 Round 6 - Dutch Grand Prix](../results/1965-season-report.md#round-6-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1405
-   *1959 Round 8 - Italian Grand Prix*
+   *[1959 Round 8 - Italian Grand Prix](../results/1959-season-report.md#round-8-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1494
 
 🏆 **Peak ELO**: 1532
-   *1959 Round 3 - Dutch Grand Prix*
+   *[1959 Round 3 - Dutch Grand Prix](../results/1959-season-report.md#round-3-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1494
-   *1965 Round 8 - Italian Grand Prix*
+   *[1965 Round 8 - Italian Grand Prix](../results/1965-season-report.md#round-8-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1497
 
 🏆 **Peak ELO**: 1546
-   *1965 Round 6 - Dutch Grand Prix*
+   *[1965 Round 6 - Dutch Grand Prix](../results/1965-season-report.md#round-6-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1964 Round 3 - Belgian Grand Prix*
+   *[1964 Round 3 - Belgian Grand Prix](../results/1964-season-report.md#round-3-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

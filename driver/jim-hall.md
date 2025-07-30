@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1494
 
 🏆 **Peak ELO**: 1532
-   *1963 Round 2 - Belgian Grand Prix*
+   *[1963 Round 2 - Belgian Grand Prix](../results/1963-season-report.md#round-2-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1494
-   *1963 Round 3 - Dutch Grand Prix*
+   *[1963 Round 3 - Dutch Grand Prix](../results/1963-season-report.md#round-3-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1963 Round 3 - Dutch Grand Prix*
+   *[1963 Round 3 - Dutch Grand Prix](../results/1963-season-report.md#round-3-dutch-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1963 Round 3 - Dutch Grand Prix*
+   *[1963 Round 3 - Dutch Grand Prix](../results/1963-season-report.md#round-3-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1476
 
 🏆 **Peak ELO**: 1510
-   *1963 Round 2 - Belgian Grand Prix*
+   *[1963 Round 2 - Belgian Grand Prix](../results/1963-season-report.md#round-2-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1476
-   *1963 Round 3 - Dutch Grand Prix*
+   *[1963 Round 3 - Dutch Grand Prix](../results/1963-season-report.md#round-3-dutch-grand-prix)*
 
 
 ## Complete Race-by-Race Results

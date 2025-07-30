@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1410
 
 🏆 **Peak ELO**: 1482
-   *2023 Round 1 - Bahrain Grand Prix*
+   *[2023 Round 1 - Bahrain Grand Prix](../results/2023-season-report.md#round-1-bahrain-grand-prix)*
 
 📉 **Lowest ELO**: 1308
-   *2024 Round 9 - Canadian Grand Prix*
+   *[2024 Round 9 - Canadian Grand Prix](../results/2024-season-report.md#round-9-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1368
 
 🏆 **Peak ELO**: 1478
-   *2023 Round 4 - Azerbaijan Grand Prix*
+   *[2023 Round 4 - Azerbaijan Grand Prix](../results/2023-season-report.md#round-4-azerbaijan-grand-prix)*
 
 📉 **Lowest ELO**: 1368
-   *2024 Round 14 - Belgian Grand Prix*
+   *[2024 Round 14 - Belgian Grand Prix](../results/2024-season-report.md#round-14-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1379
 
 🏆 **Peak ELO**: 1495
-   *2023 Round 1 - Bahrain Grand Prix*
+   *[2023 Round 1 - Bahrain Grand Prix](../results/2023-season-report.md#round-1-bahrain-grand-prix)*
 
 📉 **Lowest ELO**: 1358
-   *2024 Round 9 - Canadian Grand Prix*
+   *[2024 Round 9 - Canadian Grand Prix](../results/2024-season-report.md#round-9-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

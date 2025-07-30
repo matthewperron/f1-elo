@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1456
 
 🏆 **Peak ELO**: 1484
-   *2010 Round 3 - Malaysian Grand Prix*
+   *[2010 Round 3 - Malaysian Grand Prix](../results/2010-season-report.md#round-3-malaysian-grand-prix)*
 
 📉 **Lowest ELO**: 1380
-   *2010 Round 8 - Canadian Grand Prix*
+   *[2010 Round 8 - Canadian Grand Prix](../results/2010-season-report.md#round-8-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1561
 
 🏆 **Peak ELO**: 1561
-   *2010 Round 10 - British Grand Prix*
+   *[2010 Round 10 - British Grand Prix](../results/2010-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *2010 Round 9 - European Grand Prix*
+   *[2010 Round 9 - European Grand Prix](../results/2010-season-report.md#round-9-european-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1529
 
 🏆 **Peak ELO**: 1533
-   *2010 Round 10 - British Grand Prix*
+   *[2010 Round 10 - British Grand Prix](../results/2010-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1464
-   *2010 Round 8 - Canadian Grand Prix*
+   *[2010 Round 8 - Canadian Grand Prix](../results/2010-season-report.md#round-8-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1358
 
 🏆 **Peak ELO**: 1486
-   *1980 Round 8 - British Grand Prix*
+   *[1980 Round 8 - British Grand Prix](../results/1980-season-report.md#round-8-british-grand-prix)*
 
 📉 **Lowest ELO**: 1358
-   *1981 Round 15 - Caesars Palace Grand Prix*
+   *[1981 Round 15 - Caesars Palace Grand Prix](../results/1981-season-report.md#round-15-caesars-palace-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1388
 
 🏆 **Peak ELO**: 1472
-   *1980 Round 8 - British Grand Prix*
+   *[1980 Round 8 - British Grand Prix](../results/1980-season-report.md#round-8-british-grand-prix)*
 
 📉 **Lowest ELO**: 1388
-   *1981 Round 12 - Dutch Grand Prix*
+   *[1981 Round 12 - Dutch Grand Prix](../results/1981-season-report.md#round-12-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1379
 
 🏆 **Peak ELO**: 1490
-   *1977 Round 11 - German Grand Prix*
+   *[1977 Round 11 - German Grand Prix](../results/1977-season-report.md#round-11-german-grand-prix)*
 
 📉 **Lowest ELO**: 1379
-   *1981 Round 15 - Caesars Palace Grand Prix*
+   *[1981 Round 15 - Caesars Palace Grand Prix](../results/1981-season-report.md#round-15-caesars-palace-grand-prix)*
 
 
 ## Complete Race-by-Race Results

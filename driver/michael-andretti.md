@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1499
-   *1993 Round 1 - South African Grand Prix*
+   *[1993 Round 1 - South African Grand Prix](../results/1993-season-report.md#round-1-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1993 Round 13 - Italian Grand Prix*
+   *[1993 Round 13 - Italian Grand Prix](../results/1993-season-report.md#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1477
 
 🏆 **Peak ELO**: 1494
-   *1993 Round 5 - Spanish Grand Prix*
+   *[1993 Round 5 - Spanish Grand Prix](../results/1993-season-report.md#round-5-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1477
-   *1993 Round 12 - Belgian Grand Prix*
+   *[1993 Round 12 - Belgian Grand Prix](../results/1993-season-report.md#round-12-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1480
 
 🏆 **Peak ELO**: 1500
-   *1993 Round 1 - South African Grand Prix*
+   *[1993 Round 1 - South African Grand Prix](../results/1993-season-report.md#round-1-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1480
-   *1993 Round 12 - Belgian Grand Prix*
+   *[1993 Round 12 - Belgian Grand Prix](../results/1993-season-report.md#round-12-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

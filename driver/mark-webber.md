@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1562
 
 🏆 **Peak ELO**: 1865
-   *2008 Round 15 - Singapore Grand Prix*
+   *[2008 Round 15 - Singapore Grand Prix](../results/2008-season-report.md#round-15-singapore-grand-prix)*
 
 📉 **Lowest ELO**: 1487
-   *2013 Round 14 - Korean Grand Prix*
+   *[2013 Round 14 - Korean Grand Prix](../results/2013-season-report.md#round-14-korean-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1448
 
 🏆 **Peak ELO**: 1746
-   *2004 Round 15 - Italian Grand Prix*
+   *[2004 Round 15 - Italian Grand Prix](../results/2004-season-report.md#round-15-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1448
-   *2013 Round 19 - Brazilian Grand Prix*
+   *[2013 Round 19 - Brazilian Grand Prix](../results/2013-season-report.md#round-19-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1487
 
 🏆 **Peak ELO**: 1774
-   *2008 Round 15 - Singapore Grand Prix*
+   *[2008 Round 15 - Singapore Grand Prix](../results/2008-season-report.md#round-15-singapore-grand-prix)*
 
 📉 **Lowest ELO**: 1480
-   *2013 Round 14 - Korean Grand Prix*
+   *[2013 Round 14 - Korean Grand Prix](../results/2013-season-report.md#round-14-korean-grand-prix)*
 
 
 ## Complete Race-by-Race Results

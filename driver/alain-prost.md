@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1613
 
 🏆 **Peak ELO**: 1949
-   *1987 Round 16 - Australian Grand Prix*
+   *[1987 Round 16 - Australian Grand Prix](../results/1987-season-report.md#round-16-australian-grand-prix)*
 
 📉 **Lowest ELO**: 1403
-   *1982 Round 11 - French Grand Prix*
+   *[1982 Round 11 - French Grand Prix](../results/1982-season-report.md#round-11-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1571
 
 🏆 **Peak ELO**: 1794
-   *1989 Round 1 - Brazilian Grand Prix*
+   *[1989 Round 1 - Brazilian Grand Prix](../results/1989-season-report.md#round-1-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1442
-   *1993 Round 6 - Monaco Grand Prix*
+   *[1993 Round 6 - Monaco Grand Prix](../results/1993-season-report.md#round-6-monaco-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1584
 
 🏆 **Peak ELO**: 1835
-   *1987 Round 14 - Mexican Grand Prix*
+   *[1987 Round 14 - Mexican Grand Prix](../results/1987-season-report.md#round-14-mexican-grand-prix)*
 
 📉 **Lowest ELO**: 1495
-   *1993 Round 6 - Monaco Grand Prix*
+   *[1993 Round 6 - Monaco Grand Prix](../results/1993-season-report.md#round-6-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

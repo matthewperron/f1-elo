@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1561
 
 🏆 **Peak ELO**: 1561
-   *1981 Round 5 - Belgian Grand Prix*
+   *[1981 Round 5 - Belgian Grand Prix](../results/1981-season-report.md#round-5-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *1981 Round 4 - San Marino Grand Prix*
+   *[1981 Round 4 - San Marino Grand Prix](../results/1981-season-report.md#round-4-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1518
 
 🏆 **Peak ELO**: 1518
-   *1981 Round 5 - Belgian Grand Prix*
+   *[1981 Round 5 - Belgian Grand Prix](../results/1981-season-report.md#round-5-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *1981 Round 4 - San Marino Grand Prix*
+   *[1981 Round 4 - San Marino Grand Prix](../results/1981-season-report.md#round-4-san-marino-grand-prix)*
 
 
 ## Complete Race-by-Race Results

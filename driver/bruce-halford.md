@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1471
 
 🏆 **Peak ELO**: 1471
-   *1959 Round 1 - Monaco Grand Prix*
+   *[1959 Round 1 - Monaco Grand Prix](../results/1959-season-report.md#round-1-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1471
-   *1959 Round 1 - Monaco Grand Prix*
+   *[1959 Round 1 - Monaco Grand Prix](../results/1959-season-report.md#round-1-monaco-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1491
 
 🏆 **Peak ELO**: 1491
-   *1959 Round 1 - Monaco Grand Prix*
+   *[1959 Round 1 - Monaco Grand Prix](../results/1959-season-report.md#round-1-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1491
-   *1959 Round 1 - Monaco Grand Prix*
+   *[1959 Round 1 - Monaco Grand Prix](../results/1959-season-report.md#round-1-monaco-grand-prix)*
 
 
 ## Complete Race-by-Race Results

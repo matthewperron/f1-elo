@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1435
 
 🏆 **Peak ELO**: 1471
-   *2006 Round 5 - European Grand Prix*
+   *[2006 Round 5 - European Grand Prix](../results/2006-season-report.md#round-5-european-grand-prix)*
 
 📉 **Lowest ELO**: 1383
-   *2006 Round 10 - United States Grand Prix*
+   *[2006 Round 10 - United States Grand Prix](../results/2006-season-report.md#round-10-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1454
 
 🏆 **Peak ELO**: 1454
-   *2006 Round 8 - British Grand Prix*
+   *[2006 Round 8 - British Grand Prix](../results/2006-season-report.md#round-8-british-grand-prix)*
 
 📉 **Lowest ELO**: 1454
-   *2006 Round 8 - British Grand Prix*
+   *[2006 Round 8 - British Grand Prix](../results/2006-season-report.md#round-8-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1448
 
 🏆 **Peak ELO**: 1491
-   *2006 Round 5 - European Grand Prix*
+   *[2006 Round 5 - European Grand Prix](../results/2006-season-report.md#round-5-european-grand-prix)*
 
 📉 **Lowest ELO**: 1432
-   *2006 Round 10 - United States Grand Prix*
+   *[2006 Round 10 - United States Grand Prix](../results/2006-season-report.md#round-10-united-states-grand-prix)*
 
 
 ## Complete Race-by-Race Results

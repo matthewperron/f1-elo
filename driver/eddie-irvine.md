@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1810
 
 🏆 **Peak ELO**: 1850
-   *2001 Round 7 - Monaco Grand Prix*
+   *[2001 Round 7 - Monaco Grand Prix](../results/2001-season-report.md#round-7-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1484
-   *1994 Round 6 - Canadian Grand Prix*
+   *[1994 Round 6 - Canadian Grand Prix](../results/1994-season-report.md#round-6-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1669
 
 🏆 **Peak ELO**: 1670
-   *2000 Round 7 - Monaco Grand Prix*
+   *[2000 Round 7 - Monaco Grand Prix](../results/2000-season-report.md#round-7-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1388
-   *1998 Round 4 - San Marino Grand Prix*
+   *[1998 Round 4 - San Marino Grand Prix](../results/1998-season-report.md#round-4-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1710
 
 🏆 **Peak ELO**: 1710
-   *2002 Round 17 - Japanese Grand Prix*
+   *[2002 Round 17 - Japanese Grand Prix](../results/2002-season-report.md#round-17-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1452
-   *1998 Round 5 - Spanish Grand Prix*
+   *[1998 Round 5 - Spanish Grand Prix](../results/1998-season-report.md#round-5-spanish-grand-prix)*
 
 
 ## Complete Race-by-Race Results

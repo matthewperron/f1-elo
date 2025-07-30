@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1465
 
 🏆 **Peak ELO**: 1465
-   *1973 Round 9 - British Grand Prix*
+   *[1973 Round 9 - British Grand Prix](../results/1973-season-report.md#round-9-british-grand-prix)*
 
 📉 **Lowest ELO**: 1465
-   *1973 Round 9 - British Grand Prix*
+   *[1973 Round 9 - British Grand Prix](../results/1973-season-report.md#round-9-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1973 Round 9 - British Grand Prix*
+   *[1973 Round 9 - British Grand Prix](../results/1973-season-report.md#round-9-british-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1973 Round 9 - British Grand Prix*
+   *[1973 Round 9 - British Grand Prix](../results/1973-season-report.md#round-9-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

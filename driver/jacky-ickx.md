@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1370
 
 🏆 **Peak ELO**: 1668
-   *1970 Round 12 - United States Grand Prix*
+   *[1970 Round 12 - United States Grand Prix](../results/1970-season-report.md#round-12-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1370
-   *1979 Round 15 - United States Grand Prix*
+   *[1979 Round 15 - United States Grand Prix](../results/1979-season-report.md#round-15-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1475
 
 🏆 **Peak ELO**: 1632
-   *1974 Round 2 - Brazilian Grand Prix*
+   *[1974 Round 2 - Brazilian Grand Prix](../results/1974-season-report.md#round-2-brazilian-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1968 Round 7 - British Grand Prix*
+   *[1968 Round 7 - British Grand Prix](../results/1968-season-report.md#round-7-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1443
 
 🏆 **Peak ELO**: 1581
-   *1972 Round 7 - British Grand Prix*
+   *[1972 Round 7 - British Grand Prix](../results/1972-season-report.md#round-7-british-grand-prix)*
 
 📉 **Lowest ELO**: 1443
-   *1979 Round 15 - United States Grand Prix*
+   *[1979 Round 15 - United States Grand Prix](../results/1979-season-report.md#round-15-united-states-grand-prix)*
 
 
 ## Complete Race-by-Race Results

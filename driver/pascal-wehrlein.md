@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1631
 
 🏆 **Peak ELO**: 1716
-   *2017 Round 6 - Monaco Grand Prix*
+   *[2017 Round 6 - Monaco Grand Prix](../results/2017-season-report.md#round-6-monaco-grand-prix)*
 
 📉 **Lowest ELO**: 1501
-   *2016 Round 10 - British Grand Prix*
+   *[2016 Round 10 - British Grand Prix](../results/2016-season-report.md#round-10-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1606
 
 🏆 **Peak ELO**: 1676
-   *2016 Round 16 - Malaysian Grand Prix*
+   *[2016 Round 16 - Malaysian Grand Prix](../results/2016-season-report.md#round-16-malaysian-grand-prix)*
 
 📉 **Lowest ELO**: 1532
-   *2016 Round 2 - Bahrain Grand Prix*
+   *[2016 Round 2 - Bahrain Grand Prix](../results/2016-season-report.md#round-2-bahrain-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1614
 
 🏆 **Peak ELO**: 1650
-   *2016 Round 15 - Singapore Grand Prix*
+   *[2016 Round 15 - Singapore Grand Prix](../results/2016-season-report.md#round-15-singapore-grand-prix)*
 
 📉 **Lowest ELO**: 1510
-   *2016 Round 1 - Australian Grand Prix*
+   *[2016 Round 1 - Australian Grand Prix](../results/2016-season-report.md#round-1-australian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

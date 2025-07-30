@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1413
 
 🏆 **Peak ELO**: 1502
-   *1966 Round 6 - German Grand Prix*
+   *[1966 Round 6 - German Grand Prix](../results/1966-season-report.md#round-6-german-grand-prix)*
 
 📉 **Lowest ELO**: 1360
-   *1966 Round 2 - Belgian Grand Prix*
+   *[1966 Round 2 - Belgian Grand Prix](../results/1966-season-report.md#round-2-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1383
 
 🏆 **Peak ELO**: 1471
-   *1964 Round 5 - British Grand Prix*
+   *[1964 Round 5 - British Grand Prix](../results/1964-season-report.md#round-5-british-grand-prix)*
 
 📉 **Lowest ELO**: 1383
-   *1965 Round 6 - Dutch Grand Prix*
+   *[1965 Round 6 - Dutch Grand Prix](../results/1965-season-report.md#round-6-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1391
 
 🏆 **Peak ELO**: 1491
-   *1963 Round 7 - Italian Grand Prix*
+   *[1963 Round 7 - Italian Grand Prix](../results/1963-season-report.md#round-7-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1375
-   *1966 Round 2 - Belgian Grand Prix*
+   *[1966 Round 2 - Belgian Grand Prix](../results/1966-season-report.md#round-2-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1532
 
 🏆 **Peak ELO**: 1532
-   *1960 Round 3 - Indianapolis 500*
+   *[1960 Round 3 - Indianapolis 500](../results/1960-season-report.md#round-3-indianapolis-500)*
 
 📉 **Lowest ELO**: 1532
-   *1960 Round 3 - Indianapolis 500*
+   *[1960 Round 3 - Indianapolis 500](../results/1960-season-report.md#round-3-indianapolis-500)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1510
 
 🏆 **Peak ELO**: 1510
-   *1960 Round 3 - Indianapolis 500*
+   *[1960 Round 3 - Indianapolis 500](../results/1960-season-report.md#round-3-indianapolis-500)*
 
 📉 **Lowest ELO**: 1510
-   *1960 Round 3 - Indianapolis 500*
+   *[1960 Round 3 - Indianapolis 500](../results/1960-season-report.md#round-3-indianapolis-500)*
 
 
 ## Complete Race-by-Race Results

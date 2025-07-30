@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1954 Round 5 - British Grand Prix*
+   *[1954 Round 5 - British Grand Prix](../results/1954-season-report.md#round-5-british-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1954 Round 5 - British Grand Prix*
+   *[1954 Round 5 - British Grand Prix](../results/1954-season-report.md#round-5-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1954 Round 5 - British Grand Prix*
+   *[1954 Round 5 - British Grand Prix](../results/1954-season-report.md#round-5-british-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1954 Round 5 - British Grand Prix*
+   *[1954 Round 5 - British Grand Prix](../results/1954-season-report.md#round-5-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1954 Round 5 - British Grand Prix*
+   *[1954 Round 5 - British Grand Prix](../results/1954-season-report.md#round-5-british-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1954 Round 5 - British Grand Prix*
+   *[1954 Round 5 - British Grand Prix](../results/1954-season-report.md#round-5-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results

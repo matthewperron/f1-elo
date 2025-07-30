@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1654
 
 🏆 **Peak ELO**: 1927
-   *1984 Round 7 - Canadian Grand Prix*
+   *[1984 Round 7 - Canadian Grand Prix](../results/1984-season-report.md#round-7-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1383
-   *1978 Round 13 - Dutch Grand Prix*
+   *[1978 Round 13 - Dutch Grand Prix](../results/1978-season-report.md#round-13-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1458
 
 🏆 **Peak ELO**: 1652
-   *1983 Round 9 - British Grand Prix*
+   *[1983 Round 9 - British Grand Prix](../results/1983-season-report.md#round-9-british-grand-prix)*
 
 📉 **Lowest ELO**: 1426
-   *1978 Round 11 - German Grand Prix*
+   *[1978 Round 11 - German Grand Prix](../results/1978-season-report.md#round-11-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1518
 
 🏆 **Peak ELO**: 1729
-   *1983 Round 9 - British Grand Prix*
+   *[1983 Round 9 - British Grand Prix](../results/1983-season-report.md#round-9-british-grand-prix)*
 
 📉 **Lowest ELO**: 1413
-   *1978 Round 13 - Dutch Grand Prix*
+   *[1978 Round 13 - Dutch Grand Prix](../results/1978-season-report.md#round-13-dutch-grand-prix)*
 
 
 ## Complete Race-by-Race Results

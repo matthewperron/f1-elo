@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1547
 
 🏆 **Peak ELO**: 1547
-   *1984 Round 9 - Dallas Grand Prix*
+   *[1984 Round 9 - Dallas Grand Prix](../results/1984-season-report.md#round-9-dallas-grand-prix)*
 
 📉 **Lowest ELO**: 1463
-   *1983 Round 13 - Italian Grand Prix*
+   *[1983 Round 13 - Italian Grand Prix](../results/1983-season-report.md#round-13-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1515
 
 🏆 **Peak ELO**: 1515
-   *1984 Round 9 - Dallas Grand Prix*
+   *[1984 Round 9 - Dallas Grand Prix](../results/1984-season-report.md#round-9-dallas-grand-prix)*
 
 📉 **Lowest ELO**: 1489
-   *1983 Round 13 - Italian Grand Prix*
+   *[1983 Round 13 - Italian Grand Prix](../results/1983-season-report.md#round-13-italian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

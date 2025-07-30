@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1468
-   *1963 Round 10 - South African Grand Prix*
+   *[1963 Round 10 - South African Grand Prix](../results/1963-season-report.md#round-10-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1468
-   *1963 Round 10 - South African Grand Prix*
+   *[1963 Round 10 - South African Grand Prix](../results/1963-season-report.md#round-10-south-african-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
 🏆 **Peak ELO**: 1490
-   *1963 Round 10 - South African Grand Prix*
+   *[1963 Round 10 - South African Grand Prix](../results/1963-season-report.md#round-10-south-african-grand-prix)*
 
 📉 **Lowest ELO**: 1490
-   *1963 Round 10 - South African Grand Prix*
+   *[1963 Round 10 - South African Grand Prix](../results/1963-season-report.md#round-10-south-african-grand-prix)*
 
 
 ## Complete Race-by-Race Results

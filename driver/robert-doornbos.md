@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1423
 
 🏆 **Peak ELO**: 1513
-   *2005 Round 16 - Belgian Grand Prix*
+   *[2005 Round 16 - Belgian Grand Prix](../results/2005-season-report.md#round-16-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1423
-   *2006 Round 18 - Brazilian Grand Prix*
+   *[2006 Round 18 - Brazilian Grand Prix](../results/2006-season-report.md#round-18-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1463
 
 🏆 **Peak ELO**: 1537
-   *2005 Round 15 - Italian Grand Prix*
+   *[2005 Round 15 - Italian Grand Prix](../results/2005-season-report.md#round-15-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1463
-   *2006 Round 16 - Chinese Grand Prix*
+   *[2006 Round 16 - Chinese Grand Prix](../results/2006-season-report.md#round-16-chinese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1450
 
 🏆 **Peak ELO**: 1518
-   *2005 Round 15 - Italian Grand Prix*
+   *[2005 Round 15 - Italian Grand Prix](../results/2005-season-report.md#round-15-italian-grand-prix)*
 
 📉 **Lowest ELO**: 1450
-   *2006 Round 18 - Brazilian Grand Prix*
+   *[2006 Round 18 - Brazilian Grand Prix](../results/2006-season-report.md#round-18-brazilian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

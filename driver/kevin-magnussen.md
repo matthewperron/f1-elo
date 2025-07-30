@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1459
 
 🏆 **Peak ELO**: 1691
-   *2022 Round 11 - Austrian Grand Prix*
+   *[2022 Round 11 - Austrian Grand Prix](../results/2022-season-report.md#round-11-austrian-grand-prix)*
 
 📉 **Lowest ELO**: 1373
-   *2024 Round 18 - Singapore Grand Prix*
+   *[2024 Round 18 - Singapore Grand Prix](../results/2024-season-report.md#round-18-singapore-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1403
 
 🏆 **Peak ELO**: 1620
-   *2020 Round 17 - Abu Dhabi Grand Prix*
+   *[2020 Round 17 - Abu Dhabi Grand Prix](../results/2020-season-report.md#round-17-abu-dhabi-grand-prix)*
 
 📉 **Lowest ELO**: 1401
-   *2024 Round 12 - British Grand Prix*
+   *[2024 Round 12 - British Grand Prix](../results/2024-season-report.md#round-12-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1420
 
 🏆 **Peak ELO**: 1596
-   *2022 Round 19 - United States Grand Prix*
+   *[2022 Round 19 - United States Grand Prix](../results/2022-season-report.md#round-19-united-states-grand-prix)*
 
 📉 **Lowest ELO**: 1406
-   *2024 Round 13 - Hungarian Grand Prix*
+   *[2024 Round 13 - Hungarian Grand Prix](../results/2024-season-report.md#round-13-hungarian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

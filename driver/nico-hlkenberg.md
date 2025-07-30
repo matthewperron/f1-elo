@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1459
 
 🏆 **Peak ELO**: 1859
-   *2017 Round 10 - British Grand Prix*
+   *[2017 Round 10 - British Grand Prix](../results/2017-season-report.md#round-10-british-grand-prix)*
 
 📉 **Lowest ELO**: 1414
-   *2012 Round 15 - Japanese Grand Prix*
+   *[2012 Round 15 - Japanese Grand Prix](../results/2012-season-report.md#round-15-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1585
 
 🏆 **Peak ELO**: 1744
-   *2018 Round 7 - Canadian Grand Prix*
+   *[2018 Round 7 - Canadian Grand Prix](../results/2018-season-report.md#round-7-canadian-grand-prix)*
 
 📉 **Lowest ELO**: 1388
-   *2012 Round 7 - Canadian Grand Prix*
+   *[2012 Round 7 - Canadian Grand Prix](../results/2012-season-report.md#round-7-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1546
 
 🏆 **Peak ELO**: 1751
-   *2018 Round 3 - Chinese Grand Prix*
+   *[2018 Round 3 - Chinese Grand Prix](../results/2018-season-report.md#round-3-chinese-grand-prix)*
 
 📉 **Lowest ELO**: 1403
-   *2012 Round 7 - Canadian Grand Prix*
+   *[2012 Round 7 - Canadian Grand Prix](../results/2012-season-report.md#round-7-canadian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

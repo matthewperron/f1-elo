@@ -11,28 +11,28 @@
 **Career Journey**: 1500 → 1524
 
 🏆 **Peak ELO**: 1581
-   *2011 Round 12 - Belgian Grand Prix*
+   *[2011 Round 12 - Belgian Grand Prix](../results/2011-season-report.md#round-12-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1370
-   *2010 Round 17 - Korean Grand Prix*
+   *[2010 Round 17 - Korean Grand Prix](../results/2010-season-report.md#round-17-korean-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1513
 
 🏆 **Peak ELO**: 1590
-   *2011 Round 9 - British Grand Prix*
+   *[2011 Round 9 - British Grand Prix](../results/2011-season-report.md#round-9-british-grand-prix)*
 
 📉 **Lowest ELO**: 1429
-   *2010 Round 10 - British Grand Prix*
+   *[2010 Round 10 - British Grand Prix](../results/2010-season-report.md#round-10-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1516
 
 🏆 **Peak ELO**: 1587
-   *2011 Round 12 - Belgian Grand Prix*
+   *[2011 Round 12 - Belgian Grand Prix](../results/2011-season-report.md#round-12-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1429
-   *2010 Round 13 - Belgian Grand Prix*
+   *[2010 Round 13 - Belgian Grand Prix](../results/2010-season-report.md#round-13-belgian-grand-prix)*
 
 
 ## Complete Race-by-Race Results

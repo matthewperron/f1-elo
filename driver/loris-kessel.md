@@ -11,19 +11,19 @@
 **Career Journey**: 1500 → 1425
 
 🏆 **Peak ELO**: 1468
-   *1976 Round 5 - Belgian Grand Prix*
+   *[1976 Round 5 - Belgian Grand Prix](../results/1976-season-report.md#round-5-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1425
-   *1976 Round 11 - Austrian Grand Prix*
+   *[1976 Round 11 - Austrian Grand Prix](../results/1976-season-report.md#round-11-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1478
 
 🏆 **Peak ELO**: 1490
-   *1976 Round 5 - Belgian Grand Prix*
+   *[1976 Round 5 - Belgian Grand Prix](../results/1976-season-report.md#round-5-belgian-grand-prix)*
 
 📉 **Lowest ELO**: 1478
-   *1976 Round 11 - Austrian Grand Prix*
+   *[1976 Round 11 - Austrian Grand Prix](../results/1976-season-report.md#round-11-austrian-grand-prix)*
 
 
 ## Complete Race-by-Race Results
