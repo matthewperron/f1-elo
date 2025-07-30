@@ -3,6 +3,120 @@ import { calculateELO, updateREADME, saveFinalELOs, generateSeasonReport } from 
 import fs from 'fs/promises';
 
 /**
+ * Global peak ELO tracker across all seasons
+ */
+const globalPeakELOs = new Map(); // driverId -> { peak, date, race, season, constructor, teammate, teammateElo }
+
+/**
+ * Update peak ELO tracking for drivers in this season
+ */
+function updatePeakELOs(driverRatings, raceEvents, season) {
+    // Track peak ELO by processing race events chronologically
+    raceEvents.forEach(raceEvent => {
+        raceEvent.eloChanges.forEach(change => {
+            const driverId = change.driverId;
+            const currentElo = change.newElo;
+            
+            // Check if this is a new peak for this driver
+            if (!globalPeakELOs.has(driverId) || currentElo > globalPeakELOs.get(driverId).peak) {
+                // Find teammate info from the same race event
+                const teammateChange = raceEvent.eloChanges.find(c => 
+                    c.driverId !== driverId && 
+                    c.type === change.type && 
+                    c.constructor === change.constructor
+                );
+                
+                globalPeakELOs.set(driverId, {
+                    peak: currentElo,
+                    date: raceEvent.date,
+                    race: raceEvent.raceName,
+                    season: season,
+                    constructor: change.constructor,
+                    teammate: teammateChange ? teammateChange.driverName : 'Unknown',
+                    teammateElo: teammateChange ? teammateChange.newElo : null,
+                    name: change.driverName
+                });
+            }
+        });
+    });
+}
+
+/**
+ * Generate peak ELO markdown file
+ */
+async function generatePeakELOFile() {
+    // Convert to array and sort by peak ELO
+    const peakDrivers = Array.from(globalPeakELOs.entries())
+        .map(([driverId, data]) => ({ driverId, ...data }))
+        .sort((a, b) => b.peak - a.peak);
+    
+    let content = `# F1 Driver Peak ELO Ratings\n\n`;
+    content += `This file contains the highest ELO rating ever achieved by each Formula 1 driver.\n\n`;
+    content += `## All-Time Peak ELO Rankings\n\n`;
+    content += `| Rank | Driver | Peak ELO | Constructor | Date | Race | Season | Teammate | Teammate ELO | Report |\n`;
+    content += `|------|--------|----------|-------------|------|------|--------|----------|--------------|--------|\n`;
+    
+    peakDrivers.forEach((driver, index) => {
+        const reportLink = `[${driver.season} Report](./results/${driver.season}-season-report.md)`;
+        content += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.race} | ${driver.season} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${reportLink} |\n`;
+    });
+    
+    content += `\n## Statistics\n\n`;
+    content += `- **Total drivers tracked**: ${peakDrivers.length}\n`;
+    content += `- **Highest peak ELO**: ${peakDrivers[0]?.peak || 'N/A'} (${peakDrivers[0]?.name || 'N/A'})\n`;
+    content += `- **Average peak ELO**: ${Math.round(peakDrivers.reduce((sum, d) => sum + d.peak, 0) / peakDrivers.length) || 'N/A'}\n`;
+    content += `\n*Generated on: ${new Date().toISOString().split('T')[0]}*\n`;
+    
+    await fs.writeFile('peak-elo.md', content, 'utf8');
+    console.log(`✓ Generated peak-elo.md with ${peakDrivers.length} drivers`);
+    
+    return peakDrivers;
+}
+
+/**
+ * Update README with top 30 drivers table
+ */
+async function updateREADMEWithTop30(peakDrivers) {
+    try {
+        const readmeContent = await fs.readFile('README.md', 'utf8');
+        
+        // Create the top 30 drivers table
+        const top30 = peakDrivers.slice(0, 30);
+        let tableContent = `\n## Top 30 F1 Drivers of All Time (by Peak ELO)\n\n`;
+        tableContent += `| Rank | Driver | Peak ELO | Constructor | Teammate | Teammate ELO | Season | Report |\n`;
+        tableContent += `|------|--------|----------|-------------|----------|--------------|--------|--------|\n`;
+        
+        top30.forEach((driver, index) => {
+            const reportLink = `[${driver.season}](./results/${driver.season}-season-report.md)`;
+            tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${driver.season} | ${reportLink} |\n`;
+        });
+        
+        tableContent += `\n*Based on peak ELO ratings achieved during their F1 careers. Updated: ${new Date().toISOString().split('T')[0]}*\n`;
+        
+        // Find the position to insert the table (after the current season results)
+        const eloResultsEndPattern = /<!-- ELO_RESULTS_END -->/;
+        const match = readmeContent.match(eloResultsEndPattern);
+        
+        if (match) {
+            const insertPosition = match.index + match[0].length;
+            const beforeTable = readmeContent.substring(0, insertPosition);
+            const afterTable = readmeContent.substring(insertPosition);
+            
+            // Remove any existing top 30 table
+            const cleanAfterTable = afterTable.replace(/\n## Top 30 F1 Drivers of All Time.*?\*Based on peak ELO ratings.*?\*\n/s, '');
+            
+            const newContent = beforeTable + tableContent + cleanAfterTable;
+            await fs.writeFile('README.md', newContent, 'utf8');
+            console.log(`✓ Added top 30 drivers table to README`);
+        } else {
+            console.log(`⚠ Could not find ELO_RESULTS_END marker in README`);
+        }
+    } catch (error) {
+        console.error(`⚠ Error updating README with top 30:`, error.message);
+    }
+}
+
+/**
  * Calculate ELO for a single season with rate limit handling
  */
 async function calculateSeason(season, retryCount = 0) {
@@ -65,6 +179,9 @@ async function calculateSeason(season, retryCount = 0) {
         
         // Step 2: Calculate ELO ratings
         const { driverRatings, raceEvents } = await calculateELO(raceData, season);
+        
+        // Step 2.5: Update peak ELO tracking for each driver
+        updatePeakELOs(driverRatings, raceEvents, season);
         
         // Step 3: Generate detailed season report
         await generateSeasonReport(driverRatings, raceEvents, season);
@@ -176,9 +293,12 @@ async function bulkCalculate() {
         console.log(`Failed seasons: ${failed.map(f => f.season).join(', ')}`);
     }
     
-    // Update README with the latest (current) season
+    // Generate peak ELO file and update README
     if (successful.length > 0) {
-        console.log(`\nUpdating README with ${endYear} season results...`);
+        console.log(`\nGenerating peak ELO file...`);
+        const peakDrivers = await generatePeakELOFile();
+        
+        console.log(`\nUpdating README with ${endYear} season results and top 30 drivers...`);
         
         // Load the latest season data to update README
         try {
@@ -187,7 +307,8 @@ async function bulkCalculate() {
             const raceData = JSON.parse(latestData);
             const { driverRatings } = await calculateELO(raceData, endYear.toString());
             await updateREADME(driverRatings, endYear.toString());
-            console.log(`✓ README updated with ${endYear} season`);
+            await updateREADMEWithTop30(peakDrivers);
+            console.log(`✓ README updated with ${endYear} season and top 30 drivers`);
         } catch (error) {
             console.error(`⚠ Could not update README:`, error.message);
         }
