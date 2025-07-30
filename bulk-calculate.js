@@ -169,17 +169,17 @@ async function updateIndexWithTop30(peakDriversData) {
         let allTablesContent = '';
         allTablesContent += createTop30Table(
             peakDriversData.race, 
-            'Top 30 F1 Drivers of All Time - Race Performance',
+            '[Top 30 F1 Drivers of All Time](docs/peak-elo) - Race Performance',
             'Based on peak **Race ELO** ratings (race finishing positions vs teammates).'
         );
         allTablesContent += createTop30Table(
             peakDriversData.qualifying, 
-            'Top 30 F1 Drivers of All Time - Qualifying Performance', 
+            '[Top 30 F1 Drivers of All Time](docs/peak-elo) - Qualifying Performance', 
             'Based on peak **Qualifying ELO** ratings (qualifying positions vs teammates).'
         );
         allTablesContent += createTop30Table(
             peakDriversData.global, 
-            'Top 30 F1 Drivers of All Time - Overall Performance',
+            '[Top 30 F1 Drivers of All Time](docs/peak-elo) - Overall Performance',
             'Based on peak **Global ELO** ratings (30% qualifying + 70% race performance vs teammates).'
         );
         

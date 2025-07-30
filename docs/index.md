@@ -5,25 +5,7 @@
 Welcome! This site hosts historical ELO rankings for all Formula 1 drivers since 1950, based on teammate matchups in races and qualifying.
 
 - [Project on GitHub](https://github.com/matthewperron/f1-elo)
-- [See the peak elo driver ratings](./peak-elo)
-- [How it works](https://github.com/matthewperron/f1-elo/blob/main/readme.md)
-
-## Detailed Season Reports
-
-Race-by-race ELO changes and detailed analysis for each season:
-
-| Decades | Season Reports |
-|---------|----------------|
-| **2020s** | [2025](docs/2025-season-report) \| [2024](docs/seasons/2024-season-report) \| [2023](docs/seasons/2023-season-report) \| [2022](docs/seasons/2022-season-report) \| [2021](docs/seasons/2021-season-report) \| [2020](docs/seasons/2020-season-report) |
-| **2010s** | [2019](docs/seasons/2019-season-report) \| [2018](docs/seasons/2018-season-report) \| [2017](docs/seasons/2017-season-report) \| [2016](docs/seasons/2016-season-report) \| [2015](docs/seasons/2015-season-report) \| [2014](docs/seasons/2014-season-report) \| [2013](docs/seasons/2013-season-report) \| [2012](docs/seasons/2012-season-report) \| [2011](docs/seasons/2011-season-report) \| [2010](docs/seasons/2010-season-report) |
-| **2000s** | [2009](docs/seasons/2009-season-report) \| [2008](docs/seasons/2008-season-report) \| [2007](docs/seasons/2007-season-report) \| [2006](docs/seasons/2006-season-report) \| [2005](docs/seasons/2005-season-report) \| [2004](docs/seasons/2004-season-report) \| [2003](docs/seasons/2003-season-report) \| [2002](docs/seasons/2002-season-report) \| [2001](docs/seasons/2001-season-report) \| [2000](docs/seasons/2000-season-report) |
-| **1990s** | [1999](docs/seasons/1999-season-report) \| [1998](docs/seasons/1998-season-report) \| [1997](docs/seasons/1997-season-report) \| [1996](docs/seasons/1996-season-report) \| [1995](docs/seasons/1995-season-report) \| [1994](docs/seasons/1994-season-report) \| [1993](docs/seasons/1993-season-report) \| [1992](docs/seasons/1992-season-report) \| [1991](docs/seasons/1991-season-report) \| [1990](docs/seasons/1990-season-report) |
-| **1980s** | [1989](docs/seasons/1989-season-report) \| [1988](docs/seasons/1988-season-report) \| [1987](docs/seasons/1987-season-report) \| [1986](docs/seasons/1986-season-report) \| [1985](docs/seasons/1985-season-report) \| [1984](docs/seasons/1984-season-report) \| [1983](docs/seasons/1983-season-report) \| [1982](docs/seasons/1982-season-report) \| [1981](docs/seasons/1981-season-report) \| [1980](docs/seasons/1980-season-report) |
-| **1970s** | [1979](docs/seasons/1979-season-report) \| [1978](docs/seasons/1978-season-report) \| [1977](docs/seasons/1977-season-report) \| [1976](docs/seasons/1976-season-report) \| [1975](docs/seasons/1975-season-report) \| [1974](docs/seasons/1974-season-report) \| [1973](docs/seasons/1973-season-report) \| [1972](docs/seasons/1972-season-report) \| [1971](docs/seasons/1971-season-report) \| [1970](docs/seasons/1970-season-report) |
-| **1960s** | [1969](docs/seasons/1969-season-report) \| [1968](docs/seasons/1968-season-report) \| [1967](docs/seasons/1967-season-report) \| [1966](docs/seasons/1966-season-report) \| [1965](docs/seasons/1965-season-report) \| [1964](docs/seasons/1964-season-report) \| [1963](docs/seasons/1963-season-report) \| [1962](docs/seasons/1962-season-report) \| [1961](docs/seasons/1961-season-report) \| [1960](docs/seasons/1960-season-report) |
-| **1950s** | [1959](docs/seasons/1959-season-report) \| [1958](docs/seasons/1958-season-report) \| [1957](docs/seasons/1957-season-report) \| [1956](docs/seasons/1956-season-report) \| [1955](docs/seasons/1955-season-report) \| [1954](docs/seasons/1954-season-report) \| [1953](docs/seasons/1953-season-report) \| [1952](docs/seasons/1952-season-report) \| [1951](docs/seasons/1951-season-report) \| [1950](docs/seasons/1950-season-report) |
-
-*Each season report contains the final ELO table plus detailed race-by-race analysis showing how each driver's ELO changed after every qualifying session and race.*
+- [How it works](https://github.com/matthewperron/f1-elo?tab=readme-ov-file#methodology)
 
 ---
 
@@ -56,7 +38,7 @@ Race-by-race ELO changes and detailed analysis for each season:
 | 21 | 1427 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](docs/drivers/liam-lawson) | Red Bull | 1330 | 1350 | 1343 |
 
 <!-- ELO_RESULTS_END -->
-## Top 30 F1 Drivers of All Time - Race Performance
+## [Top 30 F1 Drivers of All Time](docs/peak-elo) - Race Performance
 
 Based on peak **Race ELO** ratings (race finishing positions vs teammates).
 
@@ -93,7 +75,7 @@ Based on peak **Race ELO** ratings (race finishing positions vs teammates).
 | 29 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger | **1717** | Benetton | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi | 1579 | 1997 | [Round 12: Belgian Grand Prix](./seasons/1997-season-report#round-12-belgian-grand-prix) |
 | 30 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon | **1714** | Force India | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez | 1483 | 2018 | [Round 10: British Grand Prix](./seasons/2018-season-report#round-10-british-grand-prix) |
 
-## Top 30 F1 Drivers of All Time - Qualifying Performance
+## [Top 30 F1 Drivers of All Time](docs/peak-elo) - Qualifying Performance
 
 Based on peak **Qualifying ELO** ratings (qualifying positions vs teammates).
 
@@ -130,7 +112,7 @@ Based on peak **Qualifying ELO** ratings (qualifying positions vs teammates).
 | 29 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux | **1848** | Ligier | Stefan Johansson | 1396 | 1988 | [Round 5: Canadian Grand Prix](./seasons/1988-season-report#round-5-canadian-grand-prix) |
 | 30 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti | **1838** | Team Lotus | Ronnie Peterson | 1589 | 1978 | [Round 14: Italian Grand Prix](./seasons/1978-season-report#round-14-italian-grand-prix) |
 
-## Top 30 F1 Drivers of All Time - Overall Performance
+## [Top 30 F1 Drivers of All Time](docs/peak-elo) - Overall Performance
 
 Based on peak **Global ELO** ratings (30% qualifying + 70% race performance vs teammates).
 
@@ -167,8 +149,25 @@ Based on peak **Global ELO** ratings (30% qualifying + 70% race performance vs t
 | 29 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen | **1730** | McLaren | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard | 1398 | 1999 | [Round 6: Canadian Grand Prix](./seasons/1999-season-report#round-6-canadian-grand-prix) |
 | 30 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg | **1729** | Williams | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite | 1423 | 1983 | [Round 9: British Grand Prix](./seasons/1983-season-report#round-9-british-grand-prix) |
 
-*Based on peak ELO ratings achieved during their F1 careers. Updated: 2025-07-30 18:53*
+*Based on peak ELO ratings achieved during their F1 careers. Updated: 2025-07-30 19:02*
 
+
+## Detailed Season Reports
+
+Race-by-race ELO changes and detailed analysis for each season:
+
+| Decades | Season Reports |
+|---------|----------------|
+| **2020s** | [2025](docs/2025-season-report) \| [2024](docs/seasons/2024-season-report) \| [2023](docs/seasons/2023-season-report) \| [2022](docs/seasons/2022-season-report) \| [2021](docs/seasons/2021-season-report) \| [2020](docs/seasons/2020-season-report) |
+| **2010s** | [2019](docs/seasons/2019-season-report) \| [2018](docs/seasons/2018-season-report) \| [2017](docs/seasons/2017-season-report) \| [2016](docs/seasons/2016-season-report) \| [2015](docs/seasons/2015-season-report) \| [2014](docs/seasons/2014-season-report) \| [2013](docs/seasons/2013-season-report) \| [2012](docs/seasons/2012-season-report) \| [2011](docs/seasons/2011-season-report) \| [2010](docs/seasons/2010-season-report) |
+| **2000s** | [2009](docs/seasons/2009-season-report) \| [2008](docs/seasons/2008-season-report) \| [2007](docs/seasons/2007-season-report) \| [2006](docs/seasons/2006-season-report) \| [2005](docs/seasons/2005-season-report) \| [2004](docs/seasons/2004-season-report) \| [2003](docs/seasons/2003-season-report) \| [2002](docs/seasons/2002-season-report) \| [2001](docs/seasons/2001-season-report) \| [2000](docs/seasons/2000-season-report) |
+| **1990s** | [1999](docs/seasons/1999-season-report) \| [1998](docs/seasons/1998-season-report) \| [1997](docs/seasons/1997-season-report) \| [1996](docs/seasons/1996-season-report) \| [1995](docs/seasons/1995-season-report) \| [1994](docs/seasons/1994-season-report) \| [1993](docs/seasons/1993-season-report) \| [1992](docs/seasons/1992-season-report) \| [1991](docs/seasons/1991-season-report) \| [1990](docs/seasons/1990-season-report) |
+| **1980s** | [1989](docs/seasons/1989-season-report) \| [1988](docs/seasons/1988-season-report) \| [1987](docs/seasons/1987-season-report) \| [1986](docs/seasons/1986-season-report) \| [1985](docs/seasons/1985-season-report) \| [1984](docs/seasons/1984-season-report) \| [1983](docs/seasons/1983-season-report) \| [1982](docs/seasons/1982-season-report) \| [1981](docs/seasons/1981-season-report) \| [1980](docs/seasons/1980-season-report) |
+| **1970s** | [1979](docs/seasons/1979-season-report) \| [1978](docs/seasons/1978-season-report) \| [1977](docs/seasons/1977-season-report) \| [1976](docs/seasons/1976-season-report) \| [1975](docs/seasons/1975-season-report) \| [1974](docs/seasons/1974-season-report) \| [1973](docs/seasons/1973-season-report) \| [1972](docs/seasons/1972-season-report) \| [1971](docs/seasons/1971-season-report) \| [1970](docs/seasons/1970-season-report) |
+| **1960s** | [1969](docs/seasons/1969-season-report) \| [1968](docs/seasons/1968-season-report) \| [1967](docs/seasons/1967-season-report) \| [1966](docs/seasons/1966-season-report) \| [1965](docs/seasons/1965-season-report) \| [1964](docs/seasons/1964-season-report) \| [1963](docs/seasons/1963-season-report) \| [1962](docs/seasons/1962-season-report) \| [1961](docs/seasons/1961-season-report) \| [1960](docs/seasons/1960-season-report) |
+| **1950s** | [1959](docs/seasons/1959-season-report) \| [1958](docs/seasons/1958-season-report) \| [1957](docs/seasons/1957-season-report) \| [1956](docs/seasons/1956-season-report) \| [1955](docs/seasons/1955-season-report) \| [1954](docs/seasons/1954-season-report) \| [1953](docs/seasons/1953-season-report) \| [1952](docs/seasons/1952-season-report) \| [1951](docs/seasons/1951-season-report) \| [1950](docs/seasons/1950-season-report) |
+
+*Each season report contains the final ELO table plus detailed race-by-race analysis showing how each driver's ELO changed after every qualifying session and race.*
 
 ## About This Project
 
