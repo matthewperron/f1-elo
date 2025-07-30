@@ -105,6 +105,39 @@ function formatEloChange(change) {
 }
 
 /**
+ * Track individual driver results for per-driver markdown files
+ */
+function trackDriverResult(driverResults, change, race, season) {
+    const driverId = change.driverId;
+    
+    if (!driverResults.has(driverId)) {
+        driverResults.set(driverId, {
+            driverName: change.driverName,
+            results: []
+        });
+    }
+    
+    driverResults.get(driverId).results.push({
+        season: season,
+        raceName: race.raceName,
+        round: race.round,
+        date: race.date,
+        session: change.type,
+        constructor: change.constructor,
+        position: change.position,
+        startingElo: change.startingElo,
+        eloChange: change.eloChange,
+        newElo: change.newElo,
+        result: change.result,
+        teammate: change.opponent,
+        teammatePosition: change.opponentPosition,
+        teammateStartingElo: null, // Will be filled from teammate's data
+        teammateEloChange: null, // Will be filled from teammate's data
+        teammateNewElo: null // Will be filled from teammate's data
+    });
+}
+
+/**
  * Load starting ELO ratings from previous season
  */
 async function loadStartingELOs(season) {
@@ -186,6 +219,7 @@ async function calculateELO(raceData, season) {
     const K_FACTOR = 64; // ELO K-factor
     const INITIAL_ELO = 1500; // Starting ELO rating
     const raceEvents = []; // Store detailed race-by-race ELO changes
+    const driverResults = new Map(); // Track all results per driver for individual files
     
     // Load starting ELOs from previous season
     const startingELOs = await loadStartingELOs(season);
@@ -220,15 +254,33 @@ async function calculateELO(raceData, season) {
             
             // Calculate qualifying ELO changes
             const qualifyingChanges = processTeammateComparisonWithDetails(teammates, drivers, 'qualifying', K_FACTOR, INITIAL_ELO, startingELOs);
-            if (qualifyingChanges) raceEvent.eloChanges.push(...qualifyingChanges);
+            if (qualifyingChanges) {
+                raceEvent.eloChanges.push(...qualifyingChanges);
+                // Track driver results
+                qualifyingChanges.forEach(change => {
+                    trackDriverResult(driverResults, change, race, season);
+                });
+            }
             
             // Calculate race ELO changes
             const raceChanges = processTeammateComparisonWithDetails(teammates, drivers, 'race', K_FACTOR, INITIAL_ELO, startingELOs);
-            if (raceChanges) raceEvent.eloChanges.push(...raceChanges);
+            if (raceChanges) {
+                raceEvent.eloChanges.push(...raceChanges);
+                // Track driver results
+                raceChanges.forEach(change => {
+                    trackDriverResult(driverResults, change, race, season);
+                });
+            }
             
             // Calculate global ELO changes using weighted approach (30% qualifying + 70% race)
             const globalChanges = calculateGlobalELOChanges(qualifyingChanges, raceChanges, teammates, drivers, raceEvent);
-            if (globalChanges) raceEvent.eloChanges.push(...globalChanges);
+            if (globalChanges) {
+                raceEvent.eloChanges.push(...globalChanges);
+                // Track driver results
+                globalChanges.forEach(change => {
+                    trackDriverResult(driverResults, change, race, season);
+                });
+            }
         });
         
         // Only add race event if there were ELO changes
@@ -253,7 +305,7 @@ async function calculateELO(raceData, season) {
     driverRatings.sort((a, b) => b.globalElo - a.globalElo);
     
     console.log(`✓ ELO calculations completed for ${driverRatings.length} drivers`);
-    return { driverRatings, raceEvents };
+    return { driverRatings, raceEvents, driverResults };
 }
 
 /**
@@ -428,12 +480,24 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
 /**
  * Generate markdown table for README
  */
-function generateELOTable(driverRatings) {
+function generateELOTable(driverRatings, season) {
     let table = '| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |\n';
     table += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
     
     driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
-        table += `| ${index + 1} | ${driver.startingElo} | ${driver.name} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
+        // Create driver file link
+        const cleanDriverName = driver.name
+            .replace(/<img[^>]*>/g, '') // Remove entire img tags
+            .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
+            .trim() // Trim whitespace first
+            .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
+            .replace(/\s+/g, '-') // Replace spaces with hyphens
+            .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
+            .toLowerCase();
+        
+        const driverLink = `[${driver.name}](driver/${cleanDriverName}-${season}.md)`;
+        
+        table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
     });
     
     return table;
@@ -450,7 +514,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     
     // Final ELO Table
     content += `## Final ELO Ratings\n\n`;
-    content += generateELOTable(driverRatings);
+    content += generateELOTable(driverRatings, season);
     
     // Race-by-race details
     content += `## Race-by-Race ELO Changes\n\n`;
@@ -573,7 +637,7 @@ async function updateREADME(driverRatings, season) {
         const readmePath = './README.md';
         const readmeContent = await fs.readFile(readmePath, 'utf8');
         
-        const table = generateELOTable(driverRatings);
+        const table = generateELOTable(driverRatings, season);
         const now = new Date();
         const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
         
@@ -597,6 +661,145 @@ ${table}
         console.error('Error updating README:', error);
         throw error;
     }
+}
+
+/**
+ * Generate comprehensive ELO table for README (links to comprehensive driver files)
+ */
+function generateComprehensiveELOTable(driverRatings) {
+    let table = '| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |\n';
+    table += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
+    
+    driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
+        // Create driver file link (comprehensive, no season)
+        const cleanDriverName = driver.name
+            .replace(/<img[^>]*>/g, '') // Remove entire img tags
+            .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
+            .trim() // Trim whitespace first
+            .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
+            .replace(/\s+/g, '-') // Replace spaces with hyphens
+            .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
+            .toLowerCase();
+        
+        const driverLink = `[${driver.name}](driver/${cleanDriverName}.md)`;
+        
+        table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
+    });
+    
+    return table;
+}
+
+/**
+ * Update README with comprehensive ELO results (links to comprehensive driver files)
+ */
+async function updateREADMEComprehensive(driverRatings, season) {
+    try {
+        const readmePath = './README.md';
+        const readmeContent = await fs.readFile(readmePath, 'utf8');
+        
+        const table = generateComprehensiveELOTable(driverRatings);
+        const now = new Date();
+        const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
+        
+        const newContent = `### ELO Ratings (${season} Season)
+*Last updated: ${timestamp}*
+
+${table}
+
+`;
+        
+        // Replace content between markers
+        const updatedContent = readmeContent.replace(
+            /<!-- ELO_RESULTS_START -->.*?<!-- ELO_RESULTS_END -->/s,
+            `<!-- ELO_RESULTS_START -->\n${newContent}\n<!-- ELO_RESULTS_END -->`
+        );
+        
+        await fs.writeFile(readmePath, updatedContent, 'utf8');
+        console.log('✓ README updated with comprehensive ELO ratings');
+        
+    } catch (error) {
+        console.error('Error updating README:', error);
+        throw error;
+    }
+}
+
+/**
+ * Generate individual driver markdown files
+ */
+async function generateDriverFiles(driverResults, season) {
+    console.log('Generating individual driver files...');
+    
+    for (const [driverId, driverData] of driverResults) {
+        const results = driverData.results;
+        if (results.length === 0) continue;
+        
+        // Clean driver name for filename (remove flags and special characters)
+        const cleanDriverName = driverData.driverName
+            .replace(/<img[^>]*>/g, '') // Remove entire img tags
+            .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
+            .trim() // Trim whitespace first
+            .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
+            .replace(/\s+/g, '-') // Replace spaces with hyphens
+            .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
+            .toLowerCase();
+        
+        let content = `# ${driverData.driverName} - ${season} Season Results\n\n`;
+        content += `*Generated: ${new Date().toISOString().split('T')[0]}*\n\n`;
+        
+        // Summary table header
+        content += `## Race-by-Race Results\n\n`;
+        content += `| Round | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate | Teammate Position | Teammate Starting ELO | Teammate ELO Change | Teammate Final ELO |\n`;
+        content += `|-------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|-------------------|----------------------|---------------------|-------------------|\n`;
+        
+        // Group results by round and session type
+        const resultsByRound = new Map();
+        results.forEach(result => {
+            const key = `${result.round}-${result.session}`;
+            if (!resultsByRound.has(key)) {
+                resultsByRound.set(key, []);
+            }
+            resultsByRound.get(key).push(result);
+        });
+        
+        // Sort results chronologically
+        const sortedResults = results.sort((a, b) => {
+            if (a.round !== b.round) return a.round - b.round;
+            // Order: qualifying, race, global
+            const sessionOrder = { 'qualifying': 1, 'race': 2, 'global': 3 };
+            return sessionOrder[a.session] - sessionOrder[b.session];
+        });
+        
+        // Fill in teammate data by matching opposite entries
+        sortedResults.forEach(result => {
+            // Find teammate's corresponding result for the same round and session
+            const teammateResult = sortedResults.find(r => 
+                r.round === result.round && 
+                r.session === result.session && 
+                r.teammate === driverData.driverName &&
+                r.constructor === result.constructor
+            );
+            
+            if (teammateResult) {
+                result.teammateStartingElo = teammateResult.startingElo;
+                result.teammateEloChange = teammateResult.eloChange;
+                result.teammateNewElo = teammateResult.newElo;
+            }
+        });
+        
+        // Generate table rows
+        sortedResults.forEach(result => {
+            const eloChangeStr = result.eloChange !== null ? (result.eloChange >= 0 ? `+${result.eloChange}` : `${result.eloChange}`) : 'N/A';
+            const teammateEloChangeStr = result.teammateEloChange !== null ? (result.teammateEloChange >= 0 ? `+${result.teammateEloChange}` : `${result.teammateEloChange}`) : 'N/A';
+            
+            content += `| ${result.round} | ${result.raceName} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${result.teammate} | ${result.teammatePosition} | ${result.teammateStartingElo || 'N/A'} | ${teammateEloChangeStr} | ${result.teammateNewElo || 'N/A'} |\n`;
+        });
+        
+        // Save driver file
+        const fileName = `driver/${cleanDriverName}-${season}.md`;
+        await fs.writeFile(fileName, content, 'utf8');
+    }
+    
+    console.log(`✓ Generated ${driverResults.size} individual driver files`);
 }
 
 /**
@@ -646,7 +849,7 @@ async function calculateELOFromData(season = '2025') {
         console.log(`✓ Loaded ${raceData.totalRaces} races for ${season} season`);
         
         // Calculate ELO ratings
-        const { driverRatings, raceEvents } = await calculateELO(raceData, season);
+        const { driverRatings, raceEvents, driverResults } = await calculateELO(raceData, season);
         
         // Generate detailed season report
         await generateSeasonReport(driverRatings, raceEvents, season);
@@ -677,7 +880,7 @@ async function calculateELOFromData(season = '2025') {
 }
 
 // Export functions
-export { calculateELO, updateREADME, saveFinalELOs, calculateELOFromData, generateSeasonReport };
+export { calculateELO, updateREADME, updateREADMEComprehensive, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles };
 
 // Run if called directly (check if this file is the main module being executed)
 import path from 'path';

@@ -1,5 +1,5 @@
 import { fetchAllSeasonResults, transformRaceData, saveToFile } from './fetch-results.js';
-import { calculateELO, updateREADME, saveFinalELOs, generateSeasonReport } from './calculate-elo.js';
+import { calculateELO, updateREADME, saveFinalELOs, generateSeasonReport, generateDriverFiles } from './calculate-elo.js';
 import fs from 'fs/promises';
 
 /**
@@ -50,7 +50,7 @@ async function main() {
         }
         
         // Step 2: Calculate ELO ratings
-        const { driverRatings, raceEvents } = await calculateELO(raceData, season);
+        const { driverRatings, raceEvents, driverResults } = await calculateELO(raceData, season);
         
         // Step 3: Generate detailed season report
         await generateSeasonReport(driverRatings, raceEvents, season);

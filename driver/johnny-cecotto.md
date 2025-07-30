@@ -1,0 +1,68 @@
+# Johnny Cecotto - Complete F1 Career Results
+
+*Generated: 2025-07-30*
+
+**Seasons**: 1983, 1984
+**Total Race Events**: 17 (51 individual ELO calculations)
+
+## Complete Race-by-Race Results
+
+| Season | Round | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate | Teammate Position | Teammate Starting ELO | Teammate ELO Change | Teammate Final ELO |
+|--------|-------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|-------------------|----------------------|---------------------|-------------------|
+| 1983 | 1 | Brazilian Grand Prix | 1983-03-13 | qualifying | Theodore | 19 | 1500 | -32 | 1468 | Roberto Guerrero | 14 | N/A | N/A | N/A |
+| 1983 | 1 | Brazilian Grand Prix | 1983-03-13 | race | Theodore | 12 | 1500 | N/A | 1500 | Roberto Guerrero | DNF | N/A | N/A | N/A |
+| 1983 | 1 | Brazilian Grand Prix | 1983-03-13 | global | Theodore | Q:19/R:12 | 1500 | -10 | 1490 | Roberto Guerrero | Q:14/R:DNF | N/A | N/A | N/A |
+| 1983 | 2 | United States Grand Prix West | 1983-03-27 | qualifying | Theodore | 17 | 1468 | +38 | 1506 | Roberto Guerrero | 18 | N/A | N/A | N/A |
+| 1983 | 2 | United States Grand Prix West | 1983-03-27 | race | Theodore | 6 | 1500 | N/A | 1500 | Roberto Guerrero | DNF | N/A | N/A | N/A |
+| 1983 | 2 | United States Grand Prix West | 1983-03-27 | global | Theodore | Q:17/R:6 | 1490 | +11 | 1502 | Roberto Guerrero | Q:18/R:DNF | N/A | N/A | N/A |
+| 1983 | 3 | French Grand Prix | 1983-04-17 | qualifying | Theodore | 17 | 1506 | +31 | 1537 | Roberto Guerrero | 22 | N/A | N/A | N/A |
+| 1983 | 3 | French Grand Prix | 1983-04-17 | race | Theodore | 11 | 1500 | N/A | 1500 | Roberto Guerrero | DNF | N/A | N/A | N/A |
+| 1983 | 3 | French Grand Prix | 1983-04-17 | global | Theodore | Q:17/R:11 | 1502 | +9 | 1511 | Roberto Guerrero | Q:22/R:DNF | N/A | N/A | N/A |
+| 1983 | 4 | San Marino Grand Prix | 1983-05-01 | qualifying | Theodore | 23 | 1537 | -39 | 1498 | Roberto Guerrero | 21 | N/A | N/A | N/A |
+| 1983 | 4 | San Marino Grand Prix | 1983-05-01 | race | Theodore | DNF | 1500 | N/A | 1500 | Roberto Guerrero | DNF | N/A | N/A | N/A |
+| 1983 | 4 | San Marino Grand Prix | 1983-05-01 | global | Theodore | Q:23/R:DNF | 1511 | -12 | 1499 | Roberto Guerrero | Q:21/R:DNF | N/A | N/A | N/A |
+| 1983 | 6 | Belgian Grand Prix | 1983-05-22 | qualifying | Theodore | 25 | 1498 | -32 | 1466 | Roberto Guerrero | 14 | N/A | N/A | N/A |
+| 1983 | 6 | Belgian Grand Prix | 1983-05-22 | race | Theodore | 10 | 1500 | N/A | 1500 | Roberto Guerrero | DNF | N/A | N/A | N/A |
+| 1983 | 6 | Belgian Grand Prix | 1983-05-22 | global | Theodore | Q:25/R:10 | 1499 | -10 | 1490 | Roberto Guerrero | Q:14/R:DNF | N/A | N/A | N/A |
+| 1983 | 7 | Detroit Grand Prix | 1983-06-05 | qualifying | Theodore | 26 | 1466 | -26 | 1441 | Roberto Guerrero | 11 | N/A | N/A | N/A |
+| 1983 | 7 | Detroit Grand Prix | 1983-06-05 | race | Theodore | DNF | 1500 | N/A | 1500 | Roberto Guerrero | DNF | N/A | N/A | N/A |
+| 1983 | 7 | Detroit Grand Prix | 1983-06-05 | global | Theodore | Q:26/R:DNF | 1490 | -8 | 1482 | Roberto Guerrero | Q:11/R:DNF | N/A | N/A | N/A |
+| 1983 | 8 | Canadian Grand Prix | 1983-06-12 | qualifying | Theodore | 23 | 1441 | -21 | 1419 | Roberto Guerrero | 21 | N/A | N/A | N/A |
+| 1983 | 8 | Canadian Grand Prix | 1983-06-12 | race | Theodore | DNF | 1500 | N/A | 1500 | Roberto Guerrero | DNF | N/A | N/A | N/A |
+| 1983 | 8 | Canadian Grand Prix | 1983-06-12 | global | Theodore | Q:23/R:DNF | 1482 | -6 | 1476 | Roberto Guerrero | Q:21/R:DNF | N/A | N/A | N/A |
+| 1983 | 10 | German Grand Prix | 1983-08-07 | qualifying | Theodore | 22 | 1419 | +46 | 1465 | Roberto Guerrero | 24 | N/A | N/A | N/A |
+| 1983 | 10 | German Grand Prix | 1983-08-07 | race | Theodore | 11 | 1500 | N/A | 1500 | Roberto Guerrero | DNF | N/A | N/A | N/A |
+| 1983 | 10 | German Grand Prix | 1983-08-07 | global | Theodore | Q:22/R:11 | 1476 | +14 | 1490 | Roberto Guerrero | Q:24/R:DNF | N/A | N/A | N/A |
+| 1983 | 13 | Italian Grand Prix | 1983-09-11 | qualifying | Theodore | 26 | 1465 | -26 | 1439 | Roberto Guerrero | 21 | N/A | N/A | N/A |
+| 1983 | 13 | Italian Grand Prix | 1983-09-11 | race | Theodore | 12 | 1500 | +32 | 1532 | Roberto Guerrero | 13 | N/A | N/A | N/A |
+| 1983 | 13 | Italian Grand Prix | 1983-09-11 | global | Theodore | Q:26/R:12 | 1490 | +15 | 1504 | Roberto Guerrero | Q:21/R:13 | N/A | N/A | N/A |
+| 1984 | 1 | Brazilian Grand Prix | 1984-03-25 | qualifying | Toleman | 17 | 1439 | -26 | 1413 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 16 | N/A | N/A | N/A |
+| 1984 | 1 | Brazilian Grand Prix | 1984-03-25 | race | Toleman | DNF | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | DNF | N/A | N/A | N/A |
+| 1984 | 1 | Brazilian Grand Prix | 1984-03-25 | global | Toleman | Q:17/R:DNF | 1504 | -8 | 1496 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | Q:16/R:DNF | N/A | N/A | N/A |
+| 1984 | 2 | South African Grand Prix | 1984-04-07 | qualifying | Toleman | 19 | 1413 | -22 | 1391 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 13 | N/A | N/A | N/A |
+| 1984 | 2 | South African Grand Prix | 1984-04-07 | race | Toleman | DNF | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 6 | N/A | N/A | N/A |
+| 1984 | 2 | South African Grand Prix | 1984-04-07 | global | Toleman | Q:19/R:DNF | 1496 | -7 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | Q:13/R:6 | N/A | N/A | N/A |
+| 1984 | 3 | Belgian Grand Prix | 1984-04-29 | qualifying | Toleman | 16 | 1391 | +46 | 1436 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 19 | N/A | N/A | N/A |
+| 1984 | 3 | Belgian Grand Prix | 1984-04-29 | race | Toleman | DNF | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 6 | N/A | N/A | N/A |
+| 1984 | 3 | Belgian Grand Prix | 1984-04-29 | global | Toleman | Q:16/R:DNF | 1490 | +14 | 1503 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | Q:19/R:6 | N/A | N/A | N/A |
+| 1984 | 5 | French Grand Prix | 1984-05-20 | qualifying | Toleman | 18 | 1436 | -26 | 1410 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 13 | N/A | N/A | N/A |
+| 1984 | 5 | French Grand Prix | 1984-05-20 | race | Toleman | DNF | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | DNF | N/A | N/A | N/A |
+| 1984 | 5 | French Grand Prix | 1984-05-20 | global | Toleman | Q:18/R:DNF | 1503 | -8 | 1496 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | Q:13/R:DNF | N/A | N/A | N/A |
+| 1984 | 6 | Monaco Grand Prix | 1984-06-03 | qualifying | Toleman | 18 | 1410 | -22 | 1389 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 13 | N/A | N/A | N/A |
+| 1984 | 6 | Monaco Grand Prix | 1984-06-03 | race | Toleman | DNF | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 2 | N/A | N/A | N/A |
+| 1984 | 6 | Monaco Grand Prix | 1984-06-03 | global | Toleman | Q:18/R:DNF | 1496 | -7 | 1489 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | Q:13/R:2 | N/A | N/A | N/A |
+| 1984 | 7 | Canadian Grand Prix | 1984-06-17 | qualifying | Toleman | 20 | 1389 | -18 | 1371 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 9 | N/A | N/A | N/A |
+| 1984 | 7 | Canadian Grand Prix | 1984-06-17 | race | Toleman | 9 | 1532 | -35 | 1497 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 7 | N/A | N/A | N/A |
+| 1984 | 7 | Canadian Grand Prix | 1984-06-17 | global | Toleman | Q:20/R:9 | 1489 | -30 | 1459 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | Q:9/R:7 | N/A | N/A | N/A |
+| 1984 | 8 | Detroit Grand Prix | 1984-06-24 | qualifying | Toleman | 17 | 1371 | -16 | 1355 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 7 | N/A | N/A | N/A |
+| 1984 | 8 | Detroit Grand Prix | 1984-06-24 | race | Toleman | DNF | 1497 | N/A | 1497 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | DNF | N/A | N/A | N/A |
+| 1984 | 8 | Detroit Grand Prix | 1984-06-24 | global | Toleman | Q:17/R:DNF | 1459 | -5 | 1454 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | Q:7/R:DNF | N/A | N/A | N/A |
+| 1984 | 9 | Dallas Grand Prix | 1984-07-08 | qualifying | Toleman | 15 | 1355 | -14 | 1342 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | 6 | N/A | N/A | N/A |
+| 1984 | 9 | Dallas Grand Prix | 1984-07-08 | race | Toleman | DNF | 1497 | N/A | 1497 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | DNF | N/A | N/A | N/A |
+| 1984 | 9 | Dallas Grand Prix | 1984-07-08 | global | Toleman | Q:15/R:DNF | 1454 | -4 | 1450 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | Q:6/R:DNF | N/A | N/A | N/A |
+
+## Career Statistics
+
+**Qualifying ELO**: 1500 → 1342 (Peak: 1537)
+**Race ELO**: 1500 → 1497 (Peak: 1532)
+**Global ELO**: 1500 → 1450 (Peak: 1511)

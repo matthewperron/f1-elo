@@ -1,5 +1,5 @@
 import { fetchAllSeasonResults, transformRaceData, saveToFile } from './fetch-results.js';
-import { calculateELO, updateREADME, saveFinalELOs, generateSeasonReport } from './calculate-elo.js';
+import { calculateELO, updateREADME, updateREADMEComprehensive, saveFinalELOs, generateSeasonReport } from './calculate-elo.js';
 import fs from 'fs/promises';
 
 /**
@@ -211,6 +211,151 @@ async function updateREADMEWithTop30(peakDriversData) {
 }
 
 /**
+ * Generate comprehensive driver files across all processed seasons
+ */
+async function generateComprehensiveDriverFiles() {
+    console.log('Generating comprehensive driver files across all seasons...');
+    
+    // Find all processed season data files
+    const dataDir = 'data';
+    const files = await fs.readdir(dataDir);
+    const dataFiles = files
+        .filter(file => file.endsWith('-race-results.json'))
+        .map(file => `${dataDir}/${file}`);
+    const allDriverResults = new Map(); // driverId -> { driverName, allResults: [] }
+    
+    // Process each season file
+    for (const dataFile of dataFiles) {
+        try {
+            const season = dataFile.match(/(\d{4})-race-results\.json$/)?.[1];
+            if (!season) continue;
+            
+            console.log(`Processing ${season} for driver files...`);
+            
+            const raceDataContent = await fs.readFile(dataFile, 'utf8');
+            const raceData = JSON.parse(raceDataContent);
+            
+            // Calculate ELO for this season to get driver results
+            const { driverRatings, raceEvents, driverResults } = await calculateELO(raceData, season);
+            
+            // Merge driver results into comprehensive map
+            for (const [driverId, driverData] of driverResults) {
+                if (!allDriverResults.has(driverId)) {
+                    allDriverResults.set(driverId, {
+                        driverName: driverData.driverName,
+                        allResults: []
+                    });
+                }
+                
+                // Add this season's results
+                allDriverResults.get(driverId).allResults.push(...driverData.results);
+            }
+        } catch (error) {
+            console.error(`Error processing ${dataFile}:`, error.message);
+        }
+    }
+    
+    // Generate comprehensive driver files
+    for (const [driverId, driverData] of allDriverResults) {
+        const results = driverData.allResults;
+        if (results.length === 0) continue;
+        
+        // Clean driver name for filename (remove flags and special characters)
+        const cleanDriverName = driverData.driverName
+            .replace(/<img[^>]*>/g, '') // Remove entire img tags
+            .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
+            .trim() // Trim whitespace first
+            .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
+            .replace(/\s+/g, '-') // Replace spaces with hyphens
+            .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
+            .toLowerCase();
+        
+        let content = `# ${driverData.driverName} - Complete F1 Career Results\n\n`;
+        content += `*Generated: ${new Date().toISOString().split('T')[0]}*\n\n`;
+        
+        // Get unique seasons and sort chronologically
+        const seasons = [...new Set(results.map(r => r.season))].sort();
+        content += `**Seasons**: ${seasons.join(', ')}\n`;
+        content += `**Total Race Events**: ${Math.ceil(results.length / 3)} (${results.length} individual ELO calculations)\n\n`;
+        
+        // Summary table header
+        content += `## Complete Race-by-Race Results\n\n`;
+        content += `| Season | Round | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate | Teammate Position | Teammate Starting ELO | Teammate ELO Change | Teammate Final ELO |\n`;
+        content += `|--------|-------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|-------------------|----------------------|---------------------|-------------------|\n`;
+        
+        // Sort results chronologically, then by session type
+        const sortedResults = results.sort((a, b) => {
+            if (a.season !== b.season) return parseInt(a.season) - parseInt(b.season);
+            if (a.round !== b.round) return a.round - b.round;
+            // Order: qualifying, race, global
+            const sessionOrder = { 'qualifying': 1, 'race': 2, 'global': 3 };
+            return sessionOrder[a.session] - sessionOrder[b.session];
+        });
+        
+        // Fill in teammate data by matching opposite entries
+        sortedResults.forEach(result => {
+            // Find teammate's corresponding result for the same round and session
+            const teammateResult = sortedResults.find(r => 
+                r.season === result.season &&
+                r.round === result.round && 
+                r.session === result.session && 
+                r.teammate === driverData.driverName &&
+                r.constructor === result.constructor
+            );
+            
+            if (teammateResult) {
+                result.teammateStartingElo = teammateResult.startingElo;
+                result.teammateEloChange = teammateResult.eloChange;
+                result.teammateNewElo = teammateResult.newElo;
+            }
+        });
+        
+        // Generate table rows
+        sortedResults.forEach(result => {
+            const eloChangeStr = result.eloChange !== null ? (result.eloChange >= 0 ? `+${result.eloChange}` : `${result.eloChange}`) : 'N/A';
+            const teammateEloChangeStr = result.teammateEloChange !== null ? (result.teammateEloChange >= 0 ? `+${result.teammateEloChange}` : `${result.teammateEloChange}`) : 'N/A';
+            
+            content += `| ${result.season} | ${result.round} | ${result.raceName} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${result.teammate} | ${result.teammatePosition} | ${result.teammateStartingElo || 'N/A'} | ${teammateEloChangeStr} | ${result.teammateNewElo || 'N/A'} |\n`;
+        });
+        
+        // Add career statistics
+        content += `\n## Career Statistics\n\n`;
+        
+        // ELO progression by type
+        const qualifyingResults = sortedResults.filter(r => r.session === 'qualifying' && r.eloChange !== null);
+        const raceResults = sortedResults.filter(r => r.session === 'race' && r.eloChange !== null);
+        const globalResults = sortedResults.filter(r => r.session === 'global' && r.eloChange !== null);
+        
+        if (qualifyingResults.length > 0) {
+            const qualStart = qualifyingResults[0].startingElo;
+            const qualEnd = qualifyingResults[qualifyingResults.length - 1].newElo;
+            const qualPeak = Math.max(...qualifyingResults.map(r => r.newElo));
+            content += `**Qualifying ELO**: ${qualStart} → ${qualEnd} (Peak: ${qualPeak})\n`;
+        }
+        
+        if (raceResults.length > 0) {
+            const raceStart = raceResults[0].startingElo;
+            const raceEnd = raceResults[raceResults.length - 1].newElo;
+            const racePeak = Math.max(...raceResults.map(r => r.newElo));
+            content += `**Race ELO**: ${raceStart} → ${raceEnd} (Peak: ${racePeak})\n`;
+        }
+        
+        if (globalResults.length > 0) {
+            const globalStart = globalResults[0].startingElo;
+            const globalEnd = globalResults[globalResults.length - 1].newElo;
+            const globalPeak = Math.max(...globalResults.map(r => r.newElo));
+            content += `**Global ELO**: ${globalStart} → ${globalEnd} (Peak: ${globalPeak})\n`;
+        }
+        
+        // Save driver file
+        const fileName = `driver/${cleanDriverName}.md`;
+        await fs.writeFile(fileName, content, 'utf8');
+    }
+    
+    console.log(`✓ Generated ${allDriverResults.size} comprehensive driver files`);
+}
+
+/**
  * Calculate ELO for a single season with rate limit handling
  */
 async function calculateSeason(season, retryCount = 0) {
@@ -387,8 +532,11 @@ async function bulkCalculate() {
         console.log(`Failed seasons: ${failed.map(f => f.season).join(', ')}`);
     }
     
-    // Generate peak ELO file and update README
+    // Generate comprehensive outputs
     if (successful.length > 0) {
+        console.log(`\nGenerating comprehensive driver files...`);
+        await generateComprehensiveDriverFiles();
+        
         console.log(`\nGenerating peak ELO file...`);
         const peakDrivers = await generatePeakELOFile();
         
@@ -400,7 +548,7 @@ async function bulkCalculate() {
             const latestData = await fs.readFile(latestFile, 'utf8');
             const raceData = JSON.parse(latestData);
             const { driverRatings } = await calculateELO(raceData, endYear.toString());
-            await updateREADME(driverRatings, endYear.toString());
+            await updateREADMEComprehensive(driverRatings, endYear.toString());
             await updateREADMEWithTop30(peakDrivers);
             console.log(`✓ README updated with ${endYear} season and 3 top 30 driver tables`);
         } catch (error) {
