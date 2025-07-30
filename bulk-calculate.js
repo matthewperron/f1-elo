@@ -53,12 +53,14 @@ async function generatePeakELOFile() {
     let content = `# F1 Driver Peak ELO Ratings\n\n`;
     content += `This file contains the highest ELO rating ever achieved by each Formula 1 driver.\n\n`;
     content += `## All-Time Peak ELO Rankings\n\n`;
-    content += `| Rank | Driver | Peak ELO | Constructor | Date | Race | Season | Teammate | Teammate ELO | Report |\n`;
-    content += `|------|--------|----------|-------------|------|------|--------|----------|--------------|--------|\n`;
+    content += `| Rank | Driver | Peak ELO | Constructor | Date | Season | Teammate | Teammate ELO | Race |\n`;
+    content += `|------|--------|----------|-------------|------|--------|----------|--------------|------|\n`;
     
     peakDrivers.forEach((driver, index) => {
-        const reportLink = `[${driver.season} Report](./results/${driver.season}-season-report.md)`;
-        content += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.race} | ${driver.season} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${reportLink} |\n`;
+        // Create anchor link for the specific race
+        const raceAnchor = driver.race.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+        const raceLink = `[${driver.race}](./results/${driver.season}-season-report.md#${raceAnchor})`;
+        content += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${raceLink} |\n`;
     });
     
     content += `\n## Statistics\n\n`;
@@ -83,12 +85,14 @@ async function updateREADMEWithTop30(peakDrivers) {
         // Create the top 30 drivers table
         const top30 = peakDrivers.slice(0, 30);
         let tableContent = `\n## Top 30 F1 Drivers of All Time (by Peak ELO)\n\n`;
-        tableContent += `| Rank | Driver | Peak ELO | Constructor | Teammate | Teammate ELO | Season | Report |\n`;
-        tableContent += `|------|--------|----------|-------------|----------|--------------|--------|--------|\n`;
+        tableContent += `| Rank | Driver | Peak ELO | Constructor | Teammate | Teammate ELO | Season | Race |\n`;
+        tableContent += `|------|--------|----------|-------------|----------|--------------|--------|------|\n`;
         
         top30.forEach((driver, index) => {
-            const reportLink = `[${driver.season}](./results/${driver.season}-season-report.md)`;
-            tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${driver.season} | ${reportLink} |\n`;
+            // Create anchor link for the specific race
+            const raceAnchor = driver.race.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+            const raceLink = `[${driver.race}](./results/${driver.season}-season-report.md#${raceAnchor})`;
+            tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${driver.season} | ${raceLink} |\n`;
         });
         
         tableContent += `\n*Based on peak ELO ratings achieved during their F1 careers. Updated: ${new Date().toISOString().split('T')[0]}*\n`;

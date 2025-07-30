@@ -47,9 +47,9 @@ f1-elo/
 5. Exclude invalid comparisons (no teammate, DNF, etc.)
 
 ### ELO Calculation Rules
-- **Initial rating**: All drivers start with 1000 ELO (or carry over from previous season)
+- **Initial rating**: All drivers start with 1500 ELO (or carry over from previous season)
 - **Head-to-head only**: Compare qualifying/race positions between teammates
-- **K-factor**: Determines rating change magnitude (32 for all drivers)
+- **K-factor**: Determines rating change magnitude (64)
 - **Expected score**: Based on ELO difference between teammates
 - **Actual score**: 1 for win, 0 for loss in head-to-head comparison
 - **Global ELO**: Combines qualifying (30%) and race (70%) performance

@@ -2992,20 +2992,20 @@
     }
   ],
   "finalELOs": {
-    "jack_brabham": 1978,
-    "surtees": 1630,
-    "siffert": 1512,
-    "ginther": 1510,
-    "hill": 1424,
-    "anderson": 1000,
-    "parkes": 1000,
-    "arundell": 1000,
-    "bucknum": 1000,
-    "hulme": 996,
-    "rindt": 920,
-    "bandini": 882,
-    "spence": 869,
-    "bonnier": 482,
-    "stewart": 15
+    "surtees": 1622,
+    "jack_brabham": 1594,
+    "hill": 1558,
+    "siffert": 1532,
+    "ginther": 1527,
+    "anderson": 1500,
+    "parkes": 1500,
+    "arundell": 1500,
+    "bucknum": 1500,
+    "hulme": 1474,
+    "rindt": 1447,
+    "bonnier": 1417,
+    "stewart": 1414,
+    "bandini": 1410,
+    "spence": 1396
   }
 }
