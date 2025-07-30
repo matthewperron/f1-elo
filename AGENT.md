@@ -7,9 +7,10 @@ This is an F1 driver strength calculation project that computes ELO ratings for 
 ## Key Concepts
 
 ### ELO System
-- **Two separate ELO scores per driver**: Qualifying ELO and Race ELO
+- **Three separate ELO scores per driver**: Qualifying ELO, Race ELO, and Global ELO
 - **Teammate-only comparison**: Drivers are only compared against their teammates
-- **Classic chess ELO formula**: Standard expected score and K-factor calculations
+- **Classic chess ELO formula**: Standard expected score and K-factor calculations (K=64)
+- **Global ELO calculation**: Combines qualifying (30%) and race (70%) performance
 - **Chronological processing**: Race history must be sorted by date for accurate progression
 
 ### Data Requirements
@@ -52,7 +53,7 @@ f1-elo/
 - **K-factor**: Determines rating change magnitude (64)
 - **Expected score**: Based on ELO difference between teammates
 - **Actual score**: 1 for win, 0 for loss in head-to-head comparison
-- **Global ELO**: Combines qualifying (30%) and race (70%) performance
+- **Global ELO**: Combines qualifying (30%) and race (70%) performance into a comprehensive rating
 
 ### Commands
 - `npm start` - Calculate ELO for 2025 season data (default) and update README
