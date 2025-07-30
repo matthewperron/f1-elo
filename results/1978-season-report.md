@@ -34,10 +34,6 @@
 | 26 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi | Tyrrell | 891 | 949 | 949 |
 | 27 | 903 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni | Shadow | 996 | 943 | 943 |
 | 28 | 937 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier | ATS | 992 | 922 | 922 |
-
-
-*Showing top 50 drivers by global ELO rating*
-
 ## Race-by-Race ELO Changes
 
 ### Round 1: Argentine Grand Prix

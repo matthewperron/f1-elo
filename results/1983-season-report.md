@@ -35,10 +35,6 @@
 | 27 | 976 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Bruno Giacomelli | Toleman | 891 | 935 | 962 |
 | 28 | 963 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux | Ferrari | 935 | 979 | 950 |
 | 29 | 944 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier | Ligier | 1035 | 944 | 944 |
-
-
-*Showing top 50 drivers by global ELO rating*
-
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix

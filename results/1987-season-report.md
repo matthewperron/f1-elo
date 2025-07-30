@@ -34,10 +34,6 @@
 | 26 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima | Team Lotus | 907 | 945 | 945 |
 | 27 | 917 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux | Ligier | 1036 | 917 | 917 |
 | 28 | 937 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Streiff | Tyrrell | 973 | 915 | 915 |
-
-
-*Showing top 50 drivers by global ELO rating*
-
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix

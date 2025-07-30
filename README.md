@@ -60,7 +60,7 @@ The following table shows current ELO ratings for all F1 drivers (updated automa
 | 21 | 927 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll | Aston Martin | 890 | 956 | 926 |
 
 
-*Showing top 50 drivers by global ELO rating*
+
 <!-- ELO_RESULTS_END -->
 ## Top 30 F1 Drivers of All Time (by Peak ELO)
 

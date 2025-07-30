@@ -408,7 +408,6 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     // Final ELO Table
     content += `## Final ELO Ratings\n\n`;
     content += generateELOTable(driverRatings);
-    content += `\n\n*Showing top 50 drivers by global ELO rating*\n\n`;
     
     // Race-by-race details
     content += `## Race-by-Race ELO Changes\n\n`;
@@ -539,7 +538,7 @@ async function updateREADME(driverRatings, season) {
 
 ${table}
 
-*Showing top 50 drivers by global ELO rating*`;
+`;
         
         // Replace content between markers
         const updatedContent = readmeContent.replace(

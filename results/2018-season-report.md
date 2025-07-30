@@ -26,10 +26,6 @@
 | 18 | 1028 | Marcus Ericsson | Sauber | 914 | 953 | 953 |
 | 19 | 1033 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas | Mercedes | 956 | 916 | 931 |
 | 20 | 1000 | Sergey Sirotkin | Williams | 1013 | 957 | 927 |
-
-
-*Showing top 50 drivers by global ELO rating*
-
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix
