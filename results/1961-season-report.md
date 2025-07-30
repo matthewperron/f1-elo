@@ -6,13 +6,13 @@
 
 | Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
 |------|--------------|--------|-------------|----------------|----------|-----|
-| 1 | 1000 | Dan Gurney | Porsche | 1031 | 1031 | 1031 |
-| 2 | 1000 | Tony Brooks | BRM | 952 | 1000 | 1000 |
-| 3 | 1000 | Maurice Trintignant | Cooper-Maserati | 969 | 1000 | 1000 |
-| 4 | 1000 | Lorenzo Bandini | Cooper-Maserati | 1031 | 1000 | 1000 |
-| 5 | 1000 | Stirling Moss | Ferguson | 984 | 1000 | 1000 |
-| 6 | 1000 | Jack Fairman | Ferguson | 1016 | 1000 | 1000 |
-| 7 | 984 | Graham Hill | BRM | 1032 | 984 | 984 |
+| 1 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Dan Gurney | Porsche | 1031 | 1031 | 1031 |
+| 2 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 952 | 1000 | 1000 |
+| 3 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Maurice Trintignant | Cooper-Maserati | 969 | 1000 | 1000 |
+| 4 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Lorenzo Bandini | Cooper-Maserati | 1031 | 1000 | 1000 |
+| 5 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stirling Moss | Ferguson | 984 | 1000 | 1000 |
+| 6 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jack Fairman | Ferguson | 1016 | 1000 | 1000 |
+| 7 | 984 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 1032 | 984 | 984 |
 | 8 | 1000 | Jo Bonnier | Porsche | 969 | 969 | 969 |
 
 
@@ -27,8 +27,15 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Tony Brooks | BRM | 8 | 1000 | -17 | 983 | Lost | Graham Hill (P4) |
-| Graham Hill | BRM | 4 | 984 | +17 | 1001 | Won | Tony Brooks (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 8 | 1000 | <span style="color: red">-17</span> | 983 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 4 | 984 | <span style="color: green">+17</span> | 1001 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P8) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (PDNF) |
 
 ---
 
@@ -39,19 +46,19 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Graham Hill | BRM | 5 | 1001 | +15 | 1016 | Won | Tony Brooks (P8) |
-| Tony Brooks | BRM | 8 | 983 | -15 | 968 | Lost | Graham Hill (P5) |
-| Dan Gurney | Porsche | 6 | 1000 | +16 | 1016 | Won | Jo Bonnier (P12) |
-| Jo Bonnier | Porsche | 12 | 1000 | -16 | 984 | Lost | Dan Gurney (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 5 | 1001 | <span style="color: green">+15</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 8 | 983 | <span style="color: red">-15</span> | 968 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Dan Gurney | Porsche | 6 | 1000 | <span style="color: green">+16</span> | 1016 | Won | Jo Bonnier (P12) |
+| Jo Bonnier | Porsche | 12 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Dan Gurney (P6) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Graham Hill | BRM | 8 | 984 | +17 | 1001 | Won | Tony Brooks (P9) |
-| Tony Brooks | BRM | 9 | 1000 | -17 | 983 | Lost | Graham Hill (P8) |
-| Dan Gurney | Porsche | 10 | 1000 | +16 | 1016 | Won | Jo Bonnier (P11) |
-| Jo Bonnier | Porsche | 11 | 1000 | -16 | 984 | Lost | Dan Gurney (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 8 | 984 | <span style="color: green">+17</span> | 1001 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 9 | 1000 | <span style="color: red">-17</span> | 983 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Dan Gurney | Porsche | 10 | 1000 | <span style="color: green">+16</span> | 1016 | Won | Jo Bonnier (P11) |
+| Jo Bonnier | Porsche | 11 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Dan Gurney (P10) |
 
 ---
 
@@ -62,10 +69,19 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Tony Brooks | BRM | 7 | 968 | -14 | 954 | Lost | Graham Hill (P6) |
-| Graham Hill | BRM | 6 | 1016 | +14 | 1030 | Won | Tony Brooks (P7) |
-| Maurice Trintignant | Cooper-Maserati | 20 | 1000 | -16 | 984 | Lost | Lorenzo Bandini (P17) |
-| Lorenzo Bandini | Cooper-Maserati | 17 | 1000 | +16 | 1016 | Won | Maurice Trintignant (P20) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 7 | 968 | <span style="color: red">-14</span> | 954 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 6 | 1016 | <span style="color: green">+14</span> | 1030 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Maurice Trintignant | Cooper-Maserati | 20 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Lorenzo Bandini (P17) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Lorenzo Bandini | Cooper-Maserati | 17 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Maurice Trintignant (P20) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | DNF | 983 | N/A | 983 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | DNF | 1001 | N/A | 1001 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Maurice Trintignant | Cooper-Maserati | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Lorenzo Bandini (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Lorenzo Bandini | Cooper-Maserati | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Maurice Trintignant (PDNF) |
 
 ---
 
@@ -76,8 +92,15 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Graham Hill | BRM | 6 | 1030 | +13 | 1042 | Won | Tony Brooks (P11) |
-| Tony Brooks | BRM | 11 | 954 | -13 | 942 | Lost | Graham Hill (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 6 | 1030 | <span style="color: green">+13</span> | 1042 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P11) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 11 | 954 | <span style="color: red">-13</span> | 942 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P6) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 6 | 1001 | N/A | 1001 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | DNF | 983 | N/A | 983 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P6) |
 
 ---
 
@@ -88,10 +111,19 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Tony Brooks | BRM | 6 | 942 | +21 | 962 | Won | Graham Hill (P11) |
-| Graham Hill | BRM | 11 | 1042 | -21 | 1022 | Lost | Tony Brooks (P6) |
-| Stirling Moss | Ferguson | 20 | 1000 | -16 | 984 | Lost | Jack Fairman (P20) |
-| Jack Fairman | Ferguson | 20 | 1000 | +16 | 1016 | Won | Stirling Moss (P20) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 6 | 942 | <span style="color: green">+21</span> | 962 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P11) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 11 | 1042 | <span style="color: red">-21</span> | 1022 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stirling Moss | Ferguson | 20 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jack Fairman (P20) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jack Fairman | Ferguson | 20 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stirling Moss (P20) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 9 | 983 | N/A | 983 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | DNF | 1001 | N/A | 1001 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stirling Moss | Ferguson | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jack Fairman (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jack Fairman | Ferguson | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stirling Moss (PDNF) |
 
 ---
 
@@ -102,10 +134,19 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Maurice Trintignant | Cooper-Maserati | 21 | 984 | -15 | 969 | Lost | Lorenzo Bandini (P19) |
-| Lorenzo Bandini | Cooper-Maserati | 19 | 1016 | +15 | 1031 | Won | Maurice Trintignant (P21) |
-| Tony Brooks | BRM | 9 | 962 | +19 | 981 | Won | Graham Hill (P16) |
-| Graham Hill | BRM | 16 | 1022 | -19 | 1003 | Lost | Tony Brooks (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Maurice Trintignant | Cooper-Maserati | 21 | 984 | <span style="color: red">-15</span> | 969 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Lorenzo Bandini (P19) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Lorenzo Bandini | Cooper-Maserati | 19 | 1016 | <span style="color: green">+15</span> | 1031 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Maurice Trintignant (P21) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 9 | 962 | <span style="color: green">+19</span> | 981 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 16 | 1022 | <span style="color: red">-19</span> | 1003 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P9) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Maurice Trintignant | Cooper-Maserati | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Lorenzo Bandini (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Lorenzo Bandini | Cooper-Maserati | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Maurice Trintignant (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | DNF | 983 | N/A | 983 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | DNF | 1001 | N/A | 1001 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (PDNF) |
 
 ---
 
@@ -116,8 +157,15 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Tony Brooks | BRM | 13 | 981 | -15 | 966 | Lost | Graham Hill (P5) |
-| Graham Hill | BRM | 5 | 1003 | +15 | 1018 | Won | Tony Brooks (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 13 | 981 | <span style="color: red">-15</span> | 966 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 5 | 1003 | <span style="color: green">+15</span> | 1018 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P13) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 5 | 983 | N/A | 983 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | DNF | 1001 | N/A | 1001 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P5) |
 
 ---
 
@@ -128,19 +176,19 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Dan Gurney | Porsche | 7 | 1016 | +15 | 1031 | Won | Jo Bonnier (P10) |
-| Jo Bonnier | Porsche | 10 | 984 | -15 | 969 | Lost | Dan Gurney (P7) |
-| Tony Brooks | BRM | 5 | 966 | -14 | 952 | Lost | Graham Hill (P2) |
-| Graham Hill | BRM | 2 | 1018 | +14 | 1032 | Won | Tony Brooks (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Dan Gurney | Porsche | 7 | 1016 | <span style="color: green">+15</span> | 1031 | Won | Jo Bonnier (P10) |
+| Jo Bonnier | Porsche | 10 | 984 | <span style="color: red">-15</span> | 969 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Dan Gurney (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 5 | 966 | <span style="color: red">-14</span> | 952 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 2 | 1018 | <span style="color: green">+14</span> | 1032 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P5) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Dan Gurney | Porsche | 2 | 1016 | +15 | 1031 | Won | Jo Bonnier (P6) |
-| Jo Bonnier | Porsche | 6 | 984 | -15 | 969 | Lost | Dan Gurney (P2) |
-| Tony Brooks | BRM | 3 | 983 | +17 | 1000 | Won | Graham Hill (P5) |
-| Graham Hill | BRM | 5 | 1001 | -17 | 984 | Lost | Tony Brooks (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Dan Gurney | Porsche | 2 | 1016 | <span style="color: green">+15</span> | 1031 | Won | Jo Bonnier (P6) |
+| Jo Bonnier | Porsche | 6 | 984 | <span style="color: red">-15</span> | 969 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Dan Gurney (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | BRM | 3 | 983 | <span style="color: green">+17</span> | 1000 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Graham Hill | BRM | 5 | 1001 | <span style="color: red">-17</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P3) |
 
 ---
 

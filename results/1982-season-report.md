@@ -10,35 +10,35 @@
 | 2 | 1112 | Gilles Villeneuve | Ferrari | 1152 | 1089 | 1089 |
 | 3 | 1046 | Keke Rosberg | Williams | 1148 | 1067 | 1067 |
 | 4 | 1000 | Niki Lauda | McLaren | 1020 | 1033 | 1033 |
-| 5 | 984 | Michele Alboreto | Tyrrell | 1087 | 1030 | 1030 |
-| 6 | 954 | Didier Pironi | Ferrari | 983 | 1023 | 1023 |
-| 7 | 1029 | Alain Prost | Renault | 998 | 1021 | 1021 |
-| 8 | 1001 | Nigel Mansell | Team Lotus | 1004 | 1018 | 1018 |
-| 9 | 984 | Andrea de Cesaris | Alfa Romeo | 1057 | 1017 | 1017 |
-| 10 | 1016 | Eddie Cheever | Ligier | 998 | 1016 | 1016 |
+| 5 | 984 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 1087 | 1030 | 1030 |
+| 6 | 954 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 983 | 1023 | 1023 |
+| 7 | 1029 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 998 | 1021 | 1021 |
+| 8 | 1001 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | 1004 | 1018 | 1018 |
+| 9 | 984 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 1057 | 1017 | 1017 |
+| 10 | 1016 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 998 | 1016 | 1016 |
 | 11 | 1000 | Marc Surer | Arrows | 1048 | 1015 | 1015 |
-| 12 | 1030 | Elio de Angelis | Team Lotus | 1043 | 1013 | 1013 |
-| 13 | 1000 | Manfred Winkelhock | ATS | 1104 | 1001 | 1001 |
+| 12 | 1030 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 1043 | 1013 | 1013 |
+| 13 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 1104 | 1001 | 1001 |
 | 14 | 1000 | Slim Borgudd | Tyrrell | 983 | 1000 | 1000 |
-| 15 | 1000 | Jochen Mass | March | 944 | 1000 | 1000 |
+| 15 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass | March | 944 | 1000 | 1000 |
 | 16 | 1000 | Raul Boesel | March | 1052 | 1000 | 1000 |
-| 17 | 1000 | Riccardo Paletti | Osella | 965 | 1000 | 1000 |
-| 18 | 1000 | Derek Warwick | Toleman | 1067 | 1000 | 1000 |
-| 19 | 1000 | Teo Fabi | Toleman | 933 | 1000 | 1000 |
-| 20 | 1000 | Geoff Lees | Team Lotus | 985 | 1000 | 1000 |
-| 21 | 1000 | Rupert Keegan | March | 1003 | 1000 | 1000 |
+| 17 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Paletti | Osella | 965 | 1000 | 1000 |
+| 18 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | 1067 | 1000 | 1000 |
+| 19 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | 933 | 1000 | 1000 |
+| 20 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Geoff Lees | Team Lotus | 985 | 1000 | 1000 |
+| 21 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Rupert Keegan | March | 1003 | 1000 | 1000 |
 | 22 | 1000 | Eliseo Salazar | ATS | 896 | 999 | 999 |
-| 23 | 998 | Jacques Laffite | Ligier | 1016 | 998 | 998 |
+| 23 | 998 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 1016 | 998 | 998 |
 | 24 | 975 | Carlos Reutemann | Williams | 951 | 994 | 994 |
-| 25 | 1025 | John Watson | McLaren | 1005 | 992 | 992 |
-| 26 | 1012 | Riccardo Patrese | Brabham | 964 | 987 | 987 |
-| 27 | 1000 | Mauro Baldi | Arrows | 952 | 985 | 985 |
-| 28 | 1009 | Bruno Giacomelli | Alfa Romeo | 936 | 976 | 976 |
-| 29 | 955 | René Arnoux | Renault | 986 | 963 | 963 |
+| 25 | 1025 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 1005 | 992 | 992 |
+| 26 | 1012 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 964 | 987 | 987 |
+| 27 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 952 | 985 | 985 |
+| 28 | 1009 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 936 | 976 | 976 |
+| 29 | 955 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 986 | 963 | 963 |
 | 30 | 1000 | Derek Daly | Williams | 922 | 960 | 960 |
-| 31 | 1000 | Brian Henton | Tyrrell | 914 | 954 | 954 |
-| 32 | 1000 | Patrick Tambay | Ferrari | 931 | 953 | 953 |
-| 33 | 944 | Jean-Pierre Jarier | Osella | 979 | 944 | 944 |
+| 31 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 914 | 954 | 954 |
+| 32 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay | Ferrari | 931 | 953 | 953 |
+| 33 | 944 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jean-Pierre Jarier | Osella | 979 | 944 | 944 |
 
 
 *Showing top 50 drivers by global ELO rating*
@@ -52,41 +52,55 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Alain Prost | Renault | 5 | 1029 | -19 | 1010 | Lost | René Arnoux (P1) |
-| René Arnoux | Renault | 1 | 955 | +19 | 974 | Won | Alain Prost (P5) |
-| Carlos Reutemann | Williams | 8 | 975 | -13 | 962 | Lost | Keke Rosberg (P7) |
-| Keke Rosberg | Williams | 7 | 1046 | +13 | 1059 | Won | Carlos Reutemann (P8) |
-| Niki Lauda | McLaren | 13 | 1000 | -15 | 985 | Lost | John Watson (P9) |
-| John Watson | McLaren | 9 | 1025 | +15 | 1040 | Won | Niki Lauda (P13) |
-| Michele Alboreto | Tyrrell | 10 | 984 | +17 | 1001 | Won | Slim Borgudd (P23) |
-| Slim Borgudd | Tyrrell | 23 | 1000 | -17 | 983 | Lost | Michele Alboreto (P10) |
-| Elio de Angelis | Team Lotus | 15 | 1030 | +15 | 1045 | Won | Nigel Mansell (P18) |
-| Nigel Mansell | Team Lotus | 18 | 1001 | -15 | 986 | Lost | Elio de Angelis (P15) |
-| Eliseo Salazar | ATS | 12 | 1000 | +16 | 1016 | Won | Manfred Winkelhock (P20) |
-| Manfred Winkelhock | ATS | 20 | 1000 | -16 | 984 | Lost | Eliseo Salazar (P12) |
-| Bruno Giacomelli | Alfa Romeo | 19 | 1009 | -17 | 992 | Lost | Andrea de Cesaris (P16) |
-| Andrea de Cesaris | Alfa Romeo | 16 | 984 | +17 | 1001 | Won | Bruno Giacomelli (P19) |
-| Jochen Mass | March | 22 | 1000 | -16 | 984 | Lost | Raul Boesel (P21) |
-| Raul Boesel | March | 21 | 1000 | +16 | 1016 | Won | Jochen Mass (P22) |
-| Didier Pironi | Ferrari | 6 | 954 | -9 | 945 | Lost | Gilles Villeneuve (P3) |
-| Gilles Villeneuve | Ferrari | 3 | 1112 | +9 | 1121 | Won | Didier Pironi (P6) |
-| Jacques Laffite | Ligier | 11 | 998 | +17 | 1015 | Won | Eddie Cheever (P17) |
-| Eddie Cheever | Ligier | 17 | 1016 | -17 | 999 | Lost | Jacques Laffite (P11) |
-| Riccardo Patrese | Brabham | 4 | 1012 | -13 | 999 | Lost | Nelson Piquet (P2) |
-| Nelson Piquet | Brabham | 2 | 1075 | +13 | 1088 | Won | Riccardo Patrese (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 5 | 1029 | <span style="color: red">-19</span> | 1010 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 1 | 955 | <span style="color: green">+19</span> | 974 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (P5) |
+| Carlos Reutemann | Williams | 8 | 975 | <span style="color: red">-13</span> | 962 | Lost | Keke Rosberg (P7) |
+| Keke Rosberg | Williams | 7 | 1046 | <span style="color: green">+13</span> | 1059 | Won | Carlos Reutemann (P8) |
+| Niki Lauda | McLaren | 13 | 1000 | <span style="color: red">-15</span> | 985 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 9 | 1025 | <span style="color: green">+15</span> | 1040 | Won | Niki Lauda (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 10 | 984 | <span style="color: green">+17</span> | 1001 | Won | Slim Borgudd (P23) |
+| Slim Borgudd | Tyrrell | 23 | 1000 | <span style="color: red">-17</span> | 983 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 15 | 1030 | <span style="color: green">+15</span> | 1045 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (P18) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | 18 | 1001 | <span style="color: red">-15</span> | 986 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P15) |
+| Eliseo Salazar | ATS | 12 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P20) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 20 | 1000 | <span style="color: red">-16</span> | 984 | Lost | Eliseo Salazar (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 19 | 1009 | <span style="color: red">-17</span> | 992 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 16 | 984 | <span style="color: green">+17</span> | 1001 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P19) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass | March | 22 | 1000 | <span style="color: red">-16</span> | 984 | Lost | Raul Boesel (P21) |
+| Raul Boesel | March | 21 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass (P22) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 6 | 954 | <span style="color: red">-9</span> | 945 | Lost | Gilles Villeneuve (P3) |
+| Gilles Villeneuve | Ferrari | 3 | 1112 | <span style="color: green">+9</span> | 1121 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 11 | 998 | <span style="color: green">+17</span> | 1015 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (P17) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 17 | 1016 | <span style="color: red">-17</span> | 999 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (P11) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 4 | 1012 | <span style="color: red">-13</span> | 999 | Lost | Nelson Piquet (P2) |
+| Nelson Piquet | Brabham | 2 | 1075 | <span style="color: green">+13</span> | 1088 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P4) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Alain Prost | Renault | 1 | 1029 | +13 | 1042 | Won | René Arnoux (P3) |
-| René Arnoux | Renault | 3 | 955 | -13 | 942 | Lost | Alain Prost (P1) |
-| Carlos Reutemann | Williams | 2 | 975 | +19 | 994 | Won | Keke Rosberg (P5) |
-| Keke Rosberg | Williams | 5 | 1046 | -19 | 1027 | Lost | Carlos Reutemann (P2) |
-| Niki Lauda | McLaren | 4 | 1000 | +17 | 1017 | Won | John Watson (P6) |
-| John Watson | McLaren | 6 | 1025 | -17 | 1008 | Lost | Niki Lauda (P4) |
-| Eliseo Salazar | ATS | 9 | 1000 | +16 | 1016 | Won | Manfred Winkelhock (P10) |
-| Manfred Winkelhock | ATS | 10 | 1000 | -16 | 984 | Lost | Eliseo Salazar (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 1 | 1029 | <span style="color: green">+13</span> | 1042 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 3 | 955 | <span style="color: red">-13</span> | 942 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (P1) |
+| Carlos Reutemann | Williams | 2 | 975 | <span style="color: green">+19</span> | 994 | Won | Keke Rosberg (P5) |
+| Keke Rosberg | Williams | 5 | 1046 | <span style="color: red">-19</span> | 1027 | Lost | Carlos Reutemann (P2) |
+| Niki Lauda | McLaren | 4 | 1000 | <span style="color: green">+17</span> | 1017 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 6 | 1025 | <span style="color: red">-17</span> | 1008 | Lost | Niki Lauda (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 7 | 984 | N/A | 984 | Won (opponent DNF) | Slim Borgudd (PDNF) |
+| Slim Borgudd | Tyrrell | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 8 | 1030 | N/A | 1030 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | DNF | 1001 | N/A | 1001 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P8) |
+| Eliseo Salazar | ATS | 9 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 10 | 1000 | <span style="color: red">-16</span> | 984 | Lost | Eliseo Salazar (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 11 | 1009 | N/A | 1009 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P11) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass | March | 12 | 1000 | N/A | 1000 | Won (opponent DNF) | Raul Boesel (PDNF) |
+| Raul Boesel | March | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | DNF | 954 | N/A | 954 | DNF | Gilles Villeneuve (PDNF) |
+| Gilles Villeneuve | Ferrari | DNF | 1112 | N/A | 1112 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | DNF | 998 | N/A | 998 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | DNF | 1012 | N/A | 1012 | DNF | Nelson Piquet (PDNF) |
+| Nelson Piquet | Brabham | DNF | 1075 | N/A | 1075 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (PDNF) |
 
 ---
 
@@ -97,20 +111,39 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Manfred Winkelhock | ATS | 15 | 984 | +17 | 1001 | Won | Eliseo Salazar (P18) |
-| Eliseo Salazar | ATS | 18 | 1016 | -17 | 999 | Lost | Manfred Winkelhock (P15) |
-| Didier Pironi | Ferrari | 8 | 945 | -9 | 936 | Lost | Gilles Villeneuve (P2) |
-| Gilles Villeneuve | Ferrari | 2 | 1121 | +9 | 1130 | Won | Didier Pironi (P8) |
-| Jochen Mass | March | 22 | 984 | -15 | 969 | Lost | Raul Boesel (P17) |
-| Raul Boesel | March | 17 | 1016 | +15 | 1031 | Won | Jochen Mass (P22) |
-| Nelson Piquet | Brabham | 7 | 1088 | +12 | 1100 | Won | Riccardo Patrese (P9) |
-| Riccardo Patrese | Brabham | 9 | 999 | -12 | 987 | Lost | Nelson Piquet (P7) |
-| Keke Rosberg | Williams | 3 | 1059 | +12 | 1070 | Won | Carlos Reutemann (P6) |
-| Carlos Reutemann | Williams | 6 | 962 | -12 | 951 | Lost | Keke Rosberg (P3) |
-| Eddie Cheever | Ligier | 26 | 999 | -15 | 984 | Lost | Jacques Laffite (P24) |
-| Jacques Laffite | Ligier | 24 | 1015 | +15 | 1030 | Won | Eddie Cheever (P26) |
-| Bruno Giacomelli | Alfa Romeo | 16 | 992 | -16 | 976 | Lost | Andrea de Cesaris (P10) |
-| Andrea de Cesaris | Alfa Romeo | 10 | 1001 | +16 | 1017 | Won | Bruno Giacomelli (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 15 | 984 | <span style="color: green">+17</span> | 1001 | Won | Eliseo Salazar (P18) |
+| Eliseo Salazar | ATS | 18 | 1016 | <span style="color: red">-17</span> | 999 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P15) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 8 | 945 | <span style="color: red">-9</span> | 936 | Lost | Gilles Villeneuve (P2) |
+| Gilles Villeneuve | Ferrari | 2 | 1121 | <span style="color: green">+9</span> | 1130 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass | March | 22 | 984 | <span style="color: red">-15</span> | 969 | Lost | Raul Boesel (P17) |
+| Raul Boesel | March | 17 | 1016 | <span style="color: green">+15</span> | 1031 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass (P22) |
+| Nelson Piquet | Brabham | 7 | 1088 | <span style="color: green">+12</span> | 1100 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 9 | 999 | <span style="color: red">-12</span> | 987 | Lost | Nelson Piquet (P7) |
+| Keke Rosberg | Williams | 3 | 1059 | <span style="color: green">+12</span> | 1070 | Won | Carlos Reutemann (P6) |
+| Carlos Reutemann | Williams | 6 | 962 | <span style="color: red">-12</span> | 951 | Lost | Keke Rosberg (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 26 | 999 | <span style="color: red">-15</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (P24) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 24 | 1015 | <span style="color: green">+15</span> | 1030 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (P26) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 16 | 992 | <span style="color: red">-16</span> | 976 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 10 | 1001 | <span style="color: green">+16</span> | 1017 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P16) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 5 | 984 | N/A | 984 | Won (opponent DNF) | Eliseo Salazar (PDNF) |
+| Eliseo Salazar | ATS | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 6 | 954 | N/A | 954 | Won (opponent DNF) | Gilles Villeneuve (PDNF) |
+| Gilles Villeneuve | Ferrari | DNF | 1112 | N/A | 1112 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass | March | 8 | 1000 | N/A | 1000 | Won (opponent DNF) | Raul Boesel (PDNF) |
+| Raul Boesel | March | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass (P8) |
+| Nelson Piquet | Brabham | DNF | 1075 | N/A | 1075 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | DNF | 1012 | N/A | 1012 | DNF | Nelson Piquet (PDNF) |
+| Keke Rosberg | Williams | DNF | 1027 | N/A | 1027 | DNF | Carlos Reutemann (PDNF) |
+| Carlos Reutemann | Williams | DNF | 994 | N/A | 994 | DNF | Keke Rosberg (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | DNF | 998 | N/A | 998 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | DNF | 1009 | N/A | 1009 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (PDNF) |
 
 ---
 
@@ -121,16 +154,31 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Gilles Villeneuve | Ferrari | 7 | 1130 | +8 | 1138 | Won | Didier Pironi (P9) |
-| Didier Pironi | Ferrari | 9 | 936 | -8 | 928 | Lost | Gilles Villeneuve (P7) |
-| Eddie Cheever | Ligier | 13 | 984 | +18 | 1002 | Won | Jacques Laffite (P15) |
-| Jacques Laffite | Ligier | 15 | 1030 | -18 | 1012 | Lost | Eddie Cheever (P13) |
-| Andrea de Cesaris | Alfa Romeo | 1 | 1017 | +14 | 1031 | Won | Bruno Giacomelli (P5) |
-| Bruno Giacomelli | Alfa Romeo | 5 | 976 | -14 | 962 | Lost | Andrea de Cesaris (P1) |
-| Alain Prost | Renault | 4 | 1010 | -18 | 992 | Lost | René Arnoux (P3) |
-| René Arnoux | Renault | 3 | 974 | +18 | 992 | Won | Alain Prost (P4) |
-| Eliseo Salazar | ATS | 26 | 999 | -16 | 983 | Lost | Manfred Winkelhock (P25) |
-| Manfred Winkelhock | ATS | 25 | 1001 | +16 | 1017 | Won | Eliseo Salazar (P26) |
+| Gilles Villeneuve | Ferrari | 7 | 1130 | <span style="color: green">+8</span> | 1138 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 9 | 936 | <span style="color: red">-8</span> | 928 | Lost | Gilles Villeneuve (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 13 | 984 | <span style="color: green">+18</span> | 1002 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (P15) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 15 | 1030 | <span style="color: red">-18</span> | 1012 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 1 | 1017 | <span style="color: green">+14</span> | 1031 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 5 | 976 | <span style="color: red">-14</span> | 962 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 4 | 1010 | <span style="color: red">-18</span> | 992 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 3 | 974 | <span style="color: green">+18</span> | 992 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (P4) |
+| Eliseo Salazar | ATS | 26 | 999 | <span style="color: red">-16</span> | 983 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P25) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 25 | 1001 | <span style="color: green">+16</span> | 1017 | Won | Eliseo Salazar (P26) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| Gilles Villeneuve | Ferrari | DNF | 1112 | N/A | 1112 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | DNF | 954 | N/A | 954 | DNF | Gilles Villeneuve (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | DNF | 998 | N/A | 998 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | DNF | 1009 | N/A | 1009 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | DNF | 1042 | N/A | 1042 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | DNF | 942 | N/A | 942 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (PDNF) |
+| Eliseo Salazar | ATS | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | DNF | 984 | N/A | 984 | DNF | Eliseo Salazar (PDNF) |
 
 ---
 
@@ -141,23 +189,31 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Didier Pironi | Ferrari | 4 | 928 | -7 | 921 | Lost | Gilles Villeneuve (P3) |
-| Gilles Villeneuve | Ferrari | 3 | 1138 | +7 | 1145 | Won | Didier Pironi (P4) |
-| Jean-Pierre Jarier | Osella | 9 | 944 | +19 | 963 | Won | Riccardo Paletti (P13) |
-| Riccardo Paletti | Osella | 13 | 1000 | -19 | 981 | Lost | Jean-Pierre Jarier (P9) |
-| Eliseo Salazar | ATS | 14 | 983 | -14 | 968 | Lost | Manfred Winkelhock (P12) |
-| Manfred Winkelhock | ATS | 12 | 1017 | +14 | 1032 | Won | Eliseo Salazar (P14) |
-| René Arnoux | Renault | 1 | 992 | +16 | 1008 | Won | Alain Prost (P2) |
-| Alain Prost | Renault | 2 | 992 | -16 | 976 | Lost | René Arnoux (P1) |
-| Bruno Giacomelli | Alfa Romeo | 6 | 962 | +19 | 981 | Won | Andrea de Cesaris (P7) |
-| Andrea de Cesaris | Alfa Romeo | 7 | 1031 | -19 | 1012 | Lost | Bruno Giacomelli (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 4 | 928 | <span style="color: red">-7</span> | 921 | Lost | Gilles Villeneuve (P3) |
+| Gilles Villeneuve | Ferrari | 3 | 1138 | <span style="color: green">+7</span> | 1145 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jean-Pierre Jarier | Osella | 9 | 944 | <span style="color: green">+19</span> | 963 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Paletti (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Paletti | Osella | 13 | 1000 | <span style="color: red">-19</span> | 981 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jean-Pierre Jarier (P9) |
+| Eliseo Salazar | ATS | 14 | 983 | <span style="color: red">-14</span> | 968 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 12 | 1017 | <span style="color: green">+14</span> | 1032 | Won | Eliseo Salazar (P14) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 1 | 992 | <span style="color: green">+16</span> | 1008 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 2 | 992 | <span style="color: red">-16</span> | 976 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 6 | 962 | <span style="color: green">+19</span> | 981 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 7 | 1031 | <span style="color: red">-19</span> | 1012 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P6) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Didier Pironi | Ferrari | 1 | 954 | +23 | 977 | Won | Gilles Villeneuve (P2) |
-| Gilles Villeneuve | Ferrari | 2 | 1112 | -23 | 1089 | Lost | Didier Pironi (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 1 | 954 | <span style="color: green">+23</span> | 977 | Won | Gilles Villeneuve (P2) |
+| Gilles Villeneuve | Ferrari | 2 | 1112 | <span style="color: red">-23</span> | 1089 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jean-Pierre Jarier | Osella | 4 | 944 | N/A | 944 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Paletti (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Paletti | Osella | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jean-Pierre Jarier (P4) |
+| Eliseo Salazar | ATS | 5 | 1016 | N/A | 1016 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | DNF | 984 | N/A | 984 | DNF | Eliseo Salazar (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | DNF | 942 | N/A | 942 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | DNF | 1042 | N/A | 1042 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | DNF | 1009 | N/A | 1009 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (PDNF) |
 
 ---
 
@@ -168,32 +224,63 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| John Watson | McLaren | 10 | 1040 | -18 | 1021 | Lost | Niki Lauda (P4) |
-| Niki Lauda | McLaren | 4 | 985 | +18 | 1004 | Won | John Watson (P10) |
-| Keke Rosberg | Williams | 3 | 1070 | +13 | 1083 | Won | Derek Daly (P13) |
-| Derek Daly | Williams | 13 | 1000 | -13 | 987 | Lost | Keke Rosberg (P3) |
-| Eddie Cheever | Ligier | 14 | 1002 | +16 | 1018 | Won | Jacques Laffite (P17) |
-| Jacques Laffite | Ligier | 17 | 1012 | -16 | 996 | Lost | Eddie Cheever (P14) |
-| Elio de Angelis | Team Lotus | 11 | 1045 | -19 | 1026 | Lost | Nigel Mansell (P7) |
-| Nigel Mansell | Team Lotus | 7 | 986 | +19 | 1005 | Won | Elio de Angelis (P11) |
-| Nelson Piquet | Brabham | 8 | 1100 | +11 | 1111 | Won | Riccardo Patrese (P9) |
-| Riccardo Patrese | Brabham | 9 | 987 | -11 | 976 | Lost | Nelson Piquet (P8) |
-| Marc Surer | Arrows | 22 | 1000 | +16 | 1016 | Won | Mauro Baldi (P26) |
-| Mauro Baldi | Arrows | 26 | 1000 | -16 | 984 | Lost | Marc Surer (P22) |
-| Raul Boesel | March | 24 | 1031 | +13 | 1044 | Won | Jochen Mass (P25) |
-| Jochen Mass | March | 25 | 969 | -13 | 956 | Lost | Raul Boesel (P24) |
-| Alain Prost | Renault | 1 | 976 | +17 | 993 | Won | René Arnoux (P2) |
-| René Arnoux | Renault | 2 | 1008 | -17 | 991 | Lost | Alain Prost (P1) |
-| Andrea de Cesaris | Alfa Romeo | 6 | 1012 | +15 | 1026 | Won | Bruno Giacomelli (P15) |
-| Bruno Giacomelli | Alfa Romeo | 15 | 981 | -15 | 967 | Lost | Andrea de Cesaris (P6) |
-| Brian Henton | Tyrrell | 20 | 1000 | -16 | 984 | Lost | Michele Alboreto (P5) |
-| Michele Alboreto | Tyrrell | 5 | 1001 | +16 | 1017 | Won | Brian Henton (P20) |
-| Derek Warwick | Toleman | 19 | 1000 | +16 | 1016 | Won | Teo Fabi (P21) |
-| Teo Fabi | Toleman | 21 | 1000 | -16 | 984 | Lost | Derek Warwick (P19) |
-| Manfred Winkelhock | ATS | 12 | 1032 | +13 | 1045 | Won | Eliseo Salazar (P18) |
-| Eliseo Salazar | ATS | 18 | 968 | -13 | 955 | Lost | Manfred Winkelhock (P12) |
-| Didier Pironi | Ferrari | 0 | 921 | -7 | 914 | Lost | Gilles Villeneuve (P0) |
-| Gilles Villeneuve | Ferrari | 0 | 1145 | +7 | 1152 | Won | Didier Pironi (P0) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 10 | 1040 | <span style="color: red">-18</span> | 1021 | Lost | Niki Lauda (P4) |
+| Niki Lauda | McLaren | 4 | 985 | <span style="color: green">+18</span> | 1004 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P10) |
+| Keke Rosberg | Williams | 3 | 1070 | <span style="color: green">+13</span> | 1083 | Won | Derek Daly (P13) |
+| Derek Daly | Williams | 13 | 1000 | <span style="color: red">-13</span> | 987 | Lost | Keke Rosberg (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 14 | 1002 | <span style="color: green">+16</span> | 1018 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (P17) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 17 | 1012 | <span style="color: red">-16</span> | 996 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (P14) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 11 | 1045 | <span style="color: red">-19</span> | 1026 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | 7 | 986 | <span style="color: green">+19</span> | 1005 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P11) |
+| Nelson Piquet | Brabham | 8 | 1100 | <span style="color: green">+11</span> | 1111 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 9 | 987 | <span style="color: red">-11</span> | 976 | Lost | Nelson Piquet (P8) |
+| Marc Surer | Arrows | 22 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P26) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 26 | 1000 | <span style="color: red">-16</span> | 984 | Lost | Marc Surer (P22) |
+| Raul Boesel | March | 24 | 1031 | <span style="color: green">+13</span> | 1044 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass (P25) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass | March | 25 | 969 | <span style="color: red">-13</span> | 956 | Lost | Raul Boesel (P24) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 1 | 976 | <span style="color: green">+17</span> | 993 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 2 | 1008 | <span style="color: red">-17</span> | 991 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 6 | 1012 | <span style="color: green">+15</span> | 1026 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P15) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 15 | 981 | <span style="color: red">-15</span> | 967 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 20 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 5 | 1001 | <span style="color: green">+16</span> | 1017 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P20) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | 19 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi (P21) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | 21 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick (P19) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 12 | 1032 | <span style="color: green">+13</span> | 1045 | Won | Eliseo Salazar (P18) |
+| Eliseo Salazar | ATS | 18 | 968 | <span style="color: red">-13</span> | 955 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 0 | 921 | <span style="color: red">-7</span> | 914 | Lost | Gilles Villeneuve (P0) |
+| Gilles Villeneuve | Ferrari | 0 | 1145 | <span style="color: green">+7</span> | 1152 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P0) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 1 | 1008 | N/A | 1008 | Won (opponent DNF) | Niki Lauda (PDNF) |
+| Niki Lauda | McLaren | DNF | 1017 | N/A | 1017 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P1) |
+| Keke Rosberg | Williams | 2 | 1027 | N/A | 1027 | Won (opponent DNF) | Derek Daly (PDNF) |
+| Derek Daly | Williams | DNF | 1000 | N/A | 1000 | DNF | Keke Rosberg (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 3 | 1016 | N/A | 1016 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | DNF | 998 | N/A | 998 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 4 | 1030 | N/A | 1030 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | DNF | 1001 | N/A | 1001 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P4) |
+| Nelson Piquet | Brabham | 5 | 1075 | N/A | 1075 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | DNF | 1012 | N/A | 1012 | DNF | Nelson Piquet (P5) |
+| Marc Surer | Arrows | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | DNF | 1000 | N/A | 1000 | DNF | Marc Surer (PDNF) |
+| Raul Boesel | March | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass | March | DNF | 1000 | N/A | 1000 | DNF | Raul Boesel (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | DNF | 1042 | N/A | 1042 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | DNF | 942 | N/A | 942 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | DNF | 1009 | N/A | 1009 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | DNF | 984 | N/A | 984 | DNF | Eliseo Salazar (PDNF) |
+| Eliseo Salazar | ATS | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | DNF | 977 | N/A | 977 | DNF | Gilles Villeneuve (PDNF) |
+| Gilles Villeneuve | Ferrari | DNF | 1089 | N/A | 1089 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (PDNF) |
 
 ---
 
@@ -204,31 +291,47 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Riccardo Patrese | Brabham | 2 | 976 | +22 | 998 | Won | Nelson Piquet (P13) |
-| Nelson Piquet | Brabham | 13 | 1111 | -22 | 1089 | Lost | Riccardo Patrese (P2) |
-| Andrea de Cesaris | Alfa Romeo | 7 | 1026 | -19 | 1008 | Lost | Bruno Giacomelli (P3) |
-| Bruno Giacomelli | Alfa Romeo | 3 | 967 | +19 | 985 | Won | Andrea de Cesaris (P7) |
-| Nigel Mansell | Team Lotus | 11 | 1005 | +17 | 1022 | Won | Elio de Angelis (P15) |
-| Elio de Angelis | Team Lotus | 15 | 1026 | -17 | 1009 | Lost | Nigel Mansell (P11) |
-| Derek Daly | Williams | 8 | 987 | -12 | 976 | Lost | Keke Rosberg (P6) |
-| Keke Rosberg | Williams | 6 | 1083 | +12 | 1095 | Won | Derek Daly (P8) |
-| Alain Prost | Renault | 4 | 993 | -16 | 977 | Lost | René Arnoux (P1) |
-| René Arnoux | Renault | 1 | 991 | +16 | 1007 | Won | Alain Prost (P4) |
-| Brian Henton | Tyrrell | 17 | 984 | -14 | 970 | Lost | Michele Alboreto (P9) |
-| Michele Alboreto | Tyrrell | 9 | 1017 | +14 | 1031 | Won | Brian Henton (P17) |
-| Niki Lauda | McLaren | 12 | 1004 | -15 | 988 | Lost | John Watson (P10) |
-| John Watson | McLaren | 10 | 1021 | +15 | 1037 | Won | Niki Lauda (P12) |
-| Manfred Winkelhock | ATS | 14 | 1045 | +12 | 1057 | Won | Eliseo Salazar (P20) |
-| Eliseo Salazar | ATS | 20 | 955 | -12 | 943 | Lost | Manfred Winkelhock (P14) |
-| Jacques Laffite | Ligier | 18 | 996 | -15 | 981 | Lost | Eddie Cheever (P16) |
-| Eddie Cheever | Ligier | 16 | 1018 | +15 | 1033 | Won | Jacques Laffite (P18) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 2 | 976 | <span style="color: green">+22</span> | 998 | Won | Nelson Piquet (P13) |
+| Nelson Piquet | Brabham | 13 | 1111 | <span style="color: red">-22</span> | 1089 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 7 | 1026 | <span style="color: red">-19</span> | 1008 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 3 | 967 | <span style="color: green">+19</span> | 985 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | 11 | 1005 | <span style="color: green">+17</span> | 1022 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P15) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 15 | 1026 | <span style="color: red">-17</span> | 1009 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (P11) |
+| Derek Daly | Williams | 8 | 987 | <span style="color: red">-12</span> | 976 | Lost | Keke Rosberg (P6) |
+| Keke Rosberg | Williams | 6 | 1083 | <span style="color: green">+12</span> | 1095 | Won | Derek Daly (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 4 | 993 | <span style="color: red">-16</span> | 977 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 1 | 991 | <span style="color: green">+16</span> | 1007 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 17 | 984 | <span style="color: red">-14</span> | 970 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 9 | 1017 | <span style="color: green">+14</span> | 1031 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P17) |
+| Niki Lauda | McLaren | 12 | 1004 | <span style="color: red">-15</span> | 988 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 10 | 1021 | <span style="color: green">+15</span> | 1037 | Won | Niki Lauda (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 14 | 1045 | <span style="color: green">+12</span> | 1057 | Won | Eliseo Salazar (P20) |
+| Eliseo Salazar | ATS | 20 | 955 | <span style="color: red">-12</span> | 943 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P14) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 18 | 996 | <span style="color: red">-15</span> | 981 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 16 | 1018 | <span style="color: green">+15</span> | 1033 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (P18) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Nigel Mansell | Team Lotus | 4 | 1001 | +17 | 1018 | Won | Elio de Angelis (P5) |
-| Elio de Angelis | Team Lotus | 5 | 1030 | -17 | 1013 | Lost | Nigel Mansell (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 1 | 1012 | N/A | 1012 | Won (opponent DNF) | Nelson Piquet (PDNF) |
+| Nelson Piquet | Brabham | DNF | 1075 | N/A | 1075 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | DNF | 1009 | N/A | 1009 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | 4 | 1001 | <span style="color: green">+17</span> | 1018 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 5 | 1030 | <span style="color: red">-17</span> | 1013 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (P4) |
+| Derek Daly | Williams | DNF | 1000 | N/A | 1000 | DNF | Keke Rosberg (PDNF) |
+| Keke Rosberg | Williams | DNF | 1027 | N/A | 1027 | DNF | Derek Daly (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | DNF | 1042 | N/A | 1042 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | DNF | 942 | N/A | 942 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (PDNF) |
+| Niki Lauda | McLaren | DNF | 1017 | N/A | 1017 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | DNF | 1008 | N/A | 1008 | DNF | Niki Lauda (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | DNF | 984 | N/A | 984 | DNF | Eliseo Salazar (PDNF) |
+| Eliseo Salazar | ATS | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | DNF | 998 | N/A | 998 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (PDNF) |
 
 ---
 
@@ -239,14 +342,27 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Nigel Mansell | Team Lotus | 7 | 1022 | +15 | 1037 | Won | Elio de Angelis (P8) |
-| Elio de Angelis | Team Lotus | 8 | 1009 | -15 | 994 | Lost | Nigel Mansell (P7) |
-| Bruno Giacomelli | Alfa Romeo | 6 | 985 | -15 | 970 | Lost | Andrea de Cesaris (P2) |
-| Andrea de Cesaris | Alfa Romeo | 2 | 1008 | +15 | 1023 | Won | Bruno Giacomelli (P6) |
-| Eliseo Salazar | ATS | 25 | 943 | -11 | 932 | Lost | Manfred Winkelhock (P5) |
-| Manfred Winkelhock | ATS | 5 | 1057 | +11 | 1068 | Won | Eliseo Salazar (P25) |
-| Jean-Pierre Jarier | Osella | 22 | 963 | +17 | 979 | Won | Riccardo Paletti (P23) |
-| Riccardo Paletti | Osella | 23 | 981 | -17 | 965 | Lost | Jean-Pierre Jarier (P22) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | 7 | 1022 | <span style="color: green">+15</span> | 1037 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 8 | 1009 | <span style="color: red">-15</span> | 994 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 6 | 985 | <span style="color: red">-15</span> | 970 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 2 | 1008 | <span style="color: green">+15</span> | 1023 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P6) |
+| Eliseo Salazar | ATS | 25 | 943 | <span style="color: red">-11</span> | 932 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 5 | 1057 | <span style="color: green">+11</span> | 1068 | Won | Eliseo Salazar (P25) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jean-Pierre Jarier | Osella | 22 | 963 | <span style="color: green">+17</span> | 979 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Paletti (P23) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Paletti | Osella | 23 | 981 | <span style="color: red">-17</span> | 965 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jean-Pierre Jarier (P22) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | DNF | 1018 | N/A | 1018 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | DNF | 1013 | N/A | 1013 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | DNF | 1009 | N/A | 1009 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (PDNF) |
+| Eliseo Salazar | ATS | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | DNF | 984 | N/A | 984 | DNF | Eliseo Salazar (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jean-Pierre Jarier | Osella | DNF | 944 | N/A | 944 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Paletti (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Paletti | Osella | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jean-Pierre Jarier (PDNF) |
 
 ---
 
@@ -257,23 +373,27 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Nelson Piquet | Brabham | 4 | 1089 | +12 | 1101 | Won | Riccardo Patrese (P8) |
-| Riccardo Patrese | Brabham | 8 | 998 | -12 | 986 | Lost | Nelson Piquet (P4) |
-| Marc Surer | Arrows | 16 | 1016 | +15 | 1031 | Won | Mauro Baldi (P17) |
-| Mauro Baldi | Arrows | 17 | 984 | -15 | 969 | Lost | Marc Surer (P16) |
-| Derek Daly | Williams | 13 | 976 | -11 | 965 | Lost | Keke Rosberg (P7) |
-| Keke Rosberg | Williams | 7 | 1095 | +11 | 1106 | Won | Derek Daly (P13) |
-| Jochen Mass | March | 22 | 956 | -12 | 944 | Lost | Raul Boesel (P21) |
-| Raul Boesel | March | 21 | 1044 | +12 | 1056 | Won | Jochen Mass (P22) |
+| Nelson Piquet | Brabham | 4 | 1089 | <span style="color: green">+12</span> | 1101 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 8 | 998 | <span style="color: red">-12</span> | 986 | Lost | Nelson Piquet (P4) |
+| Marc Surer | Arrows | 16 | 1016 | <span style="color: green">+15</span> | 1031 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P17) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 17 | 984 | <span style="color: red">-15</span> | 969 | Lost | Marc Surer (P16) |
+| Derek Daly | Williams | 13 | 976 | <span style="color: red">-11</span> | 965 | Lost | Keke Rosberg (P7) |
+| Keke Rosberg | Williams | 7 | 1095 | <span style="color: green">+11</span> | 1106 | Won | Derek Daly (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass | March | 22 | 956 | <span style="color: red">-12</span> | 944 | Lost | Raul Boesel (P21) |
+| Raul Boesel | March | 21 | 1044 | <span style="color: green">+12</span> | 1056 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass (P22) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Nelson Piquet | Brabham | 1 | 1075 | +13 | 1088 | Won | Riccardo Patrese (P2) |
-| Riccardo Patrese | Brabham | 2 | 1012 | -13 | 999 | Lost | Nelson Piquet (P1) |
-| Marc Surer | Arrows | 5 | 1000 | +16 | 1016 | Won | Mauro Baldi (P8) |
-| Mauro Baldi | Arrows | 8 | 1000 | -16 | 984 | Lost | Marc Surer (P5) |
+| Nelson Piquet | Brabham | 1 | 1075 | <span style="color: green">+13</span> | 1088 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 2 | 1012 | <span style="color: red">-13</span> | 999 | Lost | Nelson Piquet (P1) |
+| Marc Surer | Arrows | 5 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 8 | 1000 | <span style="color: red">-16</span> | 984 | Lost | Marc Surer (P5) |
+| Derek Daly | Williams | DNF | 1000 | N/A | 1000 | DNF | Keke Rosberg (PDNF) |
+| Keke Rosberg | Williams | DNF | 1027 | N/A | 1027 | DNF | Derek Daly (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass | March | DNF | 1000 | N/A | 1000 | DNF | Raul Boesel (PDNF) |
+| Raul Boesel | March | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jochen Mass (PDNF) |
 
 ---
 
@@ -284,35 +404,35 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Didier Pironi | Ferrari | 4 | 914 | +20 | 934 | Won | Patrick Tambay (P6) |
-| Patrick Tambay | Ferrari | 6 | 1000 | -20 | 980 | Lost | Didier Pironi (P4) |
-| Nelson Piquet | Brabham | 3 | 1101 | +11 | 1112 | Won | Riccardo Patrese (P10) |
-| Riccardo Patrese | Brabham | 10 | 986 | -11 | 975 | Lost | Nelson Piquet (P3) |
-| Keke Rosberg | Williams | 7 | 1106 | +10 | 1115 | Won | Derek Daly (P12) |
-| Derek Daly | Williams | 12 | 965 | -10 | 955 | Lost | Keke Rosberg (P7) |
-| Niki Lauda | McLaren | 5 | 988 | +18 | 1007 | Won | John Watson (P11) |
-| John Watson | McLaren | 11 | 1037 | -18 | 1018 | Lost | Niki Lauda (P5) |
-| Mauro Baldi | Arrows | 16 | 969 | +19 | 988 | Won | Marc Surer (P17) |
-| Marc Surer | Arrows | 17 | 1031 | -19 | 1012 | Lost | Mauro Baldi (P16) |
-| Manfred Winkelhock | ATS | 18 | 1068 | +10 | 1078 | Won | Eliseo Salazar (P25) |
-| Eliseo Salazar | ATS | 25 | 932 | -10 | 922 | Lost | Manfred Winkelhock (P18) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 4 | 914 | <span style="color: green">+20</span> | 934 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay | Ferrari | 6 | 1000 | <span style="color: red">-20</span> | 980 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P4) |
+| Nelson Piquet | Brabham | 3 | 1101 | <span style="color: green">+11</span> | 1112 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 10 | 986 | <span style="color: red">-11</span> | 975 | Lost | Nelson Piquet (P3) |
+| Keke Rosberg | Williams | 7 | 1106 | <span style="color: green">+10</span> | 1115 | Won | Derek Daly (P12) |
+| Derek Daly | Williams | 12 | 965 | <span style="color: red">-10</span> | 955 | Lost | Keke Rosberg (P7) |
+| Niki Lauda | McLaren | 5 | 988 | <span style="color: green">+18</span> | 1007 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P11) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 11 | 1037 | <span style="color: red">-18</span> | 1018 | Lost | Niki Lauda (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 16 | 969 | <span style="color: green">+19</span> | 988 | Won | Marc Surer (P17) |
+| Marc Surer | Arrows | 17 | 1031 | <span style="color: red">-19</span> | 1012 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 18 | 1068 | <span style="color: green">+10</span> | 1078 | Won | Eliseo Salazar (P25) |
+| Eliseo Salazar | ATS | 25 | 932 | <span style="color: red">-10</span> | 922 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P18) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Didier Pironi | Ferrari | 1 | 977 | +17 | 994 | Won | Patrick Tambay (P8) |
-| Patrick Tambay | Ferrari | 8 | 1000 | -17 | 983 | Lost | Didier Pironi (P1) |
-| Nelson Piquet | Brabham | 2 | 1088 | +12 | 1100 | Won | Riccardo Patrese (P15) |
-| Riccardo Patrese | Brabham | 15 | 999 | -12 | 987 | Lost | Nelson Piquet (P2) |
-| Keke Rosberg | Williams | 3 | 1027 | +15 | 1042 | Won | Derek Daly (P5) |
-| Derek Daly | Williams | 5 | 1000 | -15 | 985 | Lost | Keke Rosberg (P3) |
-| Niki Lauda | McLaren | 4 | 1017 | +16 | 1033 | Won | John Watson (P9) |
-| John Watson | McLaren | 9 | 1008 | -16 | 992 | Lost | Niki Lauda (P4) |
-| Mauro Baldi | Arrows | 6 | 984 | +17 | 1001 | Won | Marc Surer (P10) |
-| Marc Surer | Arrows | 10 | 1016 | -17 | 999 | Lost | Mauro Baldi (P6) |
-| Manfred Winkelhock | ATS | 12 | 984 | +17 | 1001 | Won | Eliseo Salazar (P13) |
-| Eliseo Salazar | ATS | 13 | 1016 | -17 | 999 | Lost | Manfred Winkelhock (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 1 | 977 | <span style="color: green">+17</span> | 994 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay | Ferrari | 8 | 1000 | <span style="color: red">-17</span> | 983 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P1) |
+| Nelson Piquet | Brabham | 2 | 1088 | <span style="color: green">+12</span> | 1100 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P15) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 15 | 999 | <span style="color: red">-12</span> | 987 | Lost | Nelson Piquet (P2) |
+| Keke Rosberg | Williams | 3 | 1027 | <span style="color: green">+15</span> | 1042 | Won | Derek Daly (P5) |
+| Derek Daly | Williams | 5 | 1000 | <span style="color: red">-15</span> | 985 | Lost | Keke Rosberg (P3) |
+| Niki Lauda | McLaren | 4 | 1017 | <span style="color: green">+16</span> | 1033 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 9 | 1008 | <span style="color: red">-16</span> | 992 | Lost | Niki Lauda (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 6 | 984 | <span style="color: green">+17</span> | 1001 | Won | Marc Surer (P10) |
+| Marc Surer | Arrows | 10 | 1016 | <span style="color: red">-17</span> | 999 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 12 | 984 | <span style="color: green">+17</span> | 1001 | Won | Eliseo Salazar (P13) |
+| Eliseo Salazar | ATS | 13 | 1016 | <span style="color: red">-17</span> | 999 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P12) |
 
 ---
 
@@ -323,27 +443,39 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Didier Pironi | Ferrari | 4 | 934 | +18 | 952 | Won | Patrick Tambay (P13) |
-| Patrick Tambay | Ferrari | 13 | 980 | -18 | 962 | Lost | Didier Pironi (P4) |
-| Elio de Angelis | Team Lotus | 7 | 994 | +18 | 1012 | Won | Nigel Mansell (P23) |
-| Nigel Mansell | Team Lotus | 23 | 1037 | -18 | 1019 | Lost | Elio de Angelis (P7) |
-| Derek Daly | Williams | 10 | 955 | -9 | 946 | Lost | Keke Rosberg (P1) |
-| Keke Rosberg | Williams | 1 | 1115 | +9 | 1125 | Won | Derek Daly (P10) |
-| Bruno Giacomelli | Alfa Romeo | 14 | 970 | -14 | 957 | Lost | Andrea de Cesaris (P11) |
-| Andrea de Cesaris | Alfa Romeo | 11 | 1023 | +14 | 1036 | Won | Bruno Giacomelli (P14) |
-| Brian Henton | Tyrrell | 17 | 970 | -13 | 956 | Lost | Michele Alboreto (P9) |
-| Michele Alboreto | Tyrrell | 9 | 1031 | +13 | 1044 | Won | Brian Henton (P17) |
-| Mauro Baldi | Arrows | 26 | 988 | -15 | 973 | Lost | Marc Surer (P22) |
-| Marc Surer | Arrows | 22 | 1012 | +15 | 1027 | Won | Mauro Baldi (P26) |
-| Eddie Cheever | Ligier | 24 | 1033 | -18 | 1015 | Lost | Jacques Laffite (P20) |
-| Jacques Laffite | Ligier | 20 | 981 | +18 | 999 | Won | Eddie Cheever (P24) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 4 | 934 | <span style="color: green">+18</span> | 952 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay | Ferrari | 13 | 980 | <span style="color: red">-18</span> | 962 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 7 | 994 | <span style="color: green">+18</span> | 1012 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (P23) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | 23 | 1037 | <span style="color: red">-18</span> | 1019 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P7) |
+| Derek Daly | Williams | 10 | 955 | <span style="color: red">-9</span> | 946 | Lost | Keke Rosberg (P1) |
+| Keke Rosberg | Williams | 1 | 1115 | <span style="color: green">+9</span> | 1125 | Won | Derek Daly (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 14 | 970 | <span style="color: red">-14</span> | 957 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P11) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 11 | 1023 | <span style="color: green">+14</span> | 1036 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P14) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 17 | 970 | <span style="color: red">-13</span> | 956 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 9 | 1031 | <span style="color: green">+13</span> | 1044 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P17) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 26 | 988 | <span style="color: red">-15</span> | 973 | Lost | Marc Surer (P22) |
+| Marc Surer | Arrows | 22 | 1012 | <span style="color: green">+15</span> | 1027 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P26) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 24 | 1033 | <span style="color: red">-18</span> | 1015 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (P20) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 20 | 981 | <span style="color: green">+18</span> | 999 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (P24) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Didier Pironi | Ferrari | 2 | 994 | +15 | 1009 | Won | Patrick Tambay (P3) |
-| Patrick Tambay | Ferrari | 3 | 983 | -15 | 967 | Lost | Didier Pironi (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 2 | 994 | <span style="color: green">+15</span> | 1009 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay | Ferrari | 3 | 983 | <span style="color: red">-15</span> | 967 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 4 | 1013 | N/A | 1013 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | DNF | 1018 | N/A | 1018 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P4) |
+| Derek Daly | Williams | 5 | 985 | N/A | 985 | Won (opponent DNF) | Keke Rosberg (PDNF) |
+| Keke Rosberg | Williams | DNF | 1042 | N/A | 1042 | DNF | Derek Daly (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 7 | 1009 | N/A | 1009 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 8 | 1000 | N/A | 1000 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 9 | 1001 | N/A | 1001 | Won (opponent DNF) | Marc Surer (PDNF) |
+| Marc Surer | Arrows | DNF | 999 | N/A | 999 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | DNF | 998 | N/A | 998 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (PDNF) |
 
 ---
 
@@ -354,43 +486,59 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| René Arnoux | Renault | 1 | 1007 | +15 | 1021 | Won | Alain Prost (P2) |
-| Alain Prost | Renault | 2 | 977 | -15 | 963 | Lost | René Arnoux (P1) |
-| Didier Pironi | Ferrari | 3 | 952 | +16 | 969 | Won | Patrick Tambay (P5) |
-| Patrick Tambay | Ferrari | 5 | 962 | -16 | 946 | Lost | Didier Pironi (P3) |
-| Keke Rosberg | Williams | 10 | 1125 | +8 | 1133 | Won | Derek Daly (P11) |
-| Derek Daly | Williams | 11 | 946 | -8 | 937 | Lost | Keke Rosberg (P10) |
-| Michele Alboreto | Tyrrell | 15 | 1044 | +12 | 1056 | Won | Brian Henton (P23) |
-| Brian Henton | Tyrrell | 23 | 956 | -12 | 944 | Lost | Michele Alboreto (P15) |
-| Niki Lauda | McLaren | 9 | 1007 | +17 | 1023 | Won | John Watson (P12) |
-| John Watson | McLaren | 12 | 1018 | -17 | 1002 | Lost | Niki Lauda (P9) |
-| Bruno Giacomelli | Alfa Romeo | 8 | 957 | -12 | 944 | Lost | Andrea de Cesaris (P7) |
-| Andrea de Cesaris | Alfa Romeo | 7 | 1036 | +12 | 1049 | Won | Bruno Giacomelli (P8) |
-| Manfred Winkelhock | ATS | 18 | 1078 | +9 | 1087 | Won | Eliseo Salazar (P22) |
-| Eliseo Salazar | ATS | 22 | 922 | -9 | 913 | Lost | Manfred Winkelhock (P18) |
-| Geoff Lees | Team Lotus | 24 | 1000 | -15 | 985 | Lost | Elio de Angelis (P13) |
-| Elio de Angelis | Team Lotus | 13 | 1012 | +15 | 1027 | Won | Geoff Lees (P24) |
-| Marc Surer | Arrows | 20 | 1027 | +14 | 1040 | Won | Mauro Baldi (P25) |
-| Mauro Baldi | Arrows | 25 | 973 | -14 | 960 | Lost | Marc Surer (P20) |
-| Jacques Laffite | Ligier | 16 | 999 | +17 | 1016 | Won | Eddie Cheever (P19) |
-| Eddie Cheever | Ligier | 19 | 1015 | -17 | 998 | Lost | Jacques Laffite (P16) |
-| Derek Warwick | Toleman | 14 | 1016 | +15 | 1031 | Won | Teo Fabi (P21) |
-| Teo Fabi | Toleman | 21 | 984 | -15 | 969 | Lost | Derek Warwick (P14) |
-| Nelson Piquet | Brabham | 6 | 1112 | -22 | 1090 | Lost | Riccardo Patrese (P4) |
-| Riccardo Patrese | Brabham | 4 | 975 | +22 | 997 | Won | Nelson Piquet (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 1 | 1007 | <span style="color: green">+15</span> | 1021 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 2 | 977 | <span style="color: red">-15</span> | 963 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 3 | 952 | <span style="color: green">+16</span> | 969 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay | Ferrari | 5 | 962 | <span style="color: red">-16</span> | 946 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P3) |
+| Keke Rosberg | Williams | 10 | 1125 | <span style="color: green">+8</span> | 1133 | Won | Derek Daly (P11) |
+| Derek Daly | Williams | 11 | 946 | <span style="color: red">-8</span> | 937 | Lost | Keke Rosberg (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 15 | 1044 | <span style="color: green">+12</span> | 1056 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P23) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 23 | 956 | <span style="color: red">-12</span> | 944 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P15) |
+| Niki Lauda | McLaren | 9 | 1007 | <span style="color: green">+17</span> | 1023 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 12 | 1018 | <span style="color: red">-17</span> | 1002 | Lost | Niki Lauda (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 8 | 957 | <span style="color: red">-12</span> | 944 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 7 | 1036 | <span style="color: green">+12</span> | 1049 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 18 | 1078 | <span style="color: green">+9</span> | 1087 | Won | Eliseo Salazar (P22) |
+| Eliseo Salazar | ATS | 22 | 922 | <span style="color: red">-9</span> | 913 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P18) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Geoff Lees | Team Lotus | 24 | 1000 | <span style="color: red">-15</span> | 985 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 13 | 1012 | <span style="color: green">+15</span> | 1027 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Geoff Lees (P24) |
+| Marc Surer | Arrows | 20 | 1027 | <span style="color: green">+14</span> | 1040 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P25) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 25 | 973 | <span style="color: red">-14</span> | 960 | Lost | Marc Surer (P20) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 16 | 999 | <span style="color: green">+17</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (P19) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 19 | 1015 | <span style="color: red">-17</span> | 998 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | 14 | 1016 | <span style="color: green">+15</span> | 1031 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi (P21) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | 21 | 984 | <span style="color: red">-15</span> | 969 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick (P14) |
+| Nelson Piquet | Brabham | 6 | 1112 | <span style="color: red">-22</span> | 1090 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 4 | 975 | <span style="color: green">+22</span> | 997 | Won | Nelson Piquet (P6) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| René Arnoux | Renault | 1 | 942 | +20 | 963 | Won | Alain Prost (P2) |
-| Alain Prost | Renault | 2 | 1042 | -20 | 1021 | Lost | René Arnoux (P1) |
-| Didier Pironi | Ferrari | 3 | 1009 | +14 | 1023 | Won | Patrick Tambay (P4) |
-| Patrick Tambay | Ferrari | 4 | 967 | -14 | 953 | Lost | Didier Pironi (P3) |
-| Keke Rosberg | Williams | 5 | 1042 | +13 | 1055 | Won | Derek Daly (P7) |
-| Derek Daly | Williams | 7 | 985 | -13 | 972 | Lost | Keke Rosberg (P5) |
-| Michele Alboreto | Tyrrell | 6 | 984 | +17 | 1001 | Won | Brian Henton (P10) |
-| Brian Henton | Tyrrell | 10 | 1000 | -17 | 983 | Lost | Michele Alboreto (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 1 | 942 | <span style="color: green">+20</span> | 963 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 2 | 1042 | <span style="color: red">-20</span> | 1021 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 3 | 1009 | <span style="color: green">+14</span> | 1023 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay | Ferrari | 4 | 967 | <span style="color: red">-14</span> | 953 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P3) |
+| Keke Rosberg | Williams | 5 | 1042 | <span style="color: green">+13</span> | 1055 | Won | Derek Daly (P7) |
+| Derek Daly | Williams | 7 | 985 | <span style="color: red">-13</span> | 972 | Lost | Keke Rosberg (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 6 | 984 | <span style="color: green">+17</span> | 1001 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 10 | 1000 | <span style="color: red">-17</span> | 983 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P6) |
+| Niki Lauda | McLaren | 8 | 1033 | N/A | 1033 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | DNF | 992 | N/A | 992 | DNF | Niki Lauda (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 9 | 1009 | N/A | 1009 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 11 | 1001 | N/A | 1001 | Won (opponent DNF) | Eliseo Salazar (PDNF) |
+| Eliseo Salazar | ATS | DNF | 999 | N/A | 999 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P11) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Geoff Lees | Team Lotus | 12 | 1000 | N/A | 1000 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | DNF | 1013 | N/A | 1013 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Geoff Lees (P12) |
+| Marc Surer | Arrows | 13 | 999 | N/A | 999 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | DNF | 1001 | N/A | 1001 | DNF | Marc Surer (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 14 | 998 | N/A | 998 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (P14) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick (PDNF) |
+| Nelson Piquet | Brabham | DNF | 1100 | N/A | 1100 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | DNF | 987 | N/A | 987 | DNF | Nelson Piquet (PDNF) |
 
 ---
 
@@ -401,33 +549,51 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Patrick Tambay | Ferrari | 5 | 946 | -15 | 931 | Lost | Didier Pironi (P1) |
-| Didier Pironi | Ferrari | 1 | 969 | +15 | 983 | Won | Patrick Tambay (P5) |
-| René Arnoux | Renault | 3 | 1021 | -19 | 1003 | Lost | Alain Prost (P2) |
-| Alain Prost | Renault | 2 | 963 | +19 | 981 | Won | René Arnoux (P3) |
-| Keke Rosberg | Williams | 9 | 1133 | +8 | 1141 | Won | Derek Daly (P19) |
-| Derek Daly | Williams | 19 | 937 | -8 | 930 | Lost | Keke Rosberg (P9) |
-| Michele Alboreto | Tyrrell | 7 | 1056 | +11 | 1067 | Won | Brian Henton (P17) |
-| Brian Henton | Tyrrell | 17 | 944 | -11 | 933 | Lost | Michele Alboreto (P7) |
-| Bruno Giacomelli | Alfa Romeo | 11 | 944 | -11 | 933 | Lost | Andrea de Cesaris (P8) |
-| Andrea de Cesaris | Alfa Romeo | 8 | 1049 | +11 | 1060 | Won | Bruno Giacomelli (P11) |
-| Marc Surer | Arrows | 26 | 1040 | -20 | 1021 | Lost | Mauro Baldi (P23) |
-| Mauro Baldi | Arrows | 23 | 960 | +20 | 979 | Won | Marc Surer (P26) |
-| Nigel Mansell | Team Lotus | 18 | 1019 | -16 | 1004 | Lost | Elio de Angelis (P13) |
-| Elio de Angelis | Team Lotus | 13 | 1027 | +16 | 1043 | Won | Nigel Mansell (P18) |
-| Jacques Laffite | Ligier | 15 | 1016 | -17 | 999 | Lost | Eddie Cheever (P12) |
-| Eddie Cheever | Ligier | 12 | 998 | +17 | 1015 | Won | Jacques Laffite (P15) |
-| Nelson Piquet | Brabham | 4 | 1090 | +12 | 1102 | Won | Riccardo Patrese (P6) |
-| Riccardo Patrese | Brabham | 6 | 997 | -12 | 985 | Lost | Nelson Piquet (P4) |
-| Eliseo Salazar | ATS | 22 | 913 | -9 | 904 | Lost | Manfred Winkelhock (P16) |
-| Manfred Winkelhock | ATS | 16 | 1087 | +9 | 1096 | Won | Eliseo Salazar (P22) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay | Ferrari | 5 | 946 | <span style="color: red">-15</span> | 931 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | 1 | 969 | <span style="color: green">+15</span> | 983 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 3 | 1021 | <span style="color: red">-19</span> | 1003 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 2 | 963 | <span style="color: green">+19</span> | 981 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P3) |
+| Keke Rosberg | Williams | 9 | 1133 | <span style="color: green">+8</span> | 1141 | Won | Derek Daly (P19) |
+| Derek Daly | Williams | 19 | 937 | <span style="color: red">-8</span> | 930 | Lost | Keke Rosberg (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 7 | 1056 | <span style="color: green">+11</span> | 1067 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P17) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 17 | 944 | <span style="color: red">-11</span> | 933 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 11 | 944 | <span style="color: red">-11</span> | 933 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 8 | 1049 | <span style="color: green">+11</span> | 1060 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P11) |
+| Marc Surer | Arrows | 26 | 1040 | <span style="color: red">-20</span> | 1021 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P23) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 23 | 960 | <span style="color: green">+20</span> | 979 | Won | Marc Surer (P26) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | 18 | 1019 | <span style="color: red">-16</span> | 1004 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | 13 | 1027 | <span style="color: green">+16</span> | 1043 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (P18) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 15 | 1016 | <span style="color: red">-17</span> | 999 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 12 | 998 | <span style="color: green">+17</span> | 1015 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (P15) |
+| Nelson Piquet | Brabham | 4 | 1090 | <span style="color: green">+12</span> | 1102 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 6 | 997 | <span style="color: red">-12</span> | 985 | Lost | Nelson Piquet (P4) |
+| Eliseo Salazar | ATS | 22 | 913 | <span style="color: red">-9</span> | 904 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 16 | 1087 | <span style="color: green">+9</span> | 1096 | Won | Eliseo Salazar (P22) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Michele Alboreto | Tyrrell | 4 | 1001 | +15 | 1016 | Won | Brian Henton (P7) |
-| Brian Henton | Tyrrell | 7 | 983 | -15 | 968 | Lost | Michele Alboreto (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay | Ferrari | 1 | 953 | N/A | 953 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Didier Pironi | Ferrari | DNF | 1023 | N/A | 1023 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Patrick Tambay (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 2 | 963 | N/A | 963 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | DNF | 1021 | N/A | 1021 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P2) |
+| Keke Rosberg | Williams | 3 | 1055 | N/A | 1055 | Won (opponent DNF) | Derek Daly (PDNF) |
+| Derek Daly | Williams | DNF | 972 | N/A | 972 | DNF | Keke Rosberg (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 4 | 1001 | <span style="color: green">+15</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 7 | 983 | <span style="color: red">-15</span> | 968 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 5 | 1009 | N/A | 1009 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P5) |
+| Marc Surer | Arrows | 6 | 999 | N/A | 999 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | DNF | 1001 | N/A | 1001 | DNF | Marc Surer (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell | Team Lotus | 9 | 1018 | N/A | 1018 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Elio de Angelis | Team Lotus | DNF | 1013 | N/A | 1013 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Nigel Mansell (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | DNF | 998 | N/A | 998 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (PDNF) |
+| Nelson Piquet | Brabham | DNF | 1100 | N/A | 1100 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | DNF | 987 | N/A | 987 | DNF | Nelson Piquet (PDNF) |
+| Eliseo Salazar | ATS | DNF | 999 | N/A | 999 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | DNF | 1001 | N/A | 1001 | DNF | Eliseo Salazar (PDNF) |
 
 ---
 
@@ -438,20 +604,39 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Niki Lauda | McLaren | 10 | 1023 | +15 | 1038 | Won | John Watson (P18) |
-| John Watson | McLaren | 18 | 1002 | -15 | 987 | Lost | Niki Lauda (P10) |
-| Mauro Baldi | Arrows | 23 | 979 | -14 | 965 | Lost | Marc Surer (P21) |
-| Marc Surer | Arrows | 21 | 1021 | +14 | 1035 | Won | Mauro Baldi (P23) |
-| Alain Prost | Renault | 3 | 981 | +17 | 998 | Won | René Arnoux (P5) |
-| René Arnoux | Renault | 5 | 1003 | -17 | 986 | Lost | Alain Prost (P3) |
-| Brian Henton | Tyrrell | 19 | 933 | -10 | 923 | Lost | Michele Alboreto (P8) |
-| Michele Alboreto | Tyrrell | 8 | 1067 | +10 | 1078 | Won | Brian Henton (P19) |
-| Nelson Piquet | Brabham | 1 | 1102 | +11 | 1113 | Won | Riccardo Patrese (P2) |
-| Riccardo Patrese | Brabham | 2 | 985 | -11 | 974 | Lost | Nelson Piquet (P1) |
-| Derek Warwick | Toleman | 15 | 1031 | +13 | 1044 | Won | Teo Fabi (P17) |
-| Teo Fabi | Toleman | 17 | 969 | -13 | 956 | Lost | Derek Warwick (P15) |
-| Andrea de Cesaris | Alfa Romeo | 11 | 1060 | +10 | 1070 | Won | Bruno Giacomelli (P13) |
-| Bruno Giacomelli | Alfa Romeo | 13 | 933 | -10 | 923 | Lost | Andrea de Cesaris (P11) |
+| Niki Lauda | McLaren | 10 | 1023 | <span style="color: green">+15</span> | 1038 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P18) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 18 | 1002 | <span style="color: red">-15</span> | 987 | Lost | Niki Lauda (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 23 | 979 | <span style="color: red">-14</span> | 965 | Lost | Marc Surer (P21) |
+| Marc Surer | Arrows | 21 | 1021 | <span style="color: green">+14</span> | 1035 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P23) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | 3 | 981 | <span style="color: green">+17</span> | 998 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | 5 | 1003 | <span style="color: red">-17</span> | 986 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 19 | 933 | <span style="color: red">-10</span> | 923 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 8 | 1067 | <span style="color: green">+10</span> | 1078 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P19) |
+| Nelson Piquet | Brabham | 1 | 1102 | <span style="color: green">+11</span> | 1113 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 2 | 985 | <span style="color: red">-11</span> | 974 | Lost | Nelson Piquet (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | 15 | 1031 | <span style="color: green">+13</span> | 1044 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi (P17) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | 17 | 969 | <span style="color: red">-13</span> | 956 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick (P15) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 11 | 1060 | <span style="color: green">+10</span> | 1070 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 13 | 933 | <span style="color: red">-10</span> | 923 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P11) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| Niki Lauda | McLaren | 5 | 1033 | N/A | 1033 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | DNF | 992 | N/A | 992 | DNF | Niki Lauda (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 6 | 1001 | N/A | 1001 | Won (opponent DNF) | Marc Surer (PDNF) |
+| Marc Surer | Arrows | DNF | 999 | N/A | 999 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost | Renault | DNF | 1021 | N/A | 1021 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> René Arnoux | Renault | DNF | 963 | N/A | 963 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Alain Prost (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | DNF | 968 | N/A | 968 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (PDNF) |
+| Nelson Piquet | Brabham | DNF | 1100 | N/A | 1100 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | DNF | 987 | N/A | 987 | DNF | Nelson Piquet (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | DNF | 1009 | N/A | 1009 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (PDNF) |
 
 ---
 
@@ -462,23 +647,31 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Andrea de Cesaris | Alfa Romeo | 5 | 1070 | +10 | 1080 | Won | Bruno Giacomelli (P9) |
-| Bruno Giacomelli | Alfa Romeo | 9 | 923 | -10 | 913 | Lost | Andrea de Cesaris (P5) |
-| Eliseo Salazar | ATS | 25 | 904 | -8 | 896 | Lost | Manfred Winkelhock (P20) |
-| Manfred Winkelhock | ATS | 20 | 1096 | +8 | 1104 | Won | Eliseo Salazar (P25) |
-| Eddie Cheever | Ligier | 16 | 1015 | -17 | 998 | Lost | Jacques Laffite (P13) |
-| Jacques Laffite | Ligier | 13 | 999 | +17 | 1016 | Won | Eddie Cheever (P16) |
-| Teo Fabi | Toleman | 23 | 956 | -12 | 944 | Lost | Derek Warwick (P21) |
-| Derek Warwick | Toleman | 21 | 1044 | +12 | 1056 | Won | Teo Fabi (P23) |
-| Raul Boesel | March | 24 | 1056 | -19 | 1037 | Lost | Rupert Keegan (P22) |
-| Rupert Keegan | March | 22 | 1000 | +19 | 1019 | Won | Raul Boesel (P24) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 5 | 1070 | <span style="color: green">+10</span> | 1080 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 9 | 923 | <span style="color: red">-10</span> | 913 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P5) |
+| Eliseo Salazar | ATS | 25 | 904 | <span style="color: red">-8</span> | 896 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (P20) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | 20 | 1096 | <span style="color: green">+8</span> | 1104 | Won | Eliseo Salazar (P25) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | 16 | 1015 | <span style="color: red">-17</span> | 998 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | 13 | 999 | <span style="color: green">+17</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | 23 | 956 | <span style="color: red">-12</span> | 944 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick (P21) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | 21 | 1044 | <span style="color: green">+12</span> | 1056 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi (P23) |
+| Raul Boesel | March | 24 | 1056 | <span style="color: red">-19</span> | 1037 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Rupert Keegan (P22) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Rupert Keegan | March | 22 | 1000 | <span style="color: green">+19</span> | 1019 | Won | Raul Boesel (P24) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Andrea de Cesaris | Alfa Romeo | 10 | 984 | +17 | 1001 | Won | Bruno Giacomelli (P12) |
-| Bruno Giacomelli | Alfa Romeo | 12 | 1009 | -17 | 992 | Lost | Andrea de Cesaris (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 10 | 984 | <span style="color: green">+17</span> | 1001 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 12 | 1009 | <span style="color: red">-17</span> | 992 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P10) |
+| Eliseo Salazar | ATS | DNF | 999 | N/A | 999 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Manfred Winkelhock | ATS | DNF | 1001 | N/A | 1001 | DNF | Eliseo Salazar (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever | Ligier | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jacques Laffite | Ligier | DNF | 998 | N/A | 998 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Eddie Cheever (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi (PDNF) |
+| Raul Boesel | March | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Rupert Keegan (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Rupert Keegan | March | DNF | 1000 | N/A | 1000 | DNF | Raul Boesel (PDNF) |
 
 ---
 
@@ -489,10 +682,19 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Nelson Piquet | Brabham | 2 | 1113 | +10 | 1123 | Won | Riccardo Patrese (P4) |
-| Riccardo Patrese | Brabham | 4 | 974 | -10 | 964 | Lost | Nelson Piquet (P2) |
-| Teo Fabi | Toleman | 22 | 944 | -11 | 933 | Lost | Derek Warwick (P16) |
-| Derek Warwick | Toleman | 16 | 1056 | +11 | 1067 | Won | Teo Fabi (P22) |
+| Nelson Piquet | Brabham | 2 | 1113 | <span style="color: green">+10</span> | 1123 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (P4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | 4 | 974 | <span style="color: red">-10</span> | 964 | Lost | Nelson Piquet (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | 22 | 944 | <span style="color: red">-11</span> | 933 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | 16 | 1056 | <span style="color: green">+11</span> | 1067 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi (P22) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| Nelson Piquet | Brabham | DNF | 1100 | N/A | 1100 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Riccardo Patrese | Brabham | DNF | 987 | N/A | 987 | DNF | Nelson Piquet (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi | Toleman | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Derek Warwick | Toleman | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Teo Fabi (PDNF) |
 
 ---
 
@@ -503,31 +705,35 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Michele Alboreto | Tyrrell | 3 | 1078 | +9 | 1087 | Won | Brian Henton (P19) |
-| Brian Henton | Tyrrell | 19 | 923 | -9 | 914 | Lost | Michele Alboreto (P3) |
-| John Watson | McLaren | 9 | 987 | +18 | 1005 | Won | Niki Lauda (P13) |
-| Niki Lauda | McLaren | 13 | 1038 | -18 | 1020 | Lost | John Watson (P9) |
-| Keke Rosberg | Williams | 6 | 1141 | +7 | 1148 | Won | Derek Daly (P14) |
-| Derek Daly | Williams | 14 | 930 | -7 | 922 | Lost | Keke Rosberg (P6) |
-| Marc Surer | Arrows | 17 | 1035 | +13 | 1048 | Won | Mauro Baldi (P23) |
-| Mauro Baldi | Arrows | 23 | 965 | -13 | 952 | Lost | Marc Surer (P17) |
-| Andrea de Cesaris | Alfa Romeo | 18 | 1080 | -23 | 1057 | Lost | Bruno Giacomelli (P16) |
-| Bruno Giacomelli | Alfa Romeo | 16 | 913 | +23 | 936 | Won | Andrea de Cesaris (P18) |
-| Rupert Keegan | March | 25 | 1019 | -15 | 1003 | Lost | Raul Boesel (P24) |
-| Raul Boesel | March | 24 | 1037 | +15 | 1052 | Won | Rupert Keegan (P25) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 3 | 1078 | <span style="color: green">+9</span> | 1087 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P19) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 19 | 923 | <span style="color: red">-9</span> | 914 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 9 | 987 | <span style="color: green">+18</span> | 1005 | Won | Niki Lauda (P13) |
+| Niki Lauda | McLaren | 13 | 1038 | <span style="color: red">-18</span> | 1020 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P9) |
+| Keke Rosberg | Williams | 6 | 1141 | <span style="color: green">+7</span> | 1148 | Won | Derek Daly (P14) |
+| Derek Daly | Williams | 14 | 930 | <span style="color: red">-7</span> | 922 | Lost | Keke Rosberg (P6) |
+| Marc Surer | Arrows | 17 | 1035 | <span style="color: green">+13</span> | 1048 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P23) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 23 | 965 | <span style="color: red">-13</span> | 952 | Lost | Marc Surer (P17) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 18 | 1080 | <span style="color: red">-23</span> | 1057 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 16 | 913 | <span style="color: green">+23</span> | 936 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P18) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Rupert Keegan | March | 25 | 1019 | <span style="color: red">-15</span> | 1003 | Lost | Raul Boesel (P24) |
+| Raul Boesel | March | 24 | 1037 | <span style="color: green">+15</span> | 1052 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Rupert Keegan (P25) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Michele Alboreto | Tyrrell | 1 | 1016 | +14 | 1030 | Won | Brian Henton (P8) |
-| Brian Henton | Tyrrell | 8 | 968 | -14 | 954 | Lost | Michele Alboreto (P1) |
-| Keke Rosberg | Williams | 5 | 1055 | +12 | 1067 | Won | Derek Daly (P6) |
-| Derek Daly | Williams | 6 | 972 | -12 | 960 | Lost | Keke Rosberg (P5) |
-| Marc Surer | Arrows | 7 | 999 | +16 | 1015 | Won | Mauro Baldi (P11) |
-| Mauro Baldi | Arrows | 11 | 1001 | -16 | 985 | Lost | Marc Surer (P7) |
-| Andrea de Cesaris | Alfa Romeo | 9 | 1001 | +16 | 1017 | Won | Bruno Giacomelli (P10) |
-| Bruno Giacomelli | Alfa Romeo | 10 | 992 | -16 | 976 | Lost | Andrea de Cesaris (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto | Tyrrell | 1 | 1016 | <span style="color: green">+14</span> | 1030 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton (P8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Brian Henton | Tyrrell | 8 | 968 | <span style="color: red">-14</span> | 954 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Michele Alboreto (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson | McLaren | 2 | 992 | N/A | 992 | Won (opponent DNF) | Niki Lauda (PDNF) |
+| Niki Lauda | McLaren | DNF | 1033 | N/A | 1033 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> John Watson (P2) |
+| Keke Rosberg | Williams | 5 | 1055 | <span style="color: green">+12</span> | 1067 | Won | Derek Daly (P6) |
+| Derek Daly | Williams | 6 | 972 | <span style="color: red">-12</span> | 960 | Lost | Keke Rosberg (P5) |
+| Marc Surer | Arrows | 7 | 999 | <span style="color: green">+16</span> | 1015 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi (P11) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Mauro Baldi | Arrows | 11 | 1001 | <span style="color: red">-16</span> | 985 | Lost | Marc Surer (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris | Alfa Romeo | 9 | 1001 | <span style="color: green">+16</span> | 1017 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Bruno Giacomelli | Alfa Romeo | 10 | 992 | <span style="color: red">-16</span> | 976 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Andrea de Cesaris (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Rupert Keegan | March | 12 | 1000 | N/A | 1000 | Won (opponent DNF) | Raul Boesel (PDNF) |
+| Raul Boesel | March | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Rupert Keegan (P12) |
 
 ---
 

@@ -6,20 +6,20 @@
 
 | Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
 |------|--------------|--------|-------------|----------------|----------|-----|
-| 1 | 1000 | Sam Hanks | Epperly | 1016 | 1016 | 1016 |
-| 2 | 1016 | Jack Fairman | BRM | 999 | 1016 | 1016 |
-| 3 | 1000 | Stirling Moss | Vanwall | 984 | 1016 | 1016 |
-| 4 | 1000 | Edgar Barth | Porsche | 1016 | 1016 | 1016 |
-| 5 | 1000 | Stuart Lewis-Evans | Connaught | 1016 | 1000 | 1000 |
-| 6 | 1000 | Ivor Bueb | Connaught | 984 | 1000 | 1000 |
-| 7 | 1000 | Roy Salvadori | Vanwall | 1032 | 1000 | 1000 |
-| 8 | 1000 | Herbert MacKay-Fraser | BRM | 983 | 1000 | 1000 |
-| 9 | 1000 | Les Leston | BRM | 1017 | 1000 | 1000 |
+| 1 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Sam Hanks | Epperly | 1016 | 1016 | 1016 |
+| 2 | 1016 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jack Fairman | BRM | 999 | 1016 | 1016 |
+| 3 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stirling Moss | Vanwall | 984 | 1016 | 1016 |
+| 4 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Edgar Barth | Porsche | 1016 | 1016 | 1016 |
+| 5 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans | Connaught | 1016 | 1000 | 1000 |
+| 6 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Ivor Bueb | Connaught | 984 | 1000 | 1000 |
+| 7 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Roy Salvadori | Vanwall | 1032 | 1000 | 1000 |
+| 8 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Herbert MacKay-Fraser | BRM | 983 | 1000 | 1000 |
+| 9 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Les Leston | BRM | 1017 | 1000 | 1000 |
 | 10 | 1000 | Jack Brabham | Cooper | 985 | 1000 | 1000 |
-| 11 | 1000 | Jim Rathmann | Epperly | 984 | 984 | 984 |
-| 12 | 984 | Ron Flockhart | BRM | 1001 | 984 | 984 |
-| 13 | 1000 | Tony Brooks | Vanwall | 999 | 984 | 984 |
-| 14 | 1000 | Carel Godin de Beaufort | Porsche | 984 | 984 | 984 |
+| 11 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jim Rathmann | Epperly | 984 | 984 | 984 |
+| 12 | 984 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Ron Flockhart | BRM | 1001 | 984 | 984 |
+| 13 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | Vanwall | 999 | 984 | 984 |
+| 14 | 1000 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Carel Godin de Beaufort | Porsche | 984 | 984 | 984 |
 
 
 *Showing top 50 drivers by global ELO rating*
@@ -33,8 +33,15 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Stuart Lewis-Evans | Connaught | 13 | 1000 | +16 | 1016 | Won | Ivor Bueb (P16) |
-| Ivor Bueb | Connaught | 16 | 1000 | -16 | 984 | Lost | Stuart Lewis-Evans (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans | Connaught | 13 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Ivor Bueb (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Ivor Bueb | Connaught | 16 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans (P13) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans | Connaught | 4 | 1000 | N/A | 1000 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Ivor Bueb (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Ivor Bueb | Connaught | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans (P4) |
 
 ---
 
@@ -45,15 +52,15 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Sam Hanks | Epperly | 13 | 1000 | +16 | 1016 | Won | Jim Rathmann (P32) |
-| Jim Rathmann | Epperly | 32 | 1000 | -16 | 984 | Lost | Sam Hanks (P13) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Sam Hanks | Epperly | 13 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jim Rathmann (P32) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jim Rathmann | Epperly | 32 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Sam Hanks (P13) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Sam Hanks | Epperly | 1 | 1000 | +16 | 1016 | Won | Jim Rathmann (P2) |
-| Jim Rathmann | Epperly | 2 | 1000 | -16 | 984 | Lost | Sam Hanks (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Sam Hanks | Epperly | 1 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jim Rathmann (P2) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jim Rathmann | Epperly | 2 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Sam Hanks (P1) |
 
 ---
 
@@ -64,10 +71,19 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Stuart Lewis-Evans | Connaught | 10 | 1016 | -17 | 999 | Lost | Roy Salvadori (P6) |
-| Roy Salvadori | Vanwall | 6 | 1000 | +17 | 1017 | Won | Stuart Lewis-Evans (P10) |
-| Herbert MacKay-Fraser | BRM | 12 | 1000 | -17 | 983 | Lost | Ron Flockhart (P11) |
-| Ron Flockhart | BRM | 11 | 984 | +17 | 1001 | Won | Herbert MacKay-Fraser (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans | Connaught | 10 | 1016 | <span style="color: red">-17</span> | 999 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Roy Salvadori (P6) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Roy Salvadori | Vanwall | 6 | 1000 | <span style="color: green">+17</span> | 1017 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans (P10) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Herbert MacKay-Fraser | BRM | 12 | 1000 | <span style="color: red">-17</span> | 983 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Ron Flockhart (P11) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Ron Flockhart | BRM | 11 | 984 | <span style="color: green">+17</span> | 1001 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Herbert MacKay-Fraser (P12) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans | Connaught | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Roy Salvadori (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Roy Salvadori | Vanwall | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Herbert MacKay-Fraser | BRM | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Ron Flockhart (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Ron Flockhart | BRM | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Herbert MacKay-Fraser (PDNF) |
 
 ---
 
@@ -78,8 +94,15 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Jack Fairman | BRM | 16 | 1016 | -17 | 999 | Lost | Les Leston (P12) |
-| Les Leston | BRM | 12 | 1000 | +17 | 1017 | Won | Jack Fairman (P16) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jack Fairman | BRM | 16 | 1016 | <span style="color: red">-17</span> | 999 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Les Leston (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Les Leston | BRM | 12 | 1000 | <span style="color: green">+17</span> | 1017 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jack Fairman (P16) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jack Fairman | BRM | DNF | 1016 | N/A | 1016 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Les Leston (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Les Leston | BRM | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Jack Fairman (PDNF) |
 
 ---
 
@@ -90,19 +113,19 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Stirling Moss | Vanwall | 7 | 1000 | -16 | 984 | Lost | Tony Brooks (P5) |
-| Tony Brooks | Vanwall | 5 | 1000 | +16 | 1016 | Won | Stirling Moss (P7) |
-| Edgar Barth | Porsche | 12 | 1000 | +16 | 1016 | Won | Carel Godin de Beaufort (P20) |
-| Carel Godin de Beaufort | Porsche | 20 | 1000 | -16 | 984 | Lost | Edgar Barth (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stirling Moss | Vanwall | 7 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | Vanwall | 5 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stirling Moss (P7) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Edgar Barth | Porsche | 12 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Carel Godin de Beaufort (P20) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Carel Godin de Beaufort | Porsche | 20 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Edgar Barth (P12) |
 
 #### Race ELO Changes
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Stirling Moss | Vanwall | 5 | 1000 | +16 | 1016 | Won | Tony Brooks (P9) |
-| Tony Brooks | Vanwall | 9 | 1000 | -16 | 984 | Lost | Stirling Moss (P5) |
-| Edgar Barth | Porsche | 12 | 1000 | +16 | 1016 | Won | Carel Godin de Beaufort (P14) |
-| Carel Godin de Beaufort | Porsche | 14 | 1000 | -16 | 984 | Lost | Edgar Barth (P12) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stirling Moss | Vanwall | 5 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P9) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | Vanwall | 9 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stirling Moss (P5) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Edgar Barth | Porsche | 12 | 1000 | <span style="color: green">+16</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Carel Godin de Beaufort (P14) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Carel Godin de Beaufort | Porsche | 14 | 1000 | <span style="color: red">-16</span> | 984 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Edgar Barth (P12) |
 
 ---
 
@@ -113,8 +136,15 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Jack Brabham | Cooper | 16 | 1000 | -15 | 985 | Lost | Roy Salvadori (P15) |
-| Roy Salvadori | Vanwall | 15 | 1017 | +15 | 1032 | Won | Jack Brabham (P16) |
+| Jack Brabham | Cooper | 16 | 1000 | <span style="color: red">-15</span> | 985 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Roy Salvadori (P15) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Roy Salvadori | Vanwall | 15 | 1017 | <span style="color: green">+15</span> | 1032 | Won | Jack Brabham (P16) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| Jack Brabham | Cooper | 7 | 1000 | N/A | 1000 | Won (opponent DNF) | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Roy Salvadori (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Roy Salvadori | Vanwall | DNF | 1000 | N/A | 1000 | DNF | Jack Brabham (P7) |
 
 ---
 
@@ -125,8 +155,15 @@
 
 | Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
 |--------|-------------|----------|--------------|--------|---------|--------|--------------|
-| Tony Brooks | Vanwall | 3 | 1016 | -17 | 999 | Lost | Stuart Lewis-Evans (P1) |
-| Stuart Lewis-Evans | Connaught | 1 | 999 | +17 | 1016 | Won | Tony Brooks (P3) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | Vanwall | 3 | 1016 | <span style="color: red">-17</span> | 999 | Lost | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans (P1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans | Connaught | 1 | 999 | <span style="color: green">+17</span> | 1016 | Won | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (P3) |
+
+#### Race ELO Changes
+
+| Driver | Constructor | Position | Starting ELO | Change | New ELO | Result | vs Teammate |
+|--------|-------------|----------|--------------|--------|---------|--------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks | Vanwall | DNF | 984 | N/A | 984 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans (PDNF) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Stuart Lewis-Evans | Connaught | DNF | 1000 | N/A | 1000 | DNF | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/> Tony Brooks (PDNF) |
 
 ---
 

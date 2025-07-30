@@ -1,64 +1,65 @@
 import fs from 'fs/promises';
 
 /**
- * Country flag SVG mapping for drivers using Wikipedia URLs
+ * Country flag SVG mapping for drivers using Wikipedia URLs with emoji fallbacks
  */
 const COUNTRY_FLAGS = {
-    'Argentina': { url: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg', alt: 'Argentina' },
-    'Australia': { url: 'https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg', alt: 'Australia' },
-    'Austria': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg', alt: 'Austria' },
-    'Belgium': { url: 'https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg', alt: 'Belgium' },
-    'Brazil': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg', alt: 'Brazil' },
-    'Britain': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg', alt: 'United Kingdom' },
-    'British': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg', alt: 'United Kingdom' },
-    'Canada': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg', alt: 'Canada' },
-    'Chile': { url: 'https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg', alt: 'Chile' },
-    'Colombia': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg', alt: 'Colombia' },
-    'Czech Republic': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg', alt: 'Czech Republic' },
-    'Czechoslovakia': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg', alt: 'Czech Republic' },
-    'Denmark': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg', alt: 'Denmark' },
-    'Finland': { url: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg', alt: 'Finland' },
-    'France': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg', alt: 'France' },
-    'French': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg', alt: 'France' },
-    'Germany': { url: 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg', alt: 'Germany' },
-    'German': { url: 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg', alt: 'Germany' },
-    'Hungary': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg', alt: 'Hungary' },
-    'India': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg', alt: 'India' },
-    'Ireland': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg', alt: 'Ireland' },
-    'Italy': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg', alt: 'Italy' },
-    'Italian': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg', alt: 'Italy' },
-    'Japan': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg', alt: 'Japan' },
-    'Japanese': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg', alt: 'Japan' },
-    'Malaysia': { url: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg', alt: 'Malaysia' },
-    'Mexico': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg', alt: 'Mexico' },
-    'Monaco': { url: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg', alt: 'Monaco' },
-    'Netherlands': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg', alt: 'Netherlands' },
-    'Dutch': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg', alt: 'Netherlands' },
-    'New Zealand': { url: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg', alt: 'New Zealand' },
-    'Poland': { url: 'https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg', alt: 'Poland' },
-    'Portugal': { url: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg', alt: 'Portugal' },
-    'Russia': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg', alt: 'Russia' },
-    'South Africa': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg', alt: 'South Africa' },
-    'Spain': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg', alt: 'Spain' },
-    'Spanish': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg', alt: 'Spain' },
-    'Sweden': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg', alt: 'Sweden' },
-    'Switzerland': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg', alt: 'Switzerland' },
-    'Thai': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg', alt: 'Thailand' },
-    'Thailand': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg', alt: 'Thailand' },
-    'UK': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg', alt: 'United Kingdom' },
-    'USA': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg', alt: 'United States' },
-    'American': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg', alt: 'United States' },
-    'Uruguay': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg', alt: 'Uruguay' },
-    'Venezuela': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg', alt: 'Venezuela' }
+    'Argentina': { url: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg', alt: 'Argentina', emoji: '🇦🇷' },
+    'Australia': { url: 'https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg', alt: 'Australia', emoji: '🇦🇺' },
+    'Austria': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg', alt: 'Austria', emoji: '🇦🇹' },
+    'Belgium': { url: 'https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg', alt: 'Belgium', emoji: '🇧🇪' },
+    'Brazil': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg', alt: 'Brazil', emoji: '🇧🇷' },
+    'Britain': { url: 'https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg', alt: 'United Kingdom', emoji: '🇬🇧' },
+    'British': { url: 'https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg', alt: 'United Kingdom', emoji: '🇬🇧' },
+    'Canada': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg', alt: 'Canada', emoji: '🇨🇦' },
+    'Chile': { url: 'https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg', alt: 'Chile', emoji: '🇨🇱' },
+    'Colombia': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg', alt: 'Colombia', emoji: '🇨🇴' },
+    'Czech Republic': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg', alt: 'Czech Republic', emoji: '🇨🇿' },
+    'Czechoslovakia': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg', alt: 'Czech Republic', emoji: '🇨🇿' },
+    'Denmark': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg', alt: 'Denmark', emoji: '🇩🇰' },
+    'Finland': { url: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg', alt: 'Finland', emoji: '🇫🇮' },
+    'France': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg', alt: 'France', emoji: '🇫🇷' },
+    'French': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg', alt: 'France', emoji: '🇫🇷' },
+    'Germany': { url: 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg', alt: 'Germany', emoji: '🇩🇪' },
+    'German': { url: 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg', alt: 'Germany', emoji: '🇩🇪' },
+    'Hungary': { url: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg', alt: 'Hungary', emoji: '🇭🇺' },
+    'India': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg', alt: 'India', emoji: '🇮🇳' },
+    'Ireland': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg', alt: 'Ireland', emoji: '🇮🇪' },
+    'Italy': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg', alt: 'Italy', emoji: '🇮🇹' },
+    'Italian': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg', alt: 'Italy', emoji: '🇮🇹' },
+    'Japan': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg', alt: 'Japan', emoji: '🇯🇵' },
+    'Japanese': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg', alt: 'Japan', emoji: '🇯🇵' },
+    'Malaysia': { url: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg', alt: 'Malaysia', emoji: '🇲🇾' },
+    'Mexico': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg', alt: 'Mexico', emoji: '🇲🇽' },
+    'Monaco': { url: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg', alt: 'Monaco', emoji: '🇲🇨' },
+    'Netherlands': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg', alt: 'Netherlands', emoji: '🇳🇱' },
+    'Dutch': { url: 'https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg', alt: 'Netherlands', emoji: '🇳🇱' },
+    'New Zealand': { url: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg', alt: 'New Zealand', emoji: '🇳🇿' },
+    'Poland': { url: 'https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg', alt: 'Poland', emoji: '🇵🇱' },
+    'Portugal': { url: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg', alt: 'Portugal', emoji: '🇵🇹' },
+    'Russia': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg', alt: 'Russia', emoji: '🇷🇺' },
+    'South Africa': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg', alt: 'South Africa', emoji: '🇿🇦' },
+    'Spain': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg', alt: 'Spain', emoji: '🇪🇸' },
+    'Spanish': { url: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg', alt: 'Spain', emoji: '🇪🇸' },
+    'Sweden': { url: 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg', alt: 'Sweden', emoji: '🇸🇪' },
+    'Switzerland': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg', alt: 'Switzerland', emoji: '🇨🇭' },
+    'Thai': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg', alt: 'Thailand', emoji: '🇹🇭' },
+    'Thailand': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg', alt: 'Thailand', emoji: '🇹🇭' },
+    'UK': { url: 'https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg', alt: 'United Kingdom', emoji: '🇬🇧' },
+    'USA': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg', alt: 'United States', emoji: '🇺🇸' },
+    'American': { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg', alt: 'United States', emoji: '🇺🇸' },
+    'Uruguay': { url: 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg', alt: 'Uruguay', emoji: '🇺🇾' },
+    'Venezuela': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg', alt: 'Venezuela', emoji: '🇻🇪' }
 };
 
 /**
- * Get country flag image for a driver
+ * Get country flag image for a driver with emoji fallback
  */
 function getCountryFlag(driver) {
     if (driver.nationality && COUNTRY_FLAGS[driver.nationality]) {
         const flag = COUNTRY_FLAGS[driver.nationality];
-        return `<img src="${flag.url}" alt="${flag.alt}" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;"/>`;
+        // Primary: SVG image with emoji fallback using onerror
+        return `<img src="${flag.url}" alt="${flag.alt}" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='${flag.emoji}'; this.style.marginRight='5px';"/>`;
     }
     return '';
 }
