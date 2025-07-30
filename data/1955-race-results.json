@@ -3371,7 +3371,7 @@
     }
   ],
   "finalELOs": {
-    "fangio": 1016,
+    "fangio": 1512,
     "iglesias": 1000,
     "bayol": 1000,
     "johnson": 1000,
@@ -3383,6 +3383,6 @@
     "sparken": 1000,
     "schell": 1000,
     "wharton": 1000,
-    "moss": 984
+    "moss": 488
   }
 }

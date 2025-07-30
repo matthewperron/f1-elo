@@ -4838,22 +4838,22 @@
     }
   ],
   "finalELOs": {
-    "jack_brabham": 1065,
-    "ickx": 1031,
-    "rodriguez": 1016,
-    "emerson_fittipaldi": 1016,
-    "rindt": 1015,
-    "hulme": 1007,
+    "ickx": 1560,
+    "jack_brabham": 1529,
+    "hulme": 1514,
+    "rodriguez": 1512,
+    "emerson_fittipaldi": 1512,
+    "beltoise": 1486,
+    "rindt": 1049,
     "giunti": 1000,
     "gethin": 1000,
     "eaton": 1000,
-    "stommelen": 986,
-    "oliver": 984,
-    "gurney": 984,
-    "wisell": 984,
-    "beltoise": 975,
-    "regazzoni": 970,
-    "hill": 968,
-    "pescarolo": 964
+    "regazzoni": 901,
+    "oliver": 488,
+    "wisell": 488,
+    "gurney": 481,
+    "stommelen": 435,
+    "hill": 430,
+    "pescarolo": 38
   }
 }

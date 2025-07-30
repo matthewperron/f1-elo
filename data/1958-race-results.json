@@ -3810,12 +3810,12 @@
     }
   ],
   "finalELOs": {
-    "hawthorn": 1031,
-    "behra": 1016,
-    "jack_brabham": 1016,
-    "fairman": 1016,
-    "moss": 1016,
-    "brooks": 1001,
+    "hawthorn": 1563,
+    "behra": 1512,
+    "jack_brabham": 1512,
+    "fairman": 1512,
+    "moss": 1512,
+    "brooks": 1461,
     "allison": 1000,
     "hill": 1000,
     "bonnier": 1000,
@@ -3828,11 +3828,11 @@
     "elisian": 1000,
     "salvadori": 1000,
     "bueb": 1000,
-    "trips": 985,
-    "schell": 984,
-    "trintignant": 984,
-    "gendebien": 984,
-    "flockhart": 984,
-    "lewis-evans": 983
+    "trips": 949,
+    "schell": 488,
+    "trintignant": 488,
+    "gendebien": 488,
+    "flockhart": 488,
+    "lewis-evans": 27
   }
 }

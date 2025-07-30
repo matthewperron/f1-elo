@@ -4225,12 +4225,12 @@
     }
   ],
   "finalELOs": {
-    "jack_brabham": 1051,
-    "clark": 1033,
-    "redman": 1016,
-    "amon": 1016,
-    "siffert": 1016,
-    "hulme": 1014,
+    "hulme": 2016,
+    "clark": 1942,
+    "redman": 1512,
+    "amon": 1512,
+    "siffert": 1512,
+    "stewart": 1032,
     "beltoise": 1000,
     "rodriguez": 1000,
     "bianchi": 1000,
@@ -4248,11 +4248,11 @@
     "pescarolo": 1000,
     "gurney": 1000,
     "bonnier": 1000,
-    "hill": 998,
-    "scarfiotti": 984,
-    "ickx": 984,
-    "stewart": 969,
-    "mclaren": 968,
-    "spence": 921
+    "mclaren": 994,
+    "jack_brabham": 964,
+    "scarfiotti": 488,
+    "ickx": 488,
+    "hill": 482,
+    "spence": -148
   }
 }

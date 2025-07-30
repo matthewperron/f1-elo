@@ -131,7 +131,7 @@ async function loadStartingELOs(season) {
  */
 async function calculateELO(raceData, season) {
     const drivers = new Map(); // Map of driverId -> { qualifyingElo, raceElo, globalElo, name, constructor, startingElo }
-    const K_FACTOR = 32; // ELO K-factor
+    const K_FACTOR = 1024; // ELO K-factor
     const INITIAL_ELO = 1000; // Starting ELO rating
     const raceEvents = []; // Store detailed race-by-race ELO changes
     

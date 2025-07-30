@@ -3708,7 +3708,7 @@
     }
   ],
   "finalELOs": {
-    "gurney": 1031,
+    "gurney": 1515,
     "ginther": 1000,
     "salvadori": 1000,
     "surtees": 1000,
@@ -3723,7 +3723,7 @@
     "beaufort": 1000,
     "phil_hill": 1000,
     "ricardo_rodriguez": 1000,
-    "hill": 984,
-    "bonnier": 969
+    "bonnier": 485,
+    "hill": 437
   }
 }

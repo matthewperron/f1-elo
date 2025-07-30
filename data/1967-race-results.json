@@ -3621,10 +3621,10 @@
     }
   ],
   "finalELOs": {
-    "jack_brabham": 1051,
-    "clark": 1017,
-    "siffert": 1016,
-    "hill": 1014,
+    "hulme": 2010,
+    "clark": 1942,
+    "siffert": 1512,
+    "stewart": 1032,
     "amon": 1000,
     "rodriguez": 1000,
     "gurney": 1000,
@@ -3635,9 +3635,9 @@
     "williams": 1000,
     "solana": 1000,
     "fisher": 1000,
-    "hulme": 982,
-    "stewart": 969,
-    "bandini": 946,
-    "spence": 921
+    "jack_brabham": 964,
+    "bandini": 882,
+    "hill": 482,
+    "spence": -148
   }
 }

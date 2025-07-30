@@ -3453,11 +3453,11 @@
     }
   ],
   "finalELOs": {
-    "jack_brabham": 1051,
-    "siffert": 1031,
-    "stewart": 1030,
-    "amon": 1016,
-    "ickx": 1001,
+    "mclaren": 2015,
+    "siffert": 1515,
+    "amon": 1512,
+    "stewart": 1508,
+    "ickx": 1461,
     "tingle": 1000,
     "klerk": 1000,
     "surtees": 1000,
@@ -3465,10 +3465,10 @@
     "rindt": 1000,
     "oliver": 1000,
     "eaton": 1000,
-    "mclaren": 991,
-    "hulme": 991,
-    "hill": 983,
-    "courage": 983,
-    "beltoise": 939
+    "hulme": 995,
+    "jack_brabham": 964,
+    "beltoise": 524,
+    "hill": 479,
+    "courage": 27
   }
 }

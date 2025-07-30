@@ -4221,9 +4221,9 @@
     }
   ],
   "finalELOs": {
-    "jack_brabham": 1033,
-    "surtees": 1016,
-    "siffert": 1016,
+    "jack_brabham": 1974,
+    "surtees": 1512,
+    "siffert": 1512,
     "mairesse": 1000,
     "trintignant": 1000,
     "amon": 1000,
@@ -4245,10 +4245,10 @@
     "rodriguez": 1000,
     "serrurier": 1000,
     "tingle": 1000,
-    "gurney": 998,
-    "hill": 984,
-    "hall": 984,
-    "scarfiotti": 984,
-    "bonnier": 969
+    "gurney": 541,
+    "hall": 488,
+    "scarfiotti": 488,
+    "bonnier": 485,
+    "hill": 437
   }
 }

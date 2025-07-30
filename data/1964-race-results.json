@@ -3632,13 +3632,13 @@
     }
   ],
   "finalELOs": {
-    "surtees": 1045,
-    "jack_brabham": 1033,
-    "clark": 1031,
-    "mclaren": 1016,
-    "siffert": 1016,
-    "ginther": 1015,
-    "gurney": 1014,
+    "jack_brabham": 1974,
+    "surtees": 1592,
+    "clark": 1563,
+    "mclaren": 1512,
+    "siffert": 1512,
+    "ginther": 1510,
+    "gurney": 1497,
     "trevor_taylor": 1000,
     "ireland": 1000,
     "trintignant": 1000,
@@ -3647,13 +3647,13 @@
     "taylor": 1000,
     "rindt": 1000,
     "sharp": 1000,
-    "hill": 985,
-    "spence": 985,
-    "arundell": 984,
-    "baghetti": 984,
-    "phil_hill": 984,
-    "anderson": 984,
-    "bandini": 971,
-    "bonnier": 969
+    "spence": 949,
+    "bandini": 920,
+    "arundell": 488,
+    "baghetti": 488,
+    "phil_hill": 488,
+    "bonnier": 485,
+    "hill": 439,
+    "anderson": 44
   }
 }
