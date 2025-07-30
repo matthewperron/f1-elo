@@ -43,17 +43,22 @@ async function fetchAllSeasonResults(season) {
     let offset = 0;
     const limit = 30;
     let total = null;
+    let requestCount = 0;
     
     console.log(`Starting to fetch all results for ${season} season...`);
     
     do {
+        requestCount++;
+        
         // Fetch current page
         const pageData = await fetchResultsPage(season, offset, limit);
         
         // Set total on first request
         if (total === null) {
             total = parseInt(pageData.total);
-            console.log(`Total results available: ${total}`);
+            const estimatedRequests = Math.ceil(total / limit);
+            console.log(`Total individual results available: ${total}`);
+            console.log(`Estimated API requests needed: ${estimatedRequests}`);
             
             // Check if no results available
             if (total === 0) {
@@ -64,8 +69,10 @@ async function fetchAllSeasonResults(season) {
         
         // Extract races from current page
         if (pageData.RaceTable && pageData.RaceTable.Races) {
+            const racesThisPage = pageData.RaceTable.Races.length;
             allRaces.push(...pageData.RaceTable.Races);
-            console.log(`Fetched ${pageData.RaceTable.Races.length} race results (${allRaces.length}/${total} total)`);
+            const resultsProcessed = Math.min(offset + limit, total);
+            console.log(`Request ${requestCount}: Fetched ${racesThisPage} race events (${resultsProcessed}/${total} individual results processed)`);
         }
         
         // Move to next page
@@ -79,7 +86,8 @@ async function fetchAllSeasonResults(season) {
         
     } while (offset < total);
     
-    console.log(`✓ Successfully fetched all ${allRaces.length} results for ${season} season`);
+    console.log(`✓ Successfully fetched all data for ${season} season`);
+    console.log(`✓ Raw race events collected: ${allRaces.length} (includes duplicates)`);
     return allRaces;
 }
 
@@ -87,8 +95,18 @@ async function fetchAllSeasonResults(season) {
  * Transform and aggregate race data
  */
 function transformRaceData(races, season) {
-    // Sort races by date to ensure chronological order
-    const sortedRaces = races.sort((a, b) => {
+    // Deduplicate races by round number (keep main race, filter out sprint races)
+    const uniqueRaces = races.reduce((acc, race) => {
+        const key = race.round;
+        if (!acc[key] || race.Results.length > (acc[key].Results?.length || 0)) {
+            // Keep the race with more results (main race typically has more than sprint)
+            acc[key] = race;
+        }
+        return acc;
+    }, {});
+    
+    // Convert back to array and sort by date to ensure chronological order
+    const sortedRaces = Object.values(uniqueRaces).sort((a, b) => {
         const dateA = new Date(a.date + (a.time ? ` ${a.time}` : ''));
         const dateB = new Date(b.date + (b.time ? ` ${b.time}` : ''));
         return dateA - dateB;
@@ -199,7 +217,12 @@ async function main() {
 export { fetchAllSeasonResults, transformRaceData, saveToFile };
 
 // Run the script if called directly
-if (import.meta.url === `file://${process.argv[1].replace(/\\/g, '/')}`) {
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const isMainModule = process.argv[1] === __filename;
+
+if (isMainModule) {
     main().catch(error => {
         console.error('Unhandled error:', error);
         process.exit(1);

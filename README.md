@@ -32,35 +32,32 @@ The standard chess ELO rating system is used:
 The following table shows current ELO ratings for all F1 drivers (updated automatically):
 
 <!-- ELO_RESULTS_START -->
-### ELO Ratings (2024 Season)
+### ELO Ratings (2025 Season)
 *Last updated: 2025-07-30*
 
 | Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
 |------|--------------|--------|-------------|----------------|----------|-----|
-| 1 | 1000 | Max Verstappen | Red Bull | 1103 | 1124 | 1102 |
-| 2 | 1000 | Lando Norris | McLaren | 1131 | 1070 | 1070 |
-| 3 | 1000 | Alexander Albon | Williams | 1141 | 1070 | 1070 |
-| 4 | 1000 | George Russell | Mercedes | 1076 | 1017 | 1049 |
-| 5 | 1000 | Yuki Tsunoda | RB F1 Team | 1122 | 1042 | 1042 |
-| 6 | 1000 | Charles Leclerc | Ferrari | 1026 | 1031 | 1031 |
-| 7 | 1000 | Fernando Alonso | Aston Martin | 1108 | 1025 | 1025 |
-| 8 | 1000 | Nico Hülkenberg | Haas F1 Team | 1049 | 1043 | 1024 |
-| 9 | 1000 | Guanyu Zhou | Sauber | 895 | 1015 | 1015 |
-| 10 | 1000 | Daniel Ricciardo | RB F1 Team | 943 | 1001 | 1001 |
-| 11 | 1000 | Oliver Bearman | Ferrari | 1024 | 1002 | 1001 |
-| 12 | 1000 | Esteban Ocon | Alpine F1 Team | 987 | 1000 | 1000 |
-| 13 | 1000 | Pierre Gasly | Alpine F1 Team | 1029 | 1000 | 1000 |
-| 14 | 1000 | Jack Doohan | Alpine F1 Team | 985 | 1000 | 1000 |
-| 15 | 1000 | Carlos Sainz | Ferrari | 990 | 985 | 985 |
-| 16 | 1000 | Valtteri Bottas | Sauber | 1105 | 985 | 985 |
-| 17 | 1000 | Lance Stroll | Aston Martin | 892 | 975 | 975 |
-| 18 | 1000 | Franco Colapinto | Williams | 935 | 973 | 973 |
-| 19 | 1000 | Kevin Magnussen | Haas F1 Team | 912 | 939 | 959 |
-| 20 | 1000 | Logan Sargeant | Williams | 924 | 956 | 956 |
-| 21 | 1000 | Liam Lawson | RB F1 Team | 935 | 956 | 956 |
-| 22 | 1000 | Lewis Hamilton | Mercedes | 924 | 983 | 951 |
-| 23 | 1000 | Oscar Piastri | McLaren | 869 | 930 | 930 |
-| 24 | 1000 | Sergio Pérez | Red Bull | 897 | 876 | 898 |
+| 1 | 1228 | Max Verstappen | Red Bull | 1291 | 1271 | 1271 |
+| 2 | 1130 | George Russell | Mercedes | 1188 | 1188 | 1188 |
+| 3 | 1157 | Alexander Albon | Williams | 1137 | 1186 | 1186 |
+| 4 | 1077 | Charles Leclerc | Ferrari | 1106 | 1141 | 1117 |
+| 5 | 1129 | Lando Norris | McLaren | 1050 | 1099 | 1077 |
+| 6 | 1000 | Isack Hadjar | RB F1 Team | 1103 | 1054 | 1054 |
+| 7 | 1051 | Fernando Alonso | Aston Martin | 1086 | 1021 | 1051 |
+| 8 | 973 | Pierre Gasly | Alpine F1 Team | 1075 | 1047 | 1047 |
+| 9 | 973 | Oscar Piastri | McLaren | 1052 | 1003 | 1025 |
+| 10 | 996 | Nico Hülkenberg | Sauber | 968 | 1020 | 1020 |
+| 11 | 1003 | Oliver Bearman | Haas F1 Team | 985 | 1014 | 1014 |
+| 12 | 1047 | Lewis Hamilton | Ferrari | 1018 | 983 | 1007 |
+| 13 | 1050 | Yuki Tsunoda | RB F1 Team | 987 | 1007 | 1007 |
+| 14 | 1002 | Esteban Ocon | Haas F1 Team | 1020 | 991 | 991 |
+| 15 | 1005 | Carlos Sainz | Williams | 1025 | 976 | 976 |
+| 16 | 1000 | Gabriel Bortoleto | Sauber | 1028 | 976 | 976 |
+| 17 | 1000 | Jack Doohan | Alpine F1 Team | 949 | 967 | 967 |
+| 18 | 1000 | Andrea Kimi Antonelli | Mercedes | 942 | 942 | 942 |
+| 19 | 981 | Franco Colapinto | Alpine F1 Team | 929 | 940 | 940 |
+| 20 | 989 | Liam Lawson | Red Bull | 886 | 935 | 935 |
+| 21 | 886 | Lance Stroll | Aston Martin | 851 | 916 | 886 |
 
 
 *Showing top 50 drivers by global ELO rating*
@@ -79,20 +76,25 @@ npm install
 Run the main script to fetch F1 data and calculate ELO ratings:
 
 ```bash
-# Calculate ELO for 2025 season (default)
+# Calculate ELO for 2025 season (default) - fetch data + calculate
 npm start
 # or
 npm run calculate
 
-# Calculate for specific seasons
-npm run calculate:2024
-npm run calculate:2023
+# Calculate for specific seasons - fetch data + calculate
+npm run calculate -- 2024
+npm run calculate -- 2023
+npm run calculate -- 2022
 
-# Or specify season directly
-node main.js 2022
+# Calculate ELO only (from existing data files)
+npm run elo-only          # 2025 (default)
+npm run elo-only -- 2024  # any specific year
+npm run elo-only -- 2023
+npm run elo-only -- 1990
 
 # Just fetch data without calculating (for debugging)
-npm run fetch-only
+npm run fetch-only        # 2025 (default)
+npm run fetch-only -- 2024
 ```
 
 This script will:

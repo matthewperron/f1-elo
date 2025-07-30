@@ -56,8 +56,10 @@ f1-elo/
 
 ### Commands
 - `npm start` - Calculate ELO for 2025 season data (default) and update README
-- `npm run calculate:2024` - Fetch 2024 season data and recalculate ratings
-- `node main.js YYYY` - Fetch specific season data and recalculate ratings
+- `npm run calculate -- YYYY` - Fetch specific season data and recalculate ratings
+- `npm run elo-only` - Calculate ELO from existing data files (no fetching)
+- `npm run elo-only -- YYYY` - Calculate ELO for specific year from existing data
+- `npm run fetch-only -- YYYY` - Fetch specific season data only
 
 ## Implementation Notes
 

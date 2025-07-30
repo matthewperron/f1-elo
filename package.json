@@ -6,9 +6,8 @@
   "scripts": {
     "start": "node main.js",
     "calculate": "node main.js",
-    "calculate:2024": "node main.js 2024",
-    "calculate:2023": "node main.js 2023",
-    "fetch-only": "node fetch-results.js"
+    "fetch-only": "node fetch-results.js",
+    "elo-only": "node calculate-elo.js"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
