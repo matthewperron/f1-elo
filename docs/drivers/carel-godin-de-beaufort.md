@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 49 (147 individual ELO calculations)
+**Total Race Events**: 49 (147 individual Elo calculations)
 
 **DNF Statistics**: 8 DNFs out of 49 races (16.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1363
 
-🏆 **Peak ELO**: 1484
+🏆 **Peak Elo**: 1484
    *[1957 Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
 
-📉 **Lowest ELO**: 1363
+📉 **Lowest Elo**: 1363
    *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1406
 
-🏆 **Peak ELO**: 1484
+🏆 **Peak Elo**: 1484
    *[1957 Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
 
-📉 **Lowest ELO**: 1404
+📉 **Lowest Elo**: 1404
    *[1962 Round 6 - German Grand Prix](../seasons/1962-season-report#round-6-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1393
 
-🏆 **Peak ELO**: 1484
+🏆 **Peak Elo**: 1484
    *[1957 Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
 
-📉 **Lowest ELO**: 1393
+📉 **Lowest Elo**: 1393
    *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
 

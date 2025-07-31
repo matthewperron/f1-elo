@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 6 (18 individual ELO calculations)
+**Total Race Events**: 6 (18 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 6 races (50.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1429
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[1992 Round 12 - Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1396
+📉 **Lowest Elo**: 1396
    *[1992 Round 15 - Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1464
 
-🏆 **Peak ELO**: 1464
+🏆 **Peak Elo**: 1464
    *[1992 Round 12 - Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1464
+📉 **Lowest Elo**: 1464
    *[1992 Round 12 - Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1453
 
-🏆 **Peak ELO**: 1465
+🏆 **Peak Elo**: 1465
    *[1992 Round 12 - Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1443
+📉 **Lowest Elo**: 1443
    *[1992 Round 15 - Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
 
 

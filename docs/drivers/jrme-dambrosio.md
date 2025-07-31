@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 20 (60 individual ELO calculations)
+**Total Race Events**: 20 (60 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 20 races (10.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1484
 
-🏆 **Peak ELO**: 1507
+🏆 **Peak Elo**: 1507
    *[2011 Round 3 - Chinese Grand Prix](../seasons/2011-season-report#round-3-chinese-grand-prix)*
 
-📉 **Lowest ELO**: 1367
+📉 **Lowest Elo**: 1367
    *[2011 Round 14 - Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1528
 
-🏆 **Peak ELO**: 1551
+🏆 **Peak Elo**: 1551
    *[2011 Round 14 - Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)*
 
-📉 **Lowest ELO**: 1459
+📉 **Lowest Elo**: 1459
    *[2011 Round 11 - Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1514
 
-🏆 **Peak ELO**: 1529
+🏆 **Peak Elo**: 1529
    *[2011 Round 19 - Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1439
+📉 **Lowest Elo**: 1439
    *[2011 Round 11 - Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
 
 

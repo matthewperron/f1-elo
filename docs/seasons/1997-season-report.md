@@ -4,8 +4,8 @@
 
 ## Final ELO Ratings
 
-| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
-|------|--------------|--------|-------------|----------------|----------|-----|
+| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
+|------|--------------|--------|-------------|----------------|----------|-----------|
 | 1 | 1893 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 2083 | 1802 | <span style="color: red">1887 ▼ 6</span> |
 | 2 | 1573 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1772 | 1745 | <span style="color: green">1755 ▲ 182</span> |
 | 3 | 1674 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](../drivers/gerhard-berger) | Benetton | 1821 | 1689 | <span style="color: green">1730 ▲ 56</span> |
@@ -40,7 +40,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | 1463 | <span style="color: green">+59</span> | 1522 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 2 | 1874 | <span style="color: red">-59</span> | 1815 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (P1) |
@@ -67,7 +67,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](../drivers/david-coulthard) | McLaren | 1 | Finished | 1564 | <span style="color: green">+45</span> | 1609 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](../drivers/mika-hkkinen) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 2 | Finished | 1806 | <span style="color: green">+9</span> | 1815 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P20) |
@@ -99,7 +99,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | 1522 | <span style="color: green">+54</span> | 1576 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P8) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 2 | 2097 | <span style="color: green">+3</span> | 2100 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P14) |
@@ -126,7 +126,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | Finished | 1619 | <span style="color: green">+45</span> | 1664 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P9) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](../drivers/gerhard-berger) | Benetton | 2 | Finished | 1630 | <span style="color: green">+37</span> | 1667 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](../drivers/jean-alesi) (P6) |
@@ -158,7 +158,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | 1576 | <span style="color: green">+48</span> | 1623 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 2 | 1761 | <span style="color: red">-48</span> | 1714 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (P1) |
@@ -185,7 +185,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | Finished | 1664 | N/A | 1664 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) | Ferrari | 2 | Finished | 1478 | <span style="color: green">+56</span> | 1535 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) (P21) |
@@ -217,7 +217,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | 1623 | <span style="color: green">+40</span> | 1663 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 2 | 1714 | <span style="color: red">-40</span> | 1674 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (P1) |
@@ -244,7 +244,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 1 | Finished | 1722 | N/A | 1722 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 2 | Finished | 1767 | <span style="color: green">+13</span> | 1781 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P3) |
@@ -276,7 +276,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 1 | 1674 | <span style="color: green">+31</span> | 1705 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 2 | 2107 | <span style="color: green">+3</span> | 2110 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P15) |
@@ -303,7 +303,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 1 | Finished | 1781 | <span style="color: green">+12</span> | 1792 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](../drivers/rubens-barrichello) | Stewart | 2 | Finished | 1484 | <span style="color: green">+31</span> | 1515 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Jan Magnussen](../drivers/jan-magnussen) (P7) |
@@ -335,7 +335,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | 1632 | <span style="color: green">+39</span> | 1671 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 2 | 1705 | <span style="color: red">-39</span> | 1666 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (P1) |
@@ -362,7 +362,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | Finished | 1637 | <span style="color: green">+42</span> | 1679 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P8) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](../drivers/olivier-panis) | Prost | 2 | Finished | 1683 | N/A | 1683 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano](../drivers/shinji-nakano) (PDNF) |
@@ -394,7 +394,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 1 | 2113 | <span style="color: green">+3</span> | 2116 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P12) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 2 | 1671 | <span style="color: green">+32</span> | 1702 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P4) |
@@ -421,7 +421,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 1 | Finished | 1803 | <span style="color: green">+9</span> | 1812 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P21) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](../drivers/jean-alesi) | Benetton | 2 | Finished | 1666 | N/A | 1666 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](../drivers/alexander-wurz) (PDNF) |
@@ -453,7 +453,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 1 | 2116 | <span style="color: green">+3</span> | 2119 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P5) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 2 | 1635 | <span style="color: green">+38</span> | 1673 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (P4) |
@@ -480,7 +480,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 1 | Finished | 1812 | <span style="color: green">+9</span> | 1821 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 2 | Finished | 1736 | <span style="color: green">+24</span> | 1761 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (P4) |
@@ -512,7 +512,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | 1664 | <span style="color: green">+33</span> | 1697 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 2 | 1673 | <span style="color: red">-33</span> | 1640 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (P1) |
@@ -539,7 +539,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | Finished | 1625 | <span style="color: green">+44</span> | 1669 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P21) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](../drivers/jean-alesi) | Benetton | 2 | Finished | 1684 | <span style="color: green">+15</span> | 1699 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](../drivers/alexander-wurz) (P3) |
@@ -571,7 +571,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](../drivers/gerhard-berger) | Benetton | 1 | 1756 | <span style="color: green">+35</span> | 1790 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](../drivers/jean-alesi) (P6) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](../drivers/giancarlo-fisichella) | Jordan | 2 | 1524 | <span style="color: green">+35</span> | 1559 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ralf Schumacher](../drivers/ralf-schumacher) (P7) |
@@ -598,7 +598,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](../drivers/gerhard-berger) | Benetton | 1 | Finished | 1654 | <span style="color: green">+36</span> | 1690 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](../drivers/jean-alesi) (P6) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 2 | Finished | 1821 | <span style="color: green">+8</span> | 1829 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P21) |
@@ -630,7 +630,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 1 | 2124 | <span style="color: green">+3</span> | 2127 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P5) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 2 | 1660 | <span style="color: green">+34</span> | 1693 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P6) |
@@ -657,7 +657,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | Finished | 1706 | N/A | 1706 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](../drivers/damon-hill) | Arrows | 2 | Finished | 1562 | N/A | 1562 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz](../drivers/pedro-diniz) (PDNF) |
@@ -689,7 +689,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | 1693 | <span style="color: green">+27</span> | 1721 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P7) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](../drivers/jean-alesi) | Benetton | 2 | 1723 | <span style="color: green">+41</span> | 1764 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](../drivers/gerhard-berger) (P15) |
@@ -716,7 +716,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 1 | Finished | 1836 | <span style="color: green">+7</span> | 1843 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P10) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](../drivers/giancarlo-fisichella) | Jordan | 2 | Finished | 1427 | <span style="color: green">+46</span> | 1472 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ralf Schumacher](../drivers/ralf-schumacher) (P18) |
@@ -748,7 +748,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](../drivers/jean-alesi) | Benetton | 1 | 1764 | <span style="color: green">+33</span> | 1797 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](../drivers/gerhard-berger) (P7) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 2 | 1616 | <span style="color: green">+41</span> | 1657 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (P4) |
@@ -775,7 +775,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](../drivers/david-coulthard) | McLaren | 1 | Finished | 1645 | <span style="color: green">+31</span> | 1676 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](../drivers/mika-hkkinen) (P9) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](../drivers/jean-alesi) | Benetton | 2 | Finished | 1609 | <span style="color: green">+44</span> | 1653 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](../drivers/gerhard-berger) (P7) |
@@ -807,7 +807,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | 1680 | <span style="color: green">+30</span> | 1709 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P4) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](../drivers/mika-hkkinen) | McLaren | 2 | 1762 | <span style="color: green">+17</span> | 1779 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](../drivers/david-coulthard) (P10) |
@@ -834,7 +834,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | Finished | 1643 | <span style="color: green">+41</span> | 1684 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](../drivers/david-coulthard) | McLaren | 2 | Finished | 1676 | N/A | 1676 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](../drivers/mika-hkkinen) (PDNF) |
@@ -866,7 +866,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](../drivers/mika-hkkinen) | McLaren | 1 | 1779 | <span style="color: green">+15</span> | 1793 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](../drivers/david-coulthard) (P6) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 2 | 1709 | <span style="color: green">+25</span> | 1734 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P3) |
@@ -893,7 +893,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | Finished | 1684 | <span style="color: green">+34</span> | 1718 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](../drivers/jean-alesi) | Benetton | 2 | Finished | 1625 | <span style="color: green">+41</span> | 1667 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](../drivers/gerhard-berger) (P4) |
@@ -925,7 +925,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | 1734 | <span style="color: green">+20</span> | 1755 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P6) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 2 | 2074 | <span style="color: green">+4</span> | 2079 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P3) |
@@ -952,7 +952,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 1 | Finished | 1855 | <span style="color: green">+6</span> | 1861 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) | Williams | 2 | Finished | 1668 | N/A | 1668 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) (PDNF) |
@@ -984,7 +984,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](../drivers/jacques-villeneuve) | Williams | 1 | 1755 | <span style="color: green">+17</span> | 1772 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](../drivers/heinz-harald-frentzen) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](../drivers/michael-schumacher) | Ferrari | 2 | 2079 | <span style="color: green">+4</span> | 2083 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eddie Irvine](../drivers/eddie-irvine) (P7) |
@@ -1011,7 +1011,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](../drivers/mika-hkkinen) | McLaren | 1 | Finished | 1605 | <span style="color: green">+38</span> | 1643 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](../drivers/david-coulthard) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](../drivers/david-coulthard) | McLaren | 2 | Finished | 1676 | <span style="color: red">-38</span> | 1638 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](../drivers/mika-hkkinen) (P1) |

@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1466
 
-🏆 **Peak ELO**: 1480
+🏆 **Peak Elo**: 1480
    *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1466
+📉 **Lowest Elo**: 1466
    *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
-🏆 **Peak ELO**: 1494
+🏆 **Peak Elo**: 1494
    *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1490
+📉 **Lowest Elo**: 1490
    *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
 

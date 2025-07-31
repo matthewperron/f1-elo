@@ -75,7 +75,7 @@ async function generatePeakELOFile() {
         
         let tableContent = `## ${title}\n\n`;
         tableContent += `${description}\n\n`;
-        tableContent += `| Rank | Driver | Peak ELO | Constructor | Date | Season | Race | Teammate | Teammate ELO |\n`;
+        tableContent += `| Rank | Driver | Peak Elo | Constructor | Date | Season | Race | Teammate | Teammate Elo |\n`;
         tableContent += `|------|--------|----------|-------------|------|--------|------|----------|--------------|\n`;
         
         peakDrivers.forEach((driver, index) => {
@@ -96,32 +96,32 @@ async function generatePeakELOFile() {
     }
     
     // Create content with explanation and navigation
-    let content = `# F1 Driver Peak ELO Ratings\n\n`;
-    content += `This file contains the highest ELO ratings ever achieved by each Formula 1 driver across three categories:\n\n`;
+    let content = `# F1 Driver Peak Elo Ratings\n\n`;
+    content += `This file contains the highest Elo ratings ever achieved by each Formula 1 driver across three categories:\n\n`;
     
     // Navigation links
     content += `## Quick Navigation\n\n`;
-    content += `- [Overall ELO Rankings](#overall-elo-rankings) - Combined performance (30% qualifying + 70% race)\n`;
-    content += `- [Qualifying ELO Rankings](#qualifying-elo-rankings) - Grid position performance vs teammates\n`;
-    content += `- [Race ELO Rankings](#race-elo-rankings) - Finishing position performance vs teammates\n\n`;
+    content += `- [Peak Overall Elo Rankings](#peak-overall-elo-rankings) - Combined performance (30% qualifying + 70% race)\n`;
+    content += `- [Peak Qualifying Elo Rankings](#peak-qualifying-elo-rankings) - Grid position performance vs teammates\n`;
+    content += `- [Peak Race Elo Rankings](#peak-race-elo-rankings) - Finishing position performance vs teammates\n\n`;
     
     // Generate all three tables with descriptions
     const globalTable = createPeakTable(
         globalPeakELOs, 
         'global', 
-        'Overall ELO Rankings',
-        'Combines qualifying (30%) and race (70%) ELO changes with weighted calculation.'
+        'Peak Overall Elo Rankings',
+        'This list ranks drivers by **PEAK** Global Elo ratings. It combines qualifying (30%) and race (70%) ELO changes with weighted calculation.'
     );
     const qualifyingTable = createPeakTable(
         qualifyingPeakELOs, 
         'qualifying', 
-        'Qualifying ELO Rankings',
+        'Peak Qualifying Elo Rankings',
         'Based solely on qualifying performance (grid positions) compared to teammates.'
     );
     const raceTable = createPeakTable(
         racePeakELOs, 
         'race', 
-        'Race ELO Rankings',
+        'Peak Race Elo Rankings',
         'Based solely on race finishing positions compared to teammates.'
     );
     
@@ -132,17 +132,17 @@ async function generatePeakELOFile() {
     
     // Statistics
     content += `## Statistics\n\n`;
-    content += `### Global ELO\n`;
+    content += `### Global Elo\n`;
     content += `- **Total drivers tracked**: ${globalTable.drivers.length}\n`;
     content += `- **Highest peak**: ${globalTable.drivers[0]?.peak || 'N/A'} (${globalTable.drivers[0]?.name || 'N/A'})\n`;
     content += `- **Average peak**: ${Math.round(globalTable.drivers.reduce((sum, d) => sum + d.peak, 0) / globalTable.drivers.length) || 'N/A'}\n\n`;
     
-    content += `### Qualifying ELO\n`;
+    content += `### Qualifying Elo\n`;
     content += `- **Total drivers tracked**: ${qualifyingTable.drivers.length}\n`;
     content += `- **Highest peak**: ${qualifyingTable.drivers[0]?.peak || 'N/A'} (${qualifyingTable.drivers[0]?.name || 'N/A'})\n`;
     content += `- **Average peak**: ${Math.round(qualifyingTable.drivers.reduce((sum, d) => sum + d.peak, 0) / qualifyingTable.drivers.length) || 'N/A'}\n\n`;
     
-    content += `### Race ELO\n`;
+    content += `### Race Elo\n`;
     content += `- **Total drivers tracked**: ${raceTable.drivers.length}\n`;
     content += `- **Highest peak**: ${raceTable.drivers[0]?.peak || 'N/A'} (${raceTable.drivers[0]?.name || 'N/A'})\n`;
     content += `- **Average peak**: ${Math.round(raceTable.drivers.reduce((sum, d) => sum + d.peak, 0) / raceTable.drivers.length) || 'N/A'}\n\n`;
@@ -174,7 +174,7 @@ async function updateIndexWithTop30(peakDriversData) {
             const top30 = drivers.slice(0, 30);
             let tableContent = `## ${title}\n\n`;
             tableContent += `${description}\n\n`;
-            tableContent += `| Rank | Driver | Peak ELO | Constructor | Season | Race | Teammate | Teammate ELO |\n`;
+            tableContent += `| Rank | Driver | Peak Elo | Constructor | Season | Race | Teammate | Teammate Elo |\n`;
             tableContent += `|------|--------|----------|-------------|--------|------|----------|--------------||\n`;
             
             top30.forEach((driver, index) => {
@@ -194,22 +194,22 @@ async function updateIndexWithTop30(peakDriversData) {
         allTablesContent += createTop30Table(
             peakDriversData.race, 
             '[Top 30 F1 Drivers of All Time](peak-elo) - Race Performance',
-            'Based on peak **Race ELO** ratings (race finishing positions vs teammates).'
+            'Based on peak **Race Elo** ratings (race finishing positions vs teammates).'
         );
         allTablesContent += createTop30Table(
             peakDriversData.qualifying, 
             '[Top 30 F1 Drivers of All Time](peak-elo) - Qualifying Performance', 
-            'Based on peak **Qualifying ELO** ratings (qualifying positions vs teammates).'
+            'Based on peak **Qualifying Elo** ratings (qualifying positions vs teammates).'
         );
         allTablesContent += createTop30Table(
             peakDriversData.global, 
             '[Top 30 F1 Drivers of All Time](peak-elo) - Overall Performance',
-            'Based on peak **Global ELO** ratings (30% qualifying + 70% race performance vs teammates).'
+            'Based on peak **Global Elo** ratings (30% qualifying + 70% race performance vs teammates).'
         );
         
         const now = new Date();
         const timestamp = `${now.toISOString().split('T')[0]}`;
-        allTablesContent += `\n*Based on peak ELO ratings achieved during their F1 careers. Last updated: ${timestamp}*\n`;
+        allTablesContent += `\n*Based on peak Elo ratings achieved during their F1 careers. Last updated: ${timestamp}*\n`;
         
         // Replace content between TOP30_TABLES markers
         const updatedContent = indexContent.replace(
@@ -249,7 +249,7 @@ async function generateComprehensiveDriverFiles() {
             const raceDataContent = await fs.readFile(dataFile, 'utf8');
             const raceData = JSON.parse(raceDataContent);
             
-            // Calculate ELO for this season to get driver results
+            // Calculate Elo for this season to get driver results
             const { driverRatings, raceEvents, driverResults } = await calculateELO(raceData, season);
             
             // Merge driver results into comprehensive map
@@ -297,7 +297,7 @@ async function generateComprehensiveDriverFiles() {
         // Add career statistics at the top
         content += `## Career Statistics\n\n`;
         
-        content += `**Total Race Events**: ${Math.ceil(results.length / 3)} (${results.length} individual ELO calculations)\n\n`;
+        content += `**Total Race Events**: ${Math.ceil(results.length / 3)} (${results.length} individual Elo calculations)\n\n`;
 
         // Calculate DNF statistics (only for race results)
         const raceResultsForDNF = results.filter(r => r.session === 'race');
@@ -330,9 +330,9 @@ async function generateComprehensiveDriverFiles() {
             
             content += `### 🏁 Qualifying Performance\n`;
             content += `**Career Journey**: ${qualStart} → ${qualEnd}\n\n`;
-            content += `🏆 **Peak ELO**: ${qualPeakResult.newElo}\n`;
+            content += `🏆 **Peak Elo**: ${qualPeakResult.newElo}\n`;
             content += `   *${qualPeakLink}*\n\n`;
-            content += `📉 **Lowest ELO**: ${qualLowResult.newElo}\n`;
+            content += `📉 **Lowest Elo**: ${qualLowResult.newElo}\n`;
             content += `   *${qualLowLink}*\n\n`;
         }
         
@@ -353,9 +353,9 @@ async function generateComprehensiveDriverFiles() {
             
             content += `### 🏎️ Race Performance\n`;
             content += `**Career Journey**: ${raceStart} → ${raceEnd}\n\n`;
-            content += `🏆 **Peak ELO**: ${racePeakResult.newElo}\n`;
+            content += `🏆 **Peak Elo**: ${racePeakResult.newElo}\n`;
             content += `   *${racePeakLink}*\n\n`;
-            content += `📉 **Lowest ELO**: ${raceLowResult.newElo}\n`;
+            content += `📉 **Lowest Elo**: ${raceLowResult.newElo}\n`;
             content += `   *${raceLowLink}*\n\n`;
         }
         
@@ -376,9 +376,9 @@ async function generateComprehensiveDriverFiles() {
             
             content += `### 🌟 Overall Performance\n`;
             content += `**Career Journey**: ${globalStart} → ${globalEnd}\n\n`;
-            content += `🏆 **Peak ELO**: ${globalPeakResult.newElo}\n`;
+            content += `🏆 **Peak Elo**: ${globalPeakResult.newElo}\n`;
             content += `   *${globalPeakLink}*\n\n`;
-            content += `📉 **Lowest ELO**: ${globalLowResult.newElo}\n`;
+            content += `📉 **Lowest Elo**: ${globalLowResult.newElo}\n`;
             content += `   *${globalLowLink}*\n\n`;
         }
         
@@ -506,14 +506,14 @@ async function calculateSeason(season, retryCount = 0) {
         console.log(`✓ Season ${season} completed successfully!`);
         console.log(`  - Total races: ${raceData.totalRaces}`);
         console.log(`  - Drivers rated: ${driverRatings.length}`);
-        console.log(`  - Top driver: ${driverRatings[0].consoleName} (${driverRatings[0].globalElo} ELO)`);
+        console.log(`  - Top driver: ${driverRatings[0].consoleName} (${driverRatings[0].globalElo} Elo)`);
         
         return { 
             success: true, 
             season, 
             races: raceData.totalRaces, 
             drivers: driverRatings.length,
-            topDriver: `${driverRatings[0].consoleName} (${driverRatings[0].globalElo} ELO)`
+            topDriver: `${driverRatings[0].consoleName} (${driverRatings[0].globalElo} Elo)`
         };
         
     } catch (error) {

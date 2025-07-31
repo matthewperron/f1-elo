@@ -4,8 +4,8 @@
 
 ## Final ELO Ratings
 
-| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
-|------|--------------|--------|-------------|----------------|----------|-----|
+| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
+|------|--------------|--------|-------------|----------------|----------|-----------|
 | 1 | 1607 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1739 | 1676 | <span style="color: green">1697 ▲ 90</span> |
 | 2 | 1572 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> José Froilán González](../drivers/jos-froiln-gonzlez) | Maserati | 1627 | 1574 | <span style="color: green">1589 ▲ 17</span> |
 | 3 | 1562 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 1668 | 1560 | <span style="color: green">1588 ▲ 26</span> |
@@ -64,7 +64,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 1 | 1597 | <span style="color: red">-7</span> | 1590 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Taruffi](../drivers/piero-taruffi) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Taruffi](../drivers/piero-taruffi) | Ferrari | 2 | 1458 | <span style="color: green">+5</span> | 1463 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Rudi Fischer](../drivers/rudi-fischer) (P5) |
@@ -91,7 +91,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Taruffi](../drivers/piero-taruffi) | Ferrari | 1 | Finished | 1495 | <span style="color: green">+5</span> | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Rudi Fischer](../drivers/rudi-fischer) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Rudi Fischer](../drivers/rudi-fischer) | Ferrari | 2 | Finished | 1470 | <span style="color: red">-5</span> | 1465 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Taruffi](../drivers/piero-taruffi) (P1) |
@@ -123,7 +123,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Fred Agabashian](../drivers/fred-agabashian) | Kurtis Kraft | 1 | 1526 | <span style="color: green">+2</span> | 1528 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Rathmann](../drivers/jim-rathmann) (P10) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Andy Linden](../drivers/andy-linden) | Kurtis Kraft | 2 | 1500 | <span style="color: green">+2</span> | 1502 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Rathmann](../drivers/jim-rathmann) (P10) |
@@ -161,7 +161,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Troy Ruttman](../drivers/troy-ruttman) | Kuzma | 1 | Finished | N/A | N/A | N/A | N/A |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Rathmann](../drivers/jim-rathmann) | Kurtis Kraft | 2 | Finished | 1500 | <span style="color: green">+2</span> | 1502 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Sam Hanks](../drivers/sam-hanks) (P3) |
@@ -204,7 +204,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | 1638 | <span style="color: green">+7</span> | 1645 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 2 | 1613 | <span style="color: red">-7</span> | 1605 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) (P1) |
@@ -231,7 +231,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | Finished | 1591 | <span style="color: green">+7</span> | 1598 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 2 | Finished | 1538 | <span style="color: red">-7</span> | 1531 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) (P1) |
@@ -263,7 +263,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | 1660 | <span style="color: green">+5</span> | 1664 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 2 | 1622 | <span style="color: red">-5</span> | 1617 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) (P1) |
@@ -288,7 +288,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | Finished | 1610 | <span style="color: green">+4</span> | 1614 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 2 | +1 Lap | 1546 | <span style="color: red">-4</span> | 1541 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) (P1) |
@@ -318,7 +318,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 1 | 1634 | <span style="color: green">+6</span> | 1640 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 2 | 1678 | <span style="color: green">+3</span> | 1681 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Taruffi](../drivers/piero-taruffi) (P3) |
@@ -355,7 +355,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | Finished | 1617 | <span style="color: green">+3</span> | 1621 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Taruffi](../drivers/piero-taruffi) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Taruffi](../drivers/piero-taruffi) | Ferrari | 2 | +1 Lap | 1482 | <span style="color: red">-3</span> | 1479 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) (P1) |
@@ -397,7 +397,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | 1684 | <span style="color: green">+5</span> | 1689 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 2 | 1653 | <span style="color: red">-5</span> | 1648 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) (P1) |
@@ -432,7 +432,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | Finished | 1635 | <span style="color: green">+4</span> | 1639 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 2 | Finished | 1549 | <span style="color: red">-4</span> | 1544 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) (P1) |
@@ -472,7 +472,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | 1701 | <span style="color: green">+9</span> | 1711 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 2 | 1663 | <span style="color: red">-9</span> | 1653 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) (P1) |
@@ -496,7 +496,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | Finished | 1648 | <span style="color: green">+8</span> | 1656 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](../drivers/nino-farina) | Ferrari | 2 | Finished | 1557 | <span style="color: red">-8</span> | 1549 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) (P1) |
@@ -525,7 +525,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | 1722 | <span style="color: green">+3</span> | 1726 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luigi Villoresi](../drivers/luigi-villoresi) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](../drivers/stirling-moss) | Connaught | 1 | 1539 | <span style="color: green">+15</span> | 1553 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Dennis Poore](../drivers/dennis-poore) (P19) |
@@ -554,7 +554,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](../drivers/alberto-ascari) | Ferrari | 1 | Finished | 1661 | <span style="color: green">+2</span> | 1663 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luigi Villoresi](../drivers/luigi-villoresi) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> José Froilán González](../drivers/jos-froiln-gonzlez) | Maserati | 2 | Finished | 1558 | <span style="color: green">+5</span> | 1563 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Felice Bonetto](../drivers/felice-bonetto) (P5) |

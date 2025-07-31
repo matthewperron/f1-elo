@@ -4,8 +4,8 @@
 
 ## Final ELO Ratings
 
-| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
-|------|--------------|--------|-------------|----------------|----------|-----|
+| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
+|------|--------------|--------|-------------|----------------|----------|-----------|
 | 1 | 1778 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](../drivers/keke-rosberg) | Williams | 1924 | 1760 | <span style="color: green">1811 ▲ 33</span> |
 | 2 | 1668 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1923 | 1719 | <span style="color: green">1779 ▲ 111</span> |
 | 3 | 1718 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1860 | 1672 | <span style="color: green">1729 ▲ 11</span> |
@@ -46,7 +46,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](../drivers/elio-de-angelis) | Team Lotus | 1 | 1678 | <span style="color: green">+16</span> | 1694 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](../drivers/nigel-mansell) (P5) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](../drivers/michele-alboreto) | Ferrari | 2 | 1737 | <span style="color: green">+7</span> | 1744 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) (P10) |
@@ -78,7 +78,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1 | Finished | 1639 | N/A | 1639 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](../drivers/keke-rosberg) | Williams | 2 | Finished | 1712 | N/A | 1712 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](../drivers/jacques-laffite) (PDNF) |
@@ -115,7 +115,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | 1852 | <span style="color: green">+4</span> | 1857 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](../drivers/teo-fabi) (P6) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](../drivers/keke-rosberg) | Williams | 2 | 1933 | <span style="color: green">+7</span> | 1940 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](../drivers/jacques-laffite) (P11) |
@@ -147,7 +147,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | McLaren | 1 | Finished | 1708 | <span style="color: green">+26</span> | 1734 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 2 | Finished | 1639 | <span style="color: red">-26</span> | 1613 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P1) |
@@ -184,7 +184,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](../drivers/michele-alboreto) | Ferrari | 1 | 1750 | <span style="color: green">+6</span> | 1755 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) | Ferrari | 2 | 1346 | <span style="color: red">-6</span> | 1341 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](../drivers/michele-alboreto) (P1) |
@@ -215,7 +215,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](../drivers/michele-alboreto) | Ferrari | 1 | Finished | 1580 | <span style="color: green">+24</span> | 1604 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](../drivers/derek-warwick) | Renault | 2 | Finished | 1593 | <span style="color: green">+16</span> | 1609 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](../drivers/patrick-tambay) (P7) |
@@ -251,7 +251,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | 1861 | <span style="color: green">+4</span> | 1864 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](../drivers/teo-fabi) (P9) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 2 | 1823 | <span style="color: green">+19</span> | 1842 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P5) |
@@ -282,7 +282,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1 | Finished | 1613 | N/A | 1613 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) | Ferrari | 2 | Finished | 1462 | N/A | 1462 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](../drivers/michele-alboreto) (PDNF) |
@@ -318,7 +318,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](../drivers/patrick-tambay) | Renault | 1 | 1452 | <span style="color: green">+50</span> | 1502 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](../drivers/derek-warwick) (P7) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](../drivers/elio-de-angelis) | Team Lotus | 2 | 1683 | <span style="color: green">+15</span> | 1698 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](../drivers/nigel-mansell) (P6) |
@@ -349,7 +349,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | McLaren | 1 | Finished | 1734 | <span style="color: green">+21</span> | 1755 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) (P7) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](../drivers/patrick-tambay) | Renault | 2 | Finished | 1377 | <span style="color: green">+52</span> | 1429 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](../drivers/derek-warwick) (P16) |
@@ -385,7 +385,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1 | 1859 | <span style="color: green">+14</span> | 1873 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P8) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](../drivers/nigel-mansell) | Team Lotus | 2 | 1466 | <span style="color: green">+51</span> | 1517 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](../drivers/elio-de-angelis) (P11) |
@@ -410,7 +410,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1 | Finished | 1592 | <span style="color: green">+46</span> | 1638 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P11) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](../drivers/ayrton-senna) | Toleman | 2 | Finished | 1500 | <span style="color: green">+37</span> | 1537 | [Johnny Cecotto](../drivers/johnny-cecotto) (P17) |
@@ -440,7 +440,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | 1874 | <span style="color: green">+5</span> | 1879 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Corrado Fabi](../drivers/corrado-fabi) (P16) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 2 | 1873 | <span style="color: green">+12</span> | 1885 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P8) |
@@ -471,7 +471,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | Finished | 1661 | N/A | 1661 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Corrado Fabi](../drivers/corrado-fabi) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | McLaren | 2 | Finished | 1709 | <span style="color: green">+26</span> | 1735 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) (P3) |
@@ -507,7 +507,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | 1879 | <span style="color: green">+3</span> | 1882 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](../drivers/teo-fabi) (P23) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 2 | 1885 | <span style="color: green">+11</span> | 1896 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P10) |
@@ -538,7 +538,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | Finished | 1661 | <span style="color: green">+18</span> | 1679 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](../drivers/teo-fabi) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](../drivers/elio-de-angelis) | Team Lotus | 2 | Finished | 1602 | N/A | 1602 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](../drivers/nigel-mansell) (PDNF) |
@@ -574,7 +574,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](../drivers/nigel-mansell) | Team Lotus | 1 | 1543 | <span style="color: green">+39</span> | 1582 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](../drivers/elio-de-angelis) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](../drivers/elio-de-angelis) | Team Lotus | 2 | 1621 | <span style="color: red">-39</span> | 1582 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](../drivers/nigel-mansell) (P1) |
@@ -604,7 +604,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](../drivers/keke-rosberg) | Williams | 1 | Finished | 1746 | <span style="color: green">+14</span> | 1760 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](../drivers/jacques-laffite) (P4) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) | Ferrari | 2 | Finished | 1507 | <span style="color: green">+37</span> | 1544 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](../drivers/michele-alboreto) (P12) |
@@ -639,7 +639,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | 1823 | <span style="color: green">+4</span> | 1827 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](../drivers/teo-fabi) (P14) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 2 | 1842 | <span style="color: green">+16</span> | 1858 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P3) |
@@ -671,7 +671,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | McLaren | 1 | Finished | 1756 | N/A | 1756 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](../drivers/derek-warwick) | Renault | 2 | Finished | 1544 | N/A | 1544 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](../drivers/patrick-tambay) (PDNF) |
@@ -708,7 +708,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1 | 1858 | <span style="color: green">+14</span> | 1873 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P7) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](../drivers/elio-de-angelis) | Team Lotus | 2 | 1614 | <span style="color: green">+26</span> | 1640 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](../drivers/nigel-mansell) (P16) |
@@ -739,7 +739,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1 | Finished | 1591 | <span style="color: green">+46</span> | 1637 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | McLaren | 2 | Finished | 1756 | <span style="color: red">-46</span> | 1710 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) (P1) |
@@ -775,7 +775,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | 1832 | <span style="color: green">+4</span> | 1836 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](../drivers/teo-fabi) (P7) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 2 | 1873 | <span style="color: green">+12</span> | 1885 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P4) |
@@ -806,7 +806,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | McLaren | 1 | Finished | 1710 | <span style="color: green">+25</span> | 1735 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) (P16) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 2 | Finished | 1634 | <span style="color: green">+19</span> | 1653 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](../drivers/teo-fabi) (P4) |
@@ -842,7 +842,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1 | 1885 | <span style="color: green">+11</span> | 1896 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P6) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 2 | 1836 | <span style="color: green">+4</span> | 1839 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](../drivers/teo-fabi) (P10) |
@@ -874,7 +874,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1 | Finished | 1612 | <span style="color: green">+43</span> | 1655 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | McLaren | 2 | Finished | 1735 | <span style="color: red">-43</span> | 1692 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) (P1) |
@@ -911,7 +911,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | 1839 | <span style="color: green">+4</span> | 1843 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](../drivers/teo-fabi) (P5) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 2 | 1896 | <span style="color: green">+10</span> | 1906 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P4) |
@@ -942,7 +942,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | McLaren | 1 | Finished | 1692 | N/A | 1692 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](../drivers/michele-alboreto) | Ferrari | 2 | Finished | 1584 | N/A | 1584 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) (PDNF) |
@@ -978,7 +978,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | 1843 | <span style="color: green">+4</span> | 1847 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](../drivers/teo-fabi) (P10) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 2 | 1906 | <span style="color: green">+9</span> | 1915 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P15) |
@@ -1009,7 +1009,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1 | Finished | 1655 | <span style="color: green">+35</span> | 1690 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P4) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](../drivers/michele-alboreto) | Ferrari | 2 | Finished | 1584 | <span style="color: green">+23</span> | 1607 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) (P5) |
@@ -1045,7 +1045,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](../drivers/nelson-piquet) | Brabham | 1 | 1847 | <span style="color: green">+13</span> | 1860 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](../drivers/manfred-winkelhock) (P19) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 2 | 1915 | <span style="color: green">+8</span> | 1923 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P11) |
@@ -1077,7 +1077,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) | McLaren | 1 | Finished | 1690 | <span style="color: green">+29</span> | 1719 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P2) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | McLaren | 2 | Finished | 1657 | <span style="color: red">-29</span> | 1628 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](../drivers/alain-prost) (P1) |

@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 3 (9 individual ELO calculations)
+**Total Race Events**: 3 (9 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1488
+🏆 **Peak Elo**: 1488
    *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest Elo**: 1468
    *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
-🏆 **Peak ELO**: 1496
+🏆 **Peak Elo**: 1496
    *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
-📉 **Lowest ELO**: 1490
+📉 **Lowest Elo**: 1490
    *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
 

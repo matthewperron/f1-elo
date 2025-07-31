@@ -4,8 +4,8 @@
 
 ## Final ELO Ratings
 
-| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
-|------|--------------|--------|-------------|----------------|----------|-----|
+| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
+|------|--------------|--------|-------------|----------------|----------|-----------|
 | 1 | 1760 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 1895 | 1661 | <span style="color: red">1731 ▼ 29</span> |
 | 2 | 1702 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](../drivers/emerson-fittipaldi) | Fittipaldi | 1853 | 1673 | <span style="color: green">1723 ▲ 21</span> |
 | 3 | 1599 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 1732 | 1698 | <span style="color: green">1708 ▲ 109</span> |
@@ -57,7 +57,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 1 | 1860 | <span style="color: green">+6</span> | 1866 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P5) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](../drivers/john-watson) | Brabham | 2 | 1610 | <span style="color: green">+49</span> | 1659 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](../drivers/carlos-pace) (P6) |
@@ -83,7 +83,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [Jody Scheckter](../drivers/jody-scheckter) | Wolf | 1 | Finished | N/A | N/A | N/A | N/A |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](../drivers/carlos-pace) | Brabham | 2 | Finished | 1652 | N/A | 1652 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](../drivers/john-watson) (PDNF) |
@@ -114,7 +114,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 1 | 1866 | <span style="color: green">+6</span> | 1872 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P4) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) | Ferrari | 2 | 1662 | <span style="color: green">+46</span> | 1708 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P13) |
@@ -141,7 +141,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) | Ferrari | 1 | Finished | 1550 | <span style="color: green">+29</span> | 1579 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 2 | Finished | 1718 | <span style="color: green">+9</span> | 1727 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P16) |
@@ -173,7 +173,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 1 | 1872 | <span style="color: green">+5</span> | 1877 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P12) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](../drivers/carlos-pace) | Brabham | 2 | 1730 | <span style="color: green">+29</span> | 1759 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](../drivers/john-watson) (P11) |
@@ -201,7 +201,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 1 | Finished | 1484 | <span style="color: green">+40</span> | 1525 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P8) |
 | [Jody Scheckter](../drivers/jody-scheckter) | Wolf | 2 | Finished | N/A | N/A | N/A | N/A |
@@ -234,7 +234,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 1 | 1799 | <span style="color: green">+22</span> | 1821 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P4) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 2 | 1656 | <span style="color: green">+10</span> | 1666 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P16) |
@@ -261,7 +261,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | Finished | 1523 | <span style="color: green">+32</span> | 1556 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P8) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 2 | Finished | 1525 | <span style="color: green">+33</span> | 1558 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P20) |
@@ -293,7 +293,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | 1666 | <span style="color: green">+9</span> | 1676 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P12) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](../drivers/jacques-laffite) | Ligier | 2 | N/A | N/A | N/A | N/A |
@@ -323,7 +323,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | Finished | 1556 | <span style="color: green">+27</span> | 1582 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P5) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) | Ferrari | 2 | Finished | 1505 | N/A | 1505 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (PDNF) |
@@ -358,7 +358,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](../drivers/john-watson) | Brabham | 1 | 1715 | <span style="color: green">+17</span> | 1731 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans-Joachim Stuck](../drivers/hans-joachim-stuck) (P5) |
 | [Jody Scheckter](../drivers/jody-scheckter) | Wolf | 2 | N/A | N/A | N/A | N/A |
@@ -383,7 +383,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [Jody Scheckter](../drivers/jody-scheckter) | Wolf | 1 | Finished | N/A | N/A | N/A | N/A |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 2 | Finished | 1558 | <span style="color: green">+27</span> | 1585 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P3) |
@@ -413,7 +413,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | 1684 | <span style="color: green">+8</span> | 1692 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](../drivers/john-watson) | Brabham | 2 | 1731 | <span style="color: green">+14</span> | 1746 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans-Joachim Stuck](../drivers/hans-joachim-stuck) (P18) |
@@ -444,7 +444,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) | Team Lotus | 1 | Finished | 1470 | <span style="color: green">+42</span> | 1512 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) (P25) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 2 | Finished | 1585 | <span style="color: green">+22</span> | 1608 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P20) |
@@ -480,7 +480,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | 1692 | <span style="color: green">+7</span> | 1700 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P7) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](../drivers/john-watson) | Brabham | 2 | 1746 | <span style="color: green">+13</span> | 1758 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans-Joachim Stuck](../drivers/hans-joachim-stuck) (P5) |
@@ -509,7 +509,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](../drivers/jacques-laffite) | Ligier | 1 | Finished | N/A | N/A | N/A | N/A |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) | McLaren | 2 | Finished | 1405 | <span style="color: green">+17</span> | 1423 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](../drivers/brett-lunger) (P11) |
@@ -543,7 +543,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | 1700 | <span style="color: green">+7</span> | 1706 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P3) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 2 | 1840 | <span style="color: green">+9</span> | 1849 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P7) |
@@ -570,7 +570,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | Finished | 1540 | <span style="color: green">+29</span> | 1570 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P4) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](../drivers/john-watson) | Brabham | 2 | Finished | 1536 | <span style="color: green">+30</span> | 1565 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans-Joachim Stuck](../drivers/hans-joachim-stuck) (P16) |
@@ -602,7 +602,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 1 | 1849 | <span style="color: green">+3</span> | 1852 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P11) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](../drivers/john-watson) | Brabham | 2 | 1769 | <span style="color: green">+10</span> | 1779 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans-Joachim Stuck](../drivers/hans-joachim-stuck) (P7) |
@@ -633,7 +633,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 1 | Finished | 1703 | <span style="color: green">+4</span> | 1706 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P4) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 2 | Finished | 1626 | <span style="color: green">+16</span> | 1643 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P15) |
@@ -669,7 +669,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [Jody Scheckter](../drivers/jody-scheckter) | Wolf | 1 | N/A | N/A | N/A | N/A |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](../drivers/john-watson) | Brabham | 2 | 1779 | <span style="color: green">+9</span> | 1788 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans-Joachim Stuck](../drivers/hans-joachim-stuck) (P5) |
@@ -697,7 +697,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 1 | Finished | 1643 | <span style="color: green">+14</span> | 1656 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P4) |
 | [Jody Scheckter](../drivers/jody-scheckter) | Wolf | 2 | Finished | N/A | N/A | N/A | N/A |
@@ -730,7 +730,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 1 | 1764 | <span style="color: green">+28</span> | 1791 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P5) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 2 | 1860 | <span style="color: green">+3</span> | 1863 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P9) |
@@ -761,7 +761,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](../drivers/alan-jones) | Shadow | 1 | Finished | 1563 | N/A | 1563 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](../drivers/arturo-merzario) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 2 | Finished | 1656 | <span style="color: green">+12</span> | 1669 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P4) |
@@ -797,7 +797,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | 1670 | <span style="color: green">+9</span> | 1679 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P5) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](../drivers/jacques-laffite) | Ligier | 2 | N/A | N/A | N/A | N/A |
@@ -828,7 +828,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 1 | Finished | 1669 | <span style="color: green">+11</span> | 1680 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P6) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](../drivers/jacques-laffite) | Ligier | 2 | Finished | N/A | N/A | N/A | N/A |
@@ -864,7 +864,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 1 | 1871 | <span style="color: green">+3</span> | 1874 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P9) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) | Ferrari | 2 | 1667 | <span style="color: green">+45</span> | 1711 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) (P5) |
@@ -893,7 +893,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | Finished | 1570 | N/A | 1570 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](../drivers/niki-lauda) | Ferrari | 2 | Finished | 1680 | <span style="color: green">+10</span> | 1689 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) (P11) |
@@ -927,7 +927,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 1 | 1877 | <span style="color: green">+1</span> | 1878 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](../drivers/brett-lunger) (P17) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans-Joachim Stuck](../drivers/hans-joachim-stuck) | Brabham | 2 | 1551 | <span style="color: green">+45</span> | 1596 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](../drivers/john-watson) (P3) |
@@ -958,7 +958,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 1 | Finished | 1678 | <span style="color: green">+7</span> | 1685 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](../drivers/brett-lunger) (P10) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 2 | Finished | 1570 | <span style="color: green">+24</span> | 1594 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P21) |
@@ -994,7 +994,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | 1695 | <span style="color: green">+7</span> | 1702 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P4) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 2 | 1882 | <span style="color: green">+4</span> | 1886 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P5) |
@@ -1025,7 +1025,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [Jody Scheckter](../drivers/jody-scheckter) | Wolf | 1 | Finished | N/A | N/A | N/A | N/A |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](../drivers/patrick-depailler) | Tyrrell | 2 | Finished | 1543 | N/A | 1543 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Ronnie Peterson](../drivers/ronnie-peterson) (PDNF) |
@@ -1061,7 +1061,7 @@
 
 #### Qualifying Results
 
-| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](../drivers/mario-andretti) | Team Lotus | 1 | 1702 | <span style="color: green">+7</span> | 1709 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](../drivers/gunnar-nilsson) (P14) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 2 | 1887 | <span style="color: green">+8</span> | 1895 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (P8) |
@@ -1089,7 +1089,7 @@
 
 #### Race Results
 
-| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |
+| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |
 |--------|-------------|----------|--------|--------------|--------|---------|-------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](../drivers/james-hunt) | McLaren | 1 | Finished | 1661 | N/A | 1661 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) (PDNF) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](../drivers/carlos-reutemann) | Ferrari | 2 | Finished | 1365 | <span style="color: green">+43</span> | 1408 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](../drivers/gilles-villeneuve) (P19) |

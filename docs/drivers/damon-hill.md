@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 114 (342 individual ELO calculations)
+**Total Race Events**: 114 (342 individual Elo calculations)
 
 **DNF Statistics**: 24 DNFs out of 114 races (21.1%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1419
 
-🏆 **Peak ELO**: 1821
+🏆 **Peak Elo**: 1821
    *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1372
+📉 **Lowest Elo**: 1372
    *[1999 Round 14 - European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1459
 
-🏆 **Peak ELO**: 1781
+🏆 **Peak Elo**: 1781
    *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1459
+📉 **Lowest Elo**: 1459
    *[1999 Round 15 - Malaysian Grand Prix](../seasons/1999-season-report#round-15-malaysian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1446
 
-🏆 **Peak ELO**: 1791
+🏆 **Peak Elo**: 1791
    *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1438
+📉 **Lowest Elo**: 1438
    *[1999 Round 14 - European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
 
 

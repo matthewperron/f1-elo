@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 59 (177 individual ELO calculations)
+**Total Race Events**: 59 (177 individual Elo calculations)
 
 **DNF Statistics**: 9 DNFs out of 59 races (15.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1594
 
-🏆 **Peak ELO**: 1595
+🏆 **Peak Elo**: 1595
    *[2016 Round 19 - Mexican Grand Prix](../seasons/2016-season-report#round-19-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1307
+📉 **Lowest Elo**: 1307
    *[2014 Round 13 - Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1583
 
-🏆 **Peak ELO**: 1652
+🏆 **Peak Elo**: 1652
    *[2016 Round 13 - Belgian Grand Prix](../seasons/2016-season-report#round-13-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1330
+📉 **Lowest Elo**: 1330
    *[2014 Round 13 - Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1584
 
-🏆 **Peak ELO**: 1608
+🏆 **Peak Elo**: 1608
    *[2016 Round 19 - Mexican Grand Prix](../seasons/2016-season-report#round-19-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1323
+📉 **Lowest Elo**: 1323
    *[2014 Round 13 - Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
 
 

@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 60 (180 individual ELO calculations)
+**Total Race Events**: 60 (180 individual Elo calculations)
 
 **DNF Statistics**: 27 DNFs out of 60 races (45.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1689
 
-🏆 **Peak ELO**: 1744
+🏆 **Peak Elo**: 1744
    *[1994 Round 10 - Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1455
+📉 **Lowest Elo**: 1455
    *[1991 Round 13 - Portuguese Grand Prix](../seasons/1991-season-report#round-13-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1704
 
-🏆 **Peak ELO**: 1768
+🏆 **Peak Elo**: 1768
    *[1992 Round 10 - German Grand Prix](../seasons/1992-season-report#round-10-german-grand-prix)*
 
-📉 **Lowest ELO**: 1478
+📉 **Lowest Elo**: 1478
    *[1991 Round 4 - Monaco Grand Prix](../seasons/1991-season-report#round-4-monaco-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1698
 
-🏆 **Peak ELO**: 1706
+🏆 **Peak Elo**: 1706
    *[1992 Round 10 - German Grand Prix](../seasons/1992-season-report#round-10-german-grand-prix)*
 
-📉 **Lowest ELO**: 1482
+📉 **Lowest Elo**: 1482
    *[1991 Round 5 - Canadian Grand Prix](../seasons/1991-season-report#round-5-canadian-grand-prix)*
 
 

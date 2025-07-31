@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 309 (927 individual ELO calculations)
+**Total Race Events**: 309 (927 individual Elo calculations)
 
 **DNF Statistics**: 55 DNFs out of 309 races (17.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1557
 
-🏆 **Peak ELO**: 1955
+🏆 **Peak Elo**: 1955
    *[2007 Round 16 - Chinese Grand Prix](../seasons/2007-season-report#round-16-chinese-grand-prix)*
 
-📉 **Lowest ELO**: 1411
+📉 **Lowest Elo**: 1411
    *[2001 Round 10 - French Grand Prix](../seasons/2001-season-report#round-10-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1740
 
-🏆 **Peak ELO**: 1906
+🏆 **Peak Elo**: 1906
    *[2016 Round 1 - Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1352
+📉 **Lowest Elo**: 1352
    *[2002 Round 1 - Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1686
 
-🏆 **Peak ELO**: 1850
+🏆 **Peak Elo**: 1850
    *[2016 Round 1 - Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1388
+📉 **Lowest Elo**: 1388
    *[2001 Round 14 - Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)*
 
 

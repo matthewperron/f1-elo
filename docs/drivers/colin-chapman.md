@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 2 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1507
 
-🏆 **Peak ELO**: 1520
+🏆 **Peak Elo**: 1520
    *[1956 Round 5 - French Grand Prix](../seasons/1956-season-report#round-5-french-grand-prix)*
 
-📉 **Lowest ELO**: 1507
+📉 **Lowest Elo**: 1507
    *[1956 Round 5 - French Grand Prix](../seasons/1956-season-report#round-5-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1488
 
-🏆 **Peak ELO**: 1488
+🏆 **Peak Elo**: 1488
    *[1956 Round 5 - French Grand Prix](../seasons/1956-season-report#round-5-french-grand-prix)*
 
-📉 **Lowest ELO**: 1488
+📉 **Lowest Elo**: 1488
    *[1956 Round 5 - French Grand Prix](../seasons/1956-season-report#round-5-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1494
 
-🏆 **Peak ELO**: 1498
+🏆 **Peak Elo**: 1498
    *[1956 Round 5 - French Grand Prix](../seasons/1956-season-report#round-5-french-grand-prix)*
 
-📉 **Lowest ELO**: 1494
+📉 **Lowest Elo**: 1494
    *[1956 Round 5 - French Grand Prix](../seasons/1956-season-report#round-5-french-grand-prix)*
 
 

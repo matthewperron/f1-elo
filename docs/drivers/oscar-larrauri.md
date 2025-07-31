@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 8 (24 individual ELO calculations)
+**Total Race Events**: 8 (24 individual Elo calculations)
 
 **DNF Statistics**: 6 DNFs out of 8 races (75.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1390
 
-🏆 **Peak ELO**: 1531
+🏆 **Peak Elo**: 1531
    *[1988 Round 4 - Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1390
+📉 **Lowest Elo**: 1390
    *[1988 Round 16 - Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1467
 
-🏆 **Peak ELO**: 1509
+🏆 **Peak Elo**: 1509
    *[1988 Round 4 - Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1467
+📉 **Lowest Elo**: 1467
    *[1988 Round 16 - Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)*
 
 

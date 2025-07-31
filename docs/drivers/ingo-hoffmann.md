@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 3 (9 individual ELO calculations)
+**Total Race Events**: 3 (9 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 3 races (33.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1477
 
-🏆 **Peak ELO**: 1492
+🏆 **Peak Elo**: 1492
    *[1976 Round 1 - Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1477
+📉 **Lowest Elo**: 1477
    *[1977 Round 2 - Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1526
 
-🏆 **Peak ELO**: 1549
+🏆 **Peak Elo**: 1549
    *[1976 Round 1 - Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1526
+📉 **Lowest Elo**: 1526
    *[1977 Round 2 - Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1511
 
-🏆 **Peak ELO**: 1532
+🏆 **Peak Elo**: 1532
    *[1976 Round 1 - Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1511
+📉 **Lowest Elo**: 1511
    *[1977 Round 2 - Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
 
 

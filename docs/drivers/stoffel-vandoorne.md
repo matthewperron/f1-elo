@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 42 (126 individual ELO calculations)
+**Total Race Events**: 42 (126 individual Elo calculations)
 
 **DNF Statistics**: 5 DNFs out of 42 races (11.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1516
 
-🏆 **Peak ELO**: 1717
+🏆 **Peak Elo**: 1717
    *[2017 Round 16 - Japanese Grand Prix](../seasons/2017-season-report#round-16-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1493
+📉 **Lowest Elo**: 1493
    *[2018 Round 15 - Singapore Grand Prix](../seasons/2018-season-report#round-15-singapore-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1650
 
-🏆 **Peak ELO**: 1686
+🏆 **Peak Elo**: 1686
    *[2017 Round 15 - Malaysian Grand Prix](../seasons/2017-season-report#round-15-malaysian-grand-prix)*
 
-📉 **Lowest ELO**: 1494
+📉 **Lowest Elo**: 1494
    *[2017 Round 5 - Spanish Grand Prix](../seasons/2017-season-report#round-5-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1610
 
-🏆 **Peak ELO**: 1684
+🏆 **Peak Elo**: 1684
    *[2017 Round 15 - Malaysian Grand Prix](../seasons/2017-season-report#round-15-malaysian-grand-prix)*
 
-📉 **Lowest ELO**: 1498
+📉 **Lowest Elo**: 1498
    *[2017 Round 5 - Spanish Grand Prix](../seasons/2017-season-report#round-5-spanish-grand-prix)*
 
 

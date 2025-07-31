@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 66 (198 individual ELO calculations)
+**Total Race Events**: 66 (198 individual Elo calculations)
 
 **DNF Statistics**: 27 DNFs out of 66 races (40.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1472
 
-🏆 **Peak ELO**: 1558
+🏆 **Peak Elo**: 1558
    *[1984 Round 13 - Dutch Grand Prix](../seasons/1984-season-report#round-13-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1405
+📉 **Lowest Elo**: 1405
    *[1985 Round 8 - British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1666
 
-🏆 **Peak ELO**: 1666
+🏆 **Peak Elo**: 1666
    *[1989 Round 11 - Belgian Grand Prix](../seasons/1989-season-report#round-11-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1455
+📉 **Lowest Elo**: 1455
    *[1985 Round 10 - Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1611
 
-🏆 **Peak ELO**: 1623
+🏆 **Peak Elo**: 1623
    *[1989 Round 11 - Belgian Grand Prix](../seasons/1989-season-report#round-11-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1445
+📉 **Lowest Elo**: 1445
    *[1985 Round 13 - Belgian Grand Prix](../seasons/1985-season-report#round-13-belgian-grand-prix)*
 
 

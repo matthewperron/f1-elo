@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 5 (15 individual ELO calculations)
+**Total Race Events**: 5 (15 individual Elo calculations)
 
 **DNF Statistics**: 5 DNFs out of 5 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1478
 
-🏆 **Peak ELO**: 1478
+🏆 **Peak Elo**: 1478
    *[1965 Round 8 - Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1462
+📉 **Lowest Elo**: 1462
    *[1965 Round 8 - Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1493
 
-🏆 **Peak ELO**: 1493
+🏆 **Peak Elo**: 1493
    *[1965 Round 8 - Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1488
+📉 **Lowest Elo**: 1488
    *[1965 Round 8 - Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
 

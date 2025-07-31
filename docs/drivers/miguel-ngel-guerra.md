@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 1 (3 individual ELO calculations)
+**Total Race Events**: 1 (3 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 

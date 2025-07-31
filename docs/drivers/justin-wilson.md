@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 16 (48 individual ELO calculations)
+**Total Race Events**: 16 (48 individual Elo calculations)
 
 **DNF Statistics**: 8 DNFs out of 16 races (50.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1370
 
-🏆 **Peak ELO**: 1521
+🏆 **Peak Elo**: 1521
    *[2003 Round 1 - Australian Grand Prix](../seasons/2003-season-report#round-1-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1370
+📉 **Lowest Elo**: 1370
    *[2003 Round 16 - Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1565
 
-🏆 **Peak ELO**: 1590
+🏆 **Peak Elo**: 1590
    *[2003 Round 15 - United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1475
+📉 **Lowest Elo**: 1475
    *[2003 Round 3 - Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1506
 
-🏆 **Peak ELO**: 1525
+🏆 **Peak Elo**: 1525
    *[2003 Round 15 - United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1463
+📉 **Lowest Elo**: 1463
    *[2003 Round 3 - Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)*
 
 

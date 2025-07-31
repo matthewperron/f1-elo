@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 21 (63 individual ELO calculations)
+**Total Race Events**: 21 (63 individual Elo calculations)
 
 **DNF Statistics**: 4 DNFs out of 21 races (19.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1355
 
-🏆 **Peak ELO**: 1531
+🏆 **Peak Elo**: 1531
    *[2006 Round 16 - Chinese Grand Prix](../seasons/2006-season-report#round-16-chinese-grand-prix)*
 
-📉 **Lowest ELO**: 1301
+📉 **Lowest Elo**: 1301
    *[2010 Round 16 - Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1335
 
-🏆 **Peak ELO**: 1460
+🏆 **Peak Elo**: 1460
    *[2006 Round 17 - Japanese Grand Prix](../seasons/2006-season-report#round-17-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1335
+📉 **Lowest Elo**: 1335
    *[2010 Round 17 - Korean Grand Prix](../seasons/2010-season-report#round-17-korean-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1340
 
-🏆 **Peak ELO**: 1510
+🏆 **Peak Elo**: 1510
    *[2006 Round 16 - Chinese Grand Prix](../seasons/2006-season-report#round-16-chinese-grand-prix)*
 
-📉 **Lowest ELO**: 1337
+📉 **Lowest Elo**: 1337
    *[2010 Round 16 - Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix)*
 
 

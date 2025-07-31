@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 4 (12 individual ELO calculations)
+**Total Race Events**: 4 (12 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 4 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1519
 
-🏆 **Peak ELO**: 1519
+🏆 **Peak Elo**: 1519
    *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1505
+📉 **Lowest Elo**: 1505
    *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1483
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak Elo**: 1490
    *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1483
+📉 **Lowest Elo**: 1483
    *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1493
 
-🏆 **Peak ELO**: 1495
+🏆 **Peak Elo**: 1495
    *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1491
+📉 **Lowest Elo**: 1491
    *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
 

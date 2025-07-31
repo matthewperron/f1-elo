@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1421
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[1976 Round 5 - Belgian Grand Prix](../seasons/1976-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1421
+📉 **Lowest Elo**: 1421
    *[1976 Round 11 - Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1476
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak Elo**: 1490
    *[1976 Round 5 - Belgian Grand Prix](../seasons/1976-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1476
+📉 **Lowest Elo**: 1476
    *[1976 Round 11 - Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)*
 
 

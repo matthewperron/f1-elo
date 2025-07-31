@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 184 (552 individual ELO calculations)
+**Total Race Events**: 184 (552 individual Elo calculations)
 
 **DNF Statistics**: 32 DNFs out of 184 races (17.4%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1349
 
-🏆 **Peak ELO**: 1745
+🏆 **Peak Elo**: 1745
    *[2006 Round 1 - Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1337
+📉 **Lowest Elo**: 1337
    *[2011 Round 6 - Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1518
 
-🏆 **Peak ELO**: 1778
+🏆 **Peak Elo**: 1778
    *[2005 Round 7 - European Grand Prix](../seasons/2005-season-report#round-7-european-grand-prix)*
 
-📉 **Lowest ELO**: 1487
+📉 **Lowest Elo**: 1487
    *[2008 Round 8 - French Grand Prix](../seasons/2008-season-report#round-8-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1467
 
-🏆 **Peak ELO**: 1760
+🏆 **Peak Elo**: 1760
    *[2005 Round 8 - Canadian Grand Prix](../seasons/2005-season-report#round-8-canadian-grand-prix)*
 
-📉 **Lowest ELO**: 1467
+📉 **Lowest Elo**: 1467
    *[2011 Round 11 - Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
 
 

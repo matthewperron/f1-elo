@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 6 (18 individual ELO calculations)
+**Total Race Events**: 6 (18 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 6 races (16.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1416
 
-🏆 **Peak ELO**: 1540
+🏆 **Peak Elo**: 1540
    *[1988 Round 2 - San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1416
+📉 **Lowest Elo**: 1416
    *[1991 Round 3 - San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1413
 
-🏆 **Peak ELO**: 1476
+🏆 **Peak Elo**: 1476
    *[1988 Round 5 - Canadian Grand Prix](../seasons/1988-season-report#round-5-canadian-grand-prix)*
 
-📉 **Lowest ELO**: 1413
+📉 **Lowest Elo**: 1413
    *[1991 Round 3 - San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1415
 
-🏆 **Peak ELO**: 1512
+🏆 **Peak Elo**: 1512
    *[1988 Round 2 - San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1415
+📉 **Lowest Elo**: 1415
    *[1991 Round 3 - San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix)*
 
 

@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 15 (45 individual ELO calculations)
+**Total Race Events**: 15 (45 individual Elo calculations)
 
 **DNF Statistics**: 8 DNFs out of 15 races (53.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1461
 
-🏆 **Peak ELO**: 1495
+🏆 **Peak Elo**: 1495
    *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest ELO**: 1457
+📉 **Lowest Elo**: 1457
    *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1495
 
-🏆 **Peak ELO**: 1495
+🏆 **Peak Elo**: 1495
    *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest ELO**: 1490
+📉 **Lowest Elo**: 1490
    *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1486
 
-🏆 **Peak ELO**: 1495
+🏆 **Peak Elo**: 1495
    *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest ELO**: 1484
+📉 **Lowest Elo**: 1484
    *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 

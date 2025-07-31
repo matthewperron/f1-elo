@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 3 (9 individual ELO calculations)
+**Total Race Events**: 3 (9 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1479
 
-🏆 **Peak ELO**: 1498
+🏆 **Peak Elo**: 1498
    *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1479
+📉 **Lowest Elo**: 1479
    *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1494
 
-🏆 **Peak ELO**: 1499
+🏆 **Peak Elo**: 1499
    *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1494
+📉 **Lowest Elo**: 1494
    *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
 

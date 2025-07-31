@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 21 (63 individual ELO calculations)
+**Total Race Events**: 21 (63 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 21 races (9.5%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1532
 
-🏆 **Peak ELO**: 1532
+🏆 **Peak Elo**: 1532
    *[2018 Round 21 - Abu Dhabi Grand Prix](../seasons/2018-season-report#round-21-abu-dhabi-grand-prix)*
 
-📉 **Lowest ELO**: 1448
+📉 **Lowest Elo**: 1448
    *[2018 Round 5 - Spanish Grand Prix](../seasons/2018-season-report#round-5-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1453
 
-🏆 **Peak ELO**: 1522
+🏆 **Peak Elo**: 1522
    *[2018 Round 13 - Belgian Grand Prix](../seasons/2018-season-report#round-13-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1384
+📉 **Lowest Elo**: 1384
    *[2018 Round 5 - Spanish Grand Prix](../seasons/2018-season-report#round-5-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1478
 
-🏆 **Peak ELO**: 1519
+🏆 **Peak Elo**: 1519
    *[2018 Round 13 - Belgian Grand Prix](../seasons/2018-season-report#round-13-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1404
+📉 **Lowest Elo**: 1404
    *[2018 Round 5 - Spanish Grand Prix](../seasons/2018-season-report#round-5-spanish-grand-prix)*
 
 

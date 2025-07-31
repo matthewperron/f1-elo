@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 23 (69 individual ELO calculations)
+**Total Race Events**: 23 (69 individual Elo calculations)
 
 **DNF Statistics**: 10 DNFs out of 23 races (43.5%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1515
 
-🏆 **Peak ELO**: 1671
+🏆 **Peak Elo**: 1671
    *[1989 Round 16 - Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1488
+📉 **Lowest Elo**: 1488
    *[1992 Round 9 - British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1534
 
-🏆 **Peak ELO**: 1626
+🏆 **Peak Elo**: 1626
    *[1992 Round 9 - British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)*
 
-📉 **Lowest ELO**: 1533
+📉 **Lowest Elo**: 1533
    *[1989 Round 4 - Mexican Grand Prix](../seasons/1989-season-report#round-4-mexican-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1529
 
-🏆 **Peak ELO**: 1609
+🏆 **Peak Elo**: 1609
    *[1989 Round 16 - Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1515
+📉 **Lowest Elo**: 1515
    *[1989 Round 3 - Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
 
 

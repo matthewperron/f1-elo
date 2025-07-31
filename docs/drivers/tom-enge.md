@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 3 (9 individual ELO calculations)
+**Total Race Events**: 3 (9 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 3 races (33.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1435
 
-🏆 **Peak ELO**: 1474
+🏆 **Peak Elo**: 1474
    *[2001 Round 15 - Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1435
+📉 **Lowest Elo**: 1435
    *[2001 Round 17 - Japanese Grand Prix](../seasons/2001-season-report#round-17-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1489
 
-🏆 **Peak ELO**: 1489
+🏆 **Peak Elo**: 1489
    *[2001 Round 16 - United States Grand Prix](../seasons/2001-season-report#round-16-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1489
+📉 **Lowest Elo**: 1489
    *[2001 Round 16 - United States Grand Prix](../seasons/2001-season-report#round-16-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1473
 
-🏆 **Peak ELO**: 1492
+🏆 **Peak Elo**: 1492
    *[2001 Round 15 - Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1473
+📉 **Lowest Elo**: 1473
    *[2001 Round 17 - Japanese Grand Prix](../seasons/2001-season-report#round-17-japanese-grand-prix)*
 
 

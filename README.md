@@ -1,20 +1,20 @@
-# F1 ELO Ratings
+# F1 Elo Ratings
 
 A simplistic driver strength calculation for every F1 driver (current and historical) using the chess ELO algorithm.
 
 ## Overview
 
-This project calculates ELO ratings for Formula 1 drivers by comparing their performance against their teammates in both qualifying and race sessions. Each driver receives three separate ELO scores:
+This project calculates Elo ratings for Formula 1 drivers by comparing their performance against their teammates in both qualifying and race sessions. Each driver receives three separate ELO scores:
 
-- **Qualifying ELO**: Based on qualifying position comparisons with teammates
-- **Race ELO**: Based on race finishing position comparisons with teammates  
-- **Global ELO**: Combined rating using 30% qualifying performance + 70% race performance
+- **Qualifying Elo**: Based on qualifying position comparisons with teammates
+- **Race Elo**: Based on race finishing position comparisons with teammates  
+- **Global Elo**: Combined rating using 30% qualifying performance + 70% race performance
 
 See the [GitHub Pages here](https://matthewperron.github.io/f1-elo) to browse the results.
 
 ## Methodology
 
-The ELO calculation follows the classic chess ELO formula, comparing each driver directly with their teammate(s) for each race weekend. Key rules:
+The Elo calculation follows the classic chess Elo formula, comparing each driver directly with their teammate(s) for each race weekend. Key rules:
 
 1. **Data Source**: Historical race results from `data/YYYY-race-results.json` files (fetched from [Ergast API](https://api.jolpi.ca/ergast/f1/))
 2. **Teammate Comparison**: Only head-to-head comparisons between teammates are considered
@@ -32,69 +32,69 @@ The ELO calculation follows the classic chess ELO formula, comparing each driver
     - Spun off
 4. **Chronological Processing**: Race history is processed in chronological order to maintain accurate ELO progression
 
-## ELO Formula
+## Elo Formula
 
-The standard chess ELO rating system is used with the following parameters:
-- **Starting ELO**: 1500 points (or carried over from previous season)
+The standard chess Elo rating system is used with the following parameters:
+- **Starting Elo**: 1500 points (or carried over from previous season)
 - **K-factor**: 64 (determines rating change magnitude)
 - **Expected Score**: E = 1 / (1 + 10^((opponent_elo - player_elo) / 400))
-- **New Rating**: New_ELO = Old_ELO + K × (Actual_Score - Expected_Score)
+- **New Rating**: new_elo = old_elo + K × (Actual_Score - Expected_Score)
 
 ### How It Works
 
 Each race weekend, teammates are compared head-to-head in three categories:
 
-#### 1. Qualifying ELO
+#### 1. Qualifying Elo
 Compares grid positions between teammates.
 
-**Example**: Charles Leclerc (1600 ELO) vs Lewis Hamilton (1500 ELO) - Ferrari teammates
+**Example**: Charles Leclerc (1600 Elo) vs Lewis Hamilton (1500 Elo) - Ferrari teammates
 - Leclerc qualifies P3, Hamilton qualifies P5
 - Expected score for Leclerc: 1/(1+10^((1500-1600)/400)) = 0.64
 - Leclerc wins (better grid position): Actual score = 1
-- Leclerc's new ELO: 1600 + 64 × (1 - 0.64) = **1623**
-- Hamilton's new ELO: 1500 + 64 × (0 - 0.36) = **1477**
+- Leclerc's new Elo: 1600 + 64 × (1 - 0.64) = **1623**
+- Hamilton's new Elo: 1500 + 64 × (0 - 0.36) = **1477**
 
-#### 2. Race ELO  
+#### 2. Race Elo  
 Compares finishing positions between teammates.
 
-**Example**: George Russell (1550 ELO) vs Andrea Kimi Antonelli (1450 ELO) - Mercedes teammates
+**Example**: George Russell (1550 Elo) vs Andrea Kimi Antonelli (1450 Elo) - Mercedes teammates
 - Russell finishes P2, Antonelli finishes P4
 - Expected score for Russell: 1/(1+10^((1450-1550)/400)) = 0.64
 - Russell wins (better finish): Actual score = 1
-- Russell's new ELO: 1550 + 64 × (1 - 0.64) = **1573**
-- Antonelli's new ELO: 1450 + 64 × (0 - 0.36) = **1427**
+- Russell's new Elo: 1550 + 64 × (1 - 0.64) = **1573**
+- Antonelli's new Elo: 1450 + 64 × (0 - 0.36) = **1427**
 
-#### 3. Global ELO
-Combines qualifying (30%) and race (70%) ELO changes with weighted calculation.
+#### 3. Global Elo
+Combines qualifying (30%) and race (70%) Elo changes with weighted calculation.
 
-**Example**: Max Verstappen (1700 ELO) vs Yuki Tsunoda (1600 ELO) - Red Bull teammates
+**Example**: Max Verstappen (1700 Elo) vs Yuki Tsunoda (1600 Elo) - Red Bull teammates
 - **Qualifying**: Verstappen P1, Tsunoda P3 (Verstappen wins)
   - Expected score for Verstappen: 1/(1+10^((1600-1700)/400)) = 0.64
-  - Qualifying ELO change for Verstappen: 64 × (1 - 0.64) = **+23**
-  - Qualifying ELO change for Tsunoda: 64 × (0 - 0.36) = **-23**
+  - Qualifying Elo change for Verstappen: 64 × (1 - 0.64) = **+23**
+  - Qualifying Elo change for Tsunoda: 64 × (0 - 0.36) = **-23**
 
 - **Race**: Verstappen P2, Tsunoda P1 (Tsunoda wins)  
   - Expected score for Verstappen: 1/(1+10^((1600-1700)/400)) = 0.64
-  - Race ELO change for Verstappen: 64 × (0 - 0.64) = **-41**
-  - Race ELO change for Tsunoda: 64 × (1 - 0.36) = **+41**
+  - Race Elo change for Verstappen: 64 × (0 - 0.64) = **-41**
+  - Race Elo change for Tsunoda: 64 × (1 - 0.36) = **+41**
 
-- **Global ELO Change** (30% qualifying + 70% race):
+- **Global Elo Change** (30% qualifying + 70% race):
   - Verstappen: (23 × 0.3) + (-41 × 0.7) = 6.9 - 28.7 = **-22**
   - Tsunoda: (-23 × 0.3) + (41 × 0.7) = -6.9 + 28.7 = **+22**
 
-- **Final Global ELO**:
+- **Final Global Elo**:
   - Verstappen: 1700 + (-22) = **1678**
   - Tsunoda: 1600 + 22 = **1622**
 
 ## Results
 
-The following table shows current ELO ratings for all F1 drivers (updated automatically):
+The following table shows current Elo ratings for all F1 drivers (updated automatically):
 
 <!-- ELO_RESULTS_START -->
-### ELO Ratings (2025 Season)
+### Elo Ratings (2025 Season)
 *Last updated: 2025-07-31*
 
-| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
+| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Elo |
 |------|--------------|--------|-------------|----------------|----------|-----|
 | 1 | 1961 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](docs/drivers/max-verstappen.md) | Red Bull | 1963 | 2045 | 2021 |
 | 2 | 1850 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](docs/drivers/george-russell.md) | Mercedes | 1953 | 1872 | 1893 |
@@ -173,9 +173,9 @@ npm run fetch-only -- 2024
 
 This script will:
 1. Check for existing race data in `data/` folder or fetch from Ergast API if needed
-2. Load starting ELO ratings from previous season (defaults to 1500 for new drivers)
-3. Calculate qualifying, race, and global ELO ratings using teammate comparisons
-4. Save final ELO ratings for use as starting ratings in next season
+2. Load starting Elo ratings from previous season (defaults to 1500 for new drivers)
+3. Calculate qualifying, race, and global Elo ratings using teammate comparisons
+4. Save final Elo ratings for use as starting ratings in next season
 5. Generate rankings table and update this README with results
 
 ---

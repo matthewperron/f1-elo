@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 18 (54 individual ELO calculations)
+**Total Race Events**: 18 (54 individual Elo calculations)
 
 **DNF Statistics**: 16 DNFs out of 18 races (88.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1460
 
-🏆 **Peak ELO**: 1484
+🏆 **Peak Elo**: 1484
    *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1418
+📉 **Lowest Elo**: 1418
    *[1967 Round 10 - United States Grand Prix](../seasons/1967-season-report#round-10-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1484
 
-🏆 **Peak ELO**: 1484
+🏆 **Peak Elo**: 1484
    *[1964 Round 10 - Mexican Grand Prix](../seasons/1964-season-report#round-10-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1484
+📉 **Lowest Elo**: 1484
    *[1964 Round 10 - Mexican Grand Prix](../seasons/1964-season-report#round-10-mexican-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1477
 
-🏆 **Peak ELO**: 1495
+🏆 **Peak Elo**: 1495
    *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1464
+📉 **Lowest Elo**: 1464
    *[1967 Round 10 - United States Grand Prix](../seasons/1967-season-report#round-10-united-states-grand-prix)*
 
 

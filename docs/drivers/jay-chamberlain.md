@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 8 (24 individual ELO calculations)
+**Total Race Events**: 8 (24 individual Elo calculations)
 
 **DNF Statistics**: 8 DNFs out of 8 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1491
 
-🏆 **Peak ELO**: 1498
+🏆 **Peak Elo**: 1498
    *[1962 Round 5 - British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
 
-📉 **Lowest ELO**: 1484
+📉 **Lowest Elo**: 1484
    *[1962 Round 5 - British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1498
 
-🏆 **Peak ELO**: 1499
+🏆 **Peak Elo**: 1499
    *[1962 Round 5 - British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
 
-📉 **Lowest ELO**: 1495
+📉 **Lowest Elo**: 1495
    *[1962 Round 5 - British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
 
 

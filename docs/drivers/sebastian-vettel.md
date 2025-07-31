@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 300 (900 individual ELO calculations)
+**Total Race Events**: 300 (900 individual Elo calculations)
 
 **DNF Statistics**: 27 DNFs out of 300 races (9.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1598
 
-🏆 **Peak ELO**: 1898
+🏆 **Peak Elo**: 1898
    *[2013 Round 14 - Korean Grand Prix](../seasons/2013-season-report#round-14-korean-grand-prix)*
 
-📉 **Lowest ELO**: 1417
+📉 **Lowest Elo**: 1417
    *[2007 Round 12 - Turkish Grand Prix](../seasons/2007-season-report#round-12-turkish-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1476
 
-🏆 **Peak ELO**: 1896
+🏆 **Peak Elo**: 1896
    *[2013 Round 19 - Brazilian Grand Prix](../seasons/2013-season-report#round-19-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1405
+📉 **Lowest Elo**: 1405
    *[2007 Round 15 - Japanese Grand Prix](../seasons/2007-season-report#round-15-japanese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1516
 
-🏆 **Peak ELO**: 1882
+🏆 **Peak Elo**: 1882
    *[2013 Round 14 - Korean Grand Prix](../seasons/2013-season-report#round-14-korean-grand-prix)*
 
-📉 **Lowest ELO**: 1423
+📉 **Lowest Elo**: 1423
    *[2007 Round 15 - Japanese Grand Prix](../seasons/2007-season-report#round-15-japanese-grand-prix)*
 
 

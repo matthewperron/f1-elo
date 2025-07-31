@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 189 (567 individual ELO calculations)
+**Total Race Events**: 189 (567 individual Elo calculations)
 
 **DNF Statistics**: 97 DNFs out of 189 races (51.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1553
 
-🏆 **Peak ELO**: 1846
+🏆 **Peak Elo**: 1846
    *[1985 Round 5 - Canadian Grand Prix](../seasons/1985-season-report#round-5-canadian-grand-prix)*
 
-📉 **Lowest ELO**: 1351
+📉 **Lowest Elo**: 1351
    *[1981 Round 15 - Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1558
 
-🏆 **Peak ELO**: 1662
+🏆 **Peak Elo**: 1662
    *[1992 Round 15 - Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1385
+📉 **Lowest Elo**: 1385
    *[1982 Round 1 - South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1556
 
-🏆 **Peak ELO**: 1692
+🏆 **Peak Elo**: 1692
    *[1992 Round 16 - Australian Grand Prix](../seasons/1992-season-report#round-16-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1389
+📉 **Lowest Elo**: 1389
    *[1981 Round 15 - Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
 
 

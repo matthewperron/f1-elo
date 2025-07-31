@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 2 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1444
 
-🏆 **Peak ELO**: 1463
+🏆 **Peak Elo**: 1463
    *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
-📉 **Lowest ELO**: 1444
+📉 **Lowest Elo**: 1444
    *[1982 Round 11 - French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1523
 
-🏆 **Peak ELO**: 1523
+🏆 **Peak Elo**: 1523
    *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
-📉 **Lowest ELO**: 1523
+📉 **Lowest Elo**: 1523
    *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1499
 
-🏆 **Peak ELO**: 1505
+🏆 **Peak Elo**: 1505
    *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
-📉 **Lowest ELO**: 1499
+📉 **Lowest Elo**: 1499
    *[1982 Round 11 - French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
 
 

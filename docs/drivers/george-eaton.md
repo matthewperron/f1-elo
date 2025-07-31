@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 24 (72 individual ELO calculations)
+**Total Race Events**: 24 (72 individual Elo calculations)
 
 **DNF Statistics**: 14 DNFs out of 24 races (58.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1390
 
-🏆 **Peak ELO**: 1546
+🏆 **Peak Elo**: 1546
    *[1969 Round 10 - United States Grand Prix](../seasons/1969-season-report#round-10-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1390
+📉 **Lowest Elo**: 1390
    *[1971 Round 10 - Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1442
 
-🏆 **Peak ELO**: 1486
+🏆 **Peak Elo**: 1486
    *[1970 Round 9 - Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix)*
 
-📉 **Lowest ELO**: 1434
+📉 **Lowest Elo**: 1434
    *[1971 Round 10 - Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1427
 
-🏆 **Peak ELO**: 1514
+🏆 **Peak Elo**: 1514
    *[1969 Round 10 - United States Grand Prix](../seasons/1969-season-report#round-10-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1423
+📉 **Lowest Elo**: 1423
    *[1971 Round 10 - Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
 
 

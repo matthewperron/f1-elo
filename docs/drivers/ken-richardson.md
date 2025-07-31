@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 1 (3 individual ELO calculations)
+**Total Race Events**: 1 (3 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1462
 
-🏆 **Peak ELO**: 1462
+🏆 **Peak Elo**: 1462
    *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1462
+📉 **Lowest Elo**: 1462
    *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1489
 
-🏆 **Peak ELO**: 1489
+🏆 **Peak Elo**: 1489
    *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1489
+📉 **Lowest Elo**: 1489
    *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 

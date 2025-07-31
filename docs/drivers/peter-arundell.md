@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 19 (57 individual ELO calculations)
+**Total Race Events**: 19 (57 individual Elo calculations)
 
 **DNF Statistics**: 13 DNFs out of 19 races (68.4%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1416
 
-🏆 **Peak ELO**: 1497
+🏆 **Peak Elo**: 1497
    *[1964 Round 3 - Belgian Grand Prix](../seasons/1964-season-report#round-3-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1407
+📉 **Lowest Elo**: 1407
    *[1966 Round 6 - German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1482
 
-🏆 **Peak ELO**: 1482
+🏆 **Peak Elo**: 1482
    *[1964 Round 2 - Dutch Grand Prix](../seasons/1964-season-report#round-2-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1482
+📉 **Lowest Elo**: 1482
    *[1964 Round 2 - Dutch Grand Prix](../seasons/1964-season-report#round-2-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1462
 
-🏆 **Peak ELO**: 1499
+🏆 **Peak Elo**: 1499
    *[1963 Round 2 - Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1459
+📉 **Lowest Elo**: 1459
    *[1966 Round 6 - German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix)*
 
 

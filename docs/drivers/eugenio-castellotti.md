@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 55 (165 individual ELO calculations)
+**Total Race Events**: 55 (165 individual Elo calculations)
 
 **DNF Statistics**: 33 DNFs out of 55 races (60.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1693
 
-🏆 **Peak ELO**: 1693
+🏆 **Peak Elo**: 1693
    *[1957 Round 1 - Argentine Grand Prix](../seasons/1957-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1485
+📉 **Lowest Elo**: 1485
    *[1955 Round 1 - Argentine Grand Prix](../seasons/1955-season-report#round-1-argentine-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1586
 
-🏆 **Peak ELO**: 1586
+🏆 **Peak Elo**: 1586
    *[1956 Round 5 - French Grand Prix](../seasons/1956-season-report#round-5-french-grand-prix)*
 
-📉 **Lowest ELO**: 1524
+📉 **Lowest Elo**: 1524
    *[1955 Round 1 - Argentine Grand Prix](../seasons/1955-season-report#round-1-argentine-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1628
 
-🏆 **Peak ELO**: 1628
+🏆 **Peak Elo**: 1628
    *[1957 Round 1 - Argentine Grand Prix](../seasons/1957-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1512
+📉 **Lowest Elo**: 1512
    *[1955 Round 1 - Argentine Grand Prix](../seasons/1955-season-report#round-1-argentine-grand-prix)*
 
 

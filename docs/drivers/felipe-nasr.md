@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 40 (120 individual ELO calculations)
+**Total Race Events**: 40 (120 individual Elo calculations)
 
 **DNF Statistics**: 6 DNFs out of 40 races (15.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1430
 
-🏆 **Peak ELO**: 1579
+🏆 **Peak Elo**: 1579
    *[2015 Round 6 - Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1374
+📉 **Lowest Elo**: 1374
    *[2016 Round 3 - Chinese Grand Prix](../seasons/2016-season-report#round-3-chinese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1444
 
-🏆 **Peak ELO**: 1625
+🏆 **Peak Elo**: 1625
    *[2015 Round 6 - Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1391
+📉 **Lowest Elo**: 1391
    *[2016 Round 7 - Canadian Grand Prix](../seasons/2016-season-report#round-7-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1441
 
-🏆 **Peak ELO**: 1611
+🏆 **Peak Elo**: 1611
    *[2015 Round 6 - Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1402
+📉 **Lowest Elo**: 1402
    *[2016 Round 6 - Monaco Grand Prix](../seasons/2016-season-report#round-6-monaco-grand-prix)*
 
 

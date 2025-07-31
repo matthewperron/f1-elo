@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 7 (21 individual ELO calculations)
+**Total Race Events**: 7 (21 individual Elo calculations)
 
 **DNF Statistics**: 7 DNFs out of 7 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1550
 
-🏆 **Peak ELO**: 1550
+🏆 **Peak Elo**: 1550
    *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest ELO**: 1526
+📉 **Lowest Elo**: 1526
    *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1515
 
-🏆 **Peak ELO**: 1515
+🏆 **Peak Elo**: 1515
    *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest ELO**: 1508
+📉 **Lowest Elo**: 1508
    *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
 

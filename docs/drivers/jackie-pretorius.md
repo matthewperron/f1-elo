@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 3 (9 individual ELO calculations)
+**Total Race Events**: 3 (9 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1447
 
-🏆 **Peak ELO**: 1487
+🏆 **Peak Elo**: 1487
    *[1971 Round 1 - South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1447
+📉 **Lowest Elo**: 1447
    *[1973 Round 3 - South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1485
 
-🏆 **Peak ELO**: 1496
+🏆 **Peak Elo**: 1496
    *[1971 Round 1 - South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1485
+📉 **Lowest Elo**: 1485
    *[1973 Round 3 - South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
 
 

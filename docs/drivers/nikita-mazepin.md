@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 22 (66 individual ELO calculations)
+**Total Race Events**: 22 (66 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 22 races (13.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1329
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[2021 Round 1 - Bahrain Grand Prix](../seasons/2021-season-report#round-1-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1329
+📉 **Lowest Elo**: 1329
    *[2021 Round 22 - Abu Dhabi Grand Prix](../seasons/2021-season-report#round-22-abu-dhabi-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1482
 
-🏆 **Peak ELO**: 1482
+🏆 **Peak Elo**: 1482
    *[2021 Round 21 - Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
 
-📉 **Lowest ELO**: 1365
+📉 **Lowest Elo**: 1365
    *[2021 Round 17 - United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1436
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[2021 Round 1 - Bahrain Grand Prix](../seasons/2021-season-report#round-1-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1370
+📉 **Lowest Elo**: 1370
    *[2021 Round 17 - United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
 
 

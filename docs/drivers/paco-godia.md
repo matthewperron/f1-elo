@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 99 (297 individual ELO calculations)
+**Total Race Events**: 99 (297 individual Elo calculations)
 
 **DNF Statistics**: 34 DNFs out of 99 races (34.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1442
 
-🏆 **Peak ELO**: 1534
+🏆 **Peak Elo**: 1534
    *[1951 Round 8 - Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1409
+📉 **Lowest Elo**: 1409
    *[1958 Round 6 - French Grand Prix](../seasons/1958-season-report#round-6-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1426
 
-🏆 **Peak ELO**: 1499
+🏆 **Peak Elo**: 1499
    *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1426
+📉 **Lowest Elo**: 1426
    *[1958 Round 6 - French Grand Prix](../seasons/1958-season-report#round-6-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1425
 
-🏆 **Peak ELO**: 1510
+🏆 **Peak Elo**: 1510
    *[1951 Round 8 - Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1423
+📉 **Lowest Elo**: 1423
    *[1958 Round 6 - French Grand Prix](../seasons/1958-season-report#round-6-french-grand-prix)*
 
 

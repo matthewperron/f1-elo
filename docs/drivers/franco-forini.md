@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1444
 
-🏆 **Peak ELO**: 1469
+🏆 **Peak Elo**: 1469
    *[1987 Round 11 - Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1444
+📉 **Lowest Elo**: 1444
    *[1987 Round 12 - Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1483
 
-🏆 **Peak ELO**: 1491
+🏆 **Peak Elo**: 1491
    *[1987 Round 11 - Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1483
+📉 **Lowest Elo**: 1483
    *[1987 Round 12 - Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix)*
 
 

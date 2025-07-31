@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 99 (297 individual ELO calculations)
+**Total Race Events**: 99 (297 individual Elo calculations)
 
 **DNF Statistics**: 11 DNFs out of 99 races (11.1%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1382
 
-🏆 **Peak ELO**: 1758
+🏆 **Peak Elo**: 1758
    *[2010 Round 11 - German Grand Prix](../seasons/2010-season-report#round-11-german-grand-prix)*
 
-📉 **Lowest ELO**: 1382
+📉 **Lowest Elo**: 1382
    *[2021 Round 14 - Italian Grand Prix](../seasons/2021-season-report#round-14-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1448
 
-🏆 **Peak ELO**: 1740
+🏆 **Peak Elo**: 1740
    *[2010 Round 19 - Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)*
 
-📉 **Lowest ELO**: 1448
+📉 **Lowest Elo**: 1448
    *[2021 Round 14 - Italian Grand Prix](../seasons/2021-season-report#round-14-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1429
 
-🏆 **Peak ELO**: 1740
+🏆 **Peak Elo**: 1740
    *[2010 Round 18 - Brazilian Grand Prix](../seasons/2010-season-report#round-18-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1429
+📉 **Lowest Elo**: 1429
    *[2021 Round 14 - Italian Grand Prix](../seasons/2021-season-report#round-14-italian-grand-prix)*
 
 

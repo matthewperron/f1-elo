@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 13 (39 individual ELO calculations)
+**Total Race Events**: 13 (39 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 13 races (7.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1491
 
-🏆 **Peak ELO**: 1499
+🏆 **Peak Elo**: 1499
    *[1993 Round 1 - South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1491
+📉 **Lowest Elo**: 1491
    *[1993 Round 12 - Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1476
 
-🏆 **Peak ELO**: 1485
+🏆 **Peak Elo**: 1485
    *[1993 Round 1 - South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1418
+📉 **Lowest Elo**: 1418
    *[1993 Round 12 - Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1479
 
-🏆 **Peak ELO**: 1489
+🏆 **Peak Elo**: 1489
    *[1993 Round 1 - South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1440
+📉 **Lowest Elo**: 1440
    *[1993 Round 12 - Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
 
 

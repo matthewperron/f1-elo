@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 38 (114 individual ELO calculations)
+**Total Race Events**: 38 (114 individual Elo calculations)
 
 **DNF Statistics**: 12 DNFs out of 38 races (31.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1370
 
-🏆 **Peak ELO**: 1513
+🏆 **Peak Elo**: 1513
    *[1954 Round 5 - British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
 
-📉 **Lowest ELO**: 1370
+📉 **Lowest Elo**: 1370
    *[1960 Round 10 - United States Grand Prix](../seasons/1960-season-report#round-10-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1451
 
-🏆 **Peak ELO**: 1528
+🏆 **Peak Elo**: 1528
    *[1959 Round 4 - French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
 
-📉 **Lowest ELO**: 1451
+📉 **Lowest Elo**: 1451
    *[1960 Round 6 - French Grand Prix](../seasons/1960-season-report#round-6-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1427
 
-🏆 **Peak ELO**: 1502
+🏆 **Peak Elo**: 1502
    *[1959 Round 4 - French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
 
-📉 **Lowest ELO**: 1427
+📉 **Lowest Elo**: 1427
    *[1960 Round 10 - United States Grand Prix](../seasons/1960-season-report#round-10-united-states-grand-prix)*
 
 

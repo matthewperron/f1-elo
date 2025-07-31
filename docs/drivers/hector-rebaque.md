@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 58 (174 individual ELO calculations)
+**Total Race Events**: 58 (174 individual Elo calculations)
 
 **DNF Statistics**: 28 DNFs out of 58 races (48.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1246
 
-🏆 **Peak ELO**: 1467
+🏆 **Peak Elo**: 1467
    *[1977 Round 11 - German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix)*
 
-📉 **Lowest ELO**: 1246
+📉 **Lowest Elo**: 1246
    *[1981 Round 15 - Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1385
 
-🏆 **Peak ELO**: 1489
+🏆 **Peak Elo**: 1489
    *[1978 Round 3 - South African Grand Prix](../seasons/1978-season-report#round-3-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1381
+📉 **Lowest Elo**: 1381
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1343
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak Elo**: 1490
    *[1977 Round 11 - German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix)*
 
-📉 **Lowest ELO**: 1343
+📉 **Lowest Elo**: 1343
    *[1981 Round 15 - Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
 
 

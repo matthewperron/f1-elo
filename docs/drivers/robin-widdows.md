@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 1 (3 individual ELO calculations)
+**Total Race Events**: 1 (3 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1465
 
-🏆 **Peak ELO**: 1465
+🏆 **Peak Elo**: 1465
    *[1968 Round 7 - British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
 
-📉 **Lowest ELO**: 1465
+📉 **Lowest Elo**: 1465
    *[1968 Round 7 - British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1490
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak Elo**: 1490
    *[1968 Round 7 - British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
 
-📉 **Lowest ELO**: 1490
+📉 **Lowest Elo**: 1490
    *[1968 Round 7 - British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
 
 

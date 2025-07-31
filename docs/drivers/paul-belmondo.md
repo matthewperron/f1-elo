@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 7 (21 individual ELO calculations)
+**Total Race Events**: 7 (21 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 7 races (14.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1395
 
-🏆 **Peak ELO**: 1462
+🏆 **Peak Elo**: 1462
    *[1992 Round 4 - Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1383
+📉 **Lowest Elo**: 1383
    *[1992 Round 10 - German Grand Prix](../seasons/1992-season-report#round-10-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1488
 
-🏆 **Peak ELO**: 1488
+🏆 **Peak Elo**: 1488
    *[1992 Round 11 - Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1408
+📉 **Lowest Elo**: 1408
    *[1992 Round 7 - Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1460
 
-🏆 **Peak ELO**: 1470
+🏆 **Peak Elo**: 1470
    *[1992 Round 11 - Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1407
+📉 **Lowest Elo**: 1407
    *[1992 Round 7 - Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
 
 

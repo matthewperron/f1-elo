@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 2 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1437
 
-🏆 **Peak ELO**: 1465
+🏆 **Peak Elo**: 1465
    *[1994 Round 2 - Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix)*
 
-📉 **Lowest ELO**: 1437
+📉 **Lowest Elo**: 1437
    *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1464
 
-🏆 **Peak ELO**: 1464
+🏆 **Peak Elo**: 1464
    *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1464
+📉 **Lowest Elo**: 1464
    *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1456
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak Elo**: 1490
    *[1994 Round 2 - Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix)*
 
-📉 **Lowest ELO**: 1456
+📉 **Lowest Elo**: 1456
    *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
 

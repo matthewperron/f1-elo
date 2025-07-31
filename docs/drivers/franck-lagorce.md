@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 2 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1456
 
-🏆 **Peak ELO**: 1476
+🏆 **Peak Elo**: 1476
    *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1456
+📉 **Lowest Elo**: 1456
    *[1994 Round 16 - Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1457
 
-🏆 **Peak ELO**: 1476
+🏆 **Peak Elo**: 1476
    *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1457
+📉 **Lowest Elo**: 1457
    *[1994 Round 16 - Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1456
 
-🏆 **Peak ELO**: 1476
+🏆 **Peak Elo**: 1476
    *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1456
+📉 **Lowest Elo**: 1456
    *[1994 Round 16 - Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
 
 

@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 1 (3 individual ELO calculations)
+**Total Race Events**: 1 (3 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1484
 
-🏆 **Peak ELO**: 1484
+🏆 **Peak Elo**: 1484
    *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1484
+📉 **Lowest Elo**: 1484
    *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1486
 
-🏆 **Peak ELO**: 1486
+🏆 **Peak Elo**: 1486
    *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1486
+📉 **Lowest Elo**: 1486
    *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1485
 
-🏆 **Peak ELO**: 1485
+🏆 **Peak Elo**: 1485
    *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1485
+📉 **Lowest Elo**: 1485
    *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
 

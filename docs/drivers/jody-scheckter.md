@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 99 (297 individual ELO calculations)
+**Total Race Events**: 99 (297 individual Elo calculations)
 
 **DNF Statistics**: 22 DNFs out of 99 races (22.2%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1478
 
-🏆 **Peak ELO**: 1729
+🏆 **Peak Elo**: 1729
    *[1979 Round 1 - Argentine Grand Prix](../seasons/1979-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1459
+📉 **Lowest Elo**: 1459
    *[1976 Round 6 - Monaco Grand Prix](../seasons/1976-season-report#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1476
 
-🏆 **Peak ELO**: 1622
+🏆 **Peak Elo**: 1622
    *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1380
+📉 **Lowest Elo**: 1380
    *[1974 Round 3 - South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1479
 
-🏆 **Peak ELO**: 1655
+🏆 **Peak Elo**: 1655
    *[1979 Round 1 - Argentine Grand Prix](../seasons/1979-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1436
+📉 **Lowest Elo**: 1436
    *[1974 Round 3 - South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
 
 

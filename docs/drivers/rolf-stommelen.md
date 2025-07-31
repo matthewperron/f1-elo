@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 91 (273 individual ELO calculations)
+**Total Race Events**: 91 (273 individual Elo calculations)
 
 **DNF Statistics**: 24 DNFs out of 91 races (26.4%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1329
 
-🏆 **Peak ELO**: 1704
+🏆 **Peak Elo**: 1704
    *[1971 Round 8 - Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
 
-📉 **Lowest ELO**: 1329
+📉 **Lowest Elo**: 1329
    *[1978 Round 11 - German Grand Prix](../seasons/1978-season-report#round-11-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1353
 
-🏆 **Peak ELO**: 1575
+🏆 **Peak Elo**: 1575
    *[1971 Round 3 - Monaco Grand Prix](../seasons/1971-season-report#round-3-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1353
+📉 **Lowest Elo**: 1353
    *[1978 Round 9 - French Grand Prix](../seasons/1978-season-report#round-9-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1346
 
-🏆 **Peak ELO**: 1598
+🏆 **Peak Elo**: 1598
    *[1971 Round 8 - Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
 
-📉 **Lowest ELO**: 1346
+📉 **Lowest Elo**: 1346
    *[1978 Round 11 - German Grand Prix](../seasons/1978-season-report#round-11-german-grand-prix)*
 
 

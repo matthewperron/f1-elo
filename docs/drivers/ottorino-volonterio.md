@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 31 (93 individual ELO calculations)
+**Total Race Events**: 31 (93 individual Elo calculations)
 
 **DNF Statistics**: 19 DNFs out of 31 races (61.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1448
 
-🏆 **Peak ELO**: 1497
+🏆 **Peak Elo**: 1497
    *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1445
+📉 **Lowest Elo**: 1445
    *[1957 Round 8 - Italian Grand Prix](../seasons/1957-season-report#round-8-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1489
 
-🏆 **Peak ELO**: 1498
+🏆 **Peak Elo**: 1498
    *[1956 Round 7 - German Grand Prix](../seasons/1956-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest ELO**: 1489
+📉 **Lowest Elo**: 1489
    *[1956 Round 7 - German Grand Prix](../seasons/1956-season-report#round-7-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1478
 
-🏆 **Peak ELO**: 1499
+🏆 **Peak Elo**: 1499
    *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1478
+📉 **Lowest Elo**: 1478
    *[1957 Round 8 - Italian Grand Prix](../seasons/1957-season-report#round-8-italian-grand-prix)*
 
 

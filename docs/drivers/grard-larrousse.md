@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 4 (12 individual ELO calculations)
+**Total Race Events**: 4 (12 individual Elo calculations)
 
 **DNF Statistics**: 4 DNFs out of 4 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1537
 
-🏆 **Peak ELO**: 1537
+🏆 **Peak Elo**: 1537
    *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1509
+📉 **Lowest Elo**: 1509
    *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1511
 
-🏆 **Peak ELO**: 1511
+🏆 **Peak Elo**: 1511
    *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1503
+📉 **Lowest Elo**: 1503
    *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
 

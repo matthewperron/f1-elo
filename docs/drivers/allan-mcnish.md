@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 17 (51 individual ELO calculations)
+**Total Race Events**: 17 (51 individual Elo calculations)
 
 **DNF Statistics**: 6 DNFs out of 17 races (35.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1441
 
-🏆 **Peak ELO**: 1479
+🏆 **Peak Elo**: 1479
    *[2002 Round 1 - Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1372
+📉 **Lowest Elo**: 1372
    *[2002 Round 11 - French Grand Prix](../seasons/2002-season-report#round-11-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1518
 
-🏆 **Peak ELO**: 1571
+🏆 **Peak Elo**: 1571
    *[2002 Round 13 - Hungarian Grand Prix](../seasons/2002-season-report#round-13-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1483
+📉 **Lowest Elo**: 1483
    *[2002 Round 1 - Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1495
 
-🏆 **Peak ELO**: 1525
+🏆 **Peak Elo**: 1525
    *[2002 Round 13 - Hungarian Grand Prix](../seasons/2002-season-report#round-13-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1482
+📉 **Lowest Elo**: 1482
    *[2002 Round 1 - Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)*
 
 

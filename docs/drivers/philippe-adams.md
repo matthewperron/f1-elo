@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 2 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1463
 
-🏆 **Peak ELO**: 1480
+🏆 **Peak Elo**: 1480
    *[1994 Round 11 - Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1463
+📉 **Lowest Elo**: 1463
    *[1994 Round 13 - Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1447
 
-🏆 **Peak ELO**: 1471
+🏆 **Peak Elo**: 1471
    *[1994 Round 11 - Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1447
+📉 **Lowest Elo**: 1447
    *[1994 Round 13 - Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1452
 
-🏆 **Peak ELO**: 1474
+🏆 **Peak Elo**: 1474
    *[1994 Round 11 - Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1452
+📉 **Lowest Elo**: 1452
    *[1994 Round 13 - Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
 
 

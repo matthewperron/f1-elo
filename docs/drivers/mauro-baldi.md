@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 24 (72 individual ELO calculations)
+**Total Race Events**: 24 (72 individual Elo calculations)
 
 **DNF Statistics**: 9 DNFs out of 24 races (37.5%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1311
 
-🏆 **Peak ELO**: 1476
+🏆 **Peak Elo**: 1476
    *[1982 Round 12 - German Grand Prix](../seasons/1982-season-report#round-12-german-grand-prix)*
 
-📉 **Lowest ELO**: 1298
+📉 **Lowest Elo**: 1298
    *[1983 Round 10 - German Grand Prix](../seasons/1983-season-report#round-10-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1450
 
-🏆 **Peak ELO**: 1484
+🏆 **Peak Elo**: 1484
    *[1982 Round 9 - Dutch Grand Prix](../seasons/1982-season-report#round-9-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1407
+📉 **Lowest Elo**: 1407
    *[1983 Round 3 - French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1409
 
-🏆 **Peak ELO**: 1491
+🏆 **Peak Elo**: 1491
    *[1982 Round 5 - Belgian Grand Prix](../seasons/1982-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1380
+📉 **Lowest Elo**: 1380
    *[1983 Round 8 - Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
 
 

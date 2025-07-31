@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 1 (3 individual ELO calculations)
+**Total Race Events**: 1 (3 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1532
 
-🏆 **Peak ELO**: 1532
+🏆 **Peak Elo**: 1532
    *[1989 Round 3 - Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1532
+📉 **Lowest Elo**: 1532
    *[1989 Round 3 - Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1510
 
-🏆 **Peak ELO**: 1510
+🏆 **Peak Elo**: 1510
    *[1989 Round 3 - Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1510
+📉 **Lowest Elo**: 1510
    *[1989 Round 3 - Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
 
 

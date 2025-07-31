@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 45 (135 individual ELO calculations)
+**Total Race Events**: 45 (135 individual Elo calculations)
 
 **DNF Statistics**: 27 DNFs out of 45 races (60.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1362
 
-🏆 **Peak ELO**: 1580
+🏆 **Peak Elo**: 1580
    *[1958 Round 5 - Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1340
+📉 **Lowest Elo**: 1340
    *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1505
 
-🏆 **Peak ELO**: 1516
+🏆 **Peak Elo**: 1516
    *[1958 Round 8 - German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
 
-📉 **Lowest ELO**: 1462
+📉 **Lowest Elo**: 1462
    *[1959 Round 8 - Italian Grand Prix](../seasons/1959-season-report#round-8-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1464
 
-🏆 **Peak ELO**: 1524
+🏆 **Peak Elo**: 1524
    *[1958 Round 5 - Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1436
+📉 **Lowest Elo**: 1436
    *[1959 Round 9 - United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
 
 

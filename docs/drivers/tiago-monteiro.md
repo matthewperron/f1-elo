@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 37 (111 individual ELO calculations)
+**Total Race Events**: 37 (111 individual Elo calculations)
 
 **DNF Statistics**: 5 DNFs out of 37 races (13.5%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1516
 
-🏆 **Peak ELO**: 1600
+🏆 **Peak Elo**: 1600
    *[2006 Round 14 - Turkish Grand Prix](../seasons/2006-season-report#round-14-turkish-grand-prix)*
 
-📉 **Lowest ELO**: 1431
+📉 **Lowest Elo**: 1431
    *[2005 Round 5 - Spanish Grand Prix](../seasons/2005-season-report#round-5-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1510
 
-🏆 **Peak ELO**: 1610
+🏆 **Peak Elo**: 1610
    *[2006 Round 5 - European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)*
 
-📉 **Lowest ELO**: 1420
+📉 **Lowest Elo**: 1420
    *[2005 Round 4 - San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1512
 
-🏆 **Peak ELO**: 1597
+🏆 **Peak Elo**: 1597
    *[2006 Round 13 - Hungarian Grand Prix](../seasons/2006-season-report#round-13-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1431
+📉 **Lowest Elo**: 1431
    *[2005 Round 4 - San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
 
 

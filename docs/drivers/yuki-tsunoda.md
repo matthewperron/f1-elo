@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 103 (309 individual ELO calculations)
+**Total Race Events**: 103 (309 individual Elo calculations)
 
 **DNF Statistics**: 13 DNFs out of 103 races (12.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1555
 
-🏆 **Peak ELO**: 1709
+🏆 **Peak Elo**: 1709
    *[2025 Round 1 - Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1293
+📉 **Lowest Elo**: 1293
    *[2021 Round 21 - Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1530
 
-🏆 **Peak ELO**: 1621
+🏆 **Peak Elo**: 1621
    *[2024 Round 8 - Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1354
+📉 **Lowest Elo**: 1354
    *[2021 Round 21 - Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1539
 
-🏆 **Peak ELO**: 1642
+🏆 **Peak Elo**: 1642
    *[2024 Round 8 - Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1336
+📉 **Lowest Elo**: 1336
    *[2021 Round 21 - Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
 
 

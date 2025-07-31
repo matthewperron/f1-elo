@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 7 (21 individual ELO calculations)
+**Total Race Events**: 7 (21 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 7 races (42.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1469
 
-🏆 **Peak ELO**: 1538
+🏆 **Peak Elo**: 1538
    *[1995 Round 9 - German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)*
 
-📉 **Lowest ELO**: 1437
+📉 **Lowest Elo**: 1437
    *[1995 Round 13 - Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1500
 
-🏆 **Peak ELO**: 1521
+🏆 **Peak Elo**: 1521
    *[1995 Round 8 - British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix)*
 
-📉 **Lowest ELO**: 1475
+📉 **Lowest Elo**: 1475
    *[1995 Round 11 - Belgian Grand Prix](../seasons/1995-season-report#round-11-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1491
 
-🏆 **Peak ELO**: 1526
+🏆 **Peak Elo**: 1526
    *[1995 Round 9 - German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)*
 
-📉 **Lowest ELO**: 1467
+📉 **Lowest Elo**: 1467
    *[1995 Round 11 - Belgian Grand Prix](../seasons/1995-season-report#round-11-belgian-grand-prix)*
 
 

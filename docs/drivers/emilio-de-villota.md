@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 5 (15 individual ELO calculations)
+**Total Race Events**: 5 (15 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 5 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1452
 
-🏆 **Peak ELO**: 1482
+🏆 **Peak Elo**: 1482
    *[1977 Round 5 - Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1452
+📉 **Lowest Elo**: 1452
    *[1977 Round 12 - Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1456
 
-🏆 **Peak ELO**: 1479
+🏆 **Peak Elo**: 1479
    *[1977 Round 5 - Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1456
+📉 **Lowest Elo**: 1456
    *[1977 Round 12 - Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1455
 
-🏆 **Peak ELO**: 1480
+🏆 **Peak Elo**: 1480
    *[1977 Round 5 - Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1455
+📉 **Lowest Elo**: 1455
    *[1977 Round 12 - Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
 
 

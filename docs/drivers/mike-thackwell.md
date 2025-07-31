@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 3 (9 individual ELO calculations)
+**Total Race Events**: 3 (9 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 3 races (33.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1498
 
-🏆 **Peak ELO**: 1498
+🏆 **Peak Elo**: 1498
    *[1984 Round 7 - Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix)*
 
-📉 **Lowest ELO**: 1464
+📉 **Lowest Elo**: 1464
    *[1980 Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1464
 
-🏆 **Peak ELO**: 1479
+🏆 **Peak Elo**: 1479
    *[1980 Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
 
-📉 **Lowest ELO**: 1464
+📉 **Lowest Elo**: 1464
    *[1980 Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1474
 
-🏆 **Peak ELO**: 1481
+🏆 **Peak Elo**: 1481
    *[1980 Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
 
-📉 **Lowest ELO**: 1464
+📉 **Lowest Elo**: 1464
    *[1980 Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
 
 

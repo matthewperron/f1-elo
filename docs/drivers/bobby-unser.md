@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1473
 
-🏆 **Peak ELO**: 1481
+🏆 **Peak Elo**: 1481
    *[1968 Round 11 - United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1473
+📉 **Lowest Elo**: 1473
    *[1968 Round 11 - United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1492
 
-🏆 **Peak ELO**: 1494
+🏆 **Peak Elo**: 1494
    *[1968 Round 11 - United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1492
+📉 **Lowest Elo**: 1492
    *[1968 Round 11 - United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
 
 

@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 162 (486 individual ELO calculations)
+**Total Race Events**: 162 (486 individual Elo calculations)
 
 **DNF Statistics**: 48 DNFs out of 162 races (29.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1764
 
-🏆 **Peak ELO**: 1764
+🏆 **Peak Elo**: 1764
    *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
-📉 **Lowest ELO**: 1515
+📉 **Lowest Elo**: 1515
    *[1953 Round 5 - French Grand Prix](../seasons/1953-season-report#round-5-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1652
 
-🏆 **Peak ELO**: 1652
+🏆 **Peak Elo**: 1652
    *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
-📉 **Lowest ELO**: 1513
+📉 **Lowest Elo**: 1513
    *[1953 Round 4 - Belgian Grand Prix](../seasons/1953-season-report#round-4-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1730
 
-🏆 **Peak ELO**: 1730
+🏆 **Peak Elo**: 1730
    *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
-📉 **Lowest ELO**: 1516
+📉 **Lowest Elo**: 1516
    *[1952 Round 3 - Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
 
 

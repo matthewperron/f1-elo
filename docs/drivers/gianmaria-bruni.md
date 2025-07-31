@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 18 (54 individual ELO calculations)
+**Total Race Events**: 18 (54 individual Elo calculations)
 
 **DNF Statistics**: 6 DNFs out of 18 races (33.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1553
 
-🏆 **Peak ELO**: 1604
+🏆 **Peak Elo**: 1604
    *[2004 Round 17 - Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1457
+📉 **Lowest Elo**: 1457
    *[2004 Round 8 - Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1490
 
-🏆 **Peak ELO**: 1576
+🏆 **Peak Elo**: 1576
    *[2004 Round 7 - European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix)*
 
-📉 **Lowest ELO**: 1490
+📉 **Lowest Elo**: 1490
    *[2004 Round 18 - Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1509
 
-🏆 **Peak ELO**: 1561
+🏆 **Peak Elo**: 1561
    *[2004 Round 5 - Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1490
+📉 **Lowest Elo**: 1490
    *[2004 Round 1 - Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix)*
 
 

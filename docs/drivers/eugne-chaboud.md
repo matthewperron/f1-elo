@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 12 (36 individual ELO calculations)
+**Total Race Events**: 12 (36 individual Elo calculations)
 
 **DNF Statistics**: 12 DNFs out of 12 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1460
 
-🏆 **Peak ELO**: 1495
+🏆 **Peak Elo**: 1495
    *[1950 Round 5 - Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1460
+📉 **Lowest Elo**: 1460
    *[1951 Round 4 - French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1488
 
-🏆 **Peak ELO**: 1499
+🏆 **Peak Elo**: 1499
    *[1950 Round 5 - Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1488
+📉 **Lowest Elo**: 1488
    *[1951 Round 4 - French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)*
 
 

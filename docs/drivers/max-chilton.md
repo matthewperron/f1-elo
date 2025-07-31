@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 34 (102 individual ELO calculations)
+**Total Race Events**: 34 (102 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 34 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1356
 
-🏆 **Peak ELO**: 1520
+🏆 **Peak Elo**: 1520
    *[2014 Round 7 - Canadian Grand Prix](../seasons/2014-season-report#round-7-canadian-grand-prix)*
 
-📉 **Lowest ELO**: 1309
+📉 **Lowest Elo**: 1309
    *[2013 Round 13 - Singapore Grand Prix](../seasons/2013-season-report#round-13-singapore-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1404
 
-🏆 **Peak ELO**: 1471
+🏆 **Peak Elo**: 1471
    *[2013 Round 16 - Indian Grand Prix](../seasons/2013-season-report#round-16-indian-grand-prix)*
 
-📉 **Lowest ELO**: 1332
+📉 **Lowest Elo**: 1332
    *[2013 Round 12 - Italian Grand Prix](../seasons/2013-season-report#round-12-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1387
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[2013 Round 1 - Australian Grand Prix](../seasons/2013-season-report#round-1-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1325
+📉 **Lowest Elo**: 1325
    *[2013 Round 12 - Italian Grand Prix](../seasons/2013-season-report#round-12-italian-grand-prix)*
 
 

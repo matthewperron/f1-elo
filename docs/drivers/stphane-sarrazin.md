@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 1 (3 individual ELO calculations)
+**Total Race Events**: 1 (3 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1530
 
-🏆 **Peak ELO**: 1530
+🏆 **Peak Elo**: 1530
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1530
+📉 **Lowest Elo**: 1530
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest Elo**: 1468
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1487
 
-🏆 **Peak ELO**: 1487
+🏆 **Peak Elo**: 1487
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1487
+📉 **Lowest Elo**: 1487
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
 

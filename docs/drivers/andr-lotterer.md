@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 1 (3 individual ELO calculations)
+**Total Race Events**: 1 (3 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1525
 
-🏆 **Peak ELO**: 1525
+🏆 **Peak Elo**: 1525
    *[2014 Round 12 - Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1525
+📉 **Lowest Elo**: 1525
    *[2014 Round 12 - Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1508
 
-🏆 **Peak ELO**: 1508
+🏆 **Peak Elo**: 1508
    *[2014 Round 12 - Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1508
+📉 **Lowest Elo**: 1508
    *[2014 Round 12 - Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
 
 

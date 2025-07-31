@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 200 (600 individual ELO calculations)
+**Total Race Events**: 200 (600 individual Elo calculations)
 
 **DNF Statistics**: 57 DNFs out of 200 races (28.5%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1640
 
-🏆 **Peak ELO**: 1978
+🏆 **Peak Elo**: 1978
    *[1996 Round 10 - British Grand Prix](../seasons/1996-season-report#round-10-british-grand-prix)*
 
-📉 **Lowest ELO**: 1451
+📉 **Lowest Elo**: 1451
    *[1989 Round 8 - British Grand Prix](../seasons/1989-season-report#round-8-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1650
 
-🏆 **Peak ELO**: 1767
+🏆 **Peak Elo**: 1767
    *[1999 Round 16 - Japanese Grand Prix](../seasons/1999-season-report#round-16-japanese-grand-prix)*
 
-📉 **Lowest ELO**: 1513
+📉 **Lowest Elo**: 1513
    *[1989 Round 8 - British Grand Prix](../seasons/1989-season-report#round-8-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1647
 
-🏆 **Peak ELO**: 1791
+🏆 **Peak Elo**: 1791
    *[1996 Round 15 - Portuguese Grand Prix](../seasons/1996-season-report#round-15-portuguese-grand-prix)*
 
-📉 **Lowest ELO**: 1494
+📉 **Lowest Elo**: 1494
    *[1989 Round 8 - British Grand Prix](../seasons/1989-season-report#round-8-british-grand-prix)*
 
 

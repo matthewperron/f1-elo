@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 10 (30 individual ELO calculations)
+**Total Race Events**: 10 (30 individual Elo calculations)
 
 **DNF Statistics**: 5 DNFs out of 10 races (50.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1375
 
-🏆 **Peak ELO**: 1479
+🏆 **Peak Elo**: 1479
    *[1994 Round 1 - Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1375
+📉 **Lowest Elo**: 1375
    *[1994 Round 10 - Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1484
 
-🏆 **Peak ELO**: 1528
+🏆 **Peak Elo**: 1528
    *[1994 Round 4 - Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1481
+📉 **Lowest Elo**: 1481
    *[1994 Round 1 - Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1452
 
-🏆 **Peak ELO**: 1500
+🏆 **Peak Elo**: 1500
    *[1994 Round 4 - Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1452
+📉 **Lowest Elo**: 1452
    *[1994 Round 10 - Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
 
 

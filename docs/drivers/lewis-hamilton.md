@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 369 (1107 individual ELO calculations)
+**Total Race Events**: 369 (1107 individual Elo calculations)
 
 **DNF Statistics**: 21 DNFs out of 369 races (5.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1657
 
-🏆 **Peak ELO**: 2080
+🏆 **Peak Elo**: 2080
    *[2021 Round 15 - Russian Grand Prix](../seasons/2021-season-report#round-15-russian-grand-prix)*
 
-📉 **Lowest ELO**: 1481
+📉 **Lowest Elo**: 1481
    *[2007 Round 2 - Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1593
 
-🏆 **Peak ELO**: 1897
+🏆 **Peak Elo**: 1897
    *[2023 Round 21 - Las Vegas Grand Prix](../seasons/2023-season-report#round-21-las-vegas-grand-prix)*
 
-📉 **Lowest ELO**: 1486
+📉 **Lowest Elo**: 1486
    *[2007 Round 2 - Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1618
 
-🏆 **Peak ELO**: 1902
+🏆 **Peak Elo**: 1902
    *[2018 Round 21 - Abu Dhabi Grand Prix](../seasons/2018-season-report#round-21-abu-dhabi-grand-prix)*
 
-📉 **Lowest ELO**: 1485
+📉 **Lowest Elo**: 1485
    *[2007 Round 2 - Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
 
 

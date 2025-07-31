@@ -1,16 +1,16 @@
 <!-- /docs/index -->
 
-# F1 ELO Rating
+# F1 Elo Rating
 
-A simplistic driver strength calculation for every F1 driver (current and historical) using the chess ELO algorithm.
+A simplistic driver strength calculation for every F1 driver (current and historical) using the chess Elo algorithm.
 
 ## Overview
 
-This project calculates ELO ratings for Formula 1 drivers by comparing their performance against their teammates in both qualifying and race sessions. Each driver receives three separate ELO scores:
+This project calculates Elo ratings for Formula 1 drivers by comparing their performance against their teammates in both qualifying and race sessions. Each driver receives three separate Elo scores:
 
-- **Qualifying ELO**: Based on qualifying position comparisons with teammates
-- **Race ELO**: Based on race finishing position comparisons with teammates  
-- **Global ELO**: Combined rating using 30% qualifying performance + 70% race performance
+- **Qualifying Elo**: Based on qualifying position comparisons with teammates
+- **Race Elo**: Based on race finishing position comparisons with teammates  
+- **Global Elo**: Combined rating using 30% qualifying performance + 70% race performance
 
 ### Project info & methodology
 
@@ -22,7 +22,7 @@ This project calculates ELO ratings for Formula 1 drivers by comparing their per
 
 ## Detailed Season Reports
 
-Race-by-race ELO changes and detailed analysis for each season:
+Race-by-race Elo changes and detailed analysis for each season:
 
 | Decades | Season Reports |
 |---------|----------------|
@@ -38,10 +38,10 @@ Race-by-race ELO changes and detailed analysis for each season:
 *Each season report contains the final ELO table plus detailed race-by-race analysis showing how each driver's ELO changed after every qualifying session and race.*
 
 <!-- ELO_RESULTS_START -->
-### ELO Ratings (2025 Season)
+### Elo Ratings (2025 Season)
 *Last updated: 2025-07-31*
 
-| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
+| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Elo |
 |------|--------------|--------|-------------|----------------|----------|-----|
 | 1 | 1961 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](drivers/max-verstappen) | Red Bull | 1963 | 2045 | 2021 |
 | 2 | 1850 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](drivers/george-russell) | Mercedes | 1953 | 1872 | 1893 |
@@ -72,9 +72,9 @@ Race-by-race ELO changes and detailed analysis for each season:
 <!-- TOP30_TABLES_START -->
 ## [Top 30 F1 Drivers of All Time](peak-elo) - Race Performance
 
-Based on peak **Race ELO** ratings (race finishing positions vs teammates).
+Based on peak **Race Elo** ratings (race finishing positions vs teammates).
 
-| Rank | Driver | Peak ELO | Constructor | Season | Race | Teammate | Teammate ELO |
+| Rank | Driver | Peak Elo | Constructor | Season | Race | Teammate | Teammate Elo |
 |------|--------|----------|-------------|--------|------|----------|--------------||
 | 1 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen | **2045** | Red Bull|  2025 | [Round 13: Belgian Grand Prix](./seasons/2025-season-report#round-13-belgian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson | 1446 |
 | 2 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso | **2018** | McLaren|  2015 | [Round 11: Belgian Grand Prix](./seasons/2015-season-report#round-11-belgian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button | 1671 |
@@ -110,9 +110,9 @@ Based on peak **Race ELO** ratings (race finishing positions vs teammates).
 
 ## [Top 30 F1 Drivers of All Time](peak-elo) - Qualifying Performance
 
-Based on peak **Qualifying ELO** ratings (qualifying positions vs teammates).
+Based on peak **Qualifying Elo** ratings (qualifying positions vs teammates).
 
-| Rank | Driver | Peak ELO | Constructor | Season | Race | Teammate | Teammate ELO |
+| Rank | Driver | Peak Elo | Constructor | Season | Race | Teammate | Teammate Elo |
 |------|--------|----------|-------------|--------|------|----------|--------------||
 | 1 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna | **2287** | McLaren|  1991 | [Round 12: Italian Grand Prix](./seasons/1991-season-report#round-12-italian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger | 1841 |
 | 2 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher | **2187** | Ferrari|  2001 | [Round 14: Belgian Grand Prix](./seasons/2001-season-report#round-14-belgian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello | 1687 |
@@ -148,9 +148,9 @@ Based on peak **Qualifying ELO** ratings (qualifying positions vs teammates).
 
 ## [Top 30 F1 Drivers of All Time](peak-elo) - Overall Performance
 
-Based on peak **Global ELO** ratings (30% qualifying + 70% race performance vs teammates).
+Based on peak **Global Elo** ratings (30% qualifying + 70% race performance vs teammates).
 
-| Rank | Driver | Peak ELO | Constructor | Season | Race | Teammate | Teammate ELO |
+| Rank | Driver | Peak Elo | Constructor | Season | Race | Teammate | Teammate Elo |
 |------|--------|----------|-------------|--------|------|----------|--------------||
 | 1 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen | **2021** | Red Bull|  2025 | [Round 13: Belgian Grand Prix](./seasons/2025-season-report#round-13-belgian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson | 1412 |
 | 2 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso | **1993** | Ferrari|  2012 | [Round 11: Hungarian Grand Prix](./seasons/2012-season-report#round-11-hungarian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa | 1530 |
@@ -185,7 +185,7 @@ Based on peak **Global ELO** ratings (30% qualifying + 70% race performance vs t
 
 
 
-*Based on peak ELO ratings achieved during their F1 careers. Last updated: 2025-07-31*
+*Based on peak Elo ratings achieved during their F1 careers. Last updated: 2025-07-31*
 <!-- TOP30_TABLES_END -->
 
 ## About This Project

@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 3 (9 individual ELO calculations)
+**Total Race Events**: 3 (9 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1469
 
-🏆 **Peak ELO**: 1488
+🏆 **Peak Elo**: 1488
    *[1963 Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1469
+📉 **Lowest Elo**: 1469
    *[1963 Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1491
 
-🏆 **Peak ELO**: 1496
+🏆 **Peak Elo**: 1496
    *[1963 Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1491
+📉 **Lowest Elo**: 1491
    *[1963 Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
 
 

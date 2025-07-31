@@ -1,18 +1,18 @@
-# F1 Driver Peak ELO Ratings
+# F1 Driver Peak Elo Ratings
 
-This file contains the highest ELO ratings ever achieved by each Formula 1 driver across three categories:
+This file contains the highest Elo ratings ever achieved by each Formula 1 driver across three categories:
 
 ## Quick Navigation
 
-- [Overall ELO Rankings](#overall-elo-rankings) - Combined performance (30% qualifying + 70% race)
-- [Qualifying ELO Rankings](#qualifying-elo-rankings) - Grid position performance vs teammates
-- [Race ELO Rankings](#race-elo-rankings) - Finishing position performance vs teammates
+- [Peak Overall Elo Rankings](#peak-overall-elo-rankings) - Combined performance (30% qualifying + 70% race)
+- [Peak Qualifying Elo Rankings](#peak-qualifying-elo-rankings) - Grid position performance vs teammates
+- [Peak Race Elo Rankings](#peak-race-elo-rankings) - Finishing position performance vs teammates
 
-## Overall ELO Rankings
+## Peak Overall Elo Rankings
 
-Combines qualifying (30%) and race (70%) ELO changes with weighted calculation.
+This list ranks drivers by **PEAK** Global Elo ratings. It combines qualifying (30%) and race (70%) ELO changes with weighted calculation.
 
-| Rank | Driver | Peak ELO | Constructor | Date | Season | Race | Teammate | Teammate ELO |
+| Rank | Driver | Peak Elo | Constructor | Date | Season | Race | Teammate | Teammate Elo |
 |------|--------|----------|-------------|------|--------|------|----------|--------------|
 | 1 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](./drivers/max-verstappen) | **2021** | Red Bull | 2025-07-27 | 2025 | [Round 13: Belgian Grand Prix](./seasons/2025-season-report#round-13-belgian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson | 1412 |
 | 2 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](./drivers/fernando-alonso) | **1993** | Ferrari | 2012-07-29 | 2012 | [Round 11: Hungarian Grand Prix](./seasons/2012-season-report#round-11-hungarian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa | 1530 |
@@ -783,11 +783,11 @@ Combines qualifying (30%) and race (70%) ELO changes with weighted calculation.
 | 767 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Jan Magnussen](./drivers/jan-magnussen) | **1466** | McLaren | 1995-10-22 | 1995 | [Round 15: Pacific Grand Prix](./seasons/1995-season-report#round-15-pacific-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mark Blundell | 1509 |
 | 768 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti](./drivers/emanuele-naspetti) | **1465** | March | 1992-08-30 | 1992 | [Round 12: Belgian Grand Prix](./seasons/1992-season-report#round-12-belgian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger | 1507 |
 
-## Qualifying ELO Rankings
+## Peak Qualifying Elo Rankings
 
 Based solely on qualifying performance (grid positions) compared to teammates.
 
-| Rank | Driver | Peak ELO | Constructor | Date | Season | Race | Teammate | Teammate ELO |
+| Rank | Driver | Peak Elo | Constructor | Date | Season | Race | Teammate | Teammate Elo |
 |------|--------|----------|-------------|------|--------|------|----------|--------------|
 | 1 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](./drivers/ayrton-senna) | **2287** | McLaren | 1991-09-08 | 1991 | [Round 12: Italian Grand Prix](./seasons/1991-season-report#round-12-italian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger | 1841 |
 | 2 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](./drivers/michael-schumacher) | **2187** | Ferrari | 2001-09-02 | 2001 | [Round 14: Belgian Grand Prix](./seasons/2001-season-report#round-14-belgian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello | 1687 |
@@ -1558,11 +1558,11 @@ Based solely on qualifying performance (grid positions) compared to teammates.
 | 767 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mike Fisher](./drivers/mike-fisher) | **1461** | Lotus-BRM | 1967-10-22 | 1967 | [Round 11: Mexican Grand Prix](./seasons/1967-season-report#round-11-mexican-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jim Clark | 1972 |
 | 768 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Jan Magnussen](./drivers/jan-magnussen) | **1461** | McLaren | 1995-10-22 | 1995 | [Round 15: Pacific Grand Prix](./seasons/1995-season-report#round-15-pacific-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mark Blundell | 1458 |
 
-## Race ELO Rankings
+## Peak Race Elo Rankings
 
 Based solely on race finishing positions compared to teammates.
 
-| Rank | Driver | Peak ELO | Constructor | Date | Season | Race | Teammate | Teammate ELO |
+| Rank | Driver | Peak Elo | Constructor | Date | Season | Race | Teammate | Teammate Elo |
 |------|--------|----------|-------------|------|--------|------|----------|--------------|
 | 1 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](./drivers/max-verstappen) | **2045** | Red Bull | 2025-07-27 | 2025 | [Round 13: Belgian Grand Prix](./seasons/2025-season-report#round-13-belgian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson | 1446 |
 | 2 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](./drivers/fernando-alonso) | **2018** | McLaren | 2015-08-23 | 2015 | [Round 11: Belgian Grand Prix](./seasons/2015-season-report#round-11-belgian-grand-prix) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button | 1671 |
@@ -2335,17 +2335,17 @@ Based solely on race finishing positions compared to teammates.
 
 ## Statistics
 
-### Global ELO
+### Global Elo
 - **Total drivers tracked**: 768
 - **Highest peak**: 2021 (<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen)
 - **Average peak**: 1547
 
-### Qualifying ELO
+### Qualifying Elo
 - **Total drivers tracked**: 768
 - **Highest peak**: 2287 (<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna)
 - **Average peak**: 1574
 
-### Race ELO
+### Race Elo
 - **Total drivers tracked**: 768
 - **Highest peak**: 2045 (<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen)
 - **Average peak**: 1546

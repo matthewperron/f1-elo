@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1506
 
-🏆 **Peak ELO**: 1506
+🏆 **Peak Elo**: 1506
    *[1978 Round 2 - Brazilian Grand Prix](../seasons/1978-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest Elo**: 1468
    *[1978 Round 1 - Argentine Grand Prix](../seasons/1978-season-report#round-1-argentine-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1502
 
-🏆 **Peak ELO**: 1502
+🏆 **Peak Elo**: 1502
    *[1978 Round 2 - Brazilian Grand Prix](../seasons/1978-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1490
+📉 **Lowest Elo**: 1490
    *[1978 Round 1 - Argentine Grand Prix](../seasons/1978-season-report#round-1-argentine-grand-prix)*
 
 

@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 169 (507 individual ELO calculations)
+**Total Race Events**: 169 (507 individual Elo calculations)
 
 **DNF Statistics**: 20 DNFs out of 169 races (11.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1588
 
-🏆 **Peak ELO**: 1770
+🏆 **Peak Elo**: 1770
    *[2022 Round 3 - Australian Grand Prix](../seasons/2022-season-report#round-3-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1363
+📉 **Lowest Elo**: 1363
    *[2017 Round 10 - British Grand Prix](../seasons/2017-season-report#round-10-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1555
 
-🏆 **Peak ELO**: 1756
+🏆 **Peak Elo**: 1756
    *[2022 Round 6 - Spanish Grand Prix](../seasons/2022-season-report#round-6-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1482
+📉 **Lowest Elo**: 1482
    *[2020 Round 10 - Russian Grand Prix](../seasons/2020-season-report#round-10-russian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1563
 
-🏆 **Peak ELO**: 1749
+🏆 **Peak Elo**: 1749
    *[2022 Round 6 - Spanish Grand Prix](../seasons/2022-season-report#round-6-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1473
+📉 **Lowest Elo**: 1473
    *[2017 Round 9 - Austrian Grand Prix](../seasons/2017-season-report#round-9-austrian-grand-prix)*
 
 

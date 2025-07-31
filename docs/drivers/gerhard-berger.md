@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 206 (618 individual ELO calculations)
+**Total Race Events**: 206 (618 individual Elo calculations)
 
 **DNF Statistics**: 68 DNFs out of 206 races (33.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1821
 
-🏆 **Peak ELO**: 2040
+🏆 **Peak Elo**: 2040
    *[1990 Round 7 - French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix)*
 
-📉 **Lowest ELO**: 1438
+📉 **Lowest Elo**: 1438
    *[1985 Round 6 - Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1689
 
-🏆 **Peak ELO**: 1759
+🏆 **Peak Elo**: 1759
    *[1996 Round 5 - San Marino Grand Prix](../seasons/1996-season-report#round-5-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1429
+📉 **Lowest Elo**: 1429
    *[1985 Round 7 - French Grand Prix](../seasons/1985-season-report#round-7-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1730
 
-🏆 **Peak ELO**: 1773
+🏆 **Peak Elo**: 1773
    *[1995 Round 1 - Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1442
+📉 **Lowest Elo**: 1442
    *[1985 Round 6 - Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
 
 

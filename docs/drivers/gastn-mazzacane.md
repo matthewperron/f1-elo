@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 21 (63 individual ELO calculations)
+**Total Race Events**: 21 (63 individual Elo calculations)
 
 **DNF Statistics**: 7 DNFs out of 21 races (33.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1362
 
-🏆 **Peak ELO**: 1494
+🏆 **Peak Elo**: 1494
    *[2000 Round 3 - San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1362
+📉 **Lowest Elo**: 1362
    *[2001 Round 4 - San Marino Grand Prix](../seasons/2001-season-report#round-4-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1390
 
-🏆 **Peak ELO**: 1531
+🏆 **Peak Elo**: 1531
    *[2000 Round 3 - San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1390
+📉 **Lowest Elo**: 1390
    *[2001 Round 2 - Malaysian Grand Prix](../seasons/2001-season-report#round-2-malaysian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1381
 
-🏆 **Peak ELO**: 1520
+🏆 **Peak Elo**: 1520
    *[2000 Round 3 - San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1381
+📉 **Lowest Elo**: 1381
    *[2001 Round 4 - San Marino Grand Prix](../seasons/2001-season-report#round-4-san-marino-grand-prix)*
 
 

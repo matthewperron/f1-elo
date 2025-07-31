@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 66 (198 individual ELO calculations)
+**Total Race Events**: 66 (198 individual Elo calculations)
 
 **DNF Statistics**: 35 DNFs out of 66 races (53.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1508
 
-🏆 **Peak ELO**: 1702
+🏆 **Peak Elo**: 1702
    *[1971 Round 2 - Spanish Grand Prix](../seasons/1971-season-report#round-2-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1480
+📉 **Lowest Elo**: 1480
    *[1972 Round 9 - Austrian Grand Prix](../seasons/1972-season-report#round-9-austrian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1465
 
-🏆 **Peak ELO**: 1493
+🏆 **Peak Elo**: 1493
    *[1970 Round 5 - Dutch Grand Prix](../seasons/1970-season-report#round-5-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1426
+📉 **Lowest Elo**: 1426
    *[1972 Round 9 - Austrian Grand Prix](../seasons/1972-season-report#round-9-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1477
 
-🏆 **Peak ELO**: 1542
+🏆 **Peak Elo**: 1542
    *[1970 Round 13 - Mexican Grand Prix](../seasons/1970-season-report#round-13-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1448
+📉 **Lowest Elo**: 1448
    *[1972 Round 9 - Austrian Grand Prix](../seasons/1972-season-report#round-9-austrian-grand-prix)*
 
 

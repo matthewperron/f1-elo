@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 95 (285 individual ELO calculations)
+**Total Race Events**: 95 (285 individual Elo calculations)
 
 **DNF Statistics**: 33 DNFs out of 95 races (34.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1508
 
-🏆 **Peak ELO**: 1556
+🏆 **Peak Elo**: 1556
    *[1994 Round 10 - Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1300
+📉 **Lowest Elo**: 1300
    *[1996 Round 9 - French Grand Prix](../seasons/1996-season-report#round-9-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1378
 
-🏆 **Peak ELO**: 1589
+🏆 **Peak Elo**: 1589
    *[1993 Round 11 - Hungarian Grand Prix](../seasons/1993-season-report#round-11-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1340
+📉 **Lowest Elo**: 1340
    *[1997 Round 3 - Argentine Grand Prix](../seasons/1997-season-report#round-3-argentine-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1420
 
-🏆 **Peak ELO**: 1561
+🏆 **Peak Elo**: 1561
    *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1341
+📉 **Lowest Elo**: 1341
    *[1996 Round 9 - French Grand Prix](../seasons/1996-season-report#round-9-french-grand-prix)*
 
 

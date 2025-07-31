@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 283 (849 individual ELO calculations)
+**Total Race Events**: 283 (849 individual Elo calculations)
 
 **DNF Statistics**: 25 DNFs out of 283 races (8.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1544
 
-🏆 **Peak ELO**: 1801
+🏆 **Peak Elo**: 1801
    *[2016 Round 5 - Spanish Grand Prix](../seasons/2016-season-report#round-5-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1403
+📉 **Lowest Elo**: 1403
    *[2018 Round 10 - British Grand Prix](../seasons/2018-season-report#round-10-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1433
 
-🏆 **Peak ELO**: 1744
+🏆 **Peak Elo**: 1744
    *[2017 Round 5 - Spanish Grand Prix](../seasons/2017-season-report#round-5-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1433
+📉 **Lowest Elo**: 1433
    *[2024 Round 22 - Las Vegas Grand Prix](../seasons/2024-season-report#round-22-las-vegas-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1467
 
-🏆 **Peak ELO**: 1719
+🏆 **Peak Elo**: 1719
    *[2017 Round 9 - Austrian Grand Prix](../seasons/2017-season-report#round-9-austrian-grand-prix)*
 
-📉 **Lowest ELO**: 1453
+📉 **Lowest Elo**: 1453
    *[2024 Round 13 - Hungarian Grand Prix](../seasons/2024-season-report#round-13-hungarian-grand-prix)*
 
 

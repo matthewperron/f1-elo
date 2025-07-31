@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 1 (3 individual ELO calculations)
+**Total Race Events**: 1 (3 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1531
 
-🏆 **Peak ELO**: 1531
+🏆 **Peak Elo**: 1531
    *[1967 Round 7 - German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest ELO**: 1531
+📉 **Lowest Elo**: 1531
    *[1967 Round 7 - German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1509
 
-🏆 **Peak ELO**: 1509
+🏆 **Peak Elo**: 1509
    *[1967 Round 7 - German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest ELO**: 1509
+📉 **Lowest Elo**: 1509
    *[1967 Round 7 - German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
 
 

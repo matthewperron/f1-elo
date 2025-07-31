@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 17 (51 individual ELO calculations)
+**Total Race Events**: 17 (51 individual Elo calculations)
 
 **DNF Statistics**: 10 DNFs out of 17 races (58.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1448
 
-🏆 **Peak ELO**: 1583
+🏆 **Peak Elo**: 1583
    *[1984 Round 5 - French Grand Prix](../seasons/1984-season-report#round-5-french-grand-prix)*
 
-📉 **Lowest ELO**: 1437
+📉 **Lowest Elo**: 1437
    *[1985 Round 8 - British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1536
 
-🏆 **Peak ELO**: 1553
+🏆 **Peak Elo**: 1553
    *[1985 Round 6 - Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
 
-📉 **Lowest ELO**: 1508
+📉 **Lowest Elo**: 1508
    *[1985 Round 8 - British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1509
 
-🏆 **Peak ELO**: 1537
+🏆 **Peak Elo**: 1537
    *[1985 Round 6 - Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
 
-📉 **Lowest ELO**: 1482
+📉 **Lowest Elo**: 1482
    *[1984 Round 13 - Dutch Grand Prix](../seasons/1984-season-report#round-13-dutch-grand-prix)*
 
 

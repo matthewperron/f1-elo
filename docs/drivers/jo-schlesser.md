@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 2 races (50.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1464
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[1967 Round 7 - German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest ELO**: 1464
+📉 **Lowest Elo**: 1464
    *[1968 Round 6 - French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1484
 
-🏆 **Peak ELO**: 1484
+🏆 **Peak Elo**: 1484
    *[1968 Round 6 - French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
 
-📉 **Lowest ELO**: 1484
+📉 **Lowest Elo**: 1484
    *[1968 Round 6 - French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1478
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak Elo**: 1490
    *[1967 Round 7 - German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest ELO**: 1478
+📉 **Lowest Elo**: 1478
    *[1968 Round 6 - French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
 
 

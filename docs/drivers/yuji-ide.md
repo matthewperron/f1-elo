@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 4 (12 individual ELO calculations)
+**Total Race Events**: 4 (12 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 4 races (75.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1391
 
-🏆 **Peak ELO**: 1464
+🏆 **Peak Elo**: 1464
    *[2006 Round 1 - Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1391
+📉 **Lowest Elo**: 1391
    *[2006 Round 4 - San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1450
 
-🏆 **Peak ELO**: 1450
+🏆 **Peak Elo**: 1450
    *[2006 Round 3 - Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1450
+📉 **Lowest Elo**: 1450
    *[2006 Round 3 - Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1432
 
-🏆 **Peak ELO**: 1489
+🏆 **Peak Elo**: 1489
    *[2006 Round 1 - Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1432
+📉 **Lowest Elo**: 1432
    *[2006 Round 4 - San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)*
 
 

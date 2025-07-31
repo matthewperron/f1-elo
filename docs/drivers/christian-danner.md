@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 31 (93 individual ELO calculations)
+**Total Race Events**: 31 (93 individual Elo calculations)
 
 **DNF Statistics**: 17 DNFs out of 31 races (54.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1469
 
-🏆 **Peak ELO**: 1546
+🏆 **Peak Elo**: 1546
    *[1986 Round 11 - Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1416
+📉 **Lowest Elo**: 1416
    *[1986 Round 7 - Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1416
 
-🏆 **Peak ELO**: 1478
+🏆 **Peak Elo**: 1478
    *[1986 Round 13 - Italian Grand Prix](../seasons/1986-season-report#round-13-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1416
+📉 **Lowest Elo**: 1416
    *[1987 Round 2 - San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1432
 
-🏆 **Peak ELO**: 1514
+🏆 **Peak Elo**: 1514
    *[1986 Round 11 - Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1419
+📉 **Lowest Elo**: 1419
    *[1987 Round 10 - Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
 
 

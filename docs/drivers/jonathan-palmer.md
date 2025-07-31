@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 59 (177 individual ELO calculations)
+**Total Race Events**: 59 (177 individual Elo calculations)
 
 **DNF Statistics**: 20 DNFs out of 59 races (33.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1415
 
-🏆 **Peak ELO**: 1723
+🏆 **Peak Elo**: 1723
    *[1987 Round 1 - Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1415
+📉 **Lowest Elo**: 1415
    *[1989 Round 15 - Japanese Grand Prix](../seasons/1989-season-report#round-15-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1549
 
-🏆 **Peak ELO**: 1667
+🏆 **Peak Elo**: 1667
    *[1989 Round 1 - Brazilian Grand Prix](../seasons/1989-season-report#round-1-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1497
+📉 **Lowest Elo**: 1497
    *[1987 Round 8 - German Grand Prix](../seasons/1987-season-report#round-8-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1506
 
-🏆 **Peak ELO**: 1661
+🏆 **Peak Elo**: 1661
    *[1989 Round 1 - Brazilian Grand Prix](../seasons/1989-season-report#round-1-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1489
+📉 **Lowest Elo**: 1489
    *[1984 Round 1 - Brazilian Grand Prix](../seasons/1984-season-report#round-1-brazilian-grand-prix)*
 
 

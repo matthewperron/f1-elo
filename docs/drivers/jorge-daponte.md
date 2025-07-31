@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 14 (42 individual ELO calculations)
+**Total Race Events**: 14 (42 individual Elo calculations)
 
 **DNF Statistics**: 14 DNFs out of 14 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1453
 
-🏆 **Peak ELO**: 1498
+🏆 **Peak Elo**: 1498
    *[1954 Round 1 - Argentine Grand Prix](../seasons/1954-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1453
+📉 **Lowest Elo**: 1453
    *[1954 Round 8 - Italian Grand Prix](../seasons/1954-season-report#round-8-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1486
 
-🏆 **Peak ELO**: 1499
+🏆 **Peak Elo**: 1499
    *[1954 Round 1 - Argentine Grand Prix](../seasons/1954-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1486
+📉 **Lowest Elo**: 1486
    *[1954 Round 8 - Italian Grand Prix](../seasons/1954-season-report#round-8-italian-grand-prix)*
 
 

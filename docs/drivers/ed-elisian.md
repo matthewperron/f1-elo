@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 67 (201 individual ELO calculations)
+**Total Race Events**: 67 (201 individual Elo calculations)
 
 **DNF Statistics**: 64 DNFs out of 67 races (95.5%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1483
 
-🏆 **Peak ELO**: 1492
+🏆 **Peak Elo**: 1492
    *[1958 Round 4 - Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)*
 
-📉 **Lowest ELO**: 1437
+📉 **Lowest Elo**: 1437
    *[1956 Round 3 - Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1469
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak Elo**: 1490
    *[1958 Round 4 - Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)*
 
-📉 **Lowest ELO**: 1469
+📉 **Lowest Elo**: 1469
    *[1958 Round 4 - Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1478
 
-🏆 **Peak ELO**: 1495
+🏆 **Peak Elo**: 1495
    *[1957 Round 3 - Indianapolis 500](../seasons/1957-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest ELO**: 1478
+📉 **Lowest Elo**: 1478
    *[1958 Round 4 - Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)*
 
 

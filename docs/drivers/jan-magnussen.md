@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 25 (75 individual ELO calculations)
+**Total Race Events**: 25 (75 individual Elo calculations)
 
 **DNF Statistics**: 11 DNFs out of 25 races (44.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1332
 
-🏆 **Peak ELO**: 1461
+🏆 **Peak Elo**: 1461
    *[1995 Round 15 - Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
 
-📉 **Lowest ELO**: 1332
+📉 **Lowest Elo**: 1332
    *[1998 Round 7 - Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1374
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[1995 Round 15 - Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
 
-📉 **Lowest ELO**: 1374
+📉 **Lowest Elo**: 1374
    *[1998 Round 7 - Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1361
 
-🏆 **Peak ELO**: 1466
+🏆 **Peak Elo**: 1466
    *[1995 Round 15 - Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
 
-📉 **Lowest ELO**: 1361
+📉 **Lowest Elo**: 1361
    *[1998 Round 7 - Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
 
 

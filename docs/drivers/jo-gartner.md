@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 7 (21 individual ELO calculations)
+**Total Race Events**: 7 (21 individual Elo calculations)
 
 **DNF Statistics**: 4 DNFs out of 7 races (57.1%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1399
 
-🏆 **Peak ELO**: 1487
+🏆 **Peak Elo**: 1487
    *[1984 Round 12 - Austrian Grand Prix](../seasons/1984-season-report#round-12-austrian-grand-prix)*
 
-📉 **Lowest ELO**: 1399
+📉 **Lowest Elo**: 1399
    *[1984 Round 16 - Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1465
 
-🏆 **Peak ELO**: 1465
+🏆 **Peak Elo**: 1465
    *[1984 Round 10 - British Grand Prix](../seasons/1984-season-report#round-10-british-grand-prix)*
 
-📉 **Lowest ELO**: 1465
+📉 **Lowest Elo**: 1465
    *[1984 Round 10 - British Grand Prix](../seasons/1984-season-report#round-10-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1445
 
-🏆 **Peak ELO**: 1472
+🏆 **Peak Elo**: 1472
    *[1984 Round 12 - Austrian Grand Prix](../seasons/1984-season-report#round-12-austrian-grand-prix)*
 
-📉 **Lowest ELO**: 1445
+📉 **Lowest Elo**: 1445
    *[1984 Round 16 - Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix)*
 
 

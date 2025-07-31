@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 3 (9 individual ELO calculations)
+**Total Race Events**: 3 (9 individual Elo calculations)
 
 **DNF Statistics**: 0 DNFs out of 3 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1418
 
-🏆 **Peak ELO**: 1467
+🏆 **Peak Elo**: 1467
    *[1992 Round 2 - Mexican Grand Prix](../seasons/1992-season-report#round-2-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1418
+📉 **Lowest Elo**: 1418
    *[1992 Round 8 - French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[1992 Round 4 - Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest Elo**: 1468
    *[1992 Round 4 - Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1453
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak Elo**: 1490
    *[1992 Round 2 - Mexican Grand Prix](../seasons/1992-season-report#round-2-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1453
+📉 **Lowest Elo**: 1453
    *[1992 Round 8 - French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix)*
 
 

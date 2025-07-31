@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 247 (741 individual ELO calculations)
+**Total Race Events**: 247 (741 individual Elo calculations)
 
 **DNF Statistics**: 23 DNFs out of 247 races (9.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1771
 
-🏆 **Peak ELO**: 1907
+🏆 **Peak Elo**: 1907
    *[2018 Round 3 - Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)*
 
-📉 **Lowest ELO**: 1507
+📉 **Lowest Elo**: 1507
    *[2013 Round 3 - Chinese Grand Prix](../seasons/2013-season-report#round-3-chinese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1527
 
-🏆 **Peak ELO**: 1701
+🏆 **Peak Elo**: 1701
    *[2018 Round 3 - Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)*
 
-📉 **Lowest ELO**: 1410
+📉 **Lowest Elo**: 1410
    *[2016 Round 3 - Chinese Grand Prix](../seasons/2016-season-report#round-3-chinese-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1596
 
-🏆 **Peak ELO**: 1761
+🏆 **Peak Elo**: 1761
    *[2018 Round 3 - Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)*
 
-📉 **Lowest ELO**: 1501
+📉 **Lowest Elo**: 1501
    *[2013 Round 17 - Abu Dhabi Grand Prix](../seasons/2013-season-report#round-17-abu-dhabi-grand-prix)*
 
 

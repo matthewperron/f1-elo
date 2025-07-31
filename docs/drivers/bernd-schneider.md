@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 6 (18 individual ELO calculations)
+**Total Race Events**: 6 (18 individual Elo calculations)
 
 **DNF Statistics**: 4 DNFs out of 6 races (66.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1575
 
-🏆 **Peak ELO**: 1575
+🏆 **Peak Elo**: 1575
    *[1988 Round 9 - German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
 
-📉 **Lowest ELO**: 1528
+📉 **Lowest Elo**: 1528
    *[1988 Round 11 - Belgian Grand Prix](../seasons/1988-season-report#round-11-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1498
 
-🏆 **Peak ELO**: 1538
+🏆 **Peak Elo**: 1538
    *[1988 Round 9 - German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
 
-📉 **Lowest ELO**: 1498
+📉 **Lowest Elo**: 1498
    *[1990 Round 1 - United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1522
 
-🏆 **Peak ELO**: 1549
+🏆 **Peak Elo**: 1549
    *[1988 Round 9 - German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
 
-📉 **Lowest ELO**: 1509
+📉 **Lowest Elo**: 1509
    *[1988 Round 4 - Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)*
 
 

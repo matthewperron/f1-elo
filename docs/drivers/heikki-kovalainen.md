@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 112 (336 individual ELO calculations)
+**Total Race Events**: 112 (336 individual Elo calculations)
 
 **DNF Statistics**: 15 DNFs out of 112 races (13.4%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1572
 
-🏆 **Peak ELO**: 1802
+🏆 **Peak Elo**: 1802
    *[2012 Round 1 - Australian Grand Prix](../seasons/2012-season-report#round-1-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1480
+📉 **Lowest Elo**: 1480
    *[2007 Round 1 - Australian Grand Prix](../seasons/2007-season-report#round-1-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1519
 
-🏆 **Peak ELO**: 1675
+🏆 **Peak Elo**: 1675
    *[2008 Round 3 - Bahrain Grand Prix](../seasons/2008-season-report#round-3-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1424
+📉 **Lowest Elo**: 1424
    *[2007 Round 3 - Bahrain Grand Prix](../seasons/2007-season-report#round-3-bahrain-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1534
 
-🏆 **Peak ELO**: 1684
+🏆 **Peak Elo**: 1684
    *[2012 Round 1 - Australian Grand Prix](../seasons/2012-season-report#round-1-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1447
+📉 **Lowest Elo**: 1447
    *[2007 Round 3 - Bahrain Grand Prix](../seasons/2007-season-report#round-3-bahrain-grand-prix)*
 
 

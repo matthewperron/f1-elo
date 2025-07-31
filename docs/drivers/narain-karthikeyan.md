@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 46 (138 individual ELO calculations)
+**Total Race Events**: 46 (138 individual Elo calculations)
 
 **DNF Statistics**: 9 DNFs out of 46 races (19.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1306
 
-🏆 **Peak ELO**: 1569
+🏆 **Peak Elo**: 1569
    *[2005 Round 5 - Spanish Grand Prix](../seasons/2005-season-report#round-5-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1213
+📉 **Lowest Elo**: 1213
    *[2012 Round 12 - Belgian Grand Prix](../seasons/2012-season-report#round-12-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1275
 
-🏆 **Peak ELO**: 1580
+🏆 **Peak Elo**: 1580
    *[2005 Round 4 - San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1272
+📉 **Lowest Elo**: 1272
    *[2012 Round 14 - Singapore Grand Prix](../seasons/2012-season-report#round-14-singapore-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1286
 
-🏆 **Peak ELO**: 1570
+🏆 **Peak Elo**: 1570
    *[2005 Round 4 - San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1276
+📉 **Lowest Elo**: 1276
    *[2012 Round 12 - Belgian Grand Prix](../seasons/2012-season-report#round-12-belgian-grand-prix)*
 
 

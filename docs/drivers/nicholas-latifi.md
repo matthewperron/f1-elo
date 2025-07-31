@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 61 (183 individual ELO calculations)
+**Total Race Events**: 61 (183 individual Elo calculations)
 
 **DNF Statistics**: 4 DNFs out of 61 races (6.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1334
 
-🏆 **Peak ELO**: 1612
+🏆 **Peak Elo**: 1612
    *[2021 Round 19 - São Paulo Grand Prix](../seasons/2021-season-report#round-19-so-paulo-grand-prix)*
 
-📉 **Lowest ELO**: 1289
+📉 **Lowest Elo**: 1289
    *[2022 Round 20 - Mexico City Grand Prix](../seasons/2022-season-report#round-20-mexico-city-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1298
 
-🏆 **Peak ELO**: 1607
+🏆 **Peak Elo**: 1607
    *[2020 Round 13 - Emilia Romagna Grand Prix](../seasons/2020-season-report#round-13-emilia-romagna-grand-prix)*
 
-📉 **Lowest ELO**: 1298
+📉 **Lowest Elo**: 1298
    *[2022 Round 22 - Abu Dhabi Grand Prix](../seasons/2022-season-report#round-22-abu-dhabi-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1308
 
-🏆 **Peak ELO**: 1557
+🏆 **Peak Elo**: 1557
    *[2020 Round 13 - Emilia Romagna Grand Prix](../seasons/2020-season-report#round-13-emilia-romagna-grand-prix)*
 
-📉 **Lowest ELO**: 1306
+📉 **Lowest Elo**: 1306
    *[2022 Round 20 - Mexico City Grand Prix](../seasons/2022-season-report#round-20-mexico-city-grand-prix)*
 
 

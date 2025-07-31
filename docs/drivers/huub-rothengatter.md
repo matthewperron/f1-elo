@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 12 (36 individual ELO calculations)
+**Total Race Events**: 12 (36 individual Elo calculations)
 
 **DNF Statistics**: 9 DNFs out of 12 races (75.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1333
 
-🏆 **Peak ELO**: 1472
+🏆 **Peak Elo**: 1472
    *[1986 Round 3 - San Marino Grand Prix](../seasons/1986-season-report#round-3-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1333
+📉 **Lowest Elo**: 1333
    *[1986 Round 16 - Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1450
 
-🏆 **Peak ELO**: 1492
+🏆 **Peak Elo**: 1492
    *[1986 Round 3 - San Marino Grand Prix](../seasons/1986-season-report#round-3-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1450
+📉 **Lowest Elo**: 1450
    *[1986 Round 16 - Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
 
 

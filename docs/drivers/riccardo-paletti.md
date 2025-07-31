@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 3 (9 individual ELO calculations)
+**Total Race Events**: 3 (9 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1429
 
-🏆 **Peak ELO**: 1472
+🏆 **Peak Elo**: 1472
    *[1982 Round 4 - San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1429
+📉 **Lowest Elo**: 1429
    *[1982 Round 8 - Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1479
 
-🏆 **Peak ELO**: 1492
+🏆 **Peak Elo**: 1492
    *[1982 Round 4 - San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1479
+📉 **Lowest Elo**: 1479
    *[1982 Round 8 - Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
 
 

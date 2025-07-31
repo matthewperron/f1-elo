@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 36 (108 individual ELO calculations)
+**Total Race Events**: 36 (108 individual Elo calculations)
 
 **DNF Statistics**: 6 DNFs out of 36 races (16.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1387
 
-🏆 **Peak ELO**: 1478
+🏆 **Peak Elo**: 1478
    *[2023 Round 1 - Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1285
+📉 **Lowest Elo**: 1285
    *[2024 Round 9 - Canadian Grand Prix](../seasons/2024-season-report#round-9-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1323
 
-🏆 **Peak ELO**: 1482
+🏆 **Peak Elo**: 1482
    *[2023 Round 1 - Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1323
+📉 **Lowest Elo**: 1323
    *[2024 Round 15 - Dutch Grand Prix](../seasons/2024-season-report#round-15-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1340
 
-🏆 **Peak ELO**: 1481
+🏆 **Peak Elo**: 1481
    *[2023 Round 1 - Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1325
+📉 **Lowest Elo**: 1325
    *[2024 Round 9 - Canadian Grand Prix](../seasons/2024-season-report#round-9-canadian-grand-prix)*
 
 

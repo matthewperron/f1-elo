@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1494
 
-🏆 **Peak ELO**: 1494
+🏆 **Peak Elo**: 1494
    *[1985 Round 12 - Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1461
+📉 **Lowest Elo**: 1461
    *[1985 Round 10 - Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1498
 
-🏆 **Peak ELO**: 1498
+🏆 **Peak Elo**: 1498
    *[1985 Round 12 - Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1488
+📉 **Lowest Elo**: 1488
    *[1985 Round 10 - Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix)*
 
 

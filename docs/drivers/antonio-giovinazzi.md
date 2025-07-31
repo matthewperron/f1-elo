@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 62 (186 individual ELO calculations)
+**Total Race Events**: 62 (186 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 62 races (3.2%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1607
 
-🏆 **Peak ELO**: 1629
+🏆 **Peak Elo**: 1629
    *[2021 Round 9 - Austrian Grand Prix](../seasons/2021-season-report#round-9-austrian-grand-prix)*
 
-📉 **Lowest ELO**: 1397
+📉 **Lowest Elo**: 1397
    *[2019 Round 3 - Chinese Grand Prix](../seasons/2019-season-report#round-3-chinese-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1572
 
-🏆 **Peak ELO**: 1639
+🏆 **Peak Elo**: 1639
    *[2021 Round 17 - United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1383
+📉 **Lowest Elo**: 1383
    *[2019 Round 13 - Belgian Grand Prix](../seasons/2019-season-report#round-13-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1582
 
-🏆 **Peak ELO**: 1630
+🏆 **Peak Elo**: 1630
    *[2021 Round 17 - United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1399
+📉 **Lowest Elo**: 1399
    *[2019 Round 6 - Monaco Grand Prix](../seasons/2019-season-report#round-6-monaco-grand-prix)*
 
 

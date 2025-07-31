@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 33 (99 individual ELO calculations)
+**Total Race Events**: 33 (99 individual Elo calculations)
 
 **DNF Statistics**: 11 DNFs out of 33 races (33.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1472
 
-🏆 **Peak ELO**: 1507
+🏆 **Peak Elo**: 1507
    *[1956 Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1453
+📉 **Lowest Elo**: 1453
    *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1463
 
-🏆 **Peak ELO**: 1501
+🏆 **Peak Elo**: 1501
    *[1956 Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1463
+📉 **Lowest Elo**: 1463
    *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1460
 
-🏆 **Peak ELO**: 1503
+🏆 **Peak Elo**: 1503
    *[1956 Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1460
+📉 **Lowest Elo**: 1460
    *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 

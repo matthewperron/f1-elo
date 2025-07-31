@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 13 (39 individual ELO calculations)
+**Total Race Events**: 13 (39 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 13 races (7.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1388
 
-🏆 **Peak ELO**: 1529
+🏆 **Peak Elo**: 1529
    *[2015 Round 2 - Malaysian Grand Prix](../seasons/2015-season-report#round-2-malaysian-grand-prix)*
 
-📉 **Lowest ELO**: 1388
+📉 **Lowest Elo**: 1388
    *[2015 Round 19 - Abu Dhabi Grand Prix](../seasons/2015-season-report#round-19-abu-dhabi-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1500
 
-🏆 **Peak ELO**: 1561
+🏆 **Peak Elo**: 1561
    *[2015 Round 11 - Belgian Grand Prix](../seasons/2015-season-report#round-11-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1420
+📉 **Lowest Elo**: 1420
    *[2015 Round 5 - Spanish Grand Prix](../seasons/2015-season-report#round-5-spanish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1466
 
-🏆 **Peak ELO**: 1531
+🏆 **Peak Elo**: 1531
    *[2015 Round 11 - Belgian Grand Prix](../seasons/2015-season-report#round-11-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1423
+📉 **Lowest Elo**: 1423
    *[2015 Round 5 - Spanish Grand Prix](../seasons/2015-season-report#round-5-spanish-grand-prix)*
 
 

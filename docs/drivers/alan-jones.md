@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 106 (318 individual ELO calculations)
+**Total Race Events**: 106 (318 individual Elo calculations)
 
 **DNF Statistics**: 26 DNFs out of 106 races (24.5%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1576
 
-🏆 **Peak ELO**: 1889
+🏆 **Peak Elo**: 1889
    *[1980 Round 10 - Austrian Grand Prix](../seasons/1980-season-report#round-10-austrian-grand-prix)*
 
-📉 **Lowest ELO**: 1389
+📉 **Lowest Elo**: 1389
    *[1975 Round 11 - German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1617
 
-🏆 **Peak ELO**: 1681
+🏆 **Peak Elo**: 1681
    *[1980 Round 8 - British Grand Prix](../seasons/1980-season-report#round-8-british-grand-prix)*
 
-📉 **Lowest ELO**: 1419
+📉 **Lowest Elo**: 1419
    *[1975 Round 9 - French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1607
 
-🏆 **Peak ELO**: 1737
+🏆 **Peak Elo**: 1737
    *[1981 Round 1 - United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)*
 
-📉 **Lowest ELO**: 1419
+📉 **Lowest Elo**: 1419
    *[1975 Round 9 - French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)*
 
 

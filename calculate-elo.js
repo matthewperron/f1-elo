@@ -597,8 +597,8 @@ function processPairComparison(driver1, driver2, drivers, type, kFactor, initial
  * Generate ELO table for season reports (links to comprehensive driver files)
  */
 function generateSeasonReportELOTable(driverRatings) {
-    let table = '| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |\n';
-    table += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
+    let table = '| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |\n';
+    table    += '|------|--------------|--------|-------------|----------------|----------|-----------|\n';
     
     driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
         // Create driver file link (comprehensive files, no season suffix)
@@ -671,7 +671,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
             const raceDetail = allRaceData.races.find(r => r.round == race.round);
             if (raceDetail && raceDetail.results.length > 0) {
                 content += `#### Qualifying Results\n\n`;
-                content += `| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |\n`;
+                content += `| Driver | Constructor | Grid | Starting Elo | Change | New Elo | vs Teammate |\n`;
                 content += `|--------|-------------|------|--------------|--------|---------|-------------|\n`;
                 
                 // Sort by grid position
@@ -705,7 +705,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
             const raceDetail = allRaceData.races.find(r => r.round == race.round);
             if (raceDetail && raceDetail.results.length > 0) {
                 content += `#### Race Results\n\n`;
-                content += `| Driver | Constructor | Position | Status | Starting ELO | Change | New ELO | vs Teammate |\n`;
+                content += `| Driver | Constructor | Position | Status | Starting Elo | Change | New Elo | vs Teammate |\n`;
                 content += `|--------|-------------|----------|--------|--------------|--------|---------|-------------|\n`;
                 
                 // Sort by finishing position (finished drivers first, then DNFs)
@@ -778,7 +778,7 @@ async function updateHomepageFiles(driverRatings, season, useComprehensiveLinks 
                 // Use comprehensive table generator if requested (for bulk processing)
                 const table = generateELOTable(driverRatings, season, file.isGithubPages);
                 
-                const newContent = `### ELO Ratings (${season} Season)
+                const newContent = `### Elo Ratings (${season} Season)
 *Last updated: ${timestamp}*
 
 ${table}
@@ -811,8 +811,8 @@ ${table}
  * Generate comprehensive ELO table for README (links to comprehensive driver files)
  */
 function generateComprehensiveELOTable(driverRatings) {
-    let table = '| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |\n';
-    table += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
+    let table = '| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final Elo |\n';
+    table    += '|------|--------------|--------|-------------|----------------|----------|-----------|\n';
     
     driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
         // Create driver file link (comprehensive, no season)
@@ -831,8 +831,8 @@ function generateComprehensiveELOTable(driverRatings) {
  * Generate markdown table for README or index
  */
 function generateELOTable(driverRatings, season, isGithubPages = false) {
-    let table = '| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |\n';
-    table += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
+    let table = '| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Elo |\n';
+    table    += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
     
     driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
         // Create driver file link
@@ -845,79 +845,6 @@ function generateELOTable(driverRatings, season, isGithubPages = false) {
     });
     
     return table;
-}
-
-
-/**
- * Generate individual driver markdown files
- */
-async function generateDriverFiles(driverResults, season) {
-    console.log('Generating individual driver files...');
-    
-    for (const [driverId, driverData] of driverResults) {
-        const results = driverData.results;
-        if (results.length === 0) continue;
-        
-        // Clean driver name for filename (remove flags and special characters)
-        const cleanDriverName = cleanDriverNameForFilename(driverData.driverName);
-        
-        let content = `# ${driverData.driverName} - ${season} Season Results\n\n`;
-        content += `*Last updated: ${new Date().toISOString().split('T')[0]}*\n\n`;
-        
-        // Summary table header
-        content += `## Race-by-Race Results\n\n`;
-        content += `| Round | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate | Teammate Position | Teammate Starting ELO | Teammate ELO Change | Teammate Final ELO |\n`;
-        content += `|-------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|-------------------|----------------------|---------------------|-------------------|\n`;
-        
-        // Group results by round and session type
-        const resultsByRound = new Map();
-        results.forEach(result => {
-            const key = `${result.round}-${result.session}`;
-            if (!resultsByRound.has(key)) {
-                resultsByRound.set(key, []);
-            }
-            resultsByRound.get(key).push(result);
-        });
-        
-        // Sort results chronologically
-        const sortedResults = results.sort((a, b) => {
-            if (a.round !== b.round) return a.round - b.round;
-            // Order: qualifying, race, global
-            const sessionOrder = { 'qualifying': 1, 'race': 2, 'global': 3 };
-            return sessionOrder[a.session] - sessionOrder[b.session];
-        });
-        
-        // Fill in teammate data by matching opposite entries
-        sortedResults.forEach(result => {
-            // Find teammate's corresponding result for the same round and session
-            const teammateResult = sortedResults.find(r => 
-                r.round === result.round && 
-                r.session === result.session && 
-                r.teammate === driverData.driverName &&
-                r.constructor === result.constructor
-            );
-            
-            if (teammateResult) {
-                result.teammateStartingElo = teammateResult.startingElo;
-                result.teammateEloChange = teammateResult.eloChange;
-                result.teammateNewElo = teammateResult.newElo;
-            }
-        });
-        
-        // Generate table rows
-        sortedResults.forEach(result => {
-            const eloChangeStr = result.eloChange !== null ? (result.eloChange >= 0 ? `+${result.eloChange}` : `${result.eloChange}`) : 'N/A';
-            const teammateEloChangeStr = result.teammateEloChange !== null ? (result.teammateEloChange >= 0 ? `+${result.teammateEloChange}` : `${result.teammateEloChange}`) : 'N/A';
-            
-            content += `| ${result.round} | ${result.raceName} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${result.teammate} | ${result.teammatePosition} | ${result.teammateStartingElo || 'N/A'} | ${teammateEloChangeStr} | ${result.teammateNewElo || 'N/A'} |\n`;
-        });
-        
-        // Save driver file
-        const fileName = `docs/drivers/${cleanDriverName}-${season}.md`;
-        await fs.writeFile(fileName, content, 'utf8');
-    }
-    
-    console.log(`✓ Generated ${driverResults.size} individual driver files`);
 }
 
 /**
@@ -998,7 +925,7 @@ async function calculateELOFromData(season = '2025') {
 }
 
 // Export functions
-export { calculateELO, updateHomepageFiles, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles, cleanDriverNameForFilename };
+export { calculateELO, updateHomepageFiles, saveFinalELOs, calculateELOFromData, generateSeasonReport, cleanDriverNameForFilename };
 
 // Run if called directly (check if this file is the main module being executed)
 import path from 'path';

@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 9 (27 individual ELO calculations)
+**Total Race Events**: 9 (27 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 9 races (33.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1415
 
-🏆 **Peak ELO**: 1486
+🏆 **Peak Elo**: 1486
    *[1981 Round 2 - Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1415
+📉 **Lowest Elo**: 1415
    *[1981 Round 12 - Dutch Grand Prix](../seasons/1981-season-report#round-12-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1418
 
-🏆 **Peak ELO**: 1467
+🏆 **Peak Elo**: 1467
    *[1981 Round 2 - Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1418
+📉 **Lowest Elo**: 1418
    *[1981 Round 5 - Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1417
 
-🏆 **Peak ELO**: 1473
+🏆 **Peak Elo**: 1473
    *[1981 Round 2 - Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1417
+📉 **Lowest Elo**: 1417
    *[1981 Round 12 - Dutch Grand Prix](../seasons/1981-season-report#round-12-dutch-grand-prix)*
 
 

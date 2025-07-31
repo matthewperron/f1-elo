@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 36 (108 individual ELO calculations)
+**Total Race Events**: 36 (108 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 36 races (5.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1487
 
-🏆 **Peak ELO**: 1573
+🏆 **Peak Elo**: 1573
    *[2008 Round 9 - British Grand Prix](../seasons/2008-season-report#round-9-british-grand-prix)*
 
-📉 **Lowest ELO**: 1455
+📉 **Lowest Elo**: 1455
    *[2008 Round 3 - Bahrain Grand Prix](../seasons/2008-season-report#round-3-bahrain-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1419
 
-🏆 **Peak ELO**: 1530
+🏆 **Peak Elo**: 1530
    *[2008 Round 11 - Hungarian Grand Prix](../seasons/2008-season-report#round-11-hungarian-grand-prix)*
 
-📉 **Lowest ELO**: 1346
+📉 **Lowest Elo**: 1346
    *[2009 Round 12 - Belgian Grand Prix](../seasons/2009-season-report#round-12-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1440
 
-🏆 **Peak ELO**: 1537
+🏆 **Peak Elo**: 1537
    *[2008 Round 9 - British Grand Prix](../seasons/2008-season-report#round-9-british-grand-prix)*
 
-📉 **Lowest ELO**: 1393
+📉 **Lowest Elo**: 1393
    *[2009 Round 12 - Belgian Grand Prix](../seasons/2009-season-report#round-12-belgian-grand-prix)*
 
 

@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 8 (24 individual ELO calculations)
+**Total Race Events**: 8 (24 individual Elo calculations)
 
 **DNF Statistics**: 6 DNFs out of 8 races (75.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1435
 
-🏆 **Peak ELO**: 1540
+🏆 **Peak Elo**: 1540
    *[1965 Round 2 - Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1435
+📉 **Lowest Elo**: 1435
    *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1444
 
-🏆 **Peak ELO**: 1469
+🏆 **Peak Elo**: 1469
    *[1965 Round 10 - Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1444
+📉 **Lowest Elo**: 1444
    *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1441
 
-🏆 **Peak ELO**: 1512
+🏆 **Peak Elo**: 1512
    *[1965 Round 2 - Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1441
+📉 **Lowest Elo**: 1441
    *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 

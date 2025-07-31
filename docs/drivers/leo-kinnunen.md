@@ -6,26 +6,26 @@
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 2 (6 individual Elo calculations)
 
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1475
 
-🏆 **Peak ELO**: 1486
+🏆 **Peak Elo**: 1486
    *[1974 Round 7 - Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
 
-📉 **Lowest ELO**: 1475
+📉 **Lowest Elo**: 1475
    *[1974 Round 7 - Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1493
 
-🏆 **Peak ELO**: 1496
+🏆 **Peak Elo**: 1496
    *[1974 Round 7 - Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
 
-📉 **Lowest ELO**: 1493
+📉 **Lowest Elo**: 1493
    *[1974 Round 7 - Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
 
 

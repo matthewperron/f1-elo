@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 14 (42 individual ELO calculations)
+**Total Race Events**: 14 (42 individual Elo calculations)
 
 **DNF Statistics**: 4 DNFs out of 14 races (28.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1572
 
-🏆 **Peak ELO**: 1573
+🏆 **Peak Elo**: 1573
    *[2004 Round 12 - German Grand Prix](../seasons/2004-season-report#round-12-german-grand-prix)*
 
-📉 **Lowest ELO**: 1471
+📉 **Lowest Elo**: 1471
    *[2004 Round 2 - Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1416
 
-🏆 **Peak ELO**: 1483
+🏆 **Peak Elo**: 1483
    *[2004 Round 3 - Bahrain Grand Prix](../seasons/2004-season-report#round-3-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1416
+📉 **Lowest Elo**: 1416
    *[2004 Round 15 - Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1462
 
-🏆 **Peak ELO**: 1509
+🏆 **Peak Elo**: 1509
    *[2004 Round 4 - San Marino Grand Prix](../seasons/2004-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1456
+📉 **Lowest Elo**: 1456
    *[2004 Round 14 - Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix)*
 
 

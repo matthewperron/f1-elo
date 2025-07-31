@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 271 (813 individual ELO calculations)
+**Total Race Events**: 271 (813 individual Elo calculations)
 
 **DNF Statistics**: 26 DNFs out of 271 races (9.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1732
 
-🏆 **Peak ELO**: 1962
+🏆 **Peak Elo**: 1962
    *[2008 Round 15 - Singapore Grand Prix](../seasons/2008-season-report#round-15-singapore-grand-prix)*
 
-📉 **Lowest ELO**: 1426
+📉 **Lowest Elo**: 1426
    *[2002 Round 12 - German Grand Prix](../seasons/2002-season-report#round-12-german-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1522
 
-🏆 **Peak ELO**: 1756
+🏆 **Peak Elo**: 1756
    *[2009 Round 2 - Malaysian Grand Prix](../seasons/2009-season-report#round-2-malaysian-grand-prix)*
 
-📉 **Lowest ELO**: 1405
+📉 **Lowest Elo**: 1405
    *[2014 Round 10 - German Grand Prix](../seasons/2014-season-report#round-10-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1587
 
-🏆 **Peak ELO**: 1812
+🏆 **Peak Elo**: 1812
    *[2008 Round 15 - Singapore Grand Prix](../seasons/2008-season-report#round-15-singapore-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest Elo**: 1468
    *[2002 Round 12 - German Grand Prix](../seasons/2002-season-report#round-12-german-grand-prix)*
 
 

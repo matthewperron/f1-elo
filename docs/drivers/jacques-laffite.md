@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 125 (375 individual ELO calculations)
+**Total Race Events**: 125 (375 individual Elo calculations)
 
 **DNF Statistics**: 59 DNFs out of 125 races (47.2%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1370
 
-🏆 **Peak ELO**: 1817
+🏆 **Peak Elo**: 1817
    *[1980 Round 1 - Argentine Grand Prix](../seasons/1980-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1370
+📉 **Lowest Elo**: 1370
    *[1986 Round 9 - British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1467
 
-🏆 **Peak ELO**: 1716
+🏆 **Peak Elo**: 1716
    *[1980 Round 3 - South African Grand Prix](../seasons/1980-season-report#round-3-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1467
+📉 **Lowest Elo**: 1467
    *[1986 Round 9 - British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1437
 
-🏆 **Peak ELO**: 1740
+🏆 **Peak Elo**: 1740
    *[1980 Round 1 - Argentine Grand Prix](../seasons/1980-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1437
+📉 **Lowest Elo**: 1437
    *[1986 Round 9 - British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
 
 

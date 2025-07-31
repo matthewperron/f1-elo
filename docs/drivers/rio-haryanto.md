@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 12 (36 individual ELO calculations)
+**Total Race Events**: 12 (36 individual Elo calculations)
 
 **DNF Statistics**: 1 DNFs out of 12 races (8.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1441
 
-🏆 **Peak ELO**: 1499
+🏆 **Peak Elo**: 1499
    *[2016 Round 10 - British Grand Prix](../seasons/2016-season-report#round-10-british-grand-prix)*
 
-📉 **Lowest ELO**: 1431
+📉 **Lowest Elo**: 1431
    *[2016 Round 5 - Spanish Grand Prix](../seasons/2016-season-report#round-5-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1382
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[2016 Round 2 - Bahrain Grand Prix](../seasons/2016-season-report#round-2-bahrain-grand-prix)*
 
-📉 **Lowest ELO**: 1361
+📉 **Lowest Elo**: 1361
    *[2016 Round 9 - Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1399
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak Elo**: 1490
    *[2016 Round 1 - Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
 
-📉 **Lowest ELO**: 1390
+📉 **Lowest Elo**: 1390
    *[2016 Round 9 - Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix)*
 
 

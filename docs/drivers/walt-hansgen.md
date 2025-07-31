@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 12 (36 individual ELO calculations)
+**Total Race Events**: 12 (36 individual Elo calculations)
 
 **DNF Statistics**: 3 DNFs out of 12 races (25.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1464
 
-🏆 **Peak ELO**: 1507
+🏆 **Peak Elo**: 1507
    *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1464
+📉 **Lowest Elo**: 1464
    *[1964 Round 9 - United States Grand Prix](../seasons/1964-season-report#round-9-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1491
 
-🏆 **Peak ELO**: 1496
+🏆 **Peak Elo**: 1496
    *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1491
+📉 **Lowest Elo**: 1491
    *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1483
 
-🏆 **Peak ELO**: 1496
+🏆 **Peak Elo**: 1496
    *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1483
+📉 **Lowest Elo**: 1483
    *[1964 Round 9 - United States Grand Prix](../seasons/1964-season-report#round-9-united-states-grand-prix)*
 
 

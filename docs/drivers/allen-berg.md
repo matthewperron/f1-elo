@@ -6,35 +6,35 @@
 
 ## Career Statistics
 
-**Total Race Events**: 9 (27 individual ELO calculations)
+**Total Race Events**: 9 (27 individual Elo calculations)
 
 **DNF Statistics**: 7 DNFs out of 9 races (77.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1365
 
-🏆 **Peak ELO**: 1474
+🏆 **Peak Elo**: 1474
    *[1986 Round 7 - Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix)*
 
-📉 **Lowest ELO**: 1365
+📉 **Lowest Elo**: 1365
    *[1986 Round 16 - Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 **Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak Elo**: 1468
    *[1986 Round 9 - British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest Elo**: 1468
    *[1986 Round 9 - British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1437
 
-🏆 **Peak ELO**: 1492
+🏆 **Peak Elo**: 1492
    *[1986 Round 7 - Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix)*
 
-📉 **Lowest ELO**: 1437
+📉 **Lowest Elo**: 1437
    *[1986 Round 16 - Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
 
 
