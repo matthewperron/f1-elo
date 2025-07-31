@@ -4402,69 +4402,69 @@
   ],
   "finalELOs": {
     "hill": {
-      "qualifyingElo": 1669,
-      "raceElo": 1554,
-      "globalElo": 1591
-    },
-    "gurney": {
-      "qualifyingElo": 1583,
-      "raceElo": 1532,
-      "globalElo": 1548
-    },
-    "mclaren": {
-      "qualifyingElo": 1580,
-      "raceElo": 1532,
-      "globalElo": 1546
+      "qualifyingElo": 1457,
+      "raceElo": 1634,
+      "globalElo": 1582
     },
     "surtees": {
-      "qualifyingElo": 1578,
-      "raceElo": 1500,
-      "globalElo": 1524
+      "qualifyingElo": 1589,
+      "raceElo": 1575,
+      "globalElo": 1580
     },
     "campbell-jones": {
-      "qualifyingElo": 1532,
+      "qualifyingElo": 1555,
       "raceElo": 1500,
-      "globalElo": 1510
+      "globalElo": 1517
     },
     "gregory": {
-      "qualifyingElo": 1508,
+      "qualifyingElo": 1514,
       "raceElo": 1500,
-      "globalElo": 1502
+      "globalElo": 1504
     },
     "siffert": {
-      "qualifyingElo": 1501,
-      "raceElo": 1500,
-      "globalElo": 1500
+      "qualifyingElo": 1555,
+      "raceElo": 1468,
+      "globalElo": 1495
     },
-    "settember": {
-      "qualifyingElo": 1468,
-      "raceElo": 1500,
-      "globalElo": 1490
+    "mclaren": {
+      "qualifyingElo": 1409,
+      "raceElo": 1526,
+      "globalElo": 1491
     },
     "seidel": {
-      "qualifyingElo": 1465,
+      "qualifyingElo": 1439,
       "raceElo": 1500,
-      "globalElo": 1490
+      "globalElo": 1482
+    },
+    "gurney": {
+      "qualifyingElo": 1510,
+      "raceElo": 1457,
+      "globalElo": 1473
+    },
+    "settember": {
+      "qualifyingElo": 1408,
+      "raceElo": 1500,
+      "globalElo": 1472
     },
     "salvadori": {
-      "qualifyingElo": 1422,
+      "qualifyingElo": 1400,
       "raceElo": 1500,
-      "globalElo": 1476
+      "globalElo": 1469
     },
     "bonnier": {
-      "qualifyingElo": 1429,
-      "raceElo": 1468,
-      "globalElo": 1456
-    },
-    "maggs": {
-      "qualifyingElo": 1420,
-      "raceElo": 1468,
-      "globalElo": 1454
+      "qualifyingElo": 1425,
+      "raceElo": 1465,
+      "globalElo": 1453
     },
     "ginther": {
-      "qualifyingElo": 1508,
-      "raceElo": 1413,
-      "globalElo": 1441
+      "qualifyingElo": 1475,
+      "raceElo": 1433,
+      "globalElo": 1446
+    },
+    "maggs": {
+      "qualifyingElo": 1314,
+      "raceElo": 1439,
+      "globalElo": 1402
     }
   }
 }

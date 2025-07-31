@@ -3392,25 +3392,25 @@
     }
   ],
   "finalELOs": {
-    "templeman": {
-      "qualifyingElo": 1532,
-      "raceElo": 1500,
-      "globalElo": 1510
-    },
     "johnson": {
-      "qualifyingElo": 1468,
-      "raceElo": 1500,
-      "globalElo": 1490
+      "qualifyingElo": 1500,
+      "raceElo": 1532,
+      "globalElo": 1522
     },
-    "schell": {
-      "qualifyingElo": 1532,
+    "templeman": {
+      "qualifyingElo": 1564,
       "raceElo": 1500,
-      "globalElo": 1490
+      "globalElo": 1520
     },
     "wharton": {
-      "qualifyingElo": 1468,
+      "qualifyingElo": 1436,
       "raceElo": 1500,
-      "globalElo": 1490
+      "globalElo": 1480
+    },
+    "schell": {
+      "qualifyingElo": 1503,
+      "raceElo": 1494,
+      "globalElo": 1477
     }
   }
 }

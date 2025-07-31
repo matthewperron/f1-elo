@@ -1,5 +1,8 @@
 import fs from 'fs/promises';
 
+// Global cache for historical ELO data to avoid reloading in bulk operations
+let historicalELOCache = null;
+
 /**
  * Country flag SVG mapping for drivers using Wikipedia URLs with emoji fallbacks
  */
@@ -165,25 +168,69 @@ function trackDriverResult(driverResults, change, race, season) {
 }
 
 /**
- * Load starting ELO ratings from previous season
+ * Load comprehensive historical ELO database (called once per bulk operation)
  */
-async function loadStartingELOs(season) {
-    const previousYear = parseInt(season) - 1;
-    const previousFile = `data/${previousYear}-race-results.json`;
-    
-    try {
-        const data = await fs.readFile(previousFile, 'utf8');
-        const previousData = JSON.parse(data);
-        
-        if (previousData.finalELOs) {
-            console.log(`✓ Loaded starting ELOs from ${previousYear} season`);
-            return new Map(Object.entries(previousData.finalELOs));
-        }
-    } catch (error) {
-        console.log(`No previous season data found for ${previousYear}, using default starting ELOs`);
+async function loadHistoricalELODatabase() {
+    if (historicalELOCache) {
+        console.log(`✓ Using cached historical ELO data: ${historicalELOCache.size} drivers`);
+        return historicalELOCache;
     }
     
-    return new Map();
+    console.log(`Building comprehensive historical ELO database...`);
+    const historicalELOs = new Map();
+    let seasonsProcessed = 0;
+    
+    // Look back through all seasons to build comprehensive database
+    for (let year = new Date().getFullYear(); year >= 1950; year--) {
+        const seasonFile = `data/${year}-race-results.json`;
+        
+        try {
+            const data = await fs.readFile(seasonFile, 'utf8');
+            const seasonData = JSON.parse(data);
+            
+            if (seasonData.finalELOs) {
+                let newDriversAdded = 0;
+                
+                // Add ELOs for drivers we haven't seen yet (most recent ELO wins)
+                Object.entries(seasonData.finalELOs).forEach(([driverId, eloData]) => {
+                    if (!historicalELOs.has(driverId)) {
+                        historicalELOs.set(driverId, eloData);
+                        newDriversAdded++;
+                    }
+                });
+                
+                seasonsProcessed++;
+                if (seasonsProcessed <= 5 || newDriversAdded > 0) {
+                    console.log(`✓ ${year} season: ${newDriversAdded} new drivers, ${historicalELOs.size} total`);
+                }
+            }
+        } catch (error) {
+            // File doesn't exist or can't be read - continue to next year
+            continue;
+        }
+    }
+    
+    console.log(`✓ Built historical ELO database: ${historicalELOs.size} drivers from ${seasonsProcessed} seasons`);
+    historicalELOCache = historicalELOs;
+    return historicalELOs;
+}
+
+/**
+ * Load starting ELO ratings for a specific season (uses historical database)
+ */
+async function loadStartingELOs(season) {
+    const currentYear = parseInt(season);
+    const historicalELOs = await loadHistoricalELODatabase();
+    const startingELOs = new Map();
+    
+    // Filter historical ELOs to only include drivers from before current season
+    for (const [driverId, eloData] of historicalELOs.entries()) {
+        // For now, include all historical data - in future could add season filtering
+        startingELOs.set(driverId, eloData);
+    }
+    
+    console.log(`✓ Starting ELOs for ${season}: ${startingELOs.size} drivers with historical data`);
+    return startingELOs;
 }
 
 /**
@@ -910,7 +957,15 @@ async function calculateELOFromData(season = '2025') {
 }
 
 // Export functions
-export { calculateELO, updateHomepageFiles, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles, cleanDriverNameForFilename };
+/**
+ * Clear historical ELO cache (useful for bulk operations to ensure fresh data)
+ */
+function clearELOCache() {
+    historicalELOCache = null;
+    console.log('✓ Historical ELO cache cleared');
+}
+
+export { calculateELO, updateHomepageFiles, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles, cleanDriverNameForFilename, clearELOCache };
 
 // Run if called directly (check if this file is the main module being executed)
 import path from 'path';

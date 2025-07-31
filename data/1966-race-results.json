@@ -3538,70 +3538,70 @@
     }
   ],
   "finalELOs": {
-    "surtees": {
-      "qualifyingElo": 1712,
-      "raceElo": 1657,
-      "globalElo": 1674
-    },
-    "hill": {
-      "qualifyingElo": 1765,
-      "raceElo": 1545,
-      "globalElo": 1613
-    },
     "jack_brabham": {
-      "qualifyingElo": 1650,
-      "raceElo": 1580,
-      "globalElo": 1601
+      "qualifyingElo": 1754,
+      "raceElo": 1612,
+      "globalElo": 1654
     },
-    "ginther": {
-      "qualifyingElo": 1559,
-      "raceElo": 1497,
-      "globalElo": 1516
-    },
-    "anderson": {
-      "qualifyingElo": 1503,
-      "raceElo": 1500,
-      "globalElo": 1501
-    },
-    "bonnier": {
-      "qualifyingElo": 1465,
-      "raceElo": 1500,
-      "globalElo": 1490
+    "surtees": {
+      "qualifyingElo": 1606,
+      "raceElo": 1593,
+      "globalElo": 1597
     },
     "stewart": {
-      "qualifyingElo": 1474,
-      "raceElo": 1496,
-      "globalElo": 1490
+      "qualifyingElo": 1598,
+      "raceElo": 1541,
+      "globalElo": 1560
     },
-    "parkes": {
-      "qualifyingElo": 1488,
-      "raceElo": 1459,
-      "globalElo": 1468
+    "hill": {
+      "qualifyingElo": 1426,
+      "raceElo": 1602,
+      "globalElo": 1550
     },
-    "arundell": {
-      "qualifyingElo": 1380,
+    "ginther": {
+      "qualifyingElo": 1590,
+      "raceElo": 1523,
+      "globalElo": 1544
+    },
+    "anderson": {
+      "qualifyingElo": 1511,
       "raceElo": 1500,
-      "globalElo": 1464
+      "globalElo": 1504
     },
-    "bandini": {
-      "qualifyingElo": 1404,
-      "raceElo": 1445,
-      "globalElo": 1432
-    },
-    "spence": {
-      "qualifyingElo": 1502,
-      "raceElo": 1383,
-      "globalElo": 1418
-    },
-    "bucknum": {
-      "qualifyingElo": 1379,
-      "raceElo": 1429,
-      "globalElo": 1413
+    "bonnier": {
+      "qualifyingElo": 1429,
+      "raceElo": 1465,
+      "globalElo": 1454
     },
     "hulme": {
-      "qualifyingElo": 1382,
-      "raceElo": 1420,
-      "globalElo": 1408
+      "qualifyingElo": 1489,
+      "raceElo": 1432,
+      "globalElo": 1449
+    },
+    "arundell": {
+      "qualifyingElo": 1307,
+      "raceElo": 1500,
+      "globalElo": 1442
+    },
+    "parkes": {
+      "qualifyingElo": 1480,
+      "raceElo": 1422,
+      "globalElo": 1440
+    },
+    "bandini": {
+      "qualifyingElo": 1414,
+      "raceElo": 1437,
+      "globalElo": 1429
+    },
+    "spence": {
+      "qualifyingElo": 1486,
+      "raceElo": 1383,
+      "globalElo": 1413
+    },
+    "bucknum": {
+      "qualifyingElo": 1348,
+      "raceElo": 1403,
+      "globalElo": 1386
     }
   }
 }

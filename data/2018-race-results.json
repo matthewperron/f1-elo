@@ -11050,105 +11050,105 @@
     }
   ],
   "finalELOs": {
+    "max_verstappen": {
+      "qualifyingElo": 1757,
+      "raceElo": 1953,
+      "globalElo": 1893
+    },
     "hamilton": {
-      "qualifyingElo": 1967,
-      "raceElo": 1816,
-      "globalElo": 1863
+      "qualifyingElo": 1810,
+      "raceElo": 1729,
+      "globalElo": 1758
     },
     "alonso": {
-      "qualifyingElo": 1892,
-      "raceElo": 1790,
-      "globalElo": 1821
-    },
-    "max_verstappen": {
-      "qualifyingElo": 1649,
-      "raceElo": 1735,
-      "globalElo": 1709
+      "qualifyingElo": 1750,
+      "raceElo": 1687,
+      "globalElo": 1706
     },
     "leclerc": {
-      "qualifyingElo": 1668,
-      "raceElo": 1584,
-      "globalElo": 1609
-    },
-    "hulkenberg": {
-      "qualifyingElo": 1730,
-      "raceElo": 1554,
-      "globalElo": 1602
-    },
-    "vettel": {
-      "qualifyingElo": 1715,
-      "raceElo": 1560,
-      "globalElo": 1601
-    },
-    "vandoorne": {
-      "qualifyingElo": 1492,
-      "raceElo": 1642,
-      "globalElo": 1599
-    },
-    "sainz": {
-      "qualifyingElo": 1597,
-      "raceElo": 1594,
-      "globalElo": 1597
-    },
-    "perez": {
-      "qualifyingElo": 1450,
-      "raceElo": 1656,
-      "globalElo": 1597
-    },
-    "grosjean": {
-      "qualifyingElo": 1574,
-      "raceElo": 1605,
-      "globalElo": 1596
-    },
-    "raikkonen": {
-      "qualifyingElo": 1550,
-      "raceElo": 1602,
-      "globalElo": 1591
-    },
-    "ocon": {
-      "qualifyingElo": 1582,
-      "raceElo": 1593,
-      "globalElo": 1589
-    },
-    "gasly": {
-      "qualifyingElo": 1513,
-      "raceElo": 1524,
-      "globalElo": 1521
-    },
-    "bottas": {
-      "qualifyingElo": 1696,
-      "raceElo": 1438,
-      "globalElo": 1513
+      "qualifyingElo": 1695,
+      "raceElo": 1675,
+      "globalElo": 1683
     },
     "ricciardo": {
-      "qualifyingElo": 1628,
-      "raceElo": 1453,
-      "globalElo": 1507
+      "qualifyingElo": 1717,
+      "raceElo": 1581,
+      "globalElo": 1617
     },
-    "kevin_magnussen": {
-      "qualifyingElo": 1444,
+    "gasly": {
+      "qualifyingElo": 1577,
+      "raceElo": 1580,
+      "globalElo": 1577
+    },
+    "hulkenberg": {
+      "qualifyingElo": 1624,
       "raceElo": 1504,
-      "globalElo": 1485
+      "globalElo": 1539
     },
-    "sirotkin": {
-      "qualifyingElo": 1532,
-      "raceElo": 1454,
-      "globalElo": 1479
+    "sainz": {
+      "qualifyingElo": 1501,
+      "raceElo": 1548,
+      "globalElo": 1531
+    },
+    "raikkonen": {
+      "qualifyingElo": 1450,
+      "raceElo": 1555,
+      "globalElo": 1528
+    },
+    "vettel": {
+      "qualifyingElo": 1611,
+      "raceElo": 1499,
+      "globalElo": 1527
     },
     "brendon_hartley": {
-      "qualifyingElo": 1452,
-      "raceElo": 1483,
-      "globalElo": 1474
+      "qualifyingElo": 1511,
+      "raceElo": 1531,
+      "globalElo": 1526
     },
-    "stroll": {
-      "qualifyingElo": 1410,
-      "raceElo": 1480,
-      "globalElo": 1459
+    "vandoorne": {
+      "qualifyingElo": 1360,
+      "raceElo": 1579,
+      "globalElo": 1516
+    },
+    "grosjean": {
+      "qualifyingElo": 1543,
+      "raceElo": 1486,
+      "globalElo": 1503
+    },
+    "perez": {
+      "qualifyingElo": 1467,
+      "raceElo": 1497,
+      "globalElo": 1492
+    },
+    "ocon": {
+      "qualifyingElo": 1601,
+      "raceElo": 1442,
+      "globalElo": 1488
     },
     "ericsson": {
-      "qualifyingElo": 1411,
-      "raceElo": 1428,
-      "globalElo": 1424
+      "qualifyingElo": 1415,
+      "raceElo": 1502,
+      "globalElo": 1477
+    },
+    "sirotkin": {
+      "qualifyingElo": 1454,
+      "raceElo": 1434,
+      "globalElo": 1442
+    },
+    "stroll": {
+      "qualifyingElo": 1329,
+      "raceElo": 1463,
+      "globalElo": 1425
+    },
+    "bottas": {
+      "qualifyingElo": 1543,
+      "raceElo": 1346,
+      "globalElo": 1399
+    },
+    "kevin_magnussen": {
+      "qualifyingElo": 1413,
+      "raceElo": 1382,
+      "globalElo": 1391
     }
   }
 }

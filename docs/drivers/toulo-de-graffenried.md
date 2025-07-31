@@ -11,21 +11,21 @@
 **DNF Statistics**: 1 DNFs out of 2 races (50.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1564
+**Career Journey**: 1564 → 1588
 
-🏆 **Peak ELO**: 1564
+🏆 **Peak ELO**: 1588
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
-📉 **Lowest ELO**: 1532
+📉 **Lowest ELO**: 1587
    *[1951 Round 6 - German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1520
+**Career Journey**: 1520 → 1527
 
-🏆 **Peak ELO**: 1520
-   *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
+🏆 **Peak ELO**: 1527
+   *[1951 Round 6 - German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
 
-📉 **Lowest ELO**: 1510
+📉 **Lowest ELO**: 1527
    *[1951 Round 6 - German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
 
 
@@ -33,9 +33,9 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1951 | [Round 6: German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix) | 1951-07-29 | qualifying | Maserati | 16 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Toni Branca](toni-branca) |
+| 1951 | [Round 6: German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix) | 1951-07-29 | qualifying | Maserati | 16 | 1564 | +23 | 1587 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Toni Branca](toni-branca) |
 | 1951 | [Round 6: German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix) | 1951-07-29 | race | Maserati | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Toni Branca](toni-branca) |
-| 1951 | [Round 6: German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix) | 1951-07-29 | global | Maserati | Q:16/R:DNF | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Toni Branca](toni-branca) |
-| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | qualifying | Maserati | 8 | 1532 | +32 | 1564 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Harry Schell](harry-schell) |
+| 1951 | [Round 6: German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix) | 1951-07-29 | global | Maserati | Q:16/R:DNF | 1520 | +7 | 1527 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Toni Branca](toni-branca) |
+| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | qualifying | Maserati | 8 | 1564 | +24 | 1588 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Harry Schell](harry-schell) |
 | 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | race | Maserati | 6 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Harry Schell](harry-schell) |
-| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | global | Maserati | Q:8/R:6 | 1510 | +10 | 1520 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Harry Schell](harry-schell) |
+| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | global | Maserati | Q:8/R:6 | 1520 | +7 | 1527 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Harry Schell](harry-schell) |

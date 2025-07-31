@@ -11,21 +11,21 @@
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1506
+**Career Journey**: 1506 → 1505
 
-🏆 **Peak ELO**: 1506
+🏆 **Peak ELO**: 1505
    *[1960 Round 5 - Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest ELO**: 1470
    *[1960 Round 4 - Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1502
+**Career Journey**: 1502 → 1502
 
 🏆 **Peak ELO**: 1502
    *[1960 Round 5 - Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1490
+📉 **Lowest ELO**: 1491
    *[1960 Round 4 - Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix)*
 
 
@@ -33,9 +33,9 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1960 | [Round 4: Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix) | 1960-06-06 | qualifying | Scarab | 999 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Chuck Daigh](chuck-daigh) |
+| 1960 | [Round 4: Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix) | 1960-06-06 | qualifying | Scarab | 999 | 1506 | -36 | 1470 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Chuck Daigh](chuck-daigh) |
 | 1960 | [Round 4: Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix) | 1960-06-06 | race | Scarab | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Chuck Daigh](chuck-daigh) |
-| 1960 | [Round 4: Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix) | 1960-06-06 | global | Scarab | Q:999/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Chuck Daigh](chuck-daigh) |
-| 1960 | [Round 5: Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix) | 1960-06-19 | qualifying | Scarab | 16 | 1468 | +38 | 1506 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Chuck Daigh](chuck-daigh) |
+| 1960 | [Round 4: Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix) | 1960-06-06 | global | Scarab | Q:999/R:DNF | 1502 | -11 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Chuck Daigh](chuck-daigh) |
+| 1960 | [Round 5: Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix) | 1960-06-19 | qualifying | Scarab | 16 | 1470 | +35 | 1505 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Chuck Daigh](chuck-daigh) |
 | 1960 | [Round 5: Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix) | 1960-06-19 | race | Scarab | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Chuck Daigh](chuck-daigh) |
-| 1960 | [Round 5: Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix) | 1960-06-19 | global | Scarab | Q:16/R:DNF | 1490 | +11 | 1502 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Chuck Daigh](chuck-daigh) |
+| 1960 | [Round 5: Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix) | 1960-06-19 | global | Scarab | Q:16/R:DNF | 1491 | +11 | 1502 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Chuck Daigh](chuck-daigh) |

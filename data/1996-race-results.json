@@ -7131,124 +7131,124 @@
   ],
   "finalELOs": {
     "michael_schumacher": {
-      "qualifyingElo": 2091,
-      "raceElo": 1805,
-      "globalElo": 1891
+      "qualifyingElo": 1870,
+      "raceElo": 1720,
+      "globalElo": 1766
     },
     "frentzen": {
-      "qualifyingElo": 1859,
-      "raceElo": 1766,
-      "globalElo": 1794
+      "qualifyingElo": 1688,
+      "raceElo": 1765,
+      "globalElo": 1741
     },
     "alesi": {
-      "qualifyingElo": 1857,
-      "raceElo": 1673,
-      "globalElo": 1728
-    },
-    "hakkinen": {
-      "qualifyingElo": 1696,
-      "raceElo": 1673,
-      "globalElo": 1679
+      "qualifyingElo": 1759,
+      "raceElo": 1692,
+      "globalElo": 1709
     },
     "berger": {
-      "qualifyingElo": 1749,
-      "raceElo": 1614,
-      "globalElo": 1656
-    },
-    "panis": {
-      "qualifyingElo": 1636,
-      "raceElo": 1611,
-      "globalElo": 1621
-    },
-    "salo": {
-      "qualifyingElo": 1455,
-      "raceElo": 1659,
-      "globalElo": 1599
+      "qualifyingElo": 1657,
+      "raceElo": 1625,
+      "globalElo": 1637
     },
     "brundle": {
-      "qualifyingElo": 1600,
-      "raceElo": 1561,
-      "globalElo": 1572
+      "qualifyingElo": 1640,
+      "raceElo": 1597,
+      "globalElo": 1608
+    },
+    "hakkinen": {
+      "qualifyingElo": 1688,
+      "raceElo": 1566,
+      "globalElo": 1602
     },
     "verstappen": {
-      "qualifyingElo": 1749,
-      "raceElo": 1480,
-      "globalElo": 1561
+      "qualifyingElo": 1754,
+      "raceElo": 1522,
+      "globalElo": 1592
     },
-    "herbert": {
-      "qualifyingElo": 1646,
-      "raceElo": 1487,
-      "globalElo": 1536
-    },
-    "fisichella": {
-      "qualifyingElo": 1584,
-      "raceElo": 1511,
-      "globalElo": 1533
-    },
-    "irvine": {
-      "qualifyingElo": 1611,
-      "raceElo": 1496,
-      "globalElo": 1530
-    },
-    "villeneuve": {
-      "qualifyingElo": 1395,
+    "salo": {
+      "qualifyingElo": 1557,
       "raceElo": 1583,
-      "globalElo": 1527
+      "globalElo": 1576
     },
     "barrichello": {
-      "qualifyingElo": 1575,
-      "raceElo": 1478,
-      "globalElo": 1508
+      "qualifyingElo": 1623,
+      "raceElo": 1515,
+      "globalElo": 1550
     },
-    "damon_hill": {
-      "qualifyingElo": 1562,
-      "raceElo": 1465,
-      "globalElo": 1495
+    "herbert": {
+      "qualifyingElo": 1495,
+      "raceElo": 1546,
+      "globalElo": 1533
     },
-    "montermini": {
-      "qualifyingElo": 1523,
-      "raceElo": 1481,
-      "globalElo": 1494
+    "fisichella": {
+      "qualifyingElo": 1612,
+      "raceElo": 1480,
+      "globalElo": 1523
     },
-    "coulthard": {
-      "qualifyingElo": 1438,
-      "raceElo": 1516,
-      "globalElo": 1490
+    "panis": {
+      "qualifyingElo": 1664,
+      "raceElo": 1460,
+      "globalElo": 1520
     },
     "badoer": {
-      "qualifyingElo": 1659,
-      "raceElo": 1411,
-      "globalElo": 1487
+      "qualifyingElo": 1606,
+      "raceElo": 1453,
+      "globalElo": 1498
     },
-    "marques": {
+    "irvine": {
       "qualifyingElo": 1501,
-      "raceElo": 1462,
-      "globalElo": 1474
+      "raceElo": 1486,
+      "globalElo": 1488
+    },
+    "villeneuve": {
+      "qualifyingElo": 1447,
+      "raceElo": 1489,
+      "globalElo": 1475
     },
     "lavaggi": {
-      "qualifyingElo": 1326,
-      "raceElo": 1533,
-      "globalElo": 1470
+      "qualifyingElo": 1267,
+      "raceElo": 1557,
+      "globalElo": 1469
+    },
+    "montermini": {
+      "qualifyingElo": 1396,
+      "raceElo": 1483,
+      "globalElo": 1458
     },
     "lamy": {
-      "qualifyingElo": 1496,
-      "raceElo": 1432,
-      "globalElo": 1451
+      "qualifyingElo": 1484,
+      "raceElo": 1420,
+      "globalElo": 1439
     },
-    "diniz": {
-      "qualifyingElo": 1313,
-      "raceElo": 1508,
-      "globalElo": 1449
+    "damon_hill": {
+      "qualifyingElo": 1592,
+      "raceElo": 1368,
+      "globalElo": 1437
+    },
+    "coulthard": {
+      "qualifyingElo": 1448,
+      "raceElo": 1433,
+      "globalElo": 1437
     },
     "rosset": {
-      "qualifyingElo": 1320,
-      "raceElo": 1479,
-      "globalElo": 1431
+      "qualifyingElo": 1292,
+      "raceElo": 1474,
+      "globalElo": 1420
+    },
+    "marques": {
+      "qualifyingElo": 1382,
+      "raceElo": 1409,
+      "globalElo": 1401
     },
     "katayama": {
-      "qualifyingElo": 1408,
-      "raceElo": 1372,
-      "globalElo": 1381
+      "qualifyingElo": 1518,
+      "raceElo": 1341,
+      "globalElo": 1391
+    },
+    "diniz": {
+      "qualifyingElo": 1307,
+      "raceElo": 1364,
+      "globalElo": 1347
     }
   }
 }

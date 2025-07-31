@@ -3309,64 +3309,64 @@
   ],
   "finalELOs": {
     "manzon": {
-      "qualifyingElo": 1558,
+      "qualifyingElo": 1580,
       "raceElo": 1532,
-      "globalElo": 1540
+      "globalElo": 1547
     },
     "gerard": {
-      "qualifyingElo": 1468,
-      "raceElo": 1532,
-      "globalElo": 1513
+      "qualifyingElo": 1474,
+      "raceElo": 1558,
+      "globalElo": 1534
     },
     "ascari": {
-      "qualifyingElo": 1468,
+      "qualifyingElo": 1494,
       "raceElo": 1532,
-      "globalElo": 1513
+      "globalElo": 1521
     },
     "crossley": {
-      "qualifyingElo": 1532,
+      "qualifyingElo": 1558,
       "raceElo": 1500,
-      "globalElo": 1510
+      "globalElo": 1518
     },
     "george_connor": {
-      "qualifyingElo": 1532,
+      "qualifyingElo": 1558,
       "raceElo": 1500,
-      "globalElo": 1510
+      "globalElo": 1518
     },
     "webb": {
-      "qualifyingElo": 1532,
+      "qualifyingElo": 1558,
       "raceElo": 1500,
-      "globalElo": 1510
+      "globalElo": 1518
     },
     "kelly": {
-      "qualifyingElo": 1468,
+      "qualifyingElo": 1442,
       "raceElo": 1500,
-      "globalElo": 1490
+      "globalElo": 1482
     },
     "ruttman": {
-      "qualifyingElo": 1468,
+      "qualifyingElo": 1442,
       "raceElo": 1500,
-      "globalElo": 1490
+      "globalElo": 1482
     },
     "banks": {
-      "qualifyingElo": 1468,
+      "qualifyingElo": 1442,
       "raceElo": 1500,
-      "globalElo": 1490
-    },
-    "harrison": {
-      "qualifyingElo": 1532,
-      "raceElo": 1468,
-      "globalElo": 1487
+      "globalElo": 1482
     },
     "villoresi": {
-      "qualifyingElo": 1532,
+      "qualifyingElo": 1506,
       "raceElo": 1468,
-      "globalElo": 1487
+      "globalElo": 1479
+    },
+    "harrison": {
+      "qualifyingElo": 1561,
+      "raceElo": 1442,
+      "globalElo": 1478
     },
     "trintignant": {
-      "qualifyingElo": 1442,
+      "qualifyingElo": 1420,
       "raceElo": 1468,
-      "globalElo": 1460
+      "globalElo": 1453
     }
   }
 }

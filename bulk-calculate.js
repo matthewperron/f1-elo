@@ -1,5 +1,5 @@
 import { fetchAllSeasonResults, transformRaceData, saveToFile } from './fetch-results.js';
-import { calculateELO, updateHomepageFiles, saveFinalELOs, generateSeasonReport, cleanDriverNameForFilename } from './calculate-elo.js';
+import { calculateELO, updateHomepageFiles, saveFinalELOs, generateSeasonReport, cleanDriverNameForFilename, clearELOCache } from './calculate-elo.js';
 import fs from 'fs/promises';
 
 /**
@@ -562,6 +562,9 @@ async function bulkCalculate() {
     console.log(`Processing seasons: ${startYear} to ${endYear}`);
     console.log(`Total seasons: ${endYear - startYear + 1}`);
     console.log(`${'='.repeat(80)}`);
+    
+    // Clear ELO cache to ensure fresh historical data for bulk operations
+    clearELOCache();
     
     const results = [];
     const startTime = Date.now();

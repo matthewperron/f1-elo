@@ -11,30 +11,30 @@
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1468
+**Career Journey**: 1468 → 1442
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak ELO**: 1442
    *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest ELO**: 1442
    *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1468
+**Career Journey**: 1468 → 1442
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak ELO**: 1442
    *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest ELO**: 1442
    *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1468
+**Career Journey**: 1468 → 1442
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak ELO**: 1442
    *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest ELO**: 1442
    *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
 
@@ -42,6 +42,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | qualifying | BMW | 32 | 1500 | -32 | 1468 | [Rudolf Krause](rudolf-krause) |
-| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | race | BMW | 15 | 1500 | -32 | 1468 | [Rudolf Krause](rudolf-krause) |
-| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | global | BMW | Q:32/R:15 | 1500 | -32 | 1468 | [Rudolf Krause](rudolf-krause) |
+| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | qualifying | BMW | 32 | 1468 | -26 | 1442 | [Rudolf Krause](rudolf-krause) |
+| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | race | BMW | 15 | 1468 | -26 | 1442 | [Rudolf Krause](rudolf-krause) |
+| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | global | BMW | Q:32/R:15 | 1468 | -26 | 1442 | [Rudolf Krause](rudolf-krause) |

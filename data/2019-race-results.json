@@ -11118,105 +11118,105 @@
     }
   ],
   "finalELOs": {
-    "hamilton": {
-      "qualifyingElo": 1908,
-      "raceElo": 1696,
-      "globalElo": 1762
-    },
     "max_verstappen": {
-      "qualifyingElo": 1739,
-      "raceElo": 1732,
-      "globalElo": 1734
-    },
-    "perez": {
-      "qualifyingElo": 1534,
-      "raceElo": 1714,
-      "globalElo": 1663
-    },
-    "raikkonen": {
-      "qualifyingElo": 1504,
-      "raceElo": 1691,
-      "globalElo": 1638
+      "qualifyingElo": 1941,
+      "raceElo": 1956,
+      "globalElo": 1949
     },
     "russell": {
-      "qualifyingElo": 1621,
-      "raceElo": 1633,
-      "globalElo": 1631
-    },
-    "ricciardo": {
-      "qualifyingElo": 1723,
-      "raceElo": 1580,
-      "globalElo": 1622
-    },
-    "vettel": {
-      "qualifyingElo": 1652,
-      "raceElo": 1611,
-      "globalElo": 1618
-    },
-    "bottas": {
-      "qualifyingElo": 1755,
-      "raceElo": 1558,
-      "globalElo": 1614
-    },
-    "leclerc": {
-      "qualifyingElo": 1731,
-      "raceElo": 1533,
-      "globalElo": 1592
-    },
-    "kevin_magnussen": {
-      "qualifyingElo": 1547,
-      "raceElo": 1596,
-      "globalElo": 1581
-    },
-    "sainz": {
-      "qualifyingElo": 1557,
-      "raceElo": 1574,
-      "globalElo": 1570
-    },
-    "gasly": {
-      "qualifyingElo": 1568,
-      "raceElo": 1518,
-      "globalElo": 1533
-    },
-    "norris": {
-      "qualifyingElo": 1540,
-      "raceElo": 1520,
-      "globalElo": 1527
+      "qualifyingElo": 1806,
+      "raceElo": 1800,
+      "globalElo": 1802
     },
     "albon": {
-      "qualifyingElo": 1471,
-      "raceElo": 1519,
-      "globalElo": 1503
+      "qualifyingElo": 1646,
+      "raceElo": 1719,
+      "globalElo": 1698
     },
-    "grosjean": {
-      "qualifyingElo": 1471,
-      "raceElo": 1513,
-      "globalElo": 1500
+    "gasly": {
+      "qualifyingElo": 1726,
+      "raceElo": 1668,
+      "globalElo": 1684
     },
-    "hulkenberg": {
-      "qualifyingElo": 1635,
-      "raceElo": 1427,
-      "globalElo": 1487
+    "raikkonen": {
+      "qualifyingElo": 1527,
+      "raceElo": 1711,
+      "globalElo": 1660
+    },
+    "hamilton": {
+      "qualifyingElo": 1749,
+      "raceElo": 1598,
+      "globalElo": 1648
+    },
+    "vettel": {
+      "qualifyingElo": 1597,
+      "raceElo": 1647,
+      "globalElo": 1626
+    },
+    "sainz": {
+      "qualifyingElo": 1686,
+      "raceElo": 1592,
+      "globalElo": 1616
+    },
+    "leclerc": {
+      "qualifyingElo": 1679,
+      "raceElo": 1577,
+      "globalElo": 1610
     },
     "kvyat": {
-      "qualifyingElo": 1385,
-      "raceElo": 1489,
-      "globalElo": 1459
+      "qualifyingElo": 1527,
+      "raceElo": 1630,
+      "globalElo": 1601
     },
-    "giovinazzi": {
-      "qualifyingElo": 1546,
-      "raceElo": 1411,
-      "globalElo": 1453
+    "norris": {
+      "qualifyingElo": 1671,
+      "raceElo": 1551,
+      "globalElo": 1589
     },
-    "stroll": {
-      "qualifyingElo": 1326,
-      "raceElo": 1422,
-      "globalElo": 1393
+    "ricciardo": {
+      "qualifyingElo": 1535,
+      "raceElo": 1582,
+      "globalElo": 1564
+    },
+    "perez": {
+      "qualifyingElo": 1509,
+      "raceElo": 1579,
+      "globalElo": 1560
+    },
+    "bottas": {
+      "qualifyingElo": 1604,
+      "raceElo": 1477,
+      "globalElo": 1509
     },
     "kubica": {
-      "qualifyingElo": 1379,
-      "raceElo": 1367,
-      "globalElo": 1369
+      "qualifyingElo": 1547,
+      "raceElo": 1492,
+      "globalElo": 1508
+    },
+    "kevin_magnussen": {
+      "qualifyingElo": 1517,
+      "raceElo": 1473,
+      "globalElo": 1485
+    },
+    "giovinazzi": {
+      "qualifyingElo": 1572,
+      "raceElo": 1437,
+      "globalElo": 1478
+    },
+    "hulkenberg": {
+      "qualifyingElo": 1443,
+      "raceElo": 1427,
+      "globalElo": 1431
+    },
+    "grosjean": {
+      "qualifyingElo": 1439,
+      "raceElo": 1395,
+      "globalElo": 1409
+    },
+    "stroll": {
+      "qualifyingElo": 1272,
+      "raceElo": 1297,
+      "globalElo": 1293
     }
   }
 }

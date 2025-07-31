@@ -6529,90 +6529,90 @@
     }
   ],
   "finalELOs": {
-    "emerson_fittipaldi": {
-      "qualifyingElo": 1692,
-      "raceElo": 1625,
-      "globalElo": 1646
-    },
     "stewart": {
-      "qualifyingElo": 1696,
-      "raceElo": 1619,
-      "globalElo": 1644
-    },
-    "ickx": {
-      "qualifyingElo": 1511,
-      "raceElo": 1623,
-      "globalElo": 1587
-    },
-    "schenken": {
-      "qualifyingElo": 1548,
-      "raceElo": 1573,
-      "globalElo": 1566
-    },
-    "wilson_fittipaldi": {
-      "qualifyingElo": 1489,
-      "raceElo": 1542,
-      "globalElo": 1526
+      "qualifyingElo": 1715,
+      "raceElo": 1569,
+      "globalElo": 1614
     },
     "hulme": {
-      "qualifyingElo": 1571,
-      "raceElo": 1503,
-      "globalElo": 1524
+      "qualifyingElo": 1602,
+      "raceElo": 1529,
+      "globalElo": 1552
     },
-    "regazzoni": {
-      "qualifyingElo": 1619,
-      "raceElo": 1456,
-      "globalElo": 1506
+    "emerson_fittipaldi": {
+      "qualifyingElo": 1524,
+      "raceElo": 1564,
+      "globalElo": 1552
+    },
+    "schenken": {
+      "qualifyingElo": 1565,
+      "raceElo": 1534,
+      "globalElo": 1544
     },
     "reutemann": {
-      "qualifyingElo": 1487,
-      "raceElo": 1500,
-      "globalElo": 1496
-    },
-    "merzario": {
-      "qualifyingElo": 1472,
-      "raceElo": 1500,
-      "globalElo": 1492
+      "qualifyingElo": 1661,
+      "raceElo": 1474,
+      "globalElo": 1528
     },
     "revson": {
-      "qualifyingElo": 1561,
-      "raceElo": 1461,
-      "globalElo": 1490
+      "qualifyingElo": 1601,
+      "raceElo": 1486,
+      "globalElo": 1519
     },
-    "adamich": {
-      "qualifyingElo": 1444,
-      "raceElo": 1500,
-      "globalElo": 1484
+    "wilson_fittipaldi": {
+      "qualifyingElo": 1377,
+      "raceElo": 1575,
+      "globalElo": 1516
     },
-    "redman": {
-      "qualifyingElo": 1439,
-      "raceElo": 1496,
-      "globalElo": 1480
-    },
-    "galli": {
-      "qualifyingElo": 1438,
-      "raceElo": 1482,
-      "globalElo": 1469
+    "merzario": {
+      "qualifyingElo": 1473,
+      "raceElo": 1523,
+      "globalElo": 1509
     },
     "wisell": {
-      "qualifyingElo": 1446,
-      "raceElo": 1442,
-      "globalElo": 1444
-    },
-    "walker": {
-      "qualifyingElo": 1396,
-      "raceElo": 1433,
-      "globalElo": 1421
+      "qualifyingElo": 1490,
+      "raceElo": 1500,
+      "globalElo": 1498
     },
     "hill": {
-      "qualifyingElo": 1479,
-      "raceElo": 1353,
-      "globalElo": 1391
+      "qualifyingElo": 1420,
+      "raceElo": 1501,
+      "globalElo": 1478
+    },
+    "adamich": {
+      "qualifyingElo": 1398,
+      "raceElo": 1500,
+      "globalElo": 1470
+    },
+    "redman": {
+      "qualifyingElo": 1386,
+      "raceElo": 1472,
+      "globalElo": 1447
+    },
+    "ickx": {
+      "qualifyingElo": 1362,
+      "raceElo": 1473,
+      "globalElo": 1439
+    },
+    "galli": {
+      "qualifyingElo": 1434,
+      "raceElo": 1423,
+      "globalElo": 1427
+    },
+    "regazzoni": {
+      "qualifyingElo": 1400,
+      "raceElo": 1427,
+      "globalElo": 1419
     },
     "cevert": {
-      "qualifyingElo": 1304,
-      "raceElo": 1381,
-      "globalElo": 1356
+      "qualifyingElo": 1285,
+      "raceElo": 1431,
+      "globalElo": 1386
+    },
+    "walker": {
+      "qualifyingElo": 1252,
+      "raceElo": 1367,
+      "globalElo": 1332
     }
   }
 }

@@ -11,21 +11,21 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1532
+**Career Journey**: 1532 → 1564
 
-🏆 **Peak ELO**: 1532
+🏆 **Peak ELO**: 1564
    *[1955 Round 3 - Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest ELO**: 1532
+📉 **Lowest ELO**: 1564
    *[1955 Round 3 - Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1510
+**Career Journey**: 1510 → 1520
 
-🏆 **Peak ELO**: 1510
+🏆 **Peak ELO**: 1520
    *[1955 Round 3 - Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest ELO**: 1510
+📉 **Lowest ELO**: 1520
    *[1955 Round 3 - Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500)*
 
 
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1955 | [Round 3: Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | 1955-05-30 | qualifying | Trevis | 31 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
+| 1955 | [Round 3: Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | 1955-05-30 | qualifying | Trevis | 31 | 1532 | +32 | 1564 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
 | 1955 | [Round 3: Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | 1955-05-30 | race | Trevis | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
-| 1955 | [Round 3: Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | 1955-05-30 | global | Trevis | Q:31/R:DNF | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
+| 1955 | [Round 3: Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | 1955-05-30 | global | Trevis | Q:31/R:DNF | 1510 | +10 | 1520 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |

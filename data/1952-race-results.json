@@ -4327,79 +4327,79 @@
   ],
   "finalELOs": {
     "bira": {
-      "qualifyingElo": 1561,
-      "raceElo": 1532,
-      "globalElo": 1541
+      "qualifyingElo": 1607,
+      "raceElo": 1558,
+      "globalElo": 1573
     },
     "graffenried": {
+      "qualifyingElo": 1588,
+      "raceElo": 1500,
+      "globalElo": 1527
+    },
+    "schindler": {
       "qualifyingElo": 1564,
       "raceElo": 1500,
       "globalElo": 1520
     },
-    "schindler": {
-      "qualifyingElo": 1535,
-      "raceElo": 1500,
-      "globalElo": 1511
-    },
     "manzon": {
-      "qualifyingElo": 1532,
+      "qualifyingElo": 1560,
       "raceElo": 1500,
-      "globalElo": 1510
+      "globalElo": 1518
     },
     "alan_brown": {
-      "qualifyingElo": 1532,
+      "qualifyingElo": 1558,
       "raceElo": 1500,
-      "globalElo": 1510
-    },
-    "trintignant": {
-      "qualifyingElo": 1532,
-      "raceElo": 1500,
-      "globalElo": 1510
+      "globalElo": 1518
     },
     "heeks": {
-      "qualifyingElo": 1532,
+      "qualifyingElo": 1558,
       "raceElo": 1500,
-      "globalElo": 1510
+      "globalElo": 1518
     },
-    "ball": {
-      "qualifyingElo": 1497,
+    "trintignant": {
+      "qualifyingElo": 1500,
       "raceElo": 1500,
       "globalElo": 1500
     },
     "behra": {
-      "qualifyingElo": 1468,
-      "raceElo": 1500,
-      "globalElo": 1490
+      "qualifyingElo": 1465,
+      "raceElo": 1506,
+      "globalElo": 1494
     },
-    "brandon": {
+    "ball": {
       "qualifyingElo": 1468,
       "raceElo": 1500,
-      "globalElo": 1490
+      "globalElo": 1491
     },
     "terra": {
-      "qualifyingElo": 1468,
+      "qualifyingElo": 1444,
       "raceElo": 1500,
-      "globalElo": 1490
+      "globalElo": 1483
     },
-    "claes": {
-      "qualifyingElo": 1468,
+    "brandon": {
+      "qualifyingElo": 1442,
       "raceElo": 1500,
-      "globalElo": 1490
+      "globalElo": 1482
     },
     "niedermayr": {
-      "qualifyingElo": 1468,
+      "qualifyingElo": 1442,
       "raceElo": 1500,
-      "globalElo": 1490
+      "globalElo": 1482
     },
     "schell": {
-      "qualifyingElo": 1500,
-      "raceElo": 1468,
-      "globalElo": 1477
+      "qualifyingElo": 1447,
+      "raceElo": 1494,
+      "globalElo": 1480
+    },
+    "claes": {
+      "qualifyingElo": 1436,
+      "raceElo": 1500,
+      "globalElo": 1480
     },
     "obrien": {
-      "qualifyingElo": 1471,
-      "raceElo": 1468,
-      "globalElo": 1469
+      "qualifyingElo": 1449,
+      "raceElo": 1442,
+      "globalElo": 1444
     }
   }
 }

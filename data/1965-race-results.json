@@ -4138,94 +4138,94 @@
   ],
   "finalELOs": {
     "clark": {
-      "qualifyingElo": 1717,
-      "raceElo": 1649,
-      "globalElo": 1670
+      "qualifyingElo": 1704,
+      "raceElo": 1608,
+      "globalElo": 1637
     },
     "surtees": {
-      "qualifyingElo": 1692,
-      "raceElo": 1643,
-      "globalElo": 1658
+      "qualifyingElo": 1596,
+      "raceElo": 1609,
+      "globalElo": 1606
     },
-    "mclaren": {
-      "qualifyingElo": 1646,
-      "raceElo": 1607,
-      "globalElo": 1619
+    "stewart": {
+      "qualifyingElo": 1468,
+      "raceElo": 1591,
+      "globalElo": 1556
     },
     "hill": {
-      "qualifyingElo": 1754,
-      "raceElo": 1511,
-      "globalElo": 1586
+      "qualifyingElo": 1556,
+      "raceElo": 1552,
+      "globalElo": 1554
+    },
+    "ginther": {
+      "qualifyingElo": 1555,
+      "raceElo": 1523,
+      "globalElo": 1533
+    },
+    "mclaren": {
+      "qualifyingElo": 1453,
+      "raceElo": 1561,
+      "globalElo": 1529
     },
     "siffert": {
-      "qualifyingElo": 1692,
-      "raceElo": 1506,
-      "globalElo": 1562
-    },
-    "amon": {
-      "qualifyingElo": 1650,
+      "qualifyingElo": 1648,
       "raceElo": 1468,
       "globalElo": 1522
     },
-    "stewart": {
-      "qualifyingElo": 1485,
-      "raceElo": 1530,
-      "globalElo": 1517
+    "hawkins": {
+      "qualifyingElo": 1558,
+      "raceElo": 1500,
+      "globalElo": 1518
     },
     "ireland": {
-      "qualifyingElo": 1504,
-      "raceElo": 1521,
-      "globalElo": 1515
+      "qualifyingElo": 1471,
+      "raceElo": 1529,
+      "globalElo": 1511
     },
-    "hawkins": {
-      "qualifyingElo": 1532,
-      "raceElo": 1500,
-      "globalElo": 1510
-    },
-    "hailwood": {
-      "qualifyingElo": 1457,
-      "raceElo": 1532,
-      "globalElo": 1510
+    "amon": {
+      "qualifyingElo": 1599,
+      "raceElo": 1471,
+      "globalElo": 1509
     },
     "attwood": {
-      "qualifyingElo": 1553,
-      "raceElo": 1485,
-      "globalElo": 1506
+      "qualifyingElo": 1560,
+      "raceElo": 1477,
+      "globalElo": 1502
     },
     "prophet": {
-      "qualifyingElo": 1468,
+      "qualifyingElo": 1442,
       "raceElo": 1500,
-      "globalElo": 1490
+      "globalElo": 1482
     },
-    "ginther": {
-      "qualifyingElo": 1516,
-      "raceElo": 1465,
-      "globalElo": 1480
-    },
-    "gardner": {
-      "qualifyingElo": 1402,
-      "raceElo": 1500,
-      "globalElo": 1470
+    "hailwood": {
+      "qualifyingElo": 1479,
+      "raceElo": 1442,
+      "globalElo": 1454
     },
     "rindt": {
-      "qualifyingElo": 1480,
-      "raceElo": 1451,
-      "globalElo": 1460
+      "qualifyingElo": 1408,
+      "raceElo": 1468,
+      "globalElo": 1450
+    },
+    "gardner": {
+      "qualifyingElo": 1324,
+      "raceElo": 1500,
+      "globalElo": 1447
     },
     "bucknum": {
-      "qualifyingElo": 1422,
-      "raceElo": 1461,
-      "globalElo": 1449
+      "qualifyingElo": 1383,
+      "raceElo": 1403,
+      "globalElo": 1396
     },
     "bandini": {
-      "qualifyingElo": 1412,
-      "raceElo": 1418,
-      "globalElo": 1416
+      "qualifyingElo": 1416,
+      "raceElo": 1384,
+      "globalElo": 1392
     },
     "spence": {
-      "qualifyingElo": 1382,
-      "raceElo": 1383,
-      "globalElo": 1382
+      "qualifyingElo": 1361,
+      "raceElo": 1311,
+      "globalElo": 1325
     }
   }
 }

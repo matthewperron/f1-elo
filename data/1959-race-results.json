@@ -3896,74 +3896,74 @@
   ],
   "finalELOs": {
     "thomson": {
-      "qualifyingElo": 1532,
-      "raceElo": 1532,
-      "globalElo": 1532
+      "qualifyingElo": 1558,
+      "raceElo": 1558,
+      "globalElo": 1558
     },
     "bristow": {
-      "qualifyingElo": 1532,
-      "raceElo": 1532,
-      "globalElo": 1532
+      "qualifyingElo": 1558,
+      "raceElo": 1558,
+      "globalElo": 1558
     },
     "hill": {
-      "qualifyingElo": 1659,
-      "raceElo": 1468,
-      "globalElo": 1526
-    },
-    "salvadori": {
-      "qualifyingElo": 1556,
-      "raceElo": 1503,
-      "globalElo": 1519
+      "qualifyingElo": 1555,
+      "raceElo": 1534,
+      "globalElo": 1541
     },
     "burgess": {
-      "qualifyingElo": 1532,
+      "qualifyingElo": 1566,
       "raceElo": 1500,
-      "globalElo": 1510
+      "globalElo": 1520
     },
-    "ireland": {
-      "qualifyingElo": 1445,
-      "raceElo": 1532,
-      "globalElo": 1506
-    },
-    "bonnier": {
-      "qualifyingElo": 1504,
-      "raceElo": 1500,
-      "globalElo": 1501
-    },
-    "halford": {
-      "qualifyingElo": 1471,
-      "raceElo": 1500,
-      "globalElo": 1491
+    "salvadori": {
+      "qualifyingElo": 1488,
+      "raceElo": 1529,
+      "globalElo": 1516
     },
     "herrmann": {
-      "qualifyingElo": 1468,
-      "raceElo": 1500,
-      "globalElo": 1490
+      "qualifyingElo": 1474,
+      "raceElo": 1532,
+      "globalElo": 1514
     },
-    "stacey": {
-      "qualifyingElo": 1459,
+    "ireland": {
+      "qualifyingElo": 1404,
+      "raceElo": 1557,
+      "globalElo": 1510
+    },
+    "halford": {
+      "qualifyingElo": 1430,
       "raceElo": 1500,
-      "globalElo": 1488
+      "globalElo": 1479
     },
     "schell": {
-      "qualifyingElo": 1471,
+      "qualifyingElo": 1438,
       "raceElo": 1494,
-      "globalElo": 1487
+      "globalElo": 1477
+    },
+    "stacey": {
+      "qualifyingElo": 1418,
+      "raceElo": 1500,
+      "globalElo": 1476
+    },
+    "bonnier": {
+      "qualifyingElo": 1492,
+      "raceElo": 1465,
+      "globalElo": 1473
     },
     "sutton": {
-      "qualifyingElo": 1468,
-      "raceElo": 1468,
-      "globalElo": 1468
+      "qualifyingElo": 1442,
+      "raceElo": 1442,
+      "globalElo": 1442
     },
     "bueb": {
-      "qualifyingElo": 1468,
-      "raceElo": 1468,
-      "globalElo": 1468
+      "qualifyingElo": 1442,
+      "raceElo": 1442,
+      "globalElo": 1442
     },
     "shelby": {
-      "qualifyingElo": 1435,
-      "raceElo": 1465,
-      "globalElo": 1456
+      "qualifyingElo": 1369,
+      "raceElo": 1436,
+      "globalElo": 1416
     }
   }
 }

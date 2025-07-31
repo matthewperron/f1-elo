@@ -11,21 +11,21 @@
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1535
+**Career Journey**: 1535 → 1564
 
-🏆 **Peak ELO**: 1535
+🏆 **Peak ELO**: 1564
    *[1952 Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
 
-📉 **Lowest ELO**: 1535
+📉 **Lowest ELO**: 1564
    *[1952 Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1511
+**Career Journey**: 1511 → 1520
 
-🏆 **Peak ELO**: 1511
+🏆 **Peak ELO**: 1520
    *[1952 Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
 
-📉 **Lowest ELO**: 1511
+📉 **Lowest ELO**: 1520
    *[1952 Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
 
 
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1952 | [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | qualifying | Stevens | 15 | 1500 | +35 | 1535 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball) |
+| 1952 | [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | qualifying | Stevens | 15 | 1535 | +29 | 1564 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball) |
 | 1952 | [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | race | Stevens | 14 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball) |
-| 1952 | [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | global | Stevens | Q:15/R:14 | 1500 | +11 | 1511 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball) |
+| 1952 | [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | global | Stevens | Q:15/R:14 | 1511 | +9 | 1520 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball) |
