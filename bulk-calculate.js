@@ -188,12 +188,24 @@ async function updateIndexWithTop30(peakDriversData) {
             tableContent += `|------|--------|----------|-------------|--------|------|----------|--------------||\n`;
             
             top30.forEach((driver, index) => {
+                // Create driver link
+                const cleanDriverName = cleanDriverNameForFilename(driver.name);
+                const driverLink = `[${driver.name}](drivers/${cleanDriverName})`;
+                
+                // Create season link
+                const seasonLink = `[${driver.season}](seasons/${driver.season}-season-report)`;
+                
+                // Create teammate link
+                const cleanTeammateName = cleanDriverNameForFilename(driver.teammate);
+                const teammateLink = `[${driver.teammate}](drivers/${cleanTeammateName})`;
+                
                 // Create anchor link for the specific race (format: round-{number}-{racename})
                 const roundNumber = driver.round || 'unknown';
                 const raceTitle = `Round ${roundNumber}: ${driver.race}`;
                 const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
                 const raceLink = `[${raceTitle}](./seasons/${driver.season}-season-report#${raceAnchor})`;
-                tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor}|  ${driver.season} | ${raceLink} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} |\n`;
+                
+                tableContent += `| ${index + 1} | ${driverLink} | **${driver.peak}** | ${driver.constructor} | ${seasonLink} | ${raceLink} | ${teammateLink} | ${driver.teammateElo || 'N/A'} |\n`;
             });
             
             return tableContent + "\n\n";
@@ -203,18 +215,18 @@ async function updateIndexWithTop30(peakDriversData) {
         let allTablesContent = '';
         allTablesContent += createTop30Table(
             peakDriversData.race, 
-            '[Top 30 F1 Drivers of All Time](peak-elo) - Race Performance',
-            'Based on peak **Race Elo** ratings (race finishing positions vs teammates).'
+            '[Top 30 F1 Drivers of All Time](/peak-elo#peak-race-elo-rankings) - Race Performance',
+            'Based on peak **Race Elo** ratings (race finishing positions vs teammates) • [See complete list here](/peak-elo#peak-race-elo-rankings)'
         );
         allTablesContent += createTop30Table(
             peakDriversData.qualifying, 
-            '[Top 30 F1 Drivers of All Time](peak-elo) - Qualifying Performance', 
-            'Based on peak **Qualifying Elo** ratings (qualifying positions vs teammates).'
+            '[Top 30 F1 Drivers of All Time](peak-elo#peak-qualifying-elo-rankings) - Qualifying Performance', 
+            'Based on peak **Qualifying Elo** ratings (qualifying positions vs teammates) • [See complete list here](/peak-elo#peak-qualifying-elo-rankings)'
         );
         allTablesContent += createTop30Table(
             peakDriversData.global, 
-            '[Top 30 F1 Drivers of All Time](peak-elo) - Overall Performance',
-            'Based on peak **Global Elo** ratings (30% qualifying + 70% race performance vs teammates).'
+            '[Top 30 F1 Drivers of All Time](peak-elo#peak-overall-elo-rankings) - Overall Performance',
+            'Based on peak **Global Elo** ratings (30% qualifying + 70% race performance vs teammates) • [See complete list here](/peak-elo#peak-overall-elo-rankings)'
         );
         
         const now = new Date();

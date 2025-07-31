@@ -110,6 +110,24 @@ function formatEloChange(change) {
 }
 
 /**
+ * Format ELO with delta and arrow
+ * @param {number} finalElo - The final ELO rating
+ * @param {number} eloChange - The ELO change (can be positive or negative)
+ * @returns {string} Formatted ELO string with HTML styling
+ */
+function formatEloWithDelta(finalElo, eloChange) {
+    if (eloChange === 0) {
+        return `${finalElo} ↔ 0`;
+    }
+    
+    const arrow = eloChange > 0 ? '▲' : '▼';
+    const color = eloChange > 0 ? 'green' : 'red';
+    const sign = eloChange > 0 ? '+' : '';
+    
+    return `${finalElo} **<span style="color: ${color};">${arrow} ${sign}${eloChange}</span>**`;
+}
+
+/**
  * Clean driver name for filename (same logic as bulk-calculate.js)
  */
 function cleanDriverNameForFilename(driverName) {
@@ -787,8 +805,14 @@ async function updateHomepageFiles(driverRatings, season, useComprehensiveLinks 
                 // Use comprehensive table generator if requested (for bulk processing)
                 const table = generateELOTable(driverRatings, season, file.isGithubPages);
                 
-                const newContent = `### Elo Ratings (${season} Season)
+                const newContent = `### Current Elo Ratings (during the ${season} season)
 *Last updated: ${timestamp}*
+
+- This table shows the current Elo ratings of drivers currently on the grid for the ${season} season. Some drivers may have peaked earlier in their careers, so this is not a comprehensive list of the best drivers of all time.
+
+- For the all-time best drivers, see: [Best Qualifying Elo](${file.isGithubPages ? 'peak-elo#best-qualifying-elo' : 'docs/peak-elo.md#best-qualifying-elo'}) | [Best Race Elo](${file.isGithubPages ? 'peak-elo#best-race-elo' : 'docs/peak-elo.md#best-race-elo'}) | [Best Global Elo](${file.isGithubPages ? 'peak-elo#best-global-elo' : 'docs/peak-elo.md#best-global-elo'})*
+
+- The Global Elo combines qualifying (30%) and race (70%) Elo changes using a weighted calculation to provide a comprehensive driver rating.*
 
 ${table}
 
@@ -820,8 +844,8 @@ ${table}
  * Generate comprehensive ELO table for README (links to comprehensive driver files)
  */
 function generateComprehensiveELOTable(driverRatings) {
-    let table = '| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final Elo |\n';
-    table    += '|------|--------------|--------|-------------|----------------|----------|-----------|\n';
+    let table = '| Rank | Driver | Constructor | Qualifying Elo | Race Elo | Global Elo |\n';
+    table    += '|------|--------|-------------|----------------|----------|------------|\n';
     
     driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
         // Create driver file link (comprehensive, no season)
@@ -829,10 +853,20 @@ function generateComprehensiveELOTable(driverRatings) {
         
         const driverLink = `[${driver.name}](docs/drivers/${cleanDriverName}.md)`;
         
-        table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
+        // Calculate changes from starting Elo
+        const qualifyingChange = driver.qualifyingElo - driver.startingElo;
+        const raceChange = driver.raceElo - driver.startingElo;
+        const globalChange = driver.globalElo - driver.startingElo;
+        
+        // Format Elo values with deltas
+        const qualifyingEloFormatted = formatEloWithDelta(driver.qualifyingElo, qualifyingChange);
+        const raceEloFormatted = formatEloWithDelta(driver.raceElo, raceChange);
+        const globalEloFormatted = formatEloWithDelta(driver.globalElo, globalChange);
+        
+        table += `| ${index + 1} | ${driverLink} | ${driver.constructor} | ${qualifyingEloFormatted} | ${raceEloFormatted} | ${globalEloFormatted} |\n`;
     });
     
-    return table;
+    return table + "\n";
 }
 
 
@@ -840,8 +874,8 @@ function generateComprehensiveELOTable(driverRatings) {
  * Generate markdown table for README or index
  */
 function generateELOTable(driverRatings, season, isGithubPages = false) {
-    let table = '| Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Elo |\n';
-    table    += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
+    let table = '| Rank | Driver | Constructor | Qualifying Elo | Race Elo | Global Elo |\n';
+    table    += '|------|--------|-------------|----------------|----------|------------|\n';
     
     driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
         // Create driver file link
@@ -850,10 +884,20 @@ function generateELOTable(driverRatings, season, isGithubPages = false) {
         // Different link formats for README vs GitHub Pages
         const driverLink = isGithubPages ? `[${driver.name}](drivers/${cleanDriverName})` : `[${driver.name}](docs/drivers/${cleanDriverName}.md)`;
         
-        table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
+        // Calculate changes from starting Elo
+        const qualifyingChange = driver.qualifyingElo - driver.startingElo;
+        const raceChange = driver.raceElo - driver.startingElo;
+        const globalChange = driver.globalElo - driver.startingElo;
+        
+        // Format Elo values with deltas
+        const qualifyingEloFormatted = formatEloWithDelta(driver.qualifyingElo, qualifyingChange);
+        const raceEloFormatted = formatEloWithDelta(driver.raceElo, raceChange);
+        const globalEloFormatted = formatEloWithDelta(driver.globalElo, globalChange);
+        
+        table += `| ${index + 1} | ${driverLink} | ${driver.constructor} | ${qualifyingEloFormatted} | ${raceEloFormatted} | ${globalEloFormatted} |\n`;
     });
     
-    return table;
+    return table + "\n";
 }
 
 /**
