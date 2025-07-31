@@ -35,7 +35,7 @@ The ELO calculation follows the classic chess ELO formula, comparing each driver
 ## ELO Formula
 
 The standard chess ELO rating system is used with the following parameters:
-- **Starting ELO**: 1000 points (or carried over from previous season)
+- **Starting ELO**: 1500 points (or carried over from previous season)
 - **K-factor**: 64 (determines rating change magnitude)
 - **Expected Score**: E = 1 / (1 + 10^((opponent_elo - player_elo) / 400))
 - **New Rating**: New_ELO = Old_ELO + K × (Actual_Score - Expected_Score)
@@ -140,34 +140,40 @@ npm start
 # or
 npm run calculate
 
-# Calculate for specific seasons - fetch data + calculate
-npm run calculate -- 2024
-npm run calculate -- 2023
-npm run calculate -- 2022
-
-# Calculate ELO only (from existing data files)
-npm run elo-only          # 2025 (default)
-npm run elo-only -- 2024  # any specific year
-npm run elo-only -- 2023
-npm run elo-only -- 1990
-
-# Just fetch data without calculating (for debugging)
-npm run fetch-only        # 2025 (default)
-npm run fetch-only -- 2024
-
 # Bulk calculate all seasons (generates all season reports)
-npm run rebuild-all        # 1950 to current year
+npm run rebuild-all                  # 1950 to current year
+
+# IMPORTANT: `rebuild-all` is the main script used when changing logic
+#            and regenerating all the markdown files from 1950 to today.
+#            This runs super quickly if all the data has already been 
+#            fetched (in the /data folder)
+
 npm run bulk-calculate -- 1980 2000  # specific year range
 
 # Note: If you get rate-limited during bulk processing, the script will:
 # - Stop processing and show exactly which year failed
 # - Provide the exact command to resume from that year
 # - Wait 5-10 minutes before retrying to respect API limits
+
+# Calculate for specific seasons - fetch data + calculate
+npm run calculate -- 2024
+npm run calculate -- 2023
+npm run calculate -- 2022
+
+# Calculate ELO only (from existing data files)
+npm run elo-only                     # 2025 (default)
+npm run elo-only -- 2024             # any specific year
+npm run elo-only -- 2023
+npm run elo-only -- 1990
+
+# Just fetch data without calculating (for debugging)
+npm run fetch-only                   # 2025 (default)
+npm run fetch-only -- 2024
 ```
 
 This script will:
 1. Check for existing race data in `data/` folder or fetch from Ergast API if needed
-2. Load starting ELO ratings from previous season (defaults to 1000 for new drivers)
+2. Load starting ELO ratings from previous season (defaults to 1500 for new drivers)
 3. Calculate qualifying, race, and global ELO ratings using teammate comparisons
 4. Save final ELO ratings for use as starting ratings in next season
 5. Generate rankings table and update this README with results
