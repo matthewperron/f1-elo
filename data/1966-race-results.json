@@ -3540,33 +3540,28 @@
   "finalELOs": {
     "surtees": {
       "qualifyingElo": 1712,
-      "raceElo": 1622,
-      "globalElo": 1650
+      "raceElo": 1657,
+      "globalElo": 1674
+    },
+    "hill": {
+      "qualifyingElo": 1765,
+      "raceElo": 1545,
+      "globalElo": 1613
     },
     "jack_brabham": {
       "qualifyingElo": 1650,
       "raceElo": 1580,
       "globalElo": 1601
     },
-    "hill": {
-      "qualifyingElo": 1765,
-      "raceElo": 1523,
-      "globalElo": 1598
-    },
     "ginther": {
       "qualifyingElo": 1559,
-      "raceElo": 1493,
-      "globalElo": 1513
+      "raceElo": 1497,
+      "globalElo": 1516
     },
     "anderson": {
       "qualifyingElo": 1503,
       "raceElo": 1500,
       "globalElo": 1501
-    },
-    "parkes": {
-      "qualifyingElo": 1488,
-      "raceElo": 1500,
-      "globalElo": 1496
     },
     "bonnier": {
       "qualifyingElo": 1465,
@@ -3575,33 +3570,38 @@
     },
     "stewart": {
       "qualifyingElo": 1474,
-      "raceElo": 1487,
-      "globalElo": 1483
+      "raceElo": 1496,
+      "globalElo": 1490
+    },
+    "parkes": {
+      "qualifyingElo": 1488,
+      "raceElo": 1459,
+      "globalElo": 1468
     },
     "arundell": {
       "qualifyingElo": 1380,
       "raceElo": 1500,
       "globalElo": 1464
     },
-    "bucknum": {
-      "qualifyingElo": 1379,
-      "raceElo": 1464,
-      "globalElo": 1438
+    "bandini": {
+      "qualifyingElo": 1404,
+      "raceElo": 1445,
+      "globalElo": 1432
     },
     "spence": {
       "qualifyingElo": 1502,
       "raceElo": 1383,
       "globalElo": 1418
     },
+    "bucknum": {
+      "qualifyingElo": 1379,
+      "raceElo": 1429,
+      "globalElo": 1413
+    },
     "hulme": {
       "qualifyingElo": 1382,
       "raceElo": 1420,
       "globalElo": 1408
-    },
-    "bandini": {
-      "qualifyingElo": 1404,
-      "raceElo": 1410,
-      "globalElo": 1407
     }
   }
 }

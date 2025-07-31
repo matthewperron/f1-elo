@@ -16,14 +16,23 @@
 📉 **Lowest ELO**: 1467
    *[1987 Round 2 - San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
 
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1477
+
+🏆 **Peak ELO**: 1532
+   *[1992 Round 4 - Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
+
+📉 **Lowest ELO**: 1477
+   *[1995 Round 14 - European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
+
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1492
+**Career Journey**: 1500 → 1476
 
-🏆 **Peak ELO**: 1545
-   *[1992 Round 13 - Italian Grand Prix](../seasons/1992-season-report#round-13-italian-grand-prix)*
+🏆 **Peak ELO**: 1546
+   *[1992 Round 8 - French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix)*
 
-📉 **Lowest ELO**: 1490
-   *[1987 Round 2 - San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
+📉 **Lowest ELO**: 1476
+   *[1995 Round 14 - European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
 
 
 ## Complete Race-by-Race Results
@@ -40,20 +49,20 @@
 | 1992 | [Round 2: Mexican Grand Prix](../seasons/1992-season-report#round-2-mexican-grand-prix) | 1992-03-22 | race | Fondmetal | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
 | 1992 | [Round 2: Mexican Grand Prix](../seasons/1992-season-report#round-2-mexican-grand-prix) | 1992-03-22 | global | Fondmetal | Q:14/R:DNF | 1500 | +10 | 1510 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
 | 1992 | [Round 4: Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix) | 1992-05-03 | qualifying | Fondmetal | 18 | 1532 | +26 | 1558 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
-| 1992 | [Round 4: Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix) | 1992-05-03 | race | Fondmetal | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
-| 1992 | [Round 4: Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix) | 1992-05-03 | global | Fondmetal | Q:18/R:DNF | 1510 | +8 | 1517 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
+| 1992 | [Round 4: Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix) | 1992-05-03 | race | Fondmetal | 14 | 1500 | +32 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
+| 1992 | [Round 4: Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix) | 1992-05-03 | global | Fondmetal | Q:18/R:14 | 1510 | +30 | 1540 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
 | 1992 | [Round 8: French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix) | 1992-07-05 | qualifying | Fondmetal | 23 | 1558 | +22 | 1580 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
-| 1992 | [Round 8: French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix) | 1992-07-05 | race | Fondmetal | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
-| 1992 | [Round 8: French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix) | 1992-07-05 | global | Fondmetal | Q:23/R:DNF | 1517 | +7 | 1524 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
+| 1992 | [Round 8: French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix) | 1992-07-05 | race | Fondmetal | DNF | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
+| 1992 | [Round 8: French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix) | 1992-07-05 | global | Fondmetal | Q:23/R:DNF | 1540 | +7 | 1546 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Andrea Chiesa |
 | 1992 | [Round 11: Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix) | 1992-08-16 | qualifying | Fondmetal | 12 | 1580 | +28 | 1607 | Eric van de Poele |
-| 1992 | [Round 11: Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix) | 1992-08-16 | race | Fondmetal | DNF | 1500 | N/A | 1500 | Eric van de Poele |
-| 1992 | [Round 11: Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix) | 1992-08-16 | global | Fondmetal | Q:12/R:DNF | 1524 | +8 | 1532 | Eric van de Poele |
+| 1992 | [Round 11: Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix) | 1992-08-16 | race | Fondmetal | 25 | 1532 | -35 | 1497 | Eric van de Poele |
+| 1992 | [Round 11: Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix) | 1992-08-16 | global | Fondmetal | Q:12/R:25 | 1546 | -16 | 1530 | Eric van de Poele |
 | 1992 | [Round 12: Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix) | 1992-08-30 | qualifying | Fondmetal | 11 | 1607 | +23 | 1630 | Eric van de Poele |
-| 1992 | [Round 12: Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix) | 1992-08-30 | race | Fondmetal | DNF | 1500 | N/A | 1500 | Eric van de Poele |
-| 1992 | [Round 12: Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix) | 1992-08-30 | global | Fondmetal | Q:11/R:DNF | 1532 | +7 | 1539 | Eric van de Poele |
+| 1992 | [Round 12: Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix) | 1992-08-30 | race | Fondmetal | DNF | 1497 | N/A | 1497 | Eric van de Poele |
+| 1992 | [Round 12: Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix) | 1992-08-30 | global | Fondmetal | Q:11/R:DNF | 1530 | +7 | 1537 | Eric van de Poele |
 | 1992 | [Round 13: Italian Grand Prix](../seasons/1992-season-report#round-13-italian-grand-prix) | 1992-09-13 | qualifying | Fondmetal | 20 | 1630 | +19 | 1649 | Eric van de Poele |
-| 1992 | [Round 13: Italian Grand Prix](../seasons/1992-season-report#round-13-italian-grand-prix) | 1992-09-13 | race | Fondmetal | DNF | 1500 | N/A | 1500 | Eric van de Poele |
-| 1992 | [Round 13: Italian Grand Prix](../seasons/1992-season-report#round-13-italian-grand-prix) | 1992-09-13 | global | Fondmetal | Q:20/R:DNF | 1539 | +6 | 1545 | Eric van de Poele |
+| 1992 | [Round 13: Italian Grand Prix](../seasons/1992-season-report#round-13-italian-grand-prix) | 1992-09-13 | race | Fondmetal | DNF | 1497 | N/A | 1497 | Eric van de Poele |
+| 1992 | [Round 13: Italian Grand Prix](../seasons/1992-season-report#round-13-italian-grand-prix) | 1992-09-13 | global | Fondmetal | Q:20/R:DNF | 1537 | +6 | 1543 | Eric van de Poele |
 | 1995 | [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | qualifying | Tyrrell | 19 | 1500 | -28 | 1472 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo |
-| 1995 | [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | race | Tyrrell | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo |
-| 1995 | [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | global | Tyrrell | Q:19/R:DNF | 1500 | -8 | 1492 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo |
+| 1995 | [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | race | Tyrrell | 14 | 1500 | -23 | 1477 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo |
+| 1995 | [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | global | Tyrrell | Q:19/R:14 | 1500 | -24 | 1476 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo |

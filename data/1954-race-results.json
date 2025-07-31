@@ -4362,11 +4362,6 @@
       "raceElo": 1532,
       "globalElo": 1532
     },
-    "linden": {
-      "qualifyingElo": 1561,
-      "raceElo": 1500,
-      "globalElo": 1519
-    },
     "niday": {
       "qualifyingElo": 1532,
       "raceElo": 1500,
@@ -4381,6 +4376,11 @@
       "qualifyingElo": 1527,
       "raceElo": 1500,
       "globalElo": 1508
+    },
+    "linden": {
+      "qualifyingElo": 1561,
+      "raceElo": 1468,
+      "globalElo": 1496
     },
     "duncan": {
       "qualifyingElo": 1471,

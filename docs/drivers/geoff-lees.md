@@ -17,18 +17,18 @@
    *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1519
+**Career Journey**: 1500 → 1521
 
-🏆 **Peak ELO**: 1519
+🏆 **Peak ELO**: 1521
    *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
-📉 **Lowest ELO**: 1519
+📉 **Lowest ELO**: 1521
    *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1493
 
-🏆 **Peak ELO**: 1501
+🏆 **Peak ELO**: 1502
    *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest ELO**: 1493
@@ -40,8 +40,8 @@
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
 | 1979 | [Round 10: German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | 1979-07-29 | qualifying | Tyrrell | 16 | 1500 | -42 | 1458 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi |
-| 1979 | [Round 10: German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | 1979-07-29 | race | Tyrrell | 7 | 1500 | +19 | 1519 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi |
-| 1979 | [Round 10: German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | 1979-07-29 | global | Tyrrell | Q:16/R:7 | 1500 | +1 | 1501 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi |
+| 1979 | [Round 10: German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | 1979-07-29 | race | Tyrrell | 7 | 1500 | +21 | 1521 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi |
+| 1979 | [Round 10: German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | 1979-07-29 | global | Tyrrell | Q:16/R:7 | 1500 | +2 | 1502 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi |
 | 1982 | [Round 11: French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix) | 1982-07-25 | qualifying | Team Lotus | 24 | 1500 | -23 | 1477 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis |
 | 1982 | [Round 11: French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix) | 1982-07-25 | race | Team Lotus | 12 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis |
 | 1982 | [Round 11: French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix) | 1982-07-25 | global | Team Lotus | Q:24/R:12 | 1500 | -7 | 1493 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis |

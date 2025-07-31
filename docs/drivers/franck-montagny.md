@@ -17,21 +17,21 @@
    *[2006 Round 10 - United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1454
+**Career Journey**: 1500 → 1415
 
 🏆 **Peak ELO**: 1454
    *[2006 Round 8 - British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)*
 
-📉 **Lowest ELO**: 1454
-   *[2006 Round 8 - British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)*
+📉 **Lowest ELO**: 1415
+   *[2006 Round 10 - United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1448
+**Career Journey**: 1500 → 1421
 
 🏆 **Peak ELO**: 1491
    *[2006 Round 5 - European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)*
 
-📉 **Lowest ELO**: 1432
+📉 **Lowest ELO**: 1405
    *[2006 Round 10 - United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
 
 
@@ -55,8 +55,8 @@
 | 2006 | [Round 9: Canadian Grand Prix](../seasons/2006-season-report#round-9-canadian-grand-prix) | 2006-06-25 | race | Super Aguri | DNF | 1454 | N/A | 1454 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
 | 2006 | [Round 9: Canadian Grand Prix](../seasons/2006-season-report#round-9-canadian-grand-prix) | 2006-06-25 | global | Super Aguri | Q:21/R:DNF | 1441 | -4 | 1436 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
 | 2006 | [Round 10: United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix) | 2006-07-02 | qualifying | Super Aguri | 19 | 1395 | -13 | 1383 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
-| 2006 | [Round 10: United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix) | 2006-07-02 | race | Super Aguri | DNF | 1454 | N/A | 1454 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
-| 2006 | [Round 10: United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix) | 2006-07-02 | global | Super Aguri | Q:19/R:DNF | 1436 | -4 | 1432 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
+| 2006 | [Round 10: United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix) | 2006-07-02 | race | Super Aguri | 22 | 1454 | -39 | 1415 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
+| 2006 | [Round 10: United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix) | 2006-07-02 | global | Super Aguri | Q:19/R:22 | 1436 | -31 | 1405 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
 | 2006 | [Round 11: French Grand Prix](../seasons/2006-season-report#round-11-french-grand-prix) | 2006-07-16 | qualifying | Super Aguri | 20 | 1383 | +53 | 1435 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
-| 2006 | [Round 11: French Grand Prix](../seasons/2006-season-report#round-11-french-grand-prix) | 2006-07-16 | race | Super Aguri | 16 | 1454 | N/A | 1454 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
-| 2006 | [Round 11: French Grand Prix](../seasons/2006-season-report#round-11-french-grand-prix) | 2006-07-16 | global | Super Aguri | Q:20/R:16 | 1432 | +16 | 1448 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
+| 2006 | [Round 11: French Grand Prix](../seasons/2006-season-report#round-11-french-grand-prix) | 2006-07-16 | race | Super Aguri | 16 | 1415 | N/A | 1415 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |
+| 2006 | [Round 11: French Grand Prix](../seasons/2006-season-report#round-11-french-grand-prix) | 2006-07-16 | global | Super Aguri | Q:20/R:16 | 1405 | +16 | 1421 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato |

@@ -17,21 +17,21 @@
    *[1973 Round 11 - German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1535
+**Career Journey**: 1500 → 1538
 
-🏆 **Peak ELO**: 1535
+🏆 **Peak ELO**: 1538
    *[1973 Round 11 - German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix)*
 
-📉 **Lowest ELO**: 1535
+📉 **Lowest ELO**: 1538
    *[1973 Round 11 - German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1512
+**Career Journey**: 1500 → 1514
 
-🏆 **Peak ELO**: 1512
+🏆 **Peak ELO**: 1514
    *[1973 Round 11 - German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix)*
 
-📉 **Lowest ELO**: 1512
+📉 **Lowest ELO**: 1514
    *[1973 Round 11 - German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix)*
 
 
@@ -40,5 +40,5 @@
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
 | 1973 | [Round 11: German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix) | 1973-08-05 | qualifying | March | 22 | 1500 | -43 | 1457 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Beuttler |
-| 1973 | [Round 11: German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix) | 1973-08-05 | race | March | 15 | 1500 | +35 | 1535 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Beuttler |
-| 1973 | [Round 11: German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix) | 1973-08-05 | global | March | Q:22/R:15 | 1500 | +12 | 1512 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Beuttler |
+| 1973 | [Round 11: German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix) | 1973-08-05 | race | March | 15 | 1500 | +38 | 1538 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Beuttler |
+| 1973 | [Round 11: German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix) | 1973-08-05 | global | March | Q:22/R:15 | 1500 | +14 | 1514 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Beuttler |

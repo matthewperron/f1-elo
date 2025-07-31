@@ -17,21 +17,21 @@
    *[1976 Round 8 - French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1446
+**Career Journey**: 1500 → 1472
 
-🏆 **Peak ELO**: 1470
-   *[1976 Round 4 - Spanish Grand Prix](../seasons/1976-season-report#round-4-spanish-grand-prix)*
+🏆 **Peak ELO**: 1535
+   *[1976 Round 2 - South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1446
+📉 **Lowest ELO**: 1472
    *[1976 Round 8 - French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1431
+**Career Journey**: 1500 → 1448
 
-🏆 **Peak ELO**: 1487
+🏆 **Peak ELO**: 1512
    *[1976 Round 2 - South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1431
+📉 **Lowest ELO**: 1448
    *[1976 Round 8 - French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)*
 
 
@@ -40,11 +40,11 @@
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
 | 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | qualifying | Wolf | 22 | 1500 | -42 | 1458 | Jacky Ickx |
-| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | race | Wolf | 13 | 1500 | N/A | 1500 | Jacky Ickx |
-| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | global | Wolf | Q:22/R:13 | 1500 | -13 | 1487 | Jacky Ickx |
+| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | race | Wolf | 13 | 1500 | +35 | 1535 | Jacky Ickx |
+| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | global | Wolf | Q:22/R:13 | 1500 | +12 | 1512 | Jacky Ickx |
 | 1976 | [Round 4: Spanish Grand Prix](../seasons/1976-season-report#round-4-spanish-grand-prix) | 1976-05-02 | qualifying | Wolf | 23 | 1458 | -35 | 1423 | Jacky Ickx |
-| 1976 | [Round 4: Spanish Grand Prix](../seasons/1976-season-report#round-4-spanish-grand-prix) | 1976-05-02 | race | Wolf | 10 | 1500 | -30 | 1470 | Jacky Ickx |
-| 1976 | [Round 4: Spanish Grand Prix](../seasons/1976-season-report#round-4-spanish-grand-prix) | 1976-05-02 | global | Wolf | Q:23/R:10 | 1487 | -31 | 1456 | Jacky Ickx |
+| 1976 | [Round 4: Spanish Grand Prix](../seasons/1976-season-report#round-4-spanish-grand-prix) | 1976-05-02 | race | Wolf | 10 | 1535 | -35 | 1500 | Jacky Ickx |
+| 1976 | [Round 4: Spanish Grand Prix](../seasons/1976-season-report#round-4-spanish-grand-prix) | 1976-05-02 | global | Wolf | Q:23/R:10 | 1512 | -35 | 1477 | Jacky Ickx |
 | 1976 | [Round 8: French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix) | 1976-07-04 | qualifying | Wolf | 22 | 1423 | -28 | 1395 | Jacky Ickx |
-| 1976 | [Round 8: French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix) | 1976-07-04 | race | Wolf | 13 | 1470 | -24 | 1446 | Jacky Ickx |
-| 1976 | [Round 8: French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix) | 1976-07-04 | global | Wolf | Q:22/R:13 | 1456 | -25 | 1431 | Jacky Ickx |
+| 1976 | [Round 8: French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix) | 1976-07-04 | race | Wolf | 13 | 1500 | -29 | 1472 | Jacky Ickx |
+| 1976 | [Round 8: French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix) | 1976-07-04 | global | Wolf | Q:22/R:13 | 1477 | -29 | 1448 | Jacky Ickx |

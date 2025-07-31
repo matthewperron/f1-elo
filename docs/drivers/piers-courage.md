@@ -17,21 +17,21 @@
    *[1969 Round 7 - German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1465
+**Career Journey**: 1500 → 1450
 
-🏆 **Peak ELO**: 1465
+🏆 **Peak ELO**: 1473
    *[1969 Round 6 - British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix)*
 
-📉 **Lowest ELO**: 1465
-   *[1969 Round 6 - British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix)*
+📉 **Lowest ELO**: 1450
+   *[1969 Round 7 - German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1434
+**Career Journey**: 1500 → 1424
 
 🏆 **Peak ELO**: 1491
    *[1968 Round 2 - Spanish Grand Prix](../seasons/1968-season-report#round-2-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1434
+📉 **Lowest ELO**: 1424
    *[1969 Round 7 - German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix)*
 
 
@@ -52,8 +52,8 @@
 | 1968 | [Round 12: Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix) | 1968-11-03 | race | BRM | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez |
 | 1968 | [Round 12: Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix) | 1968-11-03 | global | BRM | Q:19/R:DNF | 1478 | -5 | 1473 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez |
 | 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | qualifying | Brabham-Ford | 10 | 1409 | -26 | 1383 | Jacky Ickx |
-| 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | race | Brabham-Ford | 5 | 1500 | -35 | 1465 | Jacky Ickx |
-| 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | global | Brabham-Ford | Q:10/R:5 | 1473 | -32 | 1441 | Jacky Ickx |
+| 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | race | Brabham-Ford | 5 | 1500 | -27 | 1473 | Jacky Ickx |
+| 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | global | Brabham-Ford | Q:10/R:5 | 1473 | -27 | 1446 | Jacky Ickx |
 | 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | qualifying | Brabham-Ford | 7 | 1383 | -22 | 1361 | Jacky Ickx |
-| 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | race | Brabham-Ford | DNF | 1465 | N/A | 1465 | Jacky Ickx |
-| 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | global | Brabham-Ford | Q:7/R:DNF | 1441 | -7 | 1434 | Jacky Ickx |
+| 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | race | Brabham-Ford | 11 | 1473 | -22 | 1450 | Jacky Ickx |
+| 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | global | Brabham-Ford | Q:7/R:11 | 1446 | -22 | 1424 | Jacky Ickx |

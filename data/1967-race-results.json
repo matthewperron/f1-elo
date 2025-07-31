@@ -4337,13 +4337,13 @@
   "finalELOs": {
     "jack_brabham": {
       "qualifyingElo": 1640,
-      "raceElo": 1627,
-      "globalElo": 1631
+      "raceElo": 1599,
+      "globalElo": 1611
     },
     "hill": {
       "qualifyingElo": 1648,
-      "raceElo": 1523,
-      "globalElo": 1563
+      "raceElo": 1545,
+      "globalElo": 1578
     },
     "clark": {
       "qualifyingElo": 1617,
@@ -4354,6 +4354,11 @@
       "qualifyingElo": 1605,
       "raceElo": 1500,
       "globalElo": 1531
+    },
+    "amon": {
+      "qualifyingElo": 1495,
+      "raceElo": 1527,
+      "globalElo": 1517
     },
     "hahne": {
       "qualifyingElo": 1532,
@@ -4377,13 +4382,8 @@
     },
     "stewart": {
       "qualifyingElo": 1537,
-      "raceElo": 1487,
-      "globalElo": 1502
-    },
-    "amon": {
-      "qualifyingElo": 1495,
-      "raceElo": 1500,
-      "globalElo": 1499
+      "raceElo": 1496,
+      "globalElo": 1509
     },
     "scarfiotti": {
       "qualifyingElo": 1475,
@@ -4422,8 +4422,8 @@
     },
     "bandini": {
       "qualifyingElo": 1445,
-      "raceElo": 1410,
-      "globalElo": 1419
+      "raceElo": 1418,
+      "globalElo": 1425
     },
     "spence": {
       "qualifyingElo": 1439,
@@ -4432,8 +4432,8 @@
     },
     "hulme": {
       "qualifyingElo": 1392,
-      "raceElo": 1373,
-      "globalElo": 1378
+      "raceElo": 1401,
+      "globalElo": 1398
     }
   }
 }

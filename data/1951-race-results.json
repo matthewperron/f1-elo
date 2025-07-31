@@ -3738,10 +3738,20 @@
     }
   ],
   "finalELOs": {
-    "schell": {
-      "qualifyingElo": 1532,
-      "raceElo": 1500,
-      "globalElo": 1510
+    "gerard": {
+      "qualifyingElo": 1503,
+      "raceElo": 1532,
+      "globalElo": 1524
+    },
+    "reg_parnell": {
+      "qualifyingElo": 1503,
+      "raceElo": 1532,
+      "globalElo": 1523
+    },
+    "chiron": {
+      "qualifyingElo": 1468,
+      "raceElo": 1532,
+      "globalElo": 1513
     },
     "moss": {
       "qualifyingElo": 1532,
@@ -3753,30 +3763,10 @@
       "raceElo": 1500,
       "globalElo": 1510
     },
-    "peter_walker": {
-      "qualifyingElo": 1532,
-      "raceElo": 1500,
-      "globalElo": 1510
-    },
     "graffenried": {
       "qualifyingElo": 1532,
       "raceElo": 1500,
       "globalElo": 1510
-    },
-    "reg_parnell": {
-      "qualifyingElo": 1503,
-      "raceElo": 1500,
-      "globalElo": 1501
-    },
-    "gerard": {
-      "qualifyingElo": 1503,
-      "raceElo": 1500,
-      "globalElo": 1501
-    },
-    "chiron": {
-      "qualifyingElo": 1468,
-      "raceElo": 1500,
-      "globalElo": 1490
     },
     "abecassis": {
       "qualifyingElo": 1468,
@@ -3802,6 +3792,16 @@
       "qualifyingElo": 1465,
       "raceElo": 1500,
       "globalElo": 1490
+    },
+    "schell": {
+      "qualifyingElo": 1532,
+      "raceElo": 1468,
+      "globalElo": 1487
+    },
+    "peter_walker": {
+      "qualifyingElo": 1532,
+      "raceElo": 1468,
+      "globalElo": 1487
     }
   }
 }

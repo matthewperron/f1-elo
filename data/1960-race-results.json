@@ -4624,8 +4624,13 @@
   "finalELOs": {
     "trips": {
       "qualifyingElo": 1558,
+      "raceElo": 1558,
+      "globalElo": 1558
+    },
+    "menditeguy": {
+      "qualifyingElo": 1532,
       "raceElo": 1532,
-      "globalElo": 1540
+      "globalElo": 1532
     },
     "hill": {
       "qualifyingElo": 1678,
@@ -4644,8 +4649,8 @@
     },
     "salvadori": {
       "qualifyingElo": 1580,
-      "raceElo": 1500,
-      "globalElo": 1523
+      "raceElo": 1503,
+      "globalElo": 1526
     },
     "herrmann": {
       "qualifyingElo": 1503,
@@ -4657,15 +4662,10 @@
       "raceElo": 1500,
       "globalElo": 1518
     },
-    "menditeguy": {
-      "qualifyingElo": 1532,
-      "raceElo": 1500,
-      "globalElo": 1510
-    },
-    "grim": {
-      "qualifyingElo": 1532,
-      "raceElo": 1500,
-      "globalElo": 1510
+    "veith": {
+      "qualifyingElo": 1468,
+      "raceElo": 1532,
+      "globalElo": 1513
     },
     "sachs": {
       "qualifyingElo": 1532,
@@ -4702,16 +4702,6 @@
       "raceElo": 1500,
       "globalElo": 1491
     },
-    "bonomi": {
-      "qualifyingElo": 1468,
-      "raceElo": 1500,
-      "globalElo": 1490
-    },
-    "veith": {
-      "qualifyingElo": 1468,
-      "raceElo": 1500,
-      "globalElo": 1490
-    },
     "herman": {
       "qualifyingElo": 1468,
       "raceElo": 1500,
@@ -4732,10 +4722,20 @@
       "raceElo": 1500,
       "globalElo": 1489
     },
+    "grim": {
+      "qualifyingElo": 1532,
+      "raceElo": 1468,
+      "globalElo": 1487
+    },
     "trintignant": {
       "qualifyingElo": 1444,
       "raceElo": 1500,
       "globalElo": 1483
+    },
+    "bonomi": {
+      "qualifyingElo": 1468,
+      "raceElo": 1468,
+      "globalElo": 1468
     },
     "tingelstad": {
       "qualifyingElo": 1468,
@@ -4754,8 +4754,8 @@
     },
     "phil_hill": {
       "qualifyingElo": 1442,
-      "raceElo": 1468,
-      "globalElo": 1460
+      "raceElo": 1442,
+      "globalElo": 1442
     }
   }
 }

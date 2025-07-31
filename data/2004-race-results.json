@@ -9413,127 +9413,127 @@
   "finalELOs": {
     "michael_schumacher": {
       "qualifyingElo": 1928,
-      "raceElo": 1714,
-      "globalElo": 1784
+      "raceElo": 1690,
+      "globalElo": 1766
+    },
+    "heidfeld": {
+      "qualifyingElo": 1687,
+      "raceElo": 1745,
+      "globalElo": 1727
     },
     "webber": {
       "qualifyingElo": 1796,
-      "raceElo": 1746,
-      "globalElo": 1760
+      "raceElo": 1670,
+      "globalElo": 1707
     },
     "barrichello": {
       "qualifyingElo": 1913,
-      "raceElo": 1639,
-      "globalElo": 1718
+      "raceElo": 1605,
+      "globalElo": 1696
+    },
+    "raikkonen": {
+      "qualifyingElo": 1575,
+      "raceElo": 1725,
+      "globalElo": 1680
     },
     "alonso": {
       "qualifyingElo": 1677,
       "raceElo": 1675,
       "globalElo": 1676
     },
-    "raikkonen": {
-      "qualifyingElo": 1575,
-      "raceElo": 1710,
-      "globalElo": 1670
-    },
-    "heidfeld": {
-      "qualifyingElo": 1687,
-      "raceElo": 1647,
-      "globalElo": 1658
-    },
     "fisichella": {
       "qualifyingElo": 1652,
-      "raceElo": 1658,
-      "globalElo": 1656
+      "raceElo": 1675,
+      "globalElo": 1668
     },
     "montoya": {
       "qualifyingElo": 1626,
-      "raceElo": 1647,
-      "globalElo": 1640
+      "raceElo": 1656,
+      "globalElo": 1649
     },
     "button": {
       "qualifyingElo": 1605,
-      "raceElo": 1649,
-      "globalElo": 1636
+      "raceElo": 1669,
+      "globalElo": 1648
     },
     "trulli": {
       "qualifyingElo": 1652,
-      "raceElo": 1599,
-      "globalElo": 1615
+      "raceElo": 1638,
+      "globalElo": 1645
     },
     "matta": {
       "qualifyingElo": 1522,
-      "raceElo": 1588,
-      "globalElo": 1568
-    },
-    "ralf_schumacher": {
-      "qualifyingElo": 1513,
-      "raceElo": 1569,
-      "globalElo": 1553
-    },
-    "bruni": {
-      "qualifyingElo": 1554,
-      "raceElo": 1530,
-      "globalElo": 1538
-    },
-    "villeneuve": {
-      "qualifyingElo": 1599,
-      "raceElo": 1483,
-      "globalElo": 1519
+      "raceElo": 1577,
+      "globalElo": 1561
     },
     "massa": {
       "qualifyingElo": 1570,
+      "raceElo": 1517,
+      "globalElo": 1532
+    },
+    "villeneuve": {
+      "qualifyingElo": 1599,
+      "raceElo": 1488,
+      "globalElo": 1521
+    },
+    "bruni": {
+      "qualifyingElo": 1554,
       "raceElo": 1490,
-      "globalElo": 1513
+      "globalElo": 1510
     },
-    "glock": {
-      "qualifyingElo": 1436,
-      "raceElo": 1493,
-      "globalElo": 1476
-    },
-    "pantano": {
-      "qualifyingElo": 1568,
-      "raceElo": 1432,
-      "globalElo": 1474
-    },
-    "panis": {
-      "qualifyingElo": 1555,
-      "raceElo": 1437,
-      "globalElo": 1473
-    },
-    "zonta": {
-      "qualifyingElo": 1452,
-      "raceElo": 1475,
-      "globalElo": 1468
-    },
-    "baumgartner": {
-      "qualifyingElo": 1423,
-      "raceElo": 1449,
-      "globalElo": 1440
-    },
-    "coulthard": {
-      "qualifyingElo": 1431,
-      "raceElo": 1436,
-      "globalElo": 1437
-    },
-    "gene": {
-      "qualifyingElo": 1433,
-      "raceElo": 1432,
-      "globalElo": 1432
-    },
-    "pizzonia": {
-      "qualifyingElo": 1508,
-      "raceElo": 1388,
-      "globalElo": 1424
-    },
-    "sato": {
-      "qualifyingElo": 1565,
-      "raceElo": 1349,
-      "globalElo": 1413
+    "ralf_schumacher": {
+      "qualifyingElo": 1513,
+      "raceElo": 1491,
+      "globalElo": 1496
     },
     "klien": {
       "qualifyingElo": 1442,
-      "raceElo": 1398,
+      "raceElo": 1516,
+      "globalElo": 1494
+    },
+    "glock": {
+      "qualifyingElo": 1436,
+      "raceElo": 1516,
+      "globalElo": 1492
+    },
+    "zonta": {
+      "qualifyingElo": 1452,
+      "raceElo": 1505,
+      "globalElo": 1489
+    },
+    "baumgartner": {
+      "qualifyingElo": 1423,
+      "raceElo": 1491,
+      "globalElo": 1470
+    },
+    "panis": {
+      "qualifyingElo": 1555,
+      "raceElo": 1424,
+      "globalElo": 1463
+    },
+    "pantano": {
+      "qualifyingElo": 1568,
+      "raceElo": 1415,
+      "globalElo": 1461
+    },
+    "coulthard": {
+      "qualifyingElo": 1431,
+      "raceElo": 1454,
+      "globalElo": 1444
+    },
+    "gene": {
+      "qualifyingElo": 1433,
+      "raceElo": 1434,
+      "globalElo": 1434
+    },
+    "pizzonia": {
+      "qualifyingElo": 1508,
+      "raceElo": 1383,
+      "globalElo": 1421
+    },
+    "sato": {
+      "qualifyingElo": 1565,
+      "raceElo": 1344,
       "globalElo": 1412
     }
   }

@@ -4264,48 +4264,48 @@
   "finalELOs": {
     "surtees": {
       "qualifyingElo": 1748,
-      "raceElo": 1585,
-      "globalElo": 1635
+      "raceElo": 1609,
+      "globalElo": 1651
+    },
+    "hill": {
+      "qualifyingElo": 1739,
+      "raceElo": 1541,
+      "globalElo": 1603
     },
     "clark": {
       "qualifyingElo": 1662,
       "raceElo": 1561,
       "globalElo": 1591
     },
-    "hill": {
-      "qualifyingElo": 1739,
-      "raceElo": 1510,
-      "globalElo": 1581
-    },
     "mclaren": {
       "qualifyingElo": 1657,
-      "raceElo": 1532,
-      "globalElo": 1570
+      "raceElo": 1558,
+      "globalElo": 1588
     },
     "siffert": {
       "qualifyingElo": 1594,
-      "raceElo": 1532,
-      "globalElo": 1550
-    },
-    "amon": {
-      "qualifyingElo": 1604,
-      "raceElo": 1500,
-      "globalElo": 1531
+      "raceElo": 1506,
+      "globalElo": 1532
     },
     "ireland": {
       "qualifyingElo": 1573,
-      "raceElo": 1500,
-      "globalElo": 1522
+      "raceElo": 1506,
+      "globalElo": 1526
+    },
+    "hailwood": {
+      "qualifyingElo": 1488,
+      "raceElo": 1532,
+      "globalElo": 1519
+    },
+    "amon": {
+      "qualifyingElo": 1604,
+      "raceElo": 1468,
+      "globalElo": 1508
     },
     "bonnier": {
       "qualifyingElo": 1495,
       "raceElo": 1500,
       "globalElo": 1499
-    },
-    "hailwood": {
-      "qualifyingElo": 1488,
-      "raceElo": 1500,
-      "globalElo": 1497
     },
     "rindt": {
       "qualifyingElo": 1469,
@@ -4324,8 +4324,8 @@
     },
     "trevor_taylor": {
       "qualifyingElo": 1395,
-      "raceElo": 1500,
-      "globalElo": 1468
+      "raceElo": 1494,
+      "globalElo": 1464
     },
     "spence": {
       "qualifyingElo": 1437,
@@ -4339,18 +4339,18 @@
     },
     "phil_hill": {
       "qualifyingElo": 1434,
-      "raceElo": 1468,
-      "globalElo": 1458
+      "raceElo": 1442,
+      "globalElo": 1439
     },
     "ginther": {
       "qualifyingElo": 1438,
-      "raceElo": 1457,
-      "globalElo": 1451
+      "raceElo": 1426,
+      "globalElo": 1429
     },
     "bandini": {
       "qualifyingElo": 1356,
-      "raceElo": 1447,
-      "globalElo": 1419
+      "raceElo": 1452,
+      "globalElo": 1423
     }
   }
 }

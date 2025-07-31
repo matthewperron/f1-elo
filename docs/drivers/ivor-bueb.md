@@ -16,14 +16,23 @@
 📉 **Lowest ELO**: 1468
    *[1957 Round 2 - Monaco Grand Prix](../seasons/1957-season-report#round-2-monaco-grand-prix)*
 
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1468
+   *[1959 Round 5 - British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix)*
+
+📉 **Lowest ELO**: 1468
+   *[1959 Round 5 - British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix)*
+
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1490
+**Career Journey**: 1500 → 1468
 
 🏆 **Peak ELO**: 1500
    *[1958 Round 7 - British Grand Prix](../seasons/1958-season-report#round-7-british-grand-prix)*
 
-📉 **Lowest ELO**: 1490
-   *[1957 Round 2 - Monaco Grand Prix](../seasons/1957-season-report#round-2-monaco-grand-prix)*
+📉 **Lowest ELO**: 1468
+   *[1959 Round 5 - British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix)*
 
 
 ## Complete Race-by-Race Results
@@ -37,5 +46,5 @@
 | 1958 | [Round 7: British Grand Prix](../seasons/1958-season-report#round-7-british-grand-prix) | 1958-07-19 | race | Connaught | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jack Fairman |
 | 1958 | [Round 7: British Grand Prix](../seasons/1958-season-report#round-7-british-grand-prix) | 1958-07-19 | global | Connaught | Q:17/R:DNF | 1490 | +10 | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jack Fairman |
 | 1959 | [Round 5: British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix) | 1959-07-18 | qualifying | Cooper-Borgward | 18 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Chris Bristow |
-| 1959 | [Round 5: British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix) | 1959-07-18 | race | Cooper-Borgward | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Chris Bristow |
-| 1959 | [Round 5: British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix) | 1959-07-18 | global | Cooper-Borgward | Q:18/R:DNF | 1500 | -10 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Chris Bristow |
+| 1959 | [Round 5: British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix) | 1959-07-18 | race | Cooper-Borgward | 13 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Chris Bristow |
+| 1959 | [Round 5: British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix) | 1959-07-18 | global | Cooper-Borgward | Q:18/R:13 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Chris Bristow |

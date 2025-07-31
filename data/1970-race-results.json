@@ -5741,85 +5741,85 @@
     }
   ],
   "finalELOs": {
-    "jack_brabham": {
-      "qualifyingElo": 1600,
-      "raceElo": 1648,
-      "globalElo": 1633
-    },
     "ickx": {
       "qualifyingElo": 1616,
-      "raceElo": 1557,
-      "globalElo": 1575
+      "raceElo": 1628,
+      "globalElo": 1622
+    },
+    "surtees": {
+      "qualifyingElo": 1663,
+      "raceElo": 1532,
+      "globalElo": 1572
+    },
+    "jack_brabham": {
+      "qualifyingElo": 1600,
+      "raceElo": 1540,
+      "globalElo": 1557
     },
     "rodriguez": {
       "qualifyingElo": 1614,
       "raceElo": 1532,
       "globalElo": 1557
     },
-    "surtees": {
-      "qualifyingElo": 1663,
-      "raceElo": 1500,
-      "globalElo": 1550
-    },
     "rindt": {
       "qualifyingElo": 1558,
       "raceElo": 1532,
       "globalElo": 1540
     },
+    "stommelen": {
+      "qualifyingElo": 1475,
+      "raceElo": 1559,
+      "globalElo": 1534
+    },
     "giunti": {
       "qualifyingElo": 1448,
-      "raceElo": 1532,
-      "globalElo": 1507
+      "raceElo": 1541,
+      "globalElo": 1513
     },
     "gethin": {
       "qualifyingElo": 1520,
       "raceElo": 1500,
       "globalElo": 1506
     },
+    "beltoise": {
+      "qualifyingElo": 1475,
+      "raceElo": 1514,
+      "globalElo": 1502
+    },
     "bell": {
       "qualifyingElo": 1481,
       "raceElo": 1500,
       "globalElo": 1494
-    },
-    "stommelen": {
-      "qualifyingElo": 1475,
-      "raceElo": 1479,
-      "globalElo": 1478
-    },
-    "beltoise": {
-      "qualifyingElo": 1475,
-      "raceElo": 1473,
-      "globalElo": 1474
     },
     "hill": {
       "qualifyingElo": 1442,
       "raceElo": 1468,
       "globalElo": 1460
     },
+    "hulme": {
+      "qualifyingElo": 1533,
+      "raceElo": 1421,
+      "globalElo": 1455
+    },
     "gurney": {
       "qualifyingElo": 1441,
-      "raceElo": 1455,
-      "globalElo": 1451
+      "raceElo": 1457,
+      "globalElo": 1452
     },
     "oliver": {
       "qualifyingElo": 1404,
       "raceElo": 1468,
       "globalElo": 1448
     },
-    "pescarolo": {
-      "qualifyingElo": 1454,
-      "raceElo": 1425,
-      "globalElo": 1434
-    },
-    "hulme": {
-      "qualifyingElo": 1533,
-      "raceElo": 1390,
-      "globalElo": 1431
-    },
     "regazzoni": {
       "qualifyingElo": 1459,
-      "raceElo": 1414,
-      "globalElo": 1428
+      "raceElo": 1433,
+      "globalElo": 1442
+    },
+    "pescarolo": {
+      "qualifyingElo": 1454,
+      "raceElo": 1371,
+      "globalElo": 1397
     }
   }
 }

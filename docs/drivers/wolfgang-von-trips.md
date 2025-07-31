@@ -17,18 +17,18 @@
    *[1958 Round 9 - Portuguese Grand Prix](../seasons/1958-season-report#round-9-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1532
+**Career Journey**: 1500 → 1558
 
-🏆 **Peak ELO**: 1532
-   *[1960 Round 7 - British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix)*
+🏆 **Peak ELO**: 1558
+   *[1960 Round 8 - Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1468
    *[1958 Round 9 - Portuguese Grand Prix](../seasons/1958-season-report#round-9-portuguese-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1540
+**Career Journey**: 1500 → 1558
 
-🏆 **Peak ELO**: 1540
+🏆 **Peak ELO**: 1558
    *[1960 Round 8 - Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
 
 📉 **Lowest ELO**: 1468
@@ -46,5 +46,5 @@
 | 1960 | [Round 7: British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix) | 1960-07-16 | race | Ferrari | 6 | 1500 | +32 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
 | 1960 | [Round 7: British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix) | 1960-07-16 | global | Ferrari | Q:7/R:6 | 1500 | +32 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
 | 1960 | [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | qualifying | Ferrari | 9 | 1532 | +26 | 1558 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
-| 1960 | [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | race | Ferrari | 4 | 1532 | N/A | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
-| 1960 | [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | global | Ferrari | Q:9/R:4 | 1532 | +8 | 1540 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
+| 1960 | [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | race | Ferrari | 4 | 1532 | +26 | 1558 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |
+| 1960 | [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | global | Ferrari | Q:9/R:4 | 1532 | +26 | 1558 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill |

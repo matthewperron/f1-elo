@@ -3833,38 +3833,38 @@
   "finalELOs": {
     "stewart": {
       "qualifyingElo": 1743,
-      "raceElo": 1589,
-      "globalElo": 1635
+      "raceElo": 1611,
+      "globalElo": 1651
     },
     "jack_brabham": {
       "qualifyingElo": 1575,
-      "raceElo": 1627,
-      "globalElo": 1611
+      "raceElo": 1599,
+      "globalElo": 1591
     },
-    "amon": {
-      "qualifyingElo": 1595,
-      "raceElo": 1532,
-      "globalElo": 1551
+    "ickx": {
+      "qualifyingElo": 1523,
+      "raceElo": 1602,
+      "globalElo": 1577
     },
     "surtees": {
       "qualifyingElo": 1644,
-      "raceElo": 1500,
-      "globalElo": 1544
+      "raceElo": 1532,
+      "globalElo": 1566
     },
     "rodriguez": {
       "qualifyingElo": 1580,
       "raceElo": 1500,
       "globalElo": 1524
     },
+    "amon": {
+      "qualifyingElo": 1595,
+      "raceElo": 1475,
+      "globalElo": 1511
+    },
     "klerk": {
       "qualifyingElo": 1532,
       "raceElo": 1500,
       "globalElo": 1510
-    },
-    "ickx": {
-      "qualifyingElo": 1523,
-      "raceElo": 1503,
-      "globalElo": 1509
     },
     "tingle": {
       "qualifyingElo": 1468,
@@ -3878,23 +3878,23 @@
     },
     "mclaren": {
       "qualifyingElo": 1303,
-      "raceElo": 1528,
-      "globalElo": 1461
+      "raceElo": 1497,
+      "globalElo": 1439
     },
     "courage": {
       "qualifyingElo": 1361,
-      "raceElo": 1465,
-      "globalElo": 1434
-    },
-    "beltoise": {
-      "qualifyingElo": 1429,
-      "raceElo": 1398,
-      "globalElo": 1408
+      "raceElo": 1450,
+      "globalElo": 1424
     },
     "hulme": {
       "qualifyingElo": 1493,
-      "raceElo": 1345,
-      "globalElo": 1388
+      "raceElo": 1378,
+      "globalElo": 1413
+    },
+    "beltoise": {
+      "qualifyingElo": 1429,
+      "raceElo": 1385,
+      "globalElo": 1399
     }
   }
 }

@@ -6529,35 +6529,40 @@
     }
   ],
   "finalELOs": {
-    "stewart": {
-      "qualifyingElo": 1696,
-      "raceElo": 1628,
-      "globalElo": 1649
-    },
     "emerson_fittipaldi": {
       "qualifyingElo": 1692,
-      "raceElo": 1585,
-      "globalElo": 1617
+      "raceElo": 1625,
+      "globalElo": 1646
+    },
+    "stewart": {
+      "qualifyingElo": 1696,
+      "raceElo": 1619,
+      "globalElo": 1644
     },
     "ickx": {
       "qualifyingElo": 1511,
-      "raceElo": 1584,
-      "globalElo": 1563
+      "raceElo": 1623,
+      "globalElo": 1587
     },
     "schenken": {
       "qualifyingElo": 1548,
-      "raceElo": 1553,
-      "globalElo": 1552
-    },
-    "hulme": {
-      "qualifyingElo": 1571,
-      "raceElo": 1488,
-      "globalElo": 1511
+      "raceElo": 1573,
+      "globalElo": 1566
     },
     "wilson_fittipaldi": {
       "qualifyingElo": 1489,
-      "raceElo": 1500,
-      "globalElo": 1497
+      "raceElo": 1542,
+      "globalElo": 1526
+    },
+    "hulme": {
+      "qualifyingElo": 1571,
+      "raceElo": 1503,
+      "globalElo": 1524
+    },
+    "regazzoni": {
+      "qualifyingElo": 1619,
+      "raceElo": 1456,
+      "globalElo": 1506
     },
     "reutemann": {
       "qualifyingElo": 1487,
@@ -6571,48 +6576,43 @@
     },
     "revson": {
       "qualifyingElo": 1561,
-      "raceElo": 1452,
-      "globalElo": 1485
+      "raceElo": 1461,
+      "globalElo": 1490
     },
     "adamich": {
       "qualifyingElo": 1444,
       "raceElo": 1500,
       "globalElo": 1484
     },
-    "regazzoni": {
-      "qualifyingElo": 1619,
-      "raceElo": 1414,
-      "globalElo": 1476
+    "redman": {
+      "qualifyingElo": 1439,
+      "raceElo": 1496,
+      "globalElo": 1480
     },
     "galli": {
       "qualifyingElo": 1438,
-      "raceElo": 1473,
-      "globalElo": 1463
-    },
-    "redman": {
-      "qualifyingElo": 1439,
-      "raceElo": 1466,
-      "globalElo": 1458
-    },
-    "walker": {
-      "qualifyingElo": 1396,
-      "raceElo": 1473,
-      "globalElo": 1450
+      "raceElo": 1482,
+      "globalElo": 1469
     },
     "wisell": {
       "qualifyingElo": 1446,
       "raceElo": 1442,
       "globalElo": 1444
     },
+    "walker": {
+      "qualifyingElo": 1396,
+      "raceElo": 1433,
+      "globalElo": 1421
+    },
     "hill": {
       "qualifyingElo": 1479,
-      "raceElo": 1415,
-      "globalElo": 1433
+      "raceElo": 1353,
+      "globalElo": 1391
     },
     "cevert": {
       "qualifyingElo": 1304,
-      "raceElo": 1372,
-      "globalElo": 1351
+      "raceElo": 1381,
+      "globalElo": 1356
     }
   }
 }

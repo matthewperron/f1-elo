@@ -63,6 +63,8 @@ const COUNTRY_FLAGS = {
     'Venezuela': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg', alt: 'Venezuela', emoji: '🇻🇪' }
 };
 
+const VALID_STATUSES = ['Finished', '+1 Lap', '+2 Laps', '+3 Laps', '+4 Laps', '+5 Laps', '+6 Laps', 'Lapped', 'Accident', 'Collision', 'Spun off'];
+
 /**
  * Get country flag image for a driver with emoji fallback
  */
@@ -347,9 +349,8 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     const [driver1, driver2] = teammates;
     
     // Check if either driver had issues (DNF, DNS, etc.)
-    const validStatuses = ['Finished', '+1 Lap', '+2 Laps', '+3 Laps'];
-    const driver1DNF = (type === 'race' || type === 'global') && !validStatuses.some(status => driver1.status.includes(status));
-    const driver2DNF = (type === 'race' || type === 'global') && !validStatuses.some(status => driver2.status.includes(status));
+    const driver1DNF = (type === 'race' || type === 'global') && !VALID_STATUSES.some(status => driver1.status.includes(status));
+    const driver2DNF = (type === 'race' || type === 'global') && !VALID_STATUSES.some(status => driver2.status.includes(status));
     const anyDNF = driver1DNF || driver2DNF;
     
     // Initialize drivers if not seen before

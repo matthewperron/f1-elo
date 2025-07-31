@@ -16,13 +16,22 @@
 📉 **Lowest ELO**: 1453
    *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1471
+
+🏆 **Peak ELO**: 1471
+   *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
+
+📉 **Lowest ELO**: 1471
+   *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
+
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1486
+**Career Journey**: 1500 → 1465
 
 🏆 **Peak ELO**: 1493
    *[1963 Round 1 - Monaco Grand Prix](../seasons/1963-season-report#round-1-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1486
+📉 **Lowest ELO**: 1465
    *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
 
@@ -34,5 +43,5 @@
 | 1963 | [Round 1: Monaco Grand Prix](../seasons/1963-season-report#round-1-monaco-grand-prix) | 1963-05-26 | race | Ferrari | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees |
 | 1963 | [Round 1: Monaco Grand Prix](../seasons/1963-season-report#round-1-monaco-grand-prix) | 1963-05-26 | global | Ferrari | Q:7/R:DNF | 1500 | -7 | 1493 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees |
 | 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | qualifying | Ferrari | 7 | 1475 | -23 | 1453 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Ferrari | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Ferrari | Q:7/R:DNF | 1493 | -7 | 1486 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees |
+| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Ferrari | 20 | 1500 | -29 | 1471 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees |
+| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Ferrari | Q:7/R:20 | 1493 | -27 | 1465 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees |

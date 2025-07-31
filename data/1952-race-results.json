@@ -4326,15 +4326,15 @@
     }
   ],
   "finalELOs": {
+    "bira": {
+      "qualifyingElo": 1561,
+      "raceElo": 1532,
+      "globalElo": 1541
+    },
     "graffenried": {
       "qualifyingElo": 1564,
       "raceElo": 1500,
       "globalElo": 1520
-    },
-    "bira": {
-      "qualifyingElo": 1561,
-      "raceElo": 1500,
-      "globalElo": 1518
     },
     "schindler": {
       "qualifyingElo": 1535,
@@ -4361,20 +4361,10 @@
       "raceElo": 1500,
       "globalElo": 1510
     },
-    "schell": {
-      "qualifyingElo": 1500,
-      "raceElo": 1500,
-      "globalElo": 1500
-    },
     "ball": {
       "qualifyingElo": 1497,
       "raceElo": 1500,
       "globalElo": 1500
-    },
-    "obrien": {
-      "qualifyingElo": 1471,
-      "raceElo": 1500,
-      "globalElo": 1491
     },
     "behra": {
       "qualifyingElo": 1468,
@@ -4400,6 +4390,16 @@
       "qualifyingElo": 1468,
       "raceElo": 1500,
       "globalElo": 1490
+    },
+    "schell": {
+      "qualifyingElo": 1500,
+      "raceElo": 1468,
+      "globalElo": 1477
+    },
+    "obrien": {
+      "qualifyingElo": 1471,
+      "raceElo": 1468,
+      "globalElo": 1469
     }
   }
 }

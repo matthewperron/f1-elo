@@ -17,21 +17,21 @@
    *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1464
+**Career Journey**: 1500 → 1429
 
-🏆 **Peak ELO**: 1464
+🏆 **Peak ELO**: 1461
    *[1965 Round 10 - Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1464
-   *[1965 Round 10 - Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
+📉 **Lowest ELO**: 1429
+   *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1438
+**Career Journey**: 1500 → 1413
 
 🏆 **Peak ELO**: 1508
    *[1965 Round 2 - Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
 
-📉 **Lowest ELO**: 1438
+📉 **Lowest ELO**: 1413
    *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 
@@ -55,11 +55,11 @@
 | 1965 | [Round 9: United States Grand Prix](../seasons/1965-season-report#round-9-united-states-grand-prix) | 1965-10-03 | race | Honda | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
 | 1965 | [Round 9: United States Grand Prix](../seasons/1965-season-report#round-9-united-states-grand-prix) | 1965-10-03 | global | Honda | Q:12/R:DNF | 1496 | -10 | 1485 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
 | 1965 | [Round 10: Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix) | 1965-10-24 | qualifying | Honda | 10 | 1450 | -29 | 1422 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
-| 1965 | [Round 10: Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix) | 1965-10-24 | race | Honda | 5 | 1500 | -36 | 1464 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
-| 1965 | [Round 10: Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix) | 1965-10-24 | global | Honda | Q:10/R:5 | 1485 | -34 | 1451 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
+| 1965 | [Round 10: Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix) | 1965-10-24 | race | Honda | 5 | 1500 | -39 | 1461 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
+| 1965 | [Round 10: Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix) | 1965-10-24 | global | Honda | Q:10/R:5 | 1485 | -36 | 1449 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
 | 1966 | [Round 8: United States Grand Prix](../seasons/1966-season-report#round-8-united-states-grand-prix) | 1966-10-02 | qualifying | Honda | 18 | 1422 | -24 | 1398 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
-| 1966 | [Round 8: United States Grand Prix](../seasons/1966-season-report#round-8-united-states-grand-prix) | 1966-10-02 | race | Honda | DNF | 1464 | N/A | 1464 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
-| 1966 | [Round 8: United States Grand Prix](../seasons/1966-season-report#round-8-united-states-grand-prix) | 1966-10-02 | global | Honda | Q:18/R:DNF | 1451 | -7 | 1444 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
+| 1966 | [Round 8: United States Grand Prix](../seasons/1966-season-report#round-8-united-states-grand-prix) | 1966-10-02 | race | Honda | DNF | 1461 | N/A | 1461 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
+| 1966 | [Round 8: United States Grand Prix](../seasons/1966-season-report#round-8-united-states-grand-prix) | 1966-10-02 | global | Honda | Q:18/R:DNF | 1449 | -7 | 1442 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
 | 1966 | [Round 9: Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix) | 1966-10-23 | qualifying | Honda | 13 | 1398 | -20 | 1379 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
-| 1966 | [Round 9: Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix) | 1966-10-23 | race | Honda | DNF | 1464 | N/A | 1464 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
-| 1966 | [Round 9: Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix) | 1966-10-23 | global | Honda | Q:13/R:DNF | 1444 | -6 | 1438 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
+| 1966 | [Round 9: Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix) | 1966-10-23 | race | Honda | 8 | 1461 | -32 | 1429 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |
+| 1966 | [Round 9: Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix) | 1966-10-23 | global | Honda | Q:13/R:8 | 1442 | -28 | 1413 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther |

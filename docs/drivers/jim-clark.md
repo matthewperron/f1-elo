@@ -17,7 +17,7 @@
    *[1967 Round 3 - Dutch Grand Prix](../seasons/1967-season-report#round-3-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1534
+**Career Journey**: 1500 → 1536
 
 🏆 **Peak ELO**: 1649
    *[1965 Round 6 - Dutch Grand Prix](../seasons/1965-season-report#round-6-dutch-grand-prix)*
@@ -26,7 +26,7 @@
    *[1964 Round 2 - Dutch Grand Prix](../seasons/1964-season-report#round-2-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1569
+**Career Journey**: 1500 → 1571
 
 🏆 **Peak ELO**: 1670
    *[1965 Round 6 - Dutch Grand Prix](../seasons/1965-season-report#round-6-dutch-grand-prix)*
@@ -91,5 +91,5 @@
 | 1967 | [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | race | Lotus-Ford | 1 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
 | 1967 | [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | global | Lotus-Ford | Q:1/R:1 | 1523 | +13 | 1535 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
 | 1968 | [Round 1: South African Grand Prix](../seasons/1968-season-report#round-1-south-african-grand-prix) | 1968-01-01 | qualifying | Lotus-Ford | 1 | 1617 | +35 | 1652 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
-| 1968 | [Round 1: South African Grand Prix](../seasons/1968-season-report#round-1-south-african-grand-prix) | 1968-01-01 | race | Lotus-Ford | 1 | 1500 | +34 | 1534 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
-| 1968 | [Round 1: South African Grand Prix](../seasons/1968-season-report#round-1-south-african-grand-prix) | 1968-01-01 | global | Lotus-Ford | Q:1/R:1 | 1535 | +34 | 1569 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
+| 1968 | [Round 1: South African Grand Prix](../seasons/1968-season-report#round-1-south-african-grand-prix) | 1968-01-01 | race | Lotus-Ford | 1 | 1500 | +36 | 1536 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |
+| 1968 | [Round 1: South African Grand Prix](../seasons/1968-season-report#round-1-south-african-grand-prix) | 1968-01-01 | global | Lotus-Ford | Q:1/R:1 | 1535 | +36 | 1571 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill |

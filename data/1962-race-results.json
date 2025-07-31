@@ -4403,8 +4403,8 @@
   "finalELOs": {
     "hill": {
       "qualifyingElo": 1669,
-      "raceElo": 1502,
-      "globalElo": 1554
+      "raceElo": 1554,
+      "globalElo": 1591
     },
     "gurney": {
       "qualifyingElo": 1583,
@@ -4446,11 +4446,6 @@
       "raceElo": 1500,
       "globalElo": 1490
     },
-    "ginther": {
-      "qualifyingElo": 1508,
-      "raceElo": 1465,
-      "globalElo": 1478
-    },
     "salvadori": {
       "qualifyingElo": 1422,
       "raceElo": 1500,
@@ -4465,6 +4460,11 @@
       "qualifyingElo": 1420,
       "raceElo": 1468,
       "globalElo": 1454
+    },
+    "ginther": {
+      "qualifyingElo": 1508,
+      "raceElo": 1413,
+      "globalElo": 1441
     }
   }
 }

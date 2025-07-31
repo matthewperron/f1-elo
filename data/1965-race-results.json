@@ -4144,63 +4144,63 @@
     },
     "surtees": {
       "qualifyingElo": 1692,
-      "raceElo": 1605,
-      "globalElo": 1632
+      "raceElo": 1643,
+      "globalElo": 1658
     },
     "mclaren": {
       "qualifyingElo": 1646,
-      "raceElo": 1585,
-      "globalElo": 1604
-    },
-    "siffert": {
-      "qualifyingElo": 1692,
-      "raceElo": 1532,
-      "globalElo": 1580
+      "raceElo": 1607,
+      "globalElo": 1619
     },
     "hill": {
       "qualifyingElo": 1754,
-      "raceElo": 1488,
-      "globalElo": 1570
+      "raceElo": 1511,
+      "globalElo": 1586
+    },
+    "siffert": {
+      "qualifyingElo": 1692,
+      "raceElo": 1506,
+      "globalElo": 1562
     },
     "amon": {
       "qualifyingElo": 1650,
-      "raceElo": 1500,
-      "globalElo": 1545
-    },
-    "attwood": {
-      "qualifyingElo": 1553,
-      "raceElo": 1506,
-      "globalElo": 1520
+      "raceElo": 1468,
+      "globalElo": 1522
     },
     "stewart": {
       "qualifyingElo": 1485,
-      "raceElo": 1522,
-      "globalElo": 1511
+      "raceElo": 1530,
+      "globalElo": 1517
+    },
+    "ireland": {
+      "qualifyingElo": 1504,
+      "raceElo": 1521,
+      "globalElo": 1515
     },
     "hawkins": {
       "qualifyingElo": 1532,
       "raceElo": 1500,
       "globalElo": 1510
     },
-    "ginther": {
-      "qualifyingElo": 1516,
-      "raceElo": 1493,
-      "globalElo": 1500
+    "hailwood": {
+      "qualifyingElo": 1457,
+      "raceElo": 1532,
+      "globalElo": 1510
     },
-    "ireland": {
-      "qualifyingElo": 1504,
-      "raceElo": 1494,
-      "globalElo": 1497
+    "attwood": {
+      "qualifyingElo": 1553,
+      "raceElo": 1485,
+      "globalElo": 1506
     },
     "prophet": {
       "qualifyingElo": 1468,
       "raceElo": 1500,
       "globalElo": 1490
     },
-    "hailwood": {
-      "qualifyingElo": 1457,
-      "raceElo": 1500,
-      "globalElo": 1488
+    "ginther": {
+      "qualifyingElo": 1516,
+      "raceElo": 1465,
+      "globalElo": 1480
     },
     "gardner": {
       "qualifyingElo": 1402,
@@ -4209,18 +4209,18 @@
     },
     "rindt": {
       "qualifyingElo": 1480,
-      "raceElo": 1447,
-      "globalElo": 1457
+      "raceElo": 1451,
+      "globalElo": 1460
     },
     "bucknum": {
       "qualifyingElo": 1422,
-      "raceElo": 1464,
-      "globalElo": 1451
+      "raceElo": 1461,
+      "globalElo": 1449
     },
     "bandini": {
       "qualifyingElo": 1412,
-      "raceElo": 1427,
-      "globalElo": 1422
+      "raceElo": 1418,
+      "globalElo": 1416
     },
     "spence": {
       "qualifyingElo": 1382,

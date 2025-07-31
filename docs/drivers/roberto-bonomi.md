@@ -16,13 +16,22 @@
 📉 **Lowest ELO**: 1468
    *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1490
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak ELO**: 1468
    *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
-📉 **Lowest ELO**: 1490
+📉 **Lowest ELO**: 1468
+   *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1468
+
+🏆 **Peak ELO**: 1468
+   *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
+
+📉 **Lowest ELO**: 1468
    *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
 
@@ -31,5 +40,5 @@
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
 | 1960 | [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | 1960-02-07 | qualifying | Cooper-Maserati | 17 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy |
-| 1960 | [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | 1960-02-07 | race | Cooper-Maserati | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy |
-| 1960 | [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | 1960-02-07 | global | Cooper-Maserati | Q:17/R:DNF | 1500 | -10 | 1490 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy |
+| 1960 | [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | 1960-02-07 | race | Cooper-Maserati | 11 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy |
+| 1960 | [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | 1960-02-07 | global | Cooper-Maserati | Q:17/R:11 | 1500 | -32 | 1468 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy |

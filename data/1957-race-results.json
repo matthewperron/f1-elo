@@ -3428,15 +3428,15 @@
       "raceElo": 1532,
       "globalElo": 1532
     },
-    "salvadori": {
-      "qualifyingElo": 1564,
-      "raceElo": 1500,
-      "globalElo": 1519
+    "brooks": {
+      "qualifyingElo": 1497,
+      "raceElo": 1532,
+      "globalElo": 1522
     },
-    "moss": {
-      "qualifyingElo": 1535,
-      "raceElo": 1500,
-      "globalElo": 1511
+    "jack_brabham": {
+      "qualifyingElo": 1471,
+      "raceElo": 1532,
+      "globalElo": 1514
     },
     "hartley": {
       "qualifyingElo": 1532,
@@ -3453,20 +3453,15 @@
       "raceElo": 1500,
       "globalElo": 1510
     },
-    "brooks": {
-      "qualifyingElo": 1497,
-      "raceElo": 1500,
-      "globalElo": 1500
-    },
     "lewis-evans": {
       "qualifyingElo": 1497,
       "raceElo": 1500,
       "globalElo": 1499
     },
-    "jack_brabham": {
-      "qualifyingElo": 1471,
-      "raceElo": 1500,
-      "globalElo": 1491
+    "salvadori": {
+      "qualifyingElo": 1564,
+      "raceElo": 1468,
+      "globalElo": 1497
     },
     "bueb": {
       "qualifyingElo": 1468,
@@ -3487,6 +3482,11 @@
       "qualifyingElo": 1468,
       "raceElo": 1500,
       "globalElo": 1490
+    },
+    "moss": {
+      "qualifyingElo": 1535,
+      "raceElo": 1468,
+      "globalElo": 1488
     },
     "rathmann": {
       "qualifyingElo": 1468,

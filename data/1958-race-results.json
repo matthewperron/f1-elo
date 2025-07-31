@@ -4839,23 +4839,23 @@
     }
   ],
   "finalELOs": {
+    "jack_brabham": {
+      "qualifyingElo": 1544,
+      "raceElo": 1532,
+      "globalElo": 1536
+    },
+    "brooks": {
+      "qualifyingElo": 1532,
+      "raceElo": 1532,
+      "globalElo": 1533
+    },
     "hawthorn": {
       "qualifyingElo": 1532,
       "raceElo": 1532,
       "globalElo": 1532
     },
-    "jack_brabham": {
-      "qualifyingElo": 1544,
-      "raceElo": 1500,
-      "globalElo": 1513
-    },
     "hill": {
       "qualifyingElo": 1535,
-      "raceElo": 1500,
-      "globalElo": 1511
-    },
-    "brooks": {
-      "qualifyingElo": 1532,
       "raceElo": 1500,
       "globalElo": 1511
     },
@@ -4879,11 +4879,6 @@
       "raceElo": 1506,
       "globalElo": 1502
     },
-    "moss": {
-      "qualifyingElo": 1500,
-      "raceElo": 1500,
-      "globalElo": 1501
-    },
     "bueb": {
       "qualifyingElo": 1500,
       "raceElo": 1500,
@@ -4893,11 +4888,6 @@
       "qualifyingElo": 1507,
       "raceElo": 1494,
       "globalElo": 1498
-    },
-    "salvadori": {
-      "qualifyingElo": 1491,
-      "raceElo": 1500,
-      "globalElo": 1497
     },
     "bonnier": {
       "qualifyingElo": 1468,
@@ -4923,6 +4913,16 @@
       "qualifyingElo": 1436,
       "raceElo": 1500,
       "globalElo": 1480
+    },
+    "moss": {
+      "qualifyingElo": 1500,
+      "raceElo": 1468,
+      "globalElo": 1478
+    },
+    "salvadori": {
+      "qualifyingElo": 1491,
+      "raceElo": 1468,
+      "globalElo": 1475
     },
     "trips": {
       "qualifyingElo": 1468,

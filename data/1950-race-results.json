@@ -3310,8 +3310,13 @@
   "finalELOs": {
     "manzon": {
       "qualifyingElo": 1558,
-      "raceElo": 1500,
-      "globalElo": 1517
+      "raceElo": 1532,
+      "globalElo": 1540
+    },
+    "gerard": {
+      "qualifyingElo": 1468,
+      "raceElo": 1532,
+      "globalElo": 1513
     },
     "ascari": {
       "qualifyingElo": 1468,
@@ -3319,11 +3324,6 @@
       "globalElo": 1513
     },
     "crossley": {
-      "qualifyingElo": 1532,
-      "raceElo": 1500,
-      "globalElo": 1510
-    },
-    "harrison": {
       "qualifyingElo": 1532,
       "raceElo": 1500,
       "globalElo": 1510
@@ -3343,11 +3343,6 @@
       "raceElo": 1500,
       "globalElo": 1490
     },
-    "gerard": {
-      "qualifyingElo": 1468,
-      "raceElo": 1500,
-      "globalElo": 1490
-    },
     "ruttman": {
       "qualifyingElo": 1468,
       "raceElo": 1500,
@@ -3358,6 +3353,11 @@
       "raceElo": 1500,
       "globalElo": 1490
     },
+    "harrison": {
+      "qualifyingElo": 1532,
+      "raceElo": 1468,
+      "globalElo": 1487
+    },
     "villoresi": {
       "qualifyingElo": 1532,
       "raceElo": 1468,
@@ -3365,8 +3365,8 @@
     },
     "trintignant": {
       "qualifyingElo": 1442,
-      "raceElo": 1500,
-      "globalElo": 1483
+      "raceElo": 1468,
+      "globalElo": 1460
     }
   }
 }

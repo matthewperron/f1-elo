@@ -17,22 +17,22 @@
    *[1977 Round 13 - Dutch Grand Prix](../seasons/1977-season-report#round-13-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1532
+**Career Journey**: 1500 → 1505
 
-🏆 **Peak ELO**: 1532
+🏆 **Peak ELO**: 1505
    *[1977 Round 13 - Dutch Grand Prix](../seasons/1977-season-report#round-13-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1532
-   *[1977 Round 13 - Dutch Grand Prix](../seasons/1977-season-report#round-13-dutch-grand-prix)*
+📉 **Lowest ELO**: 1468
+   *[1977 Round 12 - Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1519
+**Career Journey**: 1500 → 1501
 
-🏆 **Peak ELO**: 1519
-   *[1977 Round 14 - Italian Grand Prix](../seasons/1977-season-report#round-14-italian-grand-prix)*
+🏆 **Peak ELO**: 1516
+   *[1977 Round 2 - Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1496
-   *[1977 Round 9 - French Grand Prix](../seasons/1977-season-report#round-9-french-grand-prix)*
+📉 **Lowest ELO**: 1473
+   *[1977 Round 12 - Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
 
 
 ## Complete Race-by-Race Results
@@ -43,8 +43,8 @@
 | 1975 | [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | 1975-06-08 | race | Williams | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damien Magee |
 | 1975 | [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | 1975-06-08 | global | Williams | Q:20/R:DNF | 1500 | +10 | 1510 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damien Magee |
 | 1975 | [Round 8: Dutch Grand Prix](../seasons/1975-season-report#round-8-dutch-grand-prix) | 1975-06-22 | qualifying | Williams | 19 | 1532 | -39 | 1493 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
-| 1975 | [Round 8: Dutch Grand Prix](../seasons/1975-season-report#round-8-dutch-grand-prix) | 1975-06-22 | race | Williams | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
-| 1975 | [Round 8: Dutch Grand Prix](../seasons/1975-season-report#round-8-dutch-grand-prix) | 1975-06-22 | global | Williams | Q:19/R:DNF | 1510 | -12 | 1498 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
+| 1975 | [Round 8: Dutch Grand Prix](../seasons/1975-season-report#round-8-dutch-grand-prix) | 1975-06-22 | race | Williams | 12 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
+| 1975 | [Round 8: Dutch Grand Prix](../seasons/1975-season-report#round-8-dutch-grand-prix) | 1975-06-22 | global | Williams | Q:19/R:12 | 1510 | -12 | 1498 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite |
 | 1977 | [Round 1: Argentine Grand Prix](../seasons/1977-season-report#round-1-argentine-grand-prix) | 1977-01-09 | qualifying | March | 17 | 1500 | +29 | 1529 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro |
 | 1977 | [Round 1: Argentine Grand Prix](../seasons/1977-season-report#round-1-argentine-grand-prix) | 1977-01-09 | race | March | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro |
 | 1977 | [Round 1: Argentine Grand Prix](../seasons/1977-season-report#round-1-argentine-grand-prix) | 1977-01-09 | global | March | Q:17/R:DNF | 1500 | +9 | 1509 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro |
@@ -61,11 +61,11 @@
 | 1977 | [Round 11: German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix) | 1977-07-31 | race | March | DNF | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro |
 | 1977 | [Round 11: German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix) | 1977-07-31 | global | March | Q:19/R:DNF | 1496 | +8 | 1504 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro |
 | 1977 | [Round 12: Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix) | 1977-08-14 | qualifying | March | 24 | 1513 | -27 | 1486 | Patrick Nève |
-| 1977 | [Round 12: Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix) | 1977-08-14 | race | March | DNF | 1500 | N/A | 1500 | Patrick Nève |
-| 1977 | [Round 12: Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix) | 1977-08-14 | global | March | Q:24/R:DNF | 1504 | -8 | 1496 | Patrick Nève |
+| 1977 | [Round 12: Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix) | 1977-08-14 | race | March | 25 | 1500 | -32 | 1468 | Patrick Nève |
+| 1977 | [Round 12: Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix) | 1977-08-14 | global | March | Q:24/R:25 | 1504 | -30 | 1473 | Patrick Nève |
 | 1977 | [Round 13: Dutch Grand Prix](../seasons/1977-season-report#round-13-dutch-grand-prix) | 1977-08-28 | qualifying | March | 25 | 1486 | -40 | 1445 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro |
-| 1977 | [Round 13: Dutch Grand Prix](../seasons/1977-season-report#round-13-dutch-grand-prix) | 1977-08-28 | race | March | 10 | 1500 | +32 | 1532 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro |
-| 1977 | [Round 13: Dutch Grand Prix](../seasons/1977-season-report#round-13-dutch-grand-prix) | 1977-08-28 | global | March | Q:25/R:10 | 1496 | +10 | 1506 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro |
+| 1977 | [Round 13: Dutch Grand Prix](../seasons/1977-season-report#round-13-dutch-grand-prix) | 1977-08-28 | race | March | 10 | 1468 | +37 | 1505 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro |
+| 1977 | [Round 13: Dutch Grand Prix](../seasons/1977-season-report#round-13-dutch-grand-prix) | 1977-08-28 | global | March | Q:25/R:10 | 1473 | +14 | 1487 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro |
 | 1977 | [Round 14: Italian Grand Prix](../seasons/1977-season-report#round-14-italian-grand-prix) | 1977-09-11 | qualifying | March | 17 | 1445 | +45 | 1490 | Patrick Nève |
-| 1977 | [Round 14: Italian Grand Prix](../seasons/1977-season-report#round-14-italian-grand-prix) | 1977-09-11 | race | March | DNF | 1532 | N/A | 1532 | Patrick Nève |
-| 1977 | [Round 14: Italian Grand Prix](../seasons/1977-season-report#round-14-italian-grand-prix) | 1977-09-11 | global | March | Q:17/R:DNF | 1506 | +14 | 1519 | Patrick Nève |
+| 1977 | [Round 14: Italian Grand Prix](../seasons/1977-season-report#round-14-italian-grand-prix) | 1977-09-11 | race | March | DNF | 1505 | N/A | 1505 | Patrick Nève |
+| 1977 | [Round 14: Italian Grand Prix](../seasons/1977-season-report#round-14-italian-grand-prix) | 1977-09-11 | global | March | Q:17/R:DNF | 1487 | +14 | 1501 | Patrick Nève |
