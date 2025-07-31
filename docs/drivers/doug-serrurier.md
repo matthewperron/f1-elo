@@ -11,21 +11,21 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1468 → 1436
+**Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1436
+🏆 **Peak ELO**: 1468
    *[1963 Round 10 - South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1436
+📉 **Lowest ELO**: 1468
    *[1963 Round 10 - South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1490 → 1480
+**Career Journey**: 1500 → 1490
 
-🏆 **Peak ELO**: 1480
+🏆 **Peak ELO**: 1490
    *[1963 Round 10 - South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
 
-📉 **Lowest ELO**: 1480
+📉 **Lowest ELO**: 1490
    *[1963 Round 10 - South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
 
 
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1963 | [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | qualifying | LDS | 18 | 1468 | -32 | 1436 | [Sam Tingle](sam-tingle) |
+| 1963 | [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | qualifying | LDS | 18 | 1500 | -32 | 1468 | [Sam Tingle](sam-tingle) |
 | 1963 | [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | race | LDS | DNF | 1500 | N/A | 1500 | [Sam Tingle](sam-tingle) |
-| 1963 | [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | global | LDS | Q:18/R:DNF | 1490 | -10 | 1480 | [Sam Tingle](sam-tingle) |
+| 1963 | [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | global | LDS | Q:18/R:DNF | 1500 | -10 | 1490 | [Sam Tingle](sam-tingle) |

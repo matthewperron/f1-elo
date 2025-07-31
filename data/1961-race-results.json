@@ -4561,49 +4561,49 @@
   ],
   "finalELOs": {
     "hill": {
-      "qualifyingElo": 1487,
-      "raceElo": 1553,
-      "globalElo": 1534
-    },
-    "vaccarella": {
-      "qualifyingElo": 1558,
-      "raceElo": 1500,
-      "globalElo": 1518
+      "qualifyingElo": 1690,
+      "raceElo": 1473,
+      "globalElo": 1539
     },
     "gurney": {
-      "qualifyingElo": 1475,
-      "raceElo": 1490,
-      "globalElo": 1485
-    },
-    "natili": {
-      "qualifyingElo": 1439,
-      "raceElo": 1500,
-      "globalElo": 1482
-    },
-    "bussinello": {
-      "qualifyingElo": 1442,
-      "raceElo": 1500,
-      "globalElo": 1482
+      "qualifyingElo": 1531,
+      "raceElo": 1532,
+      "globalElo": 1532
     },
     "brooks": {
-      "qualifyingElo": 1387,
-      "raceElo": 1518,
-      "globalElo": 1478
-    },
-    "trintignant": {
-      "qualifyingElo": 1409,
-      "raceElo": 1500,
-      "globalElo": 1472
+      "qualifyingElo": 1526,
+      "raceElo": 1527,
+      "globalElo": 1527
     },
     "bandini": {
-      "qualifyingElo": 1535,
-      "raceElo": 1418,
-      "globalElo": 1452
+      "qualifyingElo": 1571,
+      "raceElo": 1500,
+      "globalElo": 1521
+    },
+    "vaccarella": {
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
+    },
+    "natili": {
+      "qualifyingElo": 1470,
+      "raceElo": 1500,
+      "globalElo": 1491
+    },
+    "bussinello": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
     },
     "bonnier": {
-      "qualifyingElo": 1425,
-      "raceElo": 1432,
-      "globalElo": 1430
+      "qualifyingElo": 1456,
+      "raceElo": 1468,
+      "globalElo": 1463
+    },
+    "trintignant": {
+      "qualifyingElo": 1365,
+      "raceElo": 1468,
+      "globalElo": 1437
     }
   }
 }

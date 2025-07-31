@@ -11,21 +11,21 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1468 → 1439
+**Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1439
+🏆 **Peak ELO**: 1468
    *[1951 Round 2 - Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)*
 
-📉 **Lowest ELO**: 1439
+📉 **Lowest ELO**: 1468
    *[1951 Round 2 - Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1490 → 1481
+**Career Journey**: 1500 → 1490
 
-🏆 **Peak ELO**: 1481
+🏆 **Peak ELO**: 1490
    *[1951 Round 2 - Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)*
 
-📉 **Lowest ELO**: 1481
+📉 **Lowest ELO**: 1490
    *[1951 Round 2 - Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)*
 
 
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1951 | [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | 1951-05-30 | qualifying | Schroeder | 32 | 1468 | -29 | 1439 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball) |
+| 1951 | [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | 1951-05-30 | qualifying | Schroeder | 32 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball) |
 | 1951 | [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | 1951-05-30 | race | Schroeder | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball) |
-| 1951 | [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | 1951-05-30 | global | Schroeder | Q:32/R:DNF | 1490 | -9 | 1481 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball) |
+| 1951 | [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | 1951-05-30 | global | Schroeder | Q:32/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball) |

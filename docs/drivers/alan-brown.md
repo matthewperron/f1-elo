@@ -11,21 +11,21 @@
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1532 → 1558
+**Career Journey**: 1500 → 1532
 
-🏆 **Peak ELO**: 1558
+🏆 **Peak ELO**: 1532
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
-📉 **Lowest ELO**: 1558
+📉 **Lowest ELO**: 1532
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1510 → 1518
+**Career Journey**: 1500 → 1510
 
-🏆 **Peak ELO**: 1518
+🏆 **Peak ELO**: 1510
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
-📉 **Lowest ELO**: 1518
+📉 **Lowest ELO**: 1510
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
 
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | qualifying | Cooper | 15 | 1532 | +26 | 1558 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Brandon](eric-brandon) |
+| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | qualifying | Cooper | 15 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Brandon](eric-brandon) |
 | 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | race | Cooper | 5 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Brandon](eric-brandon) |
-| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | global | Cooper | Q:15/R:5 | 1510 | +8 | 1518 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Brandon](eric-brandon) |
+| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | global | Cooper | Q:15/R:5 | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Brandon](eric-brandon) |

@@ -11,21 +11,21 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1468 → 1444
+**Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1444
+🏆 **Peak ELO**: 1468
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
-📉 **Lowest ELO**: 1444
+📉 **Lowest ELO**: 1468
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1490 → 1483
+**Career Journey**: 1500 → 1490
 
-🏆 **Peak ELO**: 1483
+🏆 **Peak ELO**: 1490
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
-📉 **Lowest ELO**: 1483
+📉 **Lowest ELO**: 1490
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
 
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | qualifying | Simca | 21 | 1468 | -24 | 1444 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
+| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | qualifying | Simca | 21 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
 | 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | race | Simca | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
-| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | global | Simca | Q:21/R:DNF | 1490 | -7 | 1483 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
+| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | global | Simca | Q:21/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |

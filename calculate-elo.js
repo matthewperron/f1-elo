@@ -1,8 +1,5 @@
 import fs from 'fs/promises';
 
-// Global cache for historical ELO data to avoid reloading in bulk operations
-let historicalELOCache = null;
-
 /**
  * Country flag SVG mapping for drivers using Wikipedia URLs with emoji fallbacks
  */
@@ -168,20 +165,17 @@ function trackDriverResult(driverResults, change, race, season) {
 }
 
 /**
- * Load comprehensive historical ELO database (called once per bulk operation)
+ * Load starting ELO ratings for a specific season (looks back through previous seasons only)
  */
-async function loadHistoricalELODatabase() {
-    if (historicalELOCache) {
-        console.log(`✓ Using cached historical ELO data: ${historicalELOCache.size} drivers`);
-        return historicalELOCache;
-    }
+async function loadStartingELOs(season) {
+    const currentYear = parseInt(season);
+    const startingELOs = new Map();
+    let seasonsChecked = 0;
     
-    console.log(`Building comprehensive historical ELO database...`);
-    const historicalELOs = new Map();
-    let seasonsProcessed = 0;
+    console.log(`Loading starting ELOs for ${season} season...`);
     
-    // Look back through all seasons to build comprehensive database
-    for (let year = new Date().getFullYear(); year >= 1950; year--) {
+    // Look back through ONLY previous seasons (not current or future)
+    for (let year = currentYear - 1; year >= 1950; year--) {
         const seasonFile = `data/${year}-race-results.json`;
         
         try {
@@ -193,43 +187,35 @@ async function loadHistoricalELODatabase() {
                 
                 // Add ELOs for drivers we haven't seen yet (most recent ELO wins)
                 Object.entries(seasonData.finalELOs).forEach(([driverId, eloData]) => {
-                    if (!historicalELOs.has(driverId)) {
-                        historicalELOs.set(driverId, eloData);
+                    if (!startingELOs.has(driverId)) {
+                        startingELOs.set(driverId, eloData);
                         newDriversAdded++;
                     }
                 });
                 
-                seasonsProcessed++;
-                if (seasonsProcessed <= 5 || newDriversAdded > 0) {
-                    console.log(`✓ ${year} season: ${newDriversAdded} new drivers, ${historicalELOs.size} total`);
+                seasonsChecked++;
+                if (seasonsChecked <= 3 || newDriversAdded > 0) {
+                    console.log(`✓ ${year} season: ${newDriversAdded} new drivers, ${startingELOs.size} total`);
                 }
             }
         } catch (error) {
             // File doesn't exist or can't be read - continue to next year
             continue;
         }
+        
+        // Performance optimization: stop after finding sufficient historical data
+        if (seasonsChecked >= 10 && startingELOs.size > 50) {
+            console.log(`✓ Stopped after checking ${seasonsChecked} seasons (sufficient data found)`);
+            break;
+        }
     }
     
-    console.log(`✓ Built historical ELO database: ${historicalELOs.size} drivers from ${seasonsProcessed} seasons`);
-    historicalELOCache = historicalELOs;
-    return historicalELOs;
-}
-
-/**
- * Load starting ELO ratings for a specific season (uses historical database)
- */
-async function loadStartingELOs(season) {
-    const currentYear = parseInt(season);
-    const historicalELOs = await loadHistoricalELODatabase();
-    const startingELOs = new Map();
-    
-    // Filter historical ELOs to only include drivers from before current season
-    for (const [driverId, eloData] of historicalELOs.entries()) {
-        // For now, include all historical data - in future could add season filtering
-        startingELOs.set(driverId, eloData);
+    if (startingELOs.size === 0) {
+        console.log(`✓ No historical ELO data found for ${season} - all drivers will start at 1500`);
+    } else {
+        console.log(`✓ Starting ELOs for ${season}: ${startingELOs.size} drivers with historical data`);
     }
     
-    console.log(`✓ Starting ELOs for ${season}: ${startingELOs.size} drivers with historical data`);
     return startingELOs;
 }
 
@@ -957,15 +943,7 @@ async function calculateELOFromData(season = '2025') {
 }
 
 // Export functions
-/**
- * Clear historical ELO cache (useful for bulk operations to ensure fresh data)
- */
-function clearELOCache() {
-    historicalELOCache = null;
-    console.log('✓ Historical ELO cache cleared');
-}
-
-export { calculateELO, updateHomepageFiles, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles, cleanDriverNameForFilename, clearELOCache };
+export { calculateELO, updateHomepageFiles, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles, cleanDriverNameForFilename };
 
 // Run if called directly (check if this file is the main module being executed)
 import path from 'path';

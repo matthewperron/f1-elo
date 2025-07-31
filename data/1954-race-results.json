@@ -4358,54 +4358,54 @@
   ],
   "finalELOs": {
     "fangio": {
-      "qualifyingElo": 1558,
-      "raceElo": 1558,
-      "globalElo": 1558
-    },
-    "niday": {
-      "qualifyingElo": 1558,
-      "raceElo": 1500,
-      "globalElo": 1518
+      "qualifyingElo": 1532,
+      "raceElo": 1532,
+      "globalElo": 1532
     },
     "ascari": {
-      "qualifyingElo": 1558,
+      "qualifyingElo": 1506,
+      "raceElo": 1532,
+      "globalElo": 1524
+    },
+    "niday": {
+      "qualifyingElo": 1532,
       "raceElo": 1500,
-      "globalElo": 1518
+      "globalElo": 1510
     },
     "pollet": {
-      "qualifyingElo": 1556,
+      "qualifyingElo": 1527,
       "raceElo": 1500,
-      "globalElo": 1517
+      "globalElo": 1508
     },
     "linden": {
-      "qualifyingElo": 1585,
+      "qualifyingElo": 1561,
       "raceElo": 1468,
-      "globalElo": 1503
-    },
-    "behra": {
-      "qualifyingElo": 1464,
-      "raceElo": 1506,
-      "globalElo": 1493
+      "globalElo": 1496
     },
     "duncan": {
-      "qualifyingElo": 1447,
+      "qualifyingElo": 1471,
       "raceElo": 1500,
-      "globalElo": 1484
+      "globalElo": 1491
     },
     "elisian": {
-      "qualifyingElo": 1442,
+      "qualifyingElo": 1468,
       "raceElo": 1500,
-      "globalElo": 1482
+      "globalElo": 1490
     },
     "villoresi": {
-      "qualifyingElo": 1442,
+      "qualifyingElo": 1494,
+      "raceElo": 1468,
+      "globalElo": 1476
+    },
+    "behra": {
+      "qualifyingElo": 1415,
       "raceElo": 1500,
-      "globalElo": 1482
+      "globalElo": 1475
     },
     "kling": {
-      "qualifyingElo": 1442,
-      "raceElo": 1442,
-      "globalElo": 1442
+      "qualifyingElo": 1468,
+      "raceElo": 1468,
+      "globalElo": 1468
     }
   }
 }

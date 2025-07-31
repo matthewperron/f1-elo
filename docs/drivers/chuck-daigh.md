@@ -11,21 +11,21 @@
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1463 → 1441
+**Career Journey**: 1500 → 1463
 
-🏆 **Peak ELO**: 1499
+🏆 **Peak ELO**: 1532
    *[1960 Round 4 - Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1441
+📉 **Lowest ELO**: 1463
    *[1960 Round 6 - French Grand Prix](../seasons/1960-season-report#round-6-french-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1489 → 1482
+**Career Journey**: 1500 → 1489
 
-🏆 **Peak ELO**: 1500
+🏆 **Peak ELO**: 1510
    *[1960 Round 4 - Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1482
+📉 **Lowest ELO**: 1489
    *[1960 Round 6 - French Grand Prix](../seasons/1960-season-report#round-6-french-grand-prix)*
 
 
@@ -33,12 +33,12 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1960 | [Round 4: Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix) | 1960-06-06 | qualifying | Scarab | 0 | 1463 | +36 | 1499 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lance Reventlow](lance-reventlow) |
+| 1960 | [Round 4: Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix) | 1960-06-06 | qualifying | Scarab | 0 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lance Reventlow](lance-reventlow) |
 | 1960 | [Round 4: Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix) | 1960-06-06 | race | Scarab | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lance Reventlow](lance-reventlow) |
-| 1960 | [Round 4: Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix) | 1960-06-06 | global | Scarab | Q:0/R:DNF | 1489 | +11 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lance Reventlow](lance-reventlow) |
-| 1960 | [Round 5: Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix) | 1960-06-19 | qualifying | Scarab | 18 | 1499 | -35 | 1464 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lance Reventlow](lance-reventlow) |
+| 1960 | [Round 4: Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix) | 1960-06-06 | global | Scarab | Q:0/R:DNF | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lance Reventlow](lance-reventlow) |
+| 1960 | [Round 5: Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix) | 1960-06-19 | qualifying | Scarab | 18 | 1532 | -38 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lance Reventlow](lance-reventlow) |
 | 1960 | [Round 5: Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix) | 1960-06-19 | race | Scarab | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lance Reventlow](lance-reventlow) |
-| 1960 | [Round 5: Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix) | 1960-06-19 | global | Scarab | Q:18/R:DNF | 1500 | -10 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lance Reventlow](lance-reventlow) |
-| 1960 | [Round 6: French Grand Prix](../seasons/1960-season-report#round-6-french-grand-prix) | 1960-07-03 | qualifying | Scarab | 23 | 1464 | -23 | 1441 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) |
+| 1960 | [Round 5: Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix) | 1960-06-19 | global | Scarab | Q:18/R:DNF | 1510 | -11 | 1498 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lance Reventlow](lance-reventlow) |
+| 1960 | [Round 6: French Grand Prix](../seasons/1960-season-report#round-6-french-grand-prix) | 1960-07-03 | qualifying | Scarab | 23 | 1494 | -31 | 1463 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) |
 | 1960 | [Round 6: French Grand Prix](../seasons/1960-season-report#round-6-french-grand-prix) | 1960-07-03 | race | Scarab | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) |
-| 1960 | [Round 6: French Grand Prix](../seasons/1960-season-report#round-6-french-grand-prix) | 1960-07-03 | global | Scarab | Q:23/R:DNF | 1489 | -7 | 1482 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) |
+| 1960 | [Round 6: French Grand Prix](../seasons/1960-season-report#round-6-french-grand-prix) | 1960-07-03 | global | Scarab | Q:23/R:DNF | 1498 | -9 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) |

@@ -3801,35 +3801,35 @@
     }
   ],
   "finalELOs": {
-    "hawthorn": {
-      "qualifyingElo": 1497,
-      "raceElo": 1532,
-      "globalElo": 1522
-    },
     "manzon": {
-      "qualifyingElo": 1558,
-      "raceElo": 1500,
-      "globalElo": 1518
+      "qualifyingElo": 1609,
+      "raceElo": 1532,
+      "globalElo": 1555
     },
     "brooks": {
-      "qualifyingElo": 1536,
-      "raceElo": 1501,
-      "globalElo": 1511
-    },
-    "schell": {
-      "qualifyingElo": 1529,
-      "raceElo": 1494,
-      "globalElo": 1504
+      "qualifyingElo": 1532,
+      "raceElo": 1500,
+      "globalElo": 1510
     },
     "ramos": {
-      "qualifyingElo": 1442,
+      "qualifyingElo": 1476,
       "raceElo": 1500,
-      "globalElo": 1482
+      "globalElo": 1493
+    },
+    "hawthorn": {
+      "qualifyingElo": 1468,
+      "raceElo": 1500,
+      "globalElo": 1490
+    },
+    "schell": {
+      "qualifyingElo": 1587,
+      "raceElo": 1468,
+      "globalElo": 1484
     },
     "trintignant": {
-      "qualifyingElo": 1410,
-      "raceElo": 1500,
-      "globalElo": 1473
+      "qualifyingElo": 1455,
+      "raceElo": 1468,
+      "globalElo": 1464
     }
   }
 }

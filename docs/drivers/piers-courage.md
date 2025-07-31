@@ -11,30 +11,30 @@
 **DNF Statistics**: 3 DNFs out of 6 races (50.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1361 → 1302
+**Career Journey**: 1500 → 1367
 
-🏆 **Peak ELO**: 1348
-   *[1968 Round 2 - Spanish Grand Prix](../seasons/1968-season-report#round-2-spanish-grand-prix)*
-
-📉 **Lowest ELO**: 1302
-   *[1969 Round 7 - German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix)*
-
-### 🏎️ Race Performance
-**Career Journey**: 1450 → 1394
-
-🏆 **Peak ELO**: 1419
-   *[1969 Round 6 - British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix)*
-
-📉 **Lowest ELO**: 1394
-   *[1969 Round 7 - German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix)*
-
-### 🌟 Overall Performance
-**Career Journey**: 1424 → 1367
-
-🏆 **Peak ELO**: 1420
+🏆 **Peak ELO**: 1470
    *[1968 Round 2 - Spanish Grand Prix](../seasons/1968-season-report#round-2-spanish-grand-prix)*
 
 📉 **Lowest ELO**: 1367
+   *[1969 Round 7 - German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix)*
+
+### 🏎️ Race Performance
+**Career Journey**: 1500 → 1449
+
+🏆 **Peak ELO**: 1472
+   *[1969 Round 6 - British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix)*
+
+📉 **Lowest ELO**: 1449
+   *[1969 Round 7 - German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix)*
+
+### 🌟 Overall Performance
+**Career Journey**: 1500 → 1425
+
+🏆 **Peak ELO**: 1491
+   *[1968 Round 2 - Spanish Grand Prix](../seasons/1968-season-report#round-2-spanish-grand-prix)*
+
+📉 **Lowest ELO**: 1425
    *[1969 Round 7 - German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix)*
 
 
@@ -42,21 +42,21 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1968 | [Round 2: Spanish Grand Prix](../seasons/1968-season-report#round-2-spanish-grand-prix) | 1968-05-12 | qualifying | BRM | 11 | 1361 | -13 | 1348 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 2: Spanish Grand Prix](../seasons/1968-season-report#round-2-spanish-grand-prix) | 1968-05-12 | race | BRM | DNF | 1450 | N/A | 1450 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 2: Spanish Grand Prix](../seasons/1968-season-report#round-2-spanish-grand-prix) | 1968-05-12 | global | BRM | Q:11/R:DNF | 1424 | -4 | 1420 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 9: Italian Grand Prix](../seasons/1968-season-report#round-9-italian-grand-prix) | 1968-09-08 | qualifying | BRM | 17 | 1348 | -12 | 1336 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 9: Italian Grand Prix](../seasons/1968-season-report#round-9-italian-grand-prix) | 1968-09-08 | race | BRM | 4 | 1450 | N/A | 1450 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 9: Italian Grand Prix](../seasons/1968-season-report#round-9-italian-grand-prix) | 1968-09-08 | global | BRM | Q:17/R:4 | 1420 | -4 | 1417 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 10: Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix) | 1968-09-22 | qualifying | BRM | 14 | 1336 | -11 | 1325 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 10: Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix) | 1968-09-22 | race | BRM | DNF | 1450 | N/A | 1450 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 10: Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix) | 1968-09-22 | global | BRM | Q:14/R:DNF | 1417 | -3 | 1413 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 12: Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix) | 1968-11-03 | qualifying | BRM | 19 | 1325 | -10 | 1315 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 12: Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix) | 1968-11-03 | race | BRM | DNF | 1450 | N/A | 1450 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1968 | [Round 12: Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix) | 1968-11-03 | global | BRM | Q:19/R:DNF | 1413 | -3 | 1410 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | qualifying | Brabham-Ford | 10 | 1361 | -32 | 1329 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | race | Brabham-Ford | 5 | 1450 | -31 | 1419 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | global | Brabham-Ford | Q:10/R:5 | 1424 | -31 | 1393 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | qualifying | Brabham-Ford | 7 | 1329 | -26 | 1302 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | race | Brabham-Ford | 11 | 1419 | -25 | 1394 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | global | Brabham-Ford | Q:7/R:11 | 1393 | -25 | 1367 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| 1968 | [Round 2: Spanish Grand Prix](../seasons/1968-season-report#round-2-spanish-grand-prix) | 1968-05-12 | qualifying | BRM | 11 | 1500 | -30 | 1470 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 2: Spanish Grand Prix](../seasons/1968-season-report#round-2-spanish-grand-prix) | 1968-05-12 | race | BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 2: Spanish Grand Prix](../seasons/1968-season-report#round-2-spanish-grand-prix) | 1968-05-12 | global | BRM | Q:11/R:DNF | 1500 | -9 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 9: Italian Grand Prix](../seasons/1968-season-report#round-9-italian-grand-prix) | 1968-09-08 | qualifying | BRM | 17 | 1470 | -24 | 1446 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 9: Italian Grand Prix](../seasons/1968-season-report#round-9-italian-grand-prix) | 1968-09-08 | race | BRM | 4 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 9: Italian Grand Prix](../seasons/1968-season-report#round-9-italian-grand-prix) | 1968-09-08 | global | BRM | Q:17/R:4 | 1491 | -7 | 1484 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 10: Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix) | 1968-09-22 | qualifying | BRM | 14 | 1446 | -20 | 1426 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 10: Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix) | 1968-09-22 | race | BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 10: Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix) | 1968-09-22 | global | BRM | Q:14/R:DNF | 1484 | -6 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 12: Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix) | 1968-11-03 | qualifying | BRM | 19 | 1426 | -17 | 1408 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 12: Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix) | 1968-11-03 | race | BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1968 | [Round 12: Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix) | 1968-11-03 | global | BRM | Q:19/R:DNF | 1478 | -5 | 1473 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | qualifying | Brabham-Ford | 10 | 1408 | -22 | 1386 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | race | Brabham-Ford | 5 | 1500 | -28 | 1472 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| 1969 | [Round 6: British Grand Prix](../seasons/1969-season-report#round-6-british-grand-prix) | 1969-07-19 | global | Brabham-Ford | Q:10/R:5 | 1473 | -26 | 1447 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | qualifying | Brabham-Ford | 7 | 1386 | -19 | 1367 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | race | Brabham-Ford | 11 | 1472 | -23 | 1449 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| 1969 | [Round 7: German Grand Prix](../seasons/1969-season-report#round-7-german-grand-prix) | 1969-08-03 | global | Brabham-Ford | Q:7/R:11 | 1447 | -22 | 1425 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |

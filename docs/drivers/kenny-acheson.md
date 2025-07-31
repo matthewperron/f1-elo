@@ -11,21 +11,21 @@
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1486 → 1493
+**Career Journey**: 1500 → 1494
 
-🏆 **Peak ELO**: 1493
+🏆 **Peak ELO**: 1494
    *[1985 Round 12 - Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1454
+📉 **Lowest ELO**: 1461
    *[1985 Round 10 - Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1496 → 1498
+**Career Journey**: 1500 → 1498
 
 🏆 **Peak ELO**: 1498
    *[1985 Round 12 - Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix)*
 
-📉 **Lowest ELO**: 1486
+📉 **Lowest ELO**: 1488
    *[1985 Round 10 - Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix)*
 
 
@@ -33,9 +33,9 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1985 | [Round 10: Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix) | 1985-08-18 | qualifying | RAM | 23 | 1486 | -32 | 1454 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
+| 1985 | [Round 10: Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix) | 1985-08-18 | qualifying | RAM | 23 | 1500 | -39 | 1461 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
 | 1985 | [Round 10: Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix) | 1985-08-18 | race | RAM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
-| 1985 | [Round 10: Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix) | 1985-08-18 | global | RAM | Q:23/R:DNF | 1496 | -10 | 1486 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
-| 1985 | [Round 12: Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix) | 1985-09-08 | qualifying | RAM | 24 | 1454 | +38 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
+| 1985 | [Round 10: Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix) | 1985-08-18 | global | RAM | Q:23/R:DNF | 1500 | -12 | 1488 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
+| 1985 | [Round 12: Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix) | 1985-09-08 | qualifying | RAM | 24 | 1461 | +32 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
 | 1985 | [Round 12: Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix) | 1985-09-08 | race | RAM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
-| 1985 | [Round 12: Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix) | 1985-09-08 | global | RAM | Q:24/R:DNF | 1486 | +11 | 1498 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
+| 1985 | [Round 12: Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix) | 1985-09-08 | global | RAM | Q:24/R:DNF | 1488 | +10 | 1498 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |

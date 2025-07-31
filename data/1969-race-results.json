@@ -3831,70 +3831,70 @@
     }
   ],
   "finalELOs": {
-    "stewart": {
-      "qualifyingElo": 1782,
-      "raceElo": 1674,
-      "globalElo": 1707
-    },
     "surtees": {
-      "qualifyingElo": 1627,
-      "raceElo": 1575,
-      "globalElo": 1591
+      "qualifyingElo": 1812,
+      "raceElo": 1675,
+      "globalElo": 1716
+    },
+    "stewart": {
+      "qualifyingElo": 1744,
+      "raceElo": 1612,
+      "globalElo": 1650
     },
     "jack_brabham": {
-      "qualifyingElo": 1613,
-      "raceElo": 1540,
-      "globalElo": 1561
-    },
-    "rodriguez": {
-      "qualifyingElo": 1538,
-      "raceElo": 1532,
-      "globalElo": 1534
-    },
-    "klerk": {
-      "qualifyingElo": 1558,
-      "raceElo": 1500,
-      "globalElo": 1518
-    },
-    "oliver": {
-      "qualifyingElo": 1412,
-      "raceElo": 1543,
-      "globalElo": 1504
-    },
-    "amon": {
-      "qualifyingElo": 1580,
-      "raceElo": 1471,
-      "globalElo": 1503
-    },
-    "mclaren": {
-      "qualifyingElo": 1304,
-      "raceElo": 1578,
-      "globalElo": 1496
+      "qualifyingElo": 1586,
+      "raceElo": 1644,
+      "globalElo": 1627
     },
     "ickx": {
-      "qualifyingElo": 1415,
-      "raceElo": 1517,
-      "globalElo": 1486
+      "qualifyingElo": 1558,
+      "raceElo": 1595,
+      "globalElo": 1585
     },
-    "hulme": {
-      "qualifyingElo": 1621,
-      "raceElo": 1423,
-      "globalElo": 1483
+    "mclaren": {
+      "qualifyingElo": 1395,
+      "raceElo": 1580,
+      "globalElo": 1526
+    },
+    "rodriguez": {
+      "qualifyingElo": 1586,
+      "raceElo": 1500,
+      "globalElo": 1526
+    },
+    "amon": {
+      "qualifyingElo": 1655,
+      "raceElo": 1454,
+      "globalElo": 1514
+    },
+    "klerk": {
+      "qualifyingElo": 1535,
+      "raceElo": 1500,
+      "globalElo": 1511
     },
     "tingle": {
-      "qualifyingElo": 1442,
+      "qualifyingElo": 1497,
       "raceElo": 1500,
-      "globalElo": 1482
+      "globalElo": 1500
     },
-    "beltoise": {
-      "qualifyingElo": 1495,
-      "raceElo": 1427,
-      "globalElo": 1449
+    "oliver": {
+      "qualifyingElo": 1472,
+      "raceElo": 1500,
+      "globalElo": 1492
+    },
+    "hulme": {
+      "qualifyingElo": 1572,
+      "raceElo": 1430,
+      "globalElo": 1473
     },
     "courage": {
-      "qualifyingElo": 1302,
-      "raceElo": 1394,
-      "globalElo": 1367
+      "qualifyingElo": 1367,
+      "raceElo": 1449,
+      "globalElo": 1425
+    },
+    "beltoise": {
+      "qualifyingElo": 1429,
+      "raceElo": 1385,
+      "globalElo": 1399
     }
   }
 }

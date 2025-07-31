@@ -11,30 +11,30 @@
 **DNF Statistics**: 1 DNFs out of 2 races (50.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1561 → 1601
+**Career Journey**: 1500 → 1561
 
-🏆 **Peak ELO**: 1601
+🏆 **Peak ELO**: 1561
    *[1981 Round 5 - Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1585
+📉 **Lowest ELO**: 1532
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1532 → 1558
+**Career Journey**: 1500 → 1532
 
-🏆 **Peak ELO**: 1558
+🏆 **Peak ELO**: 1532
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest ELO**: 1558
+📉 **Lowest ELO**: 1532
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1541 → 1572
+**Career Journey**: 1500 → 1541
 
-🏆 **Peak ELO**: 1572
+🏆 **Peak ELO**: 1541
    *[1981 Round 5 - Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest ELO**: 1566
+📉 **Lowest ELO**: 1532
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 
@@ -42,9 +42,9 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | qualifying | Osella | 20 | 1561 | +24 | 1585 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Miguel Ángel Guerra](miguel-ngel-guerra) |
-| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | race | Osella | 17 | 1532 | +26 | 1558 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Miguel Ángel Guerra](miguel-ngel-guerra) |
-| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | global | Osella | Q:20/R:17 | 1541 | +25 | 1566 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Miguel Ángel Guerra](miguel-ngel-guerra) |
-| 1981 | [Round 5: Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) | 1981-05-17 | qualifying | Osella | 22 | 1585 | +17 | 1601 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) |
-| 1981 | [Round 5: Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) | 1981-05-17 | race | Osella | DNF | 1558 | N/A | 1558 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) |
-| 1981 | [Round 5: Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) | 1981-05-17 | global | Osella | Q:22/R:DNF | 1566 | +5 | 1572 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) |
+| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | qualifying | Osella | 20 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Miguel Ángel Guerra](miguel-ngel-guerra) |
+| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | race | Osella | 17 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Miguel Ángel Guerra](miguel-ngel-guerra) |
+| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | global | Osella | Q:20/R:17 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Miguel Ángel Guerra](miguel-ngel-guerra) |
+| 1981 | [Round 5: Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) | 1981-05-17 | qualifying | Osella | 22 | 1532 | +29 | 1561 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) |
+| 1981 | [Round 5: Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) | 1981-05-17 | race | Osella | DNF | 1532 | N/A | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) |
+| 1981 | [Round 5: Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) | 1981-05-17 | global | Osella | Q:22/R:DNF | 1532 | +9 | 1541 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) |

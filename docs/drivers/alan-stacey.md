@@ -11,21 +11,21 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1459 → 1418
+**Career Journey**: 1500 → 1459
 
-🏆 **Peak ELO**: 1418
+🏆 **Peak ELO**: 1459
    *[1959 Round 9 - United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1418
+📉 **Lowest ELO**: 1459
    *[1959 Round 9 - United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1488 → 1476
+**Career Journey**: 1500 → 1488
 
-🏆 **Peak ELO**: 1476
+🏆 **Peak ELO**: 1488
    *[1959 Round 9 - United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1476
+📉 **Lowest ELO**: 1488
    *[1959 Round 9 - United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
 
 
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1959 | [Round 9: United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix) | 1959-12-12 | qualifying | Team Lotus | 12 | 1459 | -41 | 1418 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) |
+| 1959 | [Round 9: United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix) | 1959-12-12 | qualifying | Team Lotus | 12 | 1500 | -41 | 1459 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) |
 | 1959 | [Round 9: United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix) | 1959-12-12 | race | Team Lotus | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) |
-| 1959 | [Round 9: United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix) | 1959-12-12 | global | Team Lotus | Q:12/R:DNF | 1488 | -12 | 1476 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) |
+| 1959 | [Round 9: United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix) | 1959-12-12 | global | Team Lotus | Q:12/R:DNF | 1500 | -12 | 1488 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) |

@@ -11,30 +11,30 @@
 **DNF Statistics**: 1 DNFs out of 2 races (50.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1561 → 1585
+**Career Journey**: 1500 → 1561
 
-🏆 **Peak ELO**: 1585
-   *[1953 Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
+🏆 **Peak ELO**: 1561
+   *[1954 Round 2 - Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500)*
 
-📉 **Lowest ELO**: 1585
+📉 **Lowest ELO**: 1532
    *[1953 Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1468 → 1442
+**Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1442
+🏆 **Peak ELO**: 1468
    *[1953 Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
 
-📉 **Lowest ELO**: 1442
+📉 **Lowest ELO**: 1468
    *[1953 Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1496 → 1503
+**Career Journey**: 1500 → 1496
 
-🏆 **Peak ELO**: 1503
+🏆 **Peak ELO**: 1496
    *[1954 Round 2 - Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500)*
 
-📉 **Lowest ELO**: 1485
+📉 **Lowest ELO**: 1487
    *[1953 Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
 
 
@@ -42,9 +42,9 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1953 | [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | 1953-05-30 | qualifying | Stevens | 5 | 1561 | +24 | 1585 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ernie McCoy](ernie-mccoy) |
-| 1953 | [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | 1953-05-30 | race | Stevens | 33 | 1468 | -26 | 1442 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ernie McCoy](ernie-mccoy) |
-| 1953 | [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | 1953-05-30 | global | Stevens | Q:5/R:33 | 1496 | -11 | 1485 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ernie McCoy](ernie-mccoy) |
-| 1954 | [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | 1954-05-31 | qualifying | Schroeder | 23 | 1561 | +24 | 1585 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Len Duncan](len-duncan) |
+| 1953 | [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | 1953-05-30 | qualifying | Stevens | 5 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ernie McCoy](ernie-mccoy) |
+| 1953 | [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | 1953-05-30 | race | Stevens | 33 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ernie McCoy](ernie-mccoy) |
+| 1953 | [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | 1953-05-30 | global | Stevens | Q:5/R:33 | 1500 | -13 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ernie McCoy](ernie-mccoy) |
+| 1954 | [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | 1954-05-31 | qualifying | Schroeder | 23 | 1532 | +29 | 1561 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Len Duncan](len-duncan) |
 | 1954 | [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | 1954-05-31 | race | Schroeder | DNF | 1468 | N/A | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Len Duncan](len-duncan) |
-| 1954 | [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | 1954-05-31 | global | Schroeder | Q:23/R:DNF | 1496 | +7 | 1503 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Len Duncan](len-duncan) |
+| 1954 | [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | 1954-05-31 | global | Schroeder | Q:23/R:DNF | 1487 | +9 | 1496 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Len Duncan](len-duncan) |

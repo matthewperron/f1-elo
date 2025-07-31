@@ -11,21 +11,21 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1466 → 1426
+**Career Journey**: 1500 → 1466
 
-🏆 **Peak ELO**: 1426
+🏆 **Peak ELO**: 1466
    *[1971 Round 6 - British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix)*
 
-📉 **Lowest ELO**: 1426
+📉 **Lowest ELO**: 1466
    *[1971 Round 6 - British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1490 → 1478
+**Career Journey**: 1500 → 1490
 
-🏆 **Peak ELO**: 1478
+🏆 **Peak ELO**: 1490
    *[1971 Round 6 - British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix)*
 
-📉 **Lowest ELO**: 1478
+📉 **Lowest ELO**: 1490
    *[1971 Round 6 - British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix)*
 
 
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1971 | [Round 6: British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix) | 1971-07-17 | qualifying | Lotus-Ford | 13 | 1466 | -40 | 1426 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) |
+| 1971 | [Round 6: British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix) | 1971-07-17 | qualifying | Lotus-Ford | 13 | 1500 | -34 | 1466 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) |
 | 1971 | [Round 6: British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix) | 1971-07-17 | race | Lotus-Ford | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) |
-| 1971 | [Round 6: British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix) | 1971-07-17 | global | Lotus-Ford | Q:13/R:DNF | 1490 | -12 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) |
+| 1971 | [Round 6: British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix) | 1971-07-17 | global | Lotus-Ford | Q:13/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) |

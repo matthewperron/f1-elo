@@ -11,21 +11,21 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1468 → 1442
+**Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1442
+🏆 **Peak ELO**: 1468
    *[1967 Round 11 - Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1442
+📉 **Lowest ELO**: 1468
    *[1967 Round 11 - Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1490 → 1482
+**Career Journey**: 1500 → 1490
 
-🏆 **Peak ELO**: 1482
+🏆 **Peak ELO**: 1490
    *[1967 Round 11 - Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
 
-📉 **Lowest ELO**: 1482
+📉 **Lowest ELO**: 1490
    *[1967 Round 11 - Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
 
 
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1967 | [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | qualifying | Lotus-BRM | 10 | 1468 | -26 | 1442 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana) |
+| 1967 | [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | qualifying | Lotus-BRM | 10 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana) |
 | 1967 | [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | race | Lotus-BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana) |
-| 1967 | [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | global | Lotus-BRM | Q:10/R:DNF | 1490 | -8 | 1482 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana) |
+| 1967 | [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | global | Lotus-BRM | Q:10/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana) |
