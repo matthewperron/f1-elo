@@ -2,7 +2,10 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report)
+## Season Navigation
+
+- [1994 Season](#1994-season) - [📊 Full Season Report](../seasons/1994-season-report)
+- [1995 Season](#1995-season) - [📊 Full Season Report](../seasons/1995-season-report)
 
 ## Career Statistics
 
@@ -11,34 +14,66 @@
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1426
 
-🏆 **Peak Elo**: 1465
+🏆 **Peak Qualifying Elo**: 1465
    *[1994 Round 16 - Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
 
-📉 **Lowest Elo**: 1426
+📉 **Lowest Qualifying Elo**: 1426
    *[1995 Round 14 - European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1478
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1490
+🏆 **Peak Global Elo**: 1490
    *[1994 Round 16 - Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
 
-📉 **Lowest Elo**: 1478
+📉 **Lowest Global Elo**: 1478
    *[1995 Round 14 - European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1994 | [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | 1994-11-13 | qualifying | Larrousse | 25 | 1500 | -35 | 1465 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda) |
-| 1994 | [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | 1994-11-13 | race | Larrousse | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda) |
-| 1994 | [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | 1994-11-13 | global | Larrousse | Q:25/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda) |
-| 1995 | [Round 13: Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) | 1995-09-24 | qualifying | Pacific | 24 | 1465 | -21 | 1444 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
-| 1995 | [Round 13: Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) | 1995-09-24 | race | Pacific | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
-| 1995 | [Round 13: Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) | 1995-09-24 | global | Pacific | Q:24/R:DNF | 1490 | -6 | 1484 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
-| 1995 | [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | qualifying | Pacific | 24 | 1444 | -18 | 1426 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
-| 1995 | [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | race | Pacific | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
-| 1995 | [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | global | Pacific | Q:24/R:DNF | 1484 | -5 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
+### 1994 Season
+
+📊 **[View Full 1994 Season Report](../seasons/1994-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -35</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 1 out of 1 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | 1994-11-13 | qualifying | Larrousse | 25 | 1500 | -35 | 1465 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda) |
+| [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | 1994-11-13 | race | Larrousse | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda) |
+| [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | 1994-11-13 | global | Larrousse | Q:25/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda) |
+
+### 1995 Season
+
+📊 **[View Full 1995 Season Report](../seasons/1995-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini)**: 0 wins (0.0%) • 2 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -39</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 2 out of 2 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 13: Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) | 1995-09-24 | qualifying | Pacific | 24 | 1465 | -21 | 1444 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
+| [Round 13: Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) | 1995-09-24 | race | Pacific | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
+| [Round 13: Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) | 1995-09-24 | global | Pacific | Q:24/R:DNF | 1490 | -6 | 1484 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
+| [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | qualifying | Pacific | 24 | 1444 | -18 | 1426 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
+| [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | race | Pacific | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
+| [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | 1995-10-01 | global | Pacific | Q:24/R:DNF | 1484 | -5 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) |
+

@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: South African Grand Prix](#round-1-south-african-grand-prix) • [Round 2: Spanish Grand Prix](#round-2-spanish-grand-prix) • [Round 3: Monaco Grand Prix](#round-3-monaco-grand-prix) • [Round 4: Belgian Grand Prix](#round-4-belgian-grand-prix) • [Round 5: Dutch Grand Prix](#round-5-dutch-grand-prix) • [Round 6: French Grand Prix](#round-6-french-grand-prix) • [Round 7: British Grand Prix](#round-7-british-grand-prix) • [Round 8: German Grand Prix](#round-8-german-grand-prix) • [Round 9: Austrian Grand Prix](#round-9-austrian-grand-prix) • [Round 10: Italian Grand Prix](#round-10-italian-grand-prix) • [Round 11: Canadian Grand Prix](#round-11-canadian-grand-prix) • [Round 12: United States Grand Prix](#round-12-united-states-grand-prix) • [Round 13: Mexican Grand Prix](#round-13-mexican-grand-prix)
+
+📊 **[View Complete F1 1970 Season Results](https://www.formula1.com/en/results.html/1970/races.html)** | **[Wikipedia 1970 F1 Season](https://en.wikipedia.org/wiki/1970_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1970 Season Results](https://www.formula1.com/en/results.html/1970/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

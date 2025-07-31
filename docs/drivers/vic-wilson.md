@@ -2,7 +2,10 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1960](../seasons/1960-season-report) • [1966](../seasons/1966-season-report)
+## Season Navigation
+
+- [1960 Season](#1960-season) - [📊 Full Season Report](../seasons/1960-season-report)
+- [1966 Season](#1966-season) - [📊 Full Season Report](../seasons/1966-season-report)
 
 ## Career Statistics
 
@@ -11,43 +14,87 @@
 **DNF Statistics**: 6 DNFs out of 6 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1453
 
-🏆 **Peak Elo**: 1489
+🏆 **Peak Qualifying Elo**: 1489
    *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
-📉 **Lowest Elo**: 1453
+📉 **Lowest Qualifying Elo**: 1453
    *[1966 Round 2 - Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1486
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1497
+🏆 **Peak Global Elo**: 1497
    *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
-📉 **Lowest Elo**: 1486
+📉 **Lowest Global Elo**: 1486
    *[1966 Round 2 - Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1960 | [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | qualifying | Cooper-Climax | 16 | 1500 | -11 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Drogo](piero-drogo) |
-| 1960 | [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | qualifying | Cooper-Climax | 16 | 1489 | -10 | 1479 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel) |
-| 1960 | [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | qualifying | Cooper-Climax | 16 | 1479 | -9 | 1470 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Arthur Owen](arthur-owen) |
-| 1960 | [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Drogo](piero-drogo) |
-| 1960 | [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel) |
-| 1960 | [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Arthur Owen](arthur-owen) |
-| 1960 | [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | global | Cooper-Climax | Q:16/R:DNF | 1500 | -3 | 1497 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Drogo](piero-drogo) |
-| 1960 | [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | global | Cooper-Climax | Q:16/R:DNF | 1497 | -3 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel) |
-| 1960 | [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | global | Cooper-Climax | Q:16/R:DNF | 1494 | -3 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Arthur Owen](arthur-owen) |
-| 1966 | [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | qualifying | BRM | 999 | 1470 | -5 | 1465 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart](jackie-stewart) |
-| 1966 | [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | qualifying | BRM | 999 | 1465 | -2 | 1463 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) |
-| 1966 | [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | qualifying | BRM | 999 | 1463 | -10 | 1453 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Bondurant](bob-bondurant) |
-| 1966 | [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | race | BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart](jackie-stewart) |
-| 1966 | [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | race | BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) |
-| 1966 | [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | race | BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Bondurant](bob-bondurant) |
-| 1966 | [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | global | BRM | Q:999/R:DNF | 1491 | -1 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart](jackie-stewart) |
-| 1966 | [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | global | BRM | Q:999/R:DNF | 1490 | -1 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) |
-| 1966 | [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | global | BRM | Q:999/R:DNF | 1489 | -3 | 1486 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Bondurant](bob-bondurant) |
+### 1960 Season
+
+📊 **[View Full 1960 Season Report](../seasons/1960-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Drogo](piero-drogo)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Drogo](piero-drogo)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -11</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -10</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Arthur Owen](arthur-owen)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Arthur Owen](arthur-owen)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -9</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 3 out of 3 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | qualifying | Cooper-Climax | 16 | 1500 | -11 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Drogo](piero-drogo) |
+| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | qualifying | Cooper-Climax | 16 | 1489 | -10 | 1479 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel) |
+| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | qualifying | Cooper-Climax | 16 | 1479 | -9 | 1470 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Arthur Owen](arthur-owen) |
+| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Drogo](piero-drogo) |
+| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel) |
+| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Arthur Owen](arthur-owen) |
+| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | global | Cooper-Climax | Q:16/R:DNF | 1500 | -3 | 1497 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Drogo](piero-drogo) |
+| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | global | Cooper-Climax | Q:16/R:DNF | 1497 | -3 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel) |
+| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | 1960-09-04 | global | Cooper-Climax | Q:16/R:DNF | 1494 | -3 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Arthur Owen](arthur-owen) |
+
+### 1966 Season
+
+📊 **[View Full 1966 Season Report](../seasons/1966-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart](jackie-stewart)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart](jackie-stewart)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -5</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -2</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Bondurant](bob-bondurant)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Bondurant](bob-bondurant)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -10</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 3 out of 3 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | qualifying | BRM | 999 | 1470 | -5 | 1465 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart](jackie-stewart) |
+| [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | qualifying | BRM | 999 | 1465 | -2 | 1463 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) |
+| [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | qualifying | BRM | 999 | 1463 | -10 | 1453 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Bondurant](bob-bondurant) |
+| [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | race | BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart](jackie-stewart) |
+| [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | race | BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) |
+| [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | race | BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Bondurant](bob-bondurant) |
+| [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | global | BRM | Q:999/R:DNF | 1491 | -1 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart](jackie-stewart) |
+| [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | global | BRM | Q:999/R:DNF | 1490 | -1 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) |
+| [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | 1966-06-12 | global | BRM | Q:999/R:DNF | 1489 | -3 | 1486 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Bondurant](bob-bondurant) |
+

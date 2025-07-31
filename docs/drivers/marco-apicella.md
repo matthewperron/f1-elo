@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1993](../seasons/1993-season-report)
+## Season Navigation
+
+- [1993 Season](#1993-season) - [📊 Full Season Report](../seasons/1993-season-report)
 
 ## Career Statistics
 
@@ -11,37 +13,50 @@
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1486
 
-🏆 **Peak Elo**: 1486
+🏆 **Peak Qualifying Elo**: 1486
    *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
-📉 **Lowest Elo**: 1486
+📉 **Lowest Qualifying Elo**: 1486
    *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1466
 
-🏆 **Peak Elo**: 1466
+🏆 **Peak Race Elo**: 1466
    *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
-📉 **Lowest Elo**: 1466
+📉 **Lowest Race Elo**: 1466
    *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1472
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1472
+🏆 **Peak Global Elo**: 1472
    *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
-📉 **Lowest Elo**: 1472
+📉 **Lowest Global Elo**: 1472
    *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1993 | [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | 1993-09-12 | qualifying | Jordan | 23 | 1500 | -14 | 1486 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) |
-| 1993 | [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | 1993-09-12 | race | Jordan | 26 | 1500 | -34 | 1466 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) |
-| 1993 | [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | 1993-09-12 | global | Jordan | Q:23/R:26 | 1500 | -28 | 1472 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) |
+### 1993 Season
+
+📊 **[View Full 1993 Season Report](../seasons/1993-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -34</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -14</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 0 out of 1 races (0.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | 1993-09-12 | qualifying | Jordan | 23 | 1500 | -14 | 1486 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) |
+| [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | 1993-09-12 | race | Jordan | 26 | 1500 | -34 | 1466 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) |
+| [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | 1993-09-12 | global | Jordan | Q:23/R:26 | 1500 | -28 | 1472 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) |
+

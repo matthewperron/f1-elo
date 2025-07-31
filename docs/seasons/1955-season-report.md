@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3: Indianapolis 500](#round-3-indianapolis-500) • [Round 4: Belgian Grand Prix](#round-4-belgian-grand-prix) • [Round 5: Dutch Grand Prix](#round-5-dutch-grand-prix) • [Round 6: British Grand Prix](#round-6-british-grand-prix) • [Round 7: Italian Grand Prix](#round-7-italian-grand-prix)
+
+📊 **[View Complete F1 1955 Season Results](https://www.formula1.com/en/results.html/1955/races.html)** | **[Wikipedia 1955 F1 Season](https://en.wikipedia.org/wiki/1955_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1955 Season Results](https://www.formula1.com/en/results.html/1955/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

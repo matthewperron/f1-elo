@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1981](../seasons/1981-season-report)
+## Season Navigation
+
+- [1981 Season](#1981-season) - [📊 Full Season Report](../seasons/1981-season-report)
 
 ## Career Statistics
 
@@ -11,37 +13,50 @@
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1468
 
-🏆 **Peak Elo**: 1468
+🏆 **Peak Qualifying Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest Elo**: 1468
+📉 **Lowest Qualifying Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1468
 
-🏆 **Peak Elo**: 1468
+🏆 **Peak Race Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest Elo**: 1468
+📉 **Lowest Race Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1468
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1468
+🏆 **Peak Global Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest Elo**: 1468
+📉 **Lowest Global Elo**: 1468
    *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | qualifying | Osella | 22 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani) |
-| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | race | Osella | 24 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani) |
-| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | global | Osella | Q:22/R:24 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani) |
+### 1981 Season
+
+📊 **[View Full 1981 Season Report](../seasons/1981-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -32</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -32</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 0 out of 1 races (0.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | qualifying | Osella | 22 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani) |
+| [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | race | Osella | 24 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani) |
+| [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | global | Osella | Q:22/R:24 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani) |
+

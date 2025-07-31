@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1976](../seasons/1976-season-report)
+## Season Navigation
+
+- [1976 Season](#1976-season) - [📊 Full Season Report](../seasons/1976-season-report)
 
 ## Career Statistics
 
@@ -11,28 +13,42 @@
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1532
 
-🏆 **Peak Elo**: 1532
+🏆 **Peak Qualifying Elo**: 1532
    *[1976 Round 2 - South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
 
-📉 **Lowest Elo**: 1532
+📉 **Lowest Qualifying Elo**: 1532
    *[1976 Round 2 - South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1510
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1510
+🏆 **Peak Global Elo**: 1510
    *[1976 Round 2 - South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
 
-📉 **Lowest Elo**: 1510
+📉 **Lowest Global Elo**: 1510
    *[1976 Round 2 - South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | qualifying | Team Lotus | 23 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) |
-| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | race | Team Lotus | 10 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) |
-| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | global | Team Lotus | Q:23/R:10 | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) |
+### 1976 Season
+
+📊 **[View Full 1976 Season Report](../seasons/1976-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +32</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 0 out of 1 races (0.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | qualifying | Team Lotus | 23 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) |
+| [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | race | Team Lotus | 10 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) |
+| [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | global | Team Lotus | Q:23/R:10 | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) |
+

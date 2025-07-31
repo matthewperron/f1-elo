@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3: South African Grand Prix](#round-3-south-african-grand-prix) • [Round 4: United States Grand Prix West](#round-4-united-states-grand-prix-west) • [Round 5: Belgian Grand Prix](#round-5-belgian-grand-prix) • [Round 6: Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7: French Grand Prix](#round-7-french-grand-prix) • [Round 8: British Grand Prix](#round-8-british-grand-prix) • [Round 9: German Grand Prix](#round-9-german-grand-prix) • [Round 10: Austrian Grand Prix](#round-10-austrian-grand-prix) • [Round 11: Dutch Grand Prix](#round-11-dutch-grand-prix) • [Round 12: Italian Grand Prix](#round-12-italian-grand-prix) • [Round 13: Canadian Grand Prix](#round-13-canadian-grand-prix) • [Round 14: United States Grand Prix](#round-14-united-states-grand-prix)
+
+📊 **[View Complete F1 1980 Season Results](https://www.formula1.com/en/results.html/1980/races.html)** | **[Wikipedia 1980 F1 Season](https://en.wikipedia.org/wiki/1980_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1980 Season Results](https://www.formula1.com/en/results.html/1980/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

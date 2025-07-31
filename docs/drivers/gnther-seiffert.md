@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1963](../seasons/1963-season-report)
+## Season Navigation
+
+- [1963 Season](#1963-season) - [📊 Full Season Report](../seasons/1963-season-report)
 
 ## Career Statistics
 
@@ -11,34 +13,54 @@
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1469
 
-🏆 **Peak Elo**: 1488
+🏆 **Peak Qualifying Elo**: 1488
    *[1963 Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
 
-📉 **Lowest Elo**: 1469
+📉 **Lowest Qualifying Elo**: 1469
    *[1963 Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1491
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1496
+🏆 **Peak Global Elo**: 1496
    *[1963 Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
 
-📉 **Lowest Elo**: 1491
+📉 **Lowest Global Elo**: 1491
    *[1963 Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1963 | [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | qualifying | Lotus-BRM | 999 | 1500 | -12 | 1488 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall) |
-| 1963 | [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | qualifying | Lotus-BRM | 999 | 1488 | -9 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
-| 1963 | [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | qualifying | Lotus-BRM | 999 | 1478 | -10 | 1469 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
-| 1963 | [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | race | Lotus-BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall) |
-| 1963 | [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | race | Lotus-BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
-| 1963 | [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | race | Lotus-BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
-| 1963 | [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | global | Lotus-BRM | Q:999/R:DNF | 1500 | -4 | 1496 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall) |
-| 1963 | [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | global | Lotus-BRM | Q:999/R:DNF | 1496 | -3 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
-| 1963 | [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | global | Lotus-BRM | Q:999/R:DNF | 1494 | -3 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
+### 1963 Season
+
+📊 **[View Full 1963 Season Report](../seasons/1963-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -12</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -9</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -10</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 3 out of 3 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | qualifying | Lotus-BRM | 999 | 1500 | -12 | 1488 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall) |
+| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | qualifying | Lotus-BRM | 999 | 1488 | -9 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
+| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | qualifying | Lotus-BRM | 999 | 1478 | -10 | 1469 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
+| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | race | Lotus-BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall) |
+| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | race | Lotus-BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
+| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | race | Lotus-BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
+| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | global | Lotus-BRM | Q:999/R:DNF | 1500 | -4 | 1496 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall) |
+| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | global | Lotus-BRM | Q:999/R:DNF | 1496 | -3 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
+| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | 1963-09-08 | global | Lotus-BRM | Q:999/R:DNF | 1494 | -3 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
+

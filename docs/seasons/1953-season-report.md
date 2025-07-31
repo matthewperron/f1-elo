@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Indianapolis 500](#round-2-indianapolis-500) • [Round 3: Dutch Grand Prix](#round-3-dutch-grand-prix) • [Round 4: Belgian Grand Prix](#round-4-belgian-grand-prix) • [Round 5: French Grand Prix](#round-5-french-grand-prix) • [Round 6: British Grand Prix](#round-6-british-grand-prix) • [Round 7: German Grand Prix](#round-7-german-grand-prix) • [Round 8: Swiss Grand Prix](#round-8-swiss-grand-prix) • [Round 9: Italian Grand Prix](#round-9-italian-grand-prix)
+
+📊 **[View Complete F1 1953 Season Results](https://www.formula1.com/en/results.html/1953/races.html)** | **[Wikipedia 1953 F1 Season](https://en.wikipedia.org/wiki/1953_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1953 Season Results](https://www.formula1.com/en/results.html/1953/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

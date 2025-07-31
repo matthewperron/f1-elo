@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1950](../seasons/1950-season-report)
+## Season Navigation
+
+- [1950 Season](#1950-season) - [📊 Full Season Report](../seasons/1950-season-report)
 
 ## Career Statistics
 
@@ -11,28 +13,42 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1532
 
-🏆 **Peak Elo**: 1532
+🏆 **Peak Qualifying Elo**: 1532
    *[1950 Round 3 - Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest Elo**: 1532
+📉 **Lowest Qualifying Elo**: 1532
    *[1950 Round 3 - Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1510
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1510
+🏆 **Peak Global Elo**: 1510
    *[1950 Round 3 - Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest Elo**: 1510
+📉 **Lowest Global Elo**: 1510
    *[1950 Round 3 - Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1950 | [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | qualifying | Maserati | 14 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) |
-| 1950 | [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | race | Maserati | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) |
-| 1950 | [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | global | Maserati | Q:14/R:DNF | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) |
+### 1950 Season
+
+📊 **[View Full 1950 Season Report](../seasons/1950-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +32</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 1 out of 1 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | qualifying | Maserati | 14 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) |
+| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | race | Maserati | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) |
+| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | global | Maserati | Q:14/R:DNF | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) |
+

@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1967](../seasons/1967-season-report)
+## Season Navigation
+
+- [1967 Season](#1967-season) - [📊 Full Season Report](../seasons/1967-season-report)
 
 ## Career Statistics
 
@@ -11,31 +13,48 @@
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1466
 
-🏆 **Peak Elo**: 1480
+🏆 **Peak Qualifying Elo**: 1480
    *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
-📉 **Lowest Elo**: 1466
+📉 **Lowest Qualifying Elo**: 1466
    *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1490
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1494
+🏆 **Peak Global Elo**: 1494
    *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
-📉 **Lowest Elo**: 1490
+📉 **Lowest Global Elo**: 1490
    *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1967 | [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | qualifying | Brabham-Climax | 17 | 1500 | -20 | 1480 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Anderson](bob-anderson) |
-| 1967 | [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | qualifying | Brabham-Climax | 17 | 1480 | -15 | 1466 | [Dave Charlton](dave-charlton) |
-| 1967 | [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | race | Brabham-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Anderson](bob-anderson) |
-| 1967 | [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | race | Brabham-Climax | DNF | 1500 | N/A | 1500 | [Dave Charlton](dave-charlton) |
-| 1967 | [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | global | Brabham-Climax | Q:17/R:DNF | 1500 | -6 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Anderson](bob-anderson) |
-| 1967 | [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | global | Brabham-Climax | Q:17/R:DNF | 1494 | -4 | 1490 | [Dave Charlton](dave-charlton) |
+### 1967 Season
+
+📊 **[View Full 1967 Season Report](../seasons/1967-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Anderson](bob-anderson)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Anderson](bob-anderson)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -20</span>****
+
+- **Races vs [Dave Charlton](dave-charlton)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [Dave Charlton](dave-charlton)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -15</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 2 out of 2 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | qualifying | Brabham-Climax | 17 | 1500 | -20 | 1480 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Anderson](bob-anderson) |
+| [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | qualifying | Brabham-Climax | 17 | 1480 | -15 | 1466 | [Dave Charlton](dave-charlton) |
+| [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | race | Brabham-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Anderson](bob-anderson) |
+| [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | race | Brabham-Climax | DNF | 1500 | N/A | 1500 | [Dave Charlton](dave-charlton) |
+| [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | global | Brabham-Climax | Q:17/R:DNF | 1500 | -6 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Anderson](bob-anderson) |
+| [Round 1: South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix) | 1967-01-02 | global | Brabham-Climax | Q:17/R:DNF | 1494 | -4 | 1490 | [Dave Charlton](dave-charlton) |
+

@@ -2,7 +2,10 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1960](../seasons/1960-season-report) • [1963](../seasons/1963-season-report)
+## Season Navigation
+
+- [1960 Season](#1960-season) - [📊 Full Season Report](../seasons/1960-season-report)
+- [1963 Season](#1963-season) - [📊 Full Season Report](../seasons/1963-season-report)
 
 ## Career Statistics
 
@@ -11,37 +14,75 @@
 **DNF Statistics**: 3 DNFs out of 4 races (75.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1457
 
-🏆 **Peak Elo**: 1478
+🏆 **Peak Qualifying Elo**: 1478
    *[1960 Round 8 - Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
 
-📉 **Lowest Elo**: 1457
+📉 **Lowest Qualifying Elo**: 1457
    *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1487
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1493
+🏆 **Peak Global Elo**: 1493
    *[1960 Round 8 - Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
 
-📉 **Lowest Elo**: 1487
+📉 **Lowest Global Elo**: 1487
    *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1960 | [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | qualifying | Cooper-Maserati | 15 | 1500 | -22 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
-| 1960 | [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | race | Cooper-Maserati | 9 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
-| 1960 | [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | global | Cooper-Maserati | Q:15/R:9 | 1500 | -7 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | qualifying | Cooper-Climax | 20 | 1478 | -10 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | qualifying | Cooper-Climax | 20 | 1468 | -8 | 1460 | [Tony Maggs](tony-maggs) |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | qualifying | Cooper-Climax | 20 | 1460 | -3 | 1457 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren) |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [Tony Maggs](tony-maggs) |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren) |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Cooper-Climax | Q:20/R:DNF | 1493 | -3 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Cooper-Climax | Q:20/R:DNF | 1490 | -2 | 1488 | [Tony Maggs](tony-maggs) |
-| 1963 | [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Cooper-Climax | Q:20/R:DNF | 1488 | -1 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren) |
+### 1960 Season
+
+📊 **[View Full 1960 Season Report](../seasons/1960-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -22</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 0 out of 1 races (0.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | qualifying | Cooper-Maserati | 15 | 1500 | -22 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
+| [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | race | Cooper-Maserati | 9 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
+| [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | global | Cooper-Maserati | Q:15/R:9 | 1500 | -7 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
+
+### 1963 Season
+
+📊 **[View Full 1963 Season Report](../seasons/1963-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -10</span>****
+
+- **Races vs [Tony Maggs](tony-maggs)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [Tony Maggs](tony-maggs)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -8</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -3</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 3 out of 3 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | qualifying | Cooper-Climax | 20 | 1478 | -10 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
+| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | qualifying | Cooper-Climax | 20 | 1468 | -8 | 1460 | [Tony Maggs](tony-maggs) |
+| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | qualifying | Cooper-Climax | 20 | 1460 | -3 | 1457 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren) |
+| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
+| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [Tony Maggs](tony-maggs) |
+| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren) |
+| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Cooper-Climax | Q:20/R:DNF | 1493 | -3 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
+| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Cooper-Climax | Q:20/R:DNF | 1490 | -2 | 1488 | [Tony Maggs](tony-maggs) |
+| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Cooper-Climax | Q:20/R:DNF | 1488 | -1 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren) |
+

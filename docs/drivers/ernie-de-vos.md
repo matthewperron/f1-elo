@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1963](../seasons/1963-season-report)
+## Season Navigation
+
+- [1963 Season](#1963-season) - [📊 Full Season Report](../seasons/1963-season-report)
 
 ## Career Statistics
 
@@ -11,28 +13,42 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1468
 
-🏆 **Peak Elo**: 1468
+🏆 **Peak Qualifying Elo**: 1468
    *[1963 Round 8 - United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix)*
 
-📉 **Lowest Elo**: 1468
+📉 **Lowest Qualifying Elo**: 1468
    *[1963 Round 8 - United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1490
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1490
+🏆 **Peak Global Elo**: 1490
    *[1963 Round 8 - United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix)*
 
-📉 **Lowest Elo**: 1490
+📉 **Lowest Global Elo**: 1490
    *[1963 Round 8 - United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1963 | [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | qualifying | Stebro | 999 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker) |
-| 1963 | [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | race | Stebro | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker) |
-| 1963 | [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | global | Stebro | Q:999/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker) |
+### 1963 Season
+
+📊 **[View Full 1963 Season Report](../seasons/1963-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -32</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 1 out of 1 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | qualifying | Stebro | 999 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker) |
+| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | race | Stebro | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker) |
+| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | global | Stebro | Q:999/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker) |
+

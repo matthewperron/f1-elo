@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3: Indianapolis 500](#round-3-indianapolis-500) • [Round 4: French Grand Prix](#round-4-french-grand-prix) • [Round 5: British Grand Prix](#round-5-british-grand-prix) • [Round 6: German Grand Prix](#round-6-german-grand-prix) • [Round 7: Pescara Grand Prix](#round-7-pescara-grand-prix) • [Round 8: Italian Grand Prix](#round-8-italian-grand-prix)
+
+📊 **[View Complete F1 1957 Season Results](https://www.formula1.com/en/results.html/1957/races.html)** | **[Wikipedia 1957 F1 Season](https://en.wikipedia.org/wiki/1957_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1957 Season Results](https://www.formula1.com/en/results.html/1957/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

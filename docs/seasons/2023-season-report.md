@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Bahrain Grand Prix](#round-1-bahrain-grand-prix) • [Round 2: Saudi Arabian Grand Prix](#round-2-saudi-arabian-grand-prix) • [Round 3: Australian Grand Prix](#round-3-australian-grand-prix) • [Round 4: Azerbaijan Grand Prix](#round-4-azerbaijan-grand-prix) • [Round 5: Miami Grand Prix](#round-5-miami-grand-prix) • [Round 6: Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7: Spanish Grand Prix](#round-7-spanish-grand-prix) • [Round 8: Canadian Grand Prix](#round-8-canadian-grand-prix) • [Round 9: Austrian Grand Prix](#round-9-austrian-grand-prix) • [Round 10: British Grand Prix](#round-10-british-grand-prix) • [Round 11: Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12: Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13: Dutch Grand Prix](#round-13-dutch-grand-prix) • [Round 14: Italian Grand Prix](#round-14-italian-grand-prix) • [Round 15: Singapore Grand Prix](#round-15-singapore-grand-prix) • [Round 16: Japanese Grand Prix](#round-16-japanese-grand-prix) • [Round 17: Qatar Grand Prix](#round-17-qatar-grand-prix) • [Round 18: United States Grand Prix](#round-18-united-states-grand-prix) • [Round 19: Mexico City Grand Prix](#round-19-mexico-city-grand-prix) • [Round 20: São Paulo Grand Prix](#round-20-so-paulo-grand-prix) • [Round 21: Las Vegas Grand Prix](#round-21-las-vegas-grand-prix) • [Round 22: Abu Dhabi Grand Prix](#round-22-abu-dhabi-grand-prix)
+
+📊 **[View Complete F1 2023 Season Results](https://www.formula1.com/en/results.html/2023/races.html)** | **[Wikipedia 2023 F1 Season](https://en.wikipedia.org/wiki/2023_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 2023 Season Results](https://www.formula1.com/en/results.html/2023/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

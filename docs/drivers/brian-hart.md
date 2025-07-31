@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1967](../seasons/1967-season-report)
+## Season Navigation
+
+- [1967 Season](#1967-season) - [📊 Full Season Report](../seasons/1967-season-report)
 
 ## Career Statistics
 
@@ -11,28 +13,42 @@
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1468
 
-🏆 **Peak Elo**: 1468
+🏆 **Peak Qualifying Elo**: 1468
    *[1967 Round 7 - German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest Elo**: 1468
+📉 **Lowest Qualifying Elo**: 1468
    *[1967 Round 7 - German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1490
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1490
+🏆 **Peak Global Elo**: 1490
    *[1967 Round 7 - German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
 
-📉 **Lowest Elo**: 1490
+📉 **Lowest Global Elo**: 1490
    *[1967 Round 7 - German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1967 | [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | 1967-08-06 | qualifying | Protos | 25 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) |
-| 1967 | [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | 1967-08-06 | race | Protos | 14 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) |
-| 1967 | [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | 1967-08-06 | global | Protos | Q:25/R:14 | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) |
+### 1967 Season
+
+📊 **[View Full 1967 Season Report](../seasons/1967-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -32</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 0 out of 1 races (0.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | 1967-08-06 | qualifying | Protos | 25 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) |
+| [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | 1967-08-06 | race | Protos | 14 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) |
+| [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | 1967-08-06 | global | Protos | Q:25/R:14 | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) |
+

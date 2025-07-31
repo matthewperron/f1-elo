@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2: Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3: San Marino Grand Prix](#round-3-san-marino-grand-prix) • [Round 4: Monaco Grand Prix](#round-4-monaco-grand-prix) • [Round 5: Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6: Canadian Grand Prix](#round-6-canadian-grand-prix) • [Round 7: French Grand Prix](#round-7-french-grand-prix) • [Round 8: British Grand Prix](#round-8-british-grand-prix) • [Round 9: Austrian Grand Prix](#round-9-austrian-grand-prix) • [Round 10: German Grand Prix](#round-10-german-grand-prix) • [Round 11: Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12: Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13: Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14: European Grand Prix](#round-14-european-grand-prix) • [Round 15: Malaysian Grand Prix](#round-15-malaysian-grand-prix) • [Round 16: Japanese Grand Prix](#round-16-japanese-grand-prix)
+
+📊 **[View Complete F1 1999 Season Results](https://www.formula1.com/en/results.html/1999/races.html)** | **[Wikipedia 1999 F1 Season](https://en.wikipedia.org/wiki/1999_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1999 Season Results](https://www.formula1.com/en/results.html/1999/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

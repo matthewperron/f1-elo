@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1950](../seasons/1950-season-report)
+## Season Navigation
+
+- [1950 Season](#1950-season) - [📊 Full Season Report](../seasons/1950-season-report)
 
 ## Career Statistics
 
@@ -11,28 +13,42 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1532
 
-🏆 **Peak Elo**: 1532
+🏆 **Peak Qualifying Elo**: 1532
    *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
-📉 **Lowest Elo**: 1532
+📉 **Lowest Qualifying Elo**: 1532
    *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1510
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1510
+🏆 **Peak Global Elo**: 1510
    *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
-📉 **Lowest Elo**: 1510
+📉 **Lowest Global Elo**: 1510
    *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1950 | [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | 1950-05-13 | qualifying | Alta | 17 | 1500 | +32 | 1532 | [Joe Kelly](joe-kelly) |
-| 1950 | [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | 1950-05-13 | race | Alta | DNF | 1500 | N/A | 1500 | [Joe Kelly](joe-kelly) |
-| 1950 | [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | 1950-05-13 | global | Alta | Q:17/R:DNF | 1500 | +10 | 1510 | [Joe Kelly](joe-kelly) |
+### 1950 Season
+
+📊 **[View Full 1950 Season Report](../seasons/1950-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [Joe Kelly](joe-kelly)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [Joe Kelly](joe-kelly)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +32</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 1 out of 1 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | 1950-05-13 | qualifying | Alta | 17 | 1500 | +32 | 1532 | [Joe Kelly](joe-kelly) |
+| [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | 1950-05-13 | race | Alta | DNF | 1500 | N/A | 1500 | [Joe Kelly](joe-kelly) |
+| [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | 1950-05-13 | global | Alta | Q:17/R:DNF | 1500 | +10 | 1510 | [Joe Kelly](joe-kelly) |
+

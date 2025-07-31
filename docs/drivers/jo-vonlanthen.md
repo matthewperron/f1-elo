@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1975](../seasons/1975-season-report)
+## Season Navigation
+
+- [1975 Season](#1975-season) - [📊 Full Season Report](../seasons/1975-season-report)
 
 ## Career Statistics
 
@@ -11,28 +13,42 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1473
 
-🏆 **Peak Elo**: 1473
+🏆 **Peak Qualifying Elo**: 1473
    *[1975 Round 12 - Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)*
 
-📉 **Lowest Elo**: 1473
+📉 **Lowest Qualifying Elo**: 1473
    *[1975 Round 12 - Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1492
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1492
+🏆 **Peak Global Elo**: 1492
    *[1975 Round 12 - Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)*
 
-📉 **Lowest Elo**: 1492
+📉 **Lowest Global Elo**: 1492
    *[1975 Round 12 - Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1975 | [Round 12: Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) | 1975-08-17 | qualifying | Williams | 28 | 1500 | -27 | 1473 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) |
-| 1975 | [Round 12: Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) | 1975-08-17 | race | Williams | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) |
-| 1975 | [Round 12: Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) | 1975-08-17 | global | Williams | Q:28/R:DNF | 1500 | -8 | 1492 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) |
+### 1975 Season
+
+📊 **[View Full 1975 Season Report](../seasons/1975-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -27</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 1 out of 1 races (100.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 12: Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) | 1975-08-17 | qualifying | Williams | 28 | 1500 | -27 | 1473 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) |
+| [Round 12: Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) | 1975-08-17 | race | Williams | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) |
+| [Round 12: Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) | 1975-08-17 | global | Williams | Q:28/R:DNF | 1500 | -8 | 1492 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) |
+

@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Austrian Grand Prix](#round-1-austrian-grand-prix) • [Round 2: Styrian Grand Prix](#round-2-styrian-grand-prix) • [Round 3: Hungarian Grand Prix](#round-3-hungarian-grand-prix) • [Round 4: British Grand Prix](#round-4-british-grand-prix) • [Round 5: 70th Anniversary Grand Prix](#round-5-70th-anniversary-grand-prix) • [Round 6: Spanish Grand Prix](#round-6-spanish-grand-prix) • [Round 7: Belgian Grand Prix](#round-7-belgian-grand-prix) • [Round 8: Italian Grand Prix](#round-8-italian-grand-prix) • [Round 9: Tuscan Grand Prix](#round-9-tuscan-grand-prix) • [Round 10: Russian Grand Prix](#round-10-russian-grand-prix) • [Round 11: Eifel Grand Prix](#round-11-eifel-grand-prix) • [Round 12: Portuguese Grand Prix](#round-12-portuguese-grand-prix) • [Round 13: Emilia Romagna Grand Prix](#round-13-emilia-romagna-grand-prix) • [Round 14: Turkish Grand Prix](#round-14-turkish-grand-prix) • [Round 15: Bahrain Grand Prix](#round-15-bahrain-grand-prix) • [Round 16: Sakhir Grand Prix](#round-16-sakhir-grand-prix) • [Round 17: Abu Dhabi Grand Prix](#round-17-abu-dhabi-grand-prix)
+
+📊 **[View Complete F1 2020 Season Results](https://www.formula1.com/en/results.html/2020/races.html)** | **[Wikipedia 2020 F1 Season](https://en.wikipedia.org/wiki/2020_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 2020 Season Results](https://www.formula1.com/en/results.html/2020/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

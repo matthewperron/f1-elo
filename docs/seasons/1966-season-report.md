@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Monaco Grand Prix](#round-1-monaco-grand-prix) • [Round 2: Belgian Grand Prix](#round-2-belgian-grand-prix) • [Round 3: French Grand Prix](#round-3-french-grand-prix) • [Round 4: British Grand Prix](#round-4-british-grand-prix) • [Round 5: Dutch Grand Prix](#round-5-dutch-grand-prix) • [Round 6: German Grand Prix](#round-6-german-grand-prix) • [Round 7: Italian Grand Prix](#round-7-italian-grand-prix) • [Round 8: United States Grand Prix](#round-8-united-states-grand-prix) • [Round 9: Mexican Grand Prix](#round-9-mexican-grand-prix)
+
+📊 **[View Complete F1 1966 Season Results](https://www.formula1.com/en/results.html/1966/races.html)** | **[Wikipedia 1966 F1 Season](https://en.wikipedia.org/wiki/1966_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1966 Season Results](https://www.formula1.com/en/results.html/1966/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

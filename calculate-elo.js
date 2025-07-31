@@ -639,8 +639,17 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     let content = `# ${season} F1 Season - ELO Analysis\n\n`;
     content += `*Last updated: ${timestamp}*\n\n`;
     
+    // Add quick navigation to race sections
+    content += `## Quick Navigation\n\n`;
+    const raceNavigation = raceEvents.map(race => 
+        `[Round ${race.round}: ${race.raceName}](#round-${race.round}-${race.raceName.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-')})`
+    ).join(' • ');
+    content += `**Races**: ${raceNavigation}\n\n`;
+    content += `📊 **[View Complete F1 ${season} Season Results](https://www.formula1.com/en/results.html/${season}/races.html)** | **[Wikipedia ${season} F1 Season](https://en.wikipedia.org/wiki/${season}_Formula_One_World_Championship)**\n\n`;
+    
     // Final ELO Table
     content += `## Final ELO Ratings\n\n`;
+    content += `📊 **[View Complete F1 ${season} Season Results](https://www.formula1.com/en/results.html/${season}/races.html)**\n\n`;
     content += generateSeasonReportELOTable(driverRatings); // Generate table for season report
     
     // Race-by-race details

@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3: South African Grand Prix](#round-3-south-african-grand-prix) • [Round 4: United States Grand Prix West](#round-4-united-states-grand-prix-west) • [Round 5: Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6: Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7: Belgian Grand Prix](#round-7-belgian-grand-prix) • [Round 8: Swedish Grand Prix](#round-8-swedish-grand-prix) • [Round 9: French Grand Prix](#round-9-french-grand-prix) • [Round 10: British Grand Prix](#round-10-british-grand-prix) • [Round 11: German Grand Prix](#round-11-german-grand-prix) • [Round 12: Austrian Grand Prix](#round-12-austrian-grand-prix) • [Round 13: Dutch Grand Prix](#round-13-dutch-grand-prix) • [Round 14: Italian Grand Prix](#round-14-italian-grand-prix) • [Round 15: United States Grand Prix](#round-15-united-states-grand-prix) • [Round 16: Canadian Grand Prix](#round-16-canadian-grand-prix) • [Round 17: Japanese Grand Prix](#round-17-japanese-grand-prix)
+
+📊 **[View Complete F1 1977 Season Results](https://www.formula1.com/en/results.html/1977/races.html)** | **[Wikipedia 1977 F1 Season](https://en.wikipedia.org/wiki/1977_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1977 Season Results](https://www.formula1.com/en/results.html/1977/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

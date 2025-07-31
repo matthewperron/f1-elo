@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3: Indianapolis 500](#round-3-indianapolis-500) • [Round 4: Dutch Grand Prix](#round-4-dutch-grand-prix) • [Round 5: Belgian Grand Prix](#round-5-belgian-grand-prix) • [Round 6: French Grand Prix](#round-6-french-grand-prix) • [Round 7: British Grand Prix](#round-7-british-grand-prix) • [Round 8: Portuguese Grand Prix](#round-8-portuguese-grand-prix) • [Round 9: Italian Grand Prix](#round-9-italian-grand-prix) • [Round 10: United States Grand Prix](#round-10-united-states-grand-prix)
+
+📊 **[View Complete F1 1960 Season Results](https://www.formula1.com/en/results.html/1960/races.html)** | **[Wikipedia 1960 F1 Season](https://en.wikipedia.org/wiki/1960_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1960 Season Results](https://www.formula1.com/en/results.html/1960/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

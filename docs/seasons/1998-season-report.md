@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2: Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3: Argentine Grand Prix](#round-3-argentine-grand-prix) • [Round 4: San Marino Grand Prix](#round-4-san-marino-grand-prix) • [Round 5: Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6: Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7: Canadian Grand Prix](#round-7-canadian-grand-prix) • [Round 8: French Grand Prix](#round-8-french-grand-prix) • [Round 9: British Grand Prix](#round-9-british-grand-prix) • [Round 10: Austrian Grand Prix](#round-10-austrian-grand-prix) • [Round 11: German Grand Prix](#round-11-german-grand-prix) • [Round 12: Hungarian Grand Prix](#round-12-hungarian-grand-prix) • [Round 13: Belgian Grand Prix](#round-13-belgian-grand-prix) • [Round 14: Italian Grand Prix](#round-14-italian-grand-prix) • [Round 15: Luxembourg Grand Prix](#round-15-luxembourg-grand-prix) • [Round 16: Japanese Grand Prix](#round-16-japanese-grand-prix)
+
+📊 **[View Complete F1 1998 Season Results](https://www.formula1.com/en/results.html/1998/races.html)** | **[Wikipedia 1998 F1 Season](https://en.wikipedia.org/wiki/1998_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1998 Season Results](https://www.formula1.com/en/results.html/1998/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

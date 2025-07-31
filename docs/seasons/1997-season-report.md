@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2: Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3: Argentine Grand Prix](#round-3-argentine-grand-prix) • [Round 4: San Marino Grand Prix](#round-4-san-marino-grand-prix) • [Round 5: Monaco Grand Prix](#round-5-monaco-grand-prix) • [Round 6: Spanish Grand Prix](#round-6-spanish-grand-prix) • [Round 7: Canadian Grand Prix](#round-7-canadian-grand-prix) • [Round 8: French Grand Prix](#round-8-french-grand-prix) • [Round 9: British Grand Prix](#round-9-british-grand-prix) • [Round 10: German Grand Prix](#round-10-german-grand-prix) • [Round 11: Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12: Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13: Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14: Austrian Grand Prix](#round-14-austrian-grand-prix) • [Round 15: Luxembourg Grand Prix](#round-15-luxembourg-grand-prix) • [Round 16: Japanese Grand Prix](#round-16-japanese-grand-prix) • [Round 17: European Grand Prix](#round-17-european-grand-prix)
+
+📊 **[View Complete F1 1997 Season Results](https://www.formula1.com/en/results.html/1997/races.html)** | **[Wikipedia 1997 F1 Season](https://en.wikipedia.org/wiki/1997_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 1997 Season Results](https://www.formula1.com/en/results.html/1997/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

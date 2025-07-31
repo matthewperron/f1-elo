@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1970](../seasons/1970-season-report)
+## Season Navigation
+
+- [1970 Season](#1970-season) - [📊 Full Season Report](../seasons/1970-season-report)
 
 ## Career Statistics
 
@@ -11,52 +13,68 @@
 **DNF Statistics**: 2 DNFs out of 6 races (33.3%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1420
 
-🏆 **Peak Elo**: 1478
+🏆 **Peak Qualifying Elo**: 1478
    *[1970 Round 4 - Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
 
-📉 **Lowest Elo**: 1420
+📉 **Lowest Qualifying Elo**: 1420
    *[1970 Round 10 - Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1516
 
-🏆 **Peak Elo**: 1546
+🏆 **Peak Race Elo**: 1546
    *[1970 Round 4 - Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
 
-📉 **Lowest Elo**: 1516
+📉 **Lowest Race Elo**: 1516
    *[1970 Round 9 - Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1487
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1526
+🏆 **Peak Global Elo**: 1526
    *[1970 Round 4 - Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
 
-📉 **Lowest Elo**: 1487
+📉 **Lowest Global Elo**: 1487
    *[1970 Round 10 - Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1970 | [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | qualifying | Ferrari | 8 | 1500 | -22 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | race | Ferrari | 4 | 1500 | +46 | 1546 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | global | Ferrari | Q:8/R:4 | 1500 | +26 | 1526 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | qualifying | Ferrari | 11 | 1478 | -17 | 1462 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | race | Ferrari | 14 | 1546 | N/A | 1546 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | global | Ferrari | Q:11/R:14 | 1526 | -5 | 1521 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | qualifying | Ferrari | 5 | 1462 | -7 | 1455 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | qualifying | Ferrari | 5 | 1455 | -15 | 1440 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
-| 1970 | [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | race | Ferrari | 7 | 1546 | -11 | 1535 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | race | Ferrari | 7 | 1535 | -19 | 1516 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
-| 1970 | [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | global | Ferrari | Q:5/R:7 | 1521 | -10 | 1511 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | global | Ferrari | Q:5/R:7 | 1511 | -18 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
-| 1970 | [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | qualifying | Ferrari | 15 | 1440 | -14 | 1426 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
-| 1970 | [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | qualifying | Ferrari | 15 | 1426 | -6 | 1420 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | race | Ferrari | DNF | 1516 | N/A | 1516 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
-| 1970 | [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | race | Ferrari | DNF | 1516 | N/A | 1516 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
-| 1970 | [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | global | Ferrari | Q:15/R:DNF | 1493 | -4 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
-| 1970 | [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | global | Ferrari | Q:15/R:DNF | 1489 | -2 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+### 1970 Season
+
+📊 **[View Full 1970 Season Report](../seasons/1970-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)**: 1 wins (33.3%) • 1 losses (33.3%) • 1 DNFs (33.3%) - **ELO Impact: **<span style="color: green;">↑ +35</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)**: 0 wins (0.0%) • 4 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -52</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -19</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni)**: 0 wins (0.0%) • 2 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -29</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 2 out of 6 races (33.3%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | qualifying | Ferrari | 8 | 1500 | -22 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | race | Ferrari | 4 | 1500 | +46 | 1546 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | global | Ferrari | Q:8/R:4 | 1500 | +26 | 1526 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | qualifying | Ferrari | 11 | 1478 | -17 | 1462 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | race | Ferrari | 14 | 1546 | N/A | 1546 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | global | Ferrari | Q:11/R:14 | 1526 | -5 | 1521 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | qualifying | Ferrari | 5 | 1462 | -7 | 1455 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | qualifying | Ferrari | 5 | 1455 | -15 | 1440 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
+| [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | race | Ferrari | 7 | 1546 | -11 | 1535 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | race | Ferrari | 7 | 1535 | -19 | 1516 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
+| [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | global | Ferrari | Q:5/R:7 | 1521 | -10 | 1511 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | 1970-08-16 | global | Ferrari | Q:5/R:7 | 1511 | -18 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
+| [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | qualifying | Ferrari | 15 | 1440 | -14 | 1426 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
+| [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | qualifying | Ferrari | 15 | 1426 | -6 | 1420 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | race | Ferrari | DNF | 1516 | N/A | 1516 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
+| [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | race | Ferrari | DNF | 1516 | N/A | 1516 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+| [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | global | Ferrari | Q:15/R:DNF | 1493 | -4 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) |
+| [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | 1970-09-06 | global | Ferrari | Q:15/R:DNF | 1489 | -2 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) |
+

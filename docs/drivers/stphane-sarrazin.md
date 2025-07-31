@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1999](../seasons/1999-season-report)
+## Season Navigation
+
+- [1999 Season](#1999-season) - [📊 Full Season Report](../seasons/1999-season-report)
 
 ## Career Statistics
 
@@ -11,37 +13,50 @@
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1530
 
-🏆 **Peak Elo**: 1530
+🏆 **Peak Qualifying Elo**: 1530
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest Elo**: 1530
+📉 **Lowest Qualifying Elo**: 1530
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1468
 
-🏆 **Peak Elo**: 1468
+🏆 **Peak Race Elo**: 1468
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest Elo**: 1468
+📉 **Lowest Race Elo**: 1468
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1487
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1487
+🏆 **Peak Global Elo**: 1487
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest Elo**: 1487
+📉 **Lowest Global Elo**: 1487
    *[1999 Round 2 - Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1999 | [Round 2: Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix) | 1999-04-11 | qualifying | Minardi | 18 | 1500 | +30 | 1530 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) |
-| 1999 | [Round 2: Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix) | 1999-04-11 | race | Minardi | 16 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) |
-| 1999 | [Round 2: Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix) | 1999-04-11 | global | Minardi | Q:18/R:16 | 1500 | -13 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) |
+### 1999 Season
+
+📊 **[View Full 1999 Season Report](../seasons/1999-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -32</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +30</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 0 out of 1 races (0.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 2: Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix) | 1999-04-11 | qualifying | Minardi | 18 | 1500 | +30 | 1530 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) |
+| [Round 2: Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix) | 1999-04-11 | race | Minardi | 16 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) |
+| [Round 2: Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix) | 1999-04-11 | global | Minardi | Q:18/R:16 | 1500 | -13 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) |
+

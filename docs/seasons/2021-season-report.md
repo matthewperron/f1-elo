@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Bahrain Grand Prix](#round-1-bahrain-grand-prix) • [Round 2: Emilia Romagna Grand Prix](#round-2-emilia-romagna-grand-prix) • [Round 3: Portuguese Grand Prix](#round-3-portuguese-grand-prix) • [Round 4: Spanish Grand Prix](#round-4-spanish-grand-prix) • [Round 5: Monaco Grand Prix](#round-5-monaco-grand-prix) • [Round 6: Azerbaijan Grand Prix](#round-6-azerbaijan-grand-prix) • [Round 7: French Grand Prix](#round-7-french-grand-prix) • [Round 8: Styrian Grand Prix](#round-8-styrian-grand-prix) • [Round 9: Austrian Grand Prix](#round-9-austrian-grand-prix) • [Round 10: British Grand Prix](#round-10-british-grand-prix) • [Round 11: Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12: Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13: Dutch Grand Prix](#round-13-dutch-grand-prix) • [Round 14: Italian Grand Prix](#round-14-italian-grand-prix) • [Round 15: Russian Grand Prix](#round-15-russian-grand-prix) • [Round 16: Turkish Grand Prix](#round-16-turkish-grand-prix) • [Round 17: United States Grand Prix](#round-17-united-states-grand-prix) • [Round 18: Mexico City Grand Prix](#round-18-mexico-city-grand-prix) • [Round 19: São Paulo Grand Prix](#round-19-so-paulo-grand-prix) • [Round 20: Qatar Grand Prix](#round-20-qatar-grand-prix) • [Round 21: Saudi Arabian Grand Prix](#round-21-saudi-arabian-grand-prix) • [Round 22: Abu Dhabi Grand Prix](#round-22-abu-dhabi-grand-prix)
+
+📊 **[View Complete F1 2021 Season Results](https://www.formula1.com/en/results.html/2021/races.html)** | **[Wikipedia 2021 F1 Season](https://en.wikipedia.org/wiki/2021_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 2021 Season Results](https://www.formula1.com/en/results.html/2021/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|

@@ -174,6 +174,16 @@ async function updateIndexWithTop30(peakDriversData) {
             const top30 = drivers.slice(0, 30);
             let tableContent = `## ${title}\n\n`;
             tableContent += `${description}\n\n`;
+            
+            // Add season navigation based on seasons represented in top 30
+            const seasonsInTop30 = [...new Set(top30.map(d => d.season))].sort();
+            if (seasonsInTop30.length > 1) {
+                const seasonLinks = seasonsInTop30.map(season => 
+                    `[${season}](seasons/${season}-season-report) ([F1.com](https://www.formula1.com/en/results.html/${season}/races.html))`
+                ).join(' • ');
+                tableContent += `**Seasons represented**: ${seasonLinks}\n\n`;
+            }
+            
             tableContent += `| Rank | Driver | Peak Elo | Constructor | Season | Race | Teammate | Teammate Elo |\n`;
             tableContent += `|------|--------|----------|-------------|--------|------|----------|--------------||\n`;
             
@@ -222,6 +232,89 @@ async function updateIndexWithTop30(peakDriversData) {
     } catch (error) {
         console.error(`⚠ Error updating docs/index.md with top 30 tables:`, error.message);
     }
+}
+
+/**
+ * Format ELO score with delta and color coding
+ * @param {number} finalElo - The final ELO rating
+ * @param {number} eloChange - The ELO change (can be positive or negative)
+ * @returns {string} Formatted ELO string with HTML styling
+ */
+function formatEloWithDelta(finalElo, eloChange) {
+    if (eloChange === 0) {
+        return `${finalElo} ↔ 0`;
+    }
+    
+    const arrow = eloChange > 0 ? '↑' : '↓';
+    const color = eloChange > 0 ? 'green' : 'red';
+    const sign = eloChange > 0 ? '+' : '';
+    
+    return `${finalElo} **<span style="color: ${color};">${finalElo} ${arrow} ${sign}${eloChange}</span>**`;
+}
+
+/**
+ * Calculate teammate win statistics for a driver in a specific season
+ */
+function calculateTeammateStats(driverName, seasonResults, raceData) {
+    const teammateStats = new Map(); // teammate -> { races: [], qualifying: [], raceEloImpact: 0, qualEloImpact: 0 }
+    
+    // Process each race result for this driver
+    seasonResults.forEach(result => {
+        if (!result.teammate) return;
+        
+        if (!teammateStats.has(result.teammate)) {
+            teammateStats.set(result.teammate, { 
+                races: [], 
+                qualifying: [], 
+                raceEloImpact: 0, 
+                qualEloImpact: 0 
+            });
+        }
+        
+        const stats = teammateStats.get(result.teammate);
+        
+        if (result.session === 'race') {
+            if (result.result === 'DNF') {
+                // Track DNF - no win/loss determination
+                stats.races.push({ type: 'dnf', round: result.round, raceName: result.raceName });
+            } else if (result.eloChange !== null) {
+                // Use ELO change to determine win/loss (positive = win, negative = loss)
+                const won = result.eloChange > 0;
+                stats.races.push({ 
+                    type: won ? 'win' : 'loss', 
+                    round: result.round, 
+                    raceName: result.raceName 
+                });
+                stats.raceEloImpact += result.eloChange || 0;
+            }
+        } else if (result.session === 'qualifying') {
+            // Use ELO change to determine win/loss (positive = win, negative = loss)
+            if (result.eloChange !== null) {
+                const won = result.eloChange > 0;
+                stats.qualifying.push({ 
+                    type: won ? 'win' : 'loss', 
+                    round: result.round, 
+                    raceName: result.raceName 
+                });
+                stats.qualEloImpact += result.eloChange || 0;
+            }
+        }
+    });
+    
+    return teammateStats;
+}
+
+/**
+ * Calculate DNF statistics for a driver in a specific season
+ */
+function calculateDNFStats(driverName, seasonResults) {
+    const raceResults = seasonResults.filter(r => r.session === 'race');
+    
+    const dnfCount = raceResults.filter(r => r.result === 'DNF').length;
+    const totalRaces = raceResults.length;
+    const dnfPercentage = totalRaces > 0 ? ((dnfCount / totalRaces) * 100).toFixed(1) : '0.0';
+    
+    return { dnfCount, totalRaces, dnfPercentage };
 }
 
 /**
@@ -282,8 +375,13 @@ async function generateComprehensiveDriverFiles() {
         
         // Get unique seasons and sort chronologically
         const seasons = [...new Set(results.map(r => r.season))].sort();
-        const seasonLinks = seasons.map(season => `[${season}](../seasons/${season}-season-report)`).join(' • ');
-        content += `**Seasons**: ${seasonLinks}\n\n`;
+        
+        // Quick navigation to season sections
+        content += `## Season Navigation\n\n`;
+        seasons.forEach(season => {
+            content += `- [${season} Season](#${season}-season) - [📊 Full Season Report](../seasons/${season}-season-report)\n`;
+        });
+        content += `\n`;
         
         // Sort results for statistics calculation
         const sortedResults = results.sort((a, b) => {
@@ -328,11 +426,10 @@ async function generateComprehensiveDriverFiles() {
             const qualLowAnchor = qualLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const qualLowLink = `[${qualLowResult.season} Round ${qualLowResult.round} - ${qualLowResult.raceName}](../seasons/${qualLowResult.season}-season-report#${qualLowAnchor})`;
             
-            content += `### 🏁 Qualifying Performance\n`;
-            content += `**Career Journey**: ${qualStart} → ${qualEnd}\n\n`;
-            content += `🏆 **Peak Elo**: ${qualPeakResult.newElo}\n`;
+            content += `### 🏁 Qualifying Performance\n\n`;
+            content += `🏆 **Peak Qualifying Elo**: ${qualPeakResult.newElo}\n`;
             content += `   *${qualPeakLink}*\n\n`;
-            content += `📉 **Lowest Elo**: ${qualLowResult.newElo}\n`;
+            content += `📉 **Lowest Qualifying Elo**: ${qualLowResult.newElo}\n`;
             content += `   *${qualLowLink}*\n\n`;
         }
         
@@ -351,11 +448,10 @@ async function generateComprehensiveDriverFiles() {
             const raceLowAnchor = raceLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const raceLowLink = `[${raceLowResult.season} Round ${raceLowResult.round} - ${raceLowResult.raceName}](../seasons/${raceLowResult.season}-season-report#${raceLowAnchor})`;
             
-            content += `### 🏎️ Race Performance\n`;
-            content += `**Career Journey**: ${raceStart} → ${raceEnd}\n\n`;
-            content += `🏆 **Peak Elo**: ${racePeakResult.newElo}\n`;
+            content += `### 🏎️ Race Performance\n\n`;
+            content += `🏆 **Peak Race Elo**: ${racePeakResult.newElo}\n`;
             content += `   *${racePeakLink}*\n\n`;
-            content += `📉 **Lowest Elo**: ${raceLowResult.newElo}\n`;
+            content += `📉 **Lowest Race Elo**: ${raceLowResult.newElo}\n`;
             content += `   *${raceLowLink}*\n\n`;
         }
         
@@ -374,20 +470,14 @@ async function generateComprehensiveDriverFiles() {
             const globalLowAnchor = globalLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const globalLowLink = `[${globalLowResult.season} Round ${globalLowResult.round} - ${globalLowResult.raceName}](../seasons/${globalLowResult.season}-season-report#${globalLowAnchor})`;
             
-            content += `### 🌟 Overall Performance\n`;
-            content += `**Career Journey**: ${globalStart} → ${globalEnd}\n\n`;
-            content += `🏆 **Peak Elo**: ${globalPeakResult.newElo}\n`;
+            content += `### 🌟 Global Performance\n\n`;
+            content += `🏆 **Peak Global Elo**: ${globalPeakResult.newElo}\n`;
             content += `   *${globalPeakLink}*\n\n`;
-            content += `📉 **Lowest Elo**: ${globalLowResult.newElo}\n`;
+            content += `📉 **Lowest Global Elo**: ${globalLowResult.newElo}\n`;
             content += `   *${globalLowLink}*\n\n`;
         }
         
         content += `\n`;
-        
-        // Summary table header
-        content += `## Complete Race-by-Race Results\n\n`;
-        content += `| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |\n`;
-        content += `|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|\n`;
         
         // Fill in teammate data by matching opposite entries
         sortedResults.forEach(result => {
@@ -407,18 +497,81 @@ async function generateComprehensiveDriverFiles() {
             }
         });
         
-        // Generate table rows
-        sortedResults.forEach(result => {
-            const eloChangeStr = result.eloChange !== null ? (result.eloChange >= 0 ? `+${result.eloChange}` : `${result.eloChange}`) : 'N/A';
+        // Generate results split by season
+        content += `## Complete Career Results by Season\n\n`;
+        
+        seasons.forEach(season => {
+            const seasonResults = sortedResults.filter(r => r.season === season);
+            if (seasonResults.length === 0) return;
             
-            // Create race link to season report
-            const raceTitle = `Round ${result.round}: ${result.raceName}`;
-            const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-            const raceLink = `[${raceTitle}](../seasons/${result.season}-season-report#${raceAnchor})`;
-            const cleanTeammateName = cleanDriverNameForFilename(result.teammate);
-            const teammateLink = `[${result.teammate}](${cleanTeammateName})`
+            content += `### ${season} Season\n\n`;
+            content += `📊 **[View Full ${season} Season Report](../seasons/${season}-season-report)**\n\n`;
             
-            content += `| ${result.season} | ${raceLink} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${teammateLink} |\n`;
+            // Calculate and display teammate statistics for this season
+            const teammateStats = calculateTeammateStats(driverData.driverName, seasonResults, null);
+            const dnfStats = calculateDNFStats(driverData.driverName, seasonResults);
+            
+            // Add teammate win statistics
+            if (teammateStats.size > 0) {
+                content += `#### Teammate Head-to-Head Statistics\n\n`;
+                
+                for (const [teammate, stats] of teammateStats) {
+                    const cleanTeammateName = cleanDriverNameForFilename(teammate);
+                    const teammateLink = `[${teammate}](${cleanTeammateName})`;
+                    
+                    // Race statistics
+                    const raceWins = stats.races.filter(r => r.type === 'win').length;
+                    const raceLosses = stats.races.filter(r => r.type === 'loss').length;
+                    const raceDNFs = stats.races.filter(r => r.type === 'dnf').length;
+                    const totalRaces = raceWins + raceLosses + raceDNFs;
+                    
+                    const raceWinPercent = totalRaces > 0 ? ((raceWins / totalRaces) * 100).toFixed(1) : '0.0';
+                    const raceLossPercent = totalRaces > 0 ? ((raceLosses / totalRaces) * 100).toFixed(1) : '0.0';
+                    const raceDNFPercent = totalRaces > 0 ? ((raceDNFs / totalRaces) * 100).toFixed(1) : '0.0';
+                    const raceEloImpact = Math.round(stats.raceEloImpact);
+                    const raceEloFormatted = raceEloImpact === 0 ? '↔ 0' : 
+                        raceEloImpact > 0 ? `**<span style="color: green;">↑ +${raceEloImpact}</span>**` : 
+                        `**<span style="color: red;">↓ ${raceEloImpact}</span>**`;
+                    
+                    // Qualifying statistics  
+                    const qualWins = stats.qualifying.filter(q => q.type === 'win').length;
+                    const qualLosses = stats.qualifying.filter(q => q.type === 'loss').length;
+                    const totalQual = qualWins + qualLosses;
+                    
+                    const qualWinPercent = totalQual > 0 ? ((qualWins / totalQual) * 100).toFixed(1) : '0.0';
+                    const qualLossPercent = totalQual > 0 ? ((qualLosses / totalQual) * 100).toFixed(1) : '0.0';
+                    const qualEloImpact = Math.round(stats.qualEloImpact);
+                    const qualEloFormatted = qualEloImpact === 0 ? '↔ 0' : 
+                        qualEloImpact > 0 ? `**<span style="color: green;">↑ +${qualEloImpact}</span>**` : 
+                        `**<span style="color: red;">↓ ${qualEloImpact}</span>**`;
+                    
+                    content += `- **Races vs ${teammateLink}**: ${raceWins} wins (${raceWinPercent}%) • ${raceLosses} losses (${raceLossPercent}%) • ${raceDNFs} DNFs (${raceDNFPercent}%) - **ELO Impact: ${raceEloFormatted}**\n`;
+                    content += `- **Qualifying vs ${teammateLink}**: ${qualWins} wins (${qualWinPercent}%) • ${qualLosses} losses (${qualLossPercent}%) - **ELO Impact: ${qualEloFormatted}**\n\n`;
+                }
+            }
+            
+            // Add DNF statistics
+            content += `#### DNF Statistics\n\n`;
+            content += `- **DNFs**: ${dnfStats.dnfCount} out of ${dnfStats.totalRaces} races (${dnfStats.dnfPercentage}%)\n\n`;
+            
+            content += `#### Detailed Results\n\n`;
+            content += `| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |\n`;
+            content += `|------|------|---------|-------------|----------|--------------|------------|-----------|----------|\n`;
+            
+            seasonResults.forEach(result => {
+                const eloChangeStr = result.eloChange !== null ? (result.eloChange >= 0 ? `+${result.eloChange}` : `${result.eloChange}`) : 'N/A';
+                
+                // Create race link to season report
+                const raceTitle = `Round ${result.round}: ${result.raceName}`;
+                const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+                const raceLink = `[${raceTitle}](../seasons/${result.season}-season-report#${raceAnchor})`;
+                const cleanTeammateName = cleanDriverNameForFilename(result.teammate);
+                const teammateLink = `[${result.teammate}](${cleanTeammateName})`
+                
+                content += `| ${raceLink} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${teammateLink} |\n`;
+            });
+            
+            content += `\n`;
         });
 
         

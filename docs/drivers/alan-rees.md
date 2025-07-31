@@ -2,7 +2,9 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1967](../seasons/1967-season-report)
+## Season Navigation
+
+- [1967 Season](#1967-season) - [📊 Full Season Report](../seasons/1967-season-report)
 
 ## Career Statistics
 
@@ -11,46 +13,68 @@
 **DNF Statistics**: 0 DNFs out of 4 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1491
 
-🏆 **Peak Elo**: 1499
+🏆 **Peak Qualifying Elo**: 1499
    *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
-📉 **Lowest Elo**: 1489
+📉 **Lowest Qualifying Elo**: 1489
    *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1491
 
-🏆 **Peak Elo**: 1491
+🏆 **Peak Race Elo**: 1491
    *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
-📉 **Lowest Elo**: 1491
+📉 **Lowest Race Elo**: 1491
    *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
-### 🌟 Overall Performance
-**Career Journey**: 1500 → 1491
+### 🌟 Global Performance
 
-🏆 **Peak Elo**: 1493
+🏆 **Peak Global Elo**: 1493
    *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
-📉 **Lowest Elo**: 1490
+📉 **Lowest Global Elo**: 1490
    *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
 
-## Complete Race-by-Race Results
+## Complete Career Results by Season
 
-| Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | qualifying | Cooper-Maserati | 15 | 1500 | -8 | 1492 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | qualifying | Cooper-Maserati | 15 | 1492 | -3 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | qualifying | Cooper-Maserati | 15 | 1489 | +10 | 1499 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | qualifying | Cooper-Maserati | 15 | 1499 | -8 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | race | Cooper-Maserati | 9 | 1500 | -9 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | race | Cooper-Maserati | 9 | 1491 | N/A | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | race | Cooper-Maserati | 9 | 1491 | N/A | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | race | Cooper-Maserati | 9 | 1491 | N/A | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | global | Cooper-Maserati | Q:15/R:9 | 1500 | -9 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | global | Cooper-Maserati | Q:15/R:9 | 1491 | -1 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | global | Cooper-Maserati | Q:15/R:9 | 1490 | +3 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
-| 1967 | [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | global | Cooper-Maserati | Q:15/R:9 | 1493 | -2 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
+### 1967 Season
+
+📊 **[View Full 1967 Season Report](../seasons/1967-season-report)**
+
+#### Teammate Head-to-Head Statistics
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -9</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -8</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -3</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +10</span>****
+
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -8</span>****
+
+#### DNF Statistics
+
+- **DNFs**: 0 out of 4 races (0.0%)
+
+#### Detailed Results
+
+| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
+|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | qualifying | Cooper-Maserati | 15 | 1500 | -8 | 1492 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | qualifying | Cooper-Maserati | 15 | 1492 | -3 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | qualifying | Cooper-Maserati | 15 | 1489 | +10 | 1499 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | qualifying | Cooper-Maserati | 15 | 1499 | -8 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | race | Cooper-Maserati | 9 | 1500 | -9 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | race | Cooper-Maserati | 9 | 1491 | N/A | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | race | Cooper-Maserati | 9 | 1491 | N/A | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | race | Cooper-Maserati | 9 | 1491 | N/A | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | global | Cooper-Maserati | Q:15/R:9 | 1500 | -9 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | global | Cooper-Maserati | Q:15/R:9 | 1491 | -1 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | global | Cooper-Maserati | Q:15/R:9 | 1490 | +3 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) |
+| [Round 6: British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix) | 1967-07-15 | global | Cooper-Maserati | Q:15/R:9 | 1493 | -2 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
+

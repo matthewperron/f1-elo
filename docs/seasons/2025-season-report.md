@@ -2,7 +2,15 @@
 
 *Last updated: 2025-07-31*
 
+## Quick Navigation
+
+**Races**: [Round 1: Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2: Chinese Grand Prix](#round-2-chinese-grand-prix) • [Round 3: Japanese Grand Prix](#round-3-japanese-grand-prix) • [Round 4: Bahrain Grand Prix](#round-4-bahrain-grand-prix) • [Round 5: Saudi Arabian Grand Prix](#round-5-saudi-arabian-grand-prix) • [Round 6: Miami Grand Prix](#round-6-miami-grand-prix) • [Round 7: Emilia Romagna Grand Prix](#round-7-emilia-romagna-grand-prix) • [Round 8: Monaco Grand Prix](#round-8-monaco-grand-prix) • [Round 9: Spanish Grand Prix](#round-9-spanish-grand-prix) • [Round 10: Canadian Grand Prix](#round-10-canadian-grand-prix) • [Round 11: Austrian Grand Prix](#round-11-austrian-grand-prix) • [Round 12: British Grand Prix](#round-12-british-grand-prix) • [Round 13: Belgian Grand Prix](#round-13-belgian-grand-prix)
+
+📊 **[View Complete F1 2025 Season Results](https://www.formula1.com/en/results.html/2025/races.html)** | **[Wikipedia 2025 F1 Season](https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship)**
+
 ## Final ELO Ratings
+
+📊 **[View Complete F1 2025 Season Results](https://www.formula1.com/en/results.html/2025/races.html)**
 
 | Rank | Starting Elo | Driver | Constructor | Qualifying Elo | Race Elo | Final ELO |
 |------|--------------|--------|-------------|----------------|----------|-----------|
