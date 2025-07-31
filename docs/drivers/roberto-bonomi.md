@@ -52,7 +52,7 @@
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy](carlos-menditeguy) (1524)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -33</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy](carlos-menditeguy) (1582)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -27</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy](carlos-menditeguy) (1582)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -27</span>**
 
 
 #### DNF Statistics
@@ -61,7 +61,7 @@
 
 #### Detailed Results
 
-| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
-|------|------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | 1960-02-07 | Cooper-Maserati | Q: 17<br/>R: 11 | 1473 **<span style="color: red;">▼ -27</span>** | 1467 **<span style="color: red;">▼ -33</span>** | 1469 **<span style="color: red;">▼ -31</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy](carlos-menditeguy)<br/>Q: 12<br/>R: 4 |
+| Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | Cooper-Maserati | Q: 17<br/>R: 11 | 1473 **<span style="color: red;">▼ -27</span>** | 1467 **<span style="color: red;">▼ -33</span>** | 1469 **<span style="color: red;">▼ -31</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy](carlos-menditeguy)<br/>Q: 12<br/>R: 4 |
 

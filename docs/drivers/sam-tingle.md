@@ -46,25 +46,25 @@
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) (1581)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) (1647)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -3</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) (1647)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -3</span>**
 
 - **Races vs [Neville Lederle](neville-lederle) (1496)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Neville Lederle](neville-lederle) (1497)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -4</span>****
+- **Qualifying vs [Neville Lederle](neville-lederle) (1497)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -4</span>**
 
 - **Races vs [Ernie Pieterse](ernie-pieterse) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Ernie Pieterse](ernie-pieterse) (1497)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -5</span>****
+- **Qualifying vs [Ernie Pieterse](ernie-pieterse) (1497)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -5</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jim Clark](jim-clark) (1624)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jim Clark](jim-clark) (1776)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -1</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jim Clark](jim-clark) (1776)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -1</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Trevor Taylor](trevor-taylor) (1450)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Trevor Taylor](trevor-taylor) (1515)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -4</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Trevor Taylor](trevor-taylor) (1515)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -4</span>**
 
 - **Races vs [Gary Hocking](gary-hocking) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Gary Hocking](gary-hocking) (1497)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +5</span>****
+- **Qualifying vs [Gary Hocking](gary-hocking) (1497)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +5</span>**
 
 - **Races vs [Syd van der Vyver](syd-van-der-vyver) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Syd van der Vyver](syd-van-der-vyver) (1497)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +5</span>****
+- **Qualifying vs [Syd van der Vyver](syd-van-der-vyver) (1497)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +5</span>**
 
 
 #### DNF Statistics
@@ -73,9 +73,9 @@
 
 #### Detailed Results
 
-| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
-|------|------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix) | 1962-12-29 | Lotus-Climax | Q: 999<br/>R: DNF | 1492 **<span style="color: green;">▲ +5</span>** | N/A | 1498 **<span style="color: green;">▲ +2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland)<br/>Q: 4<br/>R: 5 |
+| Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 9: South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix) | Lotus-Climax | Q: 999<br/>R: DNF | 1492 **<span style="color: green;">▲ +5</span>** | N/A | 1498 **<span style="color: green;">▲ +2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland)<br/>Q: 4<br/>R: 5 |
 
 ### 1963 Season
 
@@ -90,7 +90,7 @@
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [Doug Serrurier](doug-serrurier) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Doug Serrurier](doug-serrurier) (1467)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +33</span>****
+- **Qualifying vs [Doug Serrurier](doug-serrurier) (1467)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +33</span>**
 
 
 #### DNF Statistics
@@ -99,9 +99,9 @@
 
 #### Detailed Results
 
-| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
-|------|------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | LDS | Q: 17<br/>R: DNF | 1525 **<span style="color: green;">▲ +33</span>** | N/A | 1508 **<span style="color: green;">▲ +10</span>** | [Doug Serrurier](doug-serrurier)<br/>Q: 18<br/>R: DNF |
+| Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | LDS | Q: 17<br/>R: DNF | 1525 **<span style="color: green;">▲ +33</span>** | N/A | 1508 **<span style="color: green;">▲ +10</span>** | [Doug Serrurier](doug-serrurier)<br/>Q: 18<br/>R: DNF |
 
 ### 1969 Season
 
@@ -116,7 +116,7 @@
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [Peter de Klerk](peter-de-klerk) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Peter de Klerk](peter-de-klerk) (1534)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -34</span>****
+- **Qualifying vs [Peter de Klerk](peter-de-klerk) (1534)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -34</span>**
 
 
 #### DNF Statistics
@@ -125,7 +125,7 @@
 
 #### Detailed Results
 
-| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
-|------|------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | Brabham-Repco | Q: 17<br/>R: DNF | 1491 **<span style="color: red;">▼ -34</span>** | N/A | 1498 **<span style="color: red;">▼ -10</span>** | [Peter de Klerk](peter-de-klerk)<br/>Q: 16<br/>R: DNF |
+| Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | Brabham-Repco | Q: 17<br/>R: DNF | 1491 **<span style="color: red;">▼ -34</span>** | N/A | 1498 **<span style="color: red;">▼ -10</span>** | [Peter de Klerk](peter-de-klerk)<br/>Q: 16<br/>R: DNF |
 

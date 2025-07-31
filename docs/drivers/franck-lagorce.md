@@ -52,7 +52,7 @@
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1636)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -44</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1632)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo **<span style="color: red;">▼ -44</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1632)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -44</span>**
 
 
 #### DNF Statistics
@@ -61,8 +61,8 @@
 
 #### Detailed Results
 
-| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
-|------|------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 15: Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix) | 1994-11-06 | Ligier | Q: 20<br/>R: 19 | 1476 **<span style="color: red;">▼ -24</span>** | 1476 **<span style="color: red;">▼ -24</span>** | 1476 **<span style="color: red;">▼ -24</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis)<br/>Q: 19<br/>R: 11 |
-| [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | 1994-11-13 | Ligier | Q: 20<br/>R: 11 | 1456 **<span style="color: red;">▼ -20</span>** | 1457 **<span style="color: red;">▼ -20</span>** | 1456 **<span style="color: red;">▼ -20</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis)<br/>Q: 12<br/>R: 5 |
+| Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 15: Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix) | Ligier | Q: 20<br/>R: 19 | 1476 **<span style="color: red;">▼ -24</span>** | 1476 **<span style="color: red;">▼ -24</span>** | 1476 **<span style="color: red;">▼ -24</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis)<br/>Q: 19<br/>R: 11 |
+| [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | Ligier | Q: 20<br/>R: 11 | 1456 **<span style="color: red;">▼ -20</span>** | 1457 **<span style="color: red;">▼ -20</span>** | 1456 **<span style="color: red;">▼ -20</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis)<br/>Q: 12<br/>R: 5 |
 

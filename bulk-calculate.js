@@ -596,8 +596,8 @@ async function generateComprehensiveDriverFiles() {
                     const qualLossPercent = totalQual > 0 ? ((qualLosses / totalQual) * 100).toFixed(1) : '0.0';
                     const qualEloImpact = Math.round(stats.qualEloImpact);
                     const qualEloFormatted = qualEloImpact === 0 ? '↔ 0' : 
-                        qualEloImpact > 0 ? `**<span style="color: green;">▲ +${qualEloImpact}</span>**` : 
-                        `**<span style="color: red;">▼ ${qualEloImpact}</span>**`;
+                        qualEloImpact > 0 ? `<span style="color: green;">▲ +${qualEloImpact}</span>` : 
+                        `<span style="color: red;">▼ ${qualEloImpact}</span>`;
                     
                     content += `- **Races vs ${teammateLink} (${teammateRaceElo})**: ${raceWins} wins (${raceWinPercent}%) • ${raceLosses} losses (${raceLossPercent}%) • ${raceDNFs} DNFs (${raceDNFPercent}%) • **Elo ${raceEloFormatted}**\n`;
                     content += `- **Qualifying vs ${teammateLink} (${teammateQualElo})**: ${qualWins} wins (${qualWinPercent}%) • ${qualLosses} losses (${qualLossPercent}%) • **Elo ${qualEloFormatted}**\n\n`;
@@ -612,8 +612,8 @@ async function generateComprehensiveDriverFiles() {
             content += `- **DNFs**: ${dnfStats.dnfCount} out of ${dnfStats.totalRaces} races (${dnfStats.dnfPercentage}%)\n\n`;
             
             content += `#### Detailed Results\n\n`;
-            content += `| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |\n`;
-            content += `|------|------|-------------|-----------|----------------|----------|------------|----------|\n`;
+            content += `| Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |\n`;
+            content += `|------|-------------|-----------|----------------|----------|------------|----------|\n`;
             
             // Group results by race (round) to consolidate sessions
             const raceGroups = new Map();
@@ -696,7 +696,7 @@ async function generateComprehensiveDriverFiles() {
                 
                 const teammateStr = `${teammateLink}<br/>Q: ${teammateQualPos}<br/>R: ${teammateRacePos}`;
                 
-                content += `| ${raceLink} | ${raceGroup.date} | ${raceGroup.constructor} | ${positionsStr} | ${qualEloStr} | ${raceEloStr} | ${globalEloStr} | ${teammateStr} |\n`;
+                content += `| ${raceLink} | ${raceGroup.constructor} | ${positionsStr} | ${qualEloStr} | ${raceEloStr} | ${globalEloStr} | ${teammateStr} |\n`;
             });
             
             content += `\n`;

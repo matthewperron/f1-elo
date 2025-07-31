@@ -52,7 +52,7 @@
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1645)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -21</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1619)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo **<span style="color: red;">▼ -46</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1619)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -46</span>**
 
 
 #### DNF Statistics
@@ -61,8 +61,8 @@
 
 #### Detailed Results
 
-| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
-|------|------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 15: Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix) | 1993-10-24 | Larrousse | Q: 23<br/>R: 12 | 1475 **<span style="color: red;">▼ -25</span>** | N/A | 1493 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas)<br/>Q: 21<br/>R: DNF |
-| [Round 16: Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix) | 1993-11-07 | Larrousse | Q: 24<br/>R: 14 | 1453 **<span style="color: red;">▼ -21</span>** | 1479 **<span style="color: red;">▼ -21</span>** | 1472 **<span style="color: red;">▼ -21</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas)<br/>Q: 21<br/>R: 12 |
+| Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 15: Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix) | Larrousse | Q: 23<br/>R: 12 | 1475 **<span style="color: red;">▼ -25</span>** | N/A | 1493 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas)<br/>Q: 21<br/>R: DNF |
+| [Round 16: Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix) | Larrousse | Q: 24<br/>R: 14 | 1453 **<span style="color: red;">▼ -21</span>** | 1479 **<span style="color: red;">▼ -21</span>** | 1472 **<span style="color: red;">▼ -21</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas)<br/>Q: 21<br/>R: 12 |
 

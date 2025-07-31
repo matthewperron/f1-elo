@@ -52,7 +52,7 @@
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [Jody Scheckter](jody-scheckter) (1622)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -23</span>****
-- **Qualifying vs [Jody Scheckter](jody-scheckter) (1707)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo **<span style="color: red;">▼ -32</span>****
+- **Qualifying vs [Jody Scheckter](jody-scheckter) (1707)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -32</span>**
 
 
 #### DNF Statistics
@@ -61,8 +61,8 @@
 
 #### Detailed Results
 
-| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
-|------|------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | Wolf | Q: 20<br/>R: 12 | 1483 **<span style="color: red;">▼ -17</span>** | 1477 **<span style="color: red;">▼ -23</span>** | 1479 **<span style="color: red;">▼ -21</span>** | [Jody Scheckter](jody-scheckter)<br/>Q: 11<br/>R: 3 |
-| [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | Wolf | Q: 20<br/>R: DNF | 1468 **<span style="color: red;">▼ -15</span>** | N/A | 1474 **<span style="color: red;">▼ -4</span>** | [Jody Scheckter](jody-scheckter)<br/>Q: 2<br/>R: 2 |
+| Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | Wolf | Q: 20<br/>R: 12 | 1483 **<span style="color: red;">▼ -17</span>** | 1477 **<span style="color: red;">▼ -23</span>** | 1479 **<span style="color: red;">▼ -21</span>** | [Jody Scheckter](jody-scheckter)<br/>Q: 11<br/>R: 3 |
+| [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | Wolf | Q: 20<br/>R: DNF | 1468 **<span style="color: red;">▼ -15</span>** | N/A | 1474 **<span style="color: red;">▼ -4</span>** | [Jody Scheckter](jody-scheckter)<br/>Q: 2<br/>R: 2 |
 

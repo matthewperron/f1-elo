@@ -53,7 +53,7 @@
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) (1548)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) (1463)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +31</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) (1463)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +31</span>**
 
 
 #### DNF Statistics
@@ -62,9 +62,9 @@
 
 #### Detailed Results
 
-| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
-|------|------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | ATS | Q: 24<br/>R: 13 | 1531 **<span style="color: green;">▲ +31</span>** | N/A | 1509 **<span style="color: green;">▲ +9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers)<br/>Q: 999<br/>R: DNF |
+| Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | ATS | Q: 24<br/>R: 13 | 1531 **<span style="color: green;">▲ +31</span>** | N/A | 1509 **<span style="color: green;">▲ +9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers)<br/>Q: 999<br/>R: DNF |
 
 ### 1982 Season
 
@@ -79,7 +79,7 @@
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1542)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) • **Elo **<span style="color: red;">▼ -62</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1567)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo **<span style="color: red;">▼ -92</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1567)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼ -92</span>**
 
 
 #### DNF Statistics
@@ -88,9 +88,9 @@
 
 #### Detailed Results
 
-| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
-|------|------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix) | 1982-01-23 | Tyrrell | Q: 23<br/>R: 16 | 1494 **<span style="color: red;">▼ -37</span>** | 1466 **<span style="color: red;">▼ -34</span>** | 1474 **<span style="color: red;">▼ -35</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 10<br/>R: 7 |
-| [Round 2: Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix) | 1982-03-21 | Tyrrell | Q: 21<br/>R: 7 | 1463 **<span style="color: red;">▼ -30</span>** | 1439 **<span style="color: red;">▼ -28</span>** | 1446 **<span style="color: red;">▼ -29</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 13<br/>R: 4 |
-| [Round 3: United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west) | 1982-04-04 | Tyrrell | Q: 24<br/>R: DNF | 1438 **<span style="color: red;">▼ -25</span>** | N/A | 1438 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 12<br/>R: 4 |
+| Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 1: South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix) | Tyrrell | Q: 23<br/>R: 16 | 1494 **<span style="color: red;">▼ -37</span>** | 1466 **<span style="color: red;">▼ -34</span>** | 1474 **<span style="color: red;">▼ -35</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 10<br/>R: 7 |
+| [Round 2: Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix) | Tyrrell | Q: 21<br/>R: 7 | 1463 **<span style="color: red;">▼ -30</span>** | 1439 **<span style="color: red;">▼ -28</span>** | 1446 **<span style="color: red;">▼ -29</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 13<br/>R: 4 |
+| [Round 3: United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west) | Tyrrell | Q: 24<br/>R: DNF | 1438 **<span style="color: red;">▼ -25</span>** | N/A | 1438 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 12<br/>R: 4 |
 
