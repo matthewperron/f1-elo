@@ -52,7 +52,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1454)**: 8 wins (44.4%) • 7 losses (38.9%) • 3 DNFs (16.7%) • **Elo **<span style="color: green;">▲ +46</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1454)**: 8 wins (44.4%) • 7 losses (38.9%) • 3 DNFs (16.7%) • **Elo <span style="color: green;">▲ +46</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1477)**: 6 wins (33.3%) • 12 losses (66.7%) • **Elo <span style="color: red;">▼ -93</span>**
 
 #### DNF Statistics
@@ -94,7 +94,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1434)**: 3 wins (42.9%) • 1 losses (14.3%) • 3 DNFs (42.9%) • **Elo **<span style="color: green;">▲ +21</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1434)**: 3 wins (42.9%) • 1 losses (14.3%) • 3 DNFs (42.9%) • **Elo <span style="color: green;">▲ +21</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1435)**: 4 wins (40.0%) • 6 losses (60.0%) • **Elo <span style="color: green;">▲ +41</span>**
 
 #### DNF Statistics

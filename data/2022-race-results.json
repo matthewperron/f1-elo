@@ -11616,7 +11616,7 @@
     "hamilton": {
       "qualifyingElo": 1872,
       "raceElo": 1803,
-      "globalElo": 1827
+      "globalElo": 1826
     },
     "norris": {
       "qualifyingElo": 1878,
@@ -11625,13 +11625,13 @@
     },
     "russell": {
       "qualifyingElo": 1806,
-      "raceElo": 1737,
+      "raceElo": 1738,
       "globalElo": 1757
     },
     "alonso": {
       "qualifyingElo": 1708,
       "raceElo": 1731,
-      "globalElo": 1723
+      "globalElo": 1724
     },
     "leclerc": {
       "qualifyingElo": 1732,
@@ -11660,8 +11660,8 @@
     },
     "bottas": {
       "qualifyingElo": 1637,
-      "raceElo": 1563,
-      "globalElo": 1582
+      "raceElo": 1564,
+      "globalElo": 1583
     },
     "perez": {
       "qualifyingElo": 1551,

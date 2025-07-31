@@ -6826,12 +6826,12 @@
     "leclerc": {
       "qualifyingElo": 1738,
       "raceElo": 1773,
-      "globalElo": 1761
+      "globalElo": 1762
     },
     "alonso": {
       "qualifyingElo": 1767,
       "raceElo": 1711,
-      "globalElo": 1726
+      "globalElo": 1727
     },
     "gasly": {
       "qualifyingElo": 1709,
@@ -6850,8 +6850,8 @@
     },
     "hamilton": {
       "qualifyingElo": 1657,
-      "raceElo": 1593,
-      "globalElo": 1618
+      "raceElo": 1594,
+      "globalElo": 1616
     },
     "sainz": {
       "qualifyingElo": 1667,

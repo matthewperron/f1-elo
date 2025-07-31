@@ -12157,17 +12157,17 @@
     "alonso": {
       "qualifyingElo": 1843,
       "raceElo": 1895,
-      "globalElo": 1878
+      "globalElo": 1879
     },
     "hamilton": {
       "qualifyingElo": 1947,
-      "raceElo": 1748,
-      "globalElo": 1807
+      "raceElo": 1749,
+      "globalElo": 1808
     },
     "button": {
       "qualifyingElo": 1597,
       "raceElo": 1794,
-      "globalElo": 1736
+      "globalElo": 1735
     },
     "vettel": {
       "qualifyingElo": 1604,
@@ -12247,7 +12247,7 @@
     "massa": {
       "qualifyingElo": 1623,
       "raceElo": 1455,
-      "globalElo": 1508
+      "globalElo": 1509
     },
     "kevin_magnussen": {
       "qualifyingElo": 1452,

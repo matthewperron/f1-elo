@@ -22,18 +22,18 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1536
+🏆 **Peak Race Elo**: 1537
    *[1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix)*
 
-📉 **Lowest Race Elo**: 1536
+📉 **Lowest Race Elo**: 1537
    *[1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
-🏆 **Peak Global Elo**: 1537
+🏆 **Peak Global Elo**: 1538
    *[1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix)*
 
-📉 **Lowest Global Elo**: 1537
+📉 **Lowest Global Elo**: 1538
    *[1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix)*
 
 
@@ -47,11 +47,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1536 **<span style="color: green;">▲ +36</span>** | 1539 **<span style="color: green;">▲ +39</span>** | 1537 **<span style="color: green;">▲ +37</span>** |
+| 1537 **<span style="color: green;">▲ +37</span>** | 1539 **<span style="color: green;">▲ +39</span>** | 1538 **<span style="color: green;">▲ +38</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +36</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +37</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +39</span>**
 
 #### DNF Statistics
@@ -62,5 +62,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | Wolf | Q: 23<br/>R: 14 | 1539 **<span style="color: green;">▲ +39</span>** | 1536 **<span style="color: green;">▲ +36</span>** | 1537 **<span style="color: green;">▲ +37</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario)<br/>Q: N/A<br/>R: N/A |
+| [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | Wolf | Q: 23<br/>R: 14 | 1539 **<span style="color: green;">▲ +39</span>** | 1537 **<span style="color: green;">▲ +37</span>** | 1538 **<span style="color: green;">▲ +38</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario)<br/>Q: N/A<br/>R: N/A |
 

@@ -4353,13 +4353,18 @@
     },
     "hawthorn": {
       "qualifyingElo": 1570,
-      "raceElo": 1539,
-      "globalElo": 1547
+      "raceElo": 1527,
+      "globalElo": 1539
     },
     "frere": {
       "qualifyingElo": 1552,
       "raceElo": 1523,
       "globalElo": 1533
+    },
+    "duncan_hamilton": {
+      "qualifyingElo": 1522,
+      "raceElo": 1532,
+      "globalElo": 1528
     },
     "collins": {
       "qualifyingElo": 1577,
@@ -4374,11 +4379,6 @@
     "darter": {
       "qualifyingElo": 1559,
       "raceElo": 1500,
-      "globalElo": 1517
-    },
-    "duncan_hamilton": {
-      "qualifyingElo": 1522,
-      "raceElo": 1516,
       "globalElo": 1517
     },
     "rathmann": {
@@ -4471,6 +4471,11 @@
       "raceElo": 1508,
       "globalElo": 1505
     },
+    "wharton": {
+      "qualifyingElo": 1489,
+      "raceElo": 1512,
+      "globalElo": 1505
+    },
     "thompson": {
       "qualifyingElo": 1490,
       "raceElo": 1510,
@@ -4556,11 +4561,6 @@
       "raceElo": 1500,
       "globalElo": 1497
     },
-    "wharton": {
-      "qualifyingElo": 1489,
-      "raceElo": 1500,
-      "globalElo": 1497
-    },
     "griffith": {
       "qualifyingElo": 1496,
       "raceElo": 1495,
@@ -4570,6 +4570,11 @@
       "qualifyingElo": 1488,
       "raceElo": 1500,
       "globalElo": 1496
+    },
+    "macklin": {
+      "qualifyingElo": 1462,
+      "raceElo": 1507,
+      "globalElo": 1495
     },
     "reece": {
       "qualifyingElo": 1485,
@@ -4661,11 +4666,6 @@
       "raceElo": 1500,
       "globalElo": 1490
     },
-    "lof": {
-      "qualifyingElo": 1466,
-      "raceElo": 1500,
-      "globalElo": 1490
-    },
     "behra": {
       "qualifyingElo": 1458,
       "raceElo": 1503,
@@ -4695,11 +4695,6 @@
       "qualifyingElo": 1441,
       "raceElo": 1500,
       "globalElo": 1486
-    },
-    "macklin": {
-      "qualifyingElo": 1462,
-      "raceElo": 1491,
-      "globalElo": 1484
     },
     "carini": {
       "qualifyingElo": 1447,
@@ -4745,6 +4740,11 @@
       "qualifyingElo": 1473,
       "raceElo": 1469,
       "globalElo": 1470
+    },
+    "lof": {
+      "qualifyingElo": 1466,
+      "raceElo": 1469,
+      "globalElo": 1468
     },
     "graffenried": {
       "qualifyingElo": 1520,

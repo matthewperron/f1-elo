@@ -23,10 +23,10 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1487
+🏆 **Peak Race Elo**: 1488
    *[1968 Round 8 – German Grand Prix](../seasons/1968-season-report#round-8-german-grand-prix)*
 
-📉 **Lowest Race Elo**: 1477
+📉 **Lowest Race Elo**: 1478
    *[1968 Round 8 – German Grand Prix](../seasons/1968-season-report#round-8-german-grand-prix)*
 
 ### 🌟 Global Performance
@@ -73,14 +73,14 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1477 **<span style="color: red;">▼ -23</span>** | 1521 **<span style="color: red;">▼ -11</span>** | 1492 **<span style="color: red;">▼ -18</span>** |
+| 1478 **<span style="color: red;">▼ -22</span>** | 1521 **<span style="color: red;">▼ -11</span>** | 1492 **<span style="color: red;">▼ -18</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) (1559)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -13</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) (1578)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -12</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) (1903)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -3</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) (1643)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -9</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) (1643)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -9</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) (1742)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -7</span>**
 
 #### DNF Statistics
@@ -91,5 +91,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 8: German Grand Prix](../seasons/1968-season-report#round-8-german-grand-prix) | Brabham-Repco | Q: 17<br/>R: 12 | 1521 **<span style="color: red;">▼ -7</span>** | 1477 **<span style="color: red;">▼ -9</span>** | 1492 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt)<br/>Q: 3<br/>R: 3 |
+| [Round 8: German Grand Prix](../seasons/1968-season-report#round-8-german-grand-prix) | Brabham-Repco | Q: 17<br/>R: 12 | 1521 **<span style="color: red;">▼ -7</span>** | 1478 **<span style="color: red;">▼ -9</span>** | 1492 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt)<br/>Q: 3<br/>R: 3 |
 

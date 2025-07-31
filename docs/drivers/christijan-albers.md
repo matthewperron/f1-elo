@@ -53,10 +53,10 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Patrick Friesacher](patrick-friesacher) (1405)**: 5 wins (50.0%) • 1 losses (10.0%) • 4 DNFs (40.0%) • **Elo **<span style="color: green;">▲ +95</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Patrick Friesacher](patrick-friesacher) (1405)**: 5 wins (50.0%) • 1 losses (10.0%) • 4 DNFs (40.0%) • **Elo <span style="color: green;">▲ +95</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Patrick Friesacher](patrick-friesacher) (1472)**: 6 wins (54.5%) • 5 losses (45.5%) • **Elo <span style="color: green;">▲ +27</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Robert Doornbos](robert-doornbos) (1535)**: 2 wins (28.6%) • 2 losses (28.6%) • 3 DNFs (42.9%) • **Elo **<span style="color: red;">▼ -36</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Robert Doornbos](robert-doornbos) (1535)**: 2 wins (28.6%) • 2 losses (28.6%) • 3 DNFs (42.9%) • **Elo <span style="color: red;">▼ -36</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Robert Doornbos](robert-doornbos) (1433)**: 6 wins (75.0%) • 2 losses (25.0%) • **Elo <span style="color: green;">▲ +67</span>**
 
 #### DNF Statistics
@@ -99,7 +99,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Tiago Monteiro](tiago-monteiro) (1510)**: 6 wins (40.0%) • 4 losses (26.7%) • 5 DNFs (33.3%) • **Elo **<span style="color: green;">▲ +66</span>****
+- **Races vs [Tiago Monteiro](tiago-monteiro) (1510)**: 6 wins (40.0%) • 4 losses (26.7%) • 5 DNFs (33.3%) • **Elo <span style="color: green;">▲ +66</span>**
 - **Qualifying vs [Tiago Monteiro](tiago-monteiro) (1516)**: 10 wins (55.6%) • 8 losses (44.4%) • **Elo <span style="color: red;">▼ -20</span>**
 
 #### DNF Statistics
@@ -141,7 +141,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1589)**: 1 wins (12.5%) • 3 losses (37.5%) • 4 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -89</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1589)**: 1 wins (12.5%) • 3 losses (37.5%) • 4 DNFs (50.0%) • **Elo <span style="color: red;">▼ -89</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1613)**: 2 wins (22.2%) • 7 losses (77.8%) • **Elo <span style="color: red;">▼ -114</span>**
 
 #### DNF Statistics

@@ -4139,33 +4139,38 @@
   "finalELOs": {
     "clark": {
       "qualifyingElo": 1906,
-      "raceElo": 1764,
-      "globalElo": 1798
+      "raceElo": 1763,
+      "globalElo": 1797
     },
     "mclaren": {
       "qualifyingElo": 1826,
-      "raceElo": 1768,
-      "globalElo": 1794
+      "raceElo": 1767,
+      "globalElo": 1793
     },
     "gurney": {
       "qualifyingElo": 1898,
-      "raceElo": 1684,
+      "raceElo": 1682,
       "globalElo": 1747
     },
     "surtees": {
       "qualifyingElo": 1837,
-      "raceElo": 1670,
+      "raceElo": 1672,
       "globalElo": 1721
     },
     "hill": {
       "qualifyingElo": 1879,
       "raceElo": 1578,
-      "globalElo": 1668
+      "globalElo": 1669
     },
     "jack_brabham": {
       "qualifyingElo": 1685,
-      "raceElo": 1675,
+      "raceElo": 1677,
       "globalElo": 1654
+    },
+    "siffert": {
+      "qualifyingElo": 1714,
+      "raceElo": 1526,
+      "globalElo": 1581
     },
     "stewart": {
       "qualifyingElo": 1604,
@@ -4174,13 +4179,8 @@
     },
     "ginther": {
       "qualifyingElo": 1611,
-      "raceElo": 1538,
-      "globalElo": 1556
-    },
-    "siffert": {
-      "qualifyingElo": 1714,
-      "raceElo": 1484,
-      "globalElo": 1553
+      "raceElo": 1539,
+      "globalElo": 1558
     },
     "ireland": {
       "qualifyingElo": 1509,
@@ -4229,8 +4229,8 @@
     },
     "gardner": {
       "qualifyingElo": 1446,
-      "raceElo": 1516,
-      "globalElo": 1495
+      "raceElo": 1518,
+      "globalElo": 1496
     },
     "geki": {
       "qualifyingElo": 1483,
@@ -4267,15 +4267,10 @@
       "raceElo": 1490,
       "globalElo": 1480
     },
-    "bonnier": {
-      "qualifyingElo": 1525,
-      "raceElo": 1458,
-      "globalElo": 1479
-    },
-    "anderson": {
-      "qualifyingElo": 1364,
-      "raceElo": 1527,
-      "globalElo": 1478
+    "bandini": {
+      "qualifyingElo": 1611,
+      "raceElo": 1419,
+      "globalElo": 1477
     },
     "vaccarella": {
       "qualifyingElo": 1491,
@@ -4287,19 +4282,24 @@
       "raceElo": 1463,
       "globalElo": 1477
     },
-    "bandini": {
-      "qualifyingElo": 1611,
-      "raceElo": 1419,
-      "globalElo": 1476
-    },
     "rodriguez": {
       "qualifyingElo": 1461,
       "raceElo": 1482,
       "globalElo": 1476
     },
+    "anderson": {
+      "qualifyingElo": 1364,
+      "raceElo": 1520,
+      "globalElo": 1474
+    },
     "raby": {
       "qualifyingElo": 1448,
-      "raceElo": 1483,
+      "raceElo": 1484,
+      "globalElo": 1473
+    },
+    "bonnier": {
+      "qualifyingElo": 1525,
+      "raceElo": 1448,
       "globalElo": 1472
     },
     "bucknum": {

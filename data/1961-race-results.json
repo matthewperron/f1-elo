@@ -4567,8 +4567,8 @@
     },
     "jack_brabham": {
       "qualifyingElo": 1798,
-      "raceElo": 1654,
-      "globalElo": 1674
+      "raceElo": 1649,
+      "globalElo": 1670
     },
     "gurney": {
       "qualifyingElo": 1650,
@@ -4577,8 +4577,8 @@
     },
     "mclaren": {
       "qualifyingElo": 1611,
-      "raceElo": 1582,
-      "globalElo": 1598
+      "raceElo": 1585,
+      "globalElo": 1601
     },
     "clark": {
       "qualifyingElo": 1642,
@@ -4593,27 +4593,27 @@
     "trips": {
       "qualifyingElo": 1560,
       "raceElo": 1582,
-      "globalElo": 1574
+      "globalElo": 1573
     },
     "salvadori": {
       "qualifyingElo": 1609,
-      "raceElo": 1551,
-      "globalElo": 1568
+      "raceElo": 1554,
+      "globalElo": 1570
     },
     "bonnier": {
       "qualifyingElo": 1649,
       "raceElo": 1520,
       "globalElo": 1562
     },
+    "surtees": {
+      "qualifyingElo": 1639,
+      "raceElo": 1521,
+      "globalElo": 1558
+    },
     "phil_hill": {
       "qualifyingElo": 1605,
       "raceElo": 1538,
-      "globalElo": 1558
-    },
-    "surtees": {
-      "qualifyingElo": 1639,
-      "raceElo": 1518,
-      "globalElo": 1556
+      "globalElo": 1557
     },
     "bandini": {
       "qualifyingElo": 1608,
@@ -4632,8 +4632,8 @@
     },
     "lewis": {
       "qualifyingElo": 1507,
-      "raceElo": 1513,
-      "globalElo": 1510
+      "raceElo": 1516,
+      "globalElo": 1512
     },
     "vaccarella": {
       "qualifyingElo": 1532,
@@ -4649,6 +4649,11 @@
       "qualifyingElo": 1501,
       "raceElo": 1505,
       "globalElo": 1503
+    },
+    "fairman": {
+      "qualifyingElo": 1465,
+      "raceElo": 1514,
+      "globalElo": 1501
     },
     "ryan": {
       "qualifyingElo": 1506,
@@ -4675,11 +4680,6 @@
       "raceElo": 1500,
       "globalElo": 1496
     },
-    "fairman": {
-      "qualifyingElo": 1465,
-      "raceElo": 1505,
-      "globalElo": 1496
-    },
     "boffa": {
       "qualifyingElo": 1484,
       "raceElo": 1500,
@@ -4687,11 +4687,6 @@
     },
     "bordeu": {
       "qualifyingElo": 1477,
-      "raceElo": 1500,
-      "globalElo": 1493
-    },
-    "collomb": {
-      "qualifyingElo": 1476,
       "raceElo": 1500,
       "globalElo": 1493
     },
@@ -4739,6 +4734,11 @@
       "qualifyingElo": 1497,
       "raceElo": 1484,
       "globalElo": 1488
+    },
+    "collomb": {
+      "qualifyingElo": 1476,
+      "raceElo": 1490,
+      "globalElo": 1486
     },
     "ruby": {
       "qualifyingElo": 1461,
@@ -4810,15 +4810,15 @@
       "raceElo": 1480,
       "globalElo": 1464
     },
+    "burgess": {
+      "qualifyingElo": 1429,
+      "raceElo": 1476,
+      "globalElo": 1462
+    },
     "seidel": {
       "qualifyingElo": 1449,
       "raceElo": 1465,
       "globalElo": 1462
-    },
-    "burgess": {
-      "qualifyingElo": 1429,
-      "raceElo": 1473,
-      "globalElo": 1460
     },
     "mairesse": {
       "qualifyingElo": 1455,

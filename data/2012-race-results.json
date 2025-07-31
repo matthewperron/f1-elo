@@ -12555,7 +12555,7 @@
     "alonso": {
       "qualifyingElo": 1947,
       "raceElo": 1925,
-      "globalElo": 1932
+      "globalElo": 1933
     },
     "raikkonen": {
       "qualifyingElo": 1799,
@@ -12564,8 +12564,8 @@
     },
     "hamilton": {
       "qualifyingElo": 1866,
-      "raceElo": 1734,
-      "globalElo": 1777
+      "raceElo": 1735,
+      "globalElo": 1778
     },
     "michael_schumacher": {
       "qualifyingElo": 1750,
@@ -12585,7 +12585,7 @@
     "button": {
       "qualifyingElo": 1611,
       "raceElo": 1678,
-      "globalElo": 1657
+      "globalElo": 1656
     },
     "petrov": {
       "qualifyingElo": 1671,
@@ -12605,7 +12605,7 @@
     "massa": {
       "qualifyingElo": 1668,
       "raceElo": 1559,
-      "globalElo": 1592
+      "globalElo": 1593
     },
     "glock": {
       "qualifyingElo": 1661,
@@ -12635,12 +12635,12 @@
     "kobayashi": {
       "qualifyingElo": 1465,
       "raceElo": 1599,
-      "globalElo": 1559
+      "globalElo": 1560
     },
     "rosa": {
       "qualifyingElo": 1495,
       "raceElo": 1525,
-      "globalElo": 1515
+      "globalElo": 1514
     },
     "ambrosio": {
       "qualifyingElo": 1484,
@@ -12674,7 +12674,7 @@
     },
     "karthikeyan": {
       "qualifyingElo": 1306,
-      "raceElo": 1275,
+      "raceElo": 1276,
       "globalElo": 1286
     }
   }

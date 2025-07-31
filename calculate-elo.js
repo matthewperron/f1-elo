@@ -66,7 +66,7 @@ const COUNTRY_FLAGS = {
     'Venezuela': { url: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg', alt: 'Venezuela', emoji: '🇻🇪' }
 };
 
-const VALID_STATUSES = ['Finished', '+1 Lap', '+2 Laps', '+3 Laps', '+4 Laps', '+5 Laps', '+6 Laps', 'Lapped', 'Accident', 'Collision', 'Spun off'];
+const VALID_STATUSES = ['Finished', '+1 Lap', '+2 Laps', '+3 Laps', '+4 Laps', '+5 Laps', '+6 Laps', 'Lapped', 'Accident', 'Collision', 'Spun off', 'Not classified'];
 
 /**
  * Get country flag image for a driver with emoji fallback
@@ -666,7 +666,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     content += `📊 **[View Complete F1 ${season} Season Results](https://www.formula1.com/en/results.html/${season}/races.html)** | **[Wikipedia ${season} F1 Season](https://en.wikipedia.org/wiki/${season}_Formula_One_World_Championship)**\n\n`;
     
     // Final ELO Table
-    content += `## Final ELO Ratings\n\n`;
+    content += `## Final Elo Ratings\n\n`;
     content += `📊 **[View Complete F1 ${season} Season Results](https://www.formula1.com/en/results.html/${season}/races.html)**\n\n`;
     content += generateSeasonReportELOTable(driverRatings); // Generate table for season report
     

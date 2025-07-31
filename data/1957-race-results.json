@@ -3441,12 +3441,12 @@
     "castellotti": {
       "qualifyingElo": 1693,
       "raceElo": 1586,
-      "globalElo": 1628
+      "globalElo": 1627
     },
     "hawthorn": {
       "qualifyingElo": 1586,
-      "raceElo": 1570,
-      "globalElo": 1619
+      "raceElo": 1568,
+      "globalElo": 1613
     },
     "gonzalez": {
       "qualifyingElo": 1696,
@@ -3740,7 +3740,7 @@
     },
     "collins": {
       "qualifyingElo": 1615,
-      "raceElo": 1508,
+      "raceElo": 1507,
       "globalElo": 1476
     },
     "daywalt": {
@@ -3753,6 +3753,11 @@
       "raceElo": 1483,
       "globalElo": 1472
     },
+    "fairman": {
+      "qualifyingElo": 1417,
+      "raceElo": 1493,
+      "globalElo": 1471
+    },
     "weyant": {
       "qualifyingElo": 1453,
       "raceElo": 1474,
@@ -3760,11 +3765,6 @@
     },
     "piotti": {
       "qualifyingElo": 1420,
-      "raceElo": 1483,
-      "globalElo": 1464
-    },
-    "fairman": {
-      "qualifyingElo": 1417,
       "raceElo": 1483,
       "globalElo": 1464
     },

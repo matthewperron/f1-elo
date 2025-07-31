@@ -124,5 +124,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | Brabham-Repco | Q: 17<br/>R: DNF | 1491 **<span style="color: red;">▼ -34</span>** | N/A | 1498 **<span style="color: red;">▼ -10</span>** | [Peter de Klerk](peter-de-klerk)<br/>Q: 16<br/>R: DNF |
+| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | Brabham-Repco | Q: 17<br/>R: DNF | 1491 **<span style="color: red;">▼ -34</span>** | N/A | 1498 **<span style="color: red;">▼ -10</span>** | [Peter de Klerk](peter-de-klerk)<br/>Q: 16<br/>R: 9 |
 

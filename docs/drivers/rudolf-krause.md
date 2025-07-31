@@ -83,7 +83,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Ernst Klodwig](ernst-klodwig) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +32</span>****
+- **Races vs [Ernst Klodwig](ernst-klodwig) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +32</span>**
 - **Qualifying vs [Ernst Klodwig](ernst-klodwig) (1462)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +28</span>**
 
 #### DNF Statistics

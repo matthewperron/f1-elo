@@ -9683,12 +9683,12 @@
     "massa": {
       "qualifyingElo": 1897,
       "raceElo": 1740,
-      "globalElo": 1787
+      "globalElo": 1788
     },
     "alonso": {
       "qualifyingElo": 1763,
       "raceElo": 1775,
-      "globalElo": 1772
+      "globalElo": 1773
     },
     "webber": {
       "qualifyingElo": 1773,
@@ -9698,7 +9698,7 @@
     "barrichello": {
       "qualifyingElo": 1913,
       "raceElo": 1632,
-      "globalElo": 1719
+      "globalElo": 1718
     },
     "hamilton": {
       "qualifyingElo": 1779,
@@ -9707,7 +9707,7 @@
     },
     "button": {
       "qualifyingElo": 1780,
-      "raceElo": 1677,
+      "raceElo": 1678,
       "globalElo": 1707
     },
     "vettel": {
@@ -9723,7 +9723,7 @@
     "heidfeld": {
       "qualifyingElo": 1574,
       "raceElo": 1632,
-      "globalElo": 1614
+      "globalElo": 1618
     },
     "rosberg": {
       "qualifyingElo": 1673,
@@ -9740,6 +9740,11 @@
       "raceElo": 1574,
       "globalElo": 1569
     },
+    "trulli": {
+      "qualifyingElo": 1696,
+      "raceElo": 1498,
+      "globalElo": 1560
+    },
     "kovalainen": {
       "qualifyingElo": 1535,
       "raceElo": 1568,
@@ -9749,11 +9754,6 @@
       "qualifyingElo": 1655,
       "raceElo": 1516,
       "globalElo": 1559
-    },
-    "trulli": {
-      "qualifyingElo": 1696,
-      "raceElo": 1497,
-      "globalElo": 1555
     },
     "davidson": {
       "qualifyingElo": 1588,

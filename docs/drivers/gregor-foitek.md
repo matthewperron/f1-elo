@@ -25,16 +25,16 @@
 🏆 **Peak Race Elo**: 1471
    *[1990 Round 1 – United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix)*
 
-📉 **Lowest Race Elo**: 1471
-   *[1990 Round 1 – United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix)*
+📉 **Lowest Race Elo**: 1441
+   *[1990 Round 9 – German Grand Prix](../seasons/1990-season-report#round-9-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1502
    *[1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)*
 
-📉 **Lowest Global Elo**: 1470
-   *[1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix)*
+📉 **Lowest Global Elo**: 1468
+   *[1990 Round 9 – German Grand Prix](../seasons/1990-season-report#round-9-german-grand-prix)*
 
 
 ## Complete Career Results by Season
@@ -47,14 +47,14 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1471 **<span style="color: red;">▼ -29</span>** | 1526 **<span style="color: green;">▲ +26</span>** | 1488 **<span style="color: red;">▼ -12</span>** |
+| 1441 **<span style="color: red;">▼ -59</span>** | 1526 **<span style="color: green;">▲ +26</span>** | 1468 **<span style="color: red;">▼ -32</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) (1563)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -29</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) (1557)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼ -29</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) (1691)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -34</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (N/A)**: 0 wins (0.0%) • 1 losses (33.3%) • 2 DNFs (66.7%) • **Elo <span style="color: red;">▼ -29</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (N/A)**: 4 wins (80.0%) • 1 losses (20.0%) • **Elo <span style="color: green;">▲ +61</span>**
 
 #### DNF Statistics
@@ -71,5 +71,5 @@
 | [Round 4: Monaco Grand Prix](../seasons/1990-season-report#round-4-monaco-grand-prix) | Brabham | Q: 20<br/>R: 7 | 1530 **<span style="color: green;">▲ +29</span>** | N/A | 1489 **<span style="color: green;">▲ +9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto)<br/>Q: N/A<br/>R: N/A |
 | [Round 5: Canadian Grand Prix](../seasons/1990-season-report#round-5-canadian-grand-prix) | Brabham | Q: 21<br/>R: DNF | 1553 **<span style="color: green;">▲ +24</span>** | N/A | 1496 **<span style="color: green;">▲ +7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto)<br/>Q: N/A<br/>R: N/A |
 | [Round 6: Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix) | Brabham | Q: 23<br/>R: 15 | 1573 **<span style="color: green;">▲ +20</span>** | N/A | 1502 **<span style="color: green;">▲ +6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto)<br/>Q: N/A<br/>R: N/A |
-| [Round 9: German Grand Prix](../seasons/1990-season-report#round-9-german-grand-prix) | Brabham | Q: 26<br/>R: 18 | 1526 **<span style="color: red;">▼ -47</span>** | N/A | 1488 **<span style="color: red;">▼ -14</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto)<br/>Q: N/A<br/>R: N/A |
+| [Round 9: German Grand Prix](../seasons/1990-season-report#round-9-german-grand-prix) | Brabham | Q: 26<br/>R: 18 | 1526 **<span style="color: red;">▼ -47</span>** | 1441 **<span style="color: red;">▼ -29</span>** | 1468 **<span style="color: red;">▼ -34</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto)<br/>Q: N/A<br/>R: N/A |
 

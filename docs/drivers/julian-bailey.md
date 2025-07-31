@@ -26,7 +26,7 @@
 🏆 **Peak Race Elo**: 1476
    *[1988 Round 5 – Canadian Grand Prix](../seasons/1988-season-report#round-5-canadian-grand-prix)*
 
-📉 **Lowest Race Elo**: 1413
+📉 **Lowest Race Elo**: 1412
    *[1991 Round 3 – San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix)*
 
 ### 🌟 Global Performance
@@ -48,11 +48,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1439 **<span style="color: red;">▼ -61</span>** | 1443 **<span style="color: red;">▼ -57</span>** | 1441 **<span style="color: red;">▼ -59</span>** |
+| 1438 **<span style="color: red;">▼ -62</span>** | 1443 **<span style="color: red;">▼ -57</span>** | 1441 **<span style="color: red;">▼ -59</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jonathan Palmer](jonathan-palmer) (1651)**: 0 wins (0.0%) • 3 losses (75.0%) • 1 DNFs (25.0%) • **Elo **<span style="color: red;">▼ -61</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jonathan Palmer](jonathan-palmer) (1647)**: 0 wins (0.0%) • 3 losses (75.0%) • 1 DNFs (25.0%) • **Elo <span style="color: red;">▼ -61</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jonathan Palmer](jonathan-palmer) (1642)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo <span style="color: red;">▼ -56</span>**
 
 #### DNF Statistics
@@ -65,9 +65,9 @@
 |------|-------------|-----------|----------------|----------|------------|----------|
 | [Round 2: San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix) | Tyrrell | Q: 21<br/>R: DNF | 1540 **<span style="color: green;">▲ +40</span>** | N/A | 1512 **<span style="color: green;">▲ +12</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jonathan Palmer](jonathan-palmer)<br/>Q: 23<br/>R: 14 |
 | [Round 5: Canadian Grand Prix](../seasons/1988-season-report#round-5-canadian-grand-prix) | Tyrrell | Q: 23<br/>R: 26 | 1508 **<span style="color: red;">▼ -31</span>** | 1476 **<span style="color: red;">▼ -24</span>** | 1486 **<span style="color: red;">▼ -26</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jonathan Palmer](jonathan-palmer)<br/>Q: 19<br/>R: 6 |
-| [Round 6: Detroit Grand Prix](../seasons/1988-season-report#round-6-detroit-grand-prix) | Tyrrell | Q: 22<br/>R: 9 | 1482 **<span style="color: red;">▼ -26</span>** | 1456 **<span style="color: red;">▼ -20</span>** | 1464 **<span style="color: red;">▼ -22</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jonathan Palmer](jonathan-palmer)<br/>Q: 17<br/>R: 5 |
+| [Round 6: Detroit Grand Prix](../seasons/1988-season-report#round-6-detroit-grand-prix) | Tyrrell | Q: 22<br/>R: 9 | 1482 **<span style="color: red;">▼ -26</span>** | 1455 **<span style="color: red;">▼ -20</span>** | 1464 **<span style="color: red;">▼ -22</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jonathan Palmer](jonathan-palmer)<br/>Q: 17<br/>R: 5 |
 | [Round 8: British Grand Prix](../seasons/1988-season-report#round-8-british-grand-prix) | Tyrrell | Q: 24<br/>R: 16 | 1461 **<span style="color: red;">▼ -21</span>** | N/A | 1458 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jonathan Palmer](jonathan-palmer)<br/>Q: 17<br/>R: DNF |
-| [Round 15: Japanese Grand Prix](../seasons/1988-season-report#round-15-japanese-grand-prix) | Tyrrell | Q: 26<br/>R: 14 | 1443 **<span style="color: red;">▼ -18</span>** | 1439 **<span style="color: red;">▼ -17</span>** | 1441 **<span style="color: red;">▼ -17</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jonathan Palmer](jonathan-palmer)<br/>Q: 16<br/>R: 12 |
+| [Round 15: Japanese Grand Prix](../seasons/1988-season-report#round-15-japanese-grand-prix) | Tyrrell | Q: 26<br/>R: 14 | 1443 **<span style="color: red;">▼ -18</span>** | 1438 **<span style="color: red;">▼ -17</span>** | 1441 **<span style="color: red;">▼ -17</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jonathan Palmer](jonathan-palmer)<br/>Q: 16<br/>R: 12 |
 
 ### 1991 Season
 
@@ -77,11 +77,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1413 **<span style="color: red;">▼ -26</span>** | 1416 **<span style="color: red;">▼ -27</span>** | 1415 **<span style="color: red;">▼ -26</span>** |
+| 1412 **<span style="color: red;">▼ -26</span>** | 1416 **<span style="color: red;">▼ -27</span>** | 1415 **<span style="color: red;">▼ -26</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](mika-hkkinen) (1526)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -26</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](mika-hkkinen) (1526)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -26</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](mika-hkkinen) (1527)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -27</span>**
 
 #### DNF Statistics
@@ -92,5 +92,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix) | Team Lotus | Q: 26<br/>R: 6 | 1416 **<span style="color: red;">▼ -27</span>** | 1413 **<span style="color: red;">▼ -26</span>** | 1415 **<span style="color: red;">▼ -26</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](mika-hkkinen)<br/>Q: 25<br/>R: 5 |
+| [Round 3: San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix) | Team Lotus | Q: 26<br/>R: 6 | 1416 **<span style="color: red;">▼ -27</span>** | 1412 **<span style="color: red;">▼ -26</span>** | 1415 **<span style="color: red;">▼ -26</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](mika-hkkinen)<br/>Q: 25<br/>R: 5 |
 

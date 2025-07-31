@@ -22,15 +22,15 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1516
+🏆 **Peak Race Elo**: 1518
    *[1965 Round 5 – British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
 
-📉 **Lowest Race Elo**: 1516
+📉 **Lowest Race Elo**: 1518
    *[1965 Round 5 – British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
 
 ### 🌟 Global Performance
 
-🏆 **Peak Global Elo**: 1508
+🏆 **Peak Global Elo**: 1510
    *[1965 Round 5 – British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1484
@@ -47,14 +47,14 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1516 **<span style="color: green;">▲ +16</span>** | 1446 **<span style="color: red;">▼ -54</span>** | 1495 **<span style="color: red;">▼ -5</span>** |
+| 1518 **<span style="color: green;">▲ +18</span>** | 1446 **<span style="color: red;">▼ -54</span>** | 1496 **<span style="color: red;">▼ -4</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1484)**: 1 wins (16.7%) • 0 losses (0.0%) • 5 DNFs (83.3%) • **Elo **<span style="color: green;">▲ +16</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1526)**: 1 wins (16.7%) • 0 losses (0.0%) • 5 DNFs (83.3%) • **Elo <span style="color: green;">▲ +18</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1714)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo <span style="color: red;">▼ -70</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ian Raby](ian-raby) (1483)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ian Raby](ian-raby) (1484)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ian Raby](ian-raby) (1455)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +16</span>**
 
 #### DNF Statistics
@@ -68,8 +68,8 @@
 | [Round 1: South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix) | Brabham-BRM | Q: 15<br/>R: DNF | 1480 **<span style="color: red;">▼ -20</span>** | N/A | 1494 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 14<br/>R: 7 |
 | [Round 2: Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix) | Brabham-BRM | Q: 11<br/>R: DNF | 1463 **<span style="color: red;">▼ -17</span>** | N/A | 1489 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 10<br/>R: 6 |
 | [Round 3: Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix) | Brabham-BRM | Q: 19<br/>R: DNF | 1448 **<span style="color: red;">▼ -15</span>** | N/A | 1484 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 8<br/>R: 8 |
-| [Round 5: British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix) | Brabham-BRM | Q: 13<br/>R: 8 | 1490 **<span style="color: green;">▲ +16</span>** | N/A | 1508 **<span style="color: green;">▲ +5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 18<br/>R: 9 |
-| [Round 6: Dutch Grand Prix](../seasons/1965-season-report#round-6-dutch-grand-prix) | Brabham-BRM | Q: 11<br/>R: 11 | 1473 **<span style="color: red;">▼ -17</span>** | N/A | 1503 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 10<br/>R: DNF |
-| [Round 7: German Grand Prix](../seasons/1965-season-report#round-7-german-grand-prix) | Brabham-BRM | Q: 18<br/>R: DNF | 1458 **<span style="color: red;">▼ -14</span>** | N/A | 1499 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 11<br/>R: DNF |
-| [Round 8: Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix) | Brabham-BRM | Q: 16<br/>R: DNF | 1446 **<span style="color: red;">▼ -13</span>** | N/A | 1495 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 10<br/>R: DNF |
+| [Round 5: British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix) | Brabham-BRM | Q: 13<br/>R: 8 | 1490 **<span style="color: green;">▲ +16</span>** | N/A | 1510 **<span style="color: green;">▲ +5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 18<br/>R: 9 |
+| [Round 6: Dutch Grand Prix](../seasons/1965-season-report#round-6-dutch-grand-prix) | Brabham-BRM | Q: 11<br/>R: 11 | 1473 **<span style="color: red;">▼ -17</span>** | N/A | 1505 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 10<br/>R: DNF |
+| [Round 7: German Grand Prix](../seasons/1965-season-report#round-7-german-grand-prix) | Brabham-BRM | Q: 18<br/>R: DNF | 1458 **<span style="color: red;">▼ -14</span>** | N/A | 1500 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 11<br/>R: DNF |
+| [Round 8: Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix) | Brabham-BRM | Q: 16<br/>R: DNF | 1446 **<span style="color: red;">▼ -13</span>** | N/A | 1496 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: 10<br/>R: DNF |
 

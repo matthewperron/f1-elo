@@ -35,8 +35,8 @@
 🏆 **Peak Global Elo**: 1503
    *[1979 Round 14 – Canadian Grand Prix](../seasons/1979-season-report#round-14-canadian-grand-prix)*
 
-📉 **Lowest Global Elo**: 1411
-   *[1981 Round 3 – Argentine Grand Prix](../seasons/1981-season-report#round-3-argentine-grand-prix)*
+📉 **Lowest Global Elo**: 1424
+   *[1980 Round 7 – French Grand Prix](../seasons/1980-season-report#round-7-french-grand-prix)*
 
 
 ## Complete Career Results by Season
@@ -82,7 +82,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1625)**: 0 wins (0.0%) • 3 losses (60.0%) • 2 DNFs (40.0%) • **Elo **<span style="color: red;">▼ -68</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1627)**: 0 wins (0.0%) • 3 losses (60.0%) • 2 DNFs (40.0%) • **Elo <span style="color: red;">▼ -67</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1716)**: 0 wins (0.0%) • 6 losses (100.0%) • **Elo <span style="color: red;">▼ -83</span>**
 
 #### DNF Statistics
@@ -95,8 +95,8 @@
 |------|-------------|-----------|----------------|----------|------------|----------|
 | [Round 1: Argentine Grand Prix](../seasons/1980-season-report#round-1-argentine-grand-prix) | Brabham | Q: 16<br/>R: 7 | 1467 **<span style="color: red;">▼ -19</span>** | 1473 **<span style="color: red;">▼ -27</span>** | 1471 **<span style="color: red;">▼ -25</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)<br/>Q: 4<br/>R: 2 |
 | [Round 2: Brazilian Grand Prix](../seasons/1980-season-report#round-2-brazilian-grand-prix) | Brabham | Q: 18<br/>R: 8 | 1450 **<span style="color: red;">▼ -16</span>** | N/A | 1467 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)<br/>Q: 9<br/>R: DNF |
-| [Round 3: South African Grand Prix](../seasons/1980-season-report#round-3-south-african-grand-prix) | Brabham | Q: 17<br/>R: 10 | 1436 **<span style="color: red;">▼ -14</span>** | 1451 **<span style="color: red;">▼ -22</span>** | 1447 **<span style="color: red;">▼ -20</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)<br/>Q: 3<br/>R: 4 |
-| [Round 4: United States Grand Prix West](../seasons/1980-season-report#round-4-united-states-grand-prix-west) | Brabham | Q: 18<br/>R: 24 | 1424 **<span style="color: red;">▼ -13</span>** | 1433 **<span style="color: red;">▼ -19</span>** | 1430 **<span style="color: red;">▼ -17</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)<br/>Q: 1<br/>R: 1 |
+| [Round 3: South African Grand Prix](../seasons/1980-season-report#round-3-south-african-grand-prix) | Brabham | Q: 17<br/>R: 10 | 1436 **<span style="color: red;">▼ -14</span>** | 1452 **<span style="color: red;">▼ -22</span>** | 1447 **<span style="color: red;">▼ -20</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)<br/>Q: 3<br/>R: 4 |
+| [Round 4: United States Grand Prix West](../seasons/1980-season-report#round-4-united-states-grand-prix-west) | Brabham | Q: 18<br/>R: 24 | 1424 **<span style="color: red;">▼ -13</span>** | 1433 **<span style="color: red;">▼ -18</span>** | 1431 **<span style="color: red;">▼ -16</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)<br/>Q: 1<br/>R: 1 |
 | [Round 5: Belgian Grand Prix](../seasons/1980-season-report#round-5-belgian-grand-prix) | Brabham | Q: 22<br/>R: DNF | 1412 **<span style="color: red;">▼ -11</span>** | N/A | 1427 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)<br/>Q: 7<br/>R: 17 |
 | [Round 7: French Grand Prix](../seasons/1980-season-report#round-7-french-grand-prix) | Brabham | Q: 22<br/>R: DNF | 1402 **<span style="color: red;">▼ -10</span>** | N/A | 1424 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)<br/>Q: 8<br/>R: 4 |
 
@@ -108,11 +108,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1433 ↔ 0 | 1359 **<span style="color: red;">▼ -43</span>** | 1411 **<span style="color: red;">▼ -13</span>** |
+| 1471 **<span style="color: green;">▲ +38</span>** | 1359 **<span style="color: red;">▼ -43</span>** | 1438 **<span style="color: green;">▲ +14</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever) (1462)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +38</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever) (1543)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -42</span>**
 
 #### DNF Statistics
@@ -123,6 +123,6 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) | Tyrrell | Q: 24<br/>R: 13 | 1379 **<span style="color: red;">▼ -23</span>** | N/A | 1417 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever)<br/>Q: 14<br/>R: DNF |
-| [Round 3: Argentine Grand Prix](../seasons/1981-season-report#round-3-argentine-grand-prix) | Tyrrell | Q: 24<br/>R: 13 | 1359 **<span style="color: red;">▼ -19</span>** | N/A | 1411 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever)<br/>Q: 13<br/>R: DNF |
+| [Round 2: Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) | Tyrrell | Q: 24<br/>R: 13 | 1379 **<span style="color: red;">▼ -23</span>** | 1471 **<span style="color: green;">▲ +38</span>** | 1444 **<span style="color: green;">▲ +20</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever)<br/>Q: 14<br/>R: 14 |
+| [Round 3: Argentine Grand Prix](../seasons/1981-season-report#round-3-argentine-grand-prix) | Tyrrell | Q: 24<br/>R: 13 | 1359 **<span style="color: red;">▼ -19</span>** | N/A | 1438 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever)<br/>Q: 13<br/>R: DNF |
 

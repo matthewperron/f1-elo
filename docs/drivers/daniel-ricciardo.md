@@ -64,10 +64,10 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1407)**: 4 wins (50.0%) • 1 losses (12.5%) • 3 DNFs (37.5%) • **Elo **<span style="color: green;">▲ +79</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1407)**: 4 wins (50.0%) • 1 losses (12.5%) • 3 DNFs (37.5%) • **Elo <span style="color: green;">▲ +79</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1518)**: 5 wins (50.0%) • 5 losses (50.0%) • **Elo <span style="color: green;">▲ +9</span>**
 
-- **Races vs [Narain Karthikeyan](narain-karthikeyan) (1391)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -51</span>****
+- **Races vs [Narain Karthikeyan](narain-karthikeyan) (1391)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -51</span>**
 - **Qualifying vs [Narain Karthikeyan](narain-karthikeyan) (1353)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +19</span>**
 
 #### DNF Statistics
@@ -102,7 +102,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Éric Vergne](jean-ric-vergne) (1477)**: 10 wins (55.6%) • 7 losses (38.9%) • 1 DNFs (5.6%) • **Elo **<span style="color: green;">▲ +22</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Éric Vergne](jean-ric-vergne) (1477)**: 10 wins (55.6%) • 7 losses (38.9%) • 1 DNFs (5.6%) • **Elo <span style="color: green;">▲ +22</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Éric Vergne](jean-ric-vergne) (1444)**: 15 wins (75.0%) • 5 losses (25.0%) • **Elo <span style="color: green;">▲ +57</span>**
 
 #### DNF Statistics
@@ -146,7 +146,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Éric Vergne](jean-ric-vergne) (1451)**: 7 wins (46.7%) • 6 losses (40.0%) • 2 DNFs (13.3%) • **Elo **<span style="color: green;">▲ +24</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Éric Vergne](jean-ric-vergne) (1451)**: 7 wins (46.7%) • 6 losses (40.0%) • 2 DNFs (13.3%) • **Elo <span style="color: green;">▲ +24</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Éric Vergne](jean-ric-vergne) (1351)**: 15 wins (78.9%) • 4 losses (21.1%) • **Elo <span style="color: green;">▲ +93</span>**
 
 #### DNF Statistics
@@ -189,7 +189,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1657)**: 11 wins (64.7%) • 3 losses (17.6%) • 3 DNFs (17.6%) • **Elo **<span style="color: green;">▲ +239</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1657)**: 11 wins (64.7%) • 3 losses (17.6%) • 3 DNFs (17.6%) • **Elo <span style="color: green;">▲ +239</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1763)**: 10 wins (52.6%) • 9 losses (47.4%) • **Elo <span style="color: green;">▲ +58</span>**
 
 #### DNF Statistics
@@ -232,7 +232,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Daniil Kvyat](daniil-kvyat) (1617)**: 7 wins (41.2%) • 7 losses (41.2%) • 3 DNFs (17.6%) • **Elo **<span style="color: red;">▼ -166</span>****
+- **Races vs [Daniil Kvyat](daniil-kvyat) (1617)**: 7 wins (41.2%) • 7 losses (41.2%) • 3 DNFs (17.6%) • **Elo <span style="color: red;">▼ -166</span>**
 - **Qualifying vs [Daniil Kvyat](daniil-kvyat) (1553)**: 12 wins (63.2%) • 7 losses (36.8%) • **Elo <span style="color: red;">▼ -99</span>**
 
 #### DNF Statistics
@@ -275,10 +275,10 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Daniil Kvyat](daniil-kvyat) (1597)**: 2 wins (66.7%) • 1 losses (33.3%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +20</span>****
+- **Races vs [Daniil Kvyat](daniil-kvyat) (1597)**: 2 wins (66.7%) • 1 losses (33.3%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +20</span>**
 - **Qualifying vs [Daniil Kvyat](daniil-kvyat) (1477)**: 4 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +76</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 9 wins (56.3%) • 7 losses (43.8%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -76</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 9 wins (56.3%) • 7 losses (43.8%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -76</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 11 wins (64.7%) • 6 losses (35.3%) • **Elo <span style="color: red;">▼ -68</span>**
 
 #### DNF Statistics
@@ -323,7 +323,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1647)**: 5 wins (31.3%) • 6 losses (37.5%) • 5 DNFs (31.3%) • **Elo **<span style="color: red;">▼ -54</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1647)**: 5 wins (31.3%) • 6 losses (37.5%) • 5 DNFs (31.3%) • **Elo <span style="color: red;">▼ -54</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1675)**: 7 wins (35.0%) • 13 losses (65.0%) • **Elo <span style="color: red;">▼ -47</span>**
 
 #### DNF Statistics
@@ -367,7 +367,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1734)**: 3 wins (15.8%) • 9 losses (47.4%) • 7 DNFs (36.8%) • **Elo **<span style="color: red;">▼ -85</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1734)**: 3 wins (15.8%) • 9 losses (47.4%) • 7 DNFs (36.8%) • **Elo <span style="color: red;">▼ -85</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1649)**: 7 wins (33.3%) • 14 losses (66.7%) • **Elo <span style="color: green;">▲ +25</span>**
 
 #### DNF Statistics
@@ -412,7 +412,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) (1426)**: 10 wins (50.0%) • 6 losses (30.0%) • 4 DNFs (20.0%) • **Elo **<span style="color: green;">▲ +125</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) (1426)**: 10 wins (50.0%) • 6 losses (30.0%) • 4 DNFs (20.0%) • **Elo <span style="color: green;">▲ +125</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) (1636)**: 14 wins (66.7%) • 7 losses (33.3%) • **Elo <span style="color: green;">▲ +103</span>**
 
 #### DNF Statistics
@@ -457,7 +457,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1515)**: 9 wins (69.2%) • 3 losses (23.1%) • 1 DNFs (7.7%) • **Elo **<span style="color: green;">▲ +76</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1515)**: 9 wins (69.2%) • 3 losses (23.1%) • 1 DNFs (7.7%) • **Elo <span style="color: green;">▲ +76</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1517)**: 15 wins (88.2%) • 2 losses (11.8%) • **Elo <span style="color: green;">▲ +79</span>**
 
 #### DNF Statistics
@@ -498,7 +498,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1637)**: 7 wins (31.8%) • 14 losses (63.6%) • 1 DNFs (4.5%) • **Elo **<span style="color: red;">▼ -94</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1637)**: 7 wins (31.8%) • 14 losses (63.6%) • 1 DNFs (4.5%) • **Elo <span style="color: red;">▼ -94</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1785)**: 8 wins (36.4%) • 14 losses (63.6%) • **Elo <span style="color: red;">▼ -195</span>**
 
 #### DNF Statistics
@@ -544,7 +544,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1717)**: 5 wins (23.8%) • 14 losses (66.7%) • 2 DNFs (9.5%) • **Elo **<span style="color: red;">▼ -78</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1717)**: 5 wins (23.8%) • 14 losses (66.7%) • 2 DNFs (9.5%) • **Elo <span style="color: red;">▼ -78</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1878)**: 3 wins (13.6%) • 19 losses (86.4%) • **Elo <span style="color: red;">▼ -92</span>**
 
 #### DNF Statistics
@@ -590,7 +590,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1541)**: 3 wins (42.9%) • 4 losses (57.1%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -6</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1541)**: 3 wins (42.9%) • 4 losses (57.1%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -6</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1607)**: 3 wins (42.9%) • 4 losses (57.1%) • **Elo <span style="color: green;">▲ +3</span>**
 
 #### DNF Statistics
@@ -621,7 +621,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1520)**: 6 wins (37.5%) • 8 losses (50.0%) • 2 DNFs (12.5%) • **Elo **<span style="color: green;">▲ +21</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1520)**: 6 wins (37.5%) • 8 losses (50.0%) • 2 DNFs (12.5%) • **Elo <span style="color: green;">▲ +21</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1615)**: 6 wins (33.3%) • 12 losses (66.7%) • **Elo <span style="color: red;">▼ -8</span>**
 
 #### DNF Statistics

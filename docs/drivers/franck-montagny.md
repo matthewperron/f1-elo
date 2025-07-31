@@ -51,7 +51,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1414)**: 0 wins (0.0%) • 2 losses (40.0%) • 3 DNFs (60.0%) • **Elo **<span style="color: red;">▼ -86</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1414)**: 0 wins (0.0%) • 2 losses (40.0%) • 3 DNFs (60.0%) • **Elo <span style="color: red;">▼ -86</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1620)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo <span style="color: red;">▼ -54</span>**
 
 #### DNF Statistics

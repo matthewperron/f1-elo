@@ -23,10 +23,10 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1483
+🏆 **Peak Race Elo**: 1484
    *[1964 Round 5 – British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
 
-📉 **Lowest Race Elo**: 1483
+📉 **Lowest Race Elo**: 1484
    *[1964 Round 5 – British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
 
 ### 🌟 Global Performance
@@ -34,7 +34,7 @@
 🏆 **Peak Global Elo**: 1484
    *[1964 Round 5 – British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
 
-📉 **Lowest Global Elo**: 1472
+📉 **Lowest Global Elo**: 1473
    *[1965 Round 5 – British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
 
 
@@ -48,11 +48,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1483 **<span style="color: red;">▼ -17</span>** | 1471 **<span style="color: red;">▼ -29</span>** | 1479 **<span style="color: red;">▼ -21</span>** |
+| 1484 **<span style="color: red;">▼ -16</span>** | 1471 **<span style="color: red;">▼ -29</span>** | 1480 **<span style="color: red;">▼ -20</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -17</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -16</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -15</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
@@ -66,7 +66,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 5: British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix) | Brabham-BRM | Q: 23<br/>R: 18 | 1471 **<span style="color: red;">▼ -14</span>** | N/A | 1479 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: N/A<br/>R: N/A |
+| [Round 5: British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix) | Brabham-BRM | Q: 23<br/>R: 18 | 1471 **<span style="color: red;">▼ -14</span>** | N/A | 1480 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/>Q: N/A<br/>R: N/A |
 
 ### 1965 Season
 
@@ -76,14 +76,14 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1483 ↔ 0 | 1448 **<span style="color: red;">▼ -23</span>** | 1472 **<span style="color: red;">▼ -7</span>** |
+| 1484 ↔ 0 | 1448 **<span style="color: red;">▼ -23</span>** | 1473 **<span style="color: red;">▼ -7</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Frank Gardner](frank-gardner) (1516)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Frank Gardner](frank-gardner) (1518)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Frank Gardner](frank-gardner) (1474)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -16</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1484)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1526)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1662)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -7</span>**
 
 #### DNF Statistics
@@ -94,5 +94,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 5: British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix) | Brabham-BRM | Q: 20<br/>R: DNF | 1448 **<span style="color: red;">▼ -7</span>** | N/A | 1472 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Frank Gardner](frank-gardner)<br/>Q: 13<br/>R: 8 |
+| [Round 5: British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix) | Brabham-BRM | Q: 20<br/>R: DNF | 1448 **<span style="color: red;">▼ -7</span>** | N/A | 1473 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Frank Gardner](frank-gardner)<br/>Q: 13<br/>R: 8 |
 

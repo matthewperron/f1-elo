@@ -9849,13 +9849,13 @@
     },
     "button": {
       "qualifyingElo": 1906,
-      "raceElo": 1708,
+      "raceElo": 1709,
       "globalElo": 1767
     },
     "alonso": {
       "qualifyingElo": 1577,
       "raceElo": 1763,
-      "globalElo": 1707
+      "globalElo": 1708
     },
     "webber": {
       "qualifyingElo": 1803,
@@ -9865,17 +9865,17 @@
     "heidfeld": {
       "qualifyingElo": 1695,
       "raceElo": 1659,
-      "globalElo": 1668
+      "globalElo": 1672
     },
     "barrichello": {
       "qualifyingElo": 1787,
       "raceElo": 1601,
-      "globalElo": 1659
+      "globalElo": 1658
     },
     "trulli": {
       "qualifyingElo": 1721,
-      "raceElo": 1621,
-      "globalElo": 1649
+      "raceElo": 1622,
+      "globalElo": 1654
     },
     "kovalainen": {
       "qualifyingElo": 1600,
@@ -9900,7 +9900,7 @@
     "massa": {
       "qualifyingElo": 1830,
       "raceElo": 1534,
-      "globalElo": 1622
+      "globalElo": 1623
     },
     "coulthard": {
       "qualifyingElo": 1506,
@@ -9909,8 +9909,8 @@
     },
     "ralf_schumacher": {
       "qualifyingElo": 1529,
-      "raceElo": 1540,
-      "globalElo": 1535
+      "raceElo": 1541,
+      "globalElo": 1537
     },
     "speed": {
       "qualifyingElo": 1451,

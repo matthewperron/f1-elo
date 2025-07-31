@@ -3399,18 +3399,18 @@
     },
     "ascari": {
       "qualifyingElo": 1860,
-      "raceElo": 1617,
+      "raceElo": 1616,
       "globalElo": 1693
     },
     "farina": {
       "qualifyingElo": 1761,
-      "raceElo": 1627,
-      "globalElo": 1668
+      "raceElo": 1626,
+      "globalElo": 1667
     },
     "hawthorn": {
       "qualifyingElo": 1660,
-      "raceElo": 1578,
-      "globalElo": 1630
+      "raceElo": 1573,
+      "globalElo": 1624
     },
     "moss": {
       "qualifyingElo": 1714,
@@ -3425,7 +3425,7 @@
     "castellotti": {
       "qualifyingElo": 1576,
       "raceElo": 1580,
-      "globalElo": 1571
+      "globalElo": 1570
     },
     "bryan": {
       "qualifyingElo": 1555,
@@ -3454,8 +3454,8 @@
     },
     "villoresi": {
       "qualifyingElo": 1602,
-      "raceElo": 1508,
-      "globalElo": 1533
+      "raceElo": 1507,
+      "globalElo": 1532
     },
     "manzon": {
       "qualifyingElo": 1554,
@@ -3465,6 +3465,11 @@
     "paul_russo": {
       "qualifyingElo": 1531,
       "raceElo": 1518,
+      "globalElo": 1526
+    },
+    "macklin": {
+      "qualifyingElo": 1564,
+      "raceElo": 1507,
       "globalElo": 1526
     },
     "bayol": {
@@ -3494,17 +3499,12 @@
     },
     "chiron": {
       "qualifyingElo": 1465,
-      "raceElo": 1537,
+      "raceElo": 1536,
       "globalElo": 1515
     },
     "linden": {
       "qualifyingElo": 1590,
       "raceElo": 1479,
-      "globalElo": 1515
-    },
-    "macklin": {
-      "qualifyingElo": 1564,
-      "raceElo": 1491,
       "globalElo": 1515
     },
     "cross": {
@@ -3672,6 +3672,11 @@
       "raceElo": 1494,
       "globalElo": 1488
     },
+    "fairman": {
+      "qualifyingElo": 1430,
+      "raceElo": 1510,
+      "globalElo": 1486
+    },
     "mantovani": {
       "qualifyingElo": 1488,
       "raceElo": 1488,
@@ -3692,34 +3697,29 @@
       "raceElo": 1479,
       "globalElo": 1484
     },
-    "fairman": {
-      "qualifyingElo": 1430,
-      "raceElo": 1500,
-      "globalElo": 1479
-    },
     "boyd": {
       "qualifyingElo": 1477,
       "raceElo": 1481,
       "globalElo": 1476
     },
-    "mcalpine": {
-      "qualifyingElo": 1487,
-      "raceElo": 1469,
-      "globalElo": 1474
+    "wharton": {
+      "qualifyingElo": 1456,
+      "raceElo": 1477,
+      "globalElo": 1472
     },
     "gould": {
       "qualifyingElo": 1438,
       "raceElo": 1482,
       "globalElo": 1469
     },
+    "mcalpine": {
+      "qualifyingElo": 1487,
+      "raceElo": 1459,
+      "globalElo": 1467
+    },
     "schell": {
       "qualifyingElo": 1499,
       "raceElo": 1443,
-      "globalElo": 1464
-    },
-    "wharton": {
-      "qualifyingElo": 1456,
-      "raceElo": 1466,
       "globalElo": 1464
     },
     "taruffi": {

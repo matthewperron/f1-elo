@@ -8968,8 +8968,8 @@
   "finalELOs": {
     "hamilton": {
       "qualifyingElo": 1940,
-      "raceElo": 1733,
-      "globalElo": 1796
+      "raceElo": 1734,
+      "globalElo": 1795
     },
     "max_verstappen": {
       "qualifyingElo": 1869,
@@ -8981,15 +8981,15 @@
       "raceElo": 1657,
       "globalElo": 1703
     },
+    "bottas": {
+      "qualifyingElo": 1875,
+      "raceElo": 1629,
+      "globalElo": 1702
+    },
     "russell": {
       "qualifyingElo": 1771,
       "raceElo": 1671,
       "globalElo": 1702
-    },
-    "bottas": {
-      "qualifyingElo": 1875,
-      "raceElo": 1628,
-      "globalElo": 1701
     },
     "ricciardo": {
       "qualifyingElo": 1811,

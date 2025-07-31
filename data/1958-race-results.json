@@ -4846,8 +4846,8 @@
     },
     "hawthorn": {
       "qualifyingElo": 1764,
-      "raceElo": 1652,
-      "globalElo": 1730
+      "raceElo": 1651,
+      "globalElo": 1726
     },
     "behra": {
       "qualifyingElo": 1722,
@@ -4959,14 +4959,14 @@
       "raceElo": 1506,
       "globalElo": 1508
     },
-    "phil_hill": {
-      "qualifyingElo": 1470,
-      "raceElo": 1525,
-      "globalElo": 1508
-    },
     "templeman": {
       "qualifyingElo": 1519,
       "raceElo": 1500,
+      "globalElo": 1507
+    },
+    "phil_hill": {
+      "qualifyingElo": 1470,
+      "raceElo": 1525,
       "globalElo": 1507
     },
     "menditeguy": {
@@ -5017,7 +5017,7 @@
     "musso": {
       "qualifyingElo": 1527,
       "raceElo": 1477,
-      "globalElo": 1497
+      "globalElo": 1496
     },
     "thomson": {
       "qualifyingElo": 1497,
@@ -5119,6 +5119,11 @@
       "raceElo": 1484,
       "globalElo": 1489
     },
+    "fairman": {
+      "qualifyingElo": 1422,
+      "raceElo": 1514,
+      "globalElo": 1487
+    },
     "guelfi": {
       "qualifyingElo": 1470,
       "raceElo": 1493,
@@ -5144,15 +5149,10 @@
       "raceElo": 1487,
       "globalElo": 1483
     },
-    "fairman": {
-      "qualifyingElo": 1422,
-      "raceElo": 1505,
-      "globalElo": 1482
-    },
     "bridger": {
       "qualifyingElo": 1491,
-      "raceElo": 1479,
-      "globalElo": 1482
+      "raceElo": 1480,
+      "globalElo": 1483
     },
     "sutton": {
       "qualifyingElo": 1477,
@@ -5187,7 +5187,7 @@
     "trips": {
       "qualifyingElo": 1420,
       "raceElo": 1498,
-      "globalElo": 1471
+      "globalElo": 1470
     },
     "gendebien": {
       "qualifyingElo": 1438,
@@ -5206,7 +5206,7 @@
     },
     "collins": {
       "qualifyingElo": 1588,
-      "raceElo": 1492,
+      "raceElo": 1491,
       "globalElo": 1456
     },
     "rathmann": {

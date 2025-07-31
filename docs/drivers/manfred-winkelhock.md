@@ -12,7 +12,7 @@
 
 **Total Race Events**: 21 (63 individual Elo calculations)
 
-**DNF Statistics**: 11 DNFs out of 21 races (52.4%)
+**DNF Statistics**: 10 DNFs out of 21 races (47.6%)
 
 ### 🏁 Qualifying Performance
 
@@ -27,8 +27,8 @@
 🏆 **Peak Race Elo**: 1504
    *[1982 Round 11 – French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
 
-📉 **Lowest Race Elo**: 1416
-   *[1985 Round 5 – Canadian Grand Prix](../seasons/1985-season-report#round-5-canadian-grand-prix)*
+📉 **Lowest Race Elo**: 1420
+   *[1982 Round 7 – Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
 
 ### 🌟 Global Performance
 
@@ -53,7 +53,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Eliseo Salazar](eliseo-salazar) (1496)**: 2 wins (20.0%) • 3 losses (30.0%) • 5 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +4</span>****
+- **Races vs [Eliseo Salazar](eliseo-salazar) (1496)**: 2 wins (20.0%) • 3 losses (30.0%) • 5 DNFs (50.0%) • **Elo <span style="color: green;">▲ +4</span>**
 - **Qualifying vs [Eliseo Salazar](eliseo-salazar) (1339)**: 10 wins (90.9%) • 1 losses (9.1%) • **Elo <span style="color: green;">▲ +162</span>**
 
 #### DNF Statistics
@@ -91,7 +91,7 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](gerhard-berger) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](gerhard-berger) (1546)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -46</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -19</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -19</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -13</span>**
 
 #### DNF Statistics
@@ -113,27 +113,27 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1416 **<span style="color: red;">▼ -69</span>** | 1591 **<span style="color: red;">▼ -11</span>** | 1468 **<span style="color: red;">▼ -52</span>** |
+| 1443 **<span style="color: red;">▼ -42</span>** | 1591 **<span style="color: red;">▼ -11</span>** | 1487 **<span style="color: red;">▼ -33</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1489)**: 0 wins (0.0%) • 2 losses (28.6%) • 5 DNFs (71.4%) • **Elo **<span style="color: red;">▼ -69</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1462)**: 1 wins (14.3%) • 2 losses (28.6%) • 4 DNFs (57.1%) • **Elo <span style="color: red;">▼ -42</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1427)**: 6 wins (75.0%) • 2 losses (25.0%) • **Elo <span style="color: red;">▼ -12</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 8 races (62.5%)
+- **DNFs**: 4 out of 8 races (50.0%)
 
 #### Detailed Results
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
 | [Round 1: Brazilian Grand Prix](../seasons/1985-season-report#round-1-brazilian-grand-prix) | RAM | Q: 16<br/>R: 13 | 1618 **<span style="color: green;">▲ +16</span>** | 1447 **<span style="color: red;">▼ -38</span>** | 1498 **<span style="color: red;">▼ -22</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 20<br/>R: 9 |
-| [Round 2: Portuguese Grand Prix](../seasons/1985-season-report#round-2-portuguese-grand-prix) | RAM | Q: 15<br/>R: DNF | 1632 **<span style="color: green;">▲ +14</span>** | N/A | 1502 **<span style="color: green;">▲ +4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 20<br/>R: 24 |
-| [Round 3: San Marino Grand Prix](../seasons/1985-season-report#round-3-san-marino-grand-prix) | RAM | Q: 23<br/>R: DNF | 1581 **<span style="color: red;">▼ -52</span>** | N/A | 1487 **<span style="color: red;">▼ -16</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 21<br/>R: DNF |
-| [Round 5: Canadian Grand Prix](../seasons/1985-season-report#round-5-canadian-grand-prix) | RAM | Q: 14<br/>R: 23 | 1600 **<span style="color: green;">▲ +19</span>** | 1416 **<span style="color: red;">▼ -31</span>** | 1471 **<span style="color: red;">▼ -16</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 21<br/>R: 21 |
-| [Round 6: Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix) | RAM | Q: 20<br/>R: DNF | 1617 **<span style="color: green;">▲ +17</span>** | N/A | 1476 **<span style="color: green;">▲ +5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 23<br/>R: 15 |
-| [Round 7: French Grand Prix](../seasons/1985-season-report#round-7-french-grand-prix) | RAM | Q: 20<br/>R: 12 | 1631 **<span style="color: green;">▲ +14</span>** | N/A | 1480 **<span style="color: green;">▲ +4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 23<br/>R: DNF |
-| [Round 8: British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix) | RAM | Q: 18<br/>R: DNF | 1644 **<span style="color: green;">▲ +13</span>** | N/A | 1484 **<span style="color: green;">▲ +4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 21<br/>R: 25 |
-| [Round 9: German Grand Prix](../seasons/1985-season-report#round-9-german-grand-prix) | RAM | Q: 22<br/>R: DNF | 1591 **<span style="color: red;">▼ -53</span>** | N/A | 1468 **<span style="color: red;">▼ -16</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 21<br/>R: DNF |
+| [Round 2: Portuguese Grand Prix](../seasons/1985-season-report#round-2-portuguese-grand-prix) | RAM | Q: 15<br/>R: 10 | 1632 **<span style="color: green;">▲ +14</span>** | 1480 **<span style="color: green;">▲ +33</span>** | 1526 **<span style="color: green;">▲ +27</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 20<br/>R: 24 |
+| [Round 3: San Marino Grand Prix](../seasons/1985-season-report#round-3-san-marino-grand-prix) | RAM | Q: 23<br/>R: DNF | 1581 **<span style="color: red;">▼ -52</span>** | N/A | 1510 **<span style="color: red;">▼ -16</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 21<br/>R: DNF |
+| [Round 5: Canadian Grand Prix](../seasons/1985-season-report#round-5-canadian-grand-prix) | RAM | Q: 14<br/>R: 23 | 1600 **<span style="color: green;">▲ +19</span>** | 1443 **<span style="color: red;">▼ -37</span>** | 1490 **<span style="color: red;">▼ -20</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 21<br/>R: 21 |
+| [Round 6: Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix) | RAM | Q: 20<br/>R: DNF | 1617 **<span style="color: green;">▲ +17</span>** | N/A | 1495 **<span style="color: green;">▲ +5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 23<br/>R: 15 |
+| [Round 7: French Grand Prix](../seasons/1985-season-report#round-7-french-grand-prix) | RAM | Q: 20<br/>R: 12 | 1631 **<span style="color: green;">▲ +14</span>** | N/A | 1499 **<span style="color: green;">▲ +4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 23<br/>R: DNF |
+| [Round 8: British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix) | RAM | Q: 18<br/>R: DNF | 1644 **<span style="color: green;">▲ +13</span>** | N/A | 1503 **<span style="color: green;">▲ +4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 21<br/>R: 25 |
+| [Round 9: German Grand Prix](../seasons/1985-season-report#round-9-german-grand-prix) | RAM | Q: 22<br/>R: DNF | 1591 **<span style="color: red;">▼ -53</span>** | N/A | 1487 **<span style="color: red;">▼ -16</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 21<br/>R: DNF |
 

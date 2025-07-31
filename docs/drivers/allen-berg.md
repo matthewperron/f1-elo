@@ -10,7 +10,7 @@
 
 **Total Race Events**: 9 (27 individual Elo calculations)
 
-**DNF Statistics**: 7 DNFs out of 9 races (77.8%)
+**DNF Statistics**: 6 DNFs out of 9 races (66.7%)
 
 ### 🏁 Qualifying Performance
 
@@ -51,12 +51,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1535)**: 0 wins (0.0%) • 1 losses (12.5%) • 7 DNFs (87.5%) • **Elo **<span style="color: red;">▼ -32</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1535)**: 0 wins (0.0%) • 1 losses (14.3%) • 6 DNFs (85.7%) • **Elo <span style="color: red;">▼ -32</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1714)**: 0 wins (0.0%) • 9 losses (100.0%) • **Elo <span style="color: red;">▼ -135</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 9 races (77.8%)
+- **DNFs**: 6 out of 9 races (66.7%)
 
 #### Detailed Results
 
@@ -70,5 +70,5 @@
 | [Round 12: Austrian Grand Prix](../seasons/1986-season-report#round-12-austrian-grand-prix) | Osella | Q: 26<br/>R: DNF | 1392 **<span style="color: red;">▼ -12</span>** | N/A | 1445 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/>Q: 25<br/>R: 11 |
 | [Round 14: Portuguese Grand Prix](../seasons/1986-season-report#round-14-portuguese-grand-prix) | Osella | Q: 27<br/>R: DNF | 1382 **<span style="color: red;">▼ -10</span>** | N/A | 1442 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/>Q: 24<br/>R: DNF |
 | [Round 15: Mexican Grand Prix](../seasons/1986-season-report#round-15-mexican-grand-prix) | Osella | Q: 26<br/>R: DNF | 1373 **<span style="color: red;">▼ -9</span>** | N/A | 1440 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/>Q: 25<br/>R: DNF |
-| [Round 16: Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix) | Osella | Q: 26<br/>R: DNF | 1365 **<span style="color: red;">▼ -8</span>** | N/A | 1437 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/>Q: 25<br/>R: DNF |
+| [Round 16: Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix) | Osella | Q: 26<br/>R: 15 | 1365 **<span style="color: red;">▼ -8</span>** | N/A | 1437 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/>Q: 25<br/>R: DNF |
 

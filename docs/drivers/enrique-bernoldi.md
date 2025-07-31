@@ -23,7 +23,7 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1514
+🏆 **Peak Race Elo**: 1515
    *[2002 Round 9 – European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix)*
 
 📉 **Lowest Race Elo**: 1416
@@ -31,7 +31,7 @@
 
 ### 🌟 Global Performance
 
-🏆 **Peak Global Elo**: 1499
+🏆 **Peak Global Elo**: 1500
    *[2002 Round 9 – European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix)*
 
 📉 **Lowest Global Elo**: 1416
@@ -52,7 +52,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1579)**: 2 wins (13.3%) • 6 losses (40.0%) • 7 DNFs (46.7%) • **Elo **<span style="color: red;">▼ -24</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1579)**: 2 wins (13.3%) • 6 losses (40.0%) • 7 DNFs (46.7%) • **Elo <span style="color: red;">▼ -24</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1375)**: 10 wins (58.8%) • 7 losses (41.2%) • **Elo <span style="color: green;">▲ +31</span>**
 
 #### DNF Statistics
@@ -89,11 +89,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1514 **<span style="color: green;">▲ +38</span>** | 1440 **<span style="color: red;">▼ -90</span>** | 1492 ↔ 0 |
+| 1515 **<span style="color: green;">▲ +39</span>** | 1440 **<span style="color: red;">▼ -90</span>** | 1492 ↔ 0 |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1745)**: 1 wins (9.1%) • 2 losses (18.2%) • 8 DNFs (72.7%) • **Elo **<span style="color: green;">▲ +38</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1746)**: 1 wins (9.1%) • 2 losses (18.2%) • 8 DNFs (72.7%) • **Elo <span style="color: green;">▲ +39</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1725)**: 1 wins (9.1%) • 10 losses (90.9%) • **Elo <span style="color: red;">▼ -90</span>**
 
 #### DNF Statistics
@@ -110,9 +110,9 @@
 | [Round 4: San Marino Grand Prix](../seasons/2002-season-report#round-4-san-marino-grand-prix) | Arrows | Q: 20<br/>R: DNF | 1458 **<span style="color: red;">▼ -14</span>** | N/A | 1470 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 13<br/>R: DNF |
 | [Round 5: Spanish Grand Prix](../seasons/2002-season-report#round-5-spanish-grand-prix) | Arrows | Q: 14<br/>R: DNF | 1446 **<span style="color: red;">▼ -12</span>** | N/A | 1467 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 10<br/>R: 6 |
 | [Round 6: Austrian Grand Prix](../seasons/2002-season-report#round-6-austrian-grand-prix) | Arrows | Q: 12<br/>R: 21 | 1435 **<span style="color: red;">▼ -11</span>** | 1467 **<span style="color: red;">▼ -9</span>** | 1457 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 11<br/>R: 11 |
-| [Round 7: Monaco Grand Prix](../seasons/2002-season-report#round-7-monaco-grand-prix) | Arrows | Q: 21<br/>R: 12 | 1425 **<span style="color: red;">▼ -10</span>** | 1458 **<span style="color: red;">▼ -9</span>** | 1448 **<span style="color: red;">▼ -9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 12<br/>R: 6 |
-| [Round 8: Canadian Grand Prix](../seasons/2002-season-report#round-8-canadian-grand-prix) | Arrows | Q: 17<br/>R: DNF | 1480 **<span style="color: green;">▲ +55</span>** | N/A | 1464 **<span style="color: green;">▲ +17</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 19<br/>R: 13 |
-| [Round 9: European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix) | Arrows | Q: 21<br/>R: 11 | 1465 **<span style="color: red;">▼ -15</span>** | 1514 **<span style="color: green;">▲ +56</span>** | 1499 **<span style="color: green;">▲ +35</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 15<br/>R: 13 |
-| [Round 10: British Grand Prix](../seasons/2002-season-report#round-10-british-grand-prix) | Arrows | Q: 18<br/>R: DNF | 1452 **<span style="color: red;">▼ -13</span>** | N/A | 1495 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 16<br/>R: DNF |
+| [Round 7: Monaco Grand Prix](../seasons/2002-season-report#round-7-monaco-grand-prix) | Arrows | Q: 21<br/>R: 12 | 1425 **<span style="color: red;">▼ -10</span>** | 1458 **<span style="color: red;">▼ -8</span>** | 1449 **<span style="color: red;">▼ -9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 12<br/>R: 6 |
+| [Round 8: Canadian Grand Prix](../seasons/2002-season-report#round-8-canadian-grand-prix) | Arrows | Q: 17<br/>R: DNF | 1480 **<span style="color: green;">▲ +55</span>** | N/A | 1465 **<span style="color: green;">▲ +17</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 19<br/>R: 13 |
+| [Round 9: European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix) | Arrows | Q: 21<br/>R: 11 | 1465 **<span style="color: red;">▼ -15</span>** | 1515 **<span style="color: green;">▲ +56</span>** | 1500 **<span style="color: green;">▲ +35</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 15<br/>R: 13 |
+| [Round 10: British Grand Prix](../seasons/2002-season-report#round-10-british-grand-prix) | Arrows | Q: 18<br/>R: DNF | 1452 **<span style="color: red;">▼ -13</span>** | N/A | 1496 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 16<br/>R: DNF |
 | [Round 12: German Grand Prix](../seasons/2002-season-report#round-12-german-grand-prix) | Arrows | Q: 18<br/>R: DNF | 1440 **<span style="color: red;">▼ -12</span>** | N/A | 1492 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)<br/>Q: 15<br/>R: DNF |
 

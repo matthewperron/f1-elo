@@ -7109,13 +7109,13 @@
     },
     "alonso": {
       "qualifyingElo": 1720,
-      "raceElo": 1729,
-      "globalElo": 1726
+      "raceElo": 1730,
+      "globalElo": 1727
     },
     "barrichello": {
       "qualifyingElo": 1959,
       "raceElo": 1591,
-      "globalElo": 1702
+      "globalElo": 1700
     },
     "webber": {
       "qualifyingElo": 1724,
@@ -7127,30 +7127,30 @@
       "raceElo": 1690,
       "globalElo": 1697
     },
+    "heidfeld": {
+      "qualifyingElo": 1700,
+      "raceElo": 1679,
+      "globalElo": 1687
+    },
     "raikkonen": {
       "qualifyingElo": 1644,
       "raceElo": 1703,
       "globalElo": 1686
     },
-    "heidfeld": {
-      "qualifyingElo": 1700,
-      "raceElo": 1679,
-      "globalElo": 1683
-    },
     "frentzen": {
       "qualifyingElo": 1630,
-      "raceElo": 1649,
-      "globalElo": 1646
+      "raceElo": 1651,
+      "globalElo": 1644
     },
     "button": {
       "qualifyingElo": 1776,
-      "raceElo": 1564,
-      "globalElo": 1628
+      "raceElo": 1565,
+      "globalElo": 1629
     },
     "trulli": {
       "qualifyingElo": 1698,
       "raceElo": 1578,
-      "globalElo": 1611
+      "globalElo": 1615
     },
     "verstappen": {
       "qualifyingElo": 1583,
@@ -7164,8 +7164,8 @@
     },
     "villeneuve": {
       "qualifyingElo": 1699,
-      "raceElo": 1555,
-      "globalElo": 1601
+      "raceElo": 1556,
+      "globalElo": 1602
     },
     "gene": {
       "qualifyingElo": 1591,
@@ -7174,13 +7174,13 @@
     },
     "panis": {
       "qualifyingElo": 1705,
-      "raceElo": 1489,
-      "globalElo": 1557
+      "raceElo": 1490,
+      "globalElo": 1556
     },
     "matta": {
       "qualifyingElo": 1514,
-      "raceElo": 1555,
-      "globalElo": 1542
+      "raceElo": 1556,
+      "globalElo": 1543
     },
     "coulthard": {
       "qualifyingElo": 1482,
@@ -7204,8 +7204,8 @@
     },
     "ralf_schumacher": {
       "qualifyingElo": 1544,
-      "raceElo": 1442,
-      "globalElo": 1472
+      "raceElo": 1443,
+      "globalElo": 1474
     },
     "sato": {
       "qualifyingElo": 1497,

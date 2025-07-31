@@ -8,7 +8,7 @@
 
 📊 **[View Complete F1 1951 Season Results](https://www.formula1.com/en/results.html/1951/races.html)** | **[Wikipedia 1951 F1 Season](https://en.wikipedia.org/wiki/1951_Formula_One_World_Championship)**
 
-## Final ELO Ratings
+## Final Elo Ratings
 
 📊 **[View Complete F1 1951 Season Results](https://www.formula1.com/en/results.html/1951/races.html)**
 

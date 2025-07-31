@@ -10,7 +10,7 @@
 
 **Total Race Events**: 2 (6 individual Elo calculations)
 
-**DNF Statistics**: 2 DNFs out of 2 races (100.0%)
+**DNF Statistics**: 1 DNFs out of 2 races (50.0%)
 
 ### 🏁 Qualifying Performance
 
@@ -20,12 +20,20 @@
 📉 **Lowest Qualifying Elo**: 1421
    *[1976 Round 11 – Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)*
 
+### 🏎️ Race Performance
+
+🏆 **Peak Race Elo**: 1466
+   *[1976 Round 11 – Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)*
+
+📉 **Lowest Race Elo**: 1466
+   *[1976 Round 11 – Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)*
+
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1490
    *[1976 Round 5 – Belgian Grand Prix](../seasons/1976-season-report#round-5-belgian-grand-prix)*
 
-📉 **Lowest Global Elo**: 1476
+📉 **Lowest Global Elo**: 1453
    *[1976 Round 11 – Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)*
 
 
@@ -39,24 +47,24 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1421 **<span style="color: red;">▼ -79</span>** | 1476 **<span style="color: red;">▼ -24</span>** |
+| 1466 **<span style="color: red;">▼ -34</span>** | 1421 **<span style="color: red;">▼ -79</span>** | 1453 **<span style="color: red;">▼ -47</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Patrick Nève](patrick-nve) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Patrick Nève](patrick-nve) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -32</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lella Lombardi](lella-lombardi) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lella Lombardi](lella-lombardi) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -34</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lella Lombardi](lella-lombardi) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -47</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 2 races (100.0%)
+- **DNFs**: 1 out of 2 races (50.0%)
 
 #### Detailed Results
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
 | [Round 5: Belgian Grand Prix](../seasons/1976-season-report#round-5-belgian-grand-prix) | Brabham-Ford | Q: 23<br/>R: DNF | 1468 **<span style="color: red;">▼ -32</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Patrick Nève](patrick-nve)<br/>Q: 19<br/>R: DNF |
-| [Round 11: Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix) | Brabham-Ford | Q: 25<br/>R: DNF | 1421 **<span style="color: red;">▼ -47</span>** | N/A | 1476 **<span style="color: red;">▼ -14</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lella Lombardi](lella-lombardi)<br/>Q: N/A<br/>R: N/A |
+| [Round 11: Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix) | Brabham-Ford | Q: 25<br/>R: 14 | 1421 **<span style="color: red;">▼ -47</span>** | 1466 **<span style="color: red;">▼ -34</span>** | 1453 **<span style="color: red;">▼ -38</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lella Lombardi](lella-lombardi)<br/>Q: N/A<br/>R: N/A |
 

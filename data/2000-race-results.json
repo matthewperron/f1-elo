@@ -8222,53 +8222,53 @@
     },
     "frentzen": {
       "qualifyingElo": 1626,
-      "raceElo": 1793,
-      "globalElo": 1742
+      "raceElo": 1795,
+      "globalElo": 1743
     },
     "hakkinen": {
       "qualifyingElo": 1725,
       "raceElo": 1718,
-      "globalElo": 1720
+      "globalElo": 1722
     },
     "trulli": {
       "qualifyingElo": 1737,
-      "raceElo": 1693,
-      "globalElo": 1705
+      "raceElo": 1694,
+      "globalElo": 1708
     },
     "alesi": {
       "qualifyingElo": 1648,
-      "raceElo": 1689,
-      "globalElo": 1676
+      "raceElo": 1692,
+      "globalElo": 1678
     },
     "salo": {
       "qualifyingElo": 1629,
-      "raceElo": 1673,
-      "globalElo": 1660
+      "raceElo": 1676,
+      "globalElo": 1663
     },
     "irvine": {
       "qualifyingElo": 1804,
-      "raceElo": 1590,
-      "globalElo": 1652
+      "raceElo": 1591,
+      "globalElo": 1653
     },
     "herbert": {
       "qualifyingElo": 1591,
-      "raceElo": 1666,
-      "globalElo": 1643
+      "raceElo": 1667,
+      "globalElo": 1645
     },
     "gene": {
       "qualifyingElo": 1639,
       "raceElo": 1592,
       "globalElo": 1607
     },
-    "barrichello": {
-      "qualifyingElo": 1756,
-      "raceElo": 1525,
-      "globalElo": 1596
-    },
     "heidfeld": {
       "qualifyingElo": 1639,
       "raceElo": 1578,
-      "globalElo": 1596
+      "globalElo": 1597
+    },
+    "barrichello": {
+      "qualifyingElo": 1756,
+      "raceElo": 1525,
+      "globalElo": 1594
     },
     "coulthard": {
       "qualifyingElo": 1623,
@@ -8282,8 +8282,8 @@
     },
     "ralf_schumacher": {
       "qualifyingElo": 1573,
-      "raceElo": 1520,
-      "globalElo": 1535
+      "raceElo": 1521,
+      "globalElo": 1537
     },
     "wurz": {
       "qualifyingElo": 1558,
@@ -8307,13 +8307,13 @@
     },
     "rosa": {
       "qualifyingElo": 1587,
-      "raceElo": 1388,
+      "raceElo": 1389,
       "globalElo": 1448
     },
     "diniz": {
       "qualifyingElo": 1455,
-      "raceElo": 1409,
-      "globalElo": 1421
+      "raceElo": 1412,
+      "globalElo": 1427
     },
     "zonta": {
       "qualifyingElo": 1428,

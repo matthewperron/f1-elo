@@ -7976,17 +7976,17 @@
     },
     "villeneuve": {
       "qualifyingElo": 1865,
-      "raceElo": 1676,
-      "globalElo": 1735
+      "raceElo": 1677,
+      "globalElo": 1736
     },
     "trulli": {
       "qualifyingElo": 1782,
-      "raceElo": 1704,
-      "globalElo": 1725
+      "raceElo": 1705,
+      "globalElo": 1729
     },
     "frentzen": {
       "qualifyingElo": 1680,
-      "raceElo": 1697,
+      "raceElo": 1699,
       "globalElo": 1693
     },
     "fisichella": {
@@ -7996,13 +7996,13 @@
     },
     "salo": {
       "qualifyingElo": 1688,
-      "raceElo": 1655,
-      "globalElo": 1665
+      "raceElo": 1657,
+      "globalElo": 1668
     },
     "barrichello": {
       "qualifyingElo": 1799,
       "raceElo": 1595,
-      "globalElo": 1658
+      "globalElo": 1656
     },
     "webber": {
       "qualifyingElo": 1692,
@@ -8012,12 +8012,12 @@
     "heidfeld": {
       "qualifyingElo": 1650,
       "raceElo": 1631,
-      "globalElo": 1636
+      "globalElo": 1638
     },
     "irvine": {
       "qualifyingElo": 1812,
-      "raceElo": 1539,
-      "globalElo": 1620
+      "raceElo": 1540,
+      "globalElo": 1621
     },
     "coulthard": {
       "qualifyingElo": 1567,
@@ -8026,7 +8026,7 @@
     },
     "panis": {
       "qualifyingElo": 1719,
-      "raceElo": 1544,
+      "raceElo": 1546,
       "globalElo": 1599
     },
     "raikkonen": {
@@ -8041,12 +8041,12 @@
     },
     "mcnish": {
       "qualifyingElo": 1441,
-      "raceElo": 1518,
+      "raceElo": 1519,
       "globalElo": 1495
     },
     "bernoldi": {
       "qualifyingElo": 1440,
-      "raceElo": 1514,
+      "raceElo": 1515,
       "globalElo": 1492
     },
     "massa": {
@@ -8059,24 +8059,24 @@
       "raceElo": 1468,
       "globalElo": 1479
     },
+    "ralf_schumacher": {
+      "qualifyingElo": 1536,
+      "raceElo": 1443,
+      "globalElo": 1473
+    },
+    "button": {
+      "qualifyingElo": 1598,
+      "raceElo": 1418,
+      "globalElo": 1473
+    },
     "davidson": {
       "qualifyingElo": 1463,
       "raceElo": 1477,
       "globalElo": 1473
     },
-    "button": {
-      "qualifyingElo": 1598,
-      "raceElo": 1417,
-      "globalElo": 1472
-    },
-    "ralf_schumacher": {
-      "qualifyingElo": 1536,
-      "raceElo": 1442,
-      "globalElo": 1471
-    },
     "rosa": {
       "qualifyingElo": 1609,
-      "raceElo": 1396,
+      "raceElo": 1397,
       "globalElo": 1459
     },
     "yoong": {

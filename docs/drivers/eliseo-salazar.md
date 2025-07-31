@@ -51,7 +51,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock) (1504)**: 3 wins (42.9%) • 2 losses (28.6%) • 2 DNFs (28.6%) • **Elo **<span style="color: red;">▼ -4</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock) (1504)**: 3 wins (42.9%) • 2 losses (28.6%) • 2 DNFs (28.6%) • **Elo <span style="color: red;">▼ -4</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock) (1661)**: 1 wins (9.1%) • 10 losses (90.9%) • **Elo <span style="color: red;">▼ -162</span>**
 
 #### DNF Statistics

@@ -23,10 +23,10 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1466
+🏆 **Peak Race Elo**: 1465
    *[1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
 
-📉 **Lowest Race Elo**: 1439
+📉 **Lowest Race Elo**: 1437
    *[1982 Round 2 – Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
@@ -34,7 +34,7 @@
 🏆 **Peak Global Elo**: 1509
    *[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
-📉 **Lowest Global Elo**: 1438
+📉 **Lowest Global Elo**: 1437
    *[1982 Round 3 – United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west)*
 
 
@@ -73,11 +73,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1439 **<span style="color: red;">▼ -61</span>** | 1438 **<span style="color: red;">▼ -93</span>** | 1438 **<span style="color: red;">▼ -71</span>** |
+| 1437 **<span style="color: red;">▼ -63</span>** | 1438 **<span style="color: red;">▼ -93</span>** | 1437 **<span style="color: red;">▼ -72</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1542)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) • **Elo **<span style="color: red;">▼ -62</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1532)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) • **Elo <span style="color: red;">▼ -63</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1567)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼ -92</span>**
 
 #### DNF Statistics
@@ -88,7 +88,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix) | Tyrrell | Q: 23<br/>R: 16 | 1494 **<span style="color: red;">▼ -37</span>** | 1466 **<span style="color: red;">▼ -34</span>** | 1474 **<span style="color: red;">▼ -35</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 10<br/>R: 7 |
-| [Round 2: Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix) | Tyrrell | Q: 21<br/>R: 7 | 1463 **<span style="color: red;">▼ -30</span>** | 1439 **<span style="color: red;">▼ -28</span>** | 1446 **<span style="color: red;">▼ -29</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 13<br/>R: 4 |
-| [Round 3: United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west) | Tyrrell | Q: 24<br/>R: DNF | 1438 **<span style="color: red;">▼ -25</span>** | N/A | 1438 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 12<br/>R: 4 |
+| [Round 1: South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix) | Tyrrell | Q: 23<br/>R: 16 | 1494 **<span style="color: red;">▼ -37</span>** | 1465 **<span style="color: red;">▼ -35</span>** | 1473 **<span style="color: red;">▼ -36</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 10<br/>R: 7 |
+| [Round 2: Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix) | Tyrrell | Q: 21<br/>R: 7 | 1463 **<span style="color: red;">▼ -30</span>** | 1437 **<span style="color: red;">▼ -28</span>** | 1445 **<span style="color: red;">▼ -29</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 13<br/>R: 4 |
+| [Round 3: United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west) | Tyrrell | Q: 24<br/>R: DNF | 1438 **<span style="color: red;">▼ -25</span>** | N/A | 1437 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 12<br/>R: 4 |
 

@@ -24,7 +24,7 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1516
+🏆 **Peak Race Elo**: 1532
    *[1952 Round 7 – Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1516
@@ -32,7 +32,7 @@
 
 ### 🌟 Global Performance
 
-🏆 **Peak Global Elo**: 1523
+🏆 **Peak Global Elo**: 1534
    *[1953 Round 6 – British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1497
@@ -93,11 +93,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1516 **<span style="color: green;">▲ +16</span>** | 1522 **<span style="color: green;">▲ +27</span>** | 1517 **<span style="color: green;">▲ +19</span>** |
+| 1532 **<span style="color: green;">▲ +32</span>** | 1522 **<span style="color: green;">▲ +27</span>** | 1528 **<span style="color: green;">▲ +30</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin) (1491)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +16</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin) (1491)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) • **Elo <span style="color: green;">▲ +16</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin) (1444)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: red;">▼ -12</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Peter Collins](peter-collins) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
@@ -106,7 +106,7 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Tony Gaze](tony-gaze) (1477)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Tony Gaze](tony-gaze) (1494)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +10</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Dries van der Lof](dries-van-der-lof) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Dries van der Lof](dries-van-der-lof) (1485)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +15</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Dries van der Lof](dries-van-der-lof) (1484)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +16</span>**
 
 #### DNF Statistics
@@ -118,7 +118,7 @@
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
 | [Round 5: British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix) | HWM | Q: 11<br/>R: DNF | 1527 **<span style="color: green;">▲ +10</span>** | N/A | 1508 **<span style="color: green;">▲ +3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin)<br/>Q: 29<br/>R: 15 |
-| [Round 7: Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix) | HWM | Q: 10<br/>R: 7 | 1522 **<span style="color: green;">▲ +16</span>** | N/A | 1517 **<span style="color: green;">▲ +5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin)<br/>Q: 9<br/>R: 8 |
+| [Round 7: Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix) | HWM | Q: 10<br/>R: 7 | 1522 **<span style="color: green;">▲ +16</span>** | 1532 **<span style="color: green;">▲ +15</span>** | 1528 **<span style="color: green;">▲ +15</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin)<br/>Q: 9<br/>R: 8 |
 
 ### 1953 Season
 
@@ -128,7 +128,7 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1516 ↔ 0 | 1531 **<span style="color: green;">▲ +9</span>** | 1520 **<span style="color: green;">▲ +3</span>** |
+| 1532 ↔ 0 | 1531 **<span style="color: green;">▲ +9</span>** | 1531 **<span style="color: green;">▲ +3</span>** |
 
 #### Teammate Head-to-Head Statistics
 
@@ -138,7 +138,7 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jack Fairman](jack-fairman) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jack Fairman](jack-fairman) (1490)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +9</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin) (1491)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin) (1507)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin) (1527)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -11</span>**
 
 #### DNF Statistics
@@ -149,5 +149,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix) | HWM | Q: 17<br/>R: DNF | 1531 **<span style="color: red;">▼ -11</span>** | N/A | 1520 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Peter Collins](peter-collins)<br/>Q: 23<br/>R: 16 |
+| [Round 6: British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix) | HWM | Q: 17<br/>R: DNF | 1531 **<span style="color: red;">▼ -11</span>** | N/A | 1531 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Peter Collins](peter-collins)<br/>Q: 23<br/>R: 16 |
 

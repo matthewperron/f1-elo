@@ -3816,15 +3816,15 @@
       "raceElo": 1597,
       "globalElo": 1645
     },
-    "hawthorn": {
-      "qualifyingElo": 1597,
-      "raceElo": 1594,
-      "globalElo": 1623
-    },
     "castellotti": {
       "qualifyingElo": 1672,
       "raceElo": 1586,
-      "globalElo": 1621
+      "globalElo": 1620
+    },
+    "hawthorn": {
+      "qualifyingElo": 1597,
+      "raceElo": 1590,
+      "globalElo": 1617
     },
     "gonzalez": {
       "qualifyingElo": 1706,
@@ -3876,15 +3876,15 @@
       "raceElo": 1496,
       "globalElo": 1524
     },
-    "villoresi": {
-      "qualifyingElo": 1567,
-      "raceElo": 1509,
-      "globalElo": 1521
-    },
     "salvadori": {
       "qualifyingElo": 1575,
       "raceElo": 1496,
       "globalElo": 1521
+    },
+    "villoresi": {
+      "qualifyingElo": 1567,
+      "raceElo": 1508,
+      "globalElo": 1520
     },
     "linden": {
       "qualifyingElo": 1593,
@@ -3938,7 +3938,7 @@
     },
     "chiron": {
       "qualifyingElo": 1438,
-      "raceElo": 1537,
+      "raceElo": 1536,
       "globalElo": 1507
     },
     "bonnier": {
@@ -4136,6 +4136,11 @@
       "raceElo": 1483,
       "globalElo": 1479
     },
+    "fairman": {
+      "qualifyingElo": 1445,
+      "raceElo": 1493,
+      "globalElo": 1479
+    },
     "boyd": {
       "qualifyingElo": 1485,
       "raceElo": 1481,
@@ -4144,11 +4149,6 @@
     "gould": {
       "qualifyingElo": 1439,
       "raceElo": 1486,
-      "globalElo": 1472
-    },
-    "fairman": {
-      "qualifyingElo": 1445,
-      "raceElo": 1483,
       "globalElo": 1472
     },
     "trintignant": {

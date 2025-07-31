@@ -28,7 +28,7 @@
 🏆 **Peak Race Elo**: 1517
    *[1977 Round 15 – United States Grand Prix](../seasons/1977-season-report#round-15-united-states-grand-prix)*
 
-📉 **Lowest Race Elo**: 1402
+📉 **Lowest Race Elo**: 1403
    *[1980 Round 14 – United States Grand Prix](../seasons/1980-season-report#round-14-united-states-grand-prix)*
 
 ### 🌟 Global Performance
@@ -36,7 +36,7 @@
 🏆 **Peak Global Elo**: 1533
    *[1977 Round 16 – Canadian Grand Prix](../seasons/1977-season-report#round-16-canadian-grand-prix)*
 
-📉 **Lowest Global Elo**: 1420
+📉 **Lowest Global Elo**: 1422
    *[1980 Round 14 – United States Grand Prix](../seasons/1980-season-report#round-14-united-states-grand-prix)*
 
 
@@ -54,13 +54,13 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl) (1396)**: 1 wins (50.0%) • 1 losses (50.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -13</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl) (1398)**: 1 wins (50.0%) • 1 losses (50.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -13</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl) (1569)**: 1 wins (33.3%) • 2 losses (66.7%) • **Elo <span style="color: red;">▼ -15</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Hector Rebaque](hector-rebaque) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Hector Rebaque](hector-rebaque) (1467)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +33</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ian Ashley](ian-ashley) (1438)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +30</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ian Ashley](ian-ashley) (1438)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +30</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ian Ashley](ian-ashley) (1420)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +51</span>**
 
 #### DNF Statistics
@@ -90,7 +90,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1664)**: 0 wins (0.0%) • 1 losses (20.0%) • 4 DNFs (80.0%) • **Elo **<span style="color: red;">▼ -21</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1666)**: 0 wins (0.0%) • 1 losses (20.0%) • 4 DNFs (80.0%) • **Elo <span style="color: red;">▼ -21</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1861)**: 0 wins (0.0%) • 6 losses (100.0%) • **Elo <span style="color: red;">▼ -63</span>**
 
 #### DNF Statistics
@@ -116,14 +116,14 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1402 **<span style="color: red;">▼ -94</span>** | 1470 **<span style="color: red;">▼ -37</span>** | 1420 **<span style="color: red;">▼ -79</span>** |
+| 1403 **<span style="color: red;">▼ -93</span>** | 1470 **<span style="color: red;">▼ -37</span>** | 1422 **<span style="color: red;">▼ -77</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) (1653)**: 0 wins (0.0%) • 4 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -34</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) (1657)**: 0 wins (0.0%) • 4 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -33</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) (1836)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼ -15</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann) (1489)**: 0 wins (0.0%) • 4 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -62</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann) (1491)**: 0 wins (0.0%) • 4 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -61</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann) (1785)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼ -23</span>**
 
 #### DNF Statistics
@@ -134,10 +134,10 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 8: British Grand Prix](../seasons/1980-season-report#round-8-british-grand-prix) | Williams | Q: 18<br/>R: 11 | 1497 **<span style="color: red;">▼ -6</span>** | 1467 **<span style="color: red;">▼ -20</span>** | 1476 **<span style="color: red;">▼ -16</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)<br/>Q: 3<br/>R: 1 |
-| [Round 10: Austrian Grand Prix](../seasons/1980-season-report#round-10-austrian-grand-prix) | Williams | Q: 20<br/>R: 15 | 1487 **<span style="color: red;">▼ -7</span>** | 1443 **<span style="color: red;">▼ -16</span>** | 1455 **<span style="color: red;">▼ -13</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)<br/>Q: 3<br/>R: 2 |
-| [Round 12: Italian Grand Prix](../seasons/1980-season-report#round-12-italian-grand-prix) | Williams | Q: 21<br/>R: 11 | 1478 **<span style="color: red;">▼ -5</span>** | 1421 **<span style="color: red;">▼ -13</span>** | 1437 **<span style="color: red;">▼ -11</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)<br/>Q: 6<br/>R: 2 |
-| [Round 14: United States Grand Prix](../seasons/1980-season-report#round-14-united-states-grand-prix) | Williams | Q: 15<br/>R: 9 | 1470 **<span style="color: red;">▼ -5</span>** | 1402 **<span style="color: red;">▼ -13</span>** | 1420 **<span style="color: red;">▼ -11</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)<br/>Q: 5<br/>R: 1 |
+| [Round 8: British Grand Prix](../seasons/1980-season-report#round-8-british-grand-prix) | Williams | Q: 18<br/>R: 11 | 1497 **<span style="color: red;">▼ -6</span>** | 1468 **<span style="color: red;">▼ -20</span>** | 1476 **<span style="color: red;">▼ -16</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)<br/>Q: 3<br/>R: 1 |
+| [Round 10: Austrian Grand Prix](../seasons/1980-season-report#round-10-austrian-grand-prix) | Williams | Q: 20<br/>R: 15 | 1487 **<span style="color: red;">▼ -7</span>** | 1443 **<span style="color: red;">▼ -16</span>** | 1456 **<span style="color: red;">▼ -13</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)<br/>Q: 3<br/>R: 2 |
+| [Round 12: Italian Grand Prix](../seasons/1980-season-report#round-12-italian-grand-prix) | Williams | Q: 21<br/>R: 11 | 1478 **<span style="color: red;">▼ -5</span>** | 1422 **<span style="color: red;">▼ -12</span>** | 1439 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)<br/>Q: 6<br/>R: 2 |
+| [Round 14: United States Grand Prix](../seasons/1980-season-report#round-14-united-states-grand-prix) | Williams | Q: 15<br/>R: 9 | 1470 **<span style="color: red;">▼ -5</span>** | 1403 **<span style="color: red;">▼ -13</span>** | 1422 **<span style="color: red;">▼ -11</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)<br/>Q: 5<br/>R: 1 |
 
 ### 1982 Season
 
@@ -147,11 +147,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1435 **<span style="color: green;">▲ +33</span>** | 1476 **<span style="color: green;">▲ +6</span>** | 1445 **<span style="color: green;">▲ +25</span>** |
+| 1436 **<span style="color: green;">▲ +33</span>** | 1476 **<span style="color: green;">▲ +6</span>** | 1447 **<span style="color: green;">▲ +25</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel](raul-boesel) (1379)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +33</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel](raul-boesel) (1381)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +33</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel](raul-boesel) (1537)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲ +7</span>**
 
 #### DNF Statistics
@@ -162,6 +162,6 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 14: Swiss Grand Prix](../seasons/1982-season-report#round-14-swiss-grand-prix) | March | Q: 22<br/>R: 23 | 1509 **<span style="color: green;">▲ +39</span>** | N/A | 1432 **<span style="color: green;">▲ +12</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel](raul-boesel)<br/>Q: 24<br/>R: DNF |
-| [Round 16: Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix) | March | Q: 25<br/>R: 12 | 1476 **<span style="color: red;">▼ -32</span>** | 1435 **<span style="color: green;">▲ +33</span>** | 1445 **<span style="color: green;">▲ +13</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel](raul-boesel)<br/>Q: 24<br/>R: 13 |
+| [Round 14: Swiss Grand Prix](../seasons/1982-season-report#round-14-swiss-grand-prix) | March | Q: 22<br/>R: 23 | 1509 **<span style="color: green;">▲ +39</span>** | N/A | 1434 **<span style="color: green;">▲ +12</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel](raul-boesel)<br/>Q: 24<br/>R: DNF |
+| [Round 16: Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix) | March | Q: 25<br/>R: 12 | 1476 **<span style="color: red;">▼ -32</span>** | 1436 **<span style="color: green;">▲ +33</span>** | 1447 **<span style="color: green;">▲ +13</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel](raul-boesel)<br/>Q: 24<br/>R: 13 |
 

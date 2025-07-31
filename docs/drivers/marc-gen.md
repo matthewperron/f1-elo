@@ -54,10 +54,10 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer](luca-badoer) (1455)**: 4 wins (40.0%) • 4 losses (40.0%) • 2 DNFs (20.0%) • **Elo **<span style="color: red;">▼ -40</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer](luca-badoer) (1456)**: 4 wins (40.0%) • 4 losses (40.0%) • 2 DNFs (20.0%) • **Elo <span style="color: red;">▼ -40</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer](luca-badoer) (1580)**: 6 wins (40.0%) • 9 losses (60.0%) • **Elo <span style="color: green;">▲ +75</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Stéphane Sarrazin](stphane-sarrazin) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +32</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Stéphane Sarrazin](stphane-sarrazin) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +32</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Stéphane Sarrazin](stphane-sarrazin) (1530)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -30</span>**
 
 #### DNF Statistics
@@ -97,7 +97,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Gastón Mazzacane](gastn-mazzacane) (1400)**: 6 wins (42.9%) • 2 losses (14.3%) • 6 DNFs (42.9%) • **Elo **<span style="color: green;">▲ +101</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Gastón Mazzacane](gastn-mazzacane) (1400)**: 6 wins (42.9%) • 2 losses (14.3%) • 6 DNFs (42.9%) • **Elo <span style="color: green;">▲ +101</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Gastón Mazzacane](gastn-mazzacane) (1405)**: 14 wins (82.4%) • 3 losses (17.6%) • **Elo <span style="color: green;">▲ +95</span>**
 
 #### DNF Statistics
@@ -138,7 +138,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1592)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -35</span>****
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1593)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -35</span>**
 - **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1498)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -48</span>**
 
 #### DNF Statistics
@@ -163,7 +163,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1639)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -53</span>****
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1639)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -53</span>**
 - **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1714)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -46</span>**
 
 #### DNF Statistics

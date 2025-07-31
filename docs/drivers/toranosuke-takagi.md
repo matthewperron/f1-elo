@@ -52,7 +52,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Rosset](ricardo-rosset) (1417)**: 4 wins (44.4%) • 1 losses (11.1%) • 4 DNFs (44.4%) • **Elo **<span style="color: green;">▲ +63</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Rosset](ricardo-rosset) (1417)**: 4 wins (44.4%) • 1 losses (11.1%) • 4 DNFs (44.4%) • **Elo <span style="color: green;">▲ +63</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Rosset](ricardo-rosset) (1307)**: 9 wins (81.8%) • 2 losses (18.2%) • **Elo <span style="color: green;">▲ +15</span>**
 
 #### DNF Statistics
@@ -87,7 +87,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1568)**: 0 wins (0.0%) • 2 losses (16.7%) • 10 DNFs (83.3%) • **Elo **<span style="color: red;">▼ -69</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1568)**: 0 wins (0.0%) • 2 losses (16.7%) • 10 DNFs (83.3%) • **Elo <span style="color: red;">▼ -69</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1494)**: 8 wins (50.0%) • 8 losses (50.0%) • **Elo <span style="color: green;">▲ +5</span>**
 
 #### DNF Statistics

@@ -22,10 +22,10 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1546
+🏆 **Peak Race Elo**: 1547
    *[1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
 
-📉 **Lowest Race Elo**: 1516
+📉 **Lowest Race Elo**: 1517
    *[1970 Round 9 – Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix)*
 
 ### 🌟 Global Performance
@@ -33,7 +33,7 @@
 🏆 **Peak Global Elo**: 1526
    *[1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
 
-📉 **Lowest Global Elo**: 1487
+📉 **Lowest Global Elo**: 1488
    *[1970 Round 10 – Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
 
 
@@ -47,14 +47,14 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1516 **<span style="color: green;">▲ +16</span>** | 1420 **<span style="color: red;">▼ -80</span>** | 1487 **<span style="color: red;">▼ -13</span>** |
+| 1517 **<span style="color: green;">▲ +17</span>** | 1420 **<span style="color: red;">▼ -80</span>** | 1488 **<span style="color: red;">▼ -12</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) (1663)**: 1 wins (33.3%) • 1 losses (33.3%) • 1 DNFs (33.3%) • **Elo **<span style="color: green;">▲ +35</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) (1669)**: 1 wins (33.3%) • 1 losses (33.3%) • 1 DNFs (33.3%) • **Elo <span style="color: green;">▲ +36</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) (1694)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼ -52</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) (1489)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -19</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) (1490)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼ -19</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) (1484)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -29</span>**
 
 #### DNF Statistics
@@ -65,8 +65,8 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | Ferrari | Q: 8<br/>R: 4 | 1478 **<span style="color: red;">▼ -22</span>** | 1546 **<span style="color: green;">▲ +46</span>** | 1526 **<span style="color: green;">▲ +26</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/>Q: 4<br/>R: 8 |
+| [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | Ferrari | Q: 8<br/>R: 4 | 1478 **<span style="color: red;">▼ -22</span>** | 1547 **<span style="color: green;">▲ +47</span>** | 1526 **<span style="color: green;">▲ +26</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/>Q: 4<br/>R: 8 |
 | [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | Ferrari | Q: 11<br/>R: 14 | 1462 **<span style="color: red;">▼ -17</span>** | N/A | 1521 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/>Q: 1<br/>R: DNF |
-| [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | Ferrari | Q: 5<br/>R: 7 | 1440 **<span style="color: red;">▼ -15</span>** | 1516 **<span style="color: red;">▼ -19</span>** | 1493 **<span style="color: red;">▼ -18</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/>Q: 3<br/>R: 1 |
-| [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | Ferrari | Q: 15<br/>R: DNF | 1420 **<span style="color: red;">▼ -6</span>** | N/A | 1487 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni)<br/>Q: 3<br/>R: 1 |
+| [Round 9: Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) | Ferrari | Q: 5<br/>R: 7 | 1440 **<span style="color: red;">▼ -15</span>** | 1517 **<span style="color: red;">▼ -19</span>** | 1494 **<span style="color: red;">▼ -18</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/>Q: 3<br/>R: 1 |
+| [Round 10: Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) | Ferrari | Q: 15<br/>R: DNF | 1420 **<span style="color: red;">▼ -6</span>** | N/A | 1488 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni)<br/>Q: 3<br/>R: 1 |
 

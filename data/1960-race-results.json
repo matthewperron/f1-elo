@@ -4682,14 +4682,14 @@
       "raceElo": 1524,
       "globalElo": 1537
     },
-    "trips": {
-      "qualifyingElo": 1535,
-      "raceElo": 1538,
-      "globalElo": 1533
-    },
     "schell": {
       "qualifyingElo": 1626,
       "raceElo": 1507,
+      "globalElo": 1532
+    },
+    "trips": {
+      "qualifyingElo": 1535,
+      "raceElo": 1538,
       "globalElo": 1532
     },
     "clark": {
@@ -4802,6 +4802,11 @@
       "raceElo": 1513,
       "globalElo": 1503
     },
+    "fairman": {
+      "qualifyingElo": 1470,
+      "raceElo": 1514,
+      "globalElo": 1502
+    },
     "estefano": {
       "qualifyingElo": 1499,
       "raceElo": 1500,
@@ -4811,11 +4816,6 @@
       "qualifyingElo": 1625,
       "raceElo": 1489,
       "globalElo": 1500
-    },
-    "fairman": {
-      "qualifyingElo": 1470,
-      "raceElo": 1505,
-      "globalElo": 1497
     },
     "goldsmith": {
       "qualifyingElo": 1482,
@@ -4920,7 +4920,7 @@
     "phil_hill": {
       "qualifyingElo": 1491,
       "raceElo": 1483,
-      "globalElo": 1486
+      "globalElo": 1485
     },
     "daigh": {
       "qualifyingElo": 1447,

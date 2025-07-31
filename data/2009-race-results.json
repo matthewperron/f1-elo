@@ -8950,12 +8950,12 @@
     "alonso": {
       "qualifyingElo": 1807,
       "raceElo": 1769,
-      "globalElo": 1780
+      "globalElo": 1781
     },
     "massa": {
       "qualifyingElo": 1808,
       "raceElo": 1715,
-      "globalElo": 1743
+      "globalElo": 1744
     },
     "vettel": {
       "qualifyingElo": 1806,
@@ -8970,11 +8970,11 @@
     "barrichello": {
       "qualifyingElo": 1976,
       "raceElo": 1607,
-      "globalElo": 1720
+      "globalElo": 1719
     },
     "button": {
       "qualifyingElo": 1717,
-      "raceElo": 1702,
+      "raceElo": 1703,
       "globalElo": 1706
     },
     "rosberg": {
@@ -9000,7 +9000,7 @@
     "heidfeld": {
       "qualifyingElo": 1501,
       "raceElo": 1625,
-      "globalElo": 1587
+      "globalElo": 1591
     },
     "buemi": {
       "qualifyingElo": 1617,
@@ -9020,7 +9020,7 @@
     "trulli": {
       "qualifyingElo": 1702,
       "raceElo": 1443,
-      "globalElo": 1519
+      "globalElo": 1524
     },
     "fisichella": {
       "qualifyingElo": 1600,
@@ -9039,8 +9039,8 @@
     },
     "badoer": {
       "qualifyingElo": 1562,
-      "raceElo": 1415,
-      "globalElo": 1461
+      "raceElo": 1416,
+      "globalElo": 1460
     },
     "sutil": {
       "qualifyingElo": 1614,

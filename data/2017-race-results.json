@@ -10511,7 +10511,7 @@
     "alonso": {
       "qualifyingElo": 1814,
       "raceElo": 1842,
-      "globalElo": 1832
+      "globalElo": 1833
     },
     "vettel": {
       "qualifyingElo": 1831,
@@ -10521,17 +10521,17 @@
     "hamilton": {
       "qualifyingElo": 1932,
       "raceElo": 1647,
-      "globalElo": 1733
+      "globalElo": 1734
     },
     "bottas": {
       "qualifyingElo": 1852,
-      "raceElo": 1669,
+      "raceElo": 1670,
       "globalElo": 1722
     },
     "button": {
       "qualifyingElo": 1557,
       "raceElo": 1740,
-      "globalElo": 1686
+      "globalElo": 1685
     },
     "hulkenberg": {
       "qualifyingElo": 1837,
@@ -10556,7 +10556,7 @@
     "massa": {
       "qualifyingElo": 1732,
       "raceElo": 1522,
-      "globalElo": 1587
+      "globalElo": 1588
     },
     "wehrlein": {
       "qualifyingElo": 1630,

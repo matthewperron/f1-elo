@@ -4408,8 +4408,8 @@
     },
     "mclaren": {
       "qualifyingElo": 1710,
-      "raceElo": 1653,
-      "globalElo": 1678
+      "raceElo": 1655,
+      "globalElo": 1679
     },
     "clark": {
       "qualifyingElo": 1785,
@@ -4418,8 +4418,8 @@
     },
     "jack_brabham": {
       "qualifyingElo": 1781,
-      "raceElo": 1647,
-      "globalElo": 1664
+      "raceElo": 1643,
+      "globalElo": 1660
     },
     "hill": {
       "qualifyingElo": 1760,
@@ -4433,13 +4433,13 @@
     },
     "surtees": {
       "qualifyingElo": 1788,
-      "raceElo": 1518,
-      "globalElo": 1600
+      "raceElo": 1521,
+      "globalElo": 1602
     },
     "phil_hill": {
       "qualifyingElo": 1630,
       "raceElo": 1558,
-      "globalElo": 1580
+      "globalElo": 1579
     },
     "bonnier": {
       "qualifyingElo": 1601,
@@ -4453,8 +4453,8 @@
     },
     "salvadori": {
       "qualifyingElo": 1460,
-      "raceElo": 1551,
-      "globalElo": 1524
+      "raceElo": 1554,
+      "globalElo": 1526
     },
     "settember": {
       "qualifyingElo": 1529,
@@ -4468,6 +4468,11 @@
     },
     "maggs": {
       "qualifyingElo": 1492,
+      "raceElo": 1507,
+      "globalElo": 1502
+    },
+    "lewis": {
+      "qualifyingElo": 1489,
       "raceElo": 1506,
       "globalElo": 1501
     },
@@ -4485,11 +4490,6 @@
       "qualifyingElo": 1509,
       "raceElo": 1496,
       "globalElo": 1500
-    },
-    "lewis": {
-      "qualifyingElo": 1489,
-      "raceElo": 1503,
-      "globalElo": 1499
     },
     "schroeder": {
       "qualifyingElo": 1494,
@@ -4566,11 +4566,6 @@
       "raceElo": 1492,
       "globalElo": 1489
     },
-    "collomb": {
-      "qualifyingElo": 1463,
-      "raceElo": 1500,
-      "globalElo": 1489
-    },
     "walter": {
       "qualifyingElo": 1489,
       "raceElo": 1486,
@@ -4594,6 +4589,11 @@
     "vaccarella": {
       "qualifyingElo": 1509,
       "raceElo": 1470,
+      "globalElo": 1482
+    },
+    "collomb": {
+      "qualifyingElo": 1463,
+      "raceElo": 1490,
       "globalElo": 1482
     },
     "hall": {
@@ -4653,8 +4653,8 @@
     },
     "burgess": {
       "qualifyingElo": 1414,
-      "raceElo": 1436,
-      "globalElo": 1430
+      "raceElo": 1439,
+      "globalElo": 1432
     },
     "beaufort": {
       "qualifyingElo": 1406,

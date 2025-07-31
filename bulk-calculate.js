@@ -314,20 +314,20 @@ async function updateIndexWithTop30(peakDriversData) {
         allTablesContent += createTop30Table(
             peakDriversData.race,
             'Race',
-            '[Top 30 F1 Drivers of All Time](/peak-elo#peak-race-elo-rankings) - Race Performance',
-            'Based on peak **Race Elo** ratings (race finishing positions vs teammates) • [See complete list here](/peak-elo#peak-race-elo-rankings)'
+            '[Top 30 F1 Drivers of All Time](peak-elo#peak-race-elo-rankings) - Race Performance',
+            'Based on peak **Race Elo** ratings (race finishing positions vs teammates) • [See complete list here](peak-elo#peak-race-elo-rankings)'
         );
         allTablesContent += createTop30Table(
             peakDriversData.qualifying,
             'Qualifying',
             '[Top 30 F1 Drivers of All Time](peak-elo#peak-qualifying-elo-rankings) - Qualifying Performance',
-            'Based on peak **Qualifying Elo** ratings (qualifying positions vs teammates) • [See complete list here](/peak-elo#peak-qualifying-elo-rankings)'
+            'Based on peak **Qualifying Elo** ratings (qualifying positions vs teammates) • [See complete list here](peak-elo#peak-qualifying-elo-rankings)'
         );
         allTablesContent += createTop30Table(
             peakDriversData.global,
             'Global',
             '[Top 30 F1 Drivers of All Time](peak-elo#peak-overall-elo-rankings) - Global Performance',
-            'Based on peak **Global Elo** ratings (30% qualifying + 70% race performance vs teammates) • [See complete list here](/peak-elo#peak-overall-elo-rankings)'
+            'Based on peak **Global Elo** ratings (30% qualifying + 70% race performance vs teammates) • [See complete list here](peak-elo#peak-overall-elo-rankings)'
         );
 
         const now = new Date();
@@ -685,8 +685,8 @@ async function generateComprehensiveDriverFiles() {
                     const raceDNFPercent = totalRaces > 0 ? ((raceDNFs / totalRaces) * 100).toFixed(1) : '0.0';
                     const raceEloImpact = Math.round(stats.raceEloImpact);
                     const raceEloFormatted = raceEloImpact === 0 ? '↔ 0' :
-                        raceEloImpact > 0 ? `**<span style="color: green;">▲ +${raceEloImpact}</span>**` :
-                            `**<span style="color: red;">▼ ${raceEloImpact}</span>**`;
+                        raceEloImpact > 0 ? `<span style="color: green;">▲ +${raceEloImpact}</span>` :
+                            `<span style="color: red;">▼ ${raceEloImpact}</span>`;
 
                     // Qualifying statistics  
                     const qualWins = stats.qualifying.filter(q => q.type === 'win').length;

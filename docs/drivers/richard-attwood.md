@@ -29,15 +29,15 @@
 🏆 **Peak Race Elo**: 1496
    *[1965 Round 8 – Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
-📉 **Lowest Race Elo**: 1420
+📉 **Lowest Race Elo**: 1434
    *[1969 Round 3 – Monaco Grand Prix](../seasons/1969-season-report#round-3-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
-🏆 **Peak Global Elo**: 1531
+🏆 **Peak Global Elo**: 1530
    *[1968 Round 3 – Monaco Grand Prix](../seasons/1968-season-report#round-3-monaco-grand-prix)*
 
-📉 **Lowest Global Elo**: 1441
+📉 **Lowest Global Elo**: 1452
    *[1969 Round 3 – Monaco Grand Prix](../seasons/1969-season-report#round-3-monaco-grand-prix)*
 
 
@@ -55,7 +55,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1635)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1636)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1869)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -2</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) (1457)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
@@ -64,7 +64,7 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Baghetti](giancarlo-baghetti) (1473)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Baghetti](giancarlo-baghetti) (1358)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -11</span>**
 
-- **Races vs [Tony Maggs](tony-maggs) (1476)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Races vs [Tony Maggs](tony-maggs) (1489)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [Tony Maggs](tony-maggs) (1522)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -7</span>**
 
 #### DNF Statistics
@@ -92,7 +92,7 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Hailwood](mike-hailwood) (1523)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Hailwood](mike-hailwood) (1470)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +35</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) (1559)**: 1 wins (20.0%) • 2 losses (40.0%) • 2 DNFs (40.0%) • **Elo **<span style="color: red;">▼ -4</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) (1559)**: 1 wins (20.0%) • 2 losses (40.0%) • 2 DNFs (40.0%) • **Elo <span style="color: red;">▼ -4</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland) (1527)**: 4 wins (66.7%) • 2 losses (33.3%) • **Elo <span style="color: green;">▲ +85</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) (1467)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
@@ -126,14 +126,14 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1479 **<span style="color: red;">▼ -17</span>** | 1589 **<span style="color: green;">▲ +3</span>** | 1512 **<span style="color: red;">▼ -11</span>** |
+| 1477 **<span style="color: red;">▼ -19</span>** | 1589 **<span style="color: green;">▲ +3</span>** | 1511 **<span style="color: red;">▼ -12</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) (1496)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -17</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) (1443)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -19</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) (1464)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +11</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) (1510)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) (1531)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt) (1776)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -8</span>**
 
 #### DNF Statistics
@@ -144,7 +144,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 8: Canadian Grand Prix](../seasons/1967-season-report#round-8-canadian-grand-prix) | Cooper-Maserati | Q: 13<br/>R: 10 | 1589 **<span style="color: red;">▼ -8</span>** | N/A | 1512 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier)<br/>Q: 14<br/>R: 8 |
+| [Round 8: Canadian Grand Prix](../seasons/1967-season-report#round-8-canadian-grand-prix) | Cooper-Maserati | Q: 13<br/>R: 10 | 1589 **<span style="color: red;">▼ -8</span>** | N/A | 1511 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier)<br/>Q: 14<br/>R: 8 |
 
 ### 1968 Season
 
@@ -154,14 +154,14 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1445 **<span style="color: red;">▼ -34</span>** | 1506 **<span style="color: red;">▼ -83</span>** | 1463 **<span style="color: red;">▼ -49</span>** |
+| 1459 **<span style="color: red;">▼ -18</span>** | 1506 **<span style="color: red;">▼ -83</span>** | 1474 **<span style="color: red;">▼ -37</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) (1517)**: 1 wins (20.0%) • 2 losses (40.0%) • 2 DNFs (40.0%) • **Elo **<span style="color: red;">▼ -15</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) (1489)**: 2 wins (33.3%) • 2 losses (33.3%) • 2 DNFs (33.3%) • **Elo <span style="color: green;">▲ +1</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez) (1628)**: 1 wins (16.7%) • 5 losses (83.3%) • **Elo <span style="color: red;">▼ -54</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Piers Courage](piers-courage) (1454)**: 1 wins (20.0%) • 2 losses (40.0%) • 2 DNFs (40.0%) • **Elo **<span style="color: red;">▼ -19</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Piers Courage](piers-courage) (1470)**: 1 wins (20.0%) • 2 losses (40.0%) • 2 DNFs (40.0%) • **Elo <span style="color: red;">▼ -18</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Piers Courage](piers-courage) (1455)**: 3 wins (50.0%) • 3 losses (50.0%) • **Elo <span style="color: red;">▼ -29</span>**
 
 #### DNF Statistics
@@ -172,12 +172,12 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Monaco Grand Prix](../seasons/1968-season-report#round-3-monaco-grand-prix) | BRM | Q: 6<br/>R: 2 | 1614 **<span style="color: green;">▲ +9</span>** | N/A | 1531 **<span style="color: green;">▲ +3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez)<br/>Q: 9<br/>R: 7 |
+| [Round 3: Monaco Grand Prix](../seasons/1968-season-report#round-3-monaco-grand-prix) | BRM | Q: 6<br/>R: 2 | 1614 **<span style="color: green;">▲ +9</span>** | N/A | 1530 **<span style="color: green;">▲ +3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez)<br/>Q: 9<br/>R: 7 |
 | [Round 4: Belgian Grand Prix](../seasons/1968-season-report#round-4-belgian-grand-prix) | BRM | Q: 18<br/>R: DNF | 1573 **<span style="color: red;">▼ -23</span>** | N/A | 1518 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez)<br/>Q: 8<br/>R: 2 |
-| [Round 5: Dutch Grand Prix](../seasons/1968-season-report#round-5-dutch-grand-prix) | BRM | Q: 15<br/>R: 7 | 1537 **<span style="color: red;">▼ -21</span>** | 1494 **<span style="color: green;">▲ +15</span>** | 1506 **<span style="color: green;">▲ +4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez)<br/>Q: 11<br/>R: 3 |
-| [Round 6: French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix) | BRM | Q: 12<br/>R: 7 | 1537 **<span style="color: red;">▼ -13</span>** | N/A | 1494 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Piers Courage](piers-courage)<br/>Q: 14<br/>R: 6 |
-| [Round 7: British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix) | BRM | Q: 15<br/>R: DNF | 1537 **<span style="color: red;">▼ -12</span>** | N/A | 1494 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Piers Courage](piers-courage)<br/>Q: 16<br/>R: DNF |
-| [Round 8: German Grand Prix](../seasons/1968-season-report#round-8-german-grand-prix) | BRM | Q: 20<br/>R: 14 | 1506 **<span style="color: red;">▼ -19</span>** | 1445 **<span style="color: red;">▼ -16</span>** | 1463 **<span style="color: red;">▼ -17</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez)<br/>Q: 14<br/>R: 6 |
+| [Round 5: Dutch Grand Prix](../seasons/1968-season-report#round-5-dutch-grand-prix) | BRM | Q: 15<br/>R: 7 | 1537 **<span style="color: red;">▼ -21</span>** | 1492 **<span style="color: green;">▲ +16</span>** | 1507 **<span style="color: green;">▲ +5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez)<br/>Q: 11<br/>R: 3 |
+| [Round 6: French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix) | BRM | Q: 12<br/>R: 7 | 1537 **<span style="color: red;">▼ -13</span>** | 1491 **<span style="color: green;">▲ +17</span>** | 1506 **<span style="color: green;">▲ +8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Piers Courage](piers-courage)<br/>Q: 14<br/>R: 6 |
+| [Round 7: British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix) | BRM | Q: 15<br/>R: DNF | 1537 **<span style="color: red;">▼ -12</span>** | N/A | 1506 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Piers Courage](piers-courage)<br/>Q: 16<br/>R: DNF |
+| [Round 8: German Grand Prix](../seasons/1968-season-report#round-8-german-grand-prix) | BRM | Q: 20<br/>R: 14 | 1506 **<span style="color: red;">▼ -19</span>** | 1459 **<span style="color: red;">▼ -16</span>** | 1474 **<span style="color: red;">▼ -17</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez](pedro-rodrguez)<br/>Q: 14<br/>R: 6 |
 
 ### 1969 Season
 
@@ -187,14 +187,14 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1420 **<span style="color: red;">▼ -25</span>** | 1489 **<span style="color: red;">▼ -17</span>** | 1441 **<span style="color: red;">▼ -22</span>** |
+| 1434 **<span style="color: red;">▼ -25</span>** | 1489 **<span style="color: red;">▼ -17</span>** | 1452 **<span style="color: red;">▼ -22</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1632)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -8</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1643)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -8</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1821)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -4</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1418)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -17</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1443)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -16</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1584)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -12</span>**
 
 #### DNF Statistics
@@ -205,5 +205,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Monaco Grand Prix](../seasons/1969-season-report#round-3-monaco-grand-prix) | Lotus-Ford | Q: 10<br/>R: 4 | 1489 **<span style="color: red;">▼ -12</span>** | 1420 **<span style="color: red;">▼ -17</span>** | 1441 **<span style="color: red;">▼ -15</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)<br/>Q: 4<br/>R: 1 |
+| [Round 3: Monaco Grand Prix](../seasons/1969-season-report#round-3-monaco-grand-prix) | Lotus-Ford | Q: 10<br/>R: 4 | 1489 **<span style="color: red;">▼ -12</span>** | 1434 **<span style="color: red;">▼ -16</span>** | 1452 **<span style="color: red;">▼ -15</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)<br/>Q: 4<br/>R: 1 |
 

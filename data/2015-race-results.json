@@ -9925,17 +9925,17 @@
     "button": {
       "qualifyingElo": 1750,
       "raceElo": 1881,
-      "globalElo": 1842
+      "globalElo": 1841
     },
     "alonso": {
       "qualifyingElo": 1739,
       "raceElo": 1808,
-      "globalElo": 1787
+      "globalElo": 1788
     },
     "rosberg": {
       "qualifyingElo": 1940,
       "raceElo": 1679,
-      "globalElo": 1760
+      "globalElo": 1759
     },
     "vettel": {
       "qualifyingElo": 1780,
@@ -9949,8 +9949,8 @@
     },
     "hamilton": {
       "qualifyingElo": 1792,
-      "raceElo": 1673,
-      "globalElo": 1709
+      "raceElo": 1674,
+      "globalElo": 1711
     },
     "perez": {
       "qualifyingElo": 1743,
@@ -9980,7 +9980,7 @@
     "massa": {
       "qualifyingElo": 1632,
       "raceElo": 1549,
-      "globalElo": 1574
+      "globalElo": 1575
     },
     "rossi": {
       "qualifyingElo": 1562,

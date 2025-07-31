@@ -12648,7 +12648,7 @@
     "alonso": {
       "qualifyingElo": 1774,
       "raceElo": 1769,
-      "globalElo": 1769
+      "globalElo": 1770
     },
     "norris": {
       "qualifyingElo": 1874,
@@ -12657,8 +12657,8 @@
     },
     "hamilton": {
       "qualifyingElo": 1724,
-      "raceElo": 1730,
-      "globalElo": 1734
+      "raceElo": 1731,
+      "globalElo": 1733
     },
     "leclerc": {
       "qualifyingElo": 1671,
@@ -12682,8 +12682,8 @@
     },
     "bottas": {
       "qualifyingElo": 1771,
-      "raceElo": 1527,
-      "globalElo": 1596
+      "raceElo": 1528,
+      "globalElo": 1598
     },
     "ocon": {
       "qualifyingElo": 1530,
@@ -12703,7 +12703,7 @@
     "zhou": {
       "qualifyingElo": 1538,
       "raceElo": 1520,
-      "globalElo": 1527
+      "globalElo": 1526
     },
     "piastri": {
       "qualifyingElo": 1504,

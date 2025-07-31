@@ -10,7 +10,7 @@
 
 **Total Race Events**: 18 (54 individual Elo calculations)
 
-**DNF Statistics**: 6 DNFs out of 18 races (33.3%)
+**DNF Statistics**: 5 DNFs out of 18 races (27.8%)
 
 ### 🏁 Qualifying Performance
 
@@ -51,18 +51,18 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Zsolt Baumgartner](zsolt-baumgartner) (1491)**: 6 wins (37.5%) • 4 losses (25.0%) • 6 DNFs (37.5%) • **Elo **<span style="color: red;">▼ -10</span>****
+- **Races vs [Zsolt Baumgartner](zsolt-baumgartner) (1491)**: 6 wins (40.0%) • 4 losses (26.7%) • 5 DNFs (33.3%) • **Elo <span style="color: red;">▼ -10</span>**
 - **Qualifying vs [Zsolt Baumgartner](zsolt-baumgartner) (1422)**: 12 wins (66.7%) • 6 losses (33.3%) • **Elo <span style="color: green;">▲ +54</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 18 races (33.3%)
+- **DNFs**: 5 out of 18 races (27.8%)
 
 #### Detailed Results
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix) | Minardi | Q: 20<br/>R: DNF | 1466 **<span style="color: red;">▼ -34</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 17<br/>R: DNF |
+| [Round 1: Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix) | Minardi | Q: 20<br/>R: 17 | 1466 **<span style="color: red;">▼ -34</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 17<br/>R: DNF |
 | [Round 2: Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix) | Minardi | Q: 16<br/>R: 14 | 1502 **<span style="color: green;">▲ +36</span>** | 1530 **<span style="color: green;">▲ +30</span>** | 1522 **<span style="color: green;">▲ +32</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 17<br/>R: 16 |
 | [Round 3: Bahrain Grand Prix](../seasons/2004-season-report#round-3-bahrain-grand-prix) | Minardi | Q: 17<br/>R: 17 | 1531 **<span style="color: green;">▲ +29</span>** | N/A | 1530 **<span style="color: green;">▲ +9</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 20<br/>R: DNF |
 | [Round 4: San Marino Grand Prix](../seasons/2004-season-report#round-4-san-marino-grand-prix) | Minardi | Q: 17<br/>R: DNF | 1555 **<span style="color: green;">▲ +24</span>** | N/A | 1538 **<span style="color: green;">▲ +7</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 19<br/>R: 15 |

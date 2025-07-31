@@ -4030,6 +4030,11 @@
       "raceElo": 1516,
       "globalElo": 1501
     },
+    "fairman": {
+      "qualifyingElo": 1465,
+      "raceElo": 1514,
+      "globalElo": 1500
+    },
     "mclaren": {
       "qualifyingElo": 1449,
       "raceElo": 1519,
@@ -4039,11 +4044,6 @@
       "qualifyingElo": 1485,
       "raceElo": 1500,
       "globalElo": 1496
-    },
-    "fairman": {
-      "qualifyingElo": 1465,
-      "raceElo": 1505,
-      "globalElo": 1495
     },
     "goldsmith": {
       "qualifyingElo": 1499,
@@ -4065,15 +4065,15 @@
       "raceElo": 1500,
       "globalElo": 1492
     },
-    "phil_hill": {
-      "qualifyingElo": 1476,
-      "raceElo": 1496,
-      "globalElo": 1491
-    },
     "mike_taylor": {
       "qualifyingElo": 1471,
       "raceElo": 1500,
       "globalElo": 1491
+    },
+    "phil_hill": {
+      "qualifyingElo": 1476,
+      "raceElo": 1496,
+      "globalElo": 1490
     },
     "fontes": {
       "qualifyingElo": 1467,
@@ -4153,7 +4153,7 @@
     "trips": {
       "qualifyingElo": 1436,
       "raceElo": 1498,
-      "globalElo": 1476
+      "globalElo": 1475
     },
     "scarlatti": {
       "qualifyingElo": 1482,

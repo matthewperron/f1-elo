@@ -7707,13 +7707,13 @@
     },
     "alesi": {
       "qualifyingElo": 1787,
-      "raceElo": 1767,
-      "globalElo": 1772
+      "raceElo": 1770,
+      "globalElo": 1775
     },
     "frentzen": {
       "qualifyingElo": 1714,
-      "raceElo": 1789,
-      "globalElo": 1765
+      "raceElo": 1790,
+      "globalElo": 1766
     },
     "villeneuve": {
       "qualifyingElo": 1816,
@@ -7723,12 +7723,12 @@
     "hakkinen": {
       "qualifyingElo": 1779,
       "raceElo": 1661,
-      "globalElo": 1696
+      "globalElo": 1698
     },
     "trulli": {
       "qualifyingElo": 1649,
-      "raceElo": 1697,
-      "globalElo": 1682
+      "raceElo": 1699,
+      "globalElo": 1685
     },
     "fisichella": {
       "qualifyingElo": 1672,
@@ -7738,17 +7738,17 @@
     "herbert": {
       "qualifyingElo": 1731,
       "raceElo": 1608,
-      "globalElo": 1644
+      "globalElo": 1646
     },
     "irvine": {
       "qualifyingElo": 1640,
-      "raceElo": 1625,
-      "globalElo": 1627
+      "raceElo": 1626,
+      "globalElo": 1628
     },
     "barrichello": {
       "qualifyingElo": 1809,
       "raceElo": 1541,
-      "globalElo": 1622
+      "globalElo": 1620
     },
     "coulthard": {
       "qualifyingElo": 1569,
@@ -7757,28 +7757,28 @@
     },
     "panis": {
       "qualifyingElo": 1761,
-      "raceElo": 1483,
-      "globalElo": 1568
+      "raceElo": 1486,
+      "globalElo": 1569
+    },
+    "diniz": {
+      "qualifyingElo": 1549,
+      "raceElo": 1544,
+      "globalElo": 1548
     },
     "rosa": {
       "qualifyingElo": 1494,
       "raceElo": 1568,
       "globalElo": 1547
     },
-    "diniz": {
-      "qualifyingElo": 1549,
-      "raceElo": 1540,
-      "globalElo": 1542
-    },
     "salo": {
       "qualifyingElo": 1535,
-      "raceElo": 1542,
-      "globalElo": 1539
+      "raceElo": 1544,
+      "globalElo": 1542
     },
     "ralf_schumacher": {
       "qualifyingElo": 1592,
-      "raceElo": 1473,
-      "globalElo": 1508
+      "raceElo": 1474,
+      "globalElo": 1510
     },
     "gene": {
       "qualifyingElo": 1544,
@@ -7792,8 +7792,8 @@
     },
     "badoer": {
       "qualifyingElo": 1580,
-      "raceElo": 1455,
-      "globalElo": 1494
+      "raceElo": 1456,
+      "globalElo": 1493
     },
     "sarrazin": {
       "qualifyingElo": 1530,
@@ -7812,13 +7812,13 @@
     },
     "damon_hill": {
       "qualifyingElo": 1419,
-      "raceElo": 1459,
+      "raceElo": 1460,
       "globalElo": 1446
     },
     "zanardi": {
       "qualifyingElo": 1542,
-      "raceElo": 1358,
-      "globalElo": 1412
+      "raceElo": 1359,
+      "globalElo": 1413
     }
   }
 }

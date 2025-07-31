@@ -23,18 +23,18 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1549
+🏆 **Peak Race Elo**: 1547
    *[1976 Round 1 – Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
 
-📉 **Lowest Race Elo**: 1526
+📉 **Lowest Race Elo**: 1523
    *[1977 Round 2 – Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
-🏆 **Peak Global Elo**: 1532
+🏆 **Peak Global Elo**: 1531
    *[1976 Round 1 – Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
 
-📉 **Lowest Global Elo**: 1511
+📉 **Lowest Global Elo**: 1510
    *[1977 Round 2 – Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
 
 
@@ -48,11 +48,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1549 **<span style="color: green;">▲ +49</span>** | 1492 **<span style="color: red;">▼ -8</span>** | 1532 **<span style="color: green;">▲ +32</span>** |
+| 1547 **<span style="color: green;">▲ +47</span>** | 1492 **<span style="color: red;">▼ -8</span>** | 1531 **<span style="color: green;">▲ +31</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) (1650)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +49</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) (1633)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +47</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) (1838)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -8</span>**
 
 #### DNF Statistics
@@ -63,7 +63,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix) | Fittipaldi | Q: 20<br/>R: 11 | 1492 **<span style="color: red;">▼ -8</span>** | 1549 **<span style="color: green;">▲ +49</span>** | 1532 **<span style="color: green;">▲ +32</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi)<br/>Q: 5<br/>R: 13 |
+| [Round 1: Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix) | Fittipaldi | Q: 20<br/>R: 11 | 1492 **<span style="color: red;">▼ -8</span>** | 1547 **<span style="color: green;">▲ +47</span>** | 1531 **<span style="color: green;">▲ +31</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi)<br/>Q: 5<br/>R: 13 |
 
 ### 1977 Season
 
@@ -73,11 +73,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1526 **<span style="color: red;">▼ -23</span>** | 1477 **<span style="color: red;">▼ -15</span>** | 1511 **<span style="color: red;">▼ -21</span>** |
+| 1523 **<span style="color: red;">▼ -24</span>** | 1477 **<span style="color: red;">▼ -15</span>** | 1510 **<span style="color: red;">▼ -21</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) (1673)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -23</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) (1657)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼ -24</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) (1853)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -15</span>**
 
 #### DNF Statistics
@@ -88,6 +88,6 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Argentine Grand Prix](../seasons/1977-season-report#round-1-argentine-grand-prix) | Fittipaldi | Q: 19<br/>R: DNF | 1484 **<span style="color: red;">▼ -8</span>** | N/A | 1530 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi)<br/>Q: 16<br/>R: 4 |
-| [Round 2: Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix) | Fittipaldi | Q: 19<br/>R: 7 | 1477 **<span style="color: red;">▼ -7</span>** | 1526 **<span style="color: red;">▼ -23</span>** | 1511 **<span style="color: red;">▼ -18</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi)<br/>Q: 16<br/>R: 4 |
+| [Round 1: Argentine Grand Prix](../seasons/1977-season-report#round-1-argentine-grand-prix) | Fittipaldi | Q: 19<br/>R: DNF | 1484 **<span style="color: red;">▼ -8</span>** | N/A | 1529 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi)<br/>Q: 16<br/>R: 4 |
+| [Round 2: Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix) | Fittipaldi | Q: 19<br/>R: 7 | 1477 **<span style="color: red;">▼ -7</span>** | 1523 **<span style="color: red;">▼ -24</span>** | 1510 **<span style="color: red;">▼ -19</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi)<br/>Q: 16<br/>R: 4 |
 

@@ -14,7 +14,7 @@
 
 **Total Race Events**: 58 (174 individual Elo calculations)
 
-**DNF Statistics**: 38 DNFs out of 58 races (65.5%)
+**DNF Statistics**: 37 DNFs out of 58 races (63.8%)
 
 ### 🏁 Qualifying Performance
 
@@ -26,7 +26,7 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1598
+🏆 **Peak Race Elo**: 1597
    *[1987 Round 10 – Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1437
@@ -34,7 +34,7 @@
 
 ### 🌟 Global Performance
 
-🏆 **Peak Global Elo**: 1530
+🏆 **Peak Global Elo**: 1529
    *[1987 Round 10 – Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1428
@@ -55,18 +55,18 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 6 DNFs (100.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 5 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1606)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo <span style="color: red;">▼ -106</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 7 races (85.7%)
+- **DNFs**: 5 out of 7 races (71.4%)
 
 #### Detailed Results
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix) | Toleman | Q: 10<br/>R: DNF | 1468 **<span style="color: red;">▼ -32</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)<br/>Q: 8<br/>R: DNF |
+| [Round 4: San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix) | Toleman | Q: 10<br/>R: 7 | 1468 **<span style="color: red;">▼ -32</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)<br/>Q: 8<br/>R: DNF |
 | [Round 5: Belgian Grand Prix](../seasons/1982-season-report#round-5-belgian-grand-prix) | Toleman | Q: 21<br/>R: DNF | 1442 **<span style="color: red;">▼ -26</span>** | N/A | 1483 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)<br/>Q: 19<br/>R: DNF |
 | [Round 10: British Grand Prix](../seasons/1982-season-report#round-10-british-grand-prix) | Toleman | Q: 15<br/>R: 26 | 1484 **<span style="color: green;">▲ +42</span>** | N/A | 1495 **<span style="color: green;">▲ +13</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)<br/>Q: 16<br/>R: DNF |
 | [Round 11: French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix) | Toleman | Q: 21<br/>R: DNF | 1455 **<span style="color: red;">▼ -29</span>** | N/A | 1487 **<span style="color: red;">▼ -9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)<br/>Q: 14<br/>R: 15 |
@@ -86,7 +86,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1653)**: 0 wins (0.0%) • 2 losses (22.2%) • 7 DNFs (77.8%) • **Elo **<span style="color: red;">▼ -37</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1656)**: 0 wins (0.0%) • 2 losses (22.2%) • 7 DNFs (77.8%) • **Elo <span style="color: red;">▼ -37</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1847)**: 0 wins (0.0%) • 12 losses (100.0%) • **Elo <span style="color: red;">▼ -47</span>**
 
 #### DNF Statistics
@@ -153,7 +153,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](gerhard-berger) (1478)**: 3 wins (20.0%) • 2 losses (13.3%) • 10 DNFs (66.7%) • **Elo **<span style="color: green;">▲ +52</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](gerhard-berger) (1478)**: 3 wins (20.0%) • 2 losses (13.3%) • 10 DNFs (66.7%) • **Elo <span style="color: green;">▲ +52</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](gerhard-berger) (1609)**: 4 wins (25.0%) • 12 losses (75.0%) • **Elo <span style="color: red;">▼ -55</span>**
 
 #### DNF Statistics
@@ -189,11 +189,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1565 **<span style="color: green;">▲ +50</span>** | 1372 **<span style="color: red;">▼ -46</span>** | 1507 **<span style="color: green;">▲ +21</span>** |
+| 1563 **<span style="color: green;">▲ +48</span>** | 1372 **<span style="color: red;">▼ -46</span>** | 1506 **<span style="color: green;">▲ +20</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) (1617)**: 2 wins (16.7%) • 1 losses (8.3%) • 9 DNFs (75.0%) • **Elo **<span style="color: green;">▲ +50</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) (1612)**: 2 wins (16.7%) • 1 losses (8.3%) • 9 DNFs (75.0%) • **Elo <span style="color: green;">▲ +48</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) (1674)**: 3 wins (18.8%) • 13 losses (81.3%) • **Elo <span style="color: red;">▼ -45</span>**
 
 #### DNF Statistics
@@ -213,11 +213,11 @@
 | [Round 7: British Grand Prix](../seasons/1987-season-report#round-7-british-grand-prix) | Benetton | Q: 6<br/>R: 6 | 1404 **<span style="color: red;">▼ -15</span>** | 1560 **<span style="color: green;">▲ +45</span>** | 1513 **<span style="color: green;">▲ +27</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 5<br/>R: 7 |
 | [Round 8: German Grand Prix](../seasons/1987-season-report#round-8-german-grand-prix) | Benetton | Q: 9<br/>R: DNF | 1391 **<span style="color: red;">▼ -13</span>** | N/A | 1509 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 6<br/>R: DNF |
 | [Round 9: Hungarian Grand Prix](../seasons/1987-season-report#round-9-hungarian-grand-prix) | Benetton | Q: 12<br/>R: DNF | 1379 **<span style="color: red;">▼ -11</span>** | N/A | 1506 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 7<br/>R: 4 |
-| [Round 10: Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix) | Benetton | Q: 5<br/>R: 3 | 1369 **<span style="color: red;">▼ -10</span>** | 1598 **<span style="color: green;">▲ +38</span>** | 1530 **<span style="color: green;">▲ +24</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 4<br/>R: 4 |
-| [Round 11: Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix) | Benetton | Q: 7<br/>R: 7 | 1360 **<span style="color: red;">▼ -9</span>** | 1565 **<span style="color: red;">▼ -33</span>** | 1504 **<span style="color: red;">▼ -26</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 6<br/>R: 5 |
-| [Round 12: Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix) | Benetton | Q: 10<br/>R: DNF | 1351 **<span style="color: red;">▼ -8</span>** | N/A | 1501 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 9<br/>R: 14 |
-| [Round 13: Spanish Grand Prix](../seasons/1987-season-report#round-13-spanish-grand-prix) | Benetton | Q: 6<br/>R: DNF | 1407 **<span style="color: green;">▲ +56</span>** | N/A | 1518 **<span style="color: green;">▲ +17</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 8<br/>R: 16 |
-| [Round 14: Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix) | Benetton | Q: 6<br/>R: 5 | 1394 **<span style="color: red;">▼ -13</span>** | N/A | 1514 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 4<br/>R: DNF |
-| [Round 15: Japanese Grand Prix](../seasons/1987-season-report#round-15-japanese-grand-prix) | Benetton | Q: 6<br/>R: DNF | 1382 **<span style="color: red;">▼ -12</span>** | N/A | 1511 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 3<br/>R: 5 |
-| [Round 16: Australian Grand Prix](../seasons/1987-season-report#round-16-australian-grand-prix) | Benetton | Q: 9<br/>R: DNF | 1372 **<span style="color: red;">▼ -11</span>** | N/A | 1507 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 5<br/>R: 3 |
+| [Round 10: Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix) | Benetton | Q: 5<br/>R: 3 | 1369 **<span style="color: red;">▼ -10</span>** | 1597 **<span style="color: green;">▲ +37</span>** | 1529 **<span style="color: green;">▲ +23</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 4<br/>R: 4 |
+| [Round 11: Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix) | Benetton | Q: 7<br/>R: 7 | 1360 **<span style="color: red;">▼ -9</span>** | 1563 **<span style="color: red;">▼ -34</span>** | 1503 **<span style="color: red;">▼ -26</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 6<br/>R: 5 |
+| [Round 12: Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix) | Benetton | Q: 10<br/>R: DNF | 1351 **<span style="color: red;">▼ -8</span>** | N/A | 1500 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 9<br/>R: 14 |
+| [Round 13: Spanish Grand Prix](../seasons/1987-season-report#round-13-spanish-grand-prix) | Benetton | Q: 6<br/>R: DNF | 1407 **<span style="color: green;">▲ +56</span>** | N/A | 1517 **<span style="color: green;">▲ +17</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 8<br/>R: 16 |
+| [Round 14: Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix) | Benetton | Q: 6<br/>R: 5 | 1394 **<span style="color: red;">▼ -13</span>** | N/A | 1513 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 4<br/>R: DNF |
+| [Round 15: Japanese Grand Prix](../seasons/1987-season-report#round-15-japanese-grand-prix) | Benetton | Q: 6<br/>R: DNF | 1382 **<span style="color: red;">▼ -12</span>** | N/A | 1509 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 3<br/>R: 5 |
+| [Round 16: Australian Grand Prix](../seasons/1987-season-report#round-16-australian-grand-prix) | Benetton | Q: 9<br/>R: DNF | 1372 **<span style="color: red;">▼ -11</span>** | N/A | 1506 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)<br/>Q: 5<br/>R: 3 |
 

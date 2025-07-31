@@ -23,10 +23,10 @@
 
 ### 🏎️ Race Performance
 
-🏆 **Peak Race Elo**: 1484
+🏆 **Peak Race Elo**: 1485
    *[1968 Round 6 – French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
 
-📉 **Lowest Race Elo**: 1484
+📉 **Lowest Race Elo**: 1485
    *[1968 Round 6 – French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
 
 ### 🌟 Global Performance
@@ -73,11 +73,11 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1484 **<span style="color: red;">▼ -16</span>** | 1464 **<span style="color: red;">▼ -4</span>** | 1478 **<span style="color: red;">▼ -12</span>** |
+| 1485 **<span style="color: red;">▼ -15</span>** | 1464 **<span style="color: red;">▼ -4</span>** | 1478 **<span style="color: red;">▼ -12</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees) (1712)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -16</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees) (1716)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -15</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees) (1922)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -4</span>**
 
 #### DNF Statistics
@@ -88,5 +88,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix) | Honda | Q: 16<br/>R: 17 | 1464 **<span style="color: red;">▼ -4</span>** | 1484 **<span style="color: red;">▼ -16</span>** | 1478 **<span style="color: red;">▼ -12</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees)<br/>Q: 7<br/>R: 2 |
+| [Round 6: French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix) | Honda | Q: 16<br/>R: 17 | 1464 **<span style="color: red;">▼ -4</span>** | 1485 **<span style="color: red;">▼ -15</span>** | 1478 **<span style="color: red;">▼ -12</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees)<br/>Q: 7<br/>R: 2 |
 

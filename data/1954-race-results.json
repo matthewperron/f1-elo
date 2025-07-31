@@ -4364,18 +4364,18 @@
     },
     "ascari": {
       "qualifyingElo": 1841,
-      "raceElo": 1684,
+      "raceElo": 1683,
       "globalElo": 1734
     },
     "farina": {
       "qualifyingElo": 1725,
-      "raceElo": 1616,
-      "globalElo": 1649
+      "raceElo": 1615,
+      "globalElo": 1648
     },
     "hawthorn": {
       "qualifyingElo": 1669,
-      "raceElo": 1590,
-      "globalElo": 1641
+      "raceElo": 1584,
+      "globalElo": 1635
     },
     "moss": {
       "qualifyingElo": 1708,
@@ -4444,12 +4444,12 @@
     },
     "villoresi": {
       "qualifyingElo": 1600,
-      "raceElo": 1490,
-      "globalElo": 1521
+      "raceElo": 1489,
+      "globalElo": 1520
     },
     "marimon": {
       "qualifyingElo": 1599,
-      "raceElo": 1486,
+      "raceElo": 1487,
       "globalElo": 1519
     },
     "ruttman": {
@@ -4672,6 +4672,11 @@
       "raceElo": 1492,
       "globalElo": 1484
     },
+    "wharton": {
+      "qualifyingElo": 1490,
+      "raceElo": 1477,
+      "globalElo": 1482
+    },
     "homeier": {
       "qualifyingElo": 1500,
       "raceElo": 1477,
@@ -4681,11 +4686,6 @@
       "qualifyingElo": 1481,
       "raceElo": 1478,
       "globalElo": 1479
-    },
-    "wharton": {
-      "qualifyingElo": 1490,
-      "raceElo": 1466,
-      "globalElo": 1474
     },
     "nuckey": {
       "qualifyingElo": 1442,

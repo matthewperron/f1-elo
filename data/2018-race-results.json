@@ -11052,13 +11052,13 @@
   "finalELOs": {
     "hamilton": {
       "qualifyingElo": 2028,
-      "raceElo": 1847,
-      "globalElo": 1902
+      "raceElo": 1848,
+      "globalElo": 1903
     },
     "alonso": {
       "qualifyingElo": 1917,
       "raceElo": 1799,
-      "globalElo": 1833
+      "globalElo": 1834
     },
     "max_verstappen": {
       "qualifyingElo": 1649,
