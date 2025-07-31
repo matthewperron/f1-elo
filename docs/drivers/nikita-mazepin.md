@@ -1,6 +1,6 @@
 # Nikita Mazepin - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2021](../seasons/2021-season-report)
 **Total Race Events**: 22 (66 individual ELO calculations)

@@ -1,6 +1,6 @@
 # Zsolt Baumgartner - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2003](../seasons/2003-season-report) • [2004](../seasons/2004-season-report)
 **Total Race Events**: 20 (60 individual ELO calculations)

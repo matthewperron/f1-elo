@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Warwick Brown - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1976](../seasons/1976-season-report)
 **Total Race Events**: 1 (3 individual ELO calculations)

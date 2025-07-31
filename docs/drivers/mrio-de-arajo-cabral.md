@@ -1,6 +1,6 @@
 # Mário de Araújo Cabral - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1960](../seasons/1960-season-report)
 **Total Race Events**: 1 (3 individual ELO calculations)

@@ -1,6 +1,6 @@
 # Bertrand Gachot - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1989](../seasons/1989-season-report) • [1991](../seasons/1991-season-report) • [1992](../seasons/1992-season-report) • [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report)
 **Total Race Events**: 39 (117 individual ELO calculations)

@@ -1,6 +1,6 @@
 # Marcus Ericsson - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2014](../seasons/2014-season-report) • [2015](../seasons/2015-season-report) • [2016](../seasons/2016-season-report) • [2017](../seasons/2017-season-report) • [2018](../seasons/2018-season-report)
 **Total Race Events**: 97 (291 individual ELO calculations)

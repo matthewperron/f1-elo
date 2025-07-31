@@ -1,6 +1,6 @@
 # Slim Borgudd - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1981](../seasons/1981-season-report) • [1982](../seasons/1982-season-report)
 **Total Race Events**: 4 (12 individual ELO calculations)

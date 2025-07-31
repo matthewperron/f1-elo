@@ -1,6 +1,6 @@
 # Sergey Sirotkin - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2018](../seasons/2018-season-report)
 **Total Race Events**: 21 (63 individual ELO calculations)

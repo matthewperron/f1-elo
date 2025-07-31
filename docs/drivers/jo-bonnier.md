@@ -1,6 +1,6 @@
 # Jo Bonnier - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1958](../seasons/1958-season-report) • [1959](../seasons/1959-season-report) • [1960](../seasons/1960-season-report) • [1961](../seasons/1961-season-report) • [1962](../seasons/1962-season-report) • [1964](../seasons/1964-season-report) • [1966](../seasons/1966-season-report) • [1968](../seasons/1968-season-report) • [1971](../seasons/1971-season-report)
 **Total Race Events**: 10 (30 individual ELO calculations)

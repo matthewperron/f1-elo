@@ -1,6 +1,6 @@
 # Thierry Boutsen - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1983](../seasons/1983-season-report) • [1984](../seasons/1984-season-report) • [1985](../seasons/1985-season-report) • [1986](../seasons/1986-season-report) • [1987](../seasons/1987-season-report) • [1988](../seasons/1988-season-report) • [1989](../seasons/1989-season-report) • [1990](../seasons/1990-season-report) • [1991](../seasons/1991-season-report) • [1992](../seasons/1992-season-report) • [1993](../seasons/1993-season-report)
 **Total Race Events**: 159 (477 individual ELO calculations)

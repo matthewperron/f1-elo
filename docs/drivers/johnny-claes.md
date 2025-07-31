@@ -1,6 +1,6 @@
 # Johnny Claes - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1952](../seasons/1952-season-report)
 **Total Race Events**: 1 (3 individual ELO calculations)

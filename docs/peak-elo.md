@@ -1510,4 +1510,4 @@ Based solely on race finishing positions compared to teammates.
 - **Highest peak**: 2070 (<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso)
 - **Average peak**: 1549
 
-*Generated on: 2025-07-30 19:50*
+*Generated on: 2025-07-31 20:02*

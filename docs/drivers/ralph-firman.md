@@ -1,6 +1,6 @@
 # Ralph Firman - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2003](../seasons/2003-season-report)
 **Total Race Events**: 14 (42 individual ELO calculations)

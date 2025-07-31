@@ -1,6 +1,6 @@
 # Karun Chandhok - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2010](../seasons/2010-season-report) • [2011](../seasons/2011-season-report)
 **Total Race Events**: 11 (33 individual ELO calculations)

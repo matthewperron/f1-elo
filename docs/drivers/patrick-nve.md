@@ -1,6 +1,6 @@
 # Patrick Nève - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1976](../seasons/1976-season-report) • [1977](../seasons/1977-season-report)
 **Total Race Events**: 4 (12 individual ELO calculations)

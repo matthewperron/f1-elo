@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1957](../seasons/1957-season-report) • [1958](../seasons/1958-season-report) • [1963](../seasons/1963-season-report) • [1966](../seasons/1966-season-report) • [1967](../seasons/1967-season-report) • [1968](../seasons/1968-season-report) • [1969](../seasons/1969-season-report) • [1970](../seasons/1970-season-report)
 **Total Race Events**: 40 (120 individual ELO calculations)

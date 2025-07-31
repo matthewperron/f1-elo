@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1974](../seasons/1974-season-report) • [1975](../seasons/1975-season-report) • [1976](../seasons/1976-season-report) • [1977](../seasons/1977-season-report) • [1978](../seasons/1978-season-report) • [1979](../seasons/1979-season-report) • [1980](../seasons/1980-season-report) • [1982](../seasons/1982-season-report)
 **Total Race Events**: 83 (249 individual ELO calculations)

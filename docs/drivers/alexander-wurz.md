@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1997](../seasons/1997-season-report) • [1998](../seasons/1998-season-report) • [1999](../seasons/1999-season-report) • [2000](../seasons/2000-season-report) • [2005](../seasons/2005-season-report) • [2007](../seasons/2007-season-report)
 **Total Race Events**: 69 (207 individual ELO calculations)

@@ -179,7 +179,7 @@ async function updateIndexWithTop30(peakDriversData) {
         // Helper function to create a table
         function createTop30Table(drivers, title, description) {
             const top30 = drivers.slice(0, 30);
-            let tableContent = `\n## ${title}\n\n`;
+            let tableContent = `## ${title}\n\n`;
             tableContent += `${description}\n\n`;
             tableContent += `| Rank | Driver | Peak ELO | Constructor | Teammate | Teammate ELO | Season | Race |\n`;
             tableContent += `|------|--------|----------|-------------|----------|--------------|--------|------|\n`;
@@ -218,24 +218,14 @@ async function updateIndexWithTop30(peakDriversData) {
         const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
         allTablesContent += `\n*Based on peak ELO ratings achieved during their F1 careers. Updated: ${timestamp}*\n`;
         
-        // Find the position to insert the tables (after the current season results)
-        const eloResultsEndPattern = /<!-- ELO_RESULTS_END -->/;
-        const match = indexContent.match(eloResultsEndPattern);
+        // Replace content between TOP30_TABLES markers
+        const updatedContent = indexContent.replace(
+            /<!-- TOP30_TABLES_START -->.*?<!-- TOP30_TABLES_END -->/s,
+            `<!-- TOP30_TABLES_START -->\n${allTablesContent}<!-- TOP30_TABLES_END -->`
+        );
         
-        if (match) {
-            const insertPosition = match.index + match[0].length;
-            const beforeTables = indexContent.substring(0, insertPosition);
-            const afterTables = indexContent.substring(insertPosition);
-            
-            // Remove any existing top 30 tables
-            const cleanAfterTables = afterTables.replace(/\n## Top 30 F1 Drivers of All Time.*?\*Based on peak ELO ratings.*?\*\n/s, '');
-            
-            const newContent = beforeTables + allTablesContent + cleanAfterTables;
-            await fs.writeFile('docs/index.md', newContent, 'utf8');
-            console.log(`✓ Added 3 top 30 drivers tables to docs/index.md`);
-        } else {
-            console.log(`⚠ Could not find ELO_RESULTS_END marker in docs/index.md`);
-        }
+        await fs.writeFile('docs/index.md', updatedContent, 'utf8');
+        console.log(`✓ Updated 3 top 30 drivers tables in docs/index.md using markers`);
     } catch (error) {
         console.error(`⚠ Error updating docs/index.md with top 30 tables:`, error.message);
     }

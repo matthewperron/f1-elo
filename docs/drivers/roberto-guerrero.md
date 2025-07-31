@@ -1,6 +1,6 @@
 # Roberto Guerrero - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1983](../seasons/1983-season-report)
 **Total Race Events**: 9 (27 individual ELO calculations)

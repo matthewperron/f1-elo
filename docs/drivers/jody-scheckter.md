@@ -1,6 +1,6 @@
 # Jody Scheckter - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1973](../seasons/1973-season-report) • [1974](../seasons/1974-season-report) • [1975](../seasons/1975-season-report) • [1976](../seasons/1976-season-report) • [1978](../seasons/1978-season-report) • [1979](../seasons/1979-season-report) • [1980](../seasons/1980-season-report)
 **Total Race Events**: 70 (210 individual ELO calculations)

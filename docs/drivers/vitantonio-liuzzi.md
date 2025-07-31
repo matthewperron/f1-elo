@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2005](../seasons/2005-season-report) • [2006](../seasons/2006-season-report) • [2007](../seasons/2007-season-report) • [2009](../seasons/2009-season-report) • [2010](../seasons/2010-season-report) • [2011](../seasons/2011-season-report)
 **Total Race Events**: 80 (240 individual ELO calculations)

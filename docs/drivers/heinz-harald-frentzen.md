@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report) • [1996](../seasons/1996-season-report) • [1997](../seasons/1997-season-report) • [1998](../seasons/1998-season-report) • [1999](../seasons/1999-season-report) • [2000](../seasons/2000-season-report) • [2001](../seasons/2001-season-report) • [2002](../seasons/2002-season-report) • [2003](../seasons/2003-season-report)
 **Total Race Events**: 157 (471 individual ELO calculations)

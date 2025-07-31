@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Zonta - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1999](../seasons/1999-season-report) • [2000](../seasons/2000-season-report) • [2001](../seasons/2001-season-report) • [2004](../seasons/2004-season-report) • [2005](../seasons/2005-season-report)
 **Total Race Events**: 37 (111 individual ELO calculations)

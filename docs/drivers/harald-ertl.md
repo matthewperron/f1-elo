@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1975](../seasons/1975-season-report) • [1976](../seasons/1976-season-report) • [1977](../seasons/1977-season-report) • [1978](../seasons/1978-season-report)
 **Total Race Events**: 13 (39 individual ELO calculations)

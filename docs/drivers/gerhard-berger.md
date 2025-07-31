@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1984](../seasons/1984-season-report) • [1985](../seasons/1985-season-report) • [1986](../seasons/1986-season-report) • [1987](../seasons/1987-season-report) • [1988](../seasons/1988-season-report) • [1989](../seasons/1989-season-report) • [1990](../seasons/1990-season-report) • [1991](../seasons/1991-season-report) • [1992](../seasons/1992-season-report) • [1993](../seasons/1993-season-report) • [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report) • [1996](../seasons/1996-season-report) • [1997](../seasons/1997-season-report)
 **Total Race Events**: 206 (618 individual ELO calculations)

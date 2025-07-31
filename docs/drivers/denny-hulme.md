@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Denny Hulme - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1966](../seasons/1966-season-report) • [1967](../seasons/1967-season-report) • [1968](../seasons/1968-season-report) • [1969](../seasons/1969-season-report) • [1970](../seasons/1970-season-report) • [1971](../seasons/1971-season-report) • [1972](../seasons/1972-season-report) • [1973](../seasons/1973-season-report)
 **Total Race Events**: 61 (183 individual ELO calculations)

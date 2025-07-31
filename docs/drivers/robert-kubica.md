@@ -1,6 +1,6 @@
 # Robert Kubica - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2006](../seasons/2006-season-report) • [2007](../seasons/2007-season-report) • [2008](../seasons/2008-season-report) • [2009](../seasons/2009-season-report) • [2010](../seasons/2010-season-report) • [2019](../seasons/2019-season-report) • [2021](../seasons/2021-season-report)
 **Total Race Events**: 99 (297 individual ELO calculations)

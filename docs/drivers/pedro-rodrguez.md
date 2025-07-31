@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Pedro Rodríguez - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1968](../seasons/1968-season-report) • [1969](../seasons/1969-season-report) • [1970](../seasons/1970-season-report) • [1971](../seasons/1971-season-report)
 **Total Race Events**: 12 (36 individual ELO calculations)

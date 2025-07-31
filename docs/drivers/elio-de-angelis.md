@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1979](../seasons/1979-season-report) • [1980](../seasons/1980-season-report) • [1981](../seasons/1981-season-report) • [1982](../seasons/1982-season-report) • [1983](../seasons/1983-season-report) • [1984](../seasons/1984-season-report) • [1985](../seasons/1985-season-report) • [1986](../seasons/1986-season-report)
 **Total Race Events**: 103 (309 individual ELO calculations)

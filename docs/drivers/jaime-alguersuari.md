@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2009](../seasons/2009-season-report) • [2010](../seasons/2010-season-report) • [2011](../seasons/2011-season-report)
 **Total Race Events**: 46 (138 individual ELO calculations)

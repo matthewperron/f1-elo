@@ -1,6 +1,6 @@
 # Tony Maggs - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [1962](../seasons/1962-season-report)
 **Total Race Events**: 3 (9 individual ELO calculations)

@@ -1,6 +1,6 @@
 # Stoffel Vandoorne - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2016](../seasons/2016-season-report) • [2017](../seasons/2017-season-report) • [2018](../seasons/2018-season-report)
 **Total Race Events**: 42 (126 individual ELO calculations)

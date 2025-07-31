@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas - Complete F1 Career Results
 
-*Generated: 2025-07-30*
+*Generated: 2025-07-31*
 
 **Seasons**: [2013](../seasons/2013-season-report) • [2014](../seasons/2014-season-report) • [2015](../seasons/2015-season-report) • [2016](../seasons/2016-season-report) • [2017](../seasons/2017-season-report) • [2018](../seasons/2018-season-report) • [2019](../seasons/2019-season-report) • [2020](../seasons/2020-season-report) • [2021](../seasons/2021-season-report) • [2022](../seasons/2022-season-report) • [2023](../seasons/2023-season-report) • [2024](../seasons/2024-season-report)
 **Total Race Events**: 247 (741 individual ELO calculations)
