@@ -11,12 +11,12 @@
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1468
+**Career Journey**: 1500 → 1465
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak ELO**: 1465
    *[1975 Round 7 - Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest ELO**: 1465
    *[1975 Round 7 - Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)*
 
 ### 🌟 Overall Performance
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1975 | [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | 1975-06-08 | qualifying | Williams | 22 | 1500 | -32 | 1468 | [Ian Scheckter](ian-scheckter) |
+| 1975 | [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | 1975-06-08 | qualifying | Williams | 22 | 1500 | -35 | 1465 | [Ian Scheckter](ian-scheckter) |
 | 1975 | [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | 1975-06-08 | race | Williams | 14 | 1500 | N/A | 1500 | [Ian Scheckter](ian-scheckter) |
 | 1975 | [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | 1975-06-08 | global | Williams | Q:22/R:14 | 1500 | -10 | 1490 | [Ian Scheckter](ian-scheckter) |

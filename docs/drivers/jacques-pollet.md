@@ -2,37 +2,64 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1954](../seasons/1954-season-report)
+**Seasons**: [1954](../seasons/1954-season-report) • [1955](../seasons/1955-season-report)
 
 ## Career Statistics
 
-**Total Race Events**: 1 (3 individual ELO calculations)
+**Total Race Events**: 10 (30 individual ELO calculations)
 
-**DNF Statistics**: 1 DNFs out of 1 races (100.0%)
+**DNF Statistics**: 10 DNFs out of 10 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1527
+**Career Journey**: 1500 → 1509
 
-🏆 **Peak ELO**: 1527
+🏆 **Peak ELO**: 1545
    *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1527
-   *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
+📉 **Lowest ELO**: 1488
+   *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1508
+**Career Journey**: 1500 → 1503
 
-🏆 **Peak ELO**: 1508
+🏆 **Peak ELO**: 1514
    *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
 
-📉 **Lowest ELO**: 1508
-   *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
+📉 **Lowest ELO**: 1496
+   *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1954 | [Round 9: Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix) | 1954-10-24 | qualifying | Gordini | 16 | 1500 | +27 | 1527 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) |
+| 1954 | [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | 1954-07-04 | qualifying | Gordini | 18 | 1500 | -12 | 1488 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) |
+| 1954 | [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | 1954-07-04 | qualifying | Gordini | 18 | 1488 | +12 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Paul Frère](paul-frre) |
+| 1954 | [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | 1954-07-04 | qualifying | Gordini | 18 | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Georges Berger](georges-berger) |
+| 1954 | [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | 1954-07-04 | race | Gordini | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) |
+| 1954 | [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | 1954-07-04 | race | Gordini | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Paul Frère](paul-frre) |
+| 1954 | [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | 1954-07-04 | race | Gordini | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Georges Berger](georges-berger) |
+| 1954 | [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | 1954-07-04 | global | Gordini | Q:18/R:DNF | 1500 | -4 | 1496 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) |
+| 1954 | [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | 1954-07-04 | global | Gordini | Q:18/R:DNF | 1496 | +4 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Paul Frère](paul-frre) |
+| 1954 | [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | 1954-07-04 | global | Gordini | Q:18/R:DNF | 1500 | +3 | 1503 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Georges Berger](georges-berger) |
+| 1954 | [Round 9: Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix) | 1954-10-24 | qualifying | Gordini | 16 | 1510 | +35 | 1545 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) |
 | 1954 | [Round 9: Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix) | 1954-10-24 | race | Gordini | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) |
-| 1954 | [Round 9: Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix) | 1954-10-24 | global | Gordini | Q:16/R:DNF | 1500 | +8 | 1508 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) |
+| 1954 | [Round 9: Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix) | 1954-10-24 | global | Gordini | Q:16/R:DNF | 1503 | +11 | 1514 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) |
+| 1955 | [Round 2: Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix) | 1955-05-22 | qualifying | Gordini | 20 | 1545 | -14 | 1531 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Élie Bayol](lie-bayol) |
+| 1955 | [Round 2: Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix) | 1955-05-22 | qualifying | Gordini | 20 | 1531 | -20 | 1511 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) |
+| 1955 | [Round 2: Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix) | 1955-05-22 | race | Gordini | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Élie Bayol](lie-bayol) |
+| 1955 | [Round 2: Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix) | 1955-05-22 | race | Gordini | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) |
+| 1955 | [Round 2: Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix) | 1955-05-22 | global | Gordini | Q:20/R:DNF | 1514 | -4 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Élie Bayol](lie-bayol) |
+| 1955 | [Round 2: Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix) | 1955-05-22 | global | Gordini | Q:20/R:DNF | 1510 | -6 | 1504 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) |
+| 1955 | [Round 5: Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix) | 1955-06-19 | qualifying | Gordini | 12 | 1511 | +15 | 1527 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos) |
+| 1955 | [Round 5: Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix) | 1955-06-19 | qualifying | Gordini | 12 | 1527 | -17 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) |
+| 1955 | [Round 5: Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix) | 1955-06-19 | race | Gordini | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos) |
+| 1955 | [Round 5: Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix) | 1955-06-19 | race | Gordini | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) |
+| 1955 | [Round 5: Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix) | 1955-06-19 | global | Gordini | Q:12/R:DNF | 1504 | +5 | 1508 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos) |
+| 1955 | [Round 5: Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix) | 1955-06-19 | global | Gordini | Q:12/R:DNF | 1508 | -5 | 1503 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) |
+| 1955 | [Round 7: Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix) | 1955-09-11 | qualifying | Gordini | 19 | 1510 | -18 | 1492 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos) |
+| 1955 | [Round 7: Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix) | 1955-09-11 | qualifying | Gordini | 19 | 1492 | +16 | 1509 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Lucas](jean-lucas) |
+| 1955 | [Round 7: Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix) | 1955-09-11 | race | Gordini | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos) |
+| 1955 | [Round 7: Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix) | 1955-09-11 | race | Gordini | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Lucas](jean-lucas) |
+| 1955 | [Round 7: Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix) | 1955-09-11 | global | Gordini | Q:19/R:DNF | 1503 | -5 | 1498 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos) |
+| 1955 | [Round 7: Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix) | 1955-09-11 | global | Gordini | Q:19/R:DNF | 1498 | +5 | 1503 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Lucas](jean-lucas) |

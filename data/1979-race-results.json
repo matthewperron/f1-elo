@@ -7756,135 +7756,140 @@
     }
   ],
   "finalELOs": {
-    "mario_andretti": {
-      "qualifyingElo": 1730,
-      "raceElo": 1711,
-      "globalElo": 1715
-    },
     "laffite": {
-      "qualifyingElo": 1745,
-      "raceElo": 1695,
-      "globalElo": 1709
-    },
-    "jones": {
-      "qualifyingElo": 1799,
-      "raceElo": 1640,
-      "globalElo": 1688
+      "qualifyingElo": 1801,
+      "raceElo": 1706,
+      "globalElo": 1735
     },
     "brambilla": {
-      "qualifyingElo": 1660,
-      "raceElo": 1663,
-      "globalElo": 1663
+      "qualifyingElo": 1804,
+      "raceElo": 1682,
+      "globalElo": 1721
+    },
+    "mario_andretti": {
+      "qualifyingElo": 1800,
+      "raceElo": 1688,
+      "globalElo": 1720
+    },
+    "jones": {
+      "qualifyingElo": 1850,
+      "raceElo": 1639,
+      "globalElo": 1704
     },
     "lauda": {
-      "qualifyingElo": 1633,
+      "qualifyingElo": 1578,
       "raceElo": 1665,
-      "globalElo": 1660
+      "globalElo": 1638
     },
     "watson": {
-      "qualifyingElo": 1565,
-      "raceElo": 1615,
-      "globalElo": 1599
-    },
-    "piquet": {
-      "qualifyingElo": 1642,
-      "raceElo": 1555,
-      "globalElo": 1581
+      "qualifyingElo": 1675,
+      "raceElo": 1604,
+      "globalElo": 1626
     },
     "gilles_villeneuve": {
-      "qualifyingElo": 1610,
-      "raceElo": 1534,
+      "qualifyingElo": 1674,
+      "raceElo": 1556,
+      "globalElo": 1591
+    },
+    "piquet": {
+      "qualifyingElo": 1632,
+      "raceElo": 1558,
+      "globalElo": 1579
+    },
+    "patrese": {
+      "qualifyingElo": 1656,
+      "raceElo": 1532,
+      "globalElo": 1567
+    },
+    "scheckter": {
+      "qualifyingElo": 1632,
+      "raceElo": 1532,
+      "globalElo": 1564
+    },
+    "depailler": {
+      "qualifyingElo": 1677,
+      "raceElo": 1509,
       "globalElo": 1556
     },
-    "jabouille": {
-      "qualifyingElo": 1532,
-      "raceElo": 1558,
-      "globalElo": 1550
+    "tambay": {
+      "qualifyingElo": 1456,
+      "raceElo": 1584,
+      "globalElo": 1544
     },
     "lammers": {
       "qualifyingElo": 1494,
       "raceElo": 1548,
       "globalElo": 1532
     },
-    "depailler": {
-      "qualifyingElo": 1634,
-      "raceElo": 1488,
-      "globalElo": 1531
+    "ickx": {
+      "qualifyingElo": 1489,
+      "raceElo": 1549,
+      "globalElo": 1529
     },
-    "patrese": {
-      "qualifyingElo": 1611,
-      "raceElo": 1488,
-      "globalElo": 1525
+    "jabouille": {
+      "qualifyingElo": 1516,
+      "raceElo": 1531,
+      "globalElo": 1528
     },
-    "scheckter": {
-      "qualifyingElo": 1565,
-      "raceElo": 1503,
-      "globalElo": 1523
+    "reutemann": {
+      "qualifyingElo": 1742,
+      "raceElo": 1428,
+      "globalElo": 1524
     },
-    "tambay": {
-      "qualifyingElo": 1339,
-      "raceElo": 1575,
-      "globalElo": 1503
+    "mass": {
+      "qualifyingElo": 1515,
+      "raceElo": 1496,
+      "globalElo": 1505
     },
     "lees": {
-      "qualifyingElo": 1458,
-      "raceElo": 1521,
-      "globalElo": 1502
+      "qualifyingElo": 1463,
+      "raceElo": 1523,
+      "globalElo": 1505
     },
     "giacomelli": {
-      "qualifyingElo": 1549,
-      "raceElo": 1481,
-      "globalElo": 1501
+      "qualifyingElo": 1550,
+      "raceElo": 1480,
+      "globalElo": 1502
     },
     "zunino": {
-      "qualifyingElo": 1479,
+      "qualifyingElo": 1486,
       "raceElo": 1500,
-      "globalElo": 1494
+      "globalElo": 1496
+    },
+    "pironi": {
+      "qualifyingElo": 1614,
+      "raceElo": 1423,
+      "globalElo": 1480
     },
     "daly": {
-      "qualifyingElo": 1516,
-      "raceElo": 1478,
-      "globalElo": 1490
-    },
-    "ickx": {
-      "qualifyingElo": 1401,
-      "raceElo": 1525,
-      "globalElo": 1489
+      "qualifyingElo": 1451,
+      "raceElo": 1480,
+      "globalElo": 1471
     },
     "angelis": {
       "qualifyingElo": 1506,
       "raceElo": 1452,
       "globalElo": 1468
     },
-    "reutemann": {
-      "qualifyingElo": 1662,
-      "raceElo": 1381,
-      "globalElo": 1466
-    },
     "arnoux": {
-      "qualifyingElo": 1468,
-      "raceElo": 1442,
-      "globalElo": 1450
+      "qualifyingElo": 1454,
+      "raceElo": 1436,
+      "globalElo": 1441
     },
     "regazzoni": {
-      "qualifyingElo": 1368,
-      "raceElo": 1440,
-      "globalElo": 1418
-    },
-    "mass": {
-      "qualifyingElo": 1448,
-      "raceElo": 1400,
-      "globalElo": 1416
-    },
-    "pironi": {
-      "qualifyingElo": 1523,
-      "raceElo": 1370,
-      "globalElo": 1416
+      "qualifyingElo": 1416,
+      "raceElo": 1452,
+      "globalElo": 1438
     },
     "jarier": {
-      "qualifyingElo": 1375,
-      "raceElo": 1421,
-      "globalElo": 1406
+      "qualifyingElo": 1450,
+      "raceElo": 1403,
+      "globalElo": 1418
+    },
+    "rebaque": {
+      "qualifyingElo": 1329,
+      "raceElo": 1446,
+      "globalElo": 1411
     }
   }
 }

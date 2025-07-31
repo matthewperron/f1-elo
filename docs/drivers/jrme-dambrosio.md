@@ -11,7 +11,7 @@
 **DNF Statistics**: 2 DNFs out of 20 races (10.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1482
+**Career Journey**: 1500 → 1484
 
 🏆 **Peak ELO**: 1507
    *[2011 Round 3 - Chinese Grand Prix](../seasons/2011-season-report#round-3-chinese-grand-prix)*
@@ -99,6 +99,6 @@
 | 2011 | [Round 19: Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix) | 2011-11-27 | qualifying | Virgin | 23 | 1449 | +49 | 1498 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) |
 | 2011 | [Round 19: Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix) | 2011-11-27 | race | Virgin | 19 | 1543 | N/A | 1543 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) |
 | 2011 | [Round 19: Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix) | 2011-11-27 | global | Virgin | Q:23/R:19 | 1515 | +15 | 1529 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) |
-| 2012 | [Round 13: Italian Grand Prix](../seasons/2012-season-report#round-13-italian-grand-prix) | 2012-09-09 | qualifying | Lotus F1 | 15 | 1498 | -16 | 1482 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) |
+| 2012 | [Round 13: Italian Grand Prix](../seasons/2012-season-report#round-13-italian-grand-prix) | 2012-09-09 | qualifying | Lotus F1 | 15 | 1498 | -14 | 1484 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) |
 | 2012 | [Round 13: Italian Grand Prix](../seasons/2012-season-report#round-13-italian-grand-prix) | 2012-09-09 | race | Lotus F1 | 13 | 1543 | -15 | 1528 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) |
 | 2012 | [Round 13: Italian Grand Prix](../seasons/2012-season-report#round-13-italian-grand-prix) | 2012-09-09 | global | Lotus F1 | Q:15/R:13 | 1529 | -15 | 1514 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) |

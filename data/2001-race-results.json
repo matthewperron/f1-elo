@@ -8227,72 +8227,72 @@
   ],
   "finalELOs": {
     "michael_schumacher": {
-      "qualifyingElo": 2135,
+      "qualifyingElo": 2139,
       "raceElo": 1811,
-      "globalElo": 1907
+      "globalElo": 1910
     },
     "trulli": {
-      "qualifyingElo": 1863,
+      "qualifyingElo": 1874,
       "raceElo": 1763,
-      "globalElo": 1793
+      "globalElo": 1794
     },
     "villeneuve": {
-      "qualifyingElo": 1858,
+      "qualifyingElo": 1868,
       "raceElo": 1730,
-      "globalElo": 1770
+      "globalElo": 1774
     },
     "frentzen": {
-      "qualifyingElo": 1626,
+      "qualifyingElo": 1635,
       "raceElo": 1783,
-      "globalElo": 1736
+      "globalElo": 1739
     },
     "coulthard": {
-      "qualifyingElo": 1618,
-      "raceElo": 1702,
-      "globalElo": 1679
-    },
-    "alesi": {
-      "qualifyingElo": 1631,
-      "raceElo": 1649,
-      "globalElo": 1648
+      "qualifyingElo": 1633,
+      "raceElo": 1703,
+      "globalElo": 1683
     },
     "fisichella": {
-      "qualifyingElo": 1641,
+      "qualifyingElo": 1643,
       "raceElo": 1652,
-      "globalElo": 1648
+      "globalElo": 1649
     },
-    "alonso": {
-      "qualifyingElo": 1648,
-      "raceElo": 1603,
-      "globalElo": 1616
+    "alesi": {
+      "qualifyingElo": 1640,
+      "raceElo": 1650,
+      "globalElo": 1647
     },
     "hakkinen": {
-      "qualifyingElo": 1700,
+      "qualifyingElo": 1715,
       "raceElo": 1578,
-      "globalElo": 1614
+      "globalElo": 1619
+    },
+    "alonso": {
+      "qualifyingElo": 1636,
+      "raceElo": 1603,
+      "globalElo": 1612
     },
     "heidfeld": {
-      "qualifyingElo": 1639,
+      "qualifyingElo": 1646,
       "raceElo": 1555,
-      "globalElo": 1578
+      "globalElo": 1582
     },
     "irvine": {
-      "qualifyingElo": 1723,
+      "qualifyingElo": 1727,
       "raceElo": 1497,
-      "globalElo": 1562
+      "globalElo": 1564
     },
     "barrichello": {
-      "qualifyingElo": 1729,
+      "qualifyingElo": 1735,
       "raceElo": 1485,
-      "globalElo": 1561
+      "globalElo": 1562
     },
     "panis": {
-      "qualifyingElo": 1705,
+      "qualifyingElo": 1716,
       "raceElo": 1490,
-      "globalElo": 1557
+      "globalElo": 1560
     },
     "montoya": {
-      "qualifyingElo": 1551,
+      "qualifyingElo": 1553,
       "raceElo": 1525,
       "globalElo": 1533
     },
@@ -8302,19 +8302,19 @@
       "globalElo": 1520
     },
     "rosa": {
-      "qualifyingElo": 1690,
+      "qualifyingElo": 1694,
       "raceElo": 1438,
       "globalElo": 1515
     },
     "raikkonen": {
-      "qualifyingElo": 1487,
+      "qualifyingElo": 1493,
       "raceElo": 1523,
-      "globalElo": 1513
+      "globalElo": 1514
     },
     "ralf_schumacher": {
-      "qualifyingElo": 1519,
+      "qualifyingElo": 1520,
       "raceElo": 1495,
-      "globalElo": 1501
+      "globalElo": 1502
     },
     "bernoldi": {
       "qualifyingElo": 1530,
@@ -8322,39 +8322,39 @@
       "globalElo": 1492
     },
     "burti": {
-      "qualifyingElo": 1420,
+      "qualifyingElo": 1427,
       "raceElo": 1518,
-      "globalElo": 1488
+      "globalElo": 1490
     },
     "enge": {
-      "qualifyingElo": 1433,
+      "qualifyingElo": 1435,
       "raceElo": 1489,
-      "globalElo": 1472
+      "globalElo": 1473
     },
     "yoong": {
-      "qualifyingElo": 1438,
+      "qualifyingElo": 1435,
       "raceElo": 1451,
-      "globalElo": 1447
+      "globalElo": 1446
     },
     "zonta": {
-      "qualifyingElo": 1412,
+      "qualifyingElo": 1417,
       "raceElo": 1416,
-      "globalElo": 1414
+      "globalElo": 1416
     },
     "button": {
-      "qualifyingElo": 1504,
+      "qualifyingElo": 1506,
       "raceElo": 1358,
       "globalElo": 1403
     },
     "mazzacane": {
-      "qualifyingElo": 1361,
+      "qualifyingElo": 1362,
       "raceElo": 1390,
-      "globalElo": 1380
+      "globalElo": 1381
     },
     "marques": {
-      "qualifyingElo": 1289,
+      "qualifyingElo": 1268,
       "raceElo": 1418,
-      "globalElo": 1380
+      "globalElo": 1374
     }
   }
 }

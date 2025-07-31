@@ -224,49 +224,78 @@ async function loadStartingELOs(season) {
  */
 function calculateGlobalELOChanges(qualifyingChanges, raceChanges, teammates, drivers, raceEvent) {
     if (!qualifyingChanges || !raceChanges) return null;
-    if (teammates.length !== 2) return null;
+    if (teammates.length < 2) return null;
     
     const globalChanges = [];
     
-    // Process each driver
-    teammates.forEach(driver => {
-        const driverId = driver.driver.driverId;
-        
-        // Find the qualifying and race changes for this driver
-        const qualChange = qualifyingChanges.find(c => c.driverId === driverId);
-        const raceChange = raceChanges.find(c => c.driverId === driverId);
-        
-        if (qualChange && raceChange) {
-            // Calculate weighted global ELO change: 30% qualifying + 70% race
-            const globalELOChange = (qualChange.eloChange * 0.3) + (raceChange.eloChange * 0.7);
+    // For each pair of teammates, calculate global ELO changes
+    for (let i = 0; i < teammates.length; i++) {
+        for (let j = i + 1; j < teammates.length; j++) {
+            const driver1 = teammates[i];
+            const driver2 = teammates[j];
             
-            // Apply the change to the driver's global ELO
-            const driverData = drivers.get(driverId);
-            const oldGlobalElo = driverData.globalElo;
-            driverData.globalElo += globalELOChange;
-            const newGlobalElo = driverData.globalElo;
+            const driver1Id = driver1.driver.driverId;
+            const driver2Id = driver2.driver.driverId;
             
-            // Find teammate for comparison info
-            const teammateId = teammates.find(t => t.driver.driverId !== driverId)?.driver.driverId;
-            const teammateData = drivers.get(teammateId);
-            const teammateQualChange = qualifyingChanges.find(c => c.driverId === teammateId);
-            const teammateRaceChange = raceChanges.find(c => c.driverId === teammateId);
+            // Find the qualifying and race changes for each driver in this pair
+            const driver1QualChanges = qualifyingChanges.filter(c => c.driverId === driver1Id && c.opponent === drivers.get(driver2Id)?.name);
+            const driver1RaceChanges = raceChanges.filter(c => c.driverId === driver1Id && c.opponent === drivers.get(driver2Id)?.name);
+            const driver2QualChanges = qualifyingChanges.filter(c => c.driverId === driver2Id && c.opponent === drivers.get(driver1Id)?.name);
+            const driver2RaceChanges = raceChanges.filter(c => c.driverId === driver2Id && c.opponent === drivers.get(driver1Id)?.name);
             
-            globalChanges.push({
-                type: 'global',
-                driverId: driverId,
-                driverName: driverData.name,
-                constructor: driverData.constructor,
-                position: `Q:${qualChange.position}/R:${raceChange.position}`,
-                startingElo: Math.round(oldGlobalElo),
-                eloChange: Math.round(globalELOChange),
-                newElo: Math.round(newGlobalElo),
-                result: globalELOChange > 0 ? 'Won' : globalELOChange < 0 ? 'Lost' : 'Tied',
-                opponent: teammateData?.name || 'Unknown',
-                opponentPosition: `Q:${teammateQualChange?.position || 'N/A'}/R:${teammateRaceChange?.position || 'N/A'}`
-            });
+            if (driver1QualChanges.length > 0 && driver1RaceChanges.length > 0 && 
+                driver2QualChanges.length > 0 && driver2RaceChanges.length > 0) {
+                
+                const driver1QualChange = driver1QualChanges[0];
+                const driver1RaceChange = driver1RaceChanges[0];
+                const driver2QualChange = driver2QualChanges[0];
+                const driver2RaceChange = driver2RaceChanges[0];
+                
+                // Calculate weighted global ELO changes: 30% qualifying + 70% race
+                // Note: These already use scaled ELO changes from individual teammate comparisons
+                const driver1GlobalELOChange = (driver1QualChange.eloChange * 0.3) + (driver1RaceChange.eloChange * 0.7);
+                const driver2GlobalELOChange = (driver2QualChange.eloChange * 0.3) + (driver2RaceChange.eloChange * 0.7);
+                
+                // Apply the changes to each driver's global ELO
+                const driver1Data = drivers.get(driver1Id);
+                const driver2Data = drivers.get(driver2Id);
+                
+                const driver1OldGlobalElo = driver1Data.globalElo;
+                const driver2OldGlobalElo = driver2Data.globalElo;
+                
+                driver1Data.globalElo += driver1GlobalELOChange;
+                driver2Data.globalElo += driver2GlobalELOChange;
+                
+                globalChanges.push({
+                    type: 'global',
+                    driverId: driver1Id,
+                    driverName: driver1Data.name,
+                    constructor: driver1Data.constructor,
+                    position: `Q:${driver1QualChange.position}/R:${driver1RaceChange.position}`,
+                    startingElo: Math.round(driver1OldGlobalElo),
+                    eloChange: Math.round(driver1GlobalELOChange),
+                    newElo: Math.round(driver1Data.globalElo),
+                    result: driver1GlobalELOChange > 0 ? 'Won' : driver1GlobalELOChange < 0 ? 'Lost' : 'Tied',
+                    opponent: driver2Data.name,
+                    opponentPosition: `Q:${driver2QualChange.position}/R:${driver2RaceChange.position}`
+                });
+                
+                globalChanges.push({
+                    type: 'global',
+                    driverId: driver2Id,
+                    driverName: driver2Data.name,
+                    constructor: driver2Data.constructor,
+                    position: `Q:${driver2QualChange.position}/R:${driver2RaceChange.position}`,
+                    startingElo: Math.round(driver2OldGlobalElo),
+                    eloChange: Math.round(driver2GlobalELOChange),
+                    newElo: Math.round(driver2Data.globalElo),
+                    result: driver2GlobalELOChange > 0 ? 'Won' : driver2GlobalELOChange < 0 ? 'Lost' : 'Tied',
+                    opponent: driver1Data.name,
+                    opponentPosition: `Q:${driver1QualChange.position}/R:${driver1RaceChange.position}`
+                });
+            }
         }
-    });
+    }
     
     return globalChanges.length > 0 ? globalChanges : null;
 }
@@ -377,12 +406,35 @@ function processTeammateComparisonWithDetails(teammates, drivers, type, kFactor,
 }
 
 /**
- * Process ELO changes between teammates for qualifying, race, or global
+ * Process ELO changes between teammates for qualifying, race, or global (supports multiple teammates)
  */
 function processTeammateComparison(teammates, drivers, type, kFactor, initialElo, startingELOs) {
-    if (teammates.length !== 2) return null; // Only handle 2-driver teams for now
+    if (teammates.length < 2) return null; // Need at least 2 drivers for comparisons
     
-    const [driver1, driver2] = teammates;
+    const allChanges = [];
+    const teammateCount = teammates.length;
+    
+    // For each pair of teammates, calculate ELO changes (scaled by number of teammates)
+    for (let i = 0; i < teammates.length; i++) {
+        for (let j = i + 1; j < teammates.length; j++) {
+            const driver1 = teammates[i];
+            const driver2 = teammates[j];
+            
+            // Process this pair of teammates with scaled ELO changes
+            const pairChanges = processPairComparison(driver1, driver2, drivers, type, kFactor, initialElo, startingELOs, teammateCount);
+            if (pairChanges) {
+                allChanges.push(...pairChanges);
+            }
+        }
+    }
+    
+    return allChanges.length > 0 ? allChanges : null;
+}
+
+/**
+ * Process ELO changes between a specific pair of teammates
+ */
+function processPairComparison(driver1, driver2, drivers, type, kFactor, initialElo, startingELOs, teammateCount = 2) {
     
     // Check if either driver had issues (DNF, DNS, etc.)
     const driver1DNF = (type === 'race' || type === 'global') && !VALID_STATUSES.some(status => driver1.status.includes(status));
@@ -446,8 +498,8 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     if (type === 'qualifying') {
         pos1 = parseInt(driver1.grid);
         pos1 = pos1 == 0 ? 999 : pos1;
-
         pos2 = parseInt(driver2.grid);
+        pos2 = pos2 == 0 ? 999 : pos2;
     } else if (type === 'race') {
         pos1 = parseInt(driver1.position);
         pos2 = parseInt(driver2.position);
@@ -482,9 +534,12 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
         actualScore1 = pos1 < pos2 ? 1 : 0;
         actualScore2 = 1 - actualScore1;
         
-        // Calculate ELO changes
-        eloChange1 = kFactor * (actualScore1 - expectedScore1);
-        eloChange2 = kFactor * (actualScore2 - expectedScore2);
+        // Calculate ELO changes (scaled by number of opponents to normalize total ELO gain/loss)
+        const numOpponents = teammateCount - 1; // Number of opponents each driver faces
+        const scalingFactor = 1 / numOpponents; // Divide ELO change by number of opponents
+        
+        eloChange1 = kFactor * (actualScore1 - expectedScore1) * scalingFactor;
+        eloChange2 = kFactor * (actualScore2 - expectedScore2) * scalingFactor;
         
         // Update ELO ratings
         if (type === 'qualifying') {

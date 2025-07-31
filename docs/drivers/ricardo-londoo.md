@@ -11,21 +11,21 @@
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1532
+**Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1532
+🏆 **Peak ELO**: 1468
    *[1981 Round 2 - Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1532
+📉 **Lowest ELO**: 1468
    *[1981 Round 2 - Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1510
+**Career Journey**: 1500 → 1490
 
-🏆 **Peak ELO**: 1510
+🏆 **Peak ELO**: 1490
    *[1981 Round 2 - Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
 
-📉 **Lowest ELO**: 1510
+📉 **Lowest ELO**: 1490
    *[1981 Round 2 - Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
 
 
@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1981 | [Round 2: Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) | 1981-03-29 | qualifying | Ensign | 0 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) |
+| 1981 | [Round 2: Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) | 1981-03-29 | qualifying | Ensign | 999 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) |
 | 1981 | [Round 2: Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) | 1981-03-29 | race | Ensign | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) |
-| 1981 | [Round 2: Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) | 1981-03-29 | global | Ensign | Q:0/R:DNF | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) |
+| 1981 | [Round 2: Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) | 1981-03-29 | global | Ensign | Q:999/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) |

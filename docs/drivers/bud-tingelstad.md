@@ -11,30 +11,30 @@
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1465
+**Career Journey**: 1500 → 1464
 
-🏆 **Peak ELO**: 1465
+🏆 **Peak ELO**: 1464
    *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest ELO**: 1465
+📉 **Lowest ELO**: 1464
    *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1468
+**Career Journey**: 1500 → 1471
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak ELO**: 1471
    *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest ELO**: 1468
+📉 **Lowest ELO**: 1471
    *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1467
+**Career Journey**: 1500 → 1469
 
-🏆 **Peak ELO**: 1467
+🏆 **Peak ELO**: 1469
    *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
-📉 **Lowest ELO**: 1467
+📉 **Lowest ELO**: 1469
    *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 
@@ -42,6 +42,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1960 | [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | 1960-05-30 | qualifying | Trevis | 28 | 1500 | -35 | 1465 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
-| 1960 | [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | 1960-05-30 | race | Trevis | 9 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
-| 1960 | [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | 1960-05-30 | global | Trevis | Q:28/R:9 | 1500 | -33 | 1467 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
+| 1960 | [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | 1960-05-30 | qualifying | Trevis | 28 | 1500 | -36 | 1464 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
+| 1960 | [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | 1960-05-30 | race | Trevis | 9 | 1500 | -29 | 1471 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
+| 1960 | [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | 1960-05-30 | global | Trevis | Q:28/R:9 | 1500 | -31 | 1469 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |

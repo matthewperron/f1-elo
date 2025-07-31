@@ -2,37 +2,58 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1952](../seasons/1952-season-report)
+**Seasons**: [1952](../seasons/1952-season-report) • [1953](../seasons/1953-season-report)
 
 ## Career Statistics
 
-**Total Race Events**: 1 (3 individual ELO calculations)
+**Total Race Events**: 8 (24 individual ELO calculations)
 
-**DNF Statistics**: 1 DNFs out of 1 races (100.0%)
+**DNF Statistics**: 8 DNFs out of 8 races (100.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1468
+**Career Journey**: 1500 → 1446
 
-🏆 **Peak ELO**: 1468
+🏆 **Peak ELO**: 1471
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
-📉 **Lowest ELO**: 1468
-   *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
+📉 **Lowest ELO**: 1446
+   *[1953 Round 8 - Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1490
+**Career Journey**: 1500 → 1484
 
-🏆 **Peak ELO**: 1490
+🏆 **Peak ELO**: 1491
    *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
-📉 **Lowest ELO**: 1490
-   *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
+📉 **Lowest ELO**: 1484
+   *[1953 Round 8 - Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix)*
 
 
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | qualifying | Simca | 21 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
+| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | qualifying | Simca | 21 | 1500 | -29 | 1471 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
 | 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | race | Simca | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
-| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | global | Simca | Q:21/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
+| 1952 | [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | 1952-05-18 | global | Simca | Q:21/R:DNF | 1500 | -9 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | qualifying | Ferrari | 19 | 1471 | -1 | 1470 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](alberto-ascari) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | qualifying | Ferrari | 19 | 1470 | -2 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](nino-farina) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | qualifying | Ferrari | 19 | 1468 | -4 | 1464 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Hawthorn](mike-hawthorn) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | qualifying | Ferrari | 19 | 1464 | -3 | 1462 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luigi Villoresi](luigi-villoresi) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | qualifying | Ferrari | 19 | 1462 | -5 | 1457 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Peter Hirt](peter-hirt) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | qualifying | Ferrari | 19 | 1457 | -5 | 1452 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jacques Swaters](jacques-swaters) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | qualifying | Ferrari | 19 | 1452 | -5 | 1446 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Louis Rosier](louis-rosier) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | race | Ferrari | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](alberto-ascari) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | race | Ferrari | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](nino-farina) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | race | Ferrari | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Hawthorn](mike-hawthorn) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | race | Ferrari | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luigi Villoresi](luigi-villoresi) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | race | Ferrari | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Peter Hirt](peter-hirt) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | race | Ferrari | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jacques Swaters](jacques-swaters) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | race | Ferrari | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Louis Rosier](louis-rosier) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | global | Ferrari | Q:19/R:DNF | 1491 | +0 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alberto Ascari](alberto-ascari) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | global | Ferrari | Q:19/R:DNF | 1491 | -1 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nino Farina](nino-farina) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | global | Ferrari | Q:19/R:DNF | 1490 | -1 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Hawthorn](mike-hawthorn) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | global | Ferrari | Q:19/R:DNF | 1489 | -1 | 1488 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luigi Villoresi](luigi-villoresi) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | global | Ferrari | Q:19/R:DNF | 1488 | -1 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Peter Hirt](peter-hirt) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | global | Ferrari | Q:19/R:DNF | 1487 | -1 | 1485 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jacques Swaters](jacques-swaters) |
+| 1953 | [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | 1953-08-23 | global | Ferrari | Q:19/R:DNF | 1485 | -1 | 1484 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Louis Rosier](louis-rosier) |

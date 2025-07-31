@@ -11,30 +11,30 @@
 **DNF Statistics**: 2 DNFs out of 4 races (50.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1438
+**Career Journey**: 1500 → 1462
 
-🏆 **Peak ELO**: 1481
+🏆 **Peak ELO**: 1490
    *[1976 Round 14 - Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
 
-📉 **Lowest ELO**: 1438
+📉 **Lowest ELO**: 1462
    *[1977 Round 7 - Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1445
+**Career Journey**: 1500 → 1452
 
-🏆 **Peak ELO**: 1476
+🏆 **Peak ELO**: 1480
    *[1976 Round 14 - Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
 
-📉 **Lowest ELO**: 1445
+📉 **Lowest ELO**: 1452
    *[1977 Round 7 - Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1443
+**Career Journey**: 1500 → 1455
 
-🏆 **Peak ELO**: 1478
+🏆 **Peak ELO**: 1483
    *[1976 Round 14 - Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
 
-📉 **Lowest ELO**: 1443
+📉 **Lowest ELO**: 1455
    *[1977 Round 7 - Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
 
 
@@ -42,15 +42,15 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1976 | [Round 14: Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix) | 1976-10-03 | qualifying | Brabham-Alfa Romeo | 19 | 1500 | -19 | 1481 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
-| 1976 | [Round 14: Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix) | 1976-10-03 | race | Brabham-Alfa Romeo | 17 | 1500 | -24 | 1476 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
-| 1976 | [Round 14: Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix) | 1976-10-03 | global | Brabham-Alfa Romeo | Q:19/R:17 | 1500 | -22 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
-| 1976 | [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | 1976-10-10 | qualifying | Brabham-Alfa Romeo | 13 | 1481 | -16 | 1465 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
-| 1976 | [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | 1976-10-10 | race | Brabham-Alfa Romeo | DNF | 1476 | N/A | 1476 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
-| 1976 | [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | 1976-10-10 | global | Brabham-Alfa Romeo | Q:13/R:DNF | 1478 | -5 | 1473 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
-| 1976 | [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | qualifying | Brabham-Alfa Romeo | 17 | 1465 | -14 | 1451 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
-| 1976 | [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | race | Brabham-Alfa Romeo | DNF | 1476 | N/A | 1476 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
-| 1976 | [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | global | Brabham-Alfa Romeo | Q:17/R:DNF | 1473 | -4 | 1469 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
-| 1977 | [Round 7: Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix) | 1977-06-05 | qualifying | Surtees | 23 | 1451 | -13 | 1438 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) |
-| 1977 | [Round 7: Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix) | 1977-06-05 | race | Surtees | 12 | 1476 | -31 | 1445 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) |
-| 1977 | [Round 7: Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix) | 1977-06-05 | global | Surtees | Q:23/R:12 | 1469 | -26 | 1443 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) |
+| 1976 | [Round 14: Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix) | 1976-10-03 | qualifying | Brabham-Alfa Romeo | 19 | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
+| 1976 | [Round 14: Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix) | 1976-10-03 | race | Brabham-Alfa Romeo | 17 | 1500 | -20 | 1480 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
+| 1976 | [Round 14: Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix) | 1976-10-03 | global | Brabham-Alfa Romeo | Q:19/R:17 | 1500 | -17 | 1483 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
+| 1976 | [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | 1976-10-10 | qualifying | Brabham-Alfa Romeo | 13 | 1490 | -9 | 1481 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
+| 1976 | [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | 1976-10-10 | race | Brabham-Alfa Romeo | DNF | 1480 | N/A | 1480 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
+| 1976 | [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | 1976-10-10 | global | Brabham-Alfa Romeo | Q:13/R:DNF | 1483 | -3 | 1480 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
+| 1976 | [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | qualifying | Brabham-Alfa Romeo | 17 | 1481 | -8 | 1473 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
+| 1976 | [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | race | Brabham-Alfa Romeo | DNF | 1480 | N/A | 1480 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
+| 1976 | [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | global | Brabham-Alfa Romeo | Q:17/R:DNF | 1480 | -2 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) |
+| 1977 | [Round 7: Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix) | 1977-06-05 | qualifying | Surtees | 23 | 1473 | -11 | 1462 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) |
+| 1977 | [Round 7: Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix) | 1977-06-05 | race | Surtees | 12 | 1480 | -28 | 1452 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) |
+| 1977 | [Round 7: Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix) | 1977-06-05 | global | Surtees | Q:23/R:12 | 1478 | -23 | 1455 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) |

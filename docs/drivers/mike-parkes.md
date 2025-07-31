@@ -2,49 +2,76 @@
 
 *Last updated: 2025-07-31*
 
-**Seasons**: [1966](../seasons/1966-season-report)
+**Seasons**: [1966](../seasons/1966-season-report) • [1967](../seasons/1967-season-report)
 
 ## Career Statistics
 
-**Total Race Events**: 2 (6 individual ELO calculations)
+**Total Race Events**: 11 (33 individual ELO calculations)
 
-**DNF Statistics**: 0 DNFs out of 2 races (0.0%)
+**DNF Statistics**: 0 DNFs out of 11 races (0.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1496
+**Career Journey**: 1500 → 1517
 
-🏆 **Peak ELO**: 1496
+🏆 **Peak ELO**: 1519
    *[1966 Round 5 - Dutch Grand Prix](../seasons/1966-season-report#round-5-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1463
+📉 **Lowest ELO**: 1476
    *[1966 Round 3 - French Grand Prix](../seasons/1966-season-report#round-3-french-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1459
+**Career Journey**: 1500 → 1423
 
-🏆 **Peak ELO**: 1459
+🏆 **Peak ELO**: 1460
    *[1966 Round 5 - Dutch Grand Prix](../seasons/1966-season-report#round-5-dutch-grand-prix)*
 
-📉 **Lowest ELO**: 1459
-   *[1966 Round 5 - Dutch Grand Prix](../seasons/1966-season-report#round-5-dutch-grand-prix)*
+📉 **Lowest ELO**: 1419
+   *[1967 Round 3 - Dutch Grand Prix](../seasons/1967-season-report#round-3-dutch-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1470
+**Career Journey**: 1500 → 1452
 
-🏆 **Peak ELO**: 1489
+🏆 **Peak ELO**: 1493
    *[1966 Round 3 - French Grand Prix](../seasons/1966-season-report#round-3-french-grand-prix)*
 
-📉 **Lowest ELO**: 1470
-   *[1966 Round 5 - Dutch Grand Prix](../seasons/1966-season-report#round-5-dutch-grand-prix)*
+📉 **Lowest ELO**: 1444
+   *[1967 Round 3 - Dutch Grand Prix](../seasons/1967-season-report#round-3-dutch-grand-prix)*
 
 
 ## Complete Race-by-Race Results
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1966 | [Round 3: French Grand Prix](../seasons/1966-season-report#round-3-french-grand-prix) | 1966-07-03 | qualifying | Ferrari | 3 | 1500 | -37 | 1463 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 3: French Grand Prix](../seasons/1966-season-report#round-3-french-grand-prix) | 1966-07-03 | qualifying | Ferrari | 3 | 1500 | -24 | 1476 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
 | 1966 | [Round 3: French Grand Prix](../seasons/1966-season-report#round-3-french-grand-prix) | 1966-07-03 | race | Ferrari | 2 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
-| 1966 | [Round 3: French Grand Prix](../seasons/1966-season-report#round-3-french-grand-prix) | 1966-07-03 | global | Ferrari | Q:3/R:2 | 1500 | -11 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
-| 1966 | [Round 5: Dutch Grand Prix](../seasons/1966-season-report#round-5-dutch-grand-prix) | 1966-07-24 | qualifying | Ferrari | 5 | 1463 | +33 | 1496 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
-| 1966 | [Round 5: Dutch Grand Prix](../seasons/1966-season-report#round-5-dutch-grand-prix) | 1966-07-24 | race | Ferrari | 16 | 1500 | -41 | 1459 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
-| 1966 | [Round 5: Dutch Grand Prix](../seasons/1966-season-report#round-5-dutch-grand-prix) | 1966-07-24 | global | Ferrari | Q:5/R:16 | 1489 | -19 | 1470 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 3: French Grand Prix](../seasons/1966-season-report#round-3-french-grand-prix) | 1966-07-03 | global | Ferrari | Q:3/R:2 | 1500 | -7 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 5: Dutch Grand Prix](../seasons/1966-season-report#round-5-dutch-grand-prix) | 1966-07-24 | qualifying | Ferrari | 5 | 1476 | +44 | 1519 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 5: Dutch Grand Prix](../seasons/1966-season-report#round-5-dutch-grand-prix) | 1966-07-24 | race | Ferrari | 16 | 1500 | -40 | 1460 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 5: Dutch Grand Prix](../seasons/1966-season-report#round-5-dutch-grand-prix) | 1966-07-24 | global | Ferrari | Q:5/R:16 | 1493 | -15 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 6: German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix) | 1966-08-07 | qualifying | Ferrari | 7 | 1519 | -15 | 1505 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 6: German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix) | 1966-08-07 | qualifying | Ferrari | 7 | 1505 | -19 | 1486 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1966 | [Round 6: German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix) | 1966-08-07 | race | Ferrari | 13 | 1460 | -17 | 1443 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 6: German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix) | 1966-08-07 | race | Ferrari | 13 | 1443 | N/A | 1443 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1966 | [Round 6: German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix) | 1966-08-07 | global | Ferrari | Q:7/R:13 | 1478 | -16 | 1462 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 6: German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix) | 1966-08-07 | global | Ferrari | Q:7/R:13 | 1462 | -6 | 1456 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1966 | [Round 7: Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix) | 1966-09-04 | qualifying | Ferrari | 1 | 1486 | +10 | 1496 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1966 | [Round 7: Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix) | 1966-09-04 | qualifying | Ferrari | 1 | 1496 | +6 | 1502 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Baghetti](giancarlo-baghetti) |
+| 1966 | [Round 7: Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix) | 1966-09-04 | qualifying | Ferrari | 1 | 1502 | +12 | 1514 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 7: Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix) | 1966-09-04 | race | Ferrari | 2 | 1443 | -11 | 1432 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1966 | [Round 7: Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix) | 1966-09-04 | race | Ferrari | 2 | 1432 | N/A | 1432 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Baghetti](giancarlo-baghetti) |
+| 1966 | [Round 7: Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix) | 1966-09-04 | race | Ferrari | 2 | 1432 | N/A | 1432 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1966 | [Round 7: Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix) | 1966-09-04 | global | Ferrari | Q:1/R:2 | 1456 | -5 | 1451 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1966 | [Round 7: Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix) | 1966-09-04 | global | Ferrari | Q:1/R:2 | 1451 | +2 | 1453 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Baghetti](giancarlo-baghetti) |
+| 1966 | [Round 7: Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix) | 1966-09-04 | global | Ferrari | Q:1/R:2 | 1453 | +4 | 1457 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](lorenzo-bandini) |
+| 1967 | [Round 3: Dutch Grand Prix](../seasons/1967-season-report#round-3-dutch-grand-prix) | 1967-06-04 | qualifying | Ferrari | 10 | 1514 | -13 | 1501 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) |
+| 1967 | [Round 3: Dutch Grand Prix](../seasons/1967-season-report#round-3-dutch-grand-prix) | 1967-06-04 | qualifying | Ferrari | 10 | 1501 | +14 | 1516 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1967 | [Round 3: Dutch Grand Prix](../seasons/1967-season-report#round-3-dutch-grand-prix) | 1967-06-04 | race | Ferrari | 5 | 1432 | -13 | 1419 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) |
+| 1967 | [Round 3: Dutch Grand Prix](../seasons/1967-season-report#round-3-dutch-grand-prix) | 1967-06-04 | race | Ferrari | 5 | 1419 | +17 | 1436 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1967 | [Round 3: Dutch Grand Prix](../seasons/1967-season-report#round-3-dutch-grand-prix) | 1967-06-04 | global | Ferrari | Q:10/R:5 | 1457 | -13 | 1444 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) |
+| 1967 | [Round 3: Dutch Grand Prix](../seasons/1967-season-report#round-3-dutch-grand-prix) | 1967-06-04 | global | Ferrari | Q:10/R:5 | 1444 | +16 | 1460 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1967 | [Round 4: Belgian Grand Prix](../seasons/1967-season-report#round-4-belgian-grand-prix) | 1967-06-18 | qualifying | Ferrari | 8 | 1516 | -11 | 1504 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) |
+| 1967 | [Round 4: Belgian Grand Prix](../seasons/1967-season-report#round-4-belgian-grand-prix) | 1967-06-18 | qualifying | Ferrari | 8 | 1504 | +13 | 1517 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1967 | [Round 4: Belgian Grand Prix](../seasons/1967-season-report#round-4-belgian-grand-prix) | 1967-06-18 | race | Ferrari | 18 | 1436 | -12 | 1423 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) |
+| 1967 | [Round 4: Belgian Grand Prix](../seasons/1967-season-report#round-4-belgian-grand-prix) | 1967-06-18 | race | Ferrari | 18 | 1423 | N/A | 1423 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |
+| 1967 | [Round 4: Belgian Grand Prix](../seasons/1967-season-report#round-4-belgian-grand-prix) | 1967-06-18 | global | Ferrari | Q:8/R:18 | 1460 | -12 | 1448 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) |
+| 1967 | [Round 4: Belgian Grand Prix](../seasons/1967-season-report#round-4-belgian-grand-prix) | 1967-06-18 | global | Ferrari | Q:8/R:18 | 1448 | +4 | 1452 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](ludovico-scarfiotti) |

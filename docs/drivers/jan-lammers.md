@@ -13,8 +13,8 @@
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1481
 
-🏆 **Peak ELO**: 1527
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+🏆 **Peak ELO**: 1525
+   *[1992 Round 15 - Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest ELO**: 1420
    *[1979 Round 3 - South African Grand Prix](../seasons/1979-season-report#round-3-south-african-grand-prix)*
@@ -31,8 +31,8 @@
 ### 🌟 Overall Performance
 **Career Journey**: 1500 → 1495
 
-🏆 **Peak ELO**: 1542
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+🏆 **Peak ELO**: 1539
+   *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest ELO**: 1435
    *[1979 Round 3 - South African Grand Prix](../seasons/1979-season-report#round-3-south-african-grand-prix)*
@@ -78,9 +78,9 @@
 | 1979 | [Round 14: Canadian Grand Prix](../seasons/1979-season-report#round-14-canadian-grand-prix) | 1979-09-30 | qualifying | Shadow | 21 | 1454 | +40 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](elio-de-angelis) |
 | 1979 | [Round 14: Canadian Grand Prix](../seasons/1979-season-report#round-14-canadian-grand-prix) | 1979-09-30 | race | Shadow | 9 | 1548 | N/A | 1548 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](elio-de-angelis) |
 | 1979 | [Round 14: Canadian Grand Prix](../seasons/1979-season-report#round-14-canadian-grand-prix) | 1979-09-30 | global | Shadow | Q:21/R:9 | 1520 | +12 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](elio-de-angelis) |
-| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | qualifying | ATS | 0 | 1494 | +33 | 1527 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Slim Borgudd](slim-borgudd) |
+| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | qualifying | ATS | 999 | 1494 | -31 | 1463 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Slim Borgudd](slim-borgudd) |
 | 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | race | ATS | DNF | 1548 | N/A | 1548 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Slim Borgudd](slim-borgudd) |
-| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | global | ATS | Q:0/R:DNF | 1532 | +10 | 1542 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Slim Borgudd](slim-borgudd) |
+| 1981 | [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | global | ATS | Q:999/R:DNF | 1532 | -9 | 1523 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Slim Borgudd](slim-borgudd) |
 | 1992 | [Round 15: Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix) | 1992-10-25 | qualifying | March | 23 | 1500 | +25 | 1525 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti](emanuele-naspetti) |
 | 1992 | [Round 15: Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix) | 1992-10-25 | race | March | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti](emanuele-naspetti) |
 | 1992 | [Round 15: Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix) | 1992-10-25 | global | March | Q:23/R:DNF | 1500 | +8 | 1508 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti](emanuele-naspetti) |

@@ -11,30 +11,30 @@
 **DNF Statistics**: 1 DNFs out of 2 races (50.0%)
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1454
+**Career Journey**: 1500 → 1468
 
-🏆 **Peak ELO**: 1475
+🏆 **Peak ELO**: 1483
    *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1454
+📉 **Lowest ELO**: 1468
    *[1978 Round 16 - Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
-**Career Journey**: 1500 → 1472
+**Career Journey**: 1500 → 1477
 
-🏆 **Peak ELO**: 1472
+🏆 **Peak ELO**: 1477
    *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1472
+📉 **Lowest ELO**: 1477
    *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1467
+**Career Journey**: 1500 → 1474
 
-🏆 **Peak ELO**: 1473
+🏆 **Peak ELO**: 1479
    *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
-📉 **Lowest ELO**: 1467
+📉 **Lowest ELO**: 1474
    *[1978 Round 16 - Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)*
 
 
@@ -42,9 +42,9 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | qualifying | Wolf | 20 | 1500 | -25 | 1475 | [Jody Scheckter](jody-scheckter) |
-| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | race | Wolf | 12 | 1500 | -28 | 1472 | [Jody Scheckter](jody-scheckter) |
-| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | global | Wolf | Q:20/R:12 | 1500 | -27 | 1473 | [Jody Scheckter](jody-scheckter) |
-| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | qualifying | Wolf | 20 | 1475 | -21 | 1454 | [Jody Scheckter](jody-scheckter) |
-| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | race | Wolf | DNF | 1472 | N/A | 1472 | [Jody Scheckter](jody-scheckter) |
-| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | global | Wolf | Q:20/R:DNF | 1473 | -6 | 1467 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | qualifying | Wolf | 20 | 1500 | -17 | 1483 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | race | Wolf | 12 | 1500 | -23 | 1477 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | global | Wolf | Q:20/R:12 | 1500 | -21 | 1479 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | qualifying | Wolf | 20 | 1483 | -15 | 1468 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | race | Wolf | DNF | 1477 | N/A | 1477 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | global | Wolf | Q:20/R:DNF | 1479 | -4 | 1474 | [Jody Scheckter](jody-scheckter) |
