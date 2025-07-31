@@ -64,7 +64,6 @@
 - **Races vs [Sam Tingle](sam-tingle) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [Sam Tingle](sam-tingle) (1497)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -5</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 7 out of 7 races (100.0%)

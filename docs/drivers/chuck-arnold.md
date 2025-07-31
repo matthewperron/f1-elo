@@ -84,7 +84,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Red Amick](red-amick) (1497)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +3</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Red Amick](red-amick) (1498)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +3</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 0 out of 11 races (0.0%)

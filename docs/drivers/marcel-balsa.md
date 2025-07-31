@@ -52,7 +52,6 @@
 - **Races vs [Rudolf Krause](rudolf-krause) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [Rudolf Krause](rudolf-krause) (1511)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -11</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 3 out of 3 races (100.0%)

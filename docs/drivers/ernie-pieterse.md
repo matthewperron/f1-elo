@@ -65,7 +65,6 @@
 - **Races vs [Sam Tingle](sam-tingle) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [Sam Tingle](sam-tingle) (1497)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +5</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 7 out of 7 races (100.0%)
@@ -96,7 +95,6 @@
 
 - **Races vs [Neville Lederle](neville-lederle) (1496)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [Neville Lederle](neville-lederle) (1507)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +11</span>**
-
 
 #### DNF Statistics
 

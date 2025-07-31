@@ -65,7 +65,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Brendon Hartley](brendon-hartley) (1504)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -39</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Brendon Hartley](brendon-hartley) (1487)**: 1 wins (33.3%) • 2 losses (66.7%) • **Elo <span style="color: red;">▼ -25</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 0 out of 5 races (0.0%)
@@ -94,7 +93,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Brendon Hartley](brendon-hartley) (1483)**: 9 wins (50.0%) • 6 losses (33.3%) • 3 DNFs (16.7%) • **Elo **<span style="color: green;">▲ +21</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Brendon Hartley](brendon-hartley) (1438)**: 15 wins (71.4%) • 6 losses (28.6%) • **Elo <span style="color: green;">▲ +46</span>**
-
 
 #### DNF Statistics
 
@@ -144,7 +142,6 @@
 - **Races vs [Daniil Kvyat](daniil-kvyat) (N/A)**: 4 wins (50.0%) • 3 losses (37.5%) • 1 DNFs (12.5%) • **Elo **<span style="color: green;">▲ +41</span>****
 - **Qualifying vs [Daniil Kvyat](daniil-kvyat) (N/A)**: 7 wins (77.8%) • 2 losses (22.2%) • **Elo <span style="color: green;">▲ +124</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 2 out of 21 races (9.5%)
@@ -190,7 +187,6 @@
 - **Races vs [Daniil Kvyat](daniil-kvyat) (1471)**: 8 wins (50.0%) • 6 losses (37.5%) • 2 DNFs (12.5%) • **Elo **<span style="color: green;">▲ +17</span>****
 - **Qualifying vs [Daniil Kvyat](daniil-kvyat) (1451)**: 12 wins (70.6%) • 5 losses (29.4%) • **Elo <span style="color: red;">▼ -83</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 2 out of 17 races (11.8%)
@@ -231,7 +227,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1410)**: 14 wins (70.0%) • 3 losses (15.0%) • 3 DNFs (15.0%) • **Elo **<span style="color: green;">▲ +90</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1351)**: 20 wins (90.9%) • 2 losses (9.1%) • **Elo <span style="color: green;">▲ +149</span>**
-
 
 #### DNF Statistics
 
@@ -279,7 +274,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1481)**: 11 wins (57.9%) • 6 losses (31.6%) • 2 DNFs (10.5%) • **Elo **<span style="color: red;">▼ -71</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1500)**: 12 wins (54.5%) • 10 losses (45.5%) • **Elo <span style="color: red;">▼ -150</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 2 out of 22 races (9.1%)
@@ -325,7 +319,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1650)**: 6 wins (35.3%) • 10 losses (58.8%) • 1 DNFs (5.9%) • **Elo **<span style="color: red;">▼ -65</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1501)**: 14 wins (63.6%) • 8 losses (36.4%) • **Elo <span style="color: green;">▲ +225</span>**
-
 
 #### DNF Statistics
 
@@ -375,7 +368,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Doohan](jack-doohan) (1475)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +25</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Doohan](jack-doohan) (1482)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +18</span>**
-
 
 #### DNF Statistics
 
@@ -427,7 +419,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto) (1502)**: 4 wins (66.7%) • 1 losses (16.7%) • 1 DNFs (16.7%) • **Elo **<span style="color: green;">▲ +40</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto) (1427)**: 6 wins (85.7%) • 1 losses (14.3%) • **Elo <span style="color: green;">▲ +19</span>**
-
 
 #### DNF Statistics
 

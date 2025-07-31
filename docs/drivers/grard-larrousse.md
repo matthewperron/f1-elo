@@ -55,7 +55,6 @@
 - **Races vs [Rikky von Opel](rikky-von-opel) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [Rikky von Opel](rikky-von-opel) (1473)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +7</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 4 out of 4 races (100.0%)

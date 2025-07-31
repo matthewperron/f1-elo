@@ -64,7 +64,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (1419)**: 1 wins (50.0%) • 1 losses (50.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +6</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (1510)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +77</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 1 out of 10 races (10.0%)
@@ -99,7 +98,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Domenico Schiattarella](domenico-schiattarella) (1461)**: 1 wins (20.0%) • 0 losses (0.0%) • 4 DNFs (80.0%) • **Elo **<span style="color: green;">▲ +39</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Domenico Schiattarella](domenico-schiattarella) (1438)**: 4 wins (80.0%) • 1 losses (20.0%) • **Elo <span style="color: green;">▲ +25</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 4 out of 5 races (80.0%)
@@ -128,7 +126,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Rosset](ricardo-rosset) (1479)**: 3 wins (21.4%) • 4 losses (28.6%) • 7 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +21</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Rosset](ricardo-rosset) (1322)**: 16 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +179</span>**
-
 
 #### DNF Statistics
 
@@ -169,7 +166,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1738)**: 0 wins (0.0%) • 6 losses (54.5%) • 5 DNFs (45.5%) • **Elo **<span style="color: red;">▼ -72</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1653)**: 7 wins (41.2%) • 10 losses (58.8%) • **Elo <span style="color: red;">▼ -164</span>**
-
 
 #### DNF Statistics
 
@@ -212,7 +208,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1611)**: 0 wins (0.0%) • 2 losses (25.0%) • 6 DNFs (75.0%) • **Elo **<span style="color: red;">▼ -32</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1802)**: 1 wins (11.1%) • 8 losses (88.9%) • **Elo <span style="color: red;">▼ -89</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 6 out of 9 races (66.7%)
@@ -245,7 +240,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1388)**: 7 wins (43.8%) • 2 losses (12.5%) • 7 DNFs (43.8%) • **Elo **<span style="color: green;">▲ +180</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1587)**: 6 wins (35.3%) • 11 losses (64.7%) • **Elo <span style="color: red;">▼ -90</span>**
-
 
 #### DNF Statistics
 
@@ -287,7 +281,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Enrique Bernoldi](enrique-bernoldi) (1476)**: 6 wins (46.2%) • 2 losses (15.4%) • 5 DNFs (38.5%) • **Elo **<span style="color: green;">▲ +24</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Enrique Bernoldi](enrique-bernoldi) (1530)**: 7 wins (41.2%) • 10 losses (58.8%) • **Elo <span style="color: red;">▼ -31</span>**
-
 
 #### DNF Statistics
 
@@ -332,7 +325,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Nicolas Kiesa](nicolas-kiesa) (1428)**: 3 wins (60.0%) • 0 losses (0.0%) • 2 DNFs (40.0%) • **Elo **<span style="color: green;">▲ +73</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Nicolas Kiesa](nicolas-kiesa) (1373)**: 5 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +126</span>**
-
 
 #### DNF Statistics
 

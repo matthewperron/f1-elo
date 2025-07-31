@@ -49,7 +49,6 @@
 - **Races vs [Dave Charlton](dave-charlton) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [Dave Charlton](dave-charlton) (1513)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -15</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 2 out of 2 races (100.0%)

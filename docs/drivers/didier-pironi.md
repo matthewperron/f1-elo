@@ -58,7 +58,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1634)**: 2 wins (20.0%) • 6 losses (60.0%) • 2 DNFs (20.0%) • **Elo **<span style="color: red;">▼ -56</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1716)**: 2 wins (12.5%) • 14 losses (87.5%) • **Elo <span style="color: red;">▼ -38</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 2 out of 16 races (12.5%)
@@ -105,7 +104,6 @@
 - **Races vs [Derek Daly](derek-daly) (1467)**: 2 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +67</span>****
 - **Qualifying vs [Derek Daly](derek-daly) (1468)**: 3 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +62</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 4 out of 17 races (23.5%)
@@ -145,7 +143,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) (1563)**: 4 wins (36.4%) • 3 losses (27.3%) • 4 DNFs (36.4%) • **Elo **<span style="color: green;">▲ +143</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) (1663)**: 8 wins (57.1%) • 6 losses (42.9%) • **Elo <span style="color: green;">▲ +139</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 4 out of 14 races (28.6%)
@@ -183,7 +180,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](gilles-villeneuve) (1580)**: 3 wins (27.3%) • 3 losses (27.3%) • 5 DNFs (45.5%) • **Elo **<span style="color: green;">▲ +33</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](gilles-villeneuve) (1832)**: 5 wins (33.3%) • 10 losses (66.7%) • **Elo <span style="color: red;">▼ -4</span>**
-
 
 #### DNF Statistics
 
@@ -226,7 +222,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](patrick-tambay) (1506)**: 3 wins (75.0%) • 1 losses (25.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -3</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](patrick-tambay) (1397)**: 4 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +49</span>**
-
 
 #### DNF Statistics
 

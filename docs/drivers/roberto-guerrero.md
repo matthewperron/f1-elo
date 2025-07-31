@@ -54,7 +54,6 @@
 - **Races vs [Johnny Cecotto](johnny-cecotto) (1558)**: 0 wins (0.0%) • 2 losses (22.2%) • 7 DNFs (77.8%) • **Elo **<span style="color: red;">▼ -58</span>****
 - **Qualifying vs [Johnny Cecotto](johnny-cecotto) (1439)**: 6 wins (66.7%) • 3 losses (33.3%) • **Elo <span style="color: green;">▲ +61</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 7 out of 9 races (77.8%)

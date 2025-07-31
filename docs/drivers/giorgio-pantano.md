@@ -54,7 +54,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1714)**: 0 wins (0.0%) • 6 losses (60.0%) • 4 DNFs (40.0%) • **Elo **<span style="color: red;">▼ -85</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1643)**: 5 wins (35.7%) • 9 losses (64.3%) • **Elo <span style="color: green;">▲ +73</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 4 out of 14 races (28.6%)

@@ -65,7 +65,6 @@
 - **Races vs [Pastor Maldonado](pastor-maldonado) (1601)**: 7 wins (38.9%) • 10 losses (55.6%) • 1 DNFs (5.6%) • **Elo **<span style="color: red;">▼ -31</span>****
 - **Qualifying vs [Pastor Maldonado](pastor-maldonado) (1524)**: 12 wins (63.2%) • 7 losses (36.8%) • **Elo <span style="color: green;">▲ +175</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 1 out of 19 races (5.3%)
@@ -108,7 +107,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1561)**: 10 wins (52.6%) • 8 losses (42.1%) • 1 DNFs (5.3%) • **Elo **<span style="color: red;">▼ -6</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1643)**: 13 wins (68.4%) • 6 losses (31.6%) • **Elo <span style="color: green;">▲ +141</span>**
-
 
 #### DNF Statistics
 
@@ -153,7 +151,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1549)**: 7 wins (41.2%) • 7 losses (41.2%) • 3 DNFs (17.6%) • **Elo **<span style="color: green;">▲ +12</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1632)**: 11 wins (57.9%) • 8 losses (42.1%) • **Elo <span style="color: green;">▲ +11</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 3 out of 19 races (15.8%)
@@ -196,7 +193,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1455)**: 9 wins (50.0%) • 7 losses (38.9%) • 2 DNFs (11.1%) • **Elo **<span style="color: green;">▲ +91</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1623)**: 17 wins (81.0%) • 4 losses (19.0%) • **Elo <span style="color: green;">▲ +7</span>**
-
 
 #### DNF Statistics
 
@@ -243,7 +239,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1647)**: 8 wins (40.0%) • 11 losses (55.0%) • 1 DNFs (5.0%) • **Elo **<span style="color: green;">▲ +100</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1932)**: 7 wins (35.0%) • 13 losses (65.0%) • **Elo <span style="color: green;">▲ +15</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 1 out of 20 races (5.0%)
@@ -287,7 +282,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1847)**: 3 wins (14.3%) • 16 losses (76.2%) • 2 DNFs (9.5%) • **Elo **<span style="color: red;">▼ -201</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (2028)**: 6 wins (28.6%) • 15 losses (71.4%) • **Elo <span style="color: red;">▼ -94</span>**
-
 
 #### DNF Statistics
 
@@ -333,7 +327,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1727)**: 6 wins (28.6%) • 14 losses (66.7%) • 1 DNFs (4.8%) • **Elo **<span style="color: green;">▲ +119</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1968)**: 8 wins (38.1%) • 13 losses (61.9%) • **Elo <span style="color: green;">▲ +61</span>**
-
 
 #### DNF Statistics
 
@@ -383,7 +376,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +46</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +31</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 1 out of 17 races (5.9%)
@@ -424,7 +416,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1814)**: 4 wins (18.2%) • 16 losses (72.7%) • 2 DNFs (9.1%) • **Elo **<span style="color: red;">▼ -82</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (2006)**: 5 wins (22.7%) • 17 losses (77.3%) • **Elo <span style="color: red;">▼ -67</span>**
-
 
 #### DNF Statistics
 
@@ -472,7 +463,6 @@
 - **Races vs [Guanyu Zhou](guanyu-zhou) (1484)**: 11 wins (57.9%) • 4 losses (21.1%) • 4 DNFs (21.1%) • **Elo **<span style="color: green;">▲ +15</span>****
 - **Qualifying vs [Guanyu Zhou](guanyu-zhou) (1672)**: 13 wins (59.1%) • 9 losses (40.9%) • **Elo <span style="color: red;">▼ -173</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 4 out of 22 races (18.2%)
@@ -519,7 +509,6 @@
 - **Races vs [Guanyu Zhou](guanyu-zhou) (1523)**: 11 wins (52.4%) • 7 losses (33.3%) • 3 DNFs (14.3%) • **Elo **<span style="color: red;">▼ -39</span>****
 - **Qualifying vs [Guanyu Zhou](guanyu-zhou) (1535)**: 15 wins (68.2%) • 7 losses (31.8%) • **Elo <span style="color: green;">▲ +136</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 3 out of 22 races (13.6%)
@@ -565,7 +554,6 @@
 
 - **Races vs [Guanyu Zhou](guanyu-zhou) (1520)**: 12 wins (54.5%) • 8 losses (36.4%) • 2 DNFs (9.1%) • **Elo **<span style="color: green;">▲ +2</span>****
 - **Qualifying vs [Guanyu Zhou](guanyu-zhou) (1538)**: 21 wins (87.5%) • 3 losses (12.5%) • **Elo <span style="color: red;">▼ -5</span>**
-
 
 #### DNF Statistics
 

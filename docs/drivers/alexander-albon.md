@@ -62,7 +62,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 3 wins (37.5%) • 5 losses (62.5%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +49</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 1 wins (11.1%) • 8 losses (88.9%) • **Elo <span style="color: red;">▼ -37</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 0 out of 21 races (0.0%)
@@ -108,7 +107,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1746)**: 2 wins (13.3%) • 11 losses (73.3%) • 2 DNFs (13.3%) • **Elo **<span style="color: red;">▼ -15</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1869)**: 0 wins (0.0%) • 17 losses (100.0%) • **Elo <span style="color: red;">▼ -84</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 2 out of 17 races (11.8%)
@@ -149,7 +147,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1298)**: 16 wins (80.0%) • 2 losses (10.0%) • 2 DNFs (10.0%) • **Elo **<span style="color: green;">▲ +159</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1334)**: 18 wins (85.7%) • 3 losses (14.3%) • **Elo <span style="color: green;">▲ +258</span>**
-
 
 #### DNF Statistics
 
@@ -195,7 +192,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) (1362)**: 15 wins (78.9%) • 0 losses (0.0%) • 4 DNFs (21.1%) • **Elo **<span style="color: green;">▲ +140</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) (1311)**: 22 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +189</span>**
-
 
 #### DNF Statistics
 
@@ -246,7 +242,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto) (1542)**: 2 wins (28.6%) • 1 losses (14.3%) • 4 DNFs (57.1%) • **Elo **<span style="color: red;">▼ -42</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto) (1446)**: 8 wins (88.9%) • 1 losses (11.1%) • **Elo <span style="color: green;">▲ +53</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 7 out of 23 races (30.4%)
@@ -293,7 +288,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1543)**: 7 wins (63.6%) • 1 losses (9.1%) • 3 DNFs (27.3%) • **Elo **<span style="color: green;">▲ +47</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1667)**: 8 wins (61.5%) • 5 losses (38.5%) • **Elo <span style="color: green;">▲ +4</span>**
-
 
 #### DNF Statistics
 

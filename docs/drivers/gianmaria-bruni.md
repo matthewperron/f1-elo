@@ -54,7 +54,6 @@
 - **Races vs [Zsolt Baumgartner](zsolt-baumgartner) (1491)**: 6 wins (37.5%) • 4 losses (25.0%) • 6 DNFs (37.5%) • **Elo **<span style="color: red;">▼ -10</span>****
 - **Qualifying vs [Zsolt Baumgartner](zsolt-baumgartner) (1422)**: 12 wins (66.7%) • 6 losses (33.3%) • **Elo <span style="color: green;">▲ +54</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 6 out of 18 races (33.3%)

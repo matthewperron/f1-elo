@@ -54,7 +54,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1655)**: 3 wins (21.4%) • 5 losses (35.7%) • 6 DNFs (42.9%) • **Elo **<span style="color: green;">▲ +18</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1688)**: 2 wins (11.8%) • 15 losses (88.2%) • **Elo <span style="color: red;">▼ -58</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 6 out of 17 races (35.3%)

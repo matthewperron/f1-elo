@@ -68,7 +68,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann) (N/A)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -43</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann) (N/A)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -25</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 1 out of 5 races (20.0%)
@@ -95,7 +94,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann) (1390)**: 5 wins (35.7%) • 6 losses (42.9%) • 3 DNFs (21.4%) • **Elo **<span style="color: green;">▲ +18</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann) (1664)**: 5 wins (31.3%) • 11 losses (68.8%) • **Elo <span style="color: green;">▲ +111</span>**
-
 
 #### DNF Statistics
 
@@ -137,7 +135,6 @@
 - **Races vs [Jody Scheckter](jody-scheckter) (1532)**: 6 wins (42.9%) • 4 losses (28.6%) • 4 DNFs (28.6%) • **Elo **<span style="color: green;">▲ +88</span>****
 - **Qualifying vs [Jody Scheckter](jody-scheckter) (1632)**: 8 wins (53.3%) • 7 losses (46.7%) • **Elo <span style="color: green;">▲ +75</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 4 out of 15 races (26.7%)
@@ -177,7 +174,6 @@
 - **Races vs [Jody Scheckter](jody-scheckter) (1476)**: 5 wins (45.5%) • 1 losses (9.1%) • 5 DNFs (45.5%) • **Elo **<span style="color: green;">▲ +55</span>****
 - **Qualifying vs [Jody Scheckter](jody-scheckter) (1478)**: 12 wins (92.3%) • 1 losses (7.7%) • **Elo <span style="color: green;">▲ +154</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 5 out of 13 races (38.5%)
@@ -214,7 +210,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi](didier-pironi) (1598)**: 3 wins (25.0%) • 3 losses (25.0%) • 6 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -33</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi](didier-pironi) (1748)**: 10 wins (66.7%) • 5 losses (33.3%) • **Elo <span style="color: green;">▲ +4</span>**
-
 
 #### DNF Statistics
 
@@ -254,7 +249,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi](didier-pironi) (1653)**: 0 wins (0.0%) • 2 losses (50.0%) • 2 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -55</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi](didier-pironi) (1658)**: 5 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +89</span>**
-
 
 #### DNF Statistics
 

@@ -56,7 +56,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1550)**: 7 wins (36.8%) • 10 losses (52.6%) • 2 DNFs (10.5%) • **Elo **<span style="color: red;">▼ -22</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1584)**: 5 wins (25.0%) • 15 losses (75.0%) • **Elo <span style="color: red;">▼ -57</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 2 out of 20 races (10.0%)
@@ -101,7 +100,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1576)**: 6 wins (35.3%) • 7 losses (41.2%) • 4 DNFs (23.5%) • **Elo **<span style="color: red;">▼ -24</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1677)**: 4 wins (21.1%) • 15 losses (78.9%) • **Elo <span style="color: red;">▼ -93</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 4 out of 19 races (21.1%)
@@ -144,7 +142,6 @@
 
 - **Races vs [Daniil Kvyat](daniil-kvyat) (1451)**: 6 wins (37.5%) • 5 losses (31.3%) • 5 DNFs (31.3%) • **Elo **<span style="color: green;">▲ +48</span>****
 - **Qualifying vs [Daniil Kvyat](daniil-kvyat) (1455)**: 9 wins (47.4%) • 10 losses (52.6%) • **Elo <span style="color: green;">▲ +46</span>**
-
 
 #### DNF Statistics
 

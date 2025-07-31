@@ -54,7 +54,6 @@
 - **Races vs [Jody Scheckter](jody-scheckter) (1622)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -23</span>****
 - **Qualifying vs [Jody Scheckter](jody-scheckter) (1707)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -32</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 1 out of 2 races (50.0%)

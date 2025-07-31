@@ -56,7 +56,6 @@
 - **Races vs [Tiago Monteiro](tiago-monteiro) (1577)**: 6 wins (33.3%) • 8 losses (44.4%) • 4 DNFs (22.2%) • **Elo **<span style="color: red;">▼ -76</span>****
 - **Qualifying vs [Tiago Monteiro](tiago-monteiro) (1496)**: 10 wins (52.6%) • 9 losses (47.4%) • **Elo <span style="color: green;">▲ +3</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 4 out of 19 races (21.1%)
@@ -103,7 +102,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1527)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +51</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1539)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -19</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 1 out of 8 races (12.5%)
@@ -135,7 +133,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1525)**: 3 wins (16.7%) • 11 losses (61.1%) • 4 DNFs (22.2%) • **Elo **<span style="color: red;">▼ -115</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1495)**: 3 wins (15.8%) • 16 losses (84.2%) • **Elo <span style="color: red;">▼ -49</span>**
-
 
 #### DNF Statistics
 

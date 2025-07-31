@@ -55,7 +55,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1775)**: 3 wins (17.6%) • 11 losses (64.7%) • 3 DNFs (17.6%) • **Elo **<span style="color: red;">▼ -12</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1763)**: 0 wins (0.0%) • 18 losses (100.0%) • **Elo <span style="color: red;">▼ -187</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 3 out of 18 races (16.7%)
@@ -97,7 +96,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1783)**: 1 wins (11.1%) • 8 losses (88.9%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -8</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1739)**: 1 wins (10.0%) • 9 losses (90.0%) • **Elo <span style="color: green;">▲ +25</span>**
-
 
 #### DNF Statistics
 

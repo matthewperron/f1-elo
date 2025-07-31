@@ -64,7 +64,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1483)**: 5 wins (38.5%) • 5 losses (38.5%) • 3 DNFs (23.1%) • **Elo **<span style="color: green;">▲ +17</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1466)**: 10 wins (52.6%) • 9 losses (47.4%) • **Elo <span style="color: green;">▲ +33</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 3 out of 19 races (15.8%)
@@ -111,7 +110,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (N/A)**: 7 wins (41.2%) • 9 losses (52.9%) • 1 DNFs (5.9%) • **Elo **<span style="color: green;">▲ +76</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (N/A)**: 6 wins (35.3%) • 11 losses (64.7%) • **Elo <span style="color: green;">▲ +68</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 2 out of 21 races (9.5%)
@@ -157,7 +155,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1539)**: 6 wins (40.0%) • 5 losses (33.3%) • 4 DNFs (26.7%) • **Elo **<span style="color: green;">▲ +54</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1602)**: 13 wins (65.0%) • 7 losses (35.0%) • **Elo <span style="color: green;">▲ +47</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 4 out of 20 races (20.0%)
@@ -201,7 +198,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1452)**: 9 wins (60.0%) • 3 losses (20.0%) • 3 DNFs (20.0%) • **Elo **<span style="color: green;">▲ +85</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1628)**: 14 wins (66.7%) • 7 losses (33.3%) • **Elo <span style="color: red;">▼ -25</span>**
-
 
 #### DNF Statistics
 
@@ -251,7 +247,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (N/A)**: 5 wins (55.6%) • 3 losses (33.3%) • 1 DNFs (11.1%) • **Elo **<span style="color: red;">▼ -49</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (N/A)**: 8 wins (88.9%) • 1 losses (11.1%) • **Elo <span style="color: green;">▲ +37</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 1 out of 21 races (4.8%)
@@ -297,7 +292,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1504)**: 11 wins (68.8%) • 2 losses (12.5%) • 3 DNFs (18.8%) • **Elo **<span style="color: green;">▲ +15</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1354)**: 17 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +84</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 3 out of 17 races (17.6%)
@@ -338,7 +332,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1556)**: 18 wins (85.7%) • 3 losses (14.3%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +139</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1490)**: 20 wins (90.9%) • 2 losses (9.1%) • **Elo <span style="color: green;">▲ +37</span>**
-
 
 #### DNF Statistics
 
@@ -386,7 +379,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1554)**: 16 wins (76.2%) • 3 losses (14.3%) • 2 DNFs (9.5%) • **Elo **<span style="color: green;">▲ +1</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1551)**: 17 wins (77.3%) • 5 losses (22.7%) • **Elo <span style="color: red;">▼ -62</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 2 out of 22 races (9.1%)
@@ -433,7 +425,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1492)**: 19 wins (90.5%) • 2 losses (9.5%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +63</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1499)**: 19 wins (86.4%) • 3 losses (13.6%) • **Elo <span style="color: green;">▲ +54</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 0 out of 22 races (0.0%)
@@ -479,7 +470,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1433)**: 19 wins (95.0%) • 0 losses (0.0%) • 1 DNFs (5.0%) • **Elo **<span style="color: green;">▲ +59</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1544)**: 21 wins (87.5%) • 3 losses (12.5%) • **Elo <span style="color: red;">▼ -45</span>**
-
 
 #### DNF Statistics
 
@@ -531,7 +521,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (N/A)**: 9 wins (90.0%) • 0 losses (0.0%) • 1 DNFs (10.0%) • **Elo **<span style="color: green;">▲ +35</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (N/A)**: 11 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +104</span>**
-
 
 #### DNF Statistics
 

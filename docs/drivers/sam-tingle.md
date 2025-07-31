@@ -66,7 +66,6 @@
 - **Races vs [Syd van der Vyver](syd-van-der-vyver) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [Syd van der Vyver](syd-van-der-vyver) (1497)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +5</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 7 out of 7 races (100.0%)
@@ -92,7 +91,6 @@
 - **Races vs [Doug Serrurier](doug-serrurier) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [Doug Serrurier](doug-serrurier) (1467)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +33</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 1 out of 1 races (100.0%)
@@ -117,7 +115,6 @@
 
 - **Races vs [Peter de Klerk](peter-de-klerk) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
 - **Qualifying vs [Peter de Klerk](peter-de-klerk) (1534)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -34</span>**
-
 
 #### DNF Statistics
 

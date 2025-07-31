@@ -55,7 +55,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1597)**: 3 wins (17.6%) • 14 losses (82.4%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -99</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1593)**: 3 wins (15.8%) • 16 losses (84.2%) • **Elo <span style="color: red;">▼ -93</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 0 out of 19 races (0.0%)
@@ -98,7 +97,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1596)**: 3 wins (25.0%) • 9 losses (75.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1644)**: 4 wins (26.7%) • 11 losses (73.3%) • **Elo <span style="color: red;">▼ -52</span>**
-
 
 #### DNF Statistics
 

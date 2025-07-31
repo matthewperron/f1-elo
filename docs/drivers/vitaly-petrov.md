@@ -56,7 +56,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1740)**: 0 wins (0.0%) • 13 losses (81.3%) • 3 DNFs (18.8%) • **Elo **<span style="color: red;">▼ -159</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1696)**: 2 wins (10.5%) • 17 losses (89.5%) • **Elo <span style="color: red;">▼ -66</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 3 out of 19 races (15.8%)
@@ -103,7 +102,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1457)**: 5 wins (62.5%) • 3 losses (37.5%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +128</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1561)**: 3 wins (37.5%) • 5 losses (62.5%) • **Elo <span style="color: red;">▼ -27</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 0 out of 19 races (0.0%)
@@ -146,7 +144,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) (1545)**: 10 wins (50.0%) • 7 losses (35.0%) • 3 DNFs (15.0%) • **Elo **<span style="color: green;">▲ +91</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) (1610)**: 8 wins (40.0%) • 12 losses (60.0%) • **Elo <span style="color: green;">▲ +179</span>**
-
 
 #### DNF Statistics
 

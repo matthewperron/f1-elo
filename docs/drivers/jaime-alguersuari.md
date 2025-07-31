@@ -56,7 +56,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1521)**: 1 wins (16.7%) • 2 losses (33.3%) • 3 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -41</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1617)**: 1 wins (12.5%) • 7 losses (87.5%) • **Elo <span style="color: red;">▼ -92</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 3 out of 8 races (37.5%)
@@ -88,7 +87,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1432)**: 9 wins (52.9%) • 6 losses (35.3%) • 2 DNFs (11.8%) • **Elo **<span style="color: green;">▲ +88</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1434)**: 8 wins (42.1%) • 11 losses (57.9%) • **Elo <span style="color: green;">▲ +185</span>**
-
 
 #### DNF Statistics
 
@@ -132,7 +130,6 @@
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1429)**: 7 wins (46.7%) • 7 losses (46.7%) • 1 DNFs (6.7%) • **Elo **<span style="color: green;">▲ +3</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1534)**: 7 wins (36.8%) • 12 losses (63.2%) • **Elo <span style="color: red;">▼ -100</span>**
-
 
 #### DNF Statistics
 

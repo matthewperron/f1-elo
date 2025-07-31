@@ -54,7 +54,6 @@
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) (1513)**: 4 wins (33.3%) • 5 losses (41.7%) • 3 DNFs (25.0%) • **Elo **<span style="color: green;">▲ +28</span>****
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) (1475)**: 7 wins (53.8%) • 6 losses (46.2%) • **Elo <span style="color: green;">▲ +101</span>**
 
-
 #### DNF Statistics
 
 - **DNFs**: 3 out of 13 races (23.1%)
