@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Streiff - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1985](../seasons/1985-season-report) • [1986](../seasons/1986-season-report) • [1987](../seasons/1987-season-report)
-**Total Race Events**: 37 (111 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 37 (111 individual ELO calculations)
+
+**DNF Statistics**: 10 DNFs out of 37 races (27.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1576

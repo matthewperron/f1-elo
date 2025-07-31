@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1962](../seasons/1962-season-report) • [1963](../seasons/1963-season-report) • [1964](../seasons/1964-season-report) • [1965](../seasons/1965-season-report) • [1968](../seasons/1968-season-report) • [1971](../seasons/1971-season-report)
-**Total Race Events**: 19 (57 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 19 (57 individual ELO calculations)
+
+**DNF Statistics**: 9 DNFs out of 19 races (47.4%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1570

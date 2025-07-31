@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Huub Rothengatter - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1986](../seasons/1986-season-report)
-**Total Race Events**: 12 (36 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 12 (36 individual ELO calculations)
+
+**DNF Statistics**: 9 DNFs out of 12 races (75.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1316

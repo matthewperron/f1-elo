@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1960](../seasons/1960-season-report) • [1962](../seasons/1962-season-report) • [1963](../seasons/1963-season-report) • [1964](../seasons/1964-season-report) • [1965](../seasons/1965-season-report) • [1966](../seasons/1966-season-report)
-**Total Race Events**: 18 (54 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 18 (54 individual ELO calculations)
+
+**DNF Statistics**: 7 DNFs out of 18 races (38.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1559

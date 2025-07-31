@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1999](../seasons/1999-season-report) • [2000](../seasons/2000-season-report) • [2001](../seasons/2001-season-report) • [2002](../seasons/2002-season-report) • [2005](../seasons/2005-season-report) • [2006](../seasons/2006-season-report) • [2010](../seasons/2010-season-report) • [2011](../seasons/2011-season-report) • [2012](../seasons/2012-season-report)
-**Total Race Events**: 106 (318 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 106 (318 individual ELO calculations)
+
+**DNF Statistics**: 33 DNFs out of 106 races (31.1%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1487

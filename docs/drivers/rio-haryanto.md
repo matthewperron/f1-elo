@@ -1,11 +1,14 @@
 # Rio Haryanto - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2016](../seasons/2016-season-report)
-**Total Race Events**: 12 (36 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 12 (36 individual ELO calculations)
+
+**DNF Statistics**: 1 DNFs out of 12 races (8.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1441

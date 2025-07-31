@@ -1,11 +1,14 @@
 # Tomáš Enge - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2001](../seasons/2001-season-report)
-**Total Race Events**: 3 (9 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 3 (9 individual ELO calculations)
+
+**DNF Statistics**: 1 DNFs out of 3 races (33.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1429

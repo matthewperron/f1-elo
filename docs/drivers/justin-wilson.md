@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Justin Wilson - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2003](../seasons/2003-season-report)
-**Total Race Events**: 16 (48 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 16 (48 individual ELO calculations)
+
+**DNF Statistics**: 8 DNFs out of 16 races (50.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1414

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1991](../seasons/1991-season-report) • [1992](../seasons/1992-season-report) • [1993](../seasons/1993-season-report) • [1994](../seasons/1994-season-report) • [1999](../seasons/1999-season-report)
-**Total Race Events**: 42 (126 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 42 (126 individual ELO calculations)
+
+**DNF Statistics**: 19 DNFs out of 42 races (45.2%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1521

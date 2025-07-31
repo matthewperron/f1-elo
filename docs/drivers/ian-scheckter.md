@@ -1,11 +1,14 @@
 # Ian Scheckter - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1975](../seasons/1975-season-report) • [1977](../seasons/1977-season-report)
-**Total Race Events**: 10 (30 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 10 (30 individual ELO calculations)
+
+**DNF Statistics**: 7 DNFs out of 10 races (70.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1490

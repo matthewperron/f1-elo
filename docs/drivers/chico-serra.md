@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Chico Serra - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1981](../seasons/1981-season-report) • [1983](../seasons/1983-season-report)
-**Total Race Events**: 10 (30 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 10 (30 individual ELO calculations)
+
+**DNF Statistics**: 4 DNFs out of 10 races (40.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1414

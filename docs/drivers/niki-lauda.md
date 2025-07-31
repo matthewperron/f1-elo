@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1974](../seasons/1974-season-report) • [1975](../seasons/1975-season-report) • [1976](../seasons/1976-season-report) • [1977](../seasons/1977-season-report) • [1978](../seasons/1978-season-report) • [1979](../seasons/1979-season-report) • [1982](../seasons/1982-season-report) • [1983](../seasons/1983-season-report) • [1984](../seasons/1984-season-report) • [1985](../seasons/1985-season-report)
-**Total Race Events**: 143 (429 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 143 (429 individual ELO calculations)
+
+**DNF Statistics**: 52 DNFs out of 143 races (36.4%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1510

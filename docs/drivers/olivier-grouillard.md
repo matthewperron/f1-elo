@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Grouillard - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1989](../seasons/1989-season-report) • [1992](../seasons/1992-season-report)
-**Total Race Events**: 23 (69 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 23 (69 individual ELO calculations)
+
+**DNF Statistics**: 10 DNFs out of 23 races (43.5%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1411

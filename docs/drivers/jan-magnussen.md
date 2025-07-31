@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Jan Magnussen - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1995](../seasons/1995-season-report) • [1997](../seasons/1997-season-report) • [1998](../seasons/1998-season-report)
-**Total Race Events**: 25 (75 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 25 (75 individual ELO calculations)
+
+**DNF Statistics**: 11 DNFs out of 25 races (44.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1349

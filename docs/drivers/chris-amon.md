@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1963](../seasons/1963-season-report) • [1964](../seasons/1964-season-report) • [1965](../seasons/1965-season-report) • [1967](../seasons/1967-season-report) • [1968](../seasons/1968-season-report) • [1969](../seasons/1969-season-report) • [1971](../seasons/1971-season-report) • [1974](../seasons/1974-season-report) • [1975](../seasons/1975-season-report) • [1976](../seasons/1976-season-report)
-**Total Race Events**: 30 (90 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 30 (90 individual ELO calculations)
+
+**DNF Statistics**: 16 DNFs out of 30 races (53.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1546

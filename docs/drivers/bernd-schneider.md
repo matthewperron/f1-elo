@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Bernd Schneider - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1988](../seasons/1988-season-report) • [1990](../seasons/1990-season-report)
-**Total Race Events**: 6 (18 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 6 (18 individual ELO calculations)
+
+**DNF Statistics**: 4 DNFs out of 6 races (66.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1526

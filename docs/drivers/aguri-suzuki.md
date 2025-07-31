@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1988](../seasons/1988-season-report) • [1990](../seasons/1990-season-report) • [1991](../seasons/1991-season-report) • [1992](../seasons/1992-season-report) • [1993](../seasons/1993-season-report) • [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report)
-**Total Race Events**: 64 (192 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 64 (192 individual ELO calculations)
+
+**DNF Statistics**: 22 DNFs out of 64 races (34.4%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1382

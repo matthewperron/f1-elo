@@ -313,6 +313,14 @@ async function generateComprehensiveDriverFiles() {
         
         content += `**Total Race Events**: ${Math.ceil(results.length / 3)} (${results.length} individual ELO calculations)\n\n`;
 
+        // Calculate DNF statistics (only for race results)
+        const raceResultsForDNF = results.filter(r => r.session === 'race');
+        const dnfCount = raceResultsForDNF.filter(r => r.result === 'DNF').length;
+        const totalRaces = raceResultsForDNF.length;
+        const dnfPercentage = totalRaces > 0 ? ((dnfCount / totalRaces) * 100).toFixed(1) : '0.0';
+        
+        content += `**DNF Statistics**: ${dnfCount} DNFs out of ${totalRaces} races (${dnfPercentage}%)\n\n`;
+
         // ELO progression by type
         const qualifyingResults = sortedResults.filter(r => r.session === 'qualifying' && r.eloChange !== null);
         const raceResults = sortedResults.filter(r => r.session === 'race' && r.eloChange !== null);

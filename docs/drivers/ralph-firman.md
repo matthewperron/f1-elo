@@ -1,11 +1,14 @@
 # Ralph Firman - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2003](../seasons/2003-season-report)
-**Total Race Events**: 14 (42 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 14 (42 individual ELO calculations)
+
+**DNF Statistics**: 3 DNFs out of 14 races (21.4%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1458

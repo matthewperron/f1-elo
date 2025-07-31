@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1971](../seasons/1971-season-report) • [1972](../seasons/1972-season-report) • [1973](../seasons/1973-season-report) • [1975](../seasons/1975-season-report) • [1976](../seasons/1976-season-report) • [1977](../seasons/1977-season-report) • [1980](../seasons/1980-season-report)
-**Total Race Events**: 55 (165 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 55 (165 individual ELO calculations)
+
+**DNF Statistics**: 17 DNFs out of 55 races (30.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1345

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> André Lotterer - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2014](../seasons/2014-season-report)
-**Total Race Events**: 1 (3 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 1 (3 individual ELO calculations)
+
+**DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1526

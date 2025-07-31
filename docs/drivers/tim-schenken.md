@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Tim Schenken - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1971](../seasons/1971-season-report) • [1972](../seasons/1972-season-report) • [1973](../seasons/1973-season-report)
-**Total Race Events**: 12 (36 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 12 (36 individual ELO calculations)
+
+**DNF Statistics**: 5 DNFs out of 12 races (41.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1519

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ralf Schumacher - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1997](../seasons/1997-season-report) • [1998](../seasons/1998-season-report) • [1999](../seasons/1999-season-report) • [2000](../seasons/2000-season-report) • [2001](../seasons/2001-season-report) • [2002](../seasons/2002-season-report) • [2003](../seasons/2003-season-report) • [2004](../seasons/2004-season-report) • [2005](../seasons/2005-season-report) • [2006](../seasons/2006-season-report) • [2007](../seasons/2007-season-report)
-**Total Race Events**: 180 (540 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 180 (540 individual ELO calculations)
+
+**DNF Statistics**: 36 DNFs out of 180 races (20.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1493

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ronnie Bucknum - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1965](../seasons/1965-season-report) • [1966](../seasons/1966-season-report)
-**Total Race Events**: 8 (24 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 8 (24 individual ELO calculations)
+
+**DNF Statistics**: 6 DNFs out of 8 races (75.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1379

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1987](../seasons/1987-season-report) • [1988](../seasons/1988-season-report) • [1989](../seasons/1989-season-report) • [1990](../seasons/1990-season-report) • [1991](../seasons/1991-season-report) • [1992](../seasons/1992-season-report)
-**Total Race Events**: 61 (183 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 61 (183 individual ELO calculations)
+
+**DNF Statistics**: 31 DNFs out of 61 races (50.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1713

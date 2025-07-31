@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2007](../seasons/2007-season-report) • [2008](../seasons/2008-season-report) • [2009](../seasons/2009-season-report) • [2010](../seasons/2010-season-report) • [2011](../seasons/2011-season-report) • [2012](../seasons/2012-season-report) • [2013](../seasons/2013-season-report) • [2014](../seasons/2014-season-report) • [2015](../seasons/2015-season-report) • [2016](../seasons/2016-season-report) • [2017](../seasons/2017-season-report) • [2018](../seasons/2018-season-report) • [2019](../seasons/2019-season-report) • [2020](../seasons/2020-season-report) • [2021](../seasons/2021-season-report) • [2022](../seasons/2022-season-report) • [2023](../seasons/2023-season-report) • [2024](../seasons/2024-season-report) • [2025](../seasons/2025-season-report)
-**Total Race Events**: 369 (1107 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 369 (1107 individual ELO calculations)
+
+**DNF Statistics**: 21 DNFs out of 369 races (5.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1613

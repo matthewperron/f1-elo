@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2023](../seasons/2023-season-report) • [2024](../seasons/2024-season-report)
-**Total Race Events**: 36 (108 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 36 (108 individual ELO calculations)
+
+**DNF Statistics**: 6 DNFs out of 36 races (16.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1405

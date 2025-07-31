@@ -1,11 +1,14 @@
 # Alex Yoong - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2001](../seasons/2001-season-report) • [2002](../seasons/2002-season-report)
-**Total Race Events**: 15 (45 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 15 (45 individual ELO calculations)
+
+**DNF Statistics**: 6 DNFs out of 15 races (40.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1289

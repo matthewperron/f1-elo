@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Éric Vergne - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2012](../seasons/2012-season-report) • [2013](../seasons/2013-season-report) • [2014](../seasons/2014-season-report)
-**Total Race Events**: 58 (174 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 58 (174 individual ELO calculations)
+
+**DNF Statistics**: 11 DNFs out of 58 races (19.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1397

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report) • [1996](../seasons/1996-season-report) • [1997](../seasons/1997-season-report) • [1998](../seasons/1998-season-report) • [1999](../seasons/1999-season-report) • [2000](../seasons/2000-season-report) • [2002](../seasons/2002-season-report)
-**Total Race Events**: 111 (333 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 111 (333 individual ELO calculations)
+
+**DNF Statistics**: 41 DNFs out of 111 races (36.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1615

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1997](../seasons/1997-season-report) • [1998](../seasons/1998-season-report)
-**Total Race Events**: 33 (99 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 33 (99 individual ELO calculations)
+
+**DNF Statistics**: 13 DNFs out of 33 races (39.4%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1547

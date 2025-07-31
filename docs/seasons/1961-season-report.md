@@ -1,6 +1,6 @@
 # 1961 F1 Season - ELO Analysis
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 ## Final ELO Ratings
 

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2002](../seasons/2002-season-report) • [2003](../seasons/2003-season-report) • [2004](../seasons/2004-season-report) • [2005](../seasons/2005-season-report) • [2006](../seasons/2006-season-report) • [2007](../seasons/2007-season-report) • [2008](../seasons/2008-season-report) • [2009](../seasons/2009-season-report) • [2010](../seasons/2010-season-report) • [2011](../seasons/2011-season-report) • [2012](../seasons/2012-season-report) • [2013](../seasons/2013-season-report)
-**Total Race Events**: 214 (642 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 214 (642 individual ELO calculations)
+
+**DNF Statistics**: 38 DNFs out of 214 races (17.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1562

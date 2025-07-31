@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Paul di Resta - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2011](../seasons/2011-season-report) • [2012](../seasons/2012-season-report) • [2013](../seasons/2013-season-report) • [2017](../seasons/2017-season-report)
-**Total Race Events**: 59 (177 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 59 (177 individual ELO calculations)
+
+**DNF Statistics**: 4 DNFs out of 59 races (6.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1462

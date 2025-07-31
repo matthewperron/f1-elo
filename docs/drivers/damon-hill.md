@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1992](../seasons/1992-season-report) • [1993](../seasons/1993-season-report) • [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report) • [1996](../seasons/1996-season-report) • [1997](../seasons/1997-season-report) • [1998](../seasons/1998-season-report) • [1999](../seasons/1999-season-report)
-**Total Race Events**: 114 (342 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 114 (342 individual ELO calculations)
+
+**DNF Statistics**: 24 DNFs out of 114 races (21.1%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1382

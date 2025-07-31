@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1981](../seasons/1981-season-report) • [1982](../seasons/1982-season-report) • [1983](../seasons/1983-season-report) • [1984](../seasons/1984-season-report) • [1985](../seasons/1985-season-report) • [1986](../seasons/1986-season-report)
-**Total Race Events**: 58 (174 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 58 (174 individual ELO calculations)
+
+**DNF Statistics**: 18 DNFs out of 58 races (31.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1434

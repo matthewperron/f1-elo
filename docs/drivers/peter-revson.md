@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Peter Revson - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1964](../seasons/1964-season-report) • [1972](../seasons/1972-season-report) • [1973](../seasons/1973-season-report) • [1974](../seasons/1974-season-report)
-**Total Race Events**: 20 (60 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 20 (60 individual ELO calculations)
+
+**DNF Statistics**: 4 DNFs out of 20 races (20.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1542

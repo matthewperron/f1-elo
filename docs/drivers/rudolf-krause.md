@@ -1,11 +1,14 @@
 # Rudolf Krause - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1953](../seasons/1953-season-report)
-**Total Race Events**: 1 (3 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 1 (3 individual ELO calculations)
+
+**DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1532

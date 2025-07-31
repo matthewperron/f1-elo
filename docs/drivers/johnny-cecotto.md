@@ -1,11 +1,14 @@
 # Johnny Cecotto - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1983](../seasons/1983-season-report) • [1984](../seasons/1984-season-report)
-**Total Race Events**: 17 (51 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 17 (51 individual ELO calculations)
+
+**DNF Statistics**: 7 DNFs out of 17 races (41.2%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1342

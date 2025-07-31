@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report) • [1996](../seasons/1996-season-report)
-**Total Race Events**: 23 (69 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 23 (69 individual ELO calculations)
+
+**DNF Statistics**: 14 DNFs out of 23 races (60.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1523

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Stefan Bellof - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1984](../seasons/1984-season-report) • [1985](../seasons/1985-season-report)
-**Total Race Events**: 17 (51 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 17 (51 individual ELO calculations)
+
+**DNF Statistics**: 10 DNFs out of 17 races (58.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1448

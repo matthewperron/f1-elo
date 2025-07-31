@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2015](../seasons/2015-season-report) • [2016](../seasons/2016-season-report) • [2017](../seasons/2017-season-report) • [2018](../seasons/2018-season-report) • [2019](../seasons/2019-season-report) • [2020](../seasons/2020-season-report) • [2021](../seasons/2021-season-report) • [2022](../seasons/2022-season-report) • [2023](../seasons/2023-season-report) • [2024](../seasons/2024-season-report) • [2025](../seasons/2025-season-report)
-**Total Race Events**: 222 (666 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 222 (666 individual ELO calculations)
+
+**DNF Statistics**: 20 DNFs out of 222 races (9.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1955

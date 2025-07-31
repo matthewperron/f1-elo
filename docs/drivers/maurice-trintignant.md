@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Maurice Trintignant - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1950](../seasons/1950-season-report) • [1952](../seasons/1952-season-report) • [1953](../seasons/1953-season-report) • [1956](../seasons/1956-season-report) • [1960](../seasons/1960-season-report) • [1961](../seasons/1961-season-report) • [1963](../seasons/1963-season-report)
-**Total Race Events**: 11 (33 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 11 (33 individual ELO calculations)
+
+**DNF Statistics**: 8 DNFs out of 11 races (72.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1468

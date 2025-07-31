@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1974](../seasons/1974-season-report) • [1975](../seasons/1975-season-report) • [1977](../seasons/1977-season-report) • [1978](../seasons/1978-season-report) • [1979](../seasons/1979-season-report) • [1980](../seasons/1980-season-report)
-**Total Race Events**: 38 (114 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 38 (114 individual ELO calculations)
+
+**DNF Statistics**: 10 DNFs out of 38 races (26.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1559

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Carroll Shelby - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1959](../seasons/1959-season-report)
-**Total Race Events**: 4 (12 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 4 (12 individual ELO calculations)
+
+**DNF Statistics**: 2 DNFs out of 4 races (50.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1435

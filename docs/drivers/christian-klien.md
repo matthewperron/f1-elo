@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Christian Klien - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2004](../seasons/2004-season-report) • [2005](../seasons/2005-season-report) • [2006](../seasons/2006-season-report) • [2010](../seasons/2010-season-report)
-**Total Race Events**: 51 (153 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 51 (153 individual ELO calculations)
+
+**DNF Statistics**: 9 DNFs out of 51 races (17.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1541

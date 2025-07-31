@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1987](../seasons/1987-season-report) • [1988](../seasons/1988-season-report) • [1989](../seasons/1989-season-report) • [1990](../seasons/1990-season-report) • [1991](../seasons/1991-season-report)
-**Total Race Events**: 75 (225 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 75 (225 individual ELO calculations)
+
+**DNF Statistics**: 22 DNFs out of 75 races (29.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1321

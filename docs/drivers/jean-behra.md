@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1952](../seasons/1952-season-report) • [1953](../seasons/1953-season-report) • [1954](../seasons/1954-season-report) • [1958](../seasons/1958-season-report)
-**Total Race Events**: 9 (27 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 9 (27 individual ELO calculations)
+
+**DNF Statistics**: 6 DNFs out of 9 races (66.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1493

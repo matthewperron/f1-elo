@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jabouille - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1979](../seasons/1979-season-report) • [1980](../seasons/1980-season-report) • [1981](../seasons/1981-season-report)
-**Total Race Events**: 31 (93 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 31 (93 individual ELO calculations)
+
+**DNF Statistics**: 27 DNFs out of 31 races (87.1%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1437

@@ -1,11 +1,14 @@
 # Derek Daly - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1978](../seasons/1978-season-report) • [1979](../seasons/1979-season-report) • [1980](../seasons/1980-season-report) • [1982](../seasons/1982-season-report)
-**Total Race Events**: 28 (84 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 28 (84 individual ELO calculations)
+
+**DNF Statistics**: 7 DNFs out of 28 races (25.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1482

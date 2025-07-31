@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Esteban Tuero - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1998](../seasons/1998-season-report)
-**Total Race Events**: 16 (48 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 16 (48 individual ELO calculations)
+
+**DNF Statistics**: 7 DNFs out of 16 races (43.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1311

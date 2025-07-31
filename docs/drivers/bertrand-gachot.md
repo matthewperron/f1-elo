@@ -1,11 +1,14 @@
 # Bertrand Gachot - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1989](../seasons/1989-season-report) • [1991](../seasons/1991-season-report) • [1992](../seasons/1992-season-report) • [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report)
-**Total Race Events**: 39 (117 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 39 (117 individual ELO calculations)
+
+**DNF Statistics**: 21 DNFs out of 39 races (53.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1518

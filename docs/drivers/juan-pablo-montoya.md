@@ -1,11 +1,14 @@
 # Juan Pablo Montoya - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2001](../seasons/2001-season-report) • [2002](../seasons/2002-season-report) • [2003](../seasons/2003-season-report) • [2004](../seasons/2004-season-report) • [2005](../seasons/2005-season-report) • [2006](../seasons/2006-season-report)
-**Total Race Events**: 95 (285 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 95 (285 individual ELO calculations)
+
+**DNF Statistics**: 23 DNFs out of 95 races (24.2%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1481

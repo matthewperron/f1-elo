@@ -1,11 +1,14 @@
 # Jacky Ickx - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1967](../seasons/1967-season-report) • [1968](../seasons/1968-season-report) • [1969](../seasons/1969-season-report) • [1970](../seasons/1970-season-report) • [1971](../seasons/1971-season-report) • [1972](../seasons/1972-season-report) • [1973](../seasons/1973-season-report) • [1974](../seasons/1974-season-report) • [1975](../seasons/1975-season-report) • [1976](../seasons/1976-season-report) • [1979](../seasons/1979-season-report)
-**Total Race Events**: 71 (213 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 71 (213 individual ELO calculations)
+
+**DNF Statistics**: 29 DNFs out of 71 races (40.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1370

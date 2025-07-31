@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2018](../seasons/2018-season-report) • [2019](../seasons/2019-season-report) • [2020](../seasons/2020-season-report) • [2021](../seasons/2021-season-report) • [2022](../seasons/2022-season-report) • [2023](../seasons/2023-season-report) • [2024](../seasons/2024-season-report) • [2025](../seasons/2025-season-report)
-**Total Race Events**: 162 (486 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 162 (486 individual ELO calculations)
+
+**DNF Statistics**: 14 DNFs out of 162 races (8.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1699

@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Migault - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1975](../seasons/1975-season-report)
-**Total Race Events**: 3 (9 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 3 (9 individual ELO calculations)
+
+**DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1417

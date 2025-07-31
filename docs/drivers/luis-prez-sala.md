@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1988](../seasons/1988-season-report) • [1989](../seasons/1989-season-report)
-**Total Race Events**: 23 (69 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 23 (69 individual ELO calculations)
+
+**DNF Statistics**: 8 DNFs out of 23 races (34.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1360

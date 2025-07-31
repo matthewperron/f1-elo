@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1952](../seasons/1952-season-report)
-**Total Race Events**: 2 (6 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 2 (6 individual ELO calculations)
+
+**DNF Statistics**: 1 DNFs out of 2 races (50.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1561

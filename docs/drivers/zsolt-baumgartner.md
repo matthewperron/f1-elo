@@ -1,11 +1,14 @@
 # Zsolt Baumgartner - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2003](../seasons/2003-season-report) • [2004](../seasons/2004-season-report)
-**Total Race Events**: 20 (60 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 20 (60 individual ELO calculations)
+
+**DNF Statistics**: 4 DNFs out of 20 races (20.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1423

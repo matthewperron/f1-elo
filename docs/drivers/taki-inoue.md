@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report)
-**Total Race Events**: 18 (54 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 18 (54 individual ELO calculations)
+
+**DNF Statistics**: 7 DNFs out of 18 races (38.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1366

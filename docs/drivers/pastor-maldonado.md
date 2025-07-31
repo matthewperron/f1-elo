@@ -1,11 +1,14 @@
 # Pastor Maldonado - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2011](../seasons/2011-season-report) • [2012](../seasons/2012-season-report) • [2013](../seasons/2013-season-report) • [2014](../seasons/2014-season-report) • [2015](../seasons/2015-season-report)
-**Total Race Events**: 96 (288 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 96 (288 individual ELO calculations)
+
+**DNF Statistics**: 20 DNFs out of 96 races (20.8%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1458

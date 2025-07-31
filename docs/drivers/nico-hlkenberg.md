@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2010](../seasons/2010-season-report) • [2012](../seasons/2012-season-report) • [2013](../seasons/2013-season-report) • [2014](../seasons/2014-season-report) • [2015](../seasons/2015-season-report) • [2016](../seasons/2016-season-report) • [2017](../seasons/2017-season-report) • [2018](../seasons/2018-season-report) • [2019](../seasons/2019-season-report) • [2020](../seasons/2020-season-report) • [2022](../seasons/2022-season-report) • [2023](../seasons/2023-season-report) • [2024](../seasons/2024-season-report) • [2025](../seasons/2025-season-report)
-**Total Race Events**: 243 (729 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 243 (729 individual ELO calculations)
+
+**DNF Statistics**: 29 DNFs out of 243 races (11.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1459

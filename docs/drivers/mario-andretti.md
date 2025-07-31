@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1976](../seasons/1976-season-report) • [1977](../seasons/1977-season-report) • [1978](../seasons/1978-season-report) • [1979](../seasons/1979-season-report) • [1980](../seasons/1980-season-report) • [1981](../seasons/1981-season-report) • [1982](../seasons/1982-season-report)
-**Total Race Events**: 73 (219 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 73 (219 individual ELO calculations)
+
+**DNF Statistics**: 29 DNFs out of 73 races (39.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1628

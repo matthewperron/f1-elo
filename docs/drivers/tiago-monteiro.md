@@ -1,11 +1,14 @@
 # Tiago Monteiro - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2005](../seasons/2005-season-report) • [2006](../seasons/2006-season-report)
-**Total Race Events**: 37 (111 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 37 (111 individual ELO calculations)
+
+**DNF Statistics**: 5 DNFs out of 37 races (13.5%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1516

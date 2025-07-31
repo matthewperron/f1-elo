@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Raul Boesel - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1982](../seasons/1982-season-report) • [1983](../seasons/1983-season-report)
-**Total Race Events**: 22 (66 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 22 (66 individual ELO calculations)
+
+**DNF Statistics**: 9 DNFs out of 22 races (40.9%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1417

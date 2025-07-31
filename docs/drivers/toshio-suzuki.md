@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toshio Suzuki - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1993](../seasons/1993-season-report)
-**Total Race Events**: 2 (6 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 2 (6 individual ELO calculations)
+
+**DNF Statistics**: 0 DNFs out of 2 races (0.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1446

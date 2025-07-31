@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1964](../seasons/1964-season-report) • [1965](../seasons/1965-season-report) • [1968](../seasons/1968-season-report) • [1970](../seasons/1970-season-report)
-**Total Race Events**: 18 (54 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 18 (54 individual ELO calculations)
+
+**DNF Statistics**: 11 DNFs out of 18 races (61.1%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1558

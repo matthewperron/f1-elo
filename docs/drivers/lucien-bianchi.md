@@ -1,11 +1,14 @@
 # Lucien Bianchi - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1963](../seasons/1963-season-report) • [1968](../seasons/1968-season-report)
-**Total Race Events**: 7 (21 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 7 (21 individual ELO calculations)
+
+**DNF Statistics**: 4 DNFs out of 7 races (57.1%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1399

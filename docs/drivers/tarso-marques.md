@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1996](../seasons/1996-season-report) • [1997](../seasons/1997-season-report) • [2001](../seasons/2001-season-report)
-**Total Race Events**: 25 (75 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 25 (75 individual ELO calculations)
+
+**DNF Statistics**: 12 DNFs out of 25 races (48.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1359

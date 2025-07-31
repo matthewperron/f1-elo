@@ -1,11 +1,14 @@
 # Pedro Lamy - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1993](../seasons/1993-season-report) • [1994](../seasons/1994-season-report) • [1995](../seasons/1995-season-report) • [1996](../seasons/1996-season-report)
-**Total Race Events**: 29 (87 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 29 (87 individual ELO calculations)
+
+**DNF Statistics**: 8 DNFs out of 29 races (27.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1496

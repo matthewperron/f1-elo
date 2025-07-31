@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Brendon Hartley - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2017](../seasons/2017-season-report) • [2018](../seasons/2018-season-report)
-**Total Race Events**: 25 (75 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 25 (75 individual ELO calculations)
+
+**DNF Statistics**: 6 DNFs out of 25 races (24.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1452

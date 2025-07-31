@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1962](../seasons/1962-season-report) • [1964](../seasons/1964-season-report) • [1965](../seasons/1965-season-report) • [1967](../seasons/1967-season-report) • [1968](../seasons/1968-season-report) • [1969](../seasons/1969-season-report)
-**Total Race Events**: 33 (99 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 33 (99 individual ELO calculations)
+
+**DNF Statistics**: 15 DNFs out of 33 races (45.5%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1303

@@ -1,11 +1,14 @@
 # Nikita Mazepin - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2021](../seasons/2021-season-report)
-**Total Race Events**: 22 (66 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 22 (66 individual ELO calculations)
+
+**DNF Statistics**: 3 DNFs out of 22 races (13.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1329

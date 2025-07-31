@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1961](../seasons/1961-season-report) • [1963](../seasons/1963-season-report) • [1964](../seasons/1964-season-report) • [1965](../seasons/1965-season-report) • [1966](../seasons/1966-season-report) • [1967](../seasons/1967-season-report)
-**Total Race Events**: 27 (81 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 27 (81 individual ELO calculations)
+
+**DNF Statistics**: 11 DNFs out of 27 races (40.7%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1445

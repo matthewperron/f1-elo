@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Frank Gardner - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1965](../seasons/1965-season-report)
-**Total Race Events**: 6 (18 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 6 (18 individual ELO calculations)
+
+**DNF Statistics**: 5 DNFs out of 6 races (83.3%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1402

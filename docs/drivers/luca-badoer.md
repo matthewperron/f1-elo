@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1993](../seasons/1993-season-report) • [1995](../seasons/1995-season-report) • [1996](../seasons/1996-season-report) • [1999](../seasons/1999-season-report) • [2009](../seasons/2009-season-report)
-**Total Race Events**: 46 (138 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 46 (138 individual ELO calculations)
+
+**DNF Statistics**: 15 DNFs out of 46 races (32.6%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1479

@@ -1,11 +1,14 @@
 # Jackie Pretorius - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [1973](../seasons/1973-season-report)
-**Total Race Events**: 1 (3 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 1 (3 individual ELO calculations)
+
+**DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1468

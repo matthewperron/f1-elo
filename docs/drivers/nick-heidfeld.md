@@ -1,11 +1,14 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld - Complete F1 Career Results
 
-*Generated: 2025-07-31*
+*Last updated: 2025-07-31*
 
 **Seasons**: [2000](../seasons/2000-season-report) • [2001](../seasons/2001-season-report) • [2002](../seasons/2002-season-report) • [2003](../seasons/2003-season-report) • [2004](../seasons/2004-season-report) • [2005](../seasons/2005-season-report) • [2006](../seasons/2006-season-report) • [2007](../seasons/2007-season-report) • [2008](../seasons/2008-season-report) • [2009](../seasons/2009-season-report) • [2010](../seasons/2010-season-report) • [2011](../seasons/2011-season-report)
-**Total Race Events**: 184 (552 individual ELO calculations)
 
 ## Career Statistics
+
+**Total Race Events**: 184 (552 individual ELO calculations)
+
+**DNF Statistics**: 32 DNFs out of 184 races (17.4%)
 
 ### 🏁 Qualifying Performance
 **Career Journey**: 1500 → 1340
