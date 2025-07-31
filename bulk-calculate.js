@@ -1,5 +1,5 @@
 import { fetchAllSeasonResults, transformRaceData, saveToFile } from './fetch-results.js';
-import { calculateELO, updateHomepageFiles, updateREADMEComprehensive, saveFinalELOs, generateSeasonReport } from './calculate-elo.js';
+import { calculateELO, updateHomepageFiles, saveFinalELOs, generateSeasonReport } from './calculate-elo.js';
 import fs from 'fs/promises';
 
 /**
@@ -626,11 +626,11 @@ async function bulkCalculate() {
             const latestData = await fs.readFile(latestFile, 'utf8');
             const raceData = JSON.parse(latestData);
             const { driverRatings } = await calculateELO(raceData, endYear.toString());
-            await updateREADMEComprehensive(driverRatings, endYear.toString());
+            await updateHomepageFiles(driverRatings, endYear.toString(), true);
             await updateIndexWithTop30(peakDrivers);
-            console.log(`✓ README updated with ${endYear} season and 3 top 30 driver tables`);
+            console.log(`✓ Homepage files updated with ${endYear} season and 3 top 30 driver tables`);
         } catch (error) {
-            console.error(`⚠ Could not update README:`, error.message);
+            console.error(`⚠ Could not update homepage files:`, error.message);
         }
     }
     

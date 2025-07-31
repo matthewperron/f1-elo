@@ -500,28 +500,6 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
 }
 
 /**
- * Generate markdown table for README or index
- */
-function generateELOTable(driverRatings, season, isGithubPages = false) {
-    let table = '| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |\n';
-    table += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
-    
-    driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
-        // Create driver file link
-        const cleanDriverName = cleanDriverNameForFilename(driver.name);
-        
-        // Different link formats for README vs GitHub Pages
-        const driverLink = isGithubPages 
-            ? `[${driver.name}](../drivers/${cleanDriverName})` // No .md for GitHub Pages
-            : `[${driver.name}](../drivers/${cleanDriverName}.md)`; // Keep .md for README
-        
-        table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
-    });
-    
-    return table;
-}
-
-/**
  * Generate ELO table for season reports (links to comprehensive driver files)
  */
 function generateSeasonReportELOTable(driverRatings) {
@@ -670,9 +648,12 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
 }
 
 /**
- * Update README with ELO results
+ * Update homepage files (README.md and docs/index.md) with ELO results
+ * @param {Array} driverRatings - Array of driver rating objects
+ * @param {string} season - Season year
+ * @param {boolean} useComprehensiveLinks - Whether to use comprehensive driver links (for bulk processing)
  */
-async function updateHomepageFiles(driverRatings, season) {
+async function updateHomepageFiles(driverRatings, season, useComprehensiveLinks = false) {
     try {
         const files = [
             { path: './README.md', isGithubPages: false },
@@ -684,6 +665,7 @@ async function updateHomepageFiles(driverRatings, season) {
         
         for (const file of files) {
             try {
+                // Use comprehensive table generator if requested (for bulk processing)
                 const table = generateELOTable(driverRatings, season, file.isGithubPages);
                 
                 const newContent = `### ELO Ratings (${season} Season)
@@ -726,7 +708,7 @@ function generateComprehensiveELOTable(driverRatings) {
         // Create driver file link (comprehensive, no season)
         const cleanDriverName = cleanDriverNameForFilename(driver.name);
         
-        const driverLink = `[${driver.name}](drivers/${cleanDriverName}.md)`;
+        const driverLink = `[${driver.name}](docs/drivers/${cleanDriverName}.md)`;
         
         table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
     });
@@ -734,39 +716,27 @@ function generateComprehensiveELOTable(driverRatings) {
     return table;
 }
 
+
 /**
- * Update README with comprehensive ELO results (links to comprehensive driver files)
+ * Generate markdown table for README or index
  */
-async function updateREADMEComprehensive(driverRatings, season) {
-    try {
-        const readmePath = './README.md';
-        const readmeContent = await fs.readFile(readmePath, 'utf8');
+function generateELOTable(driverRatings, season, isGithubPages = false) {
+    let table = '| Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |\n';
+    table += '|------|--------------|--------|-------------|----------------|----------|-----|\n';
+    
+    driverRatings.slice(0, 50).forEach((driver, index) => { // Show top 50
+        // Create driver file link
+        const cleanDriverName = cleanDriverNameForFilename(driver.name);
         
-        const table = generateComprehensiveELOTable(driverRatings);
-        const now = new Date();
-        const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
+        // Different link formats for README vs GitHub Pages
+        const driverLink = isGithubPages ? `[${driver.name}](drivers/${cleanDriverName})` : `[${driver.name}](docs/drivers/${cleanDriverName}.md)`;
         
-        const newContent = `### ELO Ratings (${season} Season)
-*Last updated: ${timestamp}*
-
-${table}
-
-`;
-        
-        // Replace content between markers
-        const updatedContent = readmeContent.replace(
-            /<!-- ELO_RESULTS_START -->.*?<!-- ELO_RESULTS_END -->/s,
-            `<!-- ELO_RESULTS_START -->\n${newContent}\n<!-- ELO_RESULTS_END -->`
-        );
-        
-        await fs.writeFile(readmePath, updatedContent, 'utf8');
-        console.log('✓ README updated with comprehensive ELO ratings');
-        
-    } catch (error) {
-        console.error('Error updating README:', error);
-        throw error;
-    }
+        table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
+    });
+    
+    return table;
 }
+
 
 /**
  * Generate individual driver markdown files
@@ -918,7 +888,7 @@ async function calculateELOFromData(season = '2025') {
 }
 
 // Export functions
-export { calculateELO, updateHomepageFiles, updateREADMEComprehensive, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles };
+export { calculateELO, updateHomepageFiles, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles };
 
 // Run if called directly (check if this file is the main module being executed)
 import path from 'path';

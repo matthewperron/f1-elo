@@ -32,6 +32,7 @@ f1-elo/
 │   ├── 2024-race-results.json         # 2024 season race data and final ELOs
 │   ├── 2023-race-results.json         # 2023 season race data and final ELOs
 │   └── ...                            # Historical data (1950-2025)
+├── docs/                              # the markdown output for GitHub Pages
 ├── main.js                            # Main orchestration script with ELO calculation
 ├── fetch-results.js                   # Data fetching from Ergast API
 ├── package.json                       # Node.js dependencies
