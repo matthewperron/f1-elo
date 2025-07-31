@@ -64,13 +64,20 @@
 
 📊 **[View Full 2001 Season Report](../seasons/2001-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1603 **<span style="color: green;">▲ +103</span>** | 1636 **<span style="color: green;">▲ +136</span>** | 1612 **<span style="color: green;">▲ +112</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques](tarso-marques)**: 2 wins (20.0%) • 0 losses (0.0%) • 8 DNFs (80.0%) - **ELO Impact: **<span style="color: green;">↑ +53</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques](tarso-marques)**: 11 wins (84.6%) • 2 losses (15.4%) - **ELO Impact: **<span style="color: green;">↑ +70</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques](tarso-marques) (1418)**: 2 wins (20.0%) • 0 losses (0.0%) • 8 DNFs (80.0%) • **Elo **<span style="color: green;">▲ +53</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques](tarso-marques) (1268)**: 11 wins (84.6%) • 2 losses (15.4%) • **Elo **<span style="color: green;">▲ +70</span>****
 
-- **Races vs [Alex Yoong](alex-yoong)**: 2 wins (66.7%) • 0 losses (0.0%) • 1 DNFs (33.3%) - **ELO Impact: **<span style="color: green;">↑ +49</span>****
-- **Qualifying vs [Alex Yoong](alex-yoong)**: 3 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +65</span>****
+- **Races vs [Alex Yoong](alex-yoong) (1451)**: 2 wins (66.7%) • 0 losses (0.0%) • 1 DNFs (33.3%) • **Elo **<span style="color: green;">▲ +49</span>****
+- **Qualifying vs [Alex Yoong](alex-yoong) (1435)**: 3 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +65</span>****
+
 
 #### DNF Statistics
 
@@ -133,10 +140,17 @@
 
 📊 **[View Full 2003 Season Report](../seasons/2003-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1729 **<span style="color: green;">▲ +126</span>** | 1720 **<span style="color: green;">▲ +84</span>** | 1726 **<span style="color: green;">▲ +114</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 7 wins (50.0%) • 2 losses (14.3%) • 5 DNFs (35.7%) - **ELO Impact: **<span style="color: green;">↑ +126</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 8 wins (50.0%) • 8 losses (50.0%) - **ELO Impact: **<span style="color: green;">↑ +85</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1578)**: 7 wins (50.0%) • 2 losses (14.3%) • 5 DNFs (35.7%) • **Elo **<span style="color: green;">▲ +126</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1698)**: 8 wins (50.0%) • 8 losses (50.0%) • **Elo **<span style="color: green;">▲ +85</span>****
+
 
 #### DNF Statistics
 
@@ -199,13 +213,20 @@
 
 📊 **[View Full 2004 Season Report](../seasons/2004-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1718 **<span style="color: red;">▼ -11</span>** | 1756 **<span style="color: green;">▲ +36</span>** | 1730 **<span style="color: green;">▲ +4</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 5 wins (35.7%) • 6 losses (42.9%) • 3 DNFs (21.4%) - **ELO Impact: **<span style="color: red;">↓ -68</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 7 wins (46.7%) • 8 losses (53.3%) - **ELO Impact: **<span style="color: green;">↑ +19</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1647)**: 5 wins (35.7%) • 6 losses (42.9%) • 3 DNFs (21.4%) • **Elo **<span style="color: red;">▼ -68</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1681)**: 7 wins (46.7%) • 8 losses (53.3%) • **Elo **<span style="color: green;">▲ +19</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](jacques-villeneuve)**: 3 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +58</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](jacques-villeneuve)**: 2 wins (66.7%) • 1 losses (33.3%) - **ELO Impact: **<span style="color: green;">↑ +19</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](jacques-villeneuve) (1497)**: 3 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +58</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](jacques-villeneuve) (1680)**: 2 wins (66.7%) • 1 losses (33.3%) • **Elo **<span style="color: green;">▲ +19</span>****
+
 
 #### DNF Statistics
 
@@ -274,10 +295,17 @@
 
 📊 **[View Full 2005 Season Report](../seasons/2005-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1799 **<span style="color: green;">▲ +81</span>** | 1810 **<span style="color: green;">▲ +54</span>** | 1802 **<span style="color: green;">▲ +72</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 13 wins (72.2%) • 3 losses (16.7%) • 2 DNFs (11.1%) - **ELO Impact: **<span style="color: green;">↑ +80</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 15 wins (78.9%) • 4 losses (21.1%) - **ELO Impact: **<span style="color: green;">↑ +53</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1580)**: 13 wins (72.2%) • 3 losses (16.7%) • 2 DNFs (11.1%) • **Elo **<span style="color: green;">▲ +80</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1612)**: 15 wins (78.9%) • 4 losses (21.1%) • **Elo **<span style="color: green;">▲ +53</span>****
+
 
 #### DNF Statistics
 
@@ -349,10 +377,17 @@
 
 📊 **[View Full 2006 Season Report](../seasons/2006-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1861 **<span style="color: green;">▲ +62</span>** | 1791 **<span style="color: red;">▼ -19</span>** | 1840 **<span style="color: green;">▲ +38</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 13 wins (76.5%) • 2 losses (11.8%) • 2 DNFs (11.8%) - **ELO Impact: **<span style="color: green;">↑ +61</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 12 wins (66.7%) • 6 losses (33.3%) - **ELO Impact: **<span style="color: red;">↓ -17</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1518)**: 13 wins (76.5%) • 2 losses (11.8%) • 2 DNFs (11.8%) • **Elo **<span style="color: green;">▲ +61</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1631)**: 12 wins (66.7%) • 6 losses (33.3%) • **Elo **<span style="color: red;">▼ -17</span>****
+
 
 #### DNF Statistics
 
@@ -421,10 +456,17 @@
 
 📊 **[View Full 2007 Season Report](../seasons/2007-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1763 **<span style="color: red;">▼ -98</span>** | 1577 **<span style="color: red;">▼ -214</span>** | 1707 **<span style="color: red;">▼ -133</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton)**: 10 wins (58.8%) • 7 losses (41.2%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -98</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton)**: 7 wins (41.2%) • 10 losses (58.8%) - **ELO Impact: **<span style="color: red;">↓ -216</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1598)**: 10 wins (58.8%) • 7 losses (41.2%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -98</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1714)**: 7 wins (41.2%) • 10 losses (58.8%) • **Elo **<span style="color: red;">▼ -216</span>****
+
 
 #### DNF Statistics
 
@@ -490,10 +532,17 @@
 
 📊 **[View Full 2008 Season Report](../seasons/2008-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1775 **<span style="color: green;">▲ +12</span>** | 1763 **<span style="color: green;">▲ +186</span>** | 1772 **<span style="color: green;">▲ +65</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet Jr.](nelson-piquet-jr)**: 11 wins (73.3%) • 3 losses (20.0%) • 1 DNFs (6.7%) - **ELO Impact: **<span style="color: green;">↑ +12</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet Jr.](nelson-piquet-jr)**: 18 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +187</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet Jr.](nelson-piquet-jr) (1488)**: 11 wins (73.3%) • 3 losses (20.0%) • 1 DNFs (6.7%) • **Elo **<span style="color: green;">▲ +12</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet Jr.](nelson-piquet-jr) (1314)**: 18 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +187</span>****
+
 
 #### DNF Statistics
 
@@ -562,13 +611,20 @@
 
 📊 **[View Full 2009 Season Report](../seasons/2009-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1769 **<span style="color: red;">▼ -6</span>** | 1807 **<span style="color: green;">▲ +44</span>** | 1780 **<span style="color: green;">▲ +8</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet Jr.](nelson-piquet-jr)**: 8 wins (80.0%) • 1 losses (10.0%) • 1 DNFs (10.0%) - **ELO Impact: **<span style="color: green;">↑ +8</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet Jr.](nelson-piquet-jr)**: 9 wins (90.0%) • 1 losses (10.0%) - **ELO Impact: **<span style="color: red;">↓ -25</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet Jr.](nelson-piquet-jr) (1480)**: 8 wins (80.0%) • 1 losses (10.0%) • 1 DNFs (10.0%) • **Elo **<span style="color: green;">▲ +8</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet Jr.](nelson-piquet-jr) (1338)**: 9 wins (90.0%) • 1 losses (10.0%) • **Elo **<span style="color: red;">▼ -25</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean)**: 4 wins (66.7%) • 1 losses (16.7%) • 1 DNFs (16.7%) - **ELO Impact: **<span style="color: red;">↓ -14</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean)**: 7 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +66</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) (1514)**: 4 wins (66.7%) • 1 losses (16.7%) • 1 DNFs (16.7%) • **Elo **<span style="color: red;">▼ -14</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) (1433)**: 7 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +66</span>****
+
 
 #### DNF Statistics
 
@@ -634,10 +690,17 @@
 
 📊 **[View Full 2010 Season Report](../seasons/2010-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1892 **<span style="color: green;">▲ +123</span>** | 1959 **<span style="color: green;">▲ +152</span>** | 1911 **<span style="color: green;">▲ +131</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 14 wins (73.7%) • 4 losses (21.1%) • 1 DNFs (5.3%) - **ELO Impact: **<span style="color: green;">↑ +123</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 15 wins (78.9%) • 4 losses (21.1%) - **ELO Impact: **<span style="color: green;">↑ +151</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1592)**: 14 wins (73.7%) • 4 losses (21.1%) • 1 DNFs (5.3%) • **Elo **<span style="color: green;">▲ +123</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1656)**: 15 wins (78.9%) • 4 losses (21.1%) • **Elo **<span style="color: green;">▲ +151</span>****
+
 
 #### DNF Statistics
 
@@ -709,10 +772,17 @@
 
 📊 **[View Full 2011 Season Report](../seasons/2011-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1930 **<span style="color: green;">▲ +38</span>** | 1907 **<span style="color: red;">▼ -52</span>** | 1923 **<span style="color: green;">▲ +12</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 14 wins (82.4%) • 3 losses (17.6%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +39</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 15 wins (78.9%) • 4 losses (21.1%) - **ELO Impact: **<span style="color: red;">↓ -51</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1554)**: 14 wins (82.4%) • 3 losses (17.6%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +39</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1708)**: 15 wins (78.9%) • 4 losses (21.1%) • **Elo **<span style="color: red;">▼ -51</span>****
+
 
 #### DNF Statistics
 
@@ -784,10 +854,17 @@
 
 📊 **[View Full 2012 Season Report](../seasons/2012-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1925 **<span style="color: red;">▼ -5</span>** | 1947 **<span style="color: green;">▲ +40</span>** | 1932 **<span style="color: green;">▲ +9</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 18 wins (90.0%) • 2 losses (10.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -5</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 18 wins (90.0%) • 2 losses (10.0%) - **ELO Impact: **<span style="color: green;">↑ +40</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1559)**: 18 wins (90.0%) • 2 losses (10.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -5</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1668)**: 18 wins (90.0%) • 2 losses (10.0%) • **Elo **<span style="color: green;">▲ +40</span>****
+
 
 #### DNF Statistics
 
@@ -862,10 +939,17 @@
 
 📊 **[View Full 2013 Season Report](../seasons/2013-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1931 **<span style="color: green;">▲ +6</span>** | 1832 **<span style="color: red;">▼ -115</span>** | 1900 **<span style="color: red;">▼ -32</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 17 wins (89.5%) • 2 losses (10.5%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +4</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 11 wins (57.9%) • 8 losses (42.1%) - **ELO Impact: **<span style="color: red;">↓ -115</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1553)**: 17 wins (89.5%) • 2 losses (10.5%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +4</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1783)**: 11 wins (57.9%) • 8 losses (42.1%) • **Elo **<span style="color: red;">▼ -115</span>****
+
 
 #### DNF Statistics
 
@@ -937,10 +1021,17 @@
 
 📊 **[View Full 2014 Season Report](../seasons/2014-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1979 **<span style="color: green;">▲ +48</span>** | 1889 **<span style="color: green;">▲ +57</span>** | 1951 **<span style="color: green;">▲ +51</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 16 wins (84.2%) • 1 losses (5.3%) • 2 DNFs (10.5%) - **ELO Impact: **<span style="color: green;">↑ +49</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 16 wins (84.2%) • 3 losses (15.8%) - **ELO Impact: **<span style="color: green;">↑ +56</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1577)**: 16 wins (84.2%) • 1 losses (5.3%) • 2 DNFs (10.5%) • **Elo **<span style="color: green;">▲ +49</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1607)**: 16 wins (84.2%) • 3 losses (15.8%) • **Elo **<span style="color: green;">▲ +56</span>****
+
 
 #### DNF Statistics
 
@@ -1012,10 +1103,17 @@
 
 📊 **[View Full 2015 Season Report](../seasons/2015-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1808 **<span style="color: red;">▼ -171</span>** | 1739 **<span style="color: red;">▼ -150</span>** | 1787 **<span style="color: red;">▼ -164</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button)**: 5 wins (31.3%) • 5 losses (31.3%) • 6 DNFs (37.5%) - **ELO Impact: **<span style="color: red;">↓ -171</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button)**: 10 wins (55.6%) • 8 losses (44.4%) - **ELO Impact: **<span style="color: red;">↓ -149</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1881)**: 5 wins (31.3%) • 5 losses (31.3%) • 6 DNFs (37.5%) • **Elo **<span style="color: red;">▼ -171</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1750)**: 10 wins (55.6%) • 8 losses (44.4%) • **Elo **<span style="color: red;">▼ -149</span>****
+
 
 #### DNF Statistics
 
@@ -1084,10 +1182,17 @@
 
 📊 **[View Full 2016 Season Report](../seasons/2016-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1895 **<span style="color: green;">▲ +87</span>** | 1843 **<span style="color: green;">▲ +104</span>** | 1878 **<span style="color: green;">▲ +91</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button)**: 8 wins (50.0%) • 5 losses (31.3%) • 3 DNFs (18.8%) - **ELO Impact: **<span style="color: green;">↑ +86</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button)**: 15 wins (75.0%) • 5 losses (25.0%) - **ELO Impact: **<span style="color: green;">↑ +104</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1794)**: 8 wins (50.0%) • 5 losses (31.3%) • 3 DNFs (18.8%) • **Elo **<span style="color: green;">▲ +86</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1597)**: 15 wins (75.0%) • 5 losses (25.0%) • **Elo **<span style="color: green;">▲ +104</span>****
+
 
 #### DNF Statistics
 
@@ -1162,10 +1267,17 @@
 
 📊 **[View Full 2017 Season Report](../seasons/2017-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1842 **<span style="color: red;">▼ -53</span>** | 1814 **<span style="color: red;">▼ -29</span>** | 1832 **<span style="color: red;">▼ -46</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Stoffel Vandoorne](stoffel-vandoorne)**: 7 wins (36.8%) • 3 losses (15.8%) • 9 DNFs (47.4%) - **ELO Impact: **<span style="color: red;">↓ -53</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Stoffel Vandoorne](stoffel-vandoorne)**: 14 wins (73.7%) • 5 losses (26.3%) - **ELO Impact: **<span style="color: red;">↓ -29</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Stoffel Vandoorne](stoffel-vandoorne) (1607)**: 7 wins (36.8%) • 3 losses (15.8%) • 9 DNFs (47.4%) • **Elo **<span style="color: red;">▼ -53</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Stoffel Vandoorne](stoffel-vandoorne) (1619)**: 14 wins (73.7%) • 5 losses (26.3%) • **Elo **<span style="color: red;">▼ -29</span>****
+
 
 #### DNF Statistics
 
@@ -1237,10 +1349,17 @@
 
 📊 **[View Full 2018 Season Report](../seasons/2018-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1799 **<span style="color: red;">▼ -43</span>** | 1917 **<span style="color: green;">▲ +103</span>** | 1833 **<span style="color: green;">▲ +1</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Stoffel Vandoorne](stoffel-vandoorne)**: 10 wins (52.6%) • 3 losses (15.8%) • 6 DNFs (31.6%) - **ELO Impact: **<span style="color: red;">↓ -43</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Stoffel Vandoorne](stoffel-vandoorne)**: 20 wins (95.2%) • 1 losses (4.8%) - **ELO Impact: **<span style="color: green;">↑ +104</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Stoffel Vandoorne](stoffel-vandoorne) (1650)**: 10 wins (52.6%) • 3 losses (15.8%) • 6 DNFs (31.6%) • **Elo **<span style="color: red;">▼ -43</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Stoffel Vandoorne](stoffel-vandoorne) (1516)**: 20 wins (95.2%) • 1 losses (4.8%) • **Elo **<span style="color: green;">▲ +104</span>****
+
 
 #### DNF Statistics
 
@@ -1318,10 +1437,17 @@
 
 📊 **[View Full 2021 Season Report](../seasons/2021-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1693 **<span style="color: red;">▼ -106</span>** | 1687 **<span style="color: red;">▼ -230</span>** | 1690 **<span style="color: red;">▼ -143</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon)**: 10 wins (47.6%) • 9 losses (42.9%) • 2 DNFs (9.5%) - **ELO Impact: **<span style="color: red;">↓ -105</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon)**: 11 wins (50.0%) • 11 losses (50.0%) - **ELO Impact: **<span style="color: red;">↓ -231</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1621)**: 10 wins (47.6%) • 9 losses (42.9%) • 2 DNFs (9.5%) • **Elo **<span style="color: red;">▼ -105</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1747)**: 11 wins (50.0%) • 11 losses (50.0%) • **Elo **<span style="color: red;">▼ -231</span>****
+
 
 #### DNF Statistics
 
@@ -1402,10 +1528,17 @@
 
 📊 **[View Full 2022 Season Report](../seasons/2022-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1731 **<span style="color: green;">▲ +38</span>** | 1708 **<span style="color: green;">▲ +21</span>** | 1723 **<span style="color: green;">▲ +33</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon)**: 8 wins (38.1%) • 8 losses (38.1%) • 5 DNFs (23.8%) - **ELO Impact: **<span style="color: green;">↑ +38</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon)**: 13 wins (59.1%) • 9 losses (40.9%) - **ELO Impact: **<span style="color: green;">↑ +22</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1583)**: 8 wins (38.1%) • 8 losses (38.1%) • 5 DNFs (23.8%) • **Elo **<span style="color: green;">▲ +38</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1726)**: 13 wins (59.1%) • 9 losses (40.9%) • **Elo **<span style="color: green;">▲ +22</span>****
+
 
 #### DNF Statistics
 
@@ -1486,10 +1619,17 @@
 
 📊 **[View Full 2023 Season Report](../seasons/2023-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1767 **<span style="color: green;">▲ +36</span>** | 1739 **<span style="color: green;">▲ +31</span>** | 1756 **<span style="color: green;">▲ +33</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll)**: 14 wins (77.8%) • 2 losses (11.1%) • 2 DNFs (11.1%) - **ELO Impact: **<span style="color: green;">↑ +35</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll)**: 19 wins (86.4%) • 3 losses (13.6%) - **ELO Impact: **<span style="color: green;">↑ +29</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) (1474)**: 14 wins (77.8%) • 2 losses (11.1%) • 2 DNFs (11.1%) • **Elo **<span style="color: green;">▲ +35</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) (1426)**: 19 wins (86.4%) • 3 losses (13.6%) • **Elo **<span style="color: green;">▲ +29</span>****
+
 
 #### DNF Statistics
 
@@ -1570,10 +1710,17 @@
 
 📊 **[View Full 2024 Season Report](../seasons/2024-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1769 **<span style="color: green;">▲ +2</span>** | 1774 **<span style="color: green;">▲ +35</span>** | 1769 **<span style="color: green;">▲ +13</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll)**: 15 wins (71.4%) • 5 losses (23.8%) • 1 DNFs (4.8%) - **ELO Impact: **<span style="color: green;">↑ +3</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll)**: 19 wins (79.2%) • 5 losses (20.8%) - **ELO Impact: **<span style="color: green;">↑ +35</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) (1472)**: 15 wins (71.4%) • 5 losses (23.8%) • 1 DNFs (4.8%) • **Elo **<span style="color: green;">▲ +3</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) (1391)**: 19 wins (79.2%) • 5 losses (20.8%) • **Elo **<span style="color: green;">▲ +35</span>****
+
 
 #### DNF Statistics
 
@@ -1660,10 +1807,17 @@
 
 📊 **[View Full 2025 Season Report](../seasons/2025-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1711 **<span style="color: red;">▼ -58</span>** | 1767 **<span style="color: red;">▼ -7</span>** | 1726 **<span style="color: red;">▼ -43</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll)**: 7 wins (58.3%) • 2 losses (16.7%) • 3 DNFs (25.0%) - **ELO Impact: **<span style="color: red;">↓ -58</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll)**: 11 wins (91.7%) • 1 losses (8.3%) - **ELO Impact: **<span style="color: red;">↓ -7</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) (1530)**: 7 wins (58.3%) • 2 losses (16.7%) • 3 DNFs (25.0%) • **Elo **<span style="color: red;">▼ -58</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) (1398)**: 11 wins (91.7%) • 1 losses (8.3%) • **Elo **<span style="color: red;">▼ -7</span>****
+
 
 #### DNF Statistics
 

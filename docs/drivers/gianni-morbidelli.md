@@ -48,13 +48,20 @@
 
 📊 **[View Full 1990 Season Report](../seasons/1990-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1472 **<span style="color: red;">▼ -28</span>** | 1452 **<span style="color: red;">▼ -48</span>** | 1466 **<span style="color: red;">▼ -34</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -27</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1474)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1581)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -27</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -28</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)**: 0 wins (0.0%) • 2 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -21</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (N/A)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -28</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (N/A)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo **<span style="color: red;">▼ -21</span>****
+
 
 #### DNF Statistics
 
@@ -78,13 +85,20 @@
 
 📊 **[View Full 1991 Season Report](../seasons/1991-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1498 **<span style="color: green;">▲ +26</span>** | 1513 **<span style="color: green;">▲ +61</span>** | 1502 **<span style="color: green;">▲ +36</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)**: 3 wins (21.4%) • 5 losses (35.7%) • 6 DNFs (42.9%) - **ELO Impact: **<span style="color: red;">↓ -19</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)**: 6 wins (40.0%) • 9 losses (60.0%) - **ELO Impact: **<span style="color: green;">↑ +85</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1592)**: 3 wins (21.4%) • 5 losses (35.7%) • 6 DNFs (42.9%) • **Elo **<span style="color: red;">▼ -19</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1684)**: 6 wins (40.0%) • 9 losses (60.0%) • **Elo **<span style="color: green;">▲ +85</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +44</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -23</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +44</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -23</span>****
+
 
 #### DNF Statistics
 
@@ -147,13 +161,20 @@
 
 📊 **[View Full 1992 Season Report](../seasons/1992-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1451 **<span style="color: red;">▼ -47</span>** | 1526 **<span style="color: green;">▲ +13</span>** | 1473 **<span style="color: red;">▼ -29</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi)**: 2 wins (22.2%) • 3 losses (33.3%) • 4 DNFs (44.4%) - **ELO Impact: **<span style="color: red;">↓ -47</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi)**: 6 wins (60.0%) • 4 losses (40.0%) - **ELO Impact: **<span style="color: green;">↑ +56</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) (1547)**: 2 wins (22.2%) • 3 losses (33.3%) • 4 DNFs (44.4%) • **Elo **<span style="color: red;">▼ -47</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) (1444)**: 6 wins (60.0%) • 4 losses (40.0%) • **Elo **<span style="color: green;">▲ +56</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -43</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi) (1476)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi) (1471)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -43</span>****
+
 
 #### DNF Statistics
 
@@ -201,10 +222,17 @@
 
 📊 **[View Full 1994 Season Report](../seasons/1994-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1416 **<span style="color: red;">▼ -35</span>** | 1565 **<span style="color: green;">▲ +39</span>** | 1460 **<span style="color: red;">▼ -13</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi)**: 1 wins (8.3%) • 4 losses (33.3%) • 7 DNFs (58.3%) - **ELO Impact: **<span style="color: red;">↓ -34</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi)**: 10 wins (62.5%) • 6 losses (37.5%) - **ELO Impact: **<span style="color: green;">↑ +37</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) (1570)**: 1 wins (8.3%) • 4 losses (33.3%) • 7 DNFs (58.3%) • **Elo **<span style="color: red;">▼ -34</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) (1502)**: 10 wins (62.5%) • 6 losses (37.5%) • **Elo **<span style="color: green;">▲ +37</span>****
+
 
 #### DNF Statistics
 
@@ -267,10 +295,17 @@
 
 📊 **[View Full 1995 Season Report](../seasons/1995-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1492 **<span style="color: green;">▲ +76</span>** | 1706 **<span style="color: green;">▲ +141</span>** | 1556 **<span style="color: green;">▲ +96</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue](taki-inoue)**: 4 wins (50.0%) • 1 losses (12.5%) • 3 DNFs (37.5%) - **ELO Impact: **<span style="color: green;">↑ +76</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue](taki-inoue)**: 10 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +141</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue](taki-inoue) (1391)**: 4 wins (50.0%) • 1 losses (12.5%) • 3 DNFs (37.5%) • **Elo **<span style="color: green;">▲ +76</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue](taki-inoue) (1371)**: 10 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +141</span>****
+
 
 #### DNF Statistics
 
@@ -315,10 +350,17 @@
 
 📊 **[View Full 1997 Season Report](../seasons/1997-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1408 **<span style="color: red;">▼ -84</span>** | 1580 **<span style="color: red;">▼ -126</span>** | 1459 **<span style="color: red;">▼ -97</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert)**: 1 wins (12.5%) • 5 losses (62.5%) • 2 DNFs (25.0%) - **ELO Impact: **<span style="color: red;">↓ -85</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert)**: 0 wins (0.0%) • 8 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -125</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) (1565)**: 1 wins (12.5%) • 5 losses (62.5%) • 2 DNFs (25.0%) • **Elo **<span style="color: red;">▼ -85</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) (1907)**: 0 wins (0.0%) • 8 losses (100.0%) • **Elo **<span style="color: red;">▼ -125</span>****
+
 
 #### DNF Statistics
 

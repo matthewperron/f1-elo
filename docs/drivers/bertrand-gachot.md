@@ -47,10 +47,17 @@
 
 📊 **[View Full 1989 Season Report](../seasons/1989-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1481 **<span style="color: red;">▼ -19</span>** | 1524 **<span style="color: green;">▲ +24</span>** | 1494 **<span style="color: red;">▼ -6</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Stefan Johansson](stefan-johansson)**: 0 wins (0.0%) • 1 losses (33.3%) • 2 DNFs (66.7%) - **ELO Impact: **<span style="color: red;">↓ -19</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Stefan Johansson](stefan-johansson)**: 2 wins (66.7%) • 1 losses (33.3%) - **ELO Impact: **<span style="color: green;">↑ +24</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Stefan Johansson](stefan-johansson) (1666)**: 0 wins (0.0%) • 1 losses (33.3%) • 2 DNFs (66.7%) • **Elo **<span style="color: red;">▼ -19</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Stefan Johansson](stefan-johansson) (1513)**: 2 wins (66.7%) • 1 losses (33.3%) • **Elo **<span style="color: green;">▲ +24</span>****
+
 
 #### DNF Statistics
 
@@ -74,10 +81,17 @@
 
 📊 **[View Full 1991 Season Report](../seasons/1991-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1394 **<span style="color: red;">▼ -87</span>** | 1427 **<span style="color: red;">▼ -97</span>** | 1404 **<span style="color: red;">▼ -90</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris)**: 1 wins (12.5%) • 5 losses (62.5%) • 2 DNFs (25.0%) - **ELO Impact: **<span style="color: red;">↓ -88</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris)**: 2 wins (22.2%) • 7 losses (77.8%) - **ELO Impact: **<span style="color: red;">↓ -96</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1551)**: 1 wins (12.5%) • 5 losses (62.5%) • 2 DNFs (25.0%) • **Elo **<span style="color: red;">▼ -88</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1570)**: 2 wins (22.2%) • 7 losses (77.8%) • **Elo **<span style="color: red;">▼ -96</span>****
+
 
 #### DNF Statistics
 
@@ -119,10 +133,17 @@
 
 📊 **[View Full 1992 Season Report](../seasons/1992-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1388 **<span style="color: red;">▼ -6</span>** | 1587 **<span style="color: green;">▲ +160</span>** | 1446 **<span style="color: green;">▲ +42</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama)**: 2 wins (16.7%) • 3 losses (25.0%) • 7 DNFs (58.3%) - **ELO Impact: **<span style="color: red;">↓ -8</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama)**: 10 wins (71.4%) • 4 losses (28.6%) - **ELO Impact: **<span style="color: green;">↑ +159</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) (1506)**: 2 wins (16.7%) • 3 losses (25.0%) • 7 DNFs (58.3%) • **Elo **<span style="color: red;">▼ -8</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) (1340)**: 10 wins (71.4%) • 4 losses (28.6%) • **Elo **<span style="color: green;">▲ +159</span>****
+
 
 #### DNF Statistics
 
@@ -179,10 +200,17 @@
 
 📊 **[View Full 1994 Season Report](../seasons/1994-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1388 ↔ 0 | 1621 **<span style="color: green;">▲ +34</span>** | 1456 **<span style="color: green;">▲ +10</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Paul Belmondo](paul-belmondo)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Paul Belmondo](paul-belmondo)**: 2 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +34</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Paul Belmondo](paul-belmondo) (1488)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Paul Belmondo](paul-belmondo) (1395)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +34</span>****
+
 
 #### DNF Statistics
 
@@ -203,10 +231,17 @@
 
 📊 **[View Full 1995 Season Report](../seasons/1995-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1411 **<span style="color: green;">▲ +23</span>** | 1529 **<span style="color: red;">▼ -92</span>** | 1445 **<span style="color: red;">▼ -11</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini)**: 1 wins (10.0%) • 1 losses (10.0%) • 8 DNFs (80.0%) - **ELO Impact: **<span style="color: green;">↑ +23</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini)**: 5 wins (45.5%) • 6 losses (54.5%) - **ELO Impact: **<span style="color: red;">↓ -92</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) (1475)**: 1 wins (10.0%) • 1 losses (10.0%) • 8 DNFs (80.0%) • **Elo **<span style="color: green;">▲ +23</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) (1703)**: 5 wins (45.5%) • 6 losses (54.5%) • **Elo **<span style="color: red;">▼ -92</span>****
+
 
 #### DNF Statistics
 

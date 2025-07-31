@@ -44,13 +44,20 @@
 
 📊 **[View Full 1992 Season Report](../seasons/1992-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1464 **<span style="color: red;">▼ -36</span>** | 1439 **<span style="color: red;">▼ -61</span>** | 1456 **<span style="color: red;">▼ -44</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -36</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)**: 0 wins (0.0%) • 3 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -80</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger) (1495)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -36</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger) (1580)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo **<span style="color: red;">▼ -80</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers)**: 1 wins (50.0%) • 1 losses (50.0%) - **ELO Impact: **<span style="color: green;">↑ +18</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) (1481)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo **<span style="color: green;">▲ +18</span>****
+
 
 #### DNF Statistics
 
@@ -80,10 +87,17 @@
 
 📊 **[View Full 1993 Season Report](../seasons/1993-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1464 ↔ 0 | 1429 **<span style="color: red;">▼ -10</span>** | 1453 **<span style="color: red;">▼ -3</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -10</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1517)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1748)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -10</span>****
+
 
 #### DNF Statistics
 

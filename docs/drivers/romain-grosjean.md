@@ -52,10 +52,17 @@
 
 📊 **[View Full 2009 Season Report](../seasons/2009-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1514 **<span style="color: green;">▲ +14</span>** | 1433 **<span style="color: red;">▼ -67</span>** | 1490 **<span style="color: red;">▼ -10</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 1 wins (16.7%) • 4 losses (66.7%) • 1 DNFs (16.7%) - **ELO Impact: **<span style="color: green;">↑ +14</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 0 wins (0.0%) • 7 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -66</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1769)**: 1 wins (16.7%) • 4 losses (66.7%) • 1 DNFs (16.7%) • **Elo **<span style="color: green;">▲ +14</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1807)**: 0 wins (0.0%) • 7 losses (100.0%) • **Elo **<span style="color: red;">▼ -66</span>****
+
 
 #### DNF Statistics
 
@@ -91,10 +98,17 @@
 
 📊 **[View Full 2012 Season Report](../seasons/2012-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1420 **<span style="color: red;">▼ -94</span>** | 1603 **<span style="color: green;">▲ +170</span>** | 1476 **<span style="color: red;">▼ -14</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 2 wins (10.5%) • 16 losses (84.2%) • 1 DNFs (5.3%) - **ELO Impact: **<span style="color: red;">↓ -93</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 10 wins (52.6%) • 9 losses (47.4%) - **ELO Impact: **<span style="color: green;">↑ +171</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1819)**: 2 wins (10.5%) • 16 losses (84.2%) • 1 DNFs (5.3%) • **Elo **<span style="color: red;">▼ -93</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1799)**: 10 wins (52.6%) • 9 losses (47.4%) • **Elo **<span style="color: green;">▲ +171</span>****
+
 
 #### DNF Statistics
 
@@ -166,13 +180,20 @@
 
 📊 **[View Full 2013 Season Report](../seasons/2013-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1639 **<span style="color: green;">▲ +219</span>** | 1776 **<span style="color: green;">▲ +173</span>** | 1681 **<span style="color: green;">▲ +205</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 5 wins (31.3%) • 8 losses (50.0%) • 3 DNFs (18.8%) - **ELO Impact: **<span style="color: green;">↑ +192</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 7 wins (41.2%) • 10 losses (58.8%) - **ELO Impact: **<span style="color: green;">↑ +135</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1625)**: 5 wins (31.3%) • 8 losses (50.0%) • 3 DNFs (18.8%) • **Elo **<span style="color: green;">▲ +192</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1664)**: 7 wins (41.2%) • 10 losses (58.8%) • **Elo **<span style="color: green;">▲ +135</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +26</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen)**: 2 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +39</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) (1519)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +26</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) (1572)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +39</span>****
+
 
 #### DNF Statistics
 
@@ -244,10 +265,17 @@
 
 📊 **[View Full 2014 Season Report](../seasons/2014-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1608 **<span style="color: red;">▼ -31</span>** | 1704 **<span style="color: red;">▼ -72</span>** | 1637 **<span style="color: red;">▼ -44</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Pastor Maldonado](pastor-maldonado)**: 5 wins (31.3%) • 5 losses (31.3%) • 6 DNFs (37.5%) - **ELO Impact: **<span style="color: red;">↓ -31</span>****
-- **Qualifying vs [Pastor Maldonado](pastor-maldonado)**: 14 wins (73.7%) • 5 losses (26.3%) - **ELO Impact: **<span style="color: red;">↓ -73</span>****
+- **Races vs [Pastor Maldonado](pastor-maldonado) (1632)**: 5 wins (31.3%) • 5 losses (31.3%) • 6 DNFs (37.5%) • **Elo **<span style="color: red;">▼ -31</span>****
+- **Qualifying vs [Pastor Maldonado](pastor-maldonado) (1596)**: 14 wins (73.7%) • 5 losses (26.3%) • **Elo **<span style="color: red;">▼ -73</span>****
+
 
 #### DNF Statistics
 
@@ -319,10 +347,17 @@
 
 📊 **[View Full 2015 Season Report](../seasons/2015-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1731 **<span style="color: green;">▲ +123</span>** | 1766 **<span style="color: green;">▲ +62</span>** | 1741 **<span style="color: green;">▲ +104</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Pastor Maldonado](pastor-maldonado)**: 9 wins (60.0%) • 2 losses (13.3%) • 4 DNFs (26.7%) - **ELO Impact: **<span style="color: green;">↑ +122</span>****
-- **Qualifying vs [Pastor Maldonado](pastor-maldonado)**: 16 wins (84.2%) • 3 losses (15.8%) - **ELO Impact: **<span style="color: green;">↑ +61</span>****
+- **Races vs [Pastor Maldonado](pastor-maldonado) (1509)**: 9 wins (60.0%) • 2 losses (13.3%) • 4 DNFs (26.7%) • **Elo **<span style="color: green;">▲ +122</span>****
+- **Qualifying vs [Pastor Maldonado](pastor-maldonado) (1534)**: 16 wins (84.2%) • 3 losses (15.8%) • **Elo **<span style="color: green;">▲ +61</span>****
+
 
 #### DNF Statistics
 
@@ -394,10 +429,17 @@
 
 📊 **[View Full 2016 Season Report](../seasons/2016-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1633 **<span style="color: red;">▼ -98</span>** | 1553 **<span style="color: red;">▼ -213</span>** | 1611 **<span style="color: red;">▼ -130</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Esteban Gutiérrez](esteban-gutirrez)**: 7 wins (36.8%) • 7 losses (36.8%) • 5 DNFs (26.3%) - **ELO Impact: **<span style="color: red;">↓ -96</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Esteban Gutiérrez](esteban-gutirrez)**: 12 wins (57.1%) • 9 losses (42.9%) - **ELO Impact: **<span style="color: red;">↓ -211</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Esteban Gutiérrez](esteban-gutirrez) (1583)**: 7 wins (36.8%) • 7 losses (36.8%) • 5 DNFs (26.3%) • **Elo **<span style="color: red;">▼ -96</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Esteban Gutiérrez](esteban-gutirrez) (1594)**: 12 wins (57.1%) • 9 losses (42.9%) • **Elo **<span style="color: red;">▼ -211</span>****
+
 
 #### DNF Statistics
 
@@ -475,10 +517,17 @@
 
 📊 **[View Full 2017 Season Report](../seasons/2017-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1587 **<span style="color: red;">▼ -46</span>** | 1514 **<span style="color: red;">▼ -39</span>** | 1568 **<span style="color: red;">▼ -43</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)**: 7 wins (41.2%) • 8 losses (47.1%) • 2 DNFs (11.8%) - **ELO Impact: **<span style="color: red;">↓ -45</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)**: 12 wins (60.0%) • 8 losses (40.0%) - **ELO Impact: **<span style="color: red;">↓ -39</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1539)**: 7 wins (41.2%) • 8 losses (47.1%) • 2 DNFs (11.8%) • **Elo **<span style="color: red;">▼ -45</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1491)**: 12 wins (60.0%) • 8 losses (40.0%) • **Elo **<span style="color: red;">▼ -39</span>****
+
 
 #### DNF Statistics
 
@@ -553,10 +602,17 @@
 
 📊 **[View Full 2018 Season Report](../seasons/2018-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1613 **<span style="color: green;">▲ +26</span>** | 1567 **<span style="color: green;">▲ +53</span>** | 1603 **<span style="color: green;">▲ +35</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)**: 8 wins (40.0%) • 10 losses (50.0%) • 2 DNFs (10.0%) - **ELO Impact: **<span style="color: green;">↑ +27</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)**: 10 wins (47.6%) • 11 losses (52.4%) - **ELO Impact: **<span style="color: green;">↑ +54</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1513)**: 8 wins (40.0%) • 10 losses (50.0%) • 2 DNFs (10.0%) • **Elo **<span style="color: green;">▲ +27</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1438)**: 10 wins (47.6%) • 11 losses (52.4%) • **Elo **<span style="color: green;">▲ +54</span>****
+
 
 #### DNF Statistics
 
@@ -634,10 +690,17 @@
 
 📊 **[View Full 2019 Season Report](../seasons/2019-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1522 **<span style="color: red;">▼ -91</span>** | 1468 **<span style="color: red;">▼ -99</span>** | 1509 **<span style="color: red;">▼ -94</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)**: 8 wins (42.1%) • 6 losses (31.6%) • 5 DNFs (26.3%) - **ELO Impact: **<span style="color: red;">↓ -92</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)**: 9 wins (42.9%) • 12 losses (57.1%) - **ELO Impact: **<span style="color: red;">↓ -99</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1604)**: 8 wins (42.1%) • 6 losses (31.6%) • 5 DNFs (26.3%) • **Elo **<span style="color: red;">▼ -92</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1537)**: 9 wins (42.9%) • 12 losses (57.1%) • **Elo **<span style="color: red;">▼ -99</span>****
+
 
 #### DNF Statistics
 
@@ -715,10 +778,17 @@
 
 📊 **[View Full 2020 Season Report](../seasons/2020-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1515 **<span style="color: red;">▼ -7</span>** | 1485 **<span style="color: green;">▲ +17</span>** | 1510 **<span style="color: green;">▲ +1</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)**: 4 wins (36.4%) • 6 losses (54.5%) • 1 DNFs (9.1%) - **ELO Impact: **<span style="color: red;">↓ -6</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)**: 8 wins (53.3%) • 7 losses (46.7%) - **ELO Impact: **<span style="color: green;">↑ +17</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1611)**: 4 wins (36.4%) • 6 losses (54.5%) • 1 DNFs (9.1%) • **Elo **<span style="color: red;">▼ -6</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1520)**: 8 wins (53.3%) • 7 losses (46.7%) • **Elo **<span style="color: green;">▲ +17</span>****
+
 
 #### DNF Statistics
 

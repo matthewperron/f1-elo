@@ -43,16 +43,23 @@
 
 📊 **[View Full 1976 Season Report](../seasons/1976-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1481 **<span style="color: red;">▼ -19</span>** | 1449 **<span style="color: red;">▼ -51</span>** | 1472 **<span style="color: red;">▼ -28</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Jody Scheckter](jody-scheckter)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -22</span>****
-- **Qualifying vs [Jody Scheckter](jody-scheckter)**: 0 wins (0.0%) • 3 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -41</span>****
+- **Races vs [Jody Scheckter](jody-scheckter) (1592)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -22</span>****
+- **Qualifying vs [Jody Scheckter](jody-scheckter) (1571)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo **<span style="color: red;">▼ -41</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler)**: 1 wins (50.0%) • 1 losses (50.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +4</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler)**: 0 wins (0.0%) • 3 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -22</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1434)**: 1 wins (50.0%) • 1 losses (50.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +4</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1598)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo **<span style="color: red;">▼ -22</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Otto Stuppacher](otto-stuppacher)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Otto Stuppacher](otto-stuppacher)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +12</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Otto Stuppacher](otto-stuppacher) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Otto Stuppacher](otto-stuppacher) (1492)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +12</span>****
+
 
 #### DNF Statistics
 

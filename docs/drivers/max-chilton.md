@@ -44,10 +44,17 @@
 
 📊 **[View Full 2013 Season Report](../seasons/2013-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1403 **<span style="color: red;">▼ -97</span>** | 1407 **<span style="color: red;">▼ -93</span>** | 1403 **<span style="color: red;">▼ -97</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi)**: 3 wins (17.6%) • 14 losses (82.4%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -99</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi)**: 3 wins (15.8%) • 16 losses (84.2%) - **ELO Impact: **<span style="color: red;">↓ -93</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1597)**: 3 wins (17.6%) • 14 losses (82.4%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -99</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1593)**: 3 wins (15.8%) • 16 losses (84.2%) • **Elo **<span style="color: red;">▼ -93</span>****
+
 
 #### DNF Statistics
 
@@ -119,10 +126,17 @@
 
 📊 **[View Full 2014 Season Report](../seasons/2014-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1404 **<span style="color: green;">▲ +1</span>** | 1356 **<span style="color: red;">▼ -51</span>** | 1387 **<span style="color: red;">▼ -16</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi)**: 3 wins (25.0%) • 9 losses (75.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi)**: 4 wins (26.7%) • 11 losses (73.3%) - **ELO Impact: **<span style="color: red;">↓ -52</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1596)**: 3 wins (25.0%) • 9 losses (75.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1644)**: 4 wins (26.7%) • 11 losses (73.3%) • **Elo **<span style="color: red;">▼ -52</span>****
+
 
 #### DNF Statistics
 

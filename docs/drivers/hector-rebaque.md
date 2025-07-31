@@ -47,10 +47,17 @@
 
 📊 **[View Full 1977 Season Report](../seasons/1977-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1500 ↔ 0 | 1467 **<span style="color: red;">▼ -33</span>** | 1490 **<span style="color: red;">▼ -10</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Rupert Keegan](rupert-keegan)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Rupert Keegan](rupert-keegan)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -33</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Rupert Keegan](rupert-keegan) (1487)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Rupert Keegan](rupert-keegan) (1518)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -33</span>****
+
 
 #### DNF Statistics
 
@@ -68,16 +75,23 @@
 
 📊 **[View Full 1978 Season Report](../seasons/1978-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1455 **<span style="color: red;">▼ -45</span>** | 1381 **<span style="color: red;">▼ -86</span>** | 1433 **<span style="color: red;">▼ -57</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti)**: 1 wins (12.5%) • 3 losses (37.5%) • 4 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +3</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti)**: 0 wins (0.0%) • 9 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -25</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) (1718)**: 1 wins (12.5%) • 3 losses (37.5%) • 4 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +3</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) (1884)**: 0 wins (0.0%) • 9 losses (100.0%) • **Elo **<span style="color: red;">▼ -25</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Ronnie Peterson](ronnie-peterson)**: 0 wins (0.0%) • 4 losses (57.1%) • 3 DNFs (42.9%) - **ELO Impact: **<span style="color: red;">↓ -47</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Ronnie Peterson](ronnie-peterson)**: 0 wins (0.0%) • 8 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -44</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Ronnie Peterson](ronnie-peterson) (1568)**: 0 wins (0.0%) • 4 losses (57.1%) • 3 DNFs (42.9%) • **Elo **<span style="color: red;">▼ -47</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Ronnie Peterson](ronnie-peterson) (1712)**: 0 wins (0.0%) • 8 losses (100.0%) • **Elo **<span style="color: red;">▼ -44</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -17</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -17</span>****
+
 
 #### DNF Statistics
 
@@ -146,13 +160,20 @@
 
 📊 **[View Full 1979 Season Report](../seasons/1979-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1446 **<span style="color: red;">▼ -9</span>** | 1329 **<span style="color: red;">▼ -52</span>** | 1411 **<span style="color: red;">▼ -22</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann)**: 1 wins (14.3%) • 1 losses (14.3%) • 5 DNFs (71.4%) - **ELO Impact: **<span style="color: red;">↓ -2</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann)**: 0 wins (0.0%) • 9 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -29</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann) (1441)**: 1 wins (14.3%) • 1 losses (14.3%) • 5 DNFs (71.4%) • **Elo **<span style="color: red;">▼ -2</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Reutemann](carlos-reutemann) (1728)**: 0 wins (0.0%) • 9 losses (100.0%) • **Elo **<span style="color: red;">▼ -29</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti)**: 0 wins (0.0%) • 1 losses (16.7%) • 5 DNFs (83.3%) - **ELO Impact: **<span style="color: red;">↓ -6</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti)**: 0 wins (0.0%) • 9 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -25</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) (1675)**: 0 wins (0.0%) • 1 losses (16.7%) • 5 DNFs (83.3%) • **Elo **<span style="color: red;">▼ -6</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) (1814)**: 0 wins (0.0%) • 9 losses (100.0%) • **Elo **<span style="color: red;">▼ -25</span>****
+
 
 #### DNF Statistics
 
@@ -221,10 +242,17 @@
 
 📊 **[View Full 1980 Season Report](../seasons/1980-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1415 **<span style="color: red;">▼ -31</span>** | 1292 **<span style="color: red;">▼ -37</span>** | 1378 **<span style="color: red;">▼ -33</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)**: 0 wins (0.0%) • 2 losses (33.3%) • 4 DNFs (66.7%) - **ELO Impact: **<span style="color: red;">↓ -32</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)**: 0 wins (0.0%) • 7 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -36</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1657)**: 0 wins (0.0%) • 2 losses (33.3%) • 4 DNFs (66.7%) • **Elo **<span style="color: red;">▼ -32</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1752)**: 0 wins (0.0%) • 7 losses (100.0%) • **Elo **<span style="color: red;">▼ -36</span>****
+
 
 #### DNF Statistics
 
@@ -260,10 +288,17 @@
 
 📊 **[View Full 1981 Season Report](../seasons/1981-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1385 **<span style="color: red;">▼ -30</span>** | 1246 **<span style="color: red;">▼ -46</span>** | 1343 **<span style="color: red;">▼ -35</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)**: 1 wins (7.7%) • 7 losses (53.8%) • 5 DNFs (38.5%) - **ELO Impact: **<span style="color: red;">↓ -30</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet)**: 0 wins (0.0%) • 14 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -47</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1687)**: 1 wins (7.7%) • 7 losses (53.8%) • 5 DNFs (38.5%) • **Elo **<span style="color: red;">▼ -30</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1798)**: 0 wins (0.0%) • 14 losses (100.0%) • **Elo **<span style="color: red;">▼ -47</span>****
+
 
 #### DNF Statistics
 

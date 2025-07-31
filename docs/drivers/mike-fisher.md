@@ -35,10 +35,17 @@
 
 📊 **[View Full 1967 Season Report](../seasons/1967-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1500 ↔ 0 | 1461 **<span style="color: red;">▼ -39</span>** | 1488 **<span style="color: red;">▼ -12</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -39</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -39</span>****
+
 
 #### DNF Statistics
 

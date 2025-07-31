@@ -51,13 +51,20 @@
 
 📊 **[View Full 1981 Season Report](../seasons/1981-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1519 **<span style="color: green;">▲ +19</span>** | 1569 **<span style="color: green;">▲ +69</span>** | 1533 **<span style="color: green;">▲ +33</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino)**: 2 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +42</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino) (1433)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino) (1359)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +42</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)**: 3 wins (37.5%) • 2 losses (25.0%) • 3 DNFs (37.5%) - **ELO Impact: **<span style="color: green;">↑ +19</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)**: 6 wins (66.7%) • 3 losses (33.3%) - **ELO Impact: **<span style="color: green;">↑ +25</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1481)**: 3 wins (37.5%) • 2 losses (25.0%) • 3 DNFs (37.5%) • **Elo **<span style="color: green;">▲ +19</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1474)**: 6 wins (66.7%) • 3 losses (33.3%) • **Elo **<span style="color: green;">▲ +25</span>****
+
 
 #### DNF Statistics
 
@@ -105,10 +112,17 @@
 
 📊 **[View Full 1982 Season Report](../seasons/1982-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1567 **<span style="color: green;">▲ +48</span>** | 1667 **<span style="color: green;">▲ +98</span>** | 1596 **<span style="color: green;">▲ +63</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite)**: 2 wins (16.7%) • 1 losses (8.3%) • 9 DNFs (75.0%) - **ELO Impact: **<span style="color: green;">↑ +48</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite)**: 8 wins (57.1%) • 6 losses (42.9%) - **ELO Impact: **<span style="color: green;">↑ +98</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) (1615)**: 2 wins (16.7%) • 1 losses (8.3%) • 9 DNFs (75.0%) • **Elo **<span style="color: green;">▲ +48</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) (1607)**: 8 wins (57.1%) • 6 losses (42.9%) • **Elo **<span style="color: green;">▲ +98</span>****
+
 
 #### DNF Statistics
 
@@ -165,10 +179,17 @@
 
 📊 **[View Full 1983 Season Report](../seasons/1983-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1500 **<span style="color: red;">▼ -67</span>** | 1512 **<span style="color: red;">▼ -155</span>** | 1502 **<span style="color: red;">▼ -94</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](alain-prost)**: 1 wins (7.7%) • 4 losses (30.8%) • 8 DNFs (61.5%) - **ELO Impact: **<span style="color: red;">↓ -68</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](alain-prost)**: 2 wins (13.3%) • 13 losses (86.7%) - **ELO Impact: **<span style="color: red;">↓ -154</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](alain-prost) (1639)**: 1 wins (7.7%) • 4 losses (30.8%) • 8 DNFs (61.5%) • **Elo **<span style="color: red;">▼ -68</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Alain Prost](alain-prost) (1739)**: 2 wins (13.3%) • 13 losses (86.7%) • **Elo **<span style="color: red;">▼ -154</span>****
+
 
 #### DNF Statistics
 
@@ -228,10 +249,17 @@
 
 📊 **[View Full 1984 Season Report](../seasons/1984-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1440 **<span style="color: red;">▼ -60</span>** | 1533 **<span style="color: green;">▲ +21</span>** | 1466 **<span style="color: red;">▼ -36</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 0 wins (0.0%) • 3 losses (21.4%) • 11 DNFs (78.6%) - **ELO Impact: **<span style="color: red;">↓ -60</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 6 wins (40.0%) • 9 losses (60.0%) - **ELO Impact: **<span style="color: green;">↑ +20</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1656)**: 0 wins (0.0%) • 3 losses (21.4%) • 11 DNFs (78.6%) • **Elo **<span style="color: red;">▼ -60</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1735)**: 6 wins (40.0%) • 9 losses (60.0%) • **Elo **<span style="color: green;">▲ +20</span>****
+
 
 #### DNF Statistics
 
@@ -291,10 +319,17 @@
 
 📊 **[View Full 1985 Season Report](../seasons/1985-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1441 **<span style="color: green;">▲ +1</span>** | 1538 **<span style="color: green;">▲ +5</span>** | 1467 **<span style="color: green;">▲ +1</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 1 wins (6.7%) • 3 losses (20.0%) • 11 DNFs (73.3%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 5 wins (31.3%) • 11 losses (68.8%) - **ELO Impact: **<span style="color: green;">↑ +3</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1655)**: 1 wins (6.7%) • 3 losses (20.0%) • 11 DNFs (73.3%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1730)**: 5 wins (31.3%) • 11 losses (68.8%) • **Elo **<span style="color: green;">▲ +3</span>****
+
 
 #### DNF Statistics
 
@@ -357,10 +392,17 @@
 
 📊 **[View Full 1986 Season Report](../seasons/1986-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1441 ↔ 0 | 1581 **<span style="color: green;">▲ +43</span>** | 1480 **<span style="color: green;">▲ +13</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +43</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) (1587)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) (1625)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +43</span>****
+
 
 #### DNF Statistics
 
@@ -378,10 +420,17 @@
 
 📊 **[View Full 1987 Season Report](../seasons/1987-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1512 **<span style="color: green;">▲ +71</span>** | 1566 **<span style="color: red;">▼ -15</span>** | 1526 **<span style="color: green;">▲ +46</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)**: 3 wins (20.0%) • 1 losses (6.7%) • 11 DNFs (73.3%) - **ELO Impact: **<span style="color: green;">↑ +72</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)**: 7 wins (43.8%) • 9 losses (56.3%) - **ELO Impact: **<span style="color: red;">↓ -14</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1431)**: 3 wins (20.0%) • 1 losses (6.7%) • 11 DNFs (73.3%) • **Elo **<span style="color: green;">▲ +72</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1575)**: 7 wins (43.8%) • 9 losses (56.3%) • **Elo **<span style="color: red;">▼ -14</span>****
+
 
 #### DNF Statistics
 
@@ -444,10 +493,17 @@
 
 📊 **[View Full 1988 Season Report](../seasons/1988-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1450 **<span style="color: red;">▼ -62</span>** | 1440 **<span style="color: red;">▼ -126</span>** | 1445 **<span style="color: red;">▼ -81</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)**: 3 wins (18.8%) • 5 losses (31.3%) • 8 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -61</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)**: 4 wins (25.0%) • 12 losses (75.0%) - **ELO Impact: **<span style="color: red;">↓ -128</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1493)**: 3 wins (18.8%) • 5 losses (31.3%) • 8 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -61</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1701)**: 4 wins (25.0%) • 12 losses (75.0%) • **Elo **<span style="color: red;">▼ -128</span>****
+
 
 #### DNF Statistics
 
@@ -510,13 +566,20 @@
 
 📊 **[View Full 1989 Season Report](../seasons/1989-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1488 **<span style="color: green;">▲ +38</span>** | 1387 **<span style="color: red;">▼ -53</span>** | 1456 **<span style="color: green;">▲ +11</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)**: 3 wins (30.0%) • 4 losses (40.0%) • 3 DNFs (30.0%) - **ELO Impact: **<span style="color: green;">↑ +2</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick)**: 1 wins (7.7%) • 12 losses (92.3%) - **ELO Impact: **<span style="color: red;">↓ -31</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1492)**: 3 wins (30.0%) • 4 losses (40.0%) • 3 DNFs (30.0%) • **Elo **<span style="color: green;">▲ +2</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1732)**: 1 wins (7.7%) • 12 losses (92.3%) • **Elo **<span style="color: red;">▼ -31</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Donnelly](martin-donnelly)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +37</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Donnelly](martin-donnelly)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -22</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Donnelly](martin-donnelly) (1463)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +37</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Donnelly](martin-donnelly) (1522)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -22</span>****
+
 
 #### DNF Statistics
 

@@ -47,10 +47,17 @@
 
 📊 **[View Full 1978 Season Report](../seasons/1978-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1444 **<span style="color: red;">▼ -56</span>** | 1462 **<span style="color: red;">▼ -38</span>** | 1449 **<span style="color: red;">▼ -51</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler)**: 2 wins (20.0%) • 6 losses (60.0%) • 2 DNFs (20.0%) - **ELO Impact: **<span style="color: red;">↓ -56</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler)**: 2 wins (12.5%) • 14 losses (87.5%) - **ELO Impact: **<span style="color: red;">↓ -38</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1634)**: 2 wins (20.0%) • 6 losses (60.0%) • 2 DNFs (20.0%) • **Elo **<span style="color: red;">▼ -56</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1716)**: 2 wins (12.5%) • 14 losses (87.5%) • **Elo **<span style="color: red;">▼ -38</span>****
+
 
 #### DNF Statistics
 
@@ -113,16 +120,23 @@
 
 📊 **[View Full 1979 Season Report](../seasons/1979-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1423 **<span style="color: red;">▼ -21</span>** | 1614 **<span style="color: green;">▲ +152</span>** | 1480 **<span style="color: green;">▲ +31</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)**: 2 wins (22.2%) • 3 losses (33.3%) • 4 DNFs (44.4%) - **ELO Impact: **<span style="color: red;">↓ -65</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)**: 8 wins (61.5%) • 5 losses (38.5%) - **ELO Impact: **<span style="color: green;">↑ +52</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1417)**: 2 wins (22.2%) • 3 losses (33.3%) • 4 DNFs (44.4%) • **Elo **<span style="color: red;">▼ -65</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1432)**: 8 wins (61.5%) • 5 losses (38.5%) • **Elo **<span style="color: green;">▲ +52</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Geoff Lees](geoff-lees)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -23</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Geoff Lees](geoff-lees)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +37</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Geoff Lees](geoff-lees) (1523)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -23</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Geoff Lees](geoff-lees) (1463)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +37</span>****
 
-- **Races vs [Derek Daly](derek-daly)**: 2 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +67</span>****
-- **Qualifying vs [Derek Daly](derek-daly)**: 3 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +62</span>****
+- **Races vs [Derek Daly](derek-daly) (1467)**: 2 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +67</span>****
+- **Qualifying vs [Derek Daly](derek-daly) (1468)**: 3 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +62</span>****
+
 
 #### DNF Statistics
 
@@ -188,10 +202,17 @@
 
 📊 **[View Full 1980 Season Report](../seasons/1980-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1566 **<span style="color: green;">▲ +143</span>** | 1752 **<span style="color: green;">▲ +138</span>** | 1622 **<span style="color: green;">▲ +142</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite)**: 4 wins (36.4%) • 3 losses (27.3%) • 4 DNFs (36.4%) - **ELO Impact: **<span style="color: green;">↑ +143</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite)**: 8 wins (57.1%) • 6 losses (42.9%) - **ELO Impact: **<span style="color: green;">↑ +139</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) (1563)**: 4 wins (36.4%) • 3 losses (27.3%) • 4 DNFs (36.4%) • **Elo **<span style="color: green;">▲ +143</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) (1663)**: 8 wins (57.1%) • 6 losses (42.9%) • **Elo **<span style="color: green;">▲ +139</span>****
+
 
 #### DNF Statistics
 
@@ -248,10 +269,17 @@
 
 📊 **[View Full 1981 Season Report](../seasons/1981-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1598 **<span style="color: green;">▲ +32</span>** | 1748 **<span style="color: red;">▼ -4</span>** | 1644 **<span style="color: green;">▲ +22</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](gilles-villeneuve)**: 3 wins (27.3%) • 3 losses (27.3%) • 5 DNFs (45.5%) - **ELO Impact: **<span style="color: green;">↑ +33</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](gilles-villeneuve)**: 5 wins (33.3%) • 10 losses (66.7%) - **ELO Impact: **<span style="color: red;">↓ -4</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](gilles-villeneuve) (1580)**: 3 wins (27.3%) • 3 losses (27.3%) • 5 DNFs (45.5%) • **Elo **<span style="color: green;">▲ +33</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](gilles-villeneuve) (1832)**: 5 wins (33.3%) • 10 losses (66.7%) • **Elo **<span style="color: red;">▼ -4</span>****
+
 
 #### DNF Statistics
 
@@ -311,13 +339,20 @@
 
 📊 **[View Full 1982 Season Report](../seasons/1982-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1651 **<span style="color: green;">▲ +53</span>** | 1707 **<span style="color: red;">▼ -41</span>** | 1668 **<span style="color: green;">▲ +24</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](gilles-villeneuve)**: 2 wins (66.7%) • 0 losses (0.0%) • 1 DNFs (33.3%) - **ELO Impact: **<span style="color: green;">↑ +55</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](gilles-villeneuve)**: 0 wins (0.0%) • 5 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -89</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](gilles-villeneuve) (1525)**: 2 wins (66.7%) • 0 losses (0.0%) • 1 DNFs (33.3%) • **Elo **<span style="color: green;">▲ +55</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Gilles Villeneuve](gilles-villeneuve) (1922)**: 0 wins (0.0%) • 5 losses (100.0%) • **Elo **<span style="color: red;">▼ -89</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](patrick-tambay)**: 3 wins (75.0%) • 1 losses (25.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -3</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](patrick-tambay)**: 4 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +49</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](patrick-tambay) (1506)**: 3 wins (75.0%) • 1 losses (25.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -3</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](patrick-tambay) (1397)**: 4 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +49</span>****
+
 
 #### DNF Statistics
 

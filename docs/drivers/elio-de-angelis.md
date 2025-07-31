@@ -50,10 +50,17 @@
 
 📊 **[View Full 1979 Season Report](../seasons/1979-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1452 **<span style="color: red;">▼ -48</span>** | 1506 **<span style="color: green;">▲ +6</span>** | 1468 **<span style="color: red;">▼ -32</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers)**: 2 wins (22.2%) • 3 losses (33.3%) • 4 DNFs (44.4%) - **ELO Impact: **<span style="color: red;">↓ -48</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers)**: 7 wins (58.3%) • 5 losses (41.7%) - **ELO Impact: **<span style="color: green;">↑ +6</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) (1548)**: 2 wins (22.2%) • 3 losses (33.3%) • 4 DNFs (44.4%) • **Elo **<span style="color: red;">▼ -48</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) (1494)**: 7 wins (58.3%) • 5 losses (41.7%) • **Elo **<span style="color: green;">▲ +6</span>****
+
 
 #### DNF Statistics
 
@@ -104,13 +111,20 @@
 
 📊 **[View Full 1980 Season Report](../seasons/1980-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1548 **<span style="color: green;">▲ +96</span>** | 1681 **<span style="color: green;">▲ +175</span>** | 1588 **<span style="color: green;">▲ +120</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti)**: 3 wins (33.3%) • 2 losses (22.2%) • 4 DNFs (44.4%) - **ELO Impact: **<span style="color: green;">↑ +96</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti)**: 8 wins (57.1%) • 6 losses (42.9%) - **ELO Impact: **<span style="color: green;">↑ +155</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) (1592)**: 3 wins (33.3%) • 2 losses (22.2%) • 4 DNFs (44.4%) • **Elo **<span style="color: green;">▲ +96</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) (1662)**: 8 wins (57.1%) • 6 losses (42.9%) • **Elo **<span style="color: green;">▲ +155</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 2 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +22</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1474)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +22</span>****
+
 
 #### DNF Statistics
 
@@ -173,10 +187,17 @@
 
 📊 **[View Full 1981 Season Report](../seasons/1981-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1596 **<span style="color: green;">▲ +48</span>** | 1596 **<span style="color: red;">▼ -85</span>** | 1596 **<span style="color: green;">▲ +8</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 4 wins (44.4%) • 2 losses (22.2%) • 3 DNFs (33.3%) - **ELO Impact: **<span style="color: green;">↑ +48</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 8 wins (57.1%) • 6 losses (42.9%) - **ELO Impact: **<span style="color: red;">↓ -86</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1452)**: 4 wins (44.4%) • 2 losses (22.2%) • 3 DNFs (33.3%) • **Elo **<span style="color: green;">▲ +48</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1549)**: 8 wins (57.1%) • 6 losses (42.9%) • **Elo **<span style="color: red;">▼ -86</span>****
+
 
 #### DNF Statistics
 
@@ -233,13 +254,20 @@
 
 📊 **[View Full 1982 Season Report](../seasons/1982-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1591 **<span style="color: red;">▼ -5</span>** | 1717 **<span style="color: green;">▲ +121</span>** | 1628 **<span style="color: green;">▲ +32</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 3 wins (33.3%) • 2 losses (22.2%) • 4 DNFs (44.4%) - **ELO Impact: **<span style="color: red;">↓ -6</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 10 wins (76.9%) • 3 losses (23.1%) - **ELO Impact: **<span style="color: green;">↑ +102</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1457)**: 3 wins (33.3%) • 2 losses (22.2%) • 4 DNFs (44.4%) • **Elo **<span style="color: red;">▼ -6</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1447)**: 10 wins (76.9%) • 3 losses (23.1%) • **Elo **<span style="color: green;">▲ +102</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Geoff Lees](geoff-lees)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Geoff Lees](geoff-lees)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +19</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Geoff Lees](geoff-lees) (1523)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Geoff Lees](geoff-lees) (1444)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +19</span>****
+
 
 #### DNF Statistics
 
@@ -296,10 +324,17 @@
 
 📊 **[View Full 1983 Season Report](../seasons/1983-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1575 **<span style="color: red;">▼ -16</span>** | 1678 **<span style="color: red;">▼ -39</span>** | 1605 **<span style="color: red;">▼ -23</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 1 wins (7.1%) • 1 losses (7.1%) • 12 DNFs (85.7%) - **ELO Impact: **<span style="color: red;">↓ -16</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 12 wins (80.0%) • 3 losses (20.0%) - **ELO Impact: **<span style="color: red;">↓ -38</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1473)**: 1 wins (7.1%) • 1 losses (7.1%) • 12 DNFs (85.7%) • **Elo **<span style="color: red;">▼ -16</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1486)**: 12 wins (80.0%) • 3 losses (20.0%) • **Elo **<span style="color: red;">▼ -38</span>****
+
 
 #### DNF Statistics
 
@@ -359,10 +394,17 @@
 
 📊 **[View Full 1984 Season Report](../seasons/1984-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1582 **<span style="color: green;">▲ +7</span>** | 1666 **<span style="color: red;">▼ -12</span>** | 1607 **<span style="color: green;">▲ +2</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 4 wins (36.4%) • 2 losses (18.2%) • 5 DNFs (45.5%) - **ELO Impact: **<span style="color: green;">↑ +8</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 11 wins (68.8%) • 5 losses (31.3%) - **ELO Impact: **<span style="color: red;">↓ -11</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1466)**: 4 wins (36.4%) • 2 losses (18.2%) • 5 DNFs (45.5%) • **Elo **<span style="color: green;">▲ +8</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1498)**: 11 wins (68.8%) • 5 losses (31.3%) • **Elo **<span style="color: red;">▼ -11</span>****
+
 
 #### DNF Statistics
 
@@ -425,10 +467,17 @@
 
 📊 **[View Full 1985 Season Report](../seasons/1985-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1518 **<span style="color: red;">▼ -64</span>** | 1508 **<span style="color: red;">▼ -158</span>** | 1514 **<span style="color: red;">▼ -93</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna)**: 3 wins (23.1%) • 5 losses (38.5%) • 5 DNFs (38.5%) - **ELO Impact: **<span style="color: red;">↓ -65</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna)**: 3 wins (18.8%) • 13 losses (81.3%) - **ELO Impact: **<span style="color: red;">↓ -159</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1658)**: 3 wins (23.1%) • 5 losses (38.5%) • 5 DNFs (38.5%) • **Elo **<span style="color: red;">▼ -65</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1807)**: 3 wins (18.8%) • 13 losses (81.3%) • **Elo **<span style="color: red;">▼ -159</span>****
+
 
 #### DNF Statistics
 
@@ -491,10 +540,17 @@
 
 📊 **[View Full 1986 Season Report](../seasons/1986-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1518 ↔ 0 | 1461 **<span style="color: red;">▼ -47</span>** | 1500 **<span style="color: red;">▼ -14</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 0 wins (0.0%) • 0 losses (0.0%) • 3 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 0 wins (0.0%) • 4 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -47</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1655)**: 0 wins (0.0%) • 0 losses (0.0%) • 3 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1777)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo **<span style="color: red;">▼ -47</span>****
+
 
 #### DNF Statistics
 

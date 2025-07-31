@@ -56,10 +56,17 @@
 
 📊 **[View Full 1996 Season Report](../seasons/1996-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1512 **<span style="color: green;">▲ +12</span>** | 1583 **<span style="color: green;">▲ +83</span>** | 1534 **<span style="color: green;">▲ +34</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Pedro Lamy](pedro-lamy)**: 2 wins (28.6%) • 2 losses (28.6%) • 3 DNFs (42.9%) - **ELO Impact: **<span style="color: green;">↑ +13</span>****
-- **Qualifying vs [Pedro Lamy](pedro-lamy)**: 6 wins (75.0%) • 2 losses (25.0%) - **ELO Impact: **<span style="color: green;">↑ +83</span>****
+- **Races vs [Pedro Lamy](pedro-lamy) (1462)**: 2 wins (28.6%) • 2 losses (28.6%) • 3 DNFs (42.9%) • **Elo **<span style="color: green;">▲ +13</span>****
+- **Qualifying vs [Pedro Lamy](pedro-lamy) (1419)**: 6 wins (75.0%) • 2 losses (25.0%) • **Elo **<span style="color: green;">▲ +83</span>****
+
 
 #### DNF Statistics
 
@@ -98,10 +105,17 @@
 
 📊 **[View Full 1997 Season Report](../seasons/1997-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1588 **<span style="color: green;">▲ +76</span>** | 1582 **<span style="color: red;">▼ -1</span>** | 1587 **<span style="color: green;">▲ +53</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ralf Schumacher](ralf-schumacher)**: 7 wins (58.3%) • 5 losses (41.7%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +77</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ralf Schumacher](ralf-schumacher)**: 10 wins (58.8%) • 7 losses (41.2%) - **ELO Impact: **<span style="color: red;">↓ -2</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ralf Schumacher](ralf-schumacher) (1424)**: 7 wins (58.3%) • 5 losses (41.7%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +77</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ralf Schumacher](ralf-schumacher) (1501)**: 10 wins (58.8%) • 7 losses (41.2%) • **Elo **<span style="color: red;">▼ -2</span>****
+
 
 #### DNF Statistics
 
@@ -167,10 +181,17 @@
 
 📊 **[View Full 1998 Season Report](../seasons/1998-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1595 **<span style="color: green;">▲ +7</span>** | 1621 **<span style="color: green;">▲ +39</span>** | 1603 **<span style="color: green;">▲ +16</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz)**: 6 wins (46.2%) • 6 losses (46.2%) • 1 DNFs (7.7%) - **ELO Impact: **<span style="color: green;">↑ +6</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz)**: 10 wins (62.5%) • 6 losses (37.5%) - **ELO Impact: **<span style="color: green;">↑ +39</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz) (1460)**: 6 wins (46.2%) • 6 losses (46.2%) • 1 DNFs (7.7%) • **Elo **<span style="color: green;">▲ +6</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz) (1567)**: 10 wins (62.5%) • 6 losses (37.5%) • **Elo **<span style="color: green;">▲ +39</span>****
+
 
 #### DNF Statistics
 
@@ -233,10 +254,17 @@
 
 📊 **[View Full 1999 Season Report](../seasons/1999-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1635 **<span style="color: green;">▲ +40</span>** | 1672 **<span style="color: green;">▲ +51</span>** | 1646 **<span style="color: green;">▲ +43</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz)**: 7 wins (53.8%) • 1 losses (7.7%) • 5 DNFs (38.5%) - **ELO Impact: **<span style="color: green;">↑ +39</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz)**: 13 wins (81.3%) • 3 losses (18.8%) - **ELO Impact: **<span style="color: green;">↑ +52</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz) (1420)**: 7 wins (53.8%) • 1 losses (7.7%) • 5 DNFs (38.5%) • **Elo **<span style="color: green;">▲ +39</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz) (1516)**: 13 wins (81.3%) • 3 losses (18.8%) • **Elo **<span style="color: green;">▲ +52</span>****
+
 
 #### DNF Statistics
 
@@ -299,10 +327,17 @@
 
 📊 **[View Full 2000 Season Report](../seasons/2000-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1557 **<span style="color: red;">▼ -78</span>** | 1630 **<span style="color: red;">▼ -42</span>** | 1579 **<span style="color: red;">▼ -67</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz)**: 8 wins (53.3%) • 4 losses (26.7%) • 3 DNFs (20.0%) - **ELO Impact: **<span style="color: red;">↓ -78</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz)**: 13 wins (76.5%) • 4 losses (23.5%) - **ELO Impact: **<span style="color: red;">↓ -42</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz) (1498)**: 8 wins (53.3%) • 4 losses (26.7%) • 3 DNFs (20.0%) • **Elo **<span style="color: red;">▼ -78</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](alexander-wurz) (1558)**: 13 wins (76.5%) • 4 losses (23.5%) • **Elo **<span style="color: red;">▼ -42</span>****
+
 
 #### DNF Statistics
 
@@ -368,10 +403,17 @@
 
 📊 **[View Full 2001 Season Report](../seasons/2001-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1652 **<span style="color: green;">▲ +95</span>** | 1643 **<span style="color: green;">▲ +13</span>** | 1649 **<span style="color: green;">▲ +70</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button)**: 6 wins (50.0%) • 0 losses (0.0%) • 6 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +95</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button)**: 13 wins (76.5%) • 4 losses (23.5%) - **ELO Impact: **<span style="color: green;">↑ +10</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1358)**: 6 wins (50.0%) • 0 losses (0.0%) • 6 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +95</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1506)**: 13 wins (76.5%) • 4 losses (23.5%) • **Elo **<span style="color: green;">▲ +10</span>****
+
 
 #### DNF Statistics
 
@@ -437,10 +479,17 @@
 
 📊 **[View Full 2002 Season Report](../seasons/2002-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1684 **<span style="color: green;">▲ +32</span>** | 1634 **<span style="color: red;">▼ -9</span>** | 1670 **<span style="color: green;">▲ +21</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)**: 6 wins (40.0%) • 2 losses (13.3%) • 7 DNFs (46.7%) - **ELO Impact: **<span style="color: green;">↑ +32</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)**: 12 wins (70.6%) • 5 losses (29.4%) - **ELO Impact: **<span style="color: red;">↓ -6</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1468)**: 6 wins (40.0%) • 2 losses (13.3%) • 7 DNFs (46.7%) • **Elo **<span style="color: green;">▲ +32</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1509)**: 12 wins (70.6%) • 5 losses (29.4%) • **Elo **<span style="color: red;">▼ -6</span>****
+
 
 #### DNF Statistics
 
@@ -506,13 +555,20 @@
 
 📊 **[View Full 2003 Season Report](../seasons/2003-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1690 **<span style="color: green;">▲ +6</span>** | 1710 **<span style="color: green;">▲ +76</span>** | 1697 **<span style="color: green;">▲ +27</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Ralph Firman](ralph-firman)**: 2 wins (16.7%) • 1 losses (8.3%) • 9 DNFs (75.0%) - **ELO Impact: **<span style="color: red;">↓ -14</span>****
-- **Qualifying vs [Ralph Firman](ralph-firman)**: 12 wins (85.7%) • 2 losses (14.3%) - **ELO Impact: **<span style="color: green;">↑ +52</span>****
+- **Races vs [Ralph Firman](ralph-firman) (1513)**: 2 wins (16.7%) • 1 losses (8.3%) • 9 DNFs (75.0%) • **Elo **<span style="color: red;">▼ -14</span>****
+- **Qualifying vs [Ralph Firman](ralph-firman) (1449)**: 12 wins (85.7%) • 2 losses (14.3%) • **Elo **<span style="color: green;">▲ +52</span>****
 
-- **Races vs [Zsolt Baumgartner](zsolt-baumgartner)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +19</span>****
-- **Qualifying vs [Zsolt Baumgartner](zsolt-baumgartner)**: 2 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +25</span>****
+- **Races vs [Zsolt Baumgartner](zsolt-baumgartner) (1481)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +19</span>****
+- **Qualifying vs [Zsolt Baumgartner](zsolt-baumgartner) (1475)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +25</span>****
+
 
 #### DNF Statistics
 
@@ -575,10 +631,17 @@
 
 📊 **[View Full 2004 Season Report](../seasons/2004-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1661 **<span style="color: red;">▼ -29</span>** | 1666 **<span style="color: red;">▼ -44</span>** | 1664 **<span style="color: red;">▼ -33</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 11 wins (68.8%) • 4 losses (25.0%) • 1 DNFs (6.3%) - **ELO Impact: **<span style="color: red;">↓ -28</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 11 wins (61.1%) • 7 losses (38.9%) - **ELO Impact: **<span style="color: red;">↓ -46</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1501)**: 11 wins (68.8%) • 4 losses (25.0%) • 1 DNFs (6.3%) • **Elo **<span style="color: red;">▼ -28</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1585)**: 11 wins (61.1%) • 7 losses (38.9%) • **Elo **<span style="color: red;">▼ -46</span>****
+
 
 #### DNF Statistics
 
@@ -647,10 +710,17 @@
 
 📊 **[View Full 2005 Season Report](../seasons/2005-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1580 **<span style="color: red;">▼ -81</span>** | 1612 **<span style="color: red;">▼ -54</span>** | 1592 **<span style="color: red;">▼ -72</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 3 wins (15.8%) • 13 losses (68.4%) • 3 DNFs (15.8%) - **ELO Impact: **<span style="color: red;">↓ -80</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 4 wins (21.1%) • 15 losses (78.9%) - **ELO Impact: **<span style="color: red;">↓ -53</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1799)**: 3 wins (15.8%) • 13 losses (68.4%) • 3 DNFs (15.8%) • **Elo **<span style="color: red;">▼ -80</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1810)**: 4 wins (21.1%) • 15 losses (78.9%) • **Elo **<span style="color: red;">▼ -53</span>****
+
 
 #### DNF Statistics
 
@@ -722,10 +792,17 @@
 
 📊 **[View Full 2006 Season Report](../seasons/2006-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1518 **<span style="color: red;">▼ -62</span>** | 1631 **<span style="color: green;">▲ +19</span>** | 1554 **<span style="color: red;">▼ -38</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 2 wins (12.5%) • 13 losses (81.3%) • 1 DNFs (6.3%) - **ELO Impact: **<span style="color: red;">↓ -61</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 6 wins (33.3%) • 12 losses (66.7%) - **ELO Impact: **<span style="color: green;">↑ +17</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1861)**: 2 wins (12.5%) • 13 losses (81.3%) • 1 DNFs (6.3%) • **Elo **<span style="color: red;">▼ -61</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1791)**: 6 wins (33.3%) • 12 losses (66.7%) • **Elo **<span style="color: green;">▲ +17</span>****
+
 
 #### DNF Statistics
 
@@ -794,10 +871,17 @@
 
 📊 **[View Full 2007 Season Report](../seasons/2007-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1368 **<span style="color: red;">▼ -150</span>** | 1531 **<span style="color: red;">▼ -100</span>** | 1418 **<span style="color: red;">▼ -136</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen)**: 4 wins (25.0%) • 10 losses (62.5%) • 2 DNFs (12.5%) - **ELO Impact: **<span style="color: red;">↓ -151</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen)**: 7 wins (41.2%) • 10 losses (58.8%) - **ELO Impact: **<span style="color: red;">↓ -100</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) (1650)**: 4 wins (25.0%) • 10 losses (62.5%) • 2 DNFs (12.5%) • **Elo **<span style="color: red;">▼ -151</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) (1600)**: 7 wins (41.2%) • 10 losses (58.8%) • **Elo **<span style="color: red;">▼ -100</span>****
+
 
 #### DNF Statistics
 
@@ -863,10 +947,17 @@
 
 📊 **[View Full 2008 Season Report](../seasons/2008-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1447 **<span style="color: green;">▲ +79</span>** | 1601 **<span style="color: green;">▲ +70</span>** | 1494 **<span style="color: green;">▲ +76</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil)**: 6 wins (46.2%) • 5 losses (38.5%) • 2 DNFs (15.4%) - **ELO Impact: **<span style="color: green;">↑ +79</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil)**: 9 wins (50.0%) • 9 losses (50.0%) - **ELO Impact: **<span style="color: green;">↑ +70</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1516)**: 6 wins (46.2%) • 5 losses (38.5%) • 2 DNFs (15.4%) • **Elo **<span style="color: green;">▲ +79</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1655)**: 9 wins (50.0%) • 9 losses (50.0%) • **Elo **<span style="color: green;">▲ +70</span>****
+
 
 #### DNF Statistics
 
@@ -935,13 +1026,20 @@
 
 📊 **[View Full 2009 Season Report](../seasons/2009-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1458 **<span style="color: green;">▲ +11</span>** | 1600 **<span style="color: red;">▼ -1</span>** | 1500 **<span style="color: green;">▲ +6</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil)**: 7 wins (63.6%) • 3 losses (27.3%) • 1 DNFs (9.1%) - **ELO Impact: **<span style="color: green;">↑ +107</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil)**: 7 wins (58.3%) • 5 losses (41.7%) - **ELO Impact: **<span style="color: green;">↑ +49</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1408)**: 7 wins (63.6%) • 3 losses (27.3%) • 1 DNFs (9.1%) • **Elo **<span style="color: green;">▲ +107</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1607)**: 7 wins (58.3%) • 5 losses (41.7%) • **Elo **<span style="color: green;">▲ +49</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 0 wins (0.0%) • 5 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -98</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 0 wins (0.0%) • 5 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -50</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (N/A)**: 0 wins (0.0%) • 5 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -98</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (N/A)**: 0 wins (0.0%) • 5 losses (100.0%) • **Elo **<span style="color: red;">▼ -50</span>****
+
 
 #### DNF Statistics
 

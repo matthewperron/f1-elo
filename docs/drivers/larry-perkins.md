@@ -44,10 +44,17 @@
 
 📊 **[View Full 1976 Season Report](../seasons/1976-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1480 **<span style="color: red;">▼ -20</span>** | 1473 **<span style="color: red;">▼ -27</span>** | 1478 **<span style="color: red;">▼ -22</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace)**: 0 wins (0.0%) • 1 losses (33.3%) • 2 DNFs (66.7%) - **ELO Impact: **<span style="color: red;">↓ -20</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace)**: 0 wins (0.0%) • 3 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -27</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) (1652)**: 0 wins (0.0%) • 1 losses (33.3%) • 2 DNFs (66.7%) • **Elo **<span style="color: red;">▼ -20</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) (1821)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo **<span style="color: red;">▼ -27</span>****
+
 
 #### DNF Statistics
 
@@ -71,10 +78,17 @@
 
 📊 **[View Full 1977 Season Report](../seasons/1977-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1452 **<span style="color: red;">▼ -28</span>** | 1462 **<span style="color: red;">▼ -11</span>** | 1455 **<span style="color: red;">▼ -23</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -28</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -11</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1548)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -28</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1751)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -11</span>****
+
 
 #### DNF Statistics
 

@@ -46,10 +46,17 @@
 
 📊 **[View Full 1989 Season Report](../seasons/1989-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1500 ↔ 0 | 1458 **<span style="color: red;">▼ -42</span>** | 1487 **<span style="color: red;">▼ -13</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)**: 0 wins (0.0%) • 2 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -42</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1403)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1647)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo **<span style="color: red;">▼ -42</span>****
+
 
 #### DNF Statistics
 
@@ -70,10 +77,17 @@
 
 📊 **[View Full 1990 Season Report](../seasons/1990-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1542 **<span style="color: green;">▲ +42</span>** | 1479 **<span style="color: green;">▲ +21</span>** | 1523 **<span style="color: green;">▲ +36</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki](aguri-suzuki)**: 3 wins (23.1%) • 1 losses (7.7%) • 9 DNFs (69.2%) - **ELO Impact: **<span style="color: green;">↑ +42</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki](aguri-suzuki)**: 9 wins (56.3%) • 7 losses (43.8%) - **ELO Impact: **<span style="color: green;">↑ +21</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki](aguri-suzuki) (1414)**: 3 wins (23.1%) • 1 losses (7.7%) • 9 DNFs (69.2%) • **Elo **<span style="color: green;">▲ +42</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki](aguri-suzuki) (1453)**: 9 wins (56.3%) • 7 losses (43.8%) • **Elo **<span style="color: green;">▲ +21</span>****
+
 
 #### DNF Statistics
 
@@ -136,10 +150,17 @@
 
 📊 **[View Full 1991 Season Report](../seasons/1991-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1542 ↔ 0 | 1507 **<span style="color: green;">▲ +28</span>** | 1531 **<span style="color: green;">▲ +8</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki](aguri-suzuki)**: 0 wins (0.0%) • 0 losses (0.0%) • 8 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki](aguri-suzuki)**: 7 wins (70.0%) • 3 losses (30.0%) - **ELO Impact: **<span style="color: green;">↑ +28</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki](aguri-suzuki) (1414)**: 0 wins (0.0%) • 0 losses (0.0%) • 8 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki](aguri-suzuki) (1425)**: 7 wins (70.0%) • 3 losses (30.0%) • **Elo **<span style="color: green;">▲ +28</span>****
+
 
 #### DNF Statistics
 
@@ -184,13 +205,20 @@
 
 📊 **[View Full 1994 Season Report](../seasons/1994-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1377 **<span style="color: red;">▼ -165</span>** | 1363 **<span style="color: red;">▼ -144</span>** | 1372 **<span style="color: red;">▼ -159</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis)**: 1 wins (8.3%) • 10 losses (83.3%) • 1 DNFs (8.3%) - **ELO Impact: **<span style="color: red;">↓ -128</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis)**: 3 wins (23.1%) • 10 losses (76.9%) - **ELO Impact: **<span style="color: red;">↓ -116</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1629)**: 1 wins (8.3%) • 10 losses (83.3%) • 1 DNFs (8.3%) • **Elo **<span style="color: red;">▼ -128</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1614)**: 3 wins (23.1%) • 10 losses (76.9%) • **Elo **<span style="color: red;">▼ -116</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -36</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -30</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -36</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -30</span>****
+
 
 #### DNF Statistics
 

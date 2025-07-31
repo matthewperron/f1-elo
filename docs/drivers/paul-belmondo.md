@@ -44,10 +44,17 @@
 
 📊 **[View Full 1992 Season Report](../seasons/1992-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1488 **<span style="color: red;">▼ -12</span>** | 1429 **<span style="color: red;">▼ -71</span>** | 1470 **<span style="color: red;">▼ -30</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)**: 2 wins (40.0%) • 3 losses (60.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -13</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)**: 1 wins (20.0%) • 4 losses (80.0%) - **ELO Impact: **<span style="color: red;">↓ -70</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger) (1459)**: 2 wins (40.0%) • 3 losses (60.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -13</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger) (1501)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo **<span style="color: red;">▼ -70</span>****
+
 
 #### DNF Statistics
 
@@ -77,10 +84,17 @@
 
 📊 **[View Full 1994 Season Report](../seasons/1994-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1488 ↔ 0 | 1395 **<span style="color: red;">▼ -34</span>** | 1460 **<span style="color: red;">▼ -10</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot)**: 0 wins (0.0%) • 2 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -34</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot) (1388)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot) (1621)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo **<span style="color: red;">▼ -34</span>****
+
 
 #### DNF Statistics
 

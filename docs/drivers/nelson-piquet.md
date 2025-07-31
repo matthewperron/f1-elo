@@ -56,28 +56,35 @@
 
 📊 **[View Full 1978 Season Report](../seasons/1978-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1504 **<span style="color: green;">▲ +4</span>** | 1379 **<span style="color: red;">▼ -121</span>** | 1465 **<span style="color: red;">▼ -35</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -26</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl) (1396)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl) (1595)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -26</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](brett-lunger)**: 1 wins (33.3%) • 1 losses (33.3%) • 1 DNFs (33.3%) - **ELO Impact: **<span style="color: red;">↓ -1</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](brett-lunger)**: 0 wins (0.0%) • 3 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -41</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](brett-lunger) (N/A)**: 1 wins (33.3%) • 1 losses (33.3%) • 1 DNFs (33.3%) • **Elo **<span style="color: red;">▼ -1</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](brett-lunger) (N/A)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo **<span style="color: red;">▼ -41</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](patrick-tambay)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) - **ELO Impact: **<span style="color: red;">↓ -13</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](patrick-tambay)**: 0 wins (0.0%) • 3 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -30</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](patrick-tambay) (N/A)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) • **Elo **<span style="color: red;">▼ -13</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](patrick-tambay) (N/A)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo **<span style="color: red;">▼ -30</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](james-hunt)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -10</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](james-hunt)**: 0 wins (0.0%) • 3 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -3</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](james-hunt) (N/A)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -10</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> James Hunt](james-hunt) (N/A)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo **<span style="color: red;">▼ -3</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Bruno Giacomelli](bruno-giacomelli)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +9</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Bruno Giacomelli](bruno-giacomelli)**: 0 wins (0.0%) • 2 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -13</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Bruno Giacomelli](bruno-giacomelli) (N/A)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +9</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Bruno Giacomelli](bruno-giacomelli) (N/A)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo **<span style="color: red;">▼ -13</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](john-watson)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +18</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](john-watson)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -8</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](john-watson) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +18</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](john-watson) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -8</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](niki-lauda)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](niki-lauda)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -2</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](niki-lauda) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](niki-lauda) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -2</span>****
+
 
 #### DNF Statistics
 
@@ -134,13 +141,20 @@
 
 📊 **[View Full 1979 Season Report](../seasons/1979-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1558 **<span style="color: green;">▲ +54</span>** | 1632 **<span style="color: green;">▲ +253</span>** | 1579 **<span style="color: green;">▲ +114</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](niki-lauda)**: 2 wins (20.0%) • 2 losses (20.0%) • 6 DNFs (60.0%) - **ELO Impact: **<span style="color: green;">↑ +54</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](niki-lauda)**: 7 wins (50.0%) • 7 losses (50.0%) - **ELO Impact: **<span style="color: green;">↑ +218</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](niki-lauda) (1665)**: 2 wins (20.0%) • 2 losses (20.0%) • 6 DNFs (60.0%) • **Elo **<span style="color: green;">▲ +54</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Niki Lauda](niki-lauda) (1594)**: 7 wins (50.0%) • 7 losses (50.0%) • **Elo **<span style="color: green;">▲ +218</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino)**: 2 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +35</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino) (N/A)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +35</span>****
+
 
 #### DNF Statistics
 
@@ -203,13 +217,20 @@
 
 📊 **[View Full 1980 Season Report](../seasons/1980-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1657 **<span style="color: green;">▲ +99</span>** | 1752 **<span style="color: green;">▲ +120</span>** | 1685 **<span style="color: green;">▲ +106</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino)**: 3 wins (75.0%) • 0 losses (0.0%) • 1 DNFs (25.0%) - **ELO Impact: **<span style="color: green;">↑ +68</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino)**: 6 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +83</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino) (1433)**: 3 wins (75.0%) • 0 losses (0.0%) • 1 DNFs (25.0%) • **Elo **<span style="color: green;">▲ +68</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](ricardo-zunino) (1402)**: 6 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +83</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Hector Rebaque](hector-rebaque)**: 2 wins (66.7%) • 0 losses (0.0%) • 1 DNFs (33.3%) - **ELO Impact: **<span style="color: green;">↑ +32</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Hector Rebaque](hector-rebaque)**: 7 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +36</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Hector Rebaque](hector-rebaque) (1415)**: 2 wins (66.7%) • 0 losses (0.0%) • 1 DNFs (33.3%) • **Elo **<span style="color: green;">▲ +32</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Hector Rebaque](hector-rebaque) (1292)**: 7 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +36</span>****
+
 
 #### DNF Statistics
 
@@ -263,10 +284,17 @@
 
 📊 **[View Full 1981 Season Report](../seasons/1981-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1687 **<span style="color: green;">▲ +30</span>** | 1798 **<span style="color: green;">▲ +46</span>** | 1720 **<span style="color: green;">▲ +35</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Hector Rebaque](hector-rebaque)**: 7 wins (70.0%) • 1 losses (10.0%) • 2 DNFs (20.0%) - **ELO Impact: **<span style="color: green;">↑ +30</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Hector Rebaque](hector-rebaque)**: 14 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +47</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Hector Rebaque](hector-rebaque) (1385)**: 7 wins (70.0%) • 1 losses (10.0%) • 2 DNFs (20.0%) • **Elo **<span style="color: green;">▲ +30</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Hector Rebaque](hector-rebaque) (1246)**: 14 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +47</span>****
+
 
 #### DNF Statistics
 
@@ -323,10 +351,17 @@
 
 📊 **[View Full 1982 Season Report](../seasons/1982-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1734 **<span style="color: green;">▲ +47</span>** | 1808 **<span style="color: green;">▲ +10</span>** | 1757 **<span style="color: green;">▲ +37</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 4 wins (33.3%) • 1 losses (8.3%) • 7 DNFs (58.3%) - **ELO Impact: **<span style="color: green;">↑ +48</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 9 wins (64.3%) • 5 losses (35.7%) - **ELO Impact: **<span style="color: green;">↑ +12</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1523)**: 4 wins (33.3%) • 1 losses (8.3%) • 7 DNFs (58.3%) • **Elo **<span style="color: green;">▲ +48</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1796)**: 9 wins (64.3%) • 5 losses (35.7%) • **Elo **<span style="color: green;">▲ +12</span>****
+
 
 #### DNF Statistics
 
@@ -383,10 +418,17 @@
 
 📊 **[View Full 1983 Season Report](../seasons/1983-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1661 **<span style="color: red;">▼ -73</span>** | 1848 **<span style="color: green;">▲ +40</span>** | 1718 **<span style="color: red;">▼ -39</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 1 wins (14.3%) • 2 losses (28.6%) • 4 DNFs (57.1%) - **ELO Impact: **<span style="color: red;">↓ -72</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 10 wins (66.7%) • 5 losses (33.3%) - **ELO Impact: **<span style="color: green;">↑ +39</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1596)**: 1 wins (14.3%) • 2 losses (28.6%) • 4 DNFs (57.1%) • **Elo **<span style="color: red;">▼ -72</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1756)**: 10 wins (66.7%) • 5 losses (33.3%) • **Elo **<span style="color: green;">▲ +39</span>****
+
 
 #### DNF Statistics
 
@@ -446,16 +488,23 @@
 
 📊 **[View Full 1984 Season Report](../seasons/1984-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1672 **<span style="color: green;">▲ +11</span>** | 1860 **<span style="color: green;">▲ +12</span>** | 1729 **<span style="color: green;">▲ +11</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](teo-fabi)**: 2 wins (20.0%) • 0 losses (0.0%) • 8 DNFs (80.0%) - **ELO Impact: **<span style="color: green;">↑ +37</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](teo-fabi)**: 12 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +47</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](teo-fabi) (1463)**: 2 wins (20.0%) • 0 losses (0.0%) • 8 DNFs (80.0%) • **Elo **<span style="color: green;">▲ +37</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](teo-fabi) (1347)**: 12 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +47</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Corrado Fabi](corrado-fabi)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -45</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Corrado Fabi](corrado-fabi)**: 2 wins (66.7%) • 1 losses (33.3%) - **ELO Impact: **<span style="color: red;">↓ -48</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Corrado Fabi](corrado-fabi) (1577)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -45</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Corrado Fabi](corrado-fabi) (1506)**: 2 wins (66.7%) • 1 losses (33.3%) • **Elo **<span style="color: red;">▼ -48</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +19</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +13</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +19</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +13</span>****
+
 
 #### DNF Statistics
 
@@ -518,13 +567,20 @@
 
 📊 **[View Full 1985 Season Report](../seasons/1985-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1731 **<span style="color: green;">▲ +59</span>** | 1878 **<span style="color: green;">▲ +18</span>** | 1775 **<span style="color: green;">▲ +46</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Hesnault](franois-hesnault)**: 0 wins (0.0%) • 0 losses (0.0%) • 3 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Hesnault](franois-hesnault)**: 3 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +9</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Hesnault](franois-hesnault) (1401)**: 0 wins (0.0%) • 0 losses (0.0%) • 3 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Hesnault](franois-hesnault) (1343)**: 3 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +9</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer)**: 5 wins (50.0%) • 0 losses (0.0%) • 5 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +58</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer)**: 11 wins (91.7%) • 1 losses (8.3%) - **ELO Impact: **<span style="color: green;">↑ +8</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) (1403)**: 5 wins (50.0%) • 0 losses (0.0%) • 5 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +58</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) (1540)**: 11 wins (91.7%) • 1 losses (8.3%) • **Elo **<span style="color: green;">▲ +8</span>****
+
 
 #### DNF Statistics
 
@@ -584,10 +640,17 @@
 
 📊 **[View Full 1986 Season Report](../seasons/1986-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1714 **<span style="color: red;">▼ -17</span>** | 1777 **<span style="color: red;">▼ -101</span>** | 1733 **<span style="color: red;">▼ -42</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 5 wins (35.7%) • 6 losses (42.9%) • 3 DNFs (21.4%) - **ELO Impact: **<span style="color: red;">↓ -17</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 8 wins (50.0%) • 8 losses (50.0%) - **ELO Impact: **<span style="color: red;">↓ -101</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1660)**: 5 wins (35.7%) • 6 losses (42.9%) • 3 DNFs (21.4%) • **Elo **<span style="color: red;">▼ -17</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1849)**: 8 wins (50.0%) • 8 losses (50.0%) • **Elo **<span style="color: red;">▼ -101</span>****
+
 
 #### DNF Statistics
 
@@ -650,13 +713,20 @@
 
 📊 **[View Full 1987 Season Report](../seasons/1987-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1630 **<span style="color: red;">▼ -84</span>** | 1846 **<span style="color: green;">▲ +69</span>** | 1695 **<span style="color: red;">▼ -38</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 3 wins (27.3%) • 5 losses (45.5%) • 3 DNFs (27.3%) - **ELO Impact: **<span style="color: red;">↓ -84</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 5 wins (33.3%) • 10 losses (66.7%) - **ELO Impact: **<span style="color: green;">↑ +34</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1744)**: 3 wins (27.3%) • 5 losses (45.5%) • 3 DNFs (27.3%) • **Elo **<span style="color: red;">▼ -84</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1814)**: 5 wins (33.3%) • 10 losses (66.7%) • **Elo **<span style="color: green;">▲ +34</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +34</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +34</span>****
+
 
 #### DNF Statistics
 
@@ -719,10 +789,17 @@
 
 📊 **[View Full 1988 Season Report](../seasons/1988-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1629 **<span style="color: red;">▼ -1</span>** | 1853 **<span style="color: green;">▲ +7</span>** | 1697 **<span style="color: green;">▲ +2</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](satoru-nakajima)**: 7 wins (53.8%) • 2 losses (15.4%) • 4 DNFs (30.8%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](satoru-nakajima)**: 13 wins (92.9%) • 1 losses (7.1%) - **ELO Impact: **<span style="color: green;">↑ +6</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](satoru-nakajima) (1437)**: 7 wins (53.8%) • 2 losses (15.4%) • 4 DNFs (30.8%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](satoru-nakajima) (1426)**: 13 wins (92.9%) • 1 losses (7.1%) • **Elo **<span style="color: green;">▲ +6</span>****
+
 
 #### DNF Statistics
 
@@ -779,10 +856,17 @@
 
 📊 **[View Full 1989 Season Report](../seasons/1989-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1594 **<span style="color: red;">▼ -35</span>** | 1831 **<span style="color: red;">▼ -22</span>** | 1667 **<span style="color: red;">▼ -30</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](satoru-nakajima)**: 5 wins (55.6%) • 2 losses (22.2%) • 2 DNFs (22.2%) - **ELO Impact: **<span style="color: red;">↓ -35</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](satoru-nakajima)**: 11 wins (84.6%) • 2 losses (15.4%) - **ELO Impact: **<span style="color: red;">↓ -20</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](satoru-nakajima) (1472)**: 5 wins (55.6%) • 2 losses (22.2%) • 2 DNFs (22.2%) • **Elo **<span style="color: red;">▼ -35</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](satoru-nakajima) (1448)**: 11 wins (84.6%) • 2 losses (15.4%) • **Elo **<span style="color: red;">▼ -20</span>****
+
 
 #### DNF Statistics
 
@@ -836,13 +920,20 @@
 
 📊 **[View Full 1990 Season Report](../seasons/1990-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1696 **<span style="color: green;">▲ +102</span>** | 1844 **<span style="color: green;">▲ +13</span>** | 1742 **<span style="color: green;">▲ +75</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini)**: 6 wins (50.0%) • 3 losses (25.0%) • 3 DNFs (25.0%) - **ELO Impact: **<span style="color: green;">↑ +69</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini)**: 9 wins (64.3%) • 5 losses (35.7%) - **ELO Impact: **<span style="color: red;">↓ -2</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini) (1533)**: 6 wins (50.0%) • 3 losses (25.0%) • 3 DNFs (25.0%) • **Elo **<span style="color: green;">▲ +69</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini) (1758)**: 9 wins (64.3%) • 5 losses (35.7%) • **Elo **<span style="color: red;">▼ -2</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno)**: 2 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +33</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno)**: 2 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +14</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (1466)**: 2 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +33</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (1454)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +14</span>****
+
 
 #### DNF Statistics
 
@@ -905,13 +996,20 @@
 
 📊 **[View Full 1991 Season Report](../seasons/1991-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1680 **<span style="color: red;">▼ -16</span>** | 1654 **<span style="color: red;">▼ -190</span>** | 1674 **<span style="color: red;">▼ -68</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno)**: 3 wins (42.9%) • 0 losses (0.0%) • 4 DNFs (57.1%) - **ELO Impact: **<span style="color: green;">↑ +36</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno)**: 8 wins (72.7%) • 3 losses (27.3%) - **ELO Impact: **<span style="color: red;">↓ -68</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (1430)**: 3 wins (42.9%) • 0 losses (0.0%) • 4 DNFs (57.1%) • **Elo **<span style="color: green;">▲ +36</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (1522)**: 8 wins (72.7%) • 3 losses (27.3%) • **Elo **<span style="color: red;">▼ -68</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](michael-schumacher)**: 2 wins (50.0%) • 2 losses (50.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -52</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](michael-schumacher)**: 1 wins (20.0%) • 4 losses (80.0%) - **ELO Impact: **<span style="color: red;">↓ -121</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](michael-schumacher) (N/A)**: 2 wins (50.0%) • 2 losses (50.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -52</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher](michael-schumacher) (N/A)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo **<span style="color: red;">▼ -121</span>****
+
 
 #### DNF Statistics
 

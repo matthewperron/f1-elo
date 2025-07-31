@@ -44,10 +44,17 @@
 
 📊 **[View Full 1989 Season Report](../seasons/1989-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1582 **<span style="color: green;">▲ +82</span>** | 1671 **<span style="color: green;">▲ +171</span>** | 1609 **<span style="color: green;">▲ +109</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux)**: 3 wins (50.0%) • 0 losses (0.0%) • 3 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +82</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux)**: 6 wins (85.7%) • 1 losses (14.3%) - **ELO Impact: **<span style="color: green;">↑ +171</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) (1429)**: 3 wins (50.0%) • 0 losses (0.0%) • 3 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +82</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) (1545)**: 6 wins (85.7%) • 1 losses (14.3%) • **Elo **<span style="color: green;">▲ +171</span>****
+
 
 #### DNF Statistics
 
@@ -83,10 +90,17 @@
 
 📊 **[View Full 1992 Season Report](../seasons/1992-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1534 **<span style="color: red;">▼ -48</span>** | 1515 **<span style="color: red;">▼ -156</span>** | 1529 **<span style="color: red;">▼ -80</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris)**: 2 wins (15.4%) • 4 losses (30.8%) • 7 DNFs (53.8%) - **ELO Impact: **<span style="color: red;">↓ -48</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris)**: 2 wins (12.5%) • 14 losses (87.5%) - **ELO Impact: **<span style="color: red;">↓ -156</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1662)**: 2 wins (15.4%) • 4 losses (30.8%) • 7 DNFs (53.8%) • **Elo **<span style="color: red;">▼ -48</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1764)**: 2 wins (12.5%) • 14 losses (87.5%) • **Elo **<span style="color: red;">▼ -156</span>****
+
 
 #### DNF Statistics
 

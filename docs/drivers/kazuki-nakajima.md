@@ -45,10 +45,17 @@
 
 📊 **[View Full 2007 Season Report](../seasons/2007-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1473 **<span style="color: red;">▼ -27</span>** | 1487 **<span style="color: red;">▼ -13</span>** | 1477 **<span style="color: red;">▼ -23</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -27</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -13</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1582)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -27</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1745)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -13</span>****
+
 
 #### DNF Statistics
 
@@ -66,10 +73,17 @@
 
 📊 **[View Full 2008 Season Report](../seasons/2008-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1476 **<span style="color: green;">▲ +3</span>** | 1559 **<span style="color: green;">▲ +72</span>** | 1501 **<span style="color: green;">▲ +24</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg)**: 6 wins (35.3%) • 11 losses (64.7%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +4</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg)**: 5 wins (27.8%) • 13 losses (72.2%) - **ELO Impact: **<span style="color: green;">↑ +71</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1579)**: 6 wins (35.3%) • 11 losses (64.7%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +4</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1673)**: 5 wins (27.8%) • 13 losses (72.2%) • **Elo **<span style="color: green;">▲ +71</span>****
+
 
 #### DNF Statistics
 
@@ -138,10 +152,17 @@
 
 📊 **[View Full 2009 Season Report](../seasons/2009-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1419 **<span style="color: red;">▼ -57</span>** | 1487 **<span style="color: red;">▼ -72</span>** | 1440 **<span style="color: red;">▼ -61</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg)**: 2 wins (12.5%) • 12 losses (75.0%) • 2 DNFs (12.5%) - **ELO Impact: **<span style="color: red;">↓ -56</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg)**: 3 wins (17.6%) • 14 losses (82.4%) - **ELO Impact: **<span style="color: red;">↓ -73</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1636)**: 2 wins (12.5%) • 12 losses (75.0%) • 2 DNFs (12.5%) • **Elo **<span style="color: red;">▼ -56</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1745)**: 3 wins (17.6%) • 14 losses (82.4%) • **Elo **<span style="color: red;">▼ -73</span>****
+
 
 #### DNF Statistics
 

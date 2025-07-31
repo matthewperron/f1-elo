@@ -43,10 +43,17 @@
 
 📊 **[View Full 2015 Season Report](../seasons/2015-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1526 **<span style="color: green;">▲ +26</span>** | 1562 **<span style="color: green;">▲ +62</span>** | 1537 **<span style="color: green;">▲ +37</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)**: 3 wins (75.0%) • 1 losses (25.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +26</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)**: 3 wins (60.0%) • 2 losses (40.0%) - **ELO Impact: **<span style="color: green;">↑ +62</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) (1432)**: 3 wins (75.0%) • 1 losses (25.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +26</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) (1491)**: 3 wins (60.0%) • 2 losses (40.0%) • **Elo **<span style="color: green;">▲ +62</span>****
+
 
 #### DNF Statistics
 

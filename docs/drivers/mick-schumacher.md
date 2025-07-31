@@ -44,10 +44,17 @@
 
 📊 **[View Full 2021 Season Report](../seasons/2021-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1518 **<span style="color: green;">▲ +18</span>** | 1671 **<span style="color: green;">▲ +171</span>** | 1564 **<span style="color: green;">▲ +64</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Nikita Mazepin](nikita-mazepin)**: 13 wins (68.4%) • 5 losses (26.3%) • 1 DNFs (5.3%) - **ELO Impact: **<span style="color: green;">↑ +19</span>****
-- **Qualifying vs [Nikita Mazepin](nikita-mazepin)**: 19 wins (86.4%) • 3 losses (13.6%) - **ELO Impact: **<span style="color: green;">↑ +170</span>****
+- **Races vs [Nikita Mazepin](nikita-mazepin) (1482)**: 13 wins (68.4%) • 5 losses (26.3%) • 1 DNFs (5.3%) • **Elo **<span style="color: green;">▲ +19</span>****
+- **Qualifying vs [Nikita Mazepin](nikita-mazepin) (1329)**: 19 wins (86.4%) • 3 losses (13.6%) • **Elo **<span style="color: green;">▲ +170</span>****
+
 
 #### DNF Statistics
 
@@ -128,10 +135,17 @@
 
 📊 **[View Full 2022 Season Report](../seasons/2022-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1647 **<span style="color: green;">▲ +129</span>** | 1579 **<span style="color: red;">▼ -92</span>** | 1626 **<span style="color: green;">▲ +62</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)**: 11 wins (57.9%) • 6 losses (31.6%) • 2 DNFs (10.5%) - **ELO Impact: **<span style="color: green;">↑ +128</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)**: 7 wins (31.8%) • 15 losses (68.2%) - **ELO Impact: **<span style="color: red;">↓ -92</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1522)**: 11 wins (57.9%) • 6 losses (31.6%) • 2 DNFs (10.5%) • **Elo **<span style="color: green;">▲ +128</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1603)**: 7 wins (31.8%) • 15 losses (68.2%) • **Elo **<span style="color: red;">▼ -92</span>****
+
 
 #### DNF Statistics
 

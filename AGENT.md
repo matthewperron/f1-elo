@@ -98,8 +98,8 @@ f1-elo/
 - **Elo Display Format**:
   - Always display Elo scores using the standard format: "FINAL_ELO [arrow] DELTA"
   - Use `formatEloWithDelta(finalElo, eloChange)` function for consistent formatting
-  - Green color for positive changes (↑), red for negative changes (↓), neutral for zero (↔)
-  - Example: "1650 ↑ +25" (green), "1625 ↓ -15" (red), "1500 ↔ 0" (neutral)
+  - Green color for positive changes (▲), red for negative changes (▼), neutral for zero (↔)
+  - Example: "1650 ▲ +25" (green), "1625 ▼ -15" (red), "1500 ↔ 0" (neutral)
   - Function returns HTML with inline styling for color coding
 - **File restrictions**: 
   - Do NOT read or edit files under `docs/` folder - they are massive generated files that will consume excessive tokens

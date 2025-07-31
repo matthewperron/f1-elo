@@ -43,10 +43,17 @@
 
 📊 **[View Full 2003 Season Report](../seasons/2003-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1513 **<span style="color: green;">▲ +13</span>** | 1449 **<span style="color: red;">▼ -51</span>** | 1494 **<span style="color: red;">▼ -6</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 1 wins (16.7%) • 2 losses (33.3%) • 3 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +14</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 2 wins (14.3%) • 12 losses (85.7%) - **ELO Impact: **<span style="color: red;">↓ -52</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1690)**: 1 wins (16.7%) • 2 losses (33.3%) • 3 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +14</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1710)**: 2 wins (14.3%) • 12 losses (85.7%) • **Elo **<span style="color: red;">▼ -52</span>****
+
 
 #### DNF Statistics
 

@@ -45,10 +45,17 @@
 
 📊 **[View Full 2009 Season Report](../seasons/2009-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1459 **<span style="color: red;">▼ -41</span>** | 1407 **<span style="color: red;">▼ -93</span>** | 1444 **<span style="color: red;">▼ -56</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi)**: 1 wins (16.7%) • 2 losses (33.3%) • 3 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -41</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi)**: 1 wins (12.5%) • 7 losses (87.5%) - **ELO Impact: **<span style="color: red;">↓ -92</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1521)**: 1 wins (16.7%) • 2 losses (33.3%) • 3 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -41</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1617)**: 1 wins (12.5%) • 7 losses (87.5%) • **Elo **<span style="color: red;">▼ -92</span>****
+
 
 #### DNF Statistics
 
@@ -87,10 +94,17 @@
 
 📊 **[View Full 2010 Season Report](../seasons/2010-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1548 **<span style="color: green;">▲ +89</span>** | 1590 **<span style="color: green;">▲ +183</span>** | 1561 **<span style="color: green;">▲ +117</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi)**: 9 wins (52.9%) • 6 losses (35.3%) • 2 DNFs (11.8%) - **ELO Impact: **<span style="color: green;">↑ +88</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi)**: 8 wins (42.1%) • 11 losses (57.9%) - **ELO Impact: **<span style="color: green;">↑ +185</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1432)**: 9 wins (52.9%) • 6 losses (35.3%) • 2 DNFs (11.8%) • **Elo **<span style="color: green;">▲ +88</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1434)**: 8 wins (42.1%) • 11 losses (57.9%) • **Elo **<span style="color: green;">▲ +185</span>****
+
 
 #### DNF Statistics
 
@@ -162,10 +176,17 @@
 
 📊 **[View Full 2011 Season Report](../seasons/2011-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1551 **<span style="color: green;">▲ +3</span>** | 1490 **<span style="color: red;">▼ -100</span>** | 1533 **<span style="color: red;">▼ -28</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi)**: 7 wins (46.7%) • 7 losses (46.7%) • 1 DNFs (6.7%) - **ELO Impact: **<span style="color: green;">↑ +3</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi)**: 7 wins (36.8%) • 12 losses (63.2%) - **ELO Impact: **<span style="color: red;">↓ -100</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1429)**: 7 wins (46.7%) • 7 losses (46.7%) • 1 DNFs (6.7%) • **Elo **<span style="color: green;">▲ +3</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1534)**: 7 wins (36.8%) • 12 losses (63.2%) • **Elo **<span style="color: red;">▼ -100</span>****
+
 
 #### DNF Statistics
 

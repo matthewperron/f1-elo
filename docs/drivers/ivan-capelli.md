@@ -49,10 +49,17 @@
 
 📊 **[View Full 1985 Season Report](../seasons/1985-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1500 ↔ 0 | 1449 **<span style="color: red;">▼ -51</span>** | 1484 **<span style="color: red;">▼ -16</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle)**: 0 wins (0.0%) • 2 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -52</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) (1472)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) (1609)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo **<span style="color: red;">▼ -52</span>****
+
 
 #### DNF Statistics
 
@@ -73,10 +80,17 @@
 
 📊 **[View Full 1988 Season Report](../seasons/1988-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1583 **<span style="color: green;">▲ +83</span>** | 1596 **<span style="color: green;">▲ +147</span>** | 1586 **<span style="color: green;">▲ +102</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin)**: 4 wins (33.3%) • 1 losses (8.3%) • 7 DNFs (58.3%) - **ELO Impact: **<span style="color: green;">↑ +83</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin)**: 12 wins (75.0%) • 4 losses (25.0%) - **ELO Impact: **<span style="color: green;">↑ +148</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin) (1417)**: 4 wins (33.3%) • 1 losses (8.3%) • 7 DNFs (58.3%) • **Elo **<span style="color: green;">▲ +83</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin) (1353)**: 12 wins (75.0%) • 4 losses (25.0%) • **Elo **<span style="color: green;">▲ +148</span>****
+
 
 #### DNF Statistics
 
@@ -139,10 +153,17 @@
 
 📊 **[View Full 1989 Season Report](../seasons/1989-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1537 **<span style="color: red;">▼ -46</span>** | 1517 **<span style="color: red;">▼ -79</span>** | 1530 **<span style="color: red;">▼ -56</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin)**: 0 wins (0.0%) • 1 losses (8.3%) • 11 DNFs (91.7%) - **ELO Impact: **<span style="color: red;">↓ -46</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin)**: 7 wins (46.7%) • 8 losses (53.3%) - **ELO Impact: **<span style="color: red;">↓ -79</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin) (1463)**: 0 wins (0.0%) • 1 losses (8.3%) • 11 DNFs (91.7%) • **Elo **<span style="color: red;">▼ -46</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin) (1432)**: 7 wins (46.7%) • 8 losses (53.3%) • **Elo **<span style="color: red;">▼ -79</span>****
+
 
 #### DNF Statistics
 
@@ -202,10 +223,17 @@
 
 📊 **[View Full 1990 Season Report](../seasons/1990-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1498 **<span style="color: red;">▼ -39</span>** | 1553 **<span style="color: green;">▲ +36</span>** | 1513 **<span style="color: red;">▼ -17</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin)**: 0 wins (0.0%) • 1 losses (11.1%) • 8 DNFs (88.9%) - **ELO Impact: **<span style="color: red;">↓ -39</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin)**: 8 wins (66.7%) • 4 losses (33.3%) - **ELO Impact: **<span style="color: green;">↑ +36</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin) (1502)**: 0 wins (0.0%) • 1 losses (11.1%) • 8 DNFs (88.9%) • **Elo **<span style="color: red;">▼ -39</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin) (1396)**: 8 wins (66.7%) • 4 losses (33.3%) • **Elo **<span style="color: green;">▲ +36</span>****
+
 
 #### DNF Statistics
 
@@ -256,10 +284,17 @@
 
 📊 **[View Full 1991 Season Report](../seasons/1991-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1466 **<span style="color: red;">▼ -32</span>** | 1523 **<span style="color: red;">▼ -30</span>** | 1482 **<span style="color: red;">▼ -31</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin)**: 2 wins (16.7%) • 3 losses (25.0%) • 7 DNFs (58.3%) - **ELO Impact: **<span style="color: red;">↓ -32</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin)**: 7 wins (50.0%) • 7 losses (50.0%) - **ELO Impact: **<span style="color: red;">↓ -30</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin) (1534)**: 2 wins (16.7%) • 3 losses (25.0%) • 7 DNFs (58.3%) • **Elo **<span style="color: red;">▼ -32</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin) (1426)**: 7 wins (50.0%) • 7 losses (50.0%) • **Elo **<span style="color: red;">▼ -30</span>****
+
 
 #### DNF Statistics
 
@@ -316,10 +351,17 @@
 
 📊 **[View Full 1992 Season Report](../seasons/1992-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1440 **<span style="color: red;">▼ -26</span>** | 1402 **<span style="color: red;">▼ -121</span>** | 1429 **<span style="color: red;">▼ -53</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 1 wins (9.1%) • 4 losses (36.4%) • 6 DNFs (54.5%) - **ELO Impact: **<span style="color: red;">↓ -25</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 1 wins (7.1%) • 13 losses (92.9%) - **ELO Impact: **<span style="color: red;">↓ -119</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1576)**: 1 wins (9.1%) • 4 losses (36.4%) • 6 DNFs (54.5%) • **Elo **<span style="color: red;">▼ -25</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1776)**: 1 wins (7.1%) • 13 losses (92.9%) • **Elo **<span style="color: red;">▼ -119</span>****
+
 
 #### DNF Statistics
 
@@ -376,10 +418,17 @@
 
 📊 **[View Full 1993 Season Report](../seasons/1993-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1440 ↔ 0 | 1379 **<span style="color: red;">▼ -23</span>** | 1422 **<span style="color: red;">▼ -7</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -23</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1523)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -23</span>****
+
 
 #### DNF Statistics
 

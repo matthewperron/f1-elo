@@ -47,10 +47,17 @@
 
 📊 **[View Full 2021 Season Report](../seasons/2021-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1410 **<span style="color: red;">▼ -90</span>** | 1351 **<span style="color: red;">▼ -149</span>** | 1392 **<span style="color: red;">▼ -108</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly)**: 3 wins (15.0%) • 14 losses (70.0%) • 3 DNFs (15.0%) - **ELO Impact: **<span style="color: red;">↓ -90</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly)**: 2 wins (9.1%) • 20 losses (90.9%) - **ELO Impact: **<span style="color: red;">↓ -149</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1625)**: 3 wins (15.0%) • 14 losses (70.0%) • 3 DNFs (15.0%) • **Elo **<span style="color: red;">▼ -90</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1620)**: 2 wins (9.1%) • 20 losses (90.9%) • **Elo **<span style="color: red;">▼ -149</span>****
+
 
 #### DNF Statistics
 
@@ -131,10 +138,17 @@
 
 📊 **[View Full 2022 Season Report](../seasons/2022-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1481 **<span style="color: green;">▲ +71</span>** | 1500 **<span style="color: green;">▲ +149</span>** | 1487 **<span style="color: green;">▲ +95</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly)**: 6 wins (30.0%) • 11 losses (55.0%) • 3 DNFs (15.0%) - **ELO Impact: **<span style="color: green;">↑ +71</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly)**: 10 wins (45.5%) • 12 losses (54.5%) - **ELO Impact: **<span style="color: green;">↑ +150</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1554)**: 6 wins (30.0%) • 11 losses (55.0%) • 3 DNFs (15.0%) • **Elo **<span style="color: green;">▲ +71</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1471)**: 10 wins (45.5%) • 12 losses (54.5%) • **Elo **<span style="color: green;">▲ +150</span>****
+
 
 #### DNF Statistics
 
@@ -215,16 +229,23 @@
 
 📊 **[View Full 2023 Season Report](../seasons/2023-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1541 **<span style="color: green;">▲ +60</span>** | 1607 **<span style="color: green;">▲ +107</span>** | 1563 **<span style="color: green;">▲ +76</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Nyck de Vries](nyck-de-vries)**: 7 wins (77.8%) • 2 losses (22.2%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +84</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Nyck de Vries](nyck-de-vries)**: 7 wins (70.0%) • 3 losses (30.0%) - **ELO Impact: **<span style="color: green;">↑ +60</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Nyck de Vries](nyck-de-vries) (1436)**: 7 wins (77.8%) • 2 losses (22.2%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +84</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Nyck de Vries](nyck-de-vries) (1458)**: 7 wins (70.0%) • 3 losses (30.0%) • **Elo **<span style="color: green;">▲ +60</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo)**: 4 wins (57.1%) • 3 losses (42.9%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +6</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo)**: 4 wins (57.1%) • 3 losses (42.9%) - **ELO Impact: **<span style="color: red;">↓ -3</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1479)**: 4 wins (57.1%) • 3 losses (42.9%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +6</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1526)**: 4 wins (57.1%) • 3 losses (42.9%) • **Elo **<span style="color: red;">▼ -3</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson)**: 1 wins (20.0%) • 2 losses (40.0%) • 2 DNFs (40.0%) - **ELO Impact: **<span style="color: red;">↓ -28</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson)**: 4 wins (80.0%) • 1 losses (20.0%) - **ELO Impact: **<span style="color: green;">↑ +51</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson) (1529)**: 1 wins (20.0%) • 2 losses (40.0%) • 2 DNFs (40.0%) • **Elo **<span style="color: red;">▼ -28</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson) (1449)**: 4 wins (80.0%) • 1 losses (20.0%) • **Elo **<span style="color: green;">▲ +51</span>****
+
 
 #### DNF Statistics
 
@@ -305,13 +326,20 @@
 
 📊 **[View Full 2024 Season Report](../seasons/2024-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1606 **<span style="color: green;">▲ +65</span>** | 1693 **<span style="color: green;">▲ +86</span>** | 1634 **<span style="color: green;">▲ +71</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo)**: 8 wins (47.1%) • 6 losses (35.3%) • 3 DNFs (17.6%) - **ELO Impact: **<span style="color: red;">↓ -21</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo)**: 12 wins (66.7%) • 6 losses (33.3%) - **ELO Impact: **<span style="color: green;">↑ +8</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1500)**: 8 wins (47.1%) • 6 losses (35.3%) • 3 DNFs (17.6%) • **Elo **<span style="color: red;">▼ -21</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1518)**: 12 wins (66.7%) • 6 losses (33.3%) • **Elo **<span style="color: green;">▲ +8</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson)**: 4 wins (66.7%) • 1 losses (16.7%) • 1 DNFs (16.7%) - **ELO Impact: **<span style="color: green;">↑ +85</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson)**: 6 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +79</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson) (1443)**: 4 wins (66.7%) • 1 losses (16.7%) • 1 DNFs (16.7%) • **Elo **<span style="color: green;">▲ +85</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson) (1371)**: 6 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +79</span>****
+
 
 #### DNF Statistics
 
@@ -398,13 +426,20 @@
 
 📊 **[View Full 2025 Season Report](../seasons/2025-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1530 **<span style="color: red;">▼ -76</span>** | 1555 **<span style="color: red;">▼ -138</span>** | 1539 **<span style="color: red;">▼ -95</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -41</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar)**: 1 wins (50.0%) • 1 losses (50.0%) - **ELO Impact: **<span style="color: red;">↓ -34</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar) (1541)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -41</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar) (1534)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo **<span style="color: red;">▼ -34</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen)**: 0 wins (0.0%) • 9 losses (90.0%) • 1 DNFs (10.0%) - **ELO Impact: **<span style="color: red;">↓ -35</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen)**: 0 wins (0.0%) • 11 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -104</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 0 wins (0.0%) • 9 losses (90.0%) • 1 DNFs (10.0%) • **Elo **<span style="color: red;">▼ -35</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 0 wins (0.0%) • 11 losses (100.0%) • **Elo **<span style="color: red;">▼ -104</span>****
+
 
 #### DNF Statistics
 

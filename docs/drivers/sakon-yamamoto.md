@@ -45,10 +45,17 @@
 
 📊 **[View Full 2006 Season Report](../seasons/2006-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1428 **<span style="color: red;">▼ -72</span>** | 1482 **<span style="color: red;">▼ -18</span>** | 1444 **<span style="color: red;">▼ -56</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)**: 0 wins (0.0%) • 2 losses (40.0%) • 3 DNFs (60.0%) - **ELO Impact: **<span style="color: red;">↓ -73</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)**: 2 wins (28.6%) • 5 losses (71.4%) - **ELO Impact: **<span style="color: red;">↓ -17</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1486)**: 0 wins (0.0%) • 2 losses (40.0%) • 3 DNFs (60.0%) • **Elo **<span style="color: red;">▼ -73</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1638)**: 2 wins (28.6%) • 5 losses (71.4%) • **Elo **<span style="color: red;">▼ -17</span>****
+
 
 #### DNF Statistics
 
@@ -84,10 +91,17 @@
 
 📊 **[View Full 2007 Season Report](../seasons/2007-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1422 **<span style="color: red;">▼ -6</span>** | 1391 **<span style="color: red;">▼ -91</span>** | 1412 **<span style="color: red;">▼ -32</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil)**: 1 wins (20.0%) • 4 losses (80.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -7</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil)**: 0 wins (0.0%) • 7 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -91</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1595)**: 1 wins (20.0%) • 4 losses (80.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -7</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1725)**: 0 wins (0.0%) • 7 losses (100.0%) • **Elo **<span style="color: red;">▼ -91</span>****
+
 
 #### DNF Statistics
 
@@ -123,13 +137,20 @@
 
 📊 **[View Full 2010 Season Report](../seasons/2010-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1335 **<span style="color: red;">▼ -87</span>** | 1355 **<span style="color: red;">▼ -36</span>** | 1340 **<span style="color: red;">▼ -72</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Karun Chandhok](karun-chandhok)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -23</span>****
-- **Qualifying vs [Karun Chandhok](karun-chandhok)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -28</span>****
+- **Races vs [Karun Chandhok](karun-chandhok) (1550)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -23</span>****
+- **Qualifying vs [Karun Chandhok](karun-chandhok) (1459)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -28</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna)**: 0 wins (0.0%) • 3 losses (75.0%) • 1 DNFs (25.0%) - **ELO Impact: **<span style="color: red;">↓ -64</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna)**: 1 wins (16.7%) • 5 losses (83.3%) - **ELO Impact: **<span style="color: red;">↓ -8</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1537)**: 0 wins (0.0%) • 3 losses (75.0%) • 1 DNFs (25.0%) • **Elo **<span style="color: red;">▼ -64</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1532)**: 1 wins (16.7%) • 5 losses (83.3%) • **Elo **<span style="color: red;">▼ -8</span>****
+
 
 #### DNF Statistics
 

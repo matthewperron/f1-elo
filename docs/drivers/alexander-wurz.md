@@ -48,10 +48,17 @@
 
 📊 **[View Full 1997 Season Report](../seasons/1997-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1467 **<span style="color: red;">▼ -33</span>** | 1606 **<span style="color: green;">▲ +106</span>** | 1509 **<span style="color: green;">▲ +9</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) - **ELO Impact: **<span style="color: red;">↓ -33</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 2 wins (66.7%) • 1 losses (33.3%) - **ELO Impact: **<span style="color: green;">↑ +106</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1699)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) • **Elo **<span style="color: red;">▼ -33</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1786)**: 2 wins (66.7%) • 1 losses (33.3%) • **Elo **<span style="color: green;">▲ +106</span>****
+
 
 #### DNF Statistics
 
@@ -75,10 +82,17 @@
 
 📊 **[View Full 1998 Season Report](../seasons/1998-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1460 **<span style="color: red;">▼ -7</span>** | 1567 **<span style="color: red;">▼ -39</span>** | 1493 **<span style="color: red;">▼ -16</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 6 wins (40.0%) • 6 losses (40.0%) • 3 DNFs (20.0%) - **ELO Impact: **<span style="color: red;">↓ -6</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 6 wins (37.5%) • 10 losses (62.5%) - **ELO Impact: **<span style="color: red;">↓ -39</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1595)**: 6 wins (40.0%) • 6 losses (40.0%) • 3 DNFs (20.0%) • **Elo **<span style="color: red;">▼ -6</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1621)**: 6 wins (37.5%) • 10 losses (62.5%) • **Elo **<span style="color: red;">▼ -39</span>****
+
 
 #### DNF Statistics
 
@@ -141,10 +155,17 @@
 
 📊 **[View Full 1999 Season Report](../seasons/1999-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1420 **<span style="color: red;">▼ -40</span>** | 1516 **<span style="color: red;">▼ -51</span>** | 1450 **<span style="color: red;">▼ -43</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 1 wins (9.1%) • 7 losses (63.6%) • 3 DNFs (27.3%) - **ELO Impact: **<span style="color: red;">↓ -39</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 3 wins (18.8%) • 13 losses (81.3%) - **ELO Impact: **<span style="color: red;">↓ -52</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1635)**: 1 wins (9.1%) • 7 losses (63.6%) • 3 DNFs (27.3%) • **Elo **<span style="color: red;">▼ -39</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1672)**: 3 wins (18.8%) • 13 losses (81.3%) • **Elo **<span style="color: red;">▼ -52</span>****
+
 
 #### DNF Statistics
 
@@ -207,10 +228,17 @@
 
 📊 **[View Full 2000 Season Report](../seasons/2000-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1498 **<span style="color: green;">▲ +78</span>** | 1558 **<span style="color: green;">▲ +42</span>** | 1517 **<span style="color: green;">▲ +67</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 4 wins (28.6%) • 8 losses (57.1%) • 2 DNFs (14.3%) - **ELO Impact: **<span style="color: green;">↑ +78</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 4 wins (23.5%) • 13 losses (76.5%) - **ELO Impact: **<span style="color: green;">↑ +42</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1557)**: 4 wins (28.6%) • 8 losses (57.1%) • 2 DNFs (14.3%) • **Elo **<span style="color: green;">▲ +78</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1630)**: 4 wins (23.5%) • 13 losses (76.5%) • **Elo **<span style="color: green;">▲ +42</span>****
+
 
 #### DNF Statistics
 
@@ -276,10 +304,17 @@
 
 📊 **[View Full 2005 Season Report](../seasons/2005-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1498 ↔ 0 | 1531 **<span style="color: red;">▼ -27</span>** | 1509 **<span style="color: red;">▼ -8</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 0 wins (0.0%) • 1 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -27</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1686)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1635)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo **<span style="color: red;">▼ -27</span>****
+
 
 #### DNF Statistics
 
@@ -297,10 +332,17 @@
 
 📊 **[View Full 2007 Season Report](../seasons/2007-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1471 **<span style="color: red;">▼ -27</span>** | 1375 **<span style="color: red;">▼ -156</span>** | 1443 **<span style="color: red;">▼ -66</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg)**: 4 wins (30.8%) • 8 losses (61.5%) • 1 DNFs (7.7%) - **ELO Impact: **<span style="color: red;">↓ -28</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg)**: 1 wins (6.3%) • 15 losses (93.8%) - **ELO Impact: **<span style="color: red;">↓ -154</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1555)**: 4 wins (30.8%) • 8 losses (61.5%) • 1 DNFs (7.7%) • **Elo **<span style="color: red;">▼ -28</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1732)**: 1 wins (6.3%) • 15 losses (93.8%) • **Elo **<span style="color: red;">▼ -154</span>****
+
 
 #### DNF Statistics
 

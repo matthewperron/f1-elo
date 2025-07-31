@@ -44,13 +44,20 @@
 
 📊 **[View Full 1986 Season Report](../seasons/1986-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1443 **<span style="color: red;">▼ -57</span>** | 1496 **<span style="color: red;">▼ -4</span>** | 1459 **<span style="color: red;">▼ -41</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)**: 0 wins (0.0%) • 0 losses (0.0%) • 5 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)**: 1 wins (20.0%) • 4 losses (80.0%) - **ELO Impact: **<span style="color: red;">↓ -72</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1503)**: 0 wins (0.0%) • 0 losses (0.0%) • 5 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1561)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo **<span style="color: red;">▼ -72</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)**: 0 wins (0.0%) • 3 losses (42.9%) • 4 DNFs (57.1%) - **ELO Impact: **<span style="color: red;">↓ -57</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)**: 4 wins (40.0%) • 6 losses (60.0%) - **ELO Impact: **<span style="color: green;">↑ +68</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) (N/A)**: 0 wins (0.0%) • 3 losses (42.9%) • 4 DNFs (57.1%) • **Elo **<span style="color: red;">▼ -57</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) (N/A)**: 4 wins (40.0%) • 6 losses (60.0%) • **Elo **<span style="color: green;">▲ +68</span>****
+
 
 #### DNF Statistics
 
@@ -110,10 +117,17 @@
 
 📊 **[View Full 1987 Season Report](../seasons/1987-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1416 **<span style="color: red;">▼ -27</span>** | 1469 **<span style="color: red;">▼ -27</span>** | 1432 **<span style="color: red;">▼ -27</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle)**: 0 wins (0.0%) • 1 losses (11.1%) • 8 DNFs (88.9%) - **ELO Impact: **<span style="color: red;">↓ -27</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle)**: 3 wins (18.8%) • 13 losses (81.3%) - **ELO Impact: **<span style="color: red;">↓ -28</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) (1530)**: 0 wins (0.0%) • 1 losses (11.1%) • 8 DNFs (88.9%) • **Elo **<span style="color: red;">▼ -27</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) (1735)**: 3 wins (18.8%) • 13 losses (81.3%) • **Elo **<span style="color: red;">▼ -28</span>****
+
 
 #### DNF Statistics
 

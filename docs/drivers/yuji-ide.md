@@ -43,10 +43,17 @@
 
 📊 **[View Full 2006 Season Report](../seasons/2006-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1450 **<span style="color: red;">▼ -50</span>** | 1391 **<span style="color: red;">▼ -109</span>** | 1432 **<span style="color: red;">▼ -68</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)**: 0 wins (0.0%) • 1 losses (25.0%) • 3 DNFs (75.0%) - **ELO Impact: **<span style="color: red;">↓ -50</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)**: 0 wins (0.0%) • 4 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -109</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1328)**: 0 wins (0.0%) • 1 losses (25.0%) • 3 DNFs (75.0%) • **Elo **<span style="color: red;">▼ -50</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1567)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo **<span style="color: red;">▼ -109</span>****
+
 
 #### DNF Statistics
 

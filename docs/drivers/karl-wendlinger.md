@@ -47,10 +47,17 @@
 
 📊 **[View Full 1991 Season Report](../seasons/1991-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1447 **<span style="color: red;">▼ -53</span>** | 1430 **<span style="color: red;">▼ -70</span>** | 1442 **<span style="color: red;">▼ -58</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -53</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin)**: 0 wins (0.0%) • 2 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -71</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin) (1587)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -53</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](maurcio-gugelmin) (1496)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo **<span style="color: red;">▼ -71</span>****
+
 
 #### DNF Statistics
 
@@ -71,13 +78,20 @@
 
 📊 **[View Full 1992 Season Report](../seasons/1992-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1495 **<span style="color: green;">▲ +48</span>** | 1580 **<span style="color: green;">▲ +150</span>** | 1521 **<span style="color: green;">▲ +79</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Paul Belmondo](paul-belmondo)**: 3 wins (60.0%) • 2 losses (40.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +13</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Paul Belmondo](paul-belmondo)**: 4 wins (80.0%) • 1 losses (20.0%) - **ELO Impact: **<span style="color: green;">↑ +70</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Paul Belmondo](paul-belmondo) (1488)**: 3 wins (60.0%) • 2 losses (40.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +13</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Paul Belmondo](paul-belmondo) (1429)**: 4 wins (80.0%) • 1 losses (20.0%) • **Elo **<span style="color: green;">▲ +70</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti](emanuele-naspetti)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +36</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti](emanuele-naspetti)**: 3 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +80</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti](emanuele-naspetti) (1464)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +36</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Emanuele Naspetti](emanuele-naspetti) (1420)**: 3 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +80</span>****
+
 
 #### DNF Statistics
 
@@ -116,10 +130,17 @@
 
 📊 **[View Full 1993 Season Report](../seasons/1993-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1620 **<span style="color: green;">▲ +125</span>** | 1542 **<span style="color: red;">▼ -38</span>** | 1597 **<span style="color: green;">▲ +76</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto)**: 5 wins (35.7%) • 1 losses (7.1%) • 8 DNFs (57.1%) - **ELO Impact: **<span style="color: green;">↑ +124</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto)**: 8 wins (50.0%) • 8 losses (50.0%) - **ELO Impact: **<span style="color: red;">↓ -37</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (1476)**: 5 wins (35.7%) • 1 losses (7.1%) • 8 DNFs (57.1%) • **Elo **<span style="color: green;">▲ +124</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (1614)**: 8 wins (50.0%) • 8 losses (50.0%) • **Elo **<span style="color: red;">▼ -37</span>****
+
 
 #### DNF Statistics
 
@@ -182,10 +203,17 @@
 
 📊 **[View Full 1994 Season Report](../seasons/1994-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1621 **<span style="color: green;">▲ +1</span>** | 1497 **<span style="color: red;">▼ -45</span>** | 1584 **<span style="color: red;">▼ -13</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)**: 2 wins (50.0%) • 1 losses (25.0%) • 1 DNFs (25.0%) - **ELO Impact: **<span style="color: green;">↑ +1</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)**: 1 wins (25.0%) • 3 losses (75.0%) - **ELO Impact: **<span style="color: red;">↓ -45</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1499)**: 2 wins (50.0%) • 1 losses (25.0%) • 1 DNFs (25.0%) • **Elo **<span style="color: green;">▲ +1</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1545)**: 1 wins (25.0%) • 3 losses (75.0%) • **Elo **<span style="color: red;">▼ -45</span>****
+
 
 #### DNF Statistics
 
@@ -212,10 +240,17 @@
 
 📊 **[View Full 1995 Season Report](../seasons/1995-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1539 **<span style="color: red;">▼ -82</span>** | 1447 **<span style="color: red;">▼ -50</span>** | 1512 **<span style="color: red;">▼ -72</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)**: 0 wins (0.0%) • 3 losses (50.0%) • 3 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -82</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)**: 0 wins (0.0%) • 6 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -50</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1719)**: 0 wins (0.0%) • 3 losses (50.0%) • 3 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -82</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1883)**: 0 wins (0.0%) • 6 losses (100.0%) • **Elo **<span style="color: red;">▼ -50</span>****
+
 
 #### DNF Statistics
 

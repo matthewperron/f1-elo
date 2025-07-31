@@ -53,10 +53,17 @@
 
 📊 **[View Full 1997 Season Report](../seasons/1997-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1424 **<span style="color: red;">▼ -76</span>** | 1501 **<span style="color: green;">▲ +1</span>** | 1447 **<span style="color: red;">▼ -53</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 5 wins (29.4%) • 7 losses (41.2%) • 5 DNFs (29.4%) - **ELO Impact: **<span style="color: red;">↓ -77</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella)**: 7 wins (41.2%) • 10 losses (58.8%) - **ELO Impact: **<span style="color: green;">↑ +2</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1588)**: 5 wins (29.4%) • 7 losses (41.2%) • 5 DNFs (29.4%) • **Elo **<span style="color: red;">▼ -77</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1582)**: 7 wins (41.2%) • 10 losses (58.8%) • **Elo **<span style="color: green;">▲ +2</span>****
+
 
 #### DNF Statistics
 
@@ -122,10 +129,17 @@
 
 📊 **[View Full 1998 Season Report](../seasons/1998-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1450 **<span style="color: green;">▲ +26</span>** | 1623 **<span style="color: green;">▲ +122</span>** | 1501 **<span style="color: green;">▲ +54</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill)**: 3 wins (25.0%) • 4 losses (33.3%) • 5 DNFs (41.7%) - **ELO Impact: **<span style="color: green;">↑ +25</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill)**: 10 wins (62.5%) • 6 losses (37.5%) - **ELO Impact: **<span style="color: green;">↑ +122</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill) (1515)**: 3 wins (25.0%) • 4 losses (33.3%) • 5 DNFs (41.7%) • **Elo **<span style="color: green;">▲ +25</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill) (1491)**: 10 wins (62.5%) • 6 losses (37.5%) • **Elo **<span style="color: green;">▲ +122</span>****
+
 
 #### DNF Statistics
 
@@ -188,10 +202,17 @@
 
 📊 **[View Full 1999 Season Report](../seasons/1999-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1473 **<span style="color: green;">▲ +23</span>** | 1592 **<span style="color: red;">▼ -31</span>** | 1508 **<span style="color: green;">▲ +7</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi)**: 5 wins (62.5%) • 2 losses (25.0%) • 1 DNFs (12.5%) - **ELO Impact: **<span style="color: green;">↑ +24</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi)**: 10 wins (62.5%) • 6 losses (37.5%) - **ELO Impact: **<span style="color: red;">↓ -31</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi) (1358)**: 5 wins (62.5%) • 2 losses (25.0%) • 1 DNFs (12.5%) • **Elo **<span style="color: green;">▲ +24</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi) (1542)**: 10 wins (62.5%) • 6 losses (37.5%) • **Elo **<span style="color: red;">▼ -31</span>****
+
 
 #### DNF Statistics
 
@@ -254,10 +275,17 @@
 
 📊 **[View Full 2000 Season Report](../seasons/2000-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1520 **<span style="color: green;">▲ +47</span>** | 1573 **<span style="color: red;">▼ -19</span>** | 1535 **<span style="color: green;">▲ +27</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button)**: 6 wins (46.2%) • 3 losses (23.1%) • 4 DNFs (30.8%) - **ELO Impact: **<span style="color: green;">↑ +46</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button)**: 11 wins (64.7%) • 6 losses (35.3%) - **ELO Impact: **<span style="color: red;">↓ -18</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1453)**: 6 wins (46.2%) • 3 losses (23.1%) • 4 DNFs (30.8%) • **Elo **<span style="color: green;">▲ +46</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1519)**: 11 wins (64.7%) • 6 losses (35.3%) • **Elo **<span style="color: red;">▼ -18</span>****
+
 
 #### DNF Statistics
 
@@ -323,10 +351,17 @@
 
 📊 **[View Full 2001 Season Report](../seasons/2001-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1495 **<span style="color: red;">▼ -25</span>** | 1520 **<span style="color: red;">▼ -53</span>** | 1502 **<span style="color: red;">▼ -33</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya)**: 4 wins (36.4%) • 3 losses (27.3%) • 4 DNFs (36.4%) - **ELO Impact: **<span style="color: red;">↓ -25</span>****
-- **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya)**: 11 wins (64.7%) • 6 losses (35.3%) - **ELO Impact: **<span style="color: red;">↓ -53</span>****
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1525)**: 4 wins (36.4%) • 3 losses (27.3%) • 4 DNFs (36.4%) • **Elo **<span style="color: red;">▼ -25</span>****
+- **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1553)**: 11 wins (64.7%) • 6 losses (35.3%) • **Elo **<span style="color: red;">▼ -53</span>****
+
 
 #### DNF Statistics
 
@@ -392,10 +427,17 @@
 
 📊 **[View Full 2002 Season Report](../seasons/2002-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1442 **<span style="color: red;">▼ -53</span>** | 1536 **<span style="color: green;">▲ +16</span>** | 1471 **<span style="color: red;">▼ -31</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya)**: 5 wins (31.3%) • 7 losses (43.8%) • 4 DNFs (25.0%) - **ELO Impact: **<span style="color: red;">↓ -52</span>****
-- **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya)**: 8 wins (47.1%) • 9 losses (52.9%) - **ELO Impact: **<span style="color: green;">↑ +18</span>****
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1578)**: 5 wins (31.3%) • 7 losses (43.8%) • 4 DNFs (25.0%) • **Elo **<span style="color: red;">▼ -52</span>****
+- **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1537)**: 8 wins (47.1%) • 9 losses (52.9%) • **Elo **<span style="color: green;">▲ +18</span>****
+
 
 #### DNF Statistics
 
@@ -461,10 +503,17 @@
 
 📊 **[View Full 2003 Season Report](../seasons/2003-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1442 ↔ 0 | 1544 **<span style="color: green;">▲ +8</span>** | 1472 **<span style="color: green;">▲ +1</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya)**: 6 wins (46.2%) • 7 losses (53.8%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -1</span>****
-- **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya)**: 9 wins (60.0%) • 6 losses (40.0%) - **ELO Impact: **<span style="color: green;">↑ +7</span>****
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1613)**: 6 wins (46.2%) • 7 losses (53.8%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -1</span>****
+- **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1577)**: 9 wins (60.0%) • 6 losses (40.0%) • **Elo **<span style="color: green;">▲ +7</span>****
+
 
 #### DNF Statistics
 
@@ -524,10 +573,17 @@
 
 📊 **[View Full 2004 Season Report](../seasons/2004-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1485 **<span style="color: green;">▲ +43</span>** | 1525 **<span style="color: red;">▼ -19</span>** | 1497 **<span style="color: green;">▲ +25</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya)**: 3 wins (27.3%) • 4 losses (36.4%) • 4 DNFs (36.4%) - **ELO Impact: **<span style="color: green;">↑ +44</span>****
-- **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya)**: 3 wins (25.0%) • 9 losses (75.0%) - **ELO Impact: **<span style="color: red;">↓ -19</span>****
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1661)**: 3 wins (27.3%) • 4 losses (36.4%) • 4 DNFs (36.4%) • **Elo **<span style="color: green;">▲ +44</span>****
+- **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1645)**: 3 wins (25.0%) • 9 losses (75.0%) • **Elo **<span style="color: red;">▼ -19</span>****
+
 
 #### DNF Statistics
 
@@ -578,10 +634,17 @@
 
 📊 **[View Full 2005 Season Report](../seasons/2005-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1653 **<span style="color: green;">▲ +168</span>** | 1585 **<span style="color: green;">▲ +60</span>** | 1632 **<span style="color: green;">▲ +135</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 8 wins (47.1%) • 9 losses (52.9%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +167</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 4 wins (22.2%) • 14 losses (77.8%) - **ELO Impact: **<span style="color: green;">↑ +59</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1508)**: 8 wins (47.1%) • 9 losses (52.9%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +167</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1665)**: 4 wins (22.2%) • 14 losses (77.8%) • **Elo **<span style="color: green;">▲ +59</span>****
+
 
 #### DNF Statistics
 
@@ -650,10 +713,17 @@
 
 📊 **[View Full 2006 Season Report](../seasons/2006-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1558 **<span style="color: red;">▼ -95</span>** | 1625 **<span style="color: green;">▲ +40</span>** | 1577 **<span style="color: red;">▼ -55</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 4 wins (28.6%) • 4 losses (28.6%) • 6 DNFs (42.9%) - **ELO Impact: **<span style="color: red;">↓ -95</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 9 wins (50.0%) • 9 losses (50.0%) - **ELO Impact: **<span style="color: green;">↑ +38</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1603)**: 4 wins (28.6%) • 4 losses (28.6%) • 6 DNFs (42.9%) • **Elo **<span style="color: red;">▼ -95</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1625)**: 9 wins (50.0%) • 9 losses (50.0%) • **Elo **<span style="color: green;">▲ +38</span>****
+
 
 #### DNF Statistics
 
@@ -722,10 +792,17 @@
 
 📊 **[View Full 2007 Season Report](../seasons/2007-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1540 **<span style="color: red;">▼ -18</span>** | 1529 **<span style="color: red;">▼ -96</span>** | 1535 **<span style="color: red;">▼ -42</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 6 wins (35.3%) • 8 losses (47.1%) • 3 DNFs (17.6%) - **ELO Impact: **<span style="color: red;">↓ -18</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 3 wins (17.6%) • 14 losses (82.4%) - **ELO Impact: **<span style="color: red;">↓ -97</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1621)**: 6 wins (35.3%) • 8 losses (47.1%) • 3 DNFs (17.6%) • **Elo **<span style="color: red;">▼ -18</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1721)**: 3 wins (17.6%) • 14 losses (82.4%) • **Elo **<span style="color: red;">▼ -97</span>****
+
 
 #### DNF Statistics
 

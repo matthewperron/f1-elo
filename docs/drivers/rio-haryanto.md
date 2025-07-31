@@ -43,10 +43,17 @@
 
 📊 **[View Full 2016 Season Report](../seasons/2016-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1382 **<span style="color: red;">▼ -118</span>** | 1441 **<span style="color: red;">▼ -59</span>** | 1399 **<span style="color: red;">▼ -101</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein)**: 1 wins (9.1%) • 9 losses (81.8%) • 1 DNFs (9.1%) - **ELO Impact: **<span style="color: red;">↓ -119</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein)**: 4 wins (33.3%) • 8 losses (66.7%) - **ELO Impact: **<span style="color: red;">↓ -60</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein) (1618)**: 1 wins (9.1%) • 9 losses (81.8%) • 1 DNFs (9.1%) • **Elo **<span style="color: red;">▼ -119</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein) (1559)**: 4 wins (33.3%) • 8 losses (66.7%) • **Elo **<span style="color: red;">▼ -60</span>****
+
 
 #### DNF Statistics
 

@@ -43,10 +43,17 @@
 
 📊 **[View Full 2021 Season Report](../seasons/2021-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1482 **<span style="color: red;">▼ -18</span>** | 1329 **<span style="color: red;">▼ -171</span>** | 1436 **<span style="color: red;">▼ -64</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher)**: 5 wins (23.8%) • 13 losses (61.9%) • 3 DNFs (14.3%) - **ELO Impact: **<span style="color: red;">↓ -19</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher)**: 3 wins (13.6%) • 19 losses (86.4%) - **ELO Impact: **<span style="color: red;">↓ -170</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher) (1518)**: 5 wins (23.8%) • 13 losses (61.9%) • 3 DNFs (14.3%) • **Elo **<span style="color: red;">▼ -19</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher) (1671)**: 3 wins (13.6%) • 19 losses (86.4%) • **Elo **<span style="color: red;">▼ -170</span>****
+
 
 #### DNF Statistics
 

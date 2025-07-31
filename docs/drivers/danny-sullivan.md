@@ -43,10 +43,17 @@
 
 📊 **[View Full 1983 Season Report](../seasons/1983-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1554 **<span style="color: green;">▲ +54</span>** | 1503 **<span style="color: green;">▲ +3</span>** | 1539 **<span style="color: green;">▲ +39</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)**: 4 wins (33.3%) • 2 losses (16.7%) • 6 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +54</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)**: 2 wins (13.3%) • 13 losses (86.7%) - **ELO Impact: **<span style="color: green;">↑ +4</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1580)**: 4 wins (33.3%) • 2 losses (16.7%) • 6 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +54</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1737)**: 2 wins (13.3%) • 13 losses (86.7%) • **Elo **<span style="color: green;">▲ +4</span>****
+
 
 #### DNF Statistics
 

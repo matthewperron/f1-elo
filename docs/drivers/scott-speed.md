@@ -44,10 +44,17 @@
 
 📊 **[View Full 2006 Season Report](../seasons/2006-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1548 **<span style="color: green;">▲ +48</span>** | 1409 **<span style="color: red;">▼ -91</span>** | 1504 **<span style="color: green;">▲ +4</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi)**: 8 wins (44.4%) • 7 losses (38.9%) • 3 DNFs (16.7%) - **ELO Impact: **<span style="color: green;">↑ +46</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi)**: 6 wins (33.3%) • 12 losses (66.7%) - **ELO Impact: **<span style="color: red;">↓ -93</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1454)**: 8 wins (44.4%) • 7 losses (38.9%) • 3 DNFs (16.7%) • **Elo **<span style="color: green;">▲ +46</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1477)**: 6 wins (33.3%) • 12 losses (66.7%) • **Elo **<span style="color: red;">▼ -93</span>****
+
 
 #### DNF Statistics
 
@@ -116,10 +123,17 @@
 
 📊 **[View Full 2007 Season Report](../seasons/2007-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1568 **<span style="color: green;">▲ +20</span>** | 1451 **<span style="color: green;">▲ +42</span>** | 1531 **<span style="color: green;">▲ +27</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi)**: 3 wins (42.9%) • 1 losses (14.3%) • 3 DNFs (42.9%) - **ELO Impact: **<span style="color: green;">↑ +21</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi)**: 4 wins (40.0%) • 6 losses (60.0%) - **ELO Impact: **<span style="color: green;">↑ +41</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1434)**: 3 wins (42.9%) • 1 losses (14.3%) • 3 DNFs (42.9%) • **Elo **<span style="color: green;">▲ +21</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1435)**: 4 wins (40.0%) • 6 losses (60.0%) • **Elo **<span style="color: green;">▲ +41</span>****
+
 
 #### DNF Statistics
 

@@ -45,10 +45,17 @@
 
 📊 **[View Full 1996 Season Report](../seasons/1996-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1462 **<span style="color: red;">▼ -38</span>** | 1501 **<span style="color: green;">▲ +1</span>** | 1474 **<span style="color: red;">▼ -26</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Pedro Lamy](pedro-lamy)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -38</span>****
-- **Qualifying vs [Pedro Lamy](pedro-lamy)**: 1 wins (50.0%) • 1 losses (50.0%) - **ELO Impact: **<span style="color: green;">↑ +1</span>****
+- **Races vs [Pedro Lamy](pedro-lamy) (1474)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -38</span>****
+- **Qualifying vs [Pedro Lamy](pedro-lamy) (1470)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo **<span style="color: green;">▲ +1</span>****
+
 
 #### DNF Statistics
 
@@ -69,10 +76,17 @@
 
 📊 **[View Full 1997 Season Report](../seasons/1997-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1472 **<span style="color: green;">▲ +10</span>** | 1339 **<span style="color: red;">▼ -162</span>** | 1432 **<span style="color: red;">▼ -42</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama)**: 3 wins (30.0%) • 2 losses (20.0%) • 5 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +10</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama)**: 2 wins (20.0%) • 8 losses (80.0%) - **ELO Impact: **<span style="color: red;">↓ -162</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) (1378)**: 3 wins (30.0%) • 2 losses (20.0%) • 5 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +10</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) (1508)**: 2 wins (20.0%) • 8 losses (80.0%) • **Elo **<span style="color: red;">▼ -162</span>****
+
 
 #### DNF Statistics
 
@@ -117,10 +131,17 @@
 
 📊 **[View Full 2001 Season Report](../seasons/2001-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1418 **<span style="color: red;">▼ -54</span>** | 1268 **<span style="color: red;">▼ -71</span>** | 1374 **<span style="color: red;">▼ -58</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 0 wins (0.0%) • 2 losses (22.2%) • 7 DNFs (77.8%) - **ELO Impact: **<span style="color: red;">↓ -53</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 2 wins (15.4%) • 11 losses (84.6%) - **ELO Impact: **<span style="color: red;">↓ -70</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1554)**: 0 wins (0.0%) • 2 losses (22.2%) • 7 DNFs (77.8%) • **Elo **<span style="color: red;">▼ -53</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1571)**: 2 wins (15.4%) • 11 losses (84.6%) • **Elo **<span style="color: red;">▼ -70</span>****
+
 
 #### DNF Statistics
 

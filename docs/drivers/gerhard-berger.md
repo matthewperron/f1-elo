@@ -56,10 +56,17 @@
 
 📊 **[View Full 1984 Season Report](../seasons/1984-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1500 ↔ 0 | 1546 **<span style="color: green;">▲ +46</span>** | 1514 **<span style="color: green;">▲ +14</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +46</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock) (1504)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](manfred-winkelhock) (1615)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +46</span>****
+
 
 #### DNF Statistics
 
@@ -77,10 +84,17 @@
 
 📊 **[View Full 1985 Season Report](../seasons/1985-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1530 **<span style="color: green;">▲ +30</span>** | 1555 **<span style="color: green;">▲ +9</span>** | 1538 **<span style="color: green;">▲ +24</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)**: 3 wins (23.1%) • 6 losses (46.2%) • 4 DNFs (30.8%) - **ELO Impact: **<span style="color: green;">↑ +30</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen)**: 5 wins (31.3%) • 11 losses (68.8%) - **ELO Impact: **<span style="color: green;">↑ +9</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) (1579)**: 3 wins (23.1%) • 6 losses (46.2%) • 4 DNFs (30.8%) • **Elo **<span style="color: green;">▲ +30</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) (1599)**: 5 wins (31.3%) • 11 losses (68.8%) • **Elo **<span style="color: green;">▲ +9</span>****
+
 
 #### DNF Statistics
 
@@ -143,10 +157,17 @@
 
 📊 **[View Full 1986 Season Report](../seasons/1986-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1478 **<span style="color: red;">▼ -52</span>** | 1609 **<span style="color: green;">▲ +54</span>** | 1518 **<span style="color: red;">▼ -20</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](teo-fabi)**: 2 wins (16.7%) • 3 losses (25.0%) • 7 DNFs (58.3%) - **ELO Impact: **<span style="color: red;">↓ -52</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](teo-fabi)**: 12 wins (75.0%) • 4 losses (25.0%) - **ELO Impact: **<span style="color: green;">↑ +55</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](teo-fabi) (1515)**: 2 wins (16.7%) • 3 losses (25.0%) • 7 DNFs (58.3%) • **Elo **<span style="color: red;">▼ -52</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Teo Fabi](teo-fabi) (1418)**: 12 wins (75.0%) • 4 losses (25.0%) • **Elo **<span style="color: green;">▲ +55</span>****
+
 
 #### DNF Statistics
 
@@ -209,10 +230,17 @@
 
 📊 **[View Full 1987 Season Report](../seasons/1987-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1570 **<span style="color: green;">▲ +92</span>** | 1789 **<span style="color: green;">▲ +180</span>** | 1636 **<span style="color: green;">▲ +118</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)**: 3 wins (25.0%) • 1 losses (8.3%) • 8 DNFs (66.7%) - **ELO Impact: **<span style="color: green;">↑ +91</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)**: 12 wins (75.0%) • 4 losses (25.0%) - **ELO Impact: **<span style="color: green;">↑ +180</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1523)**: 3 wins (25.0%) • 1 losses (8.3%) • 8 DNFs (66.7%) • **Elo **<span style="color: green;">▲ +91</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1515)**: 12 wins (75.0%) • 4 losses (25.0%) • **Elo **<span style="color: green;">▲ +180</span>****
+
 
 #### DNF Statistics
 
@@ -275,10 +303,17 @@
 
 📊 **[View Full 1988 Season Report](../seasons/1988-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1633 **<span style="color: green;">▲ +63</span>** | 1892 **<span style="color: green;">▲ +103</span>** | 1711 **<span style="color: green;">▲ +75</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)**: 7 wins (58.3%) • 2 losses (16.7%) • 3 DNFs (25.0%) - **ELO Impact: **<span style="color: green;">↑ +63</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)**: 16 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +103</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1460)**: 7 wins (58.3%) • 2 losses (16.7%) • 3 DNFs (25.0%) • **Elo **<span style="color: green;">▲ +63</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1412)**: 16 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +103</span>****
+
 
 #### DNF Statistics
 
@@ -341,10 +376,17 @@
 
 📊 **[View Full 1989 Season Report](../seasons/1989-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1545 **<span style="color: red;">▼ -88</span>** | 1975 **<span style="color: green;">▲ +83</span>** | 1674 **<span style="color: red;">▼ -37</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 0 wins (0.0%) • 4 losses (36.4%) • 7 DNFs (63.6%) - **ELO Impact: **<span style="color: red;">↓ -88</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell)**: 7 wins (50.0%) • 7 losses (50.0%) - **ELO Impact: **<span style="color: green;">↑ +83</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1761)**: 0 wins (0.0%) • 4 losses (36.4%) • 7 DNFs (63.6%) • **Elo **<span style="color: red;">▼ -88</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Nigel Mansell](nigel-mansell) (1918)**: 7 wins (50.0%) • 7 losses (50.0%) • **Elo **<span style="color: green;">▲ +83</span>****
+
 
 #### DNF Statistics
 
@@ -401,10 +443,17 @@
 
 📊 **[View Full 1990 Season Report](../seasons/1990-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1612 **<span style="color: green;">▲ +67</span>** | 1926 **<span style="color: red;">▼ -49</span>** | 1706 **<span style="color: green;">▲ +32</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna)**: 3 wins (23.1%) • 8 losses (61.5%) • 2 DNFs (15.4%) - **ELO Impact: **<span style="color: green;">↑ +67</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna)**: 4 wins (25.0%) • 12 losses (75.0%) - **ELO Impact: **<span style="color: red;">↓ -50</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1752)**: 3 wins (23.1%) • 8 losses (61.5%) • 2 DNFs (15.4%) • **Elo **<span style="color: green;">▲ +67</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (2202)**: 4 wins (25.0%) • 12 losses (75.0%) • **Elo **<span style="color: red;">▼ -50</span>****
+
 
 #### DNF Statistics
 
@@ -467,10 +516,17 @@
 
 📊 **[View Full 1991 Season Report](../seasons/1991-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1566 **<span style="color: red;">▼ -46</span>** | 1984 **<span style="color: green;">▲ +58</span>** | 1691 **<span style="color: red;">▼ -15</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna)**: 1 wins (7.1%) • 7 losses (50.0%) • 6 DNFs (42.9%) - **ELO Impact: **<span style="color: red;">↓ -46</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna)**: 3 wins (18.8%) • 13 losses (81.3%) - **ELO Impact: **<span style="color: green;">↑ +58</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1798)**: 1 wins (7.1%) • 7 losses (50.0%) • 6 DNFs (42.9%) • **Elo **<span style="color: red;">▼ -46</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (2144)**: 3 wins (18.8%) • 13 losses (81.3%) • **Elo **<span style="color: green;">▲ +58</span>****
+
 
 #### DNF Statistics
 
@@ -533,10 +589,17 @@
 
 📊 **[View Full 1992 Season Report](../seasons/1992-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1653 **<span style="color: green;">▲ +87</span>** | 1857 **<span style="color: red;">▼ -127</span>** | 1714 **<span style="color: green;">▲ +23</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna)**: 3 wins (25.0%) • 4 losses (33.3%) • 5 DNFs (41.7%) - **ELO Impact: **<span style="color: green;">↑ +87</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna)**: 1 wins (6.3%) • 15 losses (93.8%) - **ELO Impact: **<span style="color: red;">↓ -127</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1711)**: 3 wins (25.0%) • 4 losses (33.3%) • 5 DNFs (41.7%) • **Elo **<span style="color: green;">▲ +87</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (2271)**: 1 wins (6.3%) • 15 losses (93.8%) • **Elo **<span style="color: red;">▼ -127</span>****
+
 
 #### DNF Statistics
 
@@ -599,10 +662,17 @@
 
 📊 **[View Full 1993 Season Report](../seasons/1993-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1603 **<span style="color: red;">▼ -50</span>** | 1819 **<span style="color: red;">▼ -38</span>** | 1669 **<span style="color: red;">▼ -45</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 2 wins (16.7%) • 4 losses (33.3%) • 6 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -49</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 7 wins (43.8%) • 9 losses (56.3%) - **ELO Impact: **<span style="color: red;">↓ -37</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1690)**: 2 wins (16.7%) • 4 losses (33.3%) • 6 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -49</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1794)**: 7 wins (43.8%) • 9 losses (56.3%) • **Elo **<span style="color: red;">▼ -37</span>****
+
 
 #### DNF Statistics
 
@@ -665,13 +735,20 @@
 
 📊 **[View Full 1994 Season Report](../seasons/1994-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1725 **<span style="color: green;">▲ +122</span>** | 1792 **<span style="color: red;">▼ -27</span>** | 1747 **<span style="color: green;">▲ +78</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 4 wins (33.3%) • 1 losses (8.3%) • 7 DNFs (58.3%) - **ELO Impact: **<span style="color: green;">↑ +96</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 6 wins (42.9%) • 8 losses (57.1%) - **ELO Impact: **<span style="color: red;">↓ -62</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1595)**: 4 wins (33.3%) • 1 losses (8.3%) • 7 DNFs (58.3%) • **Elo **<span style="color: green;">▲ +96</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1856)**: 6 wins (42.9%) • 8 losses (57.1%) • **Elo **<span style="color: red;">▼ -62</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nicola Larini](nicola-larini)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +27</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nicola Larini](nicola-larini)**: 2 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +35</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nicola Larini](nicola-larini) (1521)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +27</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Nicola Larini](nicola-larini) (1600)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +35</span>****
+
 
 #### DNF Statistics
 
@@ -734,10 +811,17 @@
 
 📊 **[View Full 1995 Season Report](../seasons/1995-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1694 **<span style="color: red;">▼ -31</span>** | 1889 **<span style="color: green;">▲ +97</span>** | 1754 **<span style="color: green;">▲ +7</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 4 wins (28.6%) • 4 losses (28.6%) • 6 DNFs (42.9%) - **ELO Impact: **<span style="color: red;">↓ -31</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 12 wins (70.6%) • 5 losses (29.4%) - **ELO Impact: **<span style="color: green;">↑ +96</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1626)**: 4 wins (28.6%) • 4 losses (28.6%) • 6 DNFs (42.9%) • **Elo **<span style="color: red;">▼ -31</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1759)**: 12 wins (70.6%) • 5 losses (29.4%) • **Elo **<span style="color: green;">▲ +96</span>****
+
 
 #### DNF Statistics
 
@@ -803,10 +887,17 @@
 
 📊 **[View Full 1996 Season Report](../seasons/1996-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1630 **<span style="color: red;">▼ -64</span>** | 1770 **<span style="color: red;">▼ -119</span>** | 1674 **<span style="color: red;">▼ -80</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 4 wins (26.7%) • 5 losses (33.3%) • 6 DNFs (40.0%) - **ELO Impact: **<span style="color: red;">↓ -65</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 3 wins (18.8%) • 13 losses (81.3%) - **ELO Impact: **<span style="color: red;">↓ -116</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1690)**: 4 wins (26.7%) • 5 losses (33.3%) • 6 DNFs (40.0%) • **Elo **<span style="color: red;">▼ -65</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1878)**: 3 wins (18.8%) • 13 losses (81.3%) • **Elo **<span style="color: red;">▼ -116</span>****
+
 
 #### DNF Statistics
 
@@ -869,10 +960,17 @@
 
 📊 **[View Full 1997 Season Report](../seasons/1997-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1689 **<span style="color: green;">▲ +59</span>** | 1821 **<span style="color: green;">▲ +51</span>** | 1730 **<span style="color: green;">▲ +56</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 8 wins (61.5%) • 5 losses (38.5%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +58</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 7 wins (50.0%) • 7 losses (50.0%) - **ELO Impact: **<span style="color: green;">↑ +52</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1664)**: 8 wins (61.5%) • 5 losses (38.5%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +58</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1721)**: 7 wins (50.0%) • 7 losses (50.0%) • **Elo **<span style="color: green;">▲ +52</span>****
+
 
 #### DNF Statistics
 

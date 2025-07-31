@@ -48,10 +48,17 @@
 
 📊 **[View Full 2004 Season Report](../seasons/2004-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1516 **<span style="color: green;">▲ +16</span>** | 1437 **<span style="color: red;">▼ -63</span>** | 1492 **<span style="color: red;">▼ -8</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld)**: 1 wins (33.3%) • 2 losses (66.7%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +16</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld)**: 0 wins (0.0%) • 4 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -64</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1747)**: 1 wins (33.3%) • 2 losses (66.7%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +16</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1691)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo **<span style="color: red;">▼ -64</span>****
+
 
 #### DNF Statistics
 
@@ -78,10 +85,17 @@
 
 📊 **[View Full 2008 Season Report](../seasons/2008-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1640 **<span style="color: green;">▲ +124</span>** | 1462 **<span style="color: green;">▲ +25</span>** | 1586 **<span style="color: green;">▲ +94</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 7 wins (43.8%) • 7 losses (43.8%) • 2 DNFs (12.5%) - **ELO Impact: **<span style="color: green;">↑ +123</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 4 wins (22.2%) • 14 losses (77.8%) - **ELO Impact: **<span style="color: green;">↑ +25</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1497)**: 7 wins (43.8%) • 7 losses (43.8%) • 2 DNFs (12.5%) • **Elo **<span style="color: green;">▲ +123</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1696)**: 4 wins (22.2%) • 14 losses (77.8%) • **Elo **<span style="color: green;">▲ +25</span>****
+
 
 #### DNF Statistics
 
@@ -150,10 +164,17 @@
 
 📊 **[View Full 2009 Season Report](../seasons/2009-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1636 **<span style="color: red;">▼ -4</span>** | 1489 **<span style="color: green;">▲ +27</span>** | 1592 **<span style="color: green;">▲ +6</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 8 wins (57.1%) • 5 losses (35.7%) • 1 DNFs (7.1%) - **ELO Impact: **<span style="color: red;">↓ -4</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 4 wins (26.7%) • 11 losses (73.3%) - **ELO Impact: **<span style="color: green;">↑ +28</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1501)**: 8 wins (57.1%) • 5 losses (35.7%) • 1 DNFs (7.1%) • **Elo **<span style="color: red;">▼ -4</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1669)**: 4 wins (26.7%) • 11 losses (73.3%) • **Elo **<span style="color: green;">▲ +28</span>****
+
 
 #### DNF Statistics
 
@@ -213,10 +234,17 @@
 
 📊 **[View Full 2010 Season Report](../seasons/2010-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1636 ↔ 0 | 1609 **<span style="color: green;">▲ +120</span>** | 1628 **<span style="color: green;">▲ +36</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Lucas di Grassi](lucas-di-grassi)**: 5 wins (33.3%) • 3 losses (20.0%) • 7 DNFs (46.7%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Lucas di Grassi](lucas-di-grassi)**: 16 wins (84.2%) • 3 losses (15.8%) - **ELO Impact: **<span style="color: green;">↑ +119</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Lucas di Grassi](lucas-di-grassi) (1500)**: 5 wins (33.3%) • 3 losses (20.0%) • 7 DNFs (46.7%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Lucas di Grassi](lucas-di-grassi) (1380)**: 16 wins (84.2%) • 3 losses (15.8%) • **Elo **<span style="color: green;">▲ +119</span>****
+
 
 #### DNF Statistics
 
@@ -288,10 +316,17 @@
 
 📊 **[View Full 2011 Season Report](../seasons/2011-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1593 **<span style="color: red;">▼ -43</span>** | 1611 **<span style="color: green;">▲ +2</span>** | 1599 **<span style="color: red;">▼ -29</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jérôme d'Ambrosio](jrme-dambrosio)**: 8 wins (47.1%) • 5 losses (29.4%) • 4 DNFs (23.5%) - **ELO Impact: **<span style="color: red;">↓ -43</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jérôme d'Ambrosio](jrme-dambrosio)**: 15 wins (78.9%) • 4 losses (21.1%) - **ELO Impact: **<span style="color: green;">↑ +2</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jérôme d'Ambrosio](jrme-dambrosio) (1543)**: 8 wins (47.1%) • 5 losses (29.4%) • 4 DNFs (23.5%) • **Elo **<span style="color: red;">▼ -43</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jérôme d'Ambrosio](jrme-dambrosio) (1498)**: 15 wins (78.9%) • 4 losses (21.1%) • **Elo **<span style="color: green;">▲ +2</span>****
+
 
 #### DNF Statistics
 
@@ -363,10 +398,17 @@
 
 📊 **[View Full 2012 Season Report](../seasons/2012-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1556 **<span style="color: red;">▼ -37</span>** | 1661 **<span style="color: green;">▲ +50</span>** | 1589 **<span style="color: red;">▼ -10</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic)**: 8 wins (53.3%) • 5 losses (33.3%) • 2 DNFs (13.3%) - **ELO Impact: **<span style="color: red;">↓ -36</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic)**: 14 wins (70.0%) • 6 losses (30.0%) - **ELO Impact: **<span style="color: green;">↑ +50</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic) (1537)**: 8 wins (53.3%) • 5 losses (33.3%) • 2 DNFs (13.3%) • **Elo **<span style="color: red;">▼ -36</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic) (1450)**: 14 wins (70.0%) • 6 losses (30.0%) • **Elo **<span style="color: green;">▲ +50</span>****
+
 
 #### DNF Statistics
 

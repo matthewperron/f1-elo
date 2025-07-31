@@ -35,10 +35,17 @@
 
 📊 **[View Full 1950 Season Report](../seasons/1950-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1500 ↔ 0 | 1532 **<span style="color: green;">▲ +32</span>** | 1510 **<span style="color: green;">▲ +10</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Joe Kelly](joe-kelly)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [Joe Kelly](joe-kelly)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +32</span>****
+- **Races vs [Joe Kelly](joe-kelly) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [Joe Kelly](joe-kelly) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +32</span>****
+
 
 #### DNF Statistics
 

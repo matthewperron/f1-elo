@@ -51,10 +51,17 @@
 
 📊 **[View Full 2016 Season Report](../seasons/2016-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1610 **<span style="color: green;">▲ +110</span>** | 1428 **<span style="color: red;">▼ -72</span>** | 1554 **<span style="color: green;">▲ +54</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein)**: 5 wins (62.5%) • 3 losses (37.5%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +109</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein)**: 2 wins (22.2%) • 7 losses (77.8%) - **ELO Impact: **<span style="color: red;">↓ -73</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein) (1508)**: 5 wins (62.5%) • 3 losses (37.5%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +109</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein) (1631)**: 2 wins (22.2%) • 7 losses (77.8%) • **Elo **<span style="color: red;">▼ -73</span>****
+
 
 #### DNF Statistics
 
@@ -96,10 +103,17 @@
 
 📊 **[View Full 2017 Season Report](../seasons/2017-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1590 **<span style="color: red;">▼ -20</span>** | 1509 **<span style="color: green;">▲ +81</span>** | 1564 **<span style="color: green;">▲ +10</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez)**: 6 wins (33.3%) • 12 losses (66.7%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -20</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez)**: 7 wins (35.0%) • 13 losses (65.0%) - **ELO Impact: **<span style="color: green;">↑ +81</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1659)**: 6 wins (33.3%) • 12 losses (66.7%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -20</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1552)**: 7 wins (35.0%) • 13 losses (65.0%) • **Elo **<span style="color: green;">▲ +81</span>****
+
 
 #### DNF Statistics
 
@@ -174,10 +188,17 @@
 
 📊 **[View Full 2018 Season Report](../seasons/2018-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1593 **<span style="color: green;">▲ +3</span>** | 1596 **<span style="color: green;">▲ +87</span>** | 1593 **<span style="color: green;">▲ +29</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez)**: 9 wins (47.4%) • 7 losses (36.8%) • 3 DNFs (15.8%) - **ELO Impact: **<span style="color: green;">↑ +4</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez)**: 15 wins (71.4%) • 6 losses (28.6%) - **ELO Impact: **<span style="color: green;">↑ +87</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1656)**: 9 wins (47.4%) • 7 losses (36.8%) • 3 DNFs (15.8%) • **Elo **<span style="color: green;">▲ +4</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Sergio Pérez](sergio-prez) (1465)**: 15 wins (71.4%) • 6 losses (28.6%) • **Elo **<span style="color: green;">▲ +87</span>****
+
 
 #### DNF Statistics
 
@@ -255,10 +276,17 @@
 
 📊 **[View Full 2020 Season Report](../seasons/2020-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1515 **<span style="color: red;">▼ -78</span>** | 1517 **<span style="color: red;">▼ -79</span>** | 1516 **<span style="color: red;">▼ -77</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo)**: 3 wins (18.8%) • 9 losses (56.3%) • 4 DNFs (25.0%) - **ELO Impact: **<span style="color: red;">↓ -76</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo)**: 2 wins (11.8%) • 15 losses (88.2%) - **ELO Impact: **<span style="color: red;">↓ -79</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1657)**: 3 wins (18.8%) • 9 losses (56.3%) • 4 DNFs (25.0%) • **Elo **<span style="color: red;">▼ -76</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1811)**: 2 wins (11.8%) • 15 losses (88.2%) • **Elo **<span style="color: red;">▼ -79</span>****
+
 
 #### DNF Statistics
 
@@ -324,10 +352,17 @@
 
 📊 **[View Full 2021 Season Report](../seasons/2021-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1621 **<span style="color: green;">▲ +106</span>** | 1747 **<span style="color: green;">▲ +230</span>** | 1659 **<span style="color: green;">▲ +143</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 9 wins (42.9%) • 10 losses (47.6%) • 2 DNFs (9.5%) - **ELO Impact: **<span style="color: green;">↑ +105</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 11 wins (50.0%) • 11 losses (50.0%) - **ELO Impact: **<span style="color: green;">↑ +231</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1693)**: 9 wins (42.9%) • 10 losses (47.6%) • 2 DNFs (9.5%) • **Elo **<span style="color: green;">▲ +105</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1687)**: 11 wins (50.0%) • 11 losses (50.0%) • **Elo **<span style="color: green;">▲ +231</span>****
+
 
 #### DNF Statistics
 
@@ -408,10 +443,17 @@
 
 📊 **[View Full 2022 Season Report](../seasons/2022-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1583 **<span style="color: red;">▼ -38</span>** | 1726 **<span style="color: red;">▼ -21</span>** | 1626 **<span style="color: red;">▼ -33</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 8 wins (44.4%) • 8 losses (44.4%) • 2 DNFs (11.1%) - **ELO Impact: **<span style="color: red;">↓ -38</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)**: 9 wins (40.9%) • 13 losses (59.1%) - **ELO Impact: **<span style="color: red;">↓ -22</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1731)**: 8 wins (44.4%) • 8 losses (44.4%) • 2 DNFs (11.1%) • **Elo **<span style="color: red;">▼ -38</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1708)**: 9 wins (40.9%) • 13 losses (59.1%) • **Elo **<span style="color: red;">▼ -22</span>****
+
 
 #### DNF Statistics
 
@@ -492,10 +534,17 @@
 
 📊 **[View Full 2023 Season Report](../seasons/2023-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1650 **<span style="color: green;">▲ +67</span>** | 1501 **<span style="color: red;">▼ -225</span>** | 1604 **<span style="color: red;">▼ -22</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly)**: 10 wins (45.5%) • 6 losses (27.3%) • 6 DNFs (27.3%) - **ELO Impact: **<span style="color: green;">↑ +65</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly)**: 8 wins (36.4%) • 14 losses (63.6%) - **ELO Impact: **<span style="color: red;">↓ -225</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1487)**: 10 wins (45.5%) • 6 losses (27.3%) • 6 DNFs (27.3%) • **Elo **<span style="color: green;">▲ +65</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1696)**: 8 wins (36.4%) • 14 losses (63.6%) • **Elo **<span style="color: red;">▼ -225</span>****
+
 
 #### DNF Statistics
 
@@ -576,10 +625,17 @@
 
 📊 **[View Full 2024 Season Report](../seasons/2024-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1564 **<span style="color: red;">▼ -86</span>** | 1530 **<span style="color: green;">▲ +29</span>** | 1552 **<span style="color: red;">▼ -52</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly)**: 9 wins (47.4%) • 8 losses (42.1%) • 2 DNFs (10.5%) - **ELO Impact: **<span style="color: red;">↓ -87</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly)**: 12 wins (52.2%) • 11 losses (47.8%) - **ELO Impact: **<span style="color: green;">↑ +30</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1573)**: 9 wins (47.4%) • 8 losses (42.1%) • 2 DNFs (10.5%) • **Elo **<span style="color: red;">▼ -87</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1667)**: 12 wins (52.2%) • 11 losses (47.8%) • **Elo **<span style="color: green;">▲ +30</span>****
+
 
 #### DNF Statistics
 
@@ -663,10 +719,17 @@
 
 📊 **[View Full 2025 Season Report](../seasons/2025-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1555 **<span style="color: red;">▼ -9</span>** | 1588 **<span style="color: green;">▲ +58</span>** | 1563 **<span style="color: green;">▲ +11</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman](oliver-bearman)**: 7 wins (58.3%) • 4 losses (33.3%) • 1 DNFs (8.3%) - **ELO Impact: **<span style="color: red;">↓ -9</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman](oliver-bearman)**: 8 wins (61.5%) • 5 losses (38.5%) - **ELO Impact: **<span style="color: green;">↑ +59</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman](oliver-bearman) (1528)**: 7 wins (58.3%) • 4 losses (33.3%) • 1 DNFs (8.3%) • **Elo **<span style="color: red;">▼ -9</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman](oliver-bearman) (1521)**: 8 wins (61.5%) • 5 losses (38.5%) • **Elo **<span style="color: green;">▲ +59</span>****
+
 
 #### DNF Statistics
 

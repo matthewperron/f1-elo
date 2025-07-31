@@ -48,10 +48,17 @@
 
 📊 **[View Full 1992 Season Report](../seasons/1992-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1506 **<span style="color: green;">▲ +6</span>** | 1340 **<span style="color: red;">▼ -160</span>** | 1458 **<span style="color: red;">▼ -42</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot)**: 3 wins (27.3%) • 2 losses (18.2%) • 6 DNFs (54.5%) - **ELO Impact: **<span style="color: green;">↑ +8</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot)**: 4 wins (28.6%) • 10 losses (71.4%) - **ELO Impact: **<span style="color: red;">↓ -159</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot) (1388)**: 3 wins (27.3%) • 2 losses (18.2%) • 6 DNFs (54.5%) • **Elo **<span style="color: green;">▲ +8</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot) (1587)**: 4 wins (28.6%) • 10 losses (71.4%) • **Elo **<span style="color: red;">▼ -159</span>****
+
 
 #### DNF Statistics
 
@@ -108,10 +115,17 @@
 
 📊 **[View Full 1993 Season Report](../seasons/1993-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1529 **<span style="color: green;">▲ +23</span>** | 1435 **<span style="color: green;">▲ +95</span>** | 1502 **<span style="color: green;">▲ +44</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris)**: 2 wins (18.2%) • 2 losses (18.2%) • 7 DNFs (63.6%) - **ELO Impact: **<span style="color: green;">↑ +23</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris)**: 6 wins (37.5%) • 10 losses (62.5%) - **ELO Impact: **<span style="color: green;">↑ +94</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1639)**: 2 wins (18.2%) • 2 losses (18.2%) • 7 DNFs (63.6%) • **Elo **<span style="color: green;">▲ +23</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1669)**: 6 wins (37.5%) • 10 losses (62.5%) • **Elo **<span style="color: green;">▲ +94</span>****
+
 
 #### DNF Statistics
 
@@ -174,10 +188,17 @@
 
 📊 **[View Full 1994 Season Report](../seasons/1994-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1499 **<span style="color: red;">▼ -30</span>** | 1459 **<span style="color: green;">▲ +24</span>** | 1489 **<span style="color: red;">▼ -13</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mark Blundell](mark-blundell)**: 4 wins (28.6%) • 4 losses (28.6%) • 6 DNFs (42.9%) - **ELO Impact: **<span style="color: red;">↓ -29</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mark Blundell](mark-blundell)**: 11 wins (68.8%) • 5 losses (31.3%) - **ELO Impact: **<span style="color: green;">↑ +24</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mark Blundell](mark-blundell) (1510)**: 4 wins (28.6%) • 4 losses (28.6%) • 6 DNFs (42.9%) • **Elo **<span style="color: red;">▼ -29</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mark Blundell](mark-blundell) (1405)**: 11 wins (68.8%) • 5 losses (31.3%) • **Elo **<span style="color: green;">▲ +24</span>****
+
 
 #### DNF Statistics
 
@@ -240,10 +261,17 @@
 
 📊 **[View Full 1995 Season Report](../seasons/1995-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1385 **<span style="color: red;">▼ -114</span>** | 1344 **<span style="color: red;">▼ -115</span>** | 1375 **<span style="color: red;">▼ -114</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo)**: 1 wins (8.3%) • 7 losses (58.3%) • 4 DNFs (33.3%) - **ELO Impact: **<span style="color: red;">↓ -113</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo)**: 4 wins (25.0%) • 12 losses (75.0%) - **ELO Impact: **<span style="color: red;">↓ -115</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1659)**: 1 wins (8.3%) • 7 losses (58.3%) • 4 DNFs (33.3%) • **Elo **<span style="color: red;">▼ -113</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1585)**: 4 wins (25.0%) • 12 losses (75.0%) • **Elo **<span style="color: red;">▼ -115</span>****
+
 
 #### DNF Statistics
 
@@ -306,10 +334,17 @@
 
 📊 **[View Full 1996 Season Report](../seasons/1996-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1379 **<span style="color: red;">▼ -6</span>** | 1440 **<span style="color: green;">▲ +96</span>** | 1400 **<span style="color: green;">▲ +25</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo)**: 1 wins (7.7%) • 6 losses (46.2%) • 6 DNFs (46.2%) - **ELO Impact: **<span style="color: red;">↓ -7</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo)**: 5 wins (31.3%) • 11 losses (68.8%) - **ELO Impact: **<span style="color: green;">↑ +98</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1665)**: 1 wins (7.7%) • 6 losses (46.2%) • 6 DNFs (46.2%) • **Elo **<span style="color: red;">▼ -7</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1489)**: 5 wins (31.3%) • 11 losses (68.8%) • **Elo **<span style="color: green;">▲ +98</span>****
+
 
 #### DNF Statistics
 
@@ -372,13 +407,20 @@
 
 📊 **[View Full 1997 Season Report](../seasons/1997-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1378 **<span style="color: red;">▼ -1</span>** | 1508 **<span style="color: green;">▲ +68</span>** | 1420 **<span style="color: green;">▲ +20</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 1 wins (20.0%) • 2 losses (40.0%) • 2 DNFs (40.0%) - **ELO Impact: **<span style="color: green;">↑ +10</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli)**: 1 wins (14.3%) • 6 losses (85.7%) - **ELO Impact: **<span style="color: red;">↓ -95</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1491)**: 1 wins (20.0%) • 2 losses (40.0%) • 2 DNFs (40.0%) • **Elo **<span style="color: green;">▲ +10</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1595)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo **<span style="color: red;">▼ -95</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques](tarso-marques)**: 2 wins (28.6%) • 3 losses (42.9%) • 2 DNFs (28.6%) - **ELO Impact: **<span style="color: red;">↓ -10</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques](tarso-marques)**: 8 wins (80.0%) • 2 losses (20.0%) - **ELO Impact: **<span style="color: green;">↑ +162</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques](tarso-marques) (1472)**: 2 wins (28.6%) • 3 losses (42.9%) • 2 DNFs (28.6%) • **Elo **<span style="color: red;">▼ -10</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Tarso Marques](tarso-marques) (1339)**: 8 wins (80.0%) • 2 losses (20.0%) • **Elo **<span style="color: green;">▲ +162</span>****
+
 
 #### DNF Statistics
 

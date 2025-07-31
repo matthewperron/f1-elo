@@ -44,10 +44,17 @@
 
 📊 **[View Full 1996 Season Report](../seasons/1996-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1479 **<span style="color: red;">▼ -21</span>** | 1322 **<span style="color: red;">▼ -178</span>** | 1432 **<span style="color: red;">▼ -68</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)**: 4 wins (40.0%) • 3 losses (30.0%) • 3 DNFs (30.0%) - **ELO Impact: **<span style="color: red;">↓ -21</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)**: 0 wins (0.0%) • 16 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -179</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1480)**: 4 wins (40.0%) • 3 losses (30.0%) • 3 DNFs (30.0%) • **Elo **<span style="color: red;">▼ -21</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1751)**: 0 wins (0.0%) • 16 losses (100.0%) • **Elo **<span style="color: red;">▼ -179</span>****
+
 
 #### DNF Statistics
 
@@ -110,10 +117,17 @@
 
 📊 **[View Full 1998 Season Report](../seasons/1998-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1417 **<span style="color: red;">▼ -62</span>** | 1307 **<span style="color: red;">▼ -15</span>** | 1383 **<span style="color: red;">▼ -49</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi](toranosuke-takagi)**: 1 wins (10.0%) • 4 losses (40.0%) • 5 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -63</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi](toranosuke-takagi)**: 2 wins (18.2%) • 9 losses (81.8%) - **ELO Impact: **<span style="color: red;">↓ -15</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi](toranosuke-takagi) (1562)**: 1 wins (10.0%) • 4 losses (40.0%) • 5 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -63</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi](toranosuke-takagi) (1515)**: 2 wins (18.2%) • 9 losses (81.8%) • **Elo **<span style="color: red;">▼ -15</span>****
+
 
 #### DNF Statistics
 

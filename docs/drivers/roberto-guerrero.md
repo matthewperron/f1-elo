@@ -43,10 +43,17 @@
 
 📊 **[View Full 1983 Season Report](../seasons/1983-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1442 **<span style="color: red;">▼ -58</span>** | 1561 **<span style="color: green;">▲ +61</span>** | 1478 **<span style="color: red;">▼ -22</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Johnny Cecotto](johnny-cecotto)**: 0 wins (0.0%) • 2 losses (22.2%) • 7 DNFs (77.8%) - **ELO Impact: **<span style="color: red;">↓ -58</span>****
-- **Qualifying vs [Johnny Cecotto](johnny-cecotto)**: 6 wins (66.7%) • 3 losses (33.3%) - **ELO Impact: **<span style="color: green;">↑ +61</span>****
+- **Races vs [Johnny Cecotto](johnny-cecotto) (1558)**: 0 wins (0.0%) • 2 losses (22.2%) • 7 DNFs (77.8%) • **Elo **<span style="color: red;">▼ -58</span>****
+- **Qualifying vs [Johnny Cecotto](johnny-cecotto) (1439)**: 6 wins (66.7%) • 3 losses (33.3%) • **Elo **<span style="color: green;">▲ +61</span>****
+
 
 #### DNF Statistics
 

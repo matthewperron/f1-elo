@@ -43,10 +43,17 @@
 
 📊 **[View Full 1986 Season Report](../seasons/1986-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1468 **<span style="color: red;">▼ -32</span>** | 1365 **<span style="color: red;">▼ -135</span>** | 1437 **<span style="color: red;">▼ -63</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)**: 0 wins (0.0%) • 1 losses (12.5%) • 7 DNFs (87.5%) - **ELO Impact: **<span style="color: red;">↓ -32</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)**: 0 wins (0.0%) • 9 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -135</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1535)**: 0 wins (0.0%) • 1 losses (12.5%) • 7 DNFs (87.5%) • **Elo **<span style="color: red;">▼ -32</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1714)**: 0 wins (0.0%) • 9 losses (100.0%) • **Elo **<span style="color: red;">▼ -135</span>****
+
 
 #### DNF Statistics
 

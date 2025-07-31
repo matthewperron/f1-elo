@@ -43,10 +43,17 @@
 
 📊 **[View Full 1994 Season Report](../seasons/1994-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1484 **<span style="color: red;">▼ -16</span>** | 1375 **<span style="color: red;">▼ -125</span>** | 1452 **<span style="color: red;">▼ -48</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas)**: 1 wins (11.1%) • 3 losses (33.3%) • 5 DNFs (55.6%) - **ELO Impact: **<span style="color: red;">↓ -15</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas)**: 0 wins (0.0%) • 10 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -126</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1661)**: 1 wins (11.1%) • 3 losses (33.3%) • 5 DNFs (55.6%) • **Elo **<span style="color: red;">▼ -15</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1744)**: 0 wins (0.0%) • 10 losses (100.0%) • **Elo **<span style="color: red;">▼ -126</span>****
+
 
 #### DNF Statistics
 

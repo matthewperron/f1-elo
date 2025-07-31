@@ -45,13 +45,20 @@
 
 📊 **[View Full 2009 Season Report](../seasons/2009-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1521 **<span style="color: green;">▲ +21</span>** | 1617 **<span style="color: green;">▲ +117</span>** | 1550 **<span style="color: green;">▲ +50</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Sébastien Bourdais](sbastien-bourdais)**: 5 wins (62.5%) • 3 losses (37.5%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -19</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Sébastien Bourdais](sbastien-bourdais)**: 7 wins (77.8%) • 2 losses (22.2%) - **ELO Impact: **<span style="color: green;">↑ +25</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Sébastien Bourdais](sbastien-bourdais) (1341)**: 5 wins (62.5%) • 3 losses (37.5%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -19</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Sébastien Bourdais](sbastien-bourdais) (1327)**: 7 wins (77.8%) • 2 losses (22.2%) • **Elo **<span style="color: green;">▲ +25</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari)**: 2 wins (33.3%) • 1 losses (16.7%) • 3 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +41</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari)**: 7 wins (87.5%) • 1 losses (12.5%) - **ELO Impact: **<span style="color: green;">↑ +92</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1459)**: 2 wins (33.3%) • 1 losses (16.7%) • 3 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +41</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1407)**: 7 wins (87.5%) • 1 losses (12.5%) • **Elo **<span style="color: green;">▲ +92</span>****
+
 
 #### DNF Statistics
 
@@ -117,10 +124,17 @@
 
 📊 **[View Full 2010 Season Report](../seasons/2010-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1432 **<span style="color: red;">▼ -89</span>** | 1434 **<span style="color: red;">▼ -183</span>** | 1433 **<span style="color: red;">▼ -117</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari)**: 6 wins (35.3%) • 9 losses (52.9%) • 2 DNFs (11.8%) - **ELO Impact: **<span style="color: red;">↓ -88</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari)**: 11 wins (57.9%) • 8 losses (42.1%) - **ELO Impact: **<span style="color: red;">↓ -185</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1548)**: 6 wins (35.3%) • 9 losses (52.9%) • 2 DNFs (11.8%) • **Elo **<span style="color: red;">▼ -88</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1590)**: 11 wins (57.9%) • 8 losses (42.1%) • **Elo **<span style="color: red;">▼ -185</span>****
+
 
 #### DNF Statistics
 
@@ -192,10 +206,17 @@
 
 📊 **[View Full 2011 Season Report](../seasons/2011-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1429 **<span style="color: red;">▼ -3</span>** | 1534 **<span style="color: green;">▲ +100</span>** | 1461 **<span style="color: green;">▲ +28</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari)**: 7 wins (38.9%) • 7 losses (38.9%) • 4 DNFs (22.2%) - **ELO Impact: **<span style="color: red;">↓ -3</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari)**: 12 wins (63.2%) • 7 losses (36.8%) - **ELO Impact: **<span style="color: green;">↑ +100</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1551)**: 7 wins (38.9%) • 7 losses (38.9%) • 4 DNFs (22.2%) • **Elo **<span style="color: red;">▼ -3</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1490)**: 12 wins (63.2%) • 7 losses (36.8%) • **Elo **<span style="color: green;">▲ +100</span>****
+
 
 #### DNF Statistics
 

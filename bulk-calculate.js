@@ -245,11 +245,11 @@ function formatEloWithDelta(finalElo, eloChange) {
         return `${finalElo} ↔ 0`;
     }
     
-    const arrow = eloChange > 0 ? '↑' : '↓';
+    const arrow = eloChange > 0 ? '▲' : '▼';
     const color = eloChange > 0 ? 'green' : 'red';
     const sign = eloChange > 0 ? '+' : '';
     
-    return `${finalElo} **<span style="color: ${color};">${finalElo} ${arrow} ${sign}${eloChange}</span>**`;
+    return `${finalElo} **<span style="color: ${color};">${arrow} ${sign}${eloChange}</span>**`;
 }
 
 /**
@@ -479,21 +479,28 @@ async function generateComprehensiveDriverFiles() {
         
         content += `\n`;
         
-        // Fill in teammate data by matching opposite entries
+        // Fill in teammate data by finding teammate results in allDriverResults
         sortedResults.forEach(result => {
-            // Find teammate's corresponding result for the same round and session
-            const teammateResult = sortedResults.find(r => 
-                r.season === result.season &&
-                r.round === result.round && 
-                r.session === result.session && 
-                r.teammate === driverData.driverName &&
-                r.constructor === result.constructor
-            );
+            if (!result.teammate) return;
             
-            if (teammateResult) {
-                result.teammateStartingElo = teammateResult.startingElo;
-                result.teammateEloChange = teammateResult.eloChange;
-                result.teammateNewElo = teammateResult.newElo;
+            // Find the teammate's driver data
+            const teammateDriverData = Array.from(allDriverResults.values())
+                .find(d => d.driverName === result.teammate);
+            
+            if (teammateDriverData) {
+                // Find teammate's corresponding result for the same round and session
+                const teammateResult = teammateDriverData.allResults.find(r => 
+                    r.season === result.season &&
+                    r.round === result.round && 
+                    r.session === result.session &&
+                    r.constructor === result.constructor
+                );
+                
+                if (teammateResult) {
+                    result.teammateStartingElo = teammateResult.startingElo;
+                    result.teammateEloChange = teammateResult.eloChange;
+                    result.teammateNewElo = teammateResult.newElo;
+                }
             }
         });
         
@@ -511,6 +518,29 @@ async function generateComprehensiveDriverFiles() {
             const teammateStats = calculateTeammateStats(driverData.driverName, seasonResults, null);
             const dnfStats = calculateDNFStats(driverData.driverName, seasonResults);
             
+            // Calculate season ELO changes
+            const raceResults = seasonResults.filter(r => r.session === 'race');
+            const qualResults = seasonResults.filter(r => r.session === 'qualifying');
+            const globalResults = seasonResults.filter(r => r.session === 'global');
+            
+            const getSeasonEloSummary = (results) => {
+                if (results.length === 0) return { startElo: 1500, endElo: 1500, change: 0 };
+                const startElo = results[0].startingElo;
+                const endElo = results[results.length - 1].newElo;
+                const change = endElo - startElo;
+                return { startElo, endElo, change };
+            };
+            
+            const raceSummary = getSeasonEloSummary(raceResults);
+            const qualSummary = getSeasonEloSummary(qualResults);
+            const globalSummary = getSeasonEloSummary(globalResults);
+            
+            // Add season ELO summary table
+            content += `#### Season Elo Summary\n\n`;
+            content += `| Race | Qualifying | Global |\n`;
+            content += `|------|------------|--------|\n`;
+            content += `| ${formatEloWithDelta(raceSummary.endElo, raceSummary.change)} | ${formatEloWithDelta(qualSummary.endElo, qualSummary.change)} | ${formatEloWithDelta(globalSummary.endElo, globalSummary.change)} |\n\n`;
+
             // Add teammate win statistics
             if (teammateStats.size > 0) {
                 content += `#### Teammate Head-to-Head Statistics\n\n`;
@@ -518,6 +548,18 @@ async function generateComprehensiveDriverFiles() {
                 for (const [teammate, stats] of teammateStats) {
                     const cleanTeammateName = cleanDriverNameForFilename(teammate);
                     const teammateLink = `[${teammate}](${cleanTeammateName})`;
+                    
+                    // Get teammate's ELO values for this season from available data
+                    const teammateSeasonResults = seasonResults.filter(r => r.teammate === teammate);
+                    
+                    // Get final teammate ELO values from the teammate data if available
+                    const teammateRaceResults = teammateSeasonResults.filter(r => r.session === 'race' && r.teammateNewElo != null);
+                    const teammateQualResults = teammateSeasonResults.filter(r => r.session === 'qualifying' && r.teammateNewElo != null);
+                    
+                    const teammateRaceElo = teammateRaceResults.length > 0 ? 
+                        Math.round(teammateRaceResults[teammateRaceResults.length - 1].teammateNewElo) : 'N/A';
+                    const teammateQualElo = teammateQualResults.length > 0 ? 
+                        Math.round(teammateQualResults[teammateQualResults.length - 1].teammateNewElo) : 'N/A';
                     
                     // Race statistics
                     const raceWins = stats.races.filter(r => r.type === 'win').length;
@@ -530,8 +572,8 @@ async function generateComprehensiveDriverFiles() {
                     const raceDNFPercent = totalRaces > 0 ? ((raceDNFs / totalRaces) * 100).toFixed(1) : '0.0';
                     const raceEloImpact = Math.round(stats.raceEloImpact);
                     const raceEloFormatted = raceEloImpact === 0 ? '↔ 0' : 
-                        raceEloImpact > 0 ? `**<span style="color: green;">↑ +${raceEloImpact}</span>**` : 
-                        `**<span style="color: red;">↓ ${raceEloImpact}</span>**`;
+                        raceEloImpact > 0 ? `**<span style="color: green;">▲ +${raceEloImpact}</span>**` : 
+                        `**<span style="color: red;">▼ ${raceEloImpact}</span>**`;
                     
                     // Qualifying statistics  
                     const qualWins = stats.qualifying.filter(q => q.type === 'win').length;
@@ -542,12 +584,15 @@ async function generateComprehensiveDriverFiles() {
                     const qualLossPercent = totalQual > 0 ? ((qualLosses / totalQual) * 100).toFixed(1) : '0.0';
                     const qualEloImpact = Math.round(stats.qualEloImpact);
                     const qualEloFormatted = qualEloImpact === 0 ? '↔ 0' : 
-                        qualEloImpact > 0 ? `**<span style="color: green;">↑ +${qualEloImpact}</span>**` : 
-                        `**<span style="color: red;">↓ ${qualEloImpact}</span>**`;
+                        qualEloImpact > 0 ? `**<span style="color: green;">▲ +${qualEloImpact}</span>**` : 
+                        `**<span style="color: red;">▼ ${qualEloImpact}</span>**`;
                     
-                    content += `- **Races vs ${teammateLink}**: ${raceWins} wins (${raceWinPercent}%) • ${raceLosses} losses (${raceLossPercent}%) • ${raceDNFs} DNFs (${raceDNFPercent}%) - **ELO Impact: ${raceEloFormatted}**\n`;
-                    content += `- **Qualifying vs ${teammateLink}**: ${qualWins} wins (${qualWinPercent}%) • ${qualLosses} losses (${qualLossPercent}%) - **ELO Impact: ${qualEloFormatted}**\n\n`;
+                    content += `- **Races vs ${teammateLink} (${teammateRaceElo})**: ${raceWins} wins (${raceWinPercent}%) • ${raceLosses} losses (${raceLossPercent}%) • ${raceDNFs} DNFs (${raceDNFPercent}%) • **Elo ${raceEloFormatted}**\n`;
+                    content += `- **Qualifying vs ${teammateLink} (${teammateQualElo})**: ${qualWins} wins (${qualWinPercent}%) • ${qualLosses} losses (${qualLossPercent}%) • **Elo ${qualEloFormatted}**\n\n`;
                 }
+    
+
+                content += "\n";
             }
             
             // Add DNF statistics

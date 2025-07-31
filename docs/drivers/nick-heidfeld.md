@@ -54,10 +54,17 @@
 
 📊 **[View Full 2000 Season Report](../seasons/2000-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1578 **<span style="color: green;">▲ +78</span>** | 1639 **<span style="color: green;">▲ +139</span>** | 1596 **<span style="color: green;">▲ +96</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 3 wins (23.1%) • 2 losses (15.4%) • 8 DNFs (61.5%) - **ELO Impact: **<span style="color: green;">↑ +77</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi)**: 7 wins (43.8%) • 9 losses (56.3%) - **ELO Impact: **<span style="color: green;">↑ +140</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1689)**: 3 wins (23.1%) • 2 losses (15.4%) • 8 DNFs (61.5%) • **Elo **<span style="color: green;">▲ +77</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1648)**: 7 wins (43.8%) • 9 losses (56.3%) • **Elo **<span style="color: green;">▲ +140</span>****
+
 
 #### DNF Statistics
 
@@ -120,10 +127,17 @@
 
 📊 **[View Full 2001 Season Report](../seasons/2001-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1555 **<span style="color: red;">▼ -23</span>** | 1646 **<span style="color: green;">▲ +7</span>** | 1582 **<span style="color: red;">▼ -14</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 6 wins (50.0%) • 5 losses (41.7%) • 1 DNFs (8.3%) - **ELO Impact: **<span style="color: red;">↓ -23</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen)**: 10 wins (58.8%) • 7 losses (41.2%) - **ELO Impact: **<span style="color: green;">↑ +7</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1523)**: 6 wins (50.0%) • 5 losses (41.7%) • 1 DNFs (8.3%) • **Elo **<span style="color: red;">▼ -23</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1493)**: 10 wins (58.8%) • 7 losses (41.2%) • **Elo **<span style="color: green;">▲ +7</span>****
+
 
 #### DNF Statistics
 
@@ -189,13 +203,20 @@
 
 📊 **[View Full 2002 Season Report](../seasons/2002-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1631 **<span style="color: green;">▲ +76</span>** | 1650 **<span style="color: green;">▲ +4</span>** | 1636 **<span style="color: green;">▲ +54</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 7 wins (53.8%) • 5 losses (38.5%) • 1 DNFs (7.7%) - **ELO Impact: **<span style="color: green;">↑ +29</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa)**: 11 wins (68.8%) • 5 losses (31.3%) - **ELO Impact: **<span style="color: red;">↓ -42</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1472)**: 7 wins (53.8%) • 5 losses (38.5%) • 1 DNFs (7.7%) • **Elo **<span style="color: green;">▲ +29</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Massa](felipe-massa) (1541)**: 11 wins (68.8%) • 5 losses (31.3%) • **Elo **<span style="color: red;">▼ -42</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +47</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +45</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +47</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +45</span>****
+
 
 #### DNF Statistics
 
@@ -261,10 +282,17 @@
 
 📊 **[View Full 2003 Season Report](../seasons/2003-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1679 **<span style="color: green;">▲ +48</span>** | 1700 **<span style="color: green;">▲ +50</span>** | 1683 **<span style="color: green;">▲ +47</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)**: 6 wins (46.2%) • 3 losses (23.1%) • 4 DNFs (30.8%) - **ELO Impact: **<span style="color: green;">↑ +46</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen)**: 9 wins (56.3%) • 7 losses (43.8%) - **ELO Impact: **<span style="color: green;">↑ +50</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1649)**: 6 wins (46.2%) • 3 losses (23.1%) • 4 DNFs (30.8%) • **Elo **<span style="color: green;">▲ +46</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1630)**: 9 wins (56.3%) • 7 losses (43.8%) • **Elo **<span style="color: green;">▲ +50</span>****
+
 
 #### DNF Statistics
 
@@ -327,13 +355,20 @@
 
 📊 **[View Full 2004 Season Report](../seasons/2004-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1747 **<span style="color: green;">▲ +68</span>** | 1691 **<span style="color: red;">▼ -9</span>** | 1729 **<span style="color: green;">▲ +46</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giorgio Pantano](giorgio-pantano)**: 6 wins (50.0%) • 0 losses (0.0%) • 6 DNFs (50.0%) - **ELO Impact: **<span style="color: green;">↑ +85</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giorgio Pantano](giorgio-pantano)**: 9 wins (64.3%) • 5 losses (35.7%) - **ELO Impact: **<span style="color: red;">↓ -73</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giorgio Pantano](giorgio-pantano) (1416)**: 6 wins (50.0%) • 0 losses (0.0%) • 6 DNFs (50.0%) • **Elo **<span style="color: green;">▲ +85</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giorgio Pantano](giorgio-pantano) (1572)**: 9 wins (64.3%) • 5 losses (35.7%) • **Elo **<span style="color: red;">▼ -73</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock)**: 2 wins (50.0%) • 1 losses (25.0%) • 1 DNFs (25.0%) - **ELO Impact: **<span style="color: red;">↓ -16</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock)**: 4 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +64</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1516)**: 2 wins (50.0%) • 1 losses (25.0%) • 1 DNFs (25.0%) • **Elo **<span style="color: red;">▼ -16</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1437)**: 4 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +64</span>****
+
 
 #### DNF Statistics
 
@@ -402,10 +437,17 @@
 
 📊 **[View Full 2005 Season Report](../seasons/2005-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1732 **<span style="color: red;">▼ -15</span>** | 1726 **<span style="color: green;">▲ +35</span>** | 1729 ↔ 0 |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber)**: 5 wins (38.5%) • 4 losses (30.8%) • 4 DNFs (30.8%) - **ELO Impact: **<span style="color: red;">↓ -16</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber)**: 5 wins (35.7%) • 9 losses (64.3%) - **ELO Impact: **<span style="color: green;">↑ +36</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) (1687)**: 5 wins (38.5%) • 4 losses (30.8%) • 4 DNFs (30.8%) • **Elo **<span style="color: red;">▼ -16</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) (1754)**: 5 wins (35.7%) • 9 losses (64.3%) • **Elo **<span style="color: green;">▲ +36</span>****
+
 
 #### DNF Statistics
 
@@ -462,13 +504,20 @@
 
 📊 **[View Full 2006 Season Report](../seasons/2006-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1626 **<span style="color: red;">▼ -106</span>** | 1677 **<span style="color: red;">▼ -49</span>** | 1640 **<span style="color: red;">▼ -89</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](jacques-villeneuve)**: 6 wins (60.0%) • 2 losses (20.0%) • 2 DNFs (20.0%) - **ELO Impact: **<span style="color: red;">↓ -25</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](jacques-villeneuve)**: 5 wins (41.7%) • 7 losses (58.3%) - **ELO Impact: **<span style="color: red;">↓ -111</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](jacques-villeneuve) (1415)**: 6 wins (60.0%) • 2 losses (20.0%) • 2 DNFs (20.0%) • **Elo **<span style="color: red;">▼ -25</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Jacques Villeneuve](jacques-villeneuve) (1684)**: 5 wins (41.7%) • 7 losses (58.3%) • **Elo **<span style="color: red;">▼ -111</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica)**: 2 wins (40.0%) • 3 losses (60.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -81</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica)**: 5 wins (83.3%) • 1 losses (16.7%) - **ELO Impact: **<span style="color: green;">↑ +63</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1580)**: 2 wins (40.0%) • 3 losses (60.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -81</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1437)**: 5 wins (83.3%) • 1 losses (16.7%) • **Elo **<span style="color: green;">▲ +63</span>****
+
 
 #### DNF Statistics
 
@@ -537,13 +586,20 @@
 
 📊 **[View Full 2007 Season Report](../seasons/2007-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1659 **<span style="color: green;">▲ +33</span>** | 1695 **<span style="color: green;">▲ +18</span>** | 1668 **<span style="color: green;">▲ +28</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica)**: 8 wins (57.1%) • 4 losses (28.6%) • 2 DNFs (14.3%) - **ELO Impact: **<span style="color: green;">↑ +33</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica)**: 12 wins (75.0%) • 4 losses (25.0%) - **ELO Impact: ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1547)**: 8 wins (57.1%) • 4 losses (28.6%) • 2 DNFs (14.3%) • **Elo **<span style="color: green;">▲ +33</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1436)**: 12 wins (75.0%) • 4 losses (25.0%) • **Elo ↔ 0**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) - **ELO Impact: ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel)**: 1 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +16</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1484)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +16</span>****
+
 
 #### DNF Statistics
 
@@ -609,10 +665,17 @@
 
 📊 **[View Full 2008 Season Report](../seasons/2008-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1632 **<span style="color: red;">▼ -27</span>** | 1574 **<span style="color: red;">▼ -121</span>** | 1614 **<span style="color: red;">▼ -54</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica)**: 7 wins (38.9%) • 11 losses (61.1%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -25</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica)**: 5 wins (27.8%) • 13 losses (72.2%) - **ELO Impact: **<span style="color: red;">↓ -120</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1574)**: 7 wins (38.9%) • 11 losses (61.1%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -25</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1557)**: 5 wins (27.8%) • 13 losses (72.2%) • **Elo **<span style="color: red;">▼ -120</span>****
+
 
 #### DNF Statistics
 
@@ -681,10 +744,17 @@
 
 📊 **[View Full 2009 Season Report](../seasons/2009-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1625 **<span style="color: red;">▼ -7</span>** | 1501 **<span style="color: red;">▼ -73</span>** | 1587 **<span style="color: red;">▼ -27</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica)**: 7 wins (50.0%) • 6 losses (42.9%) • 1 DNFs (7.1%) - **ELO Impact: **<span style="color: red;">↓ -7</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica)**: 6 wins (35.3%) • 11 losses (64.7%) - **ELO Impact: **<span style="color: red;">↓ -73</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1581)**: 7 wins (50.0%) • 6 losses (42.9%) • 1 DNFs (7.1%) • **Elo **<span style="color: red;">▼ -7</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1630)**: 6 wins (35.3%) • 11 losses (64.7%) • **Elo **<span style="color: red;">▼ -73</span>****
+
 
 #### DNF Statistics
 
@@ -750,10 +820,17 @@
 
 📊 **[View Full 2010 Season Report](../seasons/2010-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1597 **<span style="color: red;">▼ -28</span>** | 1432 **<span style="color: red;">▼ -69</span>** | 1546 **<span style="color: red;">▼ -41</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kamui Kobayashi](kamui-kobayashi)**: 2 wins (40.0%) • 3 losses (60.0%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -29</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kamui Kobayashi](kamui-kobayashi)**: 1 wins (20.0%) • 4 losses (80.0%) - **ELO Impact: **<span style="color: red;">↓ -70</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kamui Kobayashi](kamui-kobayashi) (1625)**: 2 wins (40.0%) • 3 losses (60.0%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -29</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kamui Kobayashi](kamui-kobayashi) (1594)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo **<span style="color: red;">▼ -70</span>****
+
 
 #### DNF Statistics
 
@@ -783,10 +860,17 @@
 
 📊 **[View Full 2011 Season Report](../seasons/2011-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1518 **<span style="color: red;">▼ -79</span>** | 1349 **<span style="color: red;">▼ -83</span>** | 1467 **<span style="color: red;">▼ -79</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Vitaly Petrov](vitaly-petrov)**: 6 wins (54.5%) • 4 losses (36.4%) • 1 DNFs (9.1%) - **ELO Impact: **<span style="color: red;">↓ -78</span>****
-- **Qualifying vs [Vitaly Petrov](vitaly-petrov)**: 3 wins (27.3%) • 8 losses (72.7%) - **ELO Impact: **<span style="color: red;">↓ -83</span>****
+- **Races vs [Vitaly Petrov](vitaly-petrov) (1420)**: 6 wins (54.5%) • 4 losses (36.4%) • 1 DNFs (9.1%) • **Elo **<span style="color: red;">▼ -78</span>****
+- **Qualifying vs [Vitaly Petrov](vitaly-petrov) (1517)**: 3 wins (27.3%) • 8 losses (72.7%) • **Elo **<span style="color: red;">▼ -83</span>****
+
 
 #### DNF Statistics
 

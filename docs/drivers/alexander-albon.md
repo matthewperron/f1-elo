@@ -48,13 +48,20 @@
 
 📊 **[View Full 2019 Season Report](../seasons/2019-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1519 **<span style="color: green;">▲ +19</span>** | 1437 **<span style="color: red;">▼ -63</span>** | 1495 **<span style="color: red;">▼ -5</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Daniil Kvyat](daniil-kvyat)**: 5 wins (41.7%) • 7 losses (58.3%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: red;">↓ -31</span>****
-- **Qualifying vs [Daniil Kvyat](daniil-kvyat)**: 5 wins (41.7%) • 7 losses (58.3%) - **ELO Impact: **<span style="color: red;">↓ -23</span>****
+- **Races vs [Daniil Kvyat](daniil-kvyat) (1529)**: 5 wins (41.7%) • 7 losses (58.3%) • 0 DNFs (0.0%) • **Elo **<span style="color: red;">▼ -31</span>****
+- **Qualifying vs [Daniil Kvyat](daniil-kvyat) (1493)**: 5 wins (41.7%) • 7 losses (58.3%) • **Elo **<span style="color: red;">▼ -23</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen)**: 3 wins (37.5%) • 5 losses (62.5%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +49</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen)**: 1 wins (11.1%) • 8 losses (88.9%) - **ELO Impact: **<span style="color: red;">↓ -37</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 3 wins (37.5%) • 5 losses (62.5%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +49</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 1 wins (11.1%) • 8 losses (88.9%) • **Elo **<span style="color: red;">▼ -37</span>****
+
 
 #### DNF Statistics
 
@@ -132,10 +139,17 @@
 
 📊 **[View Full 2020 Season Report](../seasons/2020-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1504 **<span style="color: red;">▼ -15</span>** | 1354 **<span style="color: red;">▼ -83</span>** | 1459 **<span style="color: red;">▼ -36</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen)**: 2 wins (13.3%) • 11 losses (73.3%) • 2 DNFs (13.3%) - **ELO Impact: **<span style="color: red;">↓ -15</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen)**: 0 wins (0.0%) • 17 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -84</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1746)**: 2 wins (13.3%) • 11 losses (73.3%) • 2 DNFs (13.3%) • **Elo **<span style="color: red;">▼ -15</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1869)**: 0 wins (0.0%) • 17 losses (100.0%) • **Elo **<span style="color: red;">▼ -84</span>****
+
 
 #### DNF Statistics
 
@@ -201,10 +215,17 @@
 
 📊 **[View Full 2022 Season Report](../seasons/2022-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1662 **<span style="color: green;">▲ +158</span>** | 1610 **<span style="color: green;">▲ +256</span>** | 1648 **<span style="color: green;">▲ +189</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi)**: 16 wins (80.0%) • 2 losses (10.0%) • 2 DNFs (10.0%) - **ELO Impact: **<span style="color: green;">↑ +159</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi)**: 18 wins (85.7%) • 3 losses (14.3%) - **ELO Impact: **<span style="color: green;">↑ +258</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1298)**: 16 wins (80.0%) • 2 losses (10.0%) • 2 DNFs (10.0%) • **Elo **<span style="color: green;">▲ +159</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1334)**: 18 wins (85.7%) • 3 losses (14.3%) • **Elo **<span style="color: green;">▲ +258</span>****
+
 
 #### DNF Statistics
 
@@ -282,10 +303,17 @@
 
 📊 **[View Full 2023 Season Report](../seasons/2023-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1800 **<span style="color: green;">▲ +138</span>** | 1799 **<span style="color: green;">▲ +189</span>** | 1803 **<span style="color: green;">▲ +155</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant)**: 15 wins (78.9%) • 0 losses (0.0%) • 4 DNFs (21.1%) - **ELO Impact: **<span style="color: green;">↑ +140</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant)**: 22 wins (100.0%) • 0 losses (0.0%) - **ELO Impact: **<span style="color: green;">↑ +189</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) (1362)**: 15 wins (78.9%) • 0 losses (0.0%) • 4 DNFs (21.1%) • **Elo **<span style="color: green;">▲ +140</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) (1311)**: 22 wins (100.0%) • 0 losses (0.0%) • **Elo **<span style="color: green;">▲ +189</span>****
+
 
 #### DNF Statistics
 
@@ -366,13 +394,20 @@
 
 📊 **[View Full 2024 Season Report](../seasons/2024-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1797 **<span style="color: red;">▼ -3</span>** | 1778 **<span style="color: red;">▼ -21</span>** | 1794 **<span style="color: red;">▼ -9</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant)**: 10 wins (76.9%) • 0 losses (0.0%) • 3 DNFs (23.1%) - **ELO Impact: **<span style="color: green;">↑ +39</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant)**: 12 wins (85.7%) • 2 losses (14.3%) - **ELO Impact: **<span style="color: red;">↓ -76</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) (1323)**: 10 wins (76.9%) • 0 losses (0.0%) • 3 DNFs (23.1%) • **Elo **<span style="color: green;">▲ +39</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) (1387)**: 12 wins (85.7%) • 2 losses (14.3%) • **Elo **<span style="color: red;">▼ -76</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto)**: 2 wins (28.6%) • 1 losses (14.3%) • 4 DNFs (57.1%) - **ELO Impact: **<span style="color: red;">↓ -42</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto)**: 8 wins (88.9%) • 1 losses (11.1%) - **ELO Impact: **<span style="color: green;">↑ +53</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto) (1542)**: 2 wins (28.6%) • 1 losses (14.3%) • 4 DNFs (57.1%) • **Elo **<span style="color: red;">▼ -42</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto) (1446)**: 8 wins (88.9%) • 1 losses (11.1%) • **Elo **<span style="color: green;">▲ +53</span>****
+
 
 #### DNF Statistics
 
@@ -456,10 +491,17 @@
 
 📊 **[View Full 2025 Season Report](../seasons/2025-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1843 **<span style="color: green;">▲ +46</span>** | 1783 **<span style="color: green;">▲ +5</span>** | 1828 **<span style="color: green;">▲ +34</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz)**: 7 wins (63.6%) • 1 losses (9.1%) • 3 DNFs (27.3%) - **ELO Impact: **<span style="color: green;">↑ +47</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz)**: 8 wins (61.5%) • 5 losses (38.5%) - **ELO Impact: **<span style="color: green;">↑ +4</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1543)**: 7 wins (63.6%) • 1 losses (9.1%) • 3 DNFs (27.3%) • **Elo **<span style="color: green;">▲ +47</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1667)**: 8 wins (61.5%) • 5 losses (38.5%) • **Elo **<span style="color: green;">▲ +4</span>****
+
 
 #### DNF Statistics
 

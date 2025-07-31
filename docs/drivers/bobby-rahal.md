@@ -43,10 +43,17 @@
 
 📊 **[View Full 1978 Season Report](../seasons/1978-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1477 **<span style="color: red;">▼ -23</span>** | 1468 **<span style="color: red;">▼ -32</span>** | 1474 **<span style="color: red;">▼ -26</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Jody Scheckter](jody-scheckter)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) - **ELO Impact: **<span style="color: red;">↓ -23</span>****
-- **Qualifying vs [Jody Scheckter](jody-scheckter)**: 0 wins (0.0%) • 2 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -32</span>****
+- **Races vs [Jody Scheckter](jody-scheckter) (1622)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo **<span style="color: red;">▼ -23</span>****
+- **Qualifying vs [Jody Scheckter](jody-scheckter) (1707)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo **<span style="color: red;">▼ -32</span>****
+
 
 #### DNF Statistics
 

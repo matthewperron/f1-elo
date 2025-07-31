@@ -44,10 +44,17 @@
 
 📊 **[View Full 2023 Season Report](../seasons/2023-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1362 **<span style="color: red;">▼ -138</span>** | 1311 **<span style="color: red;">▼ -189</span>** | 1345 **<span style="color: red;">▼ -155</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon)**: 0 wins (0.0%) • 15 losses (78.9%) • 4 DNFs (21.1%) - **ELO Impact: **<span style="color: red;">↓ -140</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon)**: 0 wins (0.0%) • 22 losses (100.0%) - **ELO Impact: **<span style="color: red;">↓ -189</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1800)**: 0 wins (0.0%) • 15 losses (78.9%) • 4 DNFs (21.1%) • **Elo **<span style="color: red;">▼ -140</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1799)**: 0 wins (0.0%) • 22 losses (100.0%) • **Elo **<span style="color: red;">▼ -189</span>****
+
 
 #### DNF Statistics
 
@@ -128,10 +135,17 @@
 
 📊 **[View Full 2024 Season Report](../seasons/2024-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1323 **<span style="color: red;">▼ -39</span>** | 1387 **<span style="color: green;">▲ +76</span>** | 1340 **<span style="color: red;">▼ -5</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon)**: 0 wins (0.0%) • 10 losses (83.3%) • 2 DNFs (16.7%) - **ELO Impact: **<span style="color: red;">↓ -39</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon)**: 2 wins (14.3%) • 12 losses (85.7%) - **ELO Impact: **<span style="color: green;">↑ +76</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1839)**: 0 wins (0.0%) • 10 losses (83.3%) • 2 DNFs (16.7%) • **Elo **<span style="color: red;">▼ -39</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1723)**: 2 wins (14.3%) • 12 losses (85.7%) • **Elo **<span style="color: green;">▲ +76</span>****
+
 
 #### DNF Statistics
 

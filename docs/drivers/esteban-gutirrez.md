@@ -45,10 +45,17 @@
 
 📊 **[View Full 2013 Season Report](../seasons/2013-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1403 **<span style="color: red;">▼ -97</span>** | 1384 **<span style="color: red;">▼ -116</span>** | 1397 **<span style="color: red;">▼ -103</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg)**: 3 wins (17.6%) • 13 losses (76.5%) • 1 DNFs (5.9%) - **ELO Impact: **<span style="color: red;">↓ -97</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg)**: 1 wins (5.3%) • 18 losses (94.7%) - **ELO Impact: **<span style="color: red;">↓ -116</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) (1651)**: 3 wins (17.6%) • 13 losses (76.5%) • 1 DNFs (5.9%) • **Elo **<span style="color: red;">▼ -97</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) (1772)**: 1 wins (5.3%) • 18 losses (94.7%) • **Elo **<span style="color: red;">▼ -116</span>****
+
 
 #### DNF Statistics
 
@@ -120,10 +127,17 @@
 
 📊 **[View Full 2014 Season Report](../seasons/2014-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1485 **<span style="color: green;">▲ +82</span>** | 1381 **<span style="color: red;">▼ -3</span>** | 1453 **<span style="color: green;">▲ +56</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil)**: 8 wins (47.1%) • 5 losses (29.4%) • 4 DNFs (23.5%) - **ELO Impact: **<span style="color: green;">↑ +81</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil)**: 7 wins (36.8%) • 12 losses (63.2%) - **ELO Impact: **<span style="color: red;">↓ -2</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1311)**: 8 wins (47.1%) • 5 losses (29.4%) • 4 DNFs (23.5%) • **Elo **<span style="color: green;">▲ +81</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1487)**: 7 wins (36.8%) • 12 losses (63.2%) • **Elo **<span style="color: red;">▼ -2</span>****
+
 
 #### DNF Statistics
 
@@ -195,10 +209,17 @@
 
 📊 **[View Full 2016 Season Report](../seasons/2016-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1583 **<span style="color: green;">▲ +98</span>** | 1594 **<span style="color: green;">▲ +213</span>** | 1584 **<span style="color: green;">▲ +131</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean)**: 7 wins (38.9%) • 7 losses (38.9%) • 4 DNFs (22.2%) - **ELO Impact: **<span style="color: green;">↑ +96</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean)**: 9 wins (42.9%) • 12 losses (57.1%) - **ELO Impact: **<span style="color: green;">↑ +211</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) (1633)**: 7 wins (38.9%) • 7 losses (38.9%) • 4 DNFs (22.2%) • **Elo **<span style="color: green;">▲ +96</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) (1553)**: 9 wins (42.9%) • 12 losses (57.1%) • **Elo **<span style="color: green;">▲ +211</span>****
+
 
 #### DNF Statistics
 

@@ -43,10 +43,17 @@
 
 📊 **[View Full 2005 Season Report](../seasons/2005-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1405 **<span style="color: red;">▼ -95</span>** | 1472 **<span style="color: red;">▼ -28</span>** | 1425 **<span style="color: red;">▼ -75</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers)**: 1 wins (11.1%) • 5 losses (55.6%) • 3 DNFs (33.3%) - **ELO Impact: **<span style="color: red;">↓ -95</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers)**: 5 wins (45.5%) • 6 losses (54.5%) - **ELO Impact: **<span style="color: red;">↓ -27</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1595)**: 1 wins (11.1%) • 5 losses (55.6%) • 3 DNFs (33.3%) • **Elo **<span style="color: red;">▼ -95</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1528)**: 5 wins (45.5%) • 6 losses (54.5%) • **Elo **<span style="color: red;">▼ -27</span>****
+
 
 #### DNF Statistics
 

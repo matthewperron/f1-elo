@@ -45,10 +45,17 @@
 
 📊 **[View Full 2022 Season Report](../seasons/2022-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1484 **<span style="color: red;">▼ -16</span>** | 1672 **<span style="color: green;">▲ +172</span>** | 1541 **<span style="color: green;">▲ +41</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas)**: 4 wins (22.2%) • 11 losses (61.1%) • 3 DNFs (16.7%) - **ELO Impact: **<span style="color: red;">↓ -15</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas)**: 9 wins (40.9%) • 13 losses (59.1%) - **ELO Impact: **<span style="color: green;">↑ +173</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1563)**: 4 wins (22.2%) • 11 losses (61.1%) • 3 DNFs (16.7%) • **Elo **<span style="color: red;">▼ -15</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1637)**: 9 wins (40.9%) • 13 losses (59.1%) • **Elo **<span style="color: green;">▲ +173</span>****
+
 
 #### DNF Statistics
 
@@ -129,10 +136,17 @@
 
 📊 **[View Full 2023 Season Report](../seasons/2023-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1523 **<span style="color: green;">▲ +39</span>** | 1535 **<span style="color: red;">▼ -137</span>** | 1527 **<span style="color: red;">▼ -14</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas)**: 7 wins (35.0%) • 11 losses (55.0%) • 2 DNFs (10.0%) - **ELO Impact: **<span style="color: green;">↑ +39</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas)**: 7 wins (31.8%) • 15 losses (68.2%) - **ELO Impact: **<span style="color: red;">↓ -136</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1524)**: 7 wins (35.0%) • 11 losses (55.0%) • 2 DNFs (10.0%) • **Elo **<span style="color: green;">▲ +39</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1774)**: 7 wins (31.8%) • 15 losses (68.2%) • **Elo **<span style="color: red;">▼ -136</span>****
+
 
 #### DNF Statistics
 
@@ -213,10 +227,17 @@
 
 📊 **[View Full 2024 Season Report](../seasons/2024-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1520 **<span style="color: red;">▼ -3</span>** | 1538 **<span style="color: green;">▲ +3</span>** | 1527 ↔ 0 |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas)**: 8 wins (36.4%) • 12 losses (54.5%) • 2 DNFs (9.1%) - **ELO Impact: **<span style="color: red;">↓ -2</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas)**: 3 wins (12.5%) • 21 losses (87.5%) - **ELO Impact: **<span style="color: green;">↑ +5</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1527)**: 8 wins (36.4%) • 12 losses (54.5%) • 2 DNFs (9.1%) • **Elo **<span style="color: red;">▼ -2</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1771)**: 3 wins (12.5%) • 21 losses (87.5%) • **Elo **<span style="color: green;">▲ +5</span>****
+
 
 #### DNF Statistics
 

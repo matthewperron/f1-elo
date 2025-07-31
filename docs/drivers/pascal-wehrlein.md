@@ -44,13 +44,20 @@
 
 📊 **[View Full 2016 Season Report](../seasons/2016-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1508 **<span style="color: green;">▲ +8</span>** | 1631 **<span style="color: green;">▲ +131</span>** | 1547 **<span style="color: green;">▲ +47</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Rio Haryanto](rio-haryanto)**: 9 wins (81.8%) • 1 losses (9.1%) • 1 DNFs (9.1%) - **ELO Impact: **<span style="color: green;">↑ +119</span>****
-- **Qualifying vs [Rio Haryanto](rio-haryanto)**: 8 wins (66.7%) • 4 losses (33.3%) - **ELO Impact: **<span style="color: green;">↑ +60</span>****
+- **Races vs [Rio Haryanto](rio-haryanto) (1382)**: 9 wins (81.8%) • 1 losses (9.1%) • 1 DNFs (9.1%) • **Elo **<span style="color: green;">▲ +119</span>****
+- **Qualifying vs [Rio Haryanto](rio-haryanto) (1441)**: 8 wins (66.7%) • 4 losses (33.3%) • **Elo **<span style="color: green;">▲ +60</span>****
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon)**: 3 wins (33.3%) • 5 losses (55.6%) • 1 DNFs (11.1%) - **ELO Impact: **<span style="color: red;">↓ -109</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon)**: 7 wins (77.8%) • 2 losses (22.2%) - **ELO Impact: **<span style="color: green;">↑ +73</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1610)**: 3 wins (33.3%) • 5 losses (55.6%) • 1 DNFs (11.1%) • **Elo **<span style="color: red;">▼ -109</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1428)**: 7 wins (77.8%) • 2 losses (22.2%) • **Elo **<span style="color: green;">▲ +73</span>****
+
 
 #### DNF Statistics
 
@@ -128,10 +135,17 @@
 
 📊 **[View Full 2017 Season Report](../seasons/2017-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1564 **<span style="color: green;">▲ +56</span>** | 1630 **<span style="color: red;">▼ -1</span>** | 1585 **<span style="color: green;">▲ +38</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson)**: 8 wins (53.3%) • 7 losses (46.7%) • 0 DNFs (0.0%) - **ELO Impact: **<span style="color: green;">↑ +56</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson)**: 11 wins (61.1%) • 7 losses (38.9%) - **ELO Impact: **<span style="color: red;">↓ -3</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1520)**: 8 wins (53.3%) • 7 losses (46.7%) • 0 DNFs (0.0%) • **Elo **<span style="color: green;">▲ +56</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1578)**: 11 wins (61.1%) • 7 losses (38.9%) • **Elo **<span style="color: red;">▼ -3</span>****
+
 
 #### DNF Statistics
 

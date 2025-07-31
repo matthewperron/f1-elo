@@ -43,10 +43,17 @@
 
 📊 **[View Full 1998 Season Report](../seasons/1998-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1363 **<span style="color: red;">▼ -137</span>** | 1319 **<span style="color: red;">▼ -181</span>** | 1350 **<span style="color: red;">▼ -150</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano](shinji-nakano)**: 0 wins (0.0%) • 5 losses (41.7%) • 7 DNFs (58.3%) - **ELO Impact: **<span style="color: red;">↓ -137</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano](shinji-nakano)**: 5 wins (31.3%) • 11 losses (68.8%) - **ELO Impact: **<span style="color: red;">↓ -181</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano](shinji-nakano) (1560)**: 0 wins (0.0%) • 5 losses (41.7%) • 7 DNFs (58.3%) • **Elo **<span style="color: red;">▼ -137</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano](shinji-nakano) (1555)**: 5 wins (31.3%) • 11 losses (68.8%) • **Elo **<span style="color: red;">▼ -181</span>****
+
 
 #### DNF Statistics
 

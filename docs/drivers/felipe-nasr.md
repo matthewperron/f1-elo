@@ -44,10 +44,17 @@
 
 📊 **[View Full 2015 Season Report](../seasons/2015-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1518 **<span style="color: green;">▲ +18</span>** | 1438 **<span style="color: red;">▼ -62</span>** | 1495 **<span style="color: red;">▼ -5</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson)**: 10 wins (55.6%) • 5 losses (27.8%) • 3 DNFs (16.7%) - **ELO Impact: **<span style="color: green;">↑ +19</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson)**: 9 wins (47.4%) • 10 losses (52.6%) - **ELO Impact: **<span style="color: red;">↓ -61</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1475)**: 10 wins (55.6%) • 5 losses (27.8%) • 3 DNFs (16.7%) • **Elo **<span style="color: green;">▲ +19</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1514)**: 9 wins (47.4%) • 10 losses (52.6%) • **Elo **<span style="color: red;">▼ -61</span>****
+
 
 #### DNF Statistics
 
@@ -119,10 +126,17 @@
 
 📊 **[View Full 2016 Season Report](../seasons/2016-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1444 **<span style="color: red;">▼ -74</span>** | 1430 **<span style="color: red;">▼ -8</span>** | 1441 **<span style="color: red;">▼ -54</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson)**: 5 wins (27.8%) • 10 losses (55.6%) • 3 DNFs (16.7%) - **ELO Impact: **<span style="color: red;">↓ -73</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson)**: 9 wins (42.9%) • 12 losses (57.1%) - **ELO Impact: **<span style="color: red;">↓ -9</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1549)**: 5 wins (27.8%) • 10 losses (55.6%) • 3 DNFs (16.7%) • **Elo **<span style="color: red;">▼ -73</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1522)**: 9 wins (42.9%) • 12 losses (57.1%) • **Elo **<span style="color: red;">▼ -9</span>****
+
 
 #### DNF Statistics
 

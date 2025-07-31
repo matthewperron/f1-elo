@@ -45,10 +45,17 @@
 
 📊 **[View Full 2012 Season Report](../seasons/2012-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1477 **<span style="color: red;">▼ -23</span>** | 1444 **<span style="color: red;">▼ -56</span>** | 1467 **<span style="color: red;">▼ -33</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo)**: 7 wins (36.8%) • 10 losses (52.6%) • 2 DNFs (10.5%) - **ELO Impact: **<span style="color: red;">↓ -22</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo)**: 5 wins (25.0%) • 15 losses (75.0%) - **ELO Impact: **<span style="color: red;">↓ -57</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1550)**: 7 wins (36.8%) • 10 losses (52.6%) • 2 DNFs (10.5%) • **Elo **<span style="color: red;">▼ -22</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1584)**: 5 wins (25.0%) • 15 losses (75.0%) • **Elo **<span style="color: red;">▼ -57</span>****
+
 
 #### DNF Statistics
 
@@ -123,10 +130,17 @@
 
 📊 **[View Full 2013 Season Report](../seasons/2013-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1451 **<span style="color: red;">▼ -26</span>** | 1351 **<span style="color: red;">▼ -93</span>** | 1422 **<span style="color: red;">▼ -45</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo)**: 6 wins (35.3%) • 7 losses (41.2%) • 4 DNFs (23.5%) - **ELO Impact: **<span style="color: red;">↓ -24</span>****
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo)**: 4 wins (21.1%) • 15 losses (78.9%) - **ELO Impact: **<span style="color: red;">↓ -93</span>****
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1576)**: 6 wins (35.3%) • 7 losses (41.2%) • 4 DNFs (23.5%) • **Elo **<span style="color: red;">▼ -24</span>****
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1677)**: 4 wins (21.1%) • 15 losses (78.9%) • **Elo **<span style="color: red;">▼ -93</span>****
+
 
 #### DNF Statistics
 
@@ -198,10 +212,17 @@
 
 📊 **[View Full 2014 Season Report](../seasons/2014-season-report)**
 
+#### Season Elo Summary
+
+| Race | Qualifying | Global |
+|------|------------|--------|
+| 1500 **<span style="color: green;">▲ +49</span>** | 1396 **<span style="color: green;">▲ +45</span>** | 1469 **<span style="color: green;">▲ +47</span>** |
+
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Daniil Kvyat](daniil-kvyat)**: 6 wins (37.5%) • 5 losses (31.3%) • 5 DNFs (31.3%) - **ELO Impact: **<span style="color: green;">↑ +48</span>****
-- **Qualifying vs [Daniil Kvyat](daniil-kvyat)**: 9 wins (47.4%) • 10 losses (52.6%) - **ELO Impact: **<span style="color: green;">↑ +46</span>****
+- **Races vs [Daniil Kvyat](daniil-kvyat) (1451)**: 6 wins (37.5%) • 5 losses (31.3%) • 5 DNFs (31.3%) • **Elo **<span style="color: green;">▲ +48</span>****
+- **Qualifying vs [Daniil Kvyat](daniil-kvyat) (1455)**: 9 wins (47.4%) • 10 losses (52.6%) • **Elo **<span style="color: green;">▲ +46</span>****
+
 
 #### DNF Statistics
 
