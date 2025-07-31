@@ -75,8 +75,8 @@ async function generatePeakELOFile() {
         
         let tableContent = `## ${title}\n\n`;
         tableContent += `${description}\n\n`;
-        tableContent += `| Rank | Driver | Peak ELO | Constructor | Date | Season | Teammate | Teammate ELO | Race |\n`;
-        tableContent += `|------|--------|----------|-------------|------|--------|----------|--------------|------|\n`;
+        tableContent += `| Rank | Driver | Peak ELO | Constructor | Date | Season | Race | Teammate | Teammate ELO |\n`;
+        tableContent += `|------|--------|----------|-------------|------|--------|------|----------|--------------|\n`;
         
         peakDrivers.forEach((driver, index) => {
             // Create driver file link (remove flags and clean name for URL)
@@ -89,7 +89,7 @@ async function generatePeakELOFile() {
             const raceTitle = `Round ${roundNumber}: ${driver.race}`;
             const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const raceLink = `[${raceTitle}](./seasons/${driver.season}-season-report#${raceAnchor})`;
-            tableContent += `| ${index + 1} | ${driverLink} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${raceLink} |\n`;
+            tableContent += `| ${index + 1} | ${driverLink} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${raceLink} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} |\n`;
         });
         
         return { content: tableContent, drivers: peakDrivers };
@@ -174,8 +174,8 @@ async function updateIndexWithTop30(peakDriversData) {
             const top30 = drivers.slice(0, 30);
             let tableContent = `## ${title}\n\n`;
             tableContent += `${description}\n\n`;
-            tableContent += `| Rank | Driver | Peak ELO | Constructor | Teammate | Teammate ELO | Season | Race |\n`;
-            tableContent += `|------|--------|----------|-------------|----------|--------------|--------|------|\n`;
+            tableContent += `| Rank | Driver | Peak ELO | Constructor | Season | Race | Teammate | Teammate ELO |\n`;
+            tableContent += `|------|--------|----------|-------------|--------|------|----------|--------------||\n`;
             
             top30.forEach((driver, index) => {
                 // Create anchor link for the specific race (format: round-{number}-{racename})
@@ -183,10 +183,10 @@ async function updateIndexWithTop30(peakDriversData) {
                 const raceTitle = `Round ${roundNumber}: ${driver.race}`;
                 const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
                 const raceLink = `[${raceTitle}](./seasons/${driver.season}-season-report#${raceAnchor})`;
-                tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} | ${driver.season} | ${raceLink} |\n`;
+                tableContent += `| ${index + 1} | ${driver.name} | **${driver.peak}** | ${driver.constructor}|  ${driver.season} | ${raceLink} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} |\n`;
             });
             
-            return tableContent;
+            return tableContent + "\n\n";
         }
         
         // Create all three tables
