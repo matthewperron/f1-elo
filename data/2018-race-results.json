@@ -11061,9 +11061,9 @@
       "globalElo": 1821
     },
     "max_verstappen": {
-      "qualifyingElo": 1647,
+      "qualifyingElo": 1649,
       "raceElo": 1735,
-      "globalElo": 1708
+      "globalElo": 1709
     },
     "leclerc": {
       "qualifyingElo": 1668,
@@ -11071,7 +11071,7 @@
       "globalElo": 1609
     },
     "hulkenberg": {
-      "qualifyingElo": 1731,
+      "qualifyingElo": 1730,
       "raceElo": 1554,
       "globalElo": 1602
     },
@@ -11088,7 +11088,7 @@
     "sainz": {
       "qualifyingElo": 1597,
       "raceElo": 1594,
-      "globalElo": 1598
+      "globalElo": 1597
     },
     "perez": {
       "qualifyingElo": 1450,
@@ -11121,9 +11121,9 @@
       "globalElo": 1513
     },
     "ricciardo": {
-      "qualifyingElo": 1627,
+      "qualifyingElo": 1628,
       "raceElo": 1453,
-      "globalElo": 1506
+      "globalElo": 1507
     },
     "kevin_magnussen": {
       "qualifyingElo": 1444,
@@ -11136,7 +11136,7 @@
       "globalElo": 1479
     },
     "brendon_hartley": {
-      "qualifyingElo": 1453,
+      "qualifyingElo": 1452,
       "raceElo": 1483,
       "globalElo": 1474
     },

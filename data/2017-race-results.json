@@ -10539,9 +10539,9 @@
       "globalElo": 1662
     },
     "max_verstappen": {
-      "qualifyingElo": 1672,
+      "qualifyingElo": 1673,
       "raceElo": 1648,
-      "globalElo": 1655
+      "globalElo": 1656
     },
     "perez": {
       "qualifyingElo": 1537,
@@ -10568,20 +10568,20 @@
       "raceElo": 1578,
       "globalElo": 1561
     },
+    "ricciardo": {
+      "qualifyingElo": 1604,
+      "raceElo": 1540,
+      "globalElo": 1560
+    },
     "ocon": {
       "qualifyingElo": 1495,
       "raceElo": 1590,
       "globalElo": 1560
     },
-    "ricciardo": {
-      "qualifyingElo": 1602,
-      "raceElo": 1540,
-      "globalElo": 1559
-    },
     "sainz": {
-      "qualifyingElo": 1507,
+      "qualifyingElo": 1506,
       "raceElo": 1543,
-      "globalElo": 1534
+      "globalElo": 1533
     },
     "ericsson": {
       "qualifyingElo": 1579,
@@ -10599,7 +10599,7 @@
       "globalElo": 1499
     },
     "gasly": {
-      "qualifyingElo": 1479,
+      "qualifyingElo": 1478,
       "raceElo": 1503,
       "globalElo": 1496
     },

@@ -6809,24 +6809,24 @@
   ],
   "finalELOs": {
     "max_verstappen": {
-      "qualifyingElo": 1957,
+      "qualifyingElo": 1955,
       "raceElo": 2044,
-      "globalElo": 2018
+      "globalElo": 2015
     },
     "russell": {
-      "qualifyingElo": 1897,
+      "qualifyingElo": 1902,
       "raceElo": 1838,
-      "globalElo": 1855
+      "globalElo": 1857
     },
     "albon": {
-      "qualifyingElo": 1786,
+      "qualifyingElo": 1784,
       "raceElo": 1831,
       "globalElo": 1817
     },
     "leclerc": {
-      "qualifyingElo": 1696,
+      "qualifyingElo": 1699,
       "raceElo": 1749,
-      "globalElo": 1735
+      "globalElo": 1736
     },
     "norris": {
       "qualifyingElo": 1691,
@@ -6834,14 +6834,14 @@
       "globalElo": 1636
     },
     "gasly": {
-      "qualifyingElo": 1639,
+      "qualifyingElo": 1636,
       "raceElo": 1628,
-      "globalElo": 1630
+      "globalElo": 1629
     },
     "alonso": {
-      "qualifyingElo": 1616,
+      "qualifyingElo": 1618,
       "raceElo": 1624,
-      "globalElo": 1622
+      "globalElo": 1623
     },
     "piastri": {
       "qualifyingElo": 1662,
@@ -6849,14 +6849,14 @@
       "globalElo": 1612
     },
     "hamilton": {
-      "qualifyingElo": 1609,
+      "qualifyingElo": 1613,
       "raceElo": 1564,
-      "globalElo": 1582
+      "globalElo": 1583
     },
     "sainz": {
-      "qualifyingElo": 1667,
+      "qualifyingElo": 1666,
       "raceElo": 1533,
-      "globalElo": 1571
+      "globalElo": 1569
     },
     "bortoleto": {
       "qualifyingElo": 1585,
@@ -6864,17 +6864,17 @@
       "globalElo": 1546
     },
     "hadjar": {
-      "qualifyingElo": 1571,
+      "qualifyingElo": 1572,
       "raceElo": 1535,
       "globalElo": 1545
     },
     "tsunoda": {
       "qualifyingElo": 1552,
       "raceElo": 1525,
-      "globalElo": 1538
+      "globalElo": 1539
     },
     "ocon": {
-      "qualifyingElo": 1540,
+      "qualifyingElo": 1538,
       "raceElo": 1506,
       "globalElo": 1515
     },
@@ -6884,34 +6884,34 @@
       "globalElo": 1501
     },
     "bearman": {
-      "qualifyingElo": 1480,
+      "qualifyingElo": 1478,
       "raceElo": 1490,
-      "globalElo": 1487
+      "globalElo": 1486
     },
     "colapinto": {
-      "qualifyingElo": 1400,
+      "qualifyingElo": 1398,
       "raceElo": 1480,
       "globalElo": 1456
     },
     "antonelli": {
-      "qualifyingElo": 1481,
+      "qualifyingElo": 1483,
       "raceElo": 1427,
       "globalElo": 1444
     },
     "doohan": {
-      "qualifyingElo": 1429,
+      "qualifyingElo": 1428,
       "raceElo": 1417,
       "globalElo": 1421
     },
     "lawson": {
-      "qualifyingElo": 1330,
+      "qualifyingElo": 1331,
       "raceElo": 1444,
-      "globalElo": 1409
+      "globalElo": 1410
     },
     "stroll": {
       "qualifyingElo": 1251,
       "raceElo": 1443,
-      "globalElo": 1389
+      "globalElo": 1388
     }
   }
 }

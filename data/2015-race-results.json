@@ -9988,9 +9988,9 @@
       "globalElo": 1538
     },
     "max_verstappen": {
-      "qualifyingElo": 1529,
+      "qualifyingElo": 1534,
       "raceElo": 1517,
-      "globalElo": 1520
+      "globalElo": 1522
     },
     "raikkonen": {
       "qualifyingElo": 1533,
@@ -10008,9 +10008,9 @@
       "globalElo": 1484
     },
     "sainz": {
-      "qualifyingElo": 1471,
+      "qualifyingElo": 1466,
       "raceElo": 1483,
-      "globalElo": 1480
+      "globalElo": 1478
     },
     "ericsson": {
       "qualifyingElo": 1521,

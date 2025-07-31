@@ -8967,9 +8967,9 @@
   ],
   "finalELOs": {
     "max_verstappen": {
-      "qualifyingElo": 1852,
+      "qualifyingElo": 1848,
       "raceElo": 1746,
-      "globalElo": 1777
+      "globalElo": 1776
     },
     "hamilton": {
       "qualifyingElo": 1879,
@@ -8992,14 +8992,14 @@
       "globalElo": 1657
     },
     "perez": {
-      "qualifyingElo": 1526,
+      "qualifyingElo": 1520,
       "raceElo": 1695,
-      "globalElo": 1647
+      "globalElo": 1645
     },
     "russell": {
-      "qualifyingElo": 1686,
+      "qualifyingElo": 1682,
       "raceElo": 1609,
-      "globalElo": 1634
+      "globalElo": 1633
     },
     "kevin_magnussen": {
       "qualifyingElo": 1512,
@@ -9009,7 +9009,7 @@
     "raikkonen": {
       "qualifyingElo": 1484,
       "raceElo": 1635,
-      "globalElo": 1592
+      "globalElo": 1594
     },
     "norris": {
       "qualifyingElo": 1584,
@@ -9019,7 +9019,7 @@
     "sainz": {
       "qualifyingElo": 1513,
       "raceElo": 1550,
-      "globalElo": 1540
+      "globalElo": 1539
     },
     "vettel": {
       "qualifyingElo": 1592,
@@ -9027,9 +9027,9 @@
       "globalElo": 1528
     },
     "gasly": {
-      "qualifyingElo": 1481,
+      "qualifyingElo": 1487,
       "raceElo": 1536,
-      "globalElo": 1519
+      "globalElo": 1521
     },
     "grosjean": {
       "qualifyingElo": 1497,
@@ -9039,47 +9039,47 @@
     "giovinazzi": {
       "qualifyingElo": 1566,
       "raceElo": 1467,
-      "globalElo": 1499
+      "globalElo": 1497
     },
     "aitken": {
-      "qualifyingElo": 1462,
+      "qualifyingElo": 1461,
       "raceElo": 1500,
-      "globalElo": 1489
+      "globalElo": 1488
     },
     "pietro_fittipaldi": {
       "qualifyingElo": 1509,
       "raceElo": 1458,
       "globalElo": 1473
     },
-    "latifi": {
-      "qualifyingElo": 1453,
-      "raceElo": 1481,
-      "globalElo": 1472
-    },
     "kvyat": {
-      "qualifyingElo": 1460,
+      "qualifyingElo": 1466,
       "raceElo": 1471,
-      "globalElo": 1470
+      "globalElo": 1471
     },
-    "albon": {
-      "qualifyingElo": 1367,
-      "raceElo": 1505,
-      "globalElo": 1463
+    "latifi": {
+      "qualifyingElo": 1449,
+      "raceElo": 1481,
+      "globalElo": 1471
     },
     "stroll": {
-      "qualifyingElo": 1407,
+      "qualifyingElo": 1411,
       "raceElo": 1485,
-      "globalElo": 1462
+      "globalElo": 1463
     },
     "ocon": {
       "qualifyingElo": 1458,
       "raceElo": 1463,
       "globalElo": 1462
     },
+    "albon": {
+      "qualifyingElo": 1362,
+      "raceElo": 1505,
+      "globalElo": 1461
+    },
     "hulkenberg": {
-      "qualifyingElo": 1562,
+      "qualifyingElo": 1565,
       "raceElo": 1383,
-      "globalElo": 1433
+      "globalElo": 1435
     }
   }
 }

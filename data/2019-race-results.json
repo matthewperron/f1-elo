@@ -11124,24 +11124,24 @@
       "globalElo": 1762
     },
     "max_verstappen": {
-      "qualifyingElo": 1742,
+      "qualifyingElo": 1739,
       "raceElo": 1732,
-      "globalElo": 1735
+      "globalElo": 1734
     },
     "perez": {
-      "qualifyingElo": 1583,
+      "qualifyingElo": 1534,
       "raceElo": 1714,
-      "globalElo": 1678
+      "globalElo": 1663
     },
     "raikkonen": {
-      "qualifyingElo": 1507,
+      "qualifyingElo": 1504,
       "raceElo": 1691,
       "globalElo": 1638
     },
     "russell": {
-      "qualifyingElo": 1629,
+      "qualifyingElo": 1621,
       "raceElo": 1633,
-      "globalElo": 1633
+      "globalElo": 1631
     },
     "ricciardo": {
       "qualifyingElo": 1723,
@@ -11171,12 +11171,12 @@
     "sainz": {
       "qualifyingElo": 1557,
       "raceElo": 1574,
-      "globalElo": 1571
+      "globalElo": 1570
     },
     "gasly": {
-      "qualifyingElo": 1563,
+      "qualifyingElo": 1568,
       "raceElo": 1518,
-      "globalElo": 1532
+      "globalElo": 1533
     },
     "norris": {
       "qualifyingElo": 1540,
@@ -11184,9 +11184,9 @@
       "globalElo": 1527
     },
     "albon": {
-      "qualifyingElo": 1477,
+      "qualifyingElo": 1471,
       "raceElo": 1519,
-      "globalElo": 1505
+      "globalElo": 1503
     },
     "grosjean": {
       "qualifyingElo": 1471,
@@ -11196,27 +11196,27 @@
     "hulkenberg": {
       "qualifyingElo": 1635,
       "raceElo": 1427,
-      "globalElo": 1486
+      "globalElo": 1487
     },
     "kvyat": {
-      "qualifyingElo": 1378,
+      "qualifyingElo": 1385,
       "raceElo": 1489,
-      "globalElo": 1457
+      "globalElo": 1459
     },
     "giovinazzi": {
-      "qualifyingElo": 1543,
+      "qualifyingElo": 1546,
       "raceElo": 1411,
       "globalElo": 1453
     },
     "stroll": {
-      "qualifyingElo": 1277,
+      "qualifyingElo": 1326,
       "raceElo": 1422,
-      "globalElo": 1379
+      "globalElo": 1393
     },
     "kubica": {
-      "qualifyingElo": 1371,
+      "qualifyingElo": 1379,
       "raceElo": 1367,
-      "globalElo": 1367
+      "globalElo": 1369
     }
   }
 }

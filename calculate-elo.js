@@ -409,6 +409,8 @@ function processTeammateComparison(teammates, drivers, type, kFactor, initialElo
     let pos1, pos2;
     if (type === 'qualifying') {
         pos1 = parseInt(driver1.grid);
+        pos1 = pos1 == 0 ? 999 : pos1;
+
         pos2 = parseInt(driver2.grid);
     } else if (type === 'race') {
         pos1 = parseInt(driver1.position);
@@ -561,8 +563,8 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
             const raceDetail = allRaceData.races.find(r => r.round == race.round);
             if (raceDetail && raceDetail.results.length > 0) {
                 content += `#### Qualifying Results\n\n`;
-                content += `| Driver | Constructor | Grid | Status | Starting ELO | Change | New ELO | vs Teammate |\n`;
-                content += `|--------|-------------|------|--------|--------------|--------|---------|-------------|\n`;
+                content += `| Driver | Constructor | Grid | Starting ELO | Change | New ELO | vs Teammate |\n`;
+                content += `|--------|-------------|------|--------------|--------|---------|-------------|\n`;
                 
                 // Sort by grid position
                 const sortedByGrid = raceDetail.results.sort((a, b) => {
@@ -576,7 +578,6 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
                     const driverName = `${flag} ${result.driver.givenName} ${result.driver.familyName}`.trim();
                     const driverLink = createDriverLink(driverName);
                     const gridPos = result.grid || 'N/A';
-                    const status = result.status || 'Unknown';
                     
                     // Find if this driver had qualifying ELO changes
                     const qualifyingChange = qualifyingChanges.find(c => c.driverId === result.driver.driverId);
@@ -585,7 +586,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
                     const newElo = qualifyingChange ? qualifyingChange.newElo : 'N/A';
                     const teammate = qualifyingChange ? createDriverLink(qualifyingChange.opponent) + ` (P${qualifyingChange.opponentPosition})` : 'N/A';
                     
-                    content += `| ${driverLink} | ${result.constructor.name} | ${gridPos} | ${status} | ${startingElo} | ${eloChangeStr} | ${newElo} | ${teammate} |\n`;
+                    content += `| ${driverLink} | ${result.constructor.name} | ${gridPos} | ${startingElo} | ${eloChangeStr} | ${newElo} | ${teammate} |\n`;
                 });
                 content += '\n';
             }

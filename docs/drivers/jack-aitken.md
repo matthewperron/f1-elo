@@ -8,21 +8,21 @@
 ## Career Statistics
 
 ### 🏁 Qualifying Performance
-**Career Journey**: 1500 → 1462
+**Career Journey**: 1500 → 1461
 
-🏆 **Peak ELO**: 1462
+🏆 **Peak ELO**: 1461
    *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
-📉 **Lowest ELO**: 1462
+📉 **Lowest ELO**: 1461
    *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
 ### 🌟 Overall Performance
-**Career Journey**: 1500 → 1489
+**Career Journey**: 1500 → 1488
 
-🏆 **Peak ELO**: 1489
+🏆 **Peak ELO**: 1488
    *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
-📉 **Lowest ELO**: 1489
+📉 **Lowest ELO**: 1488
    *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
 
@@ -30,6 +30,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 2020 | [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | 2020-12-06 | qualifying | Williams | 17 | 1500 | -38 | 1462 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi |
+| 2020 | [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | 2020-12-06 | qualifying | Williams | 17 | 1500 | -39 | 1461 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi |
 | 2020 | [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | 2020-12-06 | race | Williams | 16 | 1500 | N/A | 1500 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi |
-| 2020 | [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | 2020-12-06 | global | Williams | Q:17/R:16 | 1500 | -11 | 1489 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi |
+| 2020 | [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | 2020-12-06 | global | Williams | Q:17/R:16 | 1500 | -12 | 1488 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi |
