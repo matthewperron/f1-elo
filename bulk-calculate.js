@@ -292,13 +292,12 @@ async function generateComprehensiveDriverFiles() {
             .toLowerCase();
         
         let content = `# ${driverData.driverName} - Complete F1 Career Results\n\n`;
-        content += `*Generated: ${new Date().toISOString().split('T')[0]}*\n\n`;
+        content += `*Last updated: ${new Date().toISOString().split('T')[0]}*\n\n`;
         
         // Get unique seasons and sort chronologically
         const seasons = [...new Set(results.map(r => r.season))].sort();
         const seasonLinks = seasons.map(season => `[${season}](../seasons/${season}-season-report)`).join(' • ');
-        content += `**Seasons**: ${seasonLinks}\n`;
-        content += `**Total Race Events**: ${Math.ceil(results.length / 3)} (${results.length} individual ELO calculations)\n\n`;
+        content += `**Seasons**: ${seasonLinks}\n\n`;
         
         // Sort results for statistics calculation
         const sortedResults = results.sort((a, b) => {
@@ -312,6 +311,8 @@ async function generateComprehensiveDriverFiles() {
         // Add career statistics at the top
         content += `## Career Statistics\n\n`;
         
+        content += `**Total Race Events**: ${Math.ceil(results.length / 3)} (${results.length} individual ELO calculations)\n\n`;
+
         // ELO progression by type
         const qualifyingResults = sortedResults.filter(r => r.session === 'qualifying' && r.eloChange !== null);
         const raceResults = sortedResults.filter(r => r.session === 'race' && r.eloChange !== null);

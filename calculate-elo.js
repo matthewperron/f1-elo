@@ -531,7 +531,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     const timestamp = new Date().toISOString().split('T')[0];
     
     let content = `# ${season} F1 Season - ELO Analysis\n\n`;
-    content += `*Generated: ${timestamp}*\n\n`;
+    content += `*Last updated: ${timestamp}*\n\n`;
     
     // Final ELO Table
     content += `## Final ELO Ratings\n\n`;
@@ -756,7 +756,7 @@ async function generateDriverFiles(driverResults, season) {
         const cleanDriverName = cleanDriverNameForFilename(driverData.driverName);
         
         let content = `# ${driverData.driverName} - ${season} Season Results\n\n`;
-        content += `*Generated: ${new Date().toISOString().split('T')[0]}*\n\n`;
+        content += `*Last updated: ${new Date().toISOString().split('T')[0]}*\n\n`;
         
         // Summary table header
         content += `## Race-by-Race Results\n\n`;
