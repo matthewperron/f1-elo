@@ -33,6 +33,7 @@
 | 25 | 1512 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](../drivers/vitantonio-liuzzi) | Force India | 1414 | 1407 | 1409 |
 | 26 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](../drivers/sakon-yamamoto) | HRT | 1426 | 1391 | 1402 |
 | 27 | 1500 | [Vitaly Petrov](../drivers/vitaly-petrov) | Renault | 1429 | 1341 | 1367 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Bahrain Grand Prix

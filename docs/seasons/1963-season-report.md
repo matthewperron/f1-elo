@@ -33,6 +33,7 @@
 | 25 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Baghetti](../drivers/giancarlo-baghetti) | ATS | 1409 | 1500 | 1473 |
 | 26 | 1500 | [Willy Mairesse](../drivers/willy-mairesse) | Ferrari | 1453 | 1471 | 1465 |
 | 27 | 1441 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](../drivers/richie-ginther) | BRM | 1461 | 1393 | 1413 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Monaco Grand Prix

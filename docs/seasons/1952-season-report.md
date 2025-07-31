@@ -21,6 +21,7 @@
 | 13 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Helmut Niedermayr](../drivers/helmut-niedermayr) | AFM | 1468 | 1500 | 1490 |
 | 14 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Harry Schell](../drivers/harry-schell) | Maserati | 1500 | 1468 | 1477 |
 | 15 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Robert O'Brien](../drivers/robert-obrien) | Simca | 1471 | 1468 | 1469 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Swiss Grand Prix

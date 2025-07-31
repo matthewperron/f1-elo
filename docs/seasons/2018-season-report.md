@@ -26,6 +26,7 @@
 | 18 | 1499 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Brendon Hartley](../drivers/brendon-hartley) | Toro Rosso | 1452 | 1483 | 1474 |
 | 19 | 1438 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](../drivers/lance-stroll) | Williams | 1410 | 1480 | 1459 |
 | 20 | 1533 | [Marcus Ericsson](../drivers/marcus-ericsson) | Sauber | 1411 | 1428 | 1424 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

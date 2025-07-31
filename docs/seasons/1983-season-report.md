@@ -35,6 +35,7 @@
 | 27 | 1418 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Mauro Baldi](../drivers/mauro-baldi) | Alfa Romeo | 1288 | 1451 | 1403 |
 | 28 | 1445 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Tambay](../drivers/patrick-tambay) | Ferrari | 1434 | 1374 | 1391 |
 | 29 | 1456 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Bruno Giacomelli](../drivers/bruno-giacomelli) | Toleman | 1440 | 1336 | 1370 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix

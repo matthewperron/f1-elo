@@ -16,6 +16,7 @@
 | 8 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Louis Chiron](../drivers/louis-chiron) | OSCA | 1442 | 1500 | 1483 |
 | 9 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](../drivers/jean-behra) | Gordini | 1442 | 1500 | 1482 |
 | 10 | 1500 | [Ernst Klodwig](../drivers/ernst-klodwig) | BMW | 1468 | 1468 | 1468 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 2: Indianapolis 500

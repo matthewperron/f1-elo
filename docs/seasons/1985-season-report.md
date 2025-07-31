@@ -36,6 +36,7 @@
 | 28 | 1475 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Manfred Winkelhock](../drivers/manfred-winkelhock) | RAM | 1502 | 1413 | 1439 |
 | 29 | 1415 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) | Ferrari | 1376 | 1409 | 1401 |
 | 30 | 1385 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Hesnault](../drivers/franois-hesnault) | Brabham | 1337 | 1401 | 1382 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix

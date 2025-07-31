@@ -27,6 +27,7 @@
 | 19 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Doohan](../drivers/jack-doohan) | Alpine F1 Team | 1428 | 1417 | 1421 |
 | 20 | 1420 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](../drivers/liam-lawson) | Red Bull | 1331 | 1444 | 1410 |
 | 21 | 1346 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](../drivers/lance-stroll) | Aston Martin | 1251 | 1443 | 1388 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

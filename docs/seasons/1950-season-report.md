@@ -18,6 +18,7 @@
 | 10 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Cuth Harrison](../drivers/cuth-harrison) | ERA | 1532 | 1468 | 1487 |
 | 11 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luigi Villoresi](../drivers/luigi-villoresi) | Ferrari | 1532 | 1468 | 1487 |
 | 12 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Maurice Trintignant](../drivers/maurice-trintignant) | Simca | 1442 | 1468 | 1460 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: British Grand Prix

@@ -40,6 +40,7 @@
 | 32 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ivan Capelli](../drivers/ivan-capelli) | Ferrari | 1403 | 1438 | 1427 |
 | 33 | 1453 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](../drivers/johnny-herbert) | Team Lotus | 1468 | 1332 | 1374 |
 | 34 | 1444 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki](../drivers/aguri-suzuki) | Footwork | 1350 | 1375 | 1368 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: South African Grand Prix

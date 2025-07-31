@@ -43,6 +43,7 @@
 | 35 | 1449 | [Gunnar Nilsson](../drivers/gunnar-nilsson) | Team Lotus | 1316 | 1427 | 1394 |
 | 36 | 1365 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](../drivers/jean-pierre-jarier) | Penske | 1360 | 1380 | 1374 |
 | 37 | 1322 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) | McLaren | 1331 | 1297 | 1305 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Argentine Grand Prix

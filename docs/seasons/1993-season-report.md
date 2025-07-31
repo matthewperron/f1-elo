@@ -41,6 +41,7 @@
 | 33 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Fabrizio Barbazza](../drivers/fabrizio-barbazza) | Minardi | 1331 | 1446 | 1411 |
 | 34 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](../drivers/damon-hill) | Williams | 1355 | 1431 | 1407 |
 | 35 | 1474 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](../drivers/alessandro-zanardi) | Team Lotus | 1336 | 1340 | 1339 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: South African Grand Prix

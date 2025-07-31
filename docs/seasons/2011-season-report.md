@@ -34,6 +34,7 @@
 | 26 | 1450 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](../drivers/pedro-de-la-rosa) | Sauber | 1428 | 1431 | 1430 |
 | 27 | 1500 | [Narain Karthikeyan](../drivers/narain-karthikeyan) | HRT | 1358 | 1442 | 1416 |
 | 28 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](../drivers/jarno-trulli) | Lotus | 1470 | 1374 | 1405 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

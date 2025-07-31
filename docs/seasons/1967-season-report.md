@@ -26,6 +26,7 @@
 | 18 | 1432 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](../drivers/lorenzo-bandini) | Ferrari | 1445 | 1418 | 1425 |
 | 19 | 1418 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Spence](../drivers/mike-spence) | BRM | 1439 | 1383 | 1399 |
 | 20 | 1408 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Denny Hulme](../drivers/denny-hulme) | Brabham-Repco | 1392 | 1401 | 1398 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: South African Grand Prix

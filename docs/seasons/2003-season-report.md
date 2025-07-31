@@ -30,6 +30,7 @@
 | 22 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Antônio Pizzonia](../drivers/antnio-pizzonia) | Jaguar | 1519 | 1423 | 1452 |
 | 23 | 1473 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](../drivers/takuma-sato) | BAR | 1466 | 1444 | 1451 |
 | 24 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Nicolas Kiesa](../drivers/nicolas-kiesa) | Minardi | 1394 | 1416 | 1409 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

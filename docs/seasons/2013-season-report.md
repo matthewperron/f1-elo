@@ -29,6 +29,7 @@
 | 21 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Max Chilton](../drivers/max-chilton) | Marussia | 1407 | 1403 | 1403 |
 | 22 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Esteban Gutiérrez](../drivers/esteban-gutirrez) | Sauber | 1351 | 1403 | 1388 |
 | 23 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](../drivers/adrian-sutil) | Force India | 1361 | 1354 | 1356 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

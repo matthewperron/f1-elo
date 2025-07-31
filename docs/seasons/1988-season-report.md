@@ -36,6 +36,7 @@
 | 28 | 1436 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](../drivers/satoru-nakajima) | Team Lotus | 1409 | 1436 | 1429 |
 | 29 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Maurício Gugelmin](../drivers/maurcio-gugelmin) | March | 1365 | 1417 | 1401 |
 | 30 | 1426 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Adrián Campos](../drivers/adrin-campos) | Minardi | 1302 | 1436 | 1396 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix

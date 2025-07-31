@@ -29,6 +29,7 @@
 | 21 | 1408 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](../drivers/jenson-button) | Renault | 1582 | 1423 | 1471 |
 | 22 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Allan McNish](../drivers/allan-mcnish) | Toyota | 1385 | 1450 | 1430 |
 | 23 | 1450 | [Alex Yoong](../drivers/alex-yoong) | Minardi | 1289 | 1340 | 1324 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

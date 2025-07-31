@@ -31,6 +31,7 @@
 | 23 | 1450 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) | Renault | 1493 | 1420 | 1442 |
 | 24 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Ricardo Zunino](../drivers/ricardo-zunino) | Brabham | 1398 | 1432 | 1421 |
 | 25 | 1404 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](../drivers/jean-pierre-jarier) | Tyrrell | 1492 | 1388 | 1418 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Argentine Grand Prix

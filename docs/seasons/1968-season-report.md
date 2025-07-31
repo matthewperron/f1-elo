@@ -33,6 +33,7 @@
 | 25 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Ludovico Scarfiotti](../drivers/ludovico-scarfiotti) | Cooper-BRM | 1476 | 1439 | 1451 |
 | 26 | 1476 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](../drivers/bruce-mclaren) | McLaren-Ford | 1400 | 1400 | 1400 |
 | 27 | 1399 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Spence](../drivers/mike-spence) | BRM | 1413 | 1383 | 1391 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: South African Grand Prix

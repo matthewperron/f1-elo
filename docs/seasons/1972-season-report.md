@@ -23,6 +23,7 @@
 | 15 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Walker](../drivers/david-walker) | Team Lotus | 1396 | 1433 | 1421 |
 | 16 | 1413 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](../drivers/graham-hill) | Brabham | 1479 | 1353 | 1391 |
 | 17 | 1360 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Cevert](../drivers/franois-cevert) | Tyrrell | 1304 | 1381 | 1356 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Argentine Grand Prix

@@ -41,6 +41,7 @@
 | 33 | 1472 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue](../drivers/taki-inoue) | Footwork | 1366 | 1402 | 1391 |
 | 34 | 1424 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Aguri Suzuki](../drivers/aguri-suzuki) | Ligier | 1382 | 1388 | 1386 |
 | 35 | 1460 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](../drivers/ukyo-katayama) | Tyrrell | 1313 | 1377 | 1356 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix

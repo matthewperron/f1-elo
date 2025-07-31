@@ -24,6 +24,7 @@
 | 16 | 1527 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill](../drivers/phil-hill) | Cooper-Climax | 1434 | 1442 | 1439 |
 | 17 | 1413 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](../drivers/richie-ginther) | BRM | 1438 | 1426 | 1429 |
 | 18 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](../drivers/lorenzo-bandini) | Ferrari | 1356 | 1452 | 1423 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Monaco Grand Prix

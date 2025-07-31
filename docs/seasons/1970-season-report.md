@@ -22,6 +22,7 @@
 | 14 | 1481 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Oliver](../drivers/jackie-oliver) | BRM | 1404 | 1468 | 1448 |
 | 15 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](../drivers/clay-regazzoni) | Ferrari | 1459 | 1433 | 1442 |
 | 16 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Henri Pescarolo](../drivers/henri-pescarolo) | Matra | 1454 | 1371 | 1397 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: South African Grand Prix

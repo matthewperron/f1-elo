@@ -27,6 +27,7 @@
 | 19 | 1500 | [Robert Kubica](../drivers/robert-kubica) | Alfa Romeo | 1451 | 1454 | 1453 |
 | 20 | 1500 | [Nikita Mazepin](../drivers/nikita-mazepin) | Haas F1 Team | 1329 | 1482 | 1436 |
 | 21 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](../drivers/yuki-tsunoda) | AlphaTauri | 1372 | 1410 | 1400 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Bahrain Grand Prix

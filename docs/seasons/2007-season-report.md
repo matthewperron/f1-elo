@@ -32,6 +32,7 @@
 | 24 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Alexander Wurz](../drivers/alexander-wurz) | Williams | 1358 | 1471 | 1436 |
 | 25 | 1441 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](../drivers/sakon-yamamoto) | Spyker | 1386 | 1422 | 1409 |
 | 26 | 1528 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](../drivers/giancarlo-fisichella) | Renault | 1506 | 1360 | 1405 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

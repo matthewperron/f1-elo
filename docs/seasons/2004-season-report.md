@@ -31,6 +31,7 @@
 | 23 | 1471 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](../drivers/marc-gen) | Williams | 1433 | 1434 | 1434 |
 | 24 | 1452 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Antônio Pizzonia](../drivers/antnio-pizzonia) | Williams | 1508 | 1383 | 1421 |
 | 25 | 1451 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](../drivers/takuma-sato) | BAR | 1565 | 1344 | 1412 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

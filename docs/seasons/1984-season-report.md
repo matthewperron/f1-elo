@@ -37,6 +37,7 @@
 | 29 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](../drivers/philippe-alliot) | RAM | 1418 | 1420 | 1419 |
 | 30 | 1431 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) | Ferrari | 1386 | 1425 | 1415 |
 | 31 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> François Hesnault](../drivers/franois-hesnault) | Ligier | 1345 | 1401 | 1385 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix

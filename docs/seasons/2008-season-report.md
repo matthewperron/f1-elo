@@ -28,6 +28,7 @@
 | 20 | 1529 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](../drivers/david-coulthard) | Red Bull | 1528 | 1467 | 1485 |
 | 21 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet Jr.](../drivers/nelson-piquet-jr) | Renault | 1303 | 1484 | 1429 |
 | 22 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Sébastien Bourdais](../drivers/sbastien-bourdais) | Toro Rosso | 1349 | 1321 | 1329 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

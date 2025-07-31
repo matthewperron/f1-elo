@@ -30,6 +30,7 @@
 | 22 | 1599 | [Daniil Kvyat](../drivers/daniil-kvyat) | Red Bull | 1470 | 1442 | 1450 |
 | 23 | 1484 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Felipe Nasr](../drivers/felipe-nasr) | Sauber | 1442 | 1427 | 1430 |
 | 24 | 1500 | [Rio Haryanto](../drivers/rio-haryanto) | Manor Marussia | 1441 | 1382 | 1399 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

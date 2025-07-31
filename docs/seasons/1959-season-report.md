@@ -20,6 +20,7 @@
 | 12 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Len Sutton](../drivers/len-sutton) | Lesovsky | 1468 | 1468 | 1468 |
 | 13 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ivor Bueb](../drivers/ivor-bueb) | Cooper-Borgward | 1468 | 1468 | 1468 |
 | 14 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Carroll Shelby](../drivers/carroll-shelby) | Aston Martin | 1435 | 1465 | 1456 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Monaco Grand Prix

@@ -28,6 +28,7 @@
 | 20 | 1553 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](../drivers/daniel-ricciardo) | McLaren | 1496 | 1464 | 1471 |
 | 21 | 1467 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](../drivers/esteban-ocon) | Alpine F1 Team | 1524 | 1407 | 1442 |
 | 22 | 1455 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](../drivers/nicholas-latifi) | Williams | 1363 | 1268 | 1297 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Bahrain Grand Prix

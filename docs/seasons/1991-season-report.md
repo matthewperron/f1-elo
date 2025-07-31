@@ -39,6 +39,7 @@
 | 31 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](../drivers/karl-wendlinger) | Leyton House | 1434 | 1447 | 1443 |
 | 32 | 1500 | [Bertrand Gachot](../drivers/bertrand-gachot) | Jordan | 1396 | 1407 | 1403 |
 | 33 | 1446 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](../drivers/satoru-nakajima) | Tyrrell | 1321 | 1380 | 1365 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: United States Grand Prix

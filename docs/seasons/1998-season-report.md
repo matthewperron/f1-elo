@@ -29,6 +29,7 @@
 | 21 | 1455 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](../drivers/jos-verstappen) | Stewart | 1492 | 1373 | 1410 |
 | 22 | 1431 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Jan Magnussen](../drivers/jan-magnussen) | Stewart | 1349 | 1396 | 1382 |
 | 23 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Esteban Tuero](../drivers/esteban-tuero) | Minardi | 1311 | 1363 | 1347 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

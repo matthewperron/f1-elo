@@ -26,6 +26,7 @@
 | 18 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi](../drivers/antonio-giovinazzi) | Alfa Romeo | 1546 | 1411 | 1453 |
 | 19 | 1459 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](../drivers/lance-stroll) | Racing Point | 1326 | 1422 | 1393 |
 | 20 | 1500 | [Robert Kubica](../drivers/robert-kubica) | Williams | 1379 | 1367 | 1369 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

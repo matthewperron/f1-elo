@@ -31,6 +31,7 @@
 | 23 | 1545 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](../drivers/kimi-rikknen) | Ferrari | 1516 | 1435 | 1462 |
 | 24 | 1476 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jolyon Palmer](../drivers/jolyon-palmer) | Renault | 1474 | 1456 | 1461 |
 | 25 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](../drivers/lance-stroll) | Williams | 1442 | 1434 | 1438 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

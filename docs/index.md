@@ -39,7 +39,7 @@ Race-by-race ELO changes and detailed analysis for each season:
 
 <!-- ELO_RESULTS_START -->
 ### ELO Ratings (2025 Season)
-*Last updated: 2025-07-31 21:16*
+*Last updated: 2025-07-31*
 
 | Rank | Starting ELO | Driver | Constructor | Qualifying ELO | Race ELO | ELO |
 |------|--------------|--------|-------------|----------------|----------|-----|
@@ -179,7 +179,7 @@ Based on peak **Global ELO** ratings (30% qualifying + 70% race performance vs t
 | 29 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg | **1744** | Mercedes | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Michael Schumacher | 1423 | 2010 | [Round 16: Japanese Grand Prix](./seasons/2010-season-report#round-16-japanese-grand-prix) |
 | 30 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti | **1741** | Team Lotus | Ronnie Peterson | 1536 | 1978 | [Round 14: Italian Grand Prix](./seasons/1978-season-report#round-14-italian-grand-prix) |
 
-*Based on peak ELO ratings achieved during their F1 careers. Updated: 2025-07-31 21:16*
+*Based on peak ELO ratings achieved during their F1 careers. Last updated: 2025-07-31*
 <!-- TOP30_TABLES_END -->
 
 ## About This Project

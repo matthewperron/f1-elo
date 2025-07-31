@@ -41,6 +41,7 @@
 | 33 | 1375 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](../drivers/clay-regazzoni) | Ferrari | 1299 | 1415 | 1381 |
 | 34 | 1540 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](../drivers/jean-pierre-jarier) | Shadow | 1415 | 1343 | 1365 |
 | 35 | 1404 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) | McLaren | 1312 | 1329 | 1322 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix

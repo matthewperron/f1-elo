@@ -32,6 +32,7 @@
 | 24 | 1387 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) | Arrows | 1442 | 1395 | 1406 |
 | 25 | 1356 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](../drivers/jean-pierre-jarier) | Tyrrell | 1369 | 1420 | 1404 |
 | 26 | 1499 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](../drivers/clay-regazzoni) | Williams | 1306 | 1411 | 1379 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Argentine Grand Prix

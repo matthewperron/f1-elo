@@ -38,6 +38,7 @@
 | 30 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Siegfried Stohr](../drivers/siegfried-stohr) | Arrows | 1381 | 1402 | 1396 |
 | 31 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](../drivers/andrea-de-cesaris) | McLaren | 1362 | 1408 | 1394 |
 | 32 | 1442 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](../drivers/ren-arnoux) | Renault | 1446 | 1359 | 1385 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: United States Grand Prix West

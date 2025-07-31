@@ -19,6 +19,7 @@
 | 11 | 1473 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Piers Courage](../drivers/piers-courage) | Brabham-Ford | 1361 | 1450 | 1424 |
 | 12 | 1452 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Denny Hulme](../drivers/denny-hulme) | McLaren-Ford | 1493 | 1378 | 1413 |
 | 13 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Beltoise](../drivers/jean-pierre-beltoise) | Matra-Ford | 1429 | 1385 | 1399 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: South African Grand Prix

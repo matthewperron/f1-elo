@@ -33,6 +33,7 @@
 | 25 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](../drivers/sakon-yamamoto) | Super Aguri | 1474 | 1428 | 1441 |
 | 26 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuji Ide](../drivers/yuji-ide) | Super Aguri | 1378 | 1450 | 1428 |
 | 27 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Franck Montagny](../drivers/franck-montagny) | Super Aguri | 1435 | 1415 | 1421 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Bahrain Grand Prix

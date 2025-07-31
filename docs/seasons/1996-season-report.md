@@ -30,6 +30,7 @@
 | 22 | 1529 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz](../drivers/pedro-diniz) | Ligier | 1313 | 1508 | 1449 |
 | 23 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Rosset](../drivers/ricardo-rosset) | Footwork | 1320 | 1479 | 1431 |
 | 24 | 1356 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](../drivers/ukyo-katayama) | Tyrrell | 1408 | 1372 | 1381 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

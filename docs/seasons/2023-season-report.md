@@ -28,6 +28,7 @@
 | 20 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](../drivers/kevin-magnussen) | Haas F1 Team | 1511 | 1423 | 1450 |
 | 21 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](../drivers/lance-stroll) | Aston Martin | 1316 | 1400 | 1377 |
 | 22 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](../drivers/logan-sargeant) | Williams | 1328 | 1351 | 1345 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Bahrain Grand Prix

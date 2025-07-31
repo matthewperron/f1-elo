@@ -155,8 +155,8 @@ async function generatePeakELOFile() {
     content += `- **Average peak**: ${Math.round(raceTable.drivers.reduce((sum, d) => sum + d.peak, 0) / raceTable.drivers.length) || 'N/A'}\n\n`;
     
     const now = new Date();
-    const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
-    content += `*Generated on: ${timestamp}*\n`;
+    const timestamp = `${now.toISOString().split('T')[0]}`;
+    content += `*Last updated: ${timestamp}*\n`;
     
     await fs.writeFile('docs/peak-elo.md', content, 'utf8');
     console.log(`✓ Generated peak-elo.md with 3 ELO type tables`);
@@ -215,8 +215,8 @@ async function updateIndexWithTop30(peakDriversData) {
         );
         
         const now = new Date();
-        const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
-        allTablesContent += `\n*Based on peak ELO ratings achieved during their F1 careers. Updated: ${timestamp}*\n`;
+        const timestamp = `${now.toISOString().split('T')[0]}`;
+        allTablesContent += `\n*Based on peak ELO ratings achieved during their F1 careers. Last updated: ${timestamp}*\n`;
         
         // Replace content between TOP30_TABLES markers
         const updatedContent = indexContent.replace(

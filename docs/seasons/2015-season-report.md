@@ -28,6 +28,7 @@
 | 20 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Roberto Merhi](../drivers/roberto-merhi) | Manor Marussia | 1382 | 1500 | 1465 |
 | 21 | 1573 | [Pastor Maldonado](../drivers/pastor-maldonado) | Lotus F1 | 1458 | 1464 | 1464 |
 | 22 | 1465 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](../drivers/kevin-magnussen) | McLaren | 1502 | 1438 | 1456 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

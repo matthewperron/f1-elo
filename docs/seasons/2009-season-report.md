@@ -31,6 +31,7 @@
 | 23 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kazuki Nakajima](../drivers/kazuki-nakajima) | Williams | 1480 | 1419 | 1439 |
 | 24 | 1429 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet Jr.](../drivers/nelson-piquet-jr) | Renault | 1326 | 1476 | 1431 |
 | 25 | 1329 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Sébastien Bourdais](../drivers/sbastien-bourdais) | Toro Rosso | 1325 | 1341 | 1335 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

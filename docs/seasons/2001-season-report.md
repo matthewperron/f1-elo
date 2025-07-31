@@ -32,6 +32,7 @@
 | 24 | 1480 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](../drivers/jenson-button) | Benetton | 1500 | 1368 | 1408 |
 | 25 | 1408 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Zonta](../drivers/ricardo-zonta) | Jordan | 1397 | 1408 | 1404 |
 | 26 | 1401 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Gastón Mazzacane](../drivers/gastn-mazzacane) | Prost | 1329 | 1402 | 1380 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

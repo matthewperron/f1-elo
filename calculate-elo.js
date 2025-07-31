@@ -519,6 +519,8 @@ function generateSeasonReportELOTable(driverRatings) {
         table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
     });
     
+    table += "\n";
+
     return table;
 }
 
@@ -663,7 +665,7 @@ async function updateHomepageFiles(driverRatings, season, useComprehensiveLinks 
         ];
         
         const now = new Date();
-        const timestamp = `${now.toISOString().split('T')[0]} ${now.toTimeString().slice(0, 5)}`;
+        const timestamp = `${now.toISOString().split('T')[0]}`;
         
         for (const file of files) {
             try {

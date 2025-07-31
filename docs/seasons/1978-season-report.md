@@ -34,6 +34,7 @@
 | 26 | 1305 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) | ATS | 1405 | 1383 | 1387 |
 | 27 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen](../drivers/rolf-stommelen) | Arrows | 1344 | 1396 | 1380 |
 | 28 | 1374 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](../drivers/jean-pierre-jarier) | ATS | 1394 | 1340 | 1356 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Argentine Grand Prix

@@ -19,6 +19,7 @@
 | 11 | 1463 | [Jo Bonnier](../drivers/jo-bonnier) | Porsche | 1429 | 1468 | 1456 |
 | 12 | 1500 | [Tony Maggs](../drivers/tony-maggs) | Cooper-Climax | 1420 | 1468 | 1454 |
 | 13 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](../drivers/richie-ginther) | BRM | 1508 | 1413 | 1441 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Dutch Grand Prix

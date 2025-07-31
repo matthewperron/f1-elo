@@ -43,6 +43,7 @@
 | 35 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lella Lombardi](../drivers/lella-lombardi) | March | 1338 | 1464 | 1427 |
 | 36 | 1481 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](../drivers/jochen-mass) | McLaren | 1402 | 1407 | 1404 |
 | 37 | 1444 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](../drivers/clay-regazzoni) | Ferrari | 1297 | 1407 | 1375 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Argentine Grand Prix

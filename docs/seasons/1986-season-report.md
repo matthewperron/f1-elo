@@ -37,6 +37,7 @@
 | 29 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Dumfries](../drivers/johnny-dumfries) | Team Lotus | 1410 | 1430 | 1423 |
 | 30 | 1560 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](../drivers/jacques-laffite) | Ligier | 1357 | 1454 | 1422 |
 | 31 | 1442 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](../drivers/marc-surer) | Arrows | 1434 | 1370 | 1390 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix

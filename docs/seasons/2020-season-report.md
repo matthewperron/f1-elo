@@ -29,6 +29,7 @@
 | 21 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](../drivers/esteban-ocon) | Renault | 1458 | 1463 | 1462 |
 | 22 | 1503 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](../drivers/alexander-albon) | Red Bull | 1362 | 1505 | 1461 |
 | 23 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](../drivers/nico-hlkenberg) | Racing Point | 1565 | 1383 | 1435 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Austrian Grand Prix

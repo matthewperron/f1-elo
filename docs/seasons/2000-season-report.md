@@ -29,6 +29,7 @@
 | 21 | 1477 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Zonta](../drivers/ricardo-zonta) | BAR | 1409 | 1408 | 1408 |
 | 22 | 1518 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz](../drivers/pedro-diniz) | Sauber | 1416 | 1400 | 1404 |
 | 23 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Gastón Mazzacane](../drivers/gastn-mazzacane) | Minardi | 1372 | 1413 | 1401 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

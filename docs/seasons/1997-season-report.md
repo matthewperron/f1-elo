@@ -32,6 +32,7 @@
 | 24 | 1449 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz](../drivers/pedro-diniz) | Arrows | 1329 | 1457 | 1418 |
 | 25 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano](../drivers/shinji-nakano) | Prost | 1358 | 1423 | 1403 |
 | 26 | 1381 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](../drivers/ukyo-katayama) | Minardi | 1460 | 1374 | 1397 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

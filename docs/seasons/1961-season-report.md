@@ -15,6 +15,7 @@
 | 7 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Roberto Bussinello](../drivers/roberto-bussinello) | De Tomaso-Alfa Romeo | 1468 | 1500 | 1490 |
 | 8 | 1483 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Maurice Trintignant](../drivers/maurice-trintignant) | Cooper-Maserati | 1397 | 1500 | 1469 |
 | 9 | 1495 | [Jo Bonnier](../drivers/jo-bonnier) | Porsche | 1454 | 1468 | 1463 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Monaco Grand Prix

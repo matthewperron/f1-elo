@@ -33,6 +33,7 @@
 | 25 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Homeier](../drivers/bill-homeier) | Kuzma | 1468 | 1468 | 1468 |
 | 26 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Edgar Barth](../drivers/edgar-barth) | Porsche | 1465 | 1468 | 1467 |
 | 27 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Phil Hill](../drivers/phil-hill) | Ferrari | 1442 | 1442 | 1442 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Argentine Grand Prix

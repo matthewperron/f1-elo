@@ -19,6 +19,7 @@
 | 11 | 1382 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Spence](../drivers/mike-spence) | Lotus-BRM | 1502 | 1383 | 1418 |
 | 12 | 1449 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ronnie Bucknum](../drivers/ronnie-bucknum) | Honda | 1379 | 1429 | 1413 |
 | 13 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Denny Hulme](../drivers/denny-hulme) | Brabham-Climax | 1382 | 1420 | 1408 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Monaco Grand Prix

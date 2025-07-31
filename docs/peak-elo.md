@@ -1510,4 +1510,4 @@ Based solely on race finishing positions compared to teammates.
 - **Highest peak**: 2044 (<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen)
 - **Average peak**: 1559
 
-*Generated on: 2025-07-31 21:16*
+*Last updated: 2025-07-31*

@@ -52,6 +52,7 @@
 | 44 | 1470 | [Pedro Lamy](../drivers/pedro-lamy) | Team Lotus | 1384 | 1407 | 1400 |
 | 45 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](../drivers/david-coulthard) | Williams | 1308 | 1397 | 1369 |
 | 46 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Éric Bernard](../drivers/ric-bernard) | Ligier | 1359 | 1354 | 1354 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix

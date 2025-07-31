@@ -24,6 +24,7 @@
 | 16 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ronnie Bucknum](../drivers/ronnie-bucknum) | Honda | 1422 | 1461 | 1449 |
 | 17 | 1423 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Lorenzo Bandini](../drivers/lorenzo-bandini) | Ferrari | 1412 | 1418 | 1416 |
 | 18 | 1461 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mike Spence](../drivers/mike-spence) | Lotus-Climax | 1382 | 1383 | 1382 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: South African Grand Prix

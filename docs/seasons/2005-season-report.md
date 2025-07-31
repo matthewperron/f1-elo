@@ -33,6 +33,7 @@
 | 25 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Patrick Friesacher](../drivers/patrick-friesacher) | Minardi | 1472 | 1405 | 1425 |
 | 26 | 1421 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Antônio Pizzonia](../drivers/antnio-pizzonia) | Williams | 1457 | 1408 | 1423 |
 | 27 | 1412 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](../drivers/takuma-sato) | BAR | 1409 | 1281 | 1320 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Australian Grand Prix

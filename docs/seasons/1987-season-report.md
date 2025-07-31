@@ -34,6 +34,7 @@
 | 26 | 1460 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Christian Danner](../drivers/christian-danner) | Zakspeed | 1486 | 1416 | 1437 |
 | 27 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Satoru Nakajima](../drivers/satoru-nakajima) | Team Lotus | 1433 | 1436 | 1436 |
 | 28 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Adrián Campos](../drivers/adrin-campos) | Minardi | 1335 | 1465 | 1426 |
+
 ## Race-by-Race ELO Changes
 
 ### Round 1: Brazilian Grand Prix
