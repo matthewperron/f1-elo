@@ -516,7 +516,22 @@ function generateSeasonReportELOTable(driverRatings) {
         // Season reports are in docs/seasons/, linking to comprehensive driver files in docs/drivers/
         const driverLink = `[${driver.name}](../drivers/${cleanDriverName})`;
         
-        table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${driver.globalElo} |\n`;
+        // Calculate ELO delta
+        const eloDelta = driver.globalElo - driver.startingElo;
+        let eloDisplay;
+        
+        if (eloDelta > 0) {
+            // Positive delta - green with up arrow
+            eloDisplay = `<span style="color: green">${driver.globalElo} ▲ ${eloDelta}</span>`;
+        } else if (eloDelta < 0) {
+            // Negative delta - red with down arrow
+            eloDisplay = `<span style="color: red">${driver.globalElo} ▼ ${Math.abs(eloDelta)}</span>`;
+        } else {
+            // No change
+            eloDisplay = `${driver.globalElo}`;
+        }
+        
+        table += `| ${index + 1} | ${driver.startingElo} | ${driverLink} | ${driver.constructor} | ${driver.qualifyingElo} | ${driver.raceElo} | ${eloDisplay} |\n`;
     });
     
     table += "\n";
