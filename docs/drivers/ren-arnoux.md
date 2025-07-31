@@ -25,26 +25,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1845
-   *[1988 Round 5 - Canadian Grand Prix](../seasons/1988-season-report#round-5-canadian-grand-prix)*
+   *[1988 Round 5 – Canadian Grand Prix](../seasons/1988-season-report#round-5-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1341
-   *[1984 Round 3 - Belgian Grand Prix](../seasons/1984-season-report#round-3-belgian-grand-prix)*
+   *[1984 Round 3 – Belgian Grand Prix](../seasons/1984-season-report#round-3-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1615
-   *[1987 Round 4 - Monaco Grand Prix](../seasons/1987-season-report#round-4-monaco-grand-prix)*
+   *[1987 Round 4 – Monaco Grand Prix](../seasons/1987-season-report#round-4-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1297
-   *[1982 Round 10 - British Grand Prix](../seasons/1982-season-report#round-10-british-grand-prix)*
+   *[1982 Round 10 – British Grand Prix](../seasons/1982-season-report#round-10-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1653
-   *[1987 Round 9 - Hungarian Grand Prix](../seasons/1987-season-report#round-9-hungarian-grand-prix)*
+   *[1987 Round 9 – Hungarian Grand Prix](../seasons/1987-season-report#round-9-hungarian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1354
-   *[1983 Round 1 - Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)*
+   *[1983 Round 1 – Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

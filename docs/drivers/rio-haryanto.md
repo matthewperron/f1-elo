@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1499
-   *[2016 Round 10 - British Grand Prix](../seasons/2016-season-report#round-10-british-grand-prix)*
+   *[2016 Round 10 – British Grand Prix](../seasons/2016-season-report#round-10-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1431
-   *[2016 Round 5 - Spanish Grand Prix](../seasons/2016-season-report#round-5-spanish-grand-prix)*
+   *[2016 Round 5 – Spanish Grand Prix](../seasons/2016-season-report#round-5-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1468
-   *[2016 Round 2 - Bahrain Grand Prix](../seasons/2016-season-report#round-2-bahrain-grand-prix)*
+   *[2016 Round 2 – Bahrain Grand Prix](../seasons/2016-season-report#round-2-bahrain-grand-prix)*
 
 📉 **Lowest Race Elo**: 1361
-   *[2016 Round 9 - Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix)*
+   *[2016 Round 9 – Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1490
-   *[2016 Round 1 - Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
+   *[2016 Round 1 – Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1390
-   *[2016 Round 9 - Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix)*
+   *[2016 Round 9 – Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix)*
 
 
 ## Complete Career Results by Season

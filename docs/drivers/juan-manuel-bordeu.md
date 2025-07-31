@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1497
-   *[1961 Round 4 - French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
+   *[1961 Round 4 – French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1474
-   *[1961 Round 4 - French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
+   *[1961 Round 4 – French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1961 Round 4 - French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
+   *[1961 Round 4 – French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1492
-   *[1961 Round 4 - French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
+   *[1961 Round 4 – French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Career Results by Season

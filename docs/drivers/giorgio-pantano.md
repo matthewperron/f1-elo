@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1573
-   *[2004 Round 12 - German Grand Prix](../seasons/2004-season-report#round-12-german-grand-prix)*
+   *[2004 Round 12 – German Grand Prix](../seasons/2004-season-report#round-12-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1471
-   *[2004 Round 2 - Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix)*
+   *[2004 Round 2 – Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1483
-   *[2004 Round 3 - Bahrain Grand Prix](../seasons/2004-season-report#round-3-bahrain-grand-prix)*
+   *[2004 Round 3 – Bahrain Grand Prix](../seasons/2004-season-report#round-3-bahrain-grand-prix)*
 
 📉 **Lowest Race Elo**: 1416
-   *[2004 Round 15 - Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix)*
+   *[2004 Round 15 – Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1509
-   *[2004 Round 4 - San Marino Grand Prix](../seasons/2004-season-report#round-4-san-marino-grand-prix)*
+   *[2004 Round 4 – San Marino Grand Prix](../seasons/2004-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1456
-   *[2004 Round 14 - Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix)*
+   *[2004 Round 14 – Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1491
-   *[1986 Round 1 - Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)*
+   *[1986 Round 1 – Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1411
-   *[1986 Round 16 - Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
+   *[1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1482
-   *[1986 Round 1 - Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)*
+   *[1986 Round 1 – Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1429
-   *[1986 Round 11 - Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)*
+   *[1986 Round 11 – Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1485
-   *[1986 Round 1 - Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)*
+   *[1986 Round 1 – Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1424
-   *[1986 Round 16 - Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
+   *[1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

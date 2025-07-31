@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1612
-   *[2021 Round 19 - São Paulo Grand Prix](../seasons/2021-season-report#round-19-so-paulo-grand-prix)*
+   *[2021 Round 19 – São Paulo Grand Prix](../seasons/2021-season-report#round-19-so-paulo-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1289
-   *[2022 Round 20 - Mexico City Grand Prix](../seasons/2022-season-report#round-20-mexico-city-grand-prix)*
+   *[2022 Round 20 – Mexico City Grand Prix](../seasons/2022-season-report#round-20-mexico-city-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1607
-   *[2020 Round 13 - Emilia Romagna Grand Prix](../seasons/2020-season-report#round-13-emilia-romagna-grand-prix)*
+   *[2020 Round 13 – Emilia Romagna Grand Prix](../seasons/2020-season-report#round-13-emilia-romagna-grand-prix)*
 
 📉 **Lowest Race Elo**: 1298
-   *[2022 Round 22 - Abu Dhabi Grand Prix](../seasons/2022-season-report#round-22-abu-dhabi-grand-prix)*
+   *[2022 Round 22 – Abu Dhabi Grand Prix](../seasons/2022-season-report#round-22-abu-dhabi-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1557
-   *[2020 Round 13 - Emilia Romagna Grand Prix](../seasons/2020-season-report#round-13-emilia-romagna-grand-prix)*
+   *[2020 Round 13 – Emilia Romagna Grand Prix](../seasons/2020-season-report#round-13-emilia-romagna-grand-prix)*
 
 📉 **Lowest Global Elo**: 1306
-   *[2022 Round 20 - Mexico City Grand Prix](../seasons/2022-season-report#round-20-mexico-city-grand-prix)*
+   *[2022 Round 20 – Mexico City Grand Prix](../seasons/2022-season-report#round-20-mexico-city-grand-prix)*
 
 
 ## Complete Career Results by Season

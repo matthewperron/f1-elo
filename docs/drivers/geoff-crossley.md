@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1532
-   *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
+   *[1950 Round 1 – British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1532
-   *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
+   *[1950 Round 1 – British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1510
-   *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
+   *[1950 Round 1 – British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1510
-   *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
+   *[1950 Round 1 – British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
 
 ## Complete Career Results by Season

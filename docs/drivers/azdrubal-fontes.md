@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1489
-   *[1959 Round 4 - French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
+   *[1959 Round 4 – French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1467
-   *[1959 Round 4 - French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
+   *[1959 Round 4 – French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1497
-   *[1959 Round 4 - French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
+   *[1959 Round 4 – French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1959 Round 4 - French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
+   *[1959 Round 4 – French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Career Results by Season

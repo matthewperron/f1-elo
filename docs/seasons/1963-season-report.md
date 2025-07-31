@@ -1,10 +1,10 @@
-# 1963 F1 Season - ELO Analysis
+# 1963 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Monaco Grand Prix](#round-1-monaco-grand-prix) • [Round 2: Belgian Grand Prix](#round-2-belgian-grand-prix) • [Round 3: Dutch Grand Prix](#round-3-dutch-grand-prix) • [Round 4: French Grand Prix](#round-4-french-grand-prix) • [Round 5: British Grand Prix](#round-5-british-grand-prix) • [Round 6: German Grand Prix](#round-6-german-grand-prix) • [Round 7: Italian Grand Prix](#round-7-italian-grand-prix) • [Round 8: United States Grand Prix](#round-8-united-states-grand-prix) • [Round 9: Mexican Grand Prix](#round-9-mexican-grand-prix) • [Round 10: South African Grand Prix](#round-10-south-african-grand-prix)
+[Round 1 – Monaco Grand Prix](#round-1-monaco-grand-prix) • [Round 2 – Belgian Grand Prix](#round-2-belgian-grand-prix) • [Round 3 – Dutch Grand Prix](#round-3-dutch-grand-prix) • [Round 4 – French Grand Prix](#round-4-french-grand-prix) • [Round 5 – British Grand Prix](#round-5-british-grand-prix) • [Round 6 – German Grand Prix](#round-6-german-grand-prix) • [Round 7 – Italian Grand Prix](#round-7-italian-grand-prix) • [Round 8 – United States Grand Prix](#round-8-united-states-grand-prix) • [Round 9 – Mexican Grand Prix](#round-9-mexican-grand-prix) • [Round 10 – South African Grand Prix](#round-10-south-african-grand-prix)
 
 📊 **[View Complete F1 1963 Season Results](https://www.formula1.com/en/results.html/1963/races.html)** | **[Wikipedia 1963 F1 Season](https://en.wikipedia.org/wiki/1963_Formula_One_World_Championship)**
 
@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Monaco Grand Prix
+### Round 1 – Monaco Grand Prix
 *Date: 1963-05-26*
 
 #### Qualifying Results
@@ -130,7 +130,7 @@
 
 ---
 
-### Round 2: Belgian Grand Prix
+### Round 2 – Belgian Grand Prix
 *Date: 1963-06-09*
 
 #### Qualifying Results
@@ -193,7 +193,7 @@
 
 ---
 
-### Round 3: Dutch Grand Prix
+### Round 3 – Dutch Grand Prix
 *Date: 1963-06-23*
 
 #### Qualifying Results
@@ -250,7 +250,7 @@
 
 ---
 
-### Round 4: French Grand Prix
+### Round 4 – French Grand Prix
 *Date: 1963-06-30*
 
 #### Qualifying Results
@@ -313,7 +313,7 @@
 
 ---
 
-### Round 5: British Grand Prix
+### Round 5 – British Grand Prix
 *Date: 1963-07-20*
 
 #### Qualifying Results
@@ -380,7 +380,7 @@
 
 ---
 
-### Round 6: German Grand Prix
+### Round 6 – German Grand Prix
 *Date: 1963-08-04*
 
 #### Qualifying Results
@@ -445,7 +445,7 @@
 
 ---
 
-### Round 7: Italian Grand Prix
+### Round 7 – Italian Grand Prix
 *Date: 1963-09-08*
 
 #### Qualifying Results
@@ -512,7 +512,7 @@
 
 ---
 
-### Round 8: United States Grand Prix
+### Round 8 – United States Grand Prix
 *Date: 1963-10-06*
 
 #### Qualifying Results
@@ -575,7 +575,7 @@
 
 ---
 
-### Round 9: Mexican Grand Prix
+### Round 9 – Mexican Grand Prix
 *Date: 1963-10-27*
 
 #### Qualifying Results
@@ -640,7 +640,7 @@
 
 ---
 
-### Round 10: South African Grand Prix
+### Round 10 – South African Grand Prix
 *Date: 1963-12-28*
 
 #### Qualifying Results

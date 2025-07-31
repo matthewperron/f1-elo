@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1525
-   *[2014 Round 12 - Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
+   *[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1525
-   *[2014 Round 12 - Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
+   *[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1508
-   *[2014 Round 12 - Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
+   *[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1508
-   *[2014 Round 12 - Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
+   *[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

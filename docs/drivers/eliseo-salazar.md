@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1532
-   *[1982 Round 1 - South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
+   *[1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1339
-   *[1982 Round 14 - Swiss Grand Prix](../seasons/1982-season-report#round-14-swiss-grand-prix)*
+   *[1982 Round 14 – Swiss Grand Prix](../seasons/1982-season-report#round-14-swiss-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1580
-   *[1982 Round 7 - Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
+   *[1982 Round 7 – Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
 
 📉 **Lowest Race Elo**: 1496
-   *[1982 Round 11 - French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
+   *[1982 Round 11 – French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1532
-   *[1982 Round 1 - South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
+   *[1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1449
-   *[1982 Round 14 - Swiss Grand Prix](../seasons/1982-season-report#round-14-swiss-grand-prix)*
+   *[1982 Round 14 – Swiss Grand Prix](../seasons/1982-season-report#round-14-swiss-grand-prix)*
 
 
 ## Complete Career Results by Season

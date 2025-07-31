@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1508
-   *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
+   *[1960 Round 1 – Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1492
-   *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
+   *[1960 Round 1 – Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1502
-   *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
+   *[1960 Round 1 – Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1498
-   *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
+   *[1960 Round 1 – Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
 
 ## Complete Career Results by Season

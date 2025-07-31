@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1462
-   *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
+   *[1951 Round 7 – Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1462
-   *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
+   *[1951 Round 7 – Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1489
-   *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
+   *[1951 Round 7 – Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1489
-   *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
+   *[1951 Round 7 – Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

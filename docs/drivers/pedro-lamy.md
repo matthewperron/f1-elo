@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1546
-   *[1995 Round 16 - Japanese Grand Prix](../seasons/1995-season-report#round-16-japanese-grand-prix)*
+   *[1995 Round 16 – Japanese Grand Prix](../seasons/1995-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1371
-   *[1995 Round 10 - Hungarian Grand Prix](../seasons/1995-season-report#round-10-hungarian-grand-prix)*
+   *[1995 Round 10 – Hungarian Grand Prix](../seasons/1995-season-report#round-10-hungarian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1536
-   *[1996 Round 6 - Monaco Grand Prix](../seasons/1996-season-report#round-6-monaco-grand-prix)*
+   *[1996 Round 6 – Monaco Grand Prix](../seasons/1996-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1378
-   *[1995 Round 10 - Hungarian Grand Prix](../seasons/1995-season-report#round-10-hungarian-grand-prix)*
+   *[1995 Round 10 – Hungarian Grand Prix](../seasons/1995-season-report#round-10-hungarian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1513
-   *[1996 Round 6 - Monaco Grand Prix](../seasons/1996-season-report#round-6-monaco-grand-prix)*
+   *[1996 Round 6 – Monaco Grand Prix](../seasons/1996-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1376
-   *[1995 Round 10 - Hungarian Grand Prix](../seasons/1995-season-report#round-10-hungarian-grand-prix)*
+   *[1995 Round 10 – Hungarian Grand Prix](../seasons/1995-season-report#round-10-hungarian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -23,26 +23,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1734
-   *[1993 Round 5 - Spanish Grand Prix](../seasons/1993-season-report#round-5-spanish-grand-prix)*
+   *[1993 Round 5 – Spanish Grand Prix](../seasons/1993-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1374
-   *[1985 Round 8 - British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix)*
+   *[1985 Round 8 – British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1497
-   *[1987 Round 14 - Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix)*
+   *[1987 Round 14 – Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix)*
 
 📉 **Lowest Race Elo**: 1331
-   *[1990 Round 16 - Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)*
+   *[1990 Round 16 – Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1546
-   *[1990 Round 7 - French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix)*
+   *[1990 Round 7 – French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1420
-   *[1984 Round 16 - Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix)*
+   *[1984 Round 16 – Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1531
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+   *[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1438
-   *[1982 Round 3 - United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west)*
+   *[1982 Round 3 – United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1466
-   *[1982 Round 1 - South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
+   *[1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Race Elo**: 1439
-   *[1982 Round 2 - Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix)*
+   *[1982 Round 2 – Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1509
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+   *[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1438
-   *[1982 Round 3 - United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west)*
+   *[1982 Round 3 – United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west)*
 
 
 ## Complete Career Results by Season

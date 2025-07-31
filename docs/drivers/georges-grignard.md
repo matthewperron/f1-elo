@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1508
-   *[1951 Round 8 - Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
+   *[1951 Round 8 – Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1484
-   *[1951 Round 8 - Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
+   *[1951 Round 8 – Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1502
-   *[1951 Round 8 - Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
+   *[1951 Round 8 – Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
 
 📉 **Lowest Global Elo**: 1495
-   *[1951 Round 8 - Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
+   *[1951 Round 8 – Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
 
 
 ## Complete Career Results by Season

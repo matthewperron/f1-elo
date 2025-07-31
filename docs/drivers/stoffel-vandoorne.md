@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1717
-   *[2017 Round 16 - Japanese Grand Prix](../seasons/2017-season-report#round-16-japanese-grand-prix)*
+   *[2017 Round 16 – Japanese Grand Prix](../seasons/2017-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1493
-   *[2018 Round 15 - Singapore Grand Prix](../seasons/2018-season-report#round-15-singapore-grand-prix)*
+   *[2018 Round 15 – Singapore Grand Prix](../seasons/2018-season-report#round-15-singapore-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1686
-   *[2017 Round 15 - Malaysian Grand Prix](../seasons/2017-season-report#round-15-malaysian-grand-prix)*
+   *[2017 Round 15 – Malaysian Grand Prix](../seasons/2017-season-report#round-15-malaysian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1494
-   *[2017 Round 5 - Spanish Grand Prix](../seasons/2017-season-report#round-5-spanish-grand-prix)*
+   *[2017 Round 5 – Spanish Grand Prix](../seasons/2017-season-report#round-5-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1684
-   *[2017 Round 15 - Malaysian Grand Prix](../seasons/2017-season-report#round-15-malaysian-grand-prix)*
+   *[2017 Round 15 – Malaysian Grand Prix](../seasons/2017-season-report#round-15-malaysian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1498
-   *[2017 Round 5 - Spanish Grand Prix](../seasons/2017-season-report#round-5-spanish-grand-prix)*
+   *[2017 Round 5 – Spanish Grand Prix](../seasons/2017-season-report#round-5-spanish-grand-prix)*
 
 
 ## Complete Career Results by Season

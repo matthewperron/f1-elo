@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1569
-   *[2005 Round 5 - Spanish Grand Prix](../seasons/2005-season-report#round-5-spanish-grand-prix)*
+   *[2005 Round 5 – Spanish Grand Prix](../seasons/2005-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1213
-   *[2012 Round 12 - Belgian Grand Prix](../seasons/2012-season-report#round-12-belgian-grand-prix)*
+   *[2012 Round 12 – Belgian Grand Prix](../seasons/2012-season-report#round-12-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1580
-   *[2005 Round 4 - San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
+   *[2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Race Elo**: 1272
-   *[2012 Round 14 - Singapore Grand Prix](../seasons/2012-season-report#round-14-singapore-grand-prix)*
+   *[2012 Round 14 – Singapore Grand Prix](../seasons/2012-season-report#round-14-singapore-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1570
-   *[2005 Round 4 - San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
+   *[2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1276
-   *[2012 Round 12 - Belgian Grand Prix](../seasons/2012-season-report#round-12-belgian-grand-prix)*
+   *[2012 Round 12 – Belgian Grand Prix](../seasons/2012-season-report#round-12-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

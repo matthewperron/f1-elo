@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1470
-   *[1975 Round 11 - German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
+   *[1975 Round 11 – German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1420
-   *[1977 Round 16 - Canadian Grand Prix](../seasons/1977-season-report#round-16-canadian-grand-prix)*
+   *[1977 Round 16 – Canadian Grand Prix](../seasons/1977-season-report#round-16-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1468
-   *[1975 Round 11 - German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
+   *[1975 Round 11 – German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1438
-   *[1977 Round 15 - United States Grand Prix](../seasons/1977-season-report#round-15-united-states-grand-prix)*
+   *[1977 Round 15 – United States Grand Prix](../seasons/1977-season-report#round-15-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1469
-   *[1975 Round 11 - German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
+   *[1975 Round 11 – German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1433
-   *[1977 Round 16 - Canadian Grand Prix](../seasons/1977-season-report#round-16-canadian-grand-prix)*
+   *[1977 Round 16 – Canadian Grand Prix](../seasons/1977-season-report#round-16-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

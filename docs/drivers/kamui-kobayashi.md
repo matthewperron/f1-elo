@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1637
-   *[2011 Round 2 - Malaysian Grand Prix](../seasons/2011-season-report#round-2-malaysian-grand-prix)*
+   *[2011 Round 2 – Malaysian Grand Prix](../seasons/2011-season-report#round-2-malaysian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1419
-   *[2010 Round 2 - Australian Grand Prix](../seasons/2010-season-report#round-2-australian-grand-prix)*
+   *[2010 Round 2 – Australian Grand Prix](../seasons/2010-season-report#round-2-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1679
-   *[2011 Round 4 - Turkish Grand Prix](../seasons/2011-season-report#round-4-turkish-grand-prix)*
+   *[2011 Round 4 – Turkish Grand Prix](../seasons/2011-season-report#round-4-turkish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1516
-   *[2012 Round 8 - European Grand Prix](../seasons/2012-season-report#round-8-european-grand-prix)*
+   *[2012 Round 8 – European Grand Prix](../seasons/2012-season-report#round-8-european-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1646
-   *[2012 Round 3 - Chinese Grand Prix](../seasons/2012-season-report#round-3-chinese-grand-prix)*
+   *[2012 Round 3 – Chinese Grand Prix](../seasons/2012-season-report#round-3-chinese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1488
-   *[2010 Round 2 - Australian Grand Prix](../seasons/2010-season-report#round-2-australian-grand-prix)*
+   *[2010 Round 2 – Australian Grand Prix](../seasons/2010-season-report#round-2-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

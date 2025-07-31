@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1523
-   *[1989 Round 7 - French Grand Prix](../seasons/1989-season-report#round-7-french-grand-prix)*
+   *[1989 Round 7 – French Grand Prix](../seasons/1989-season-report#round-7-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1267
-   *[1991 Round 8 - British Grand Prix](../seasons/1991-season-report#round-8-british-grand-prix)*
+   *[1991 Round 8 – British Grand Prix](../seasons/1991-season-report#round-8-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1550
-   *[1987 Round 3 - Belgian Grand Prix](../seasons/1987-season-report#round-3-belgian-grand-prix)*
+   *[1987 Round 3 – Belgian Grand Prix](../seasons/1987-season-report#round-3-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1374
-   *[1988 Round 8 - British Grand Prix](../seasons/1988-season-report#round-8-british-grand-prix)*
+   *[1988 Round 8 – British Grand Prix](../seasons/1988-season-report#round-8-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1530
-   *[1987 Round 3 - Belgian Grand Prix](../seasons/1987-season-report#round-3-belgian-grand-prix)*
+   *[1987 Round 3 – Belgian Grand Prix](../seasons/1987-season-report#round-3-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1351
-   *[1991 Round 16 - Australian Grand Prix](../seasons/1991-season-report#round-16-australian-grand-prix)*
+   *[1991 Round 16 – Australian Grand Prix](../seasons/1991-season-report#round-16-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

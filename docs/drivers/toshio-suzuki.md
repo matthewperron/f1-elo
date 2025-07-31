@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1475
-   *[1993 Round 15 - Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)*
+   *[1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1453
-   *[1993 Round 16 - Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix)*
+   *[1993 Round 16 – Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1479
-   *[1993 Round 16 - Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix)*
+   *[1993 Round 16 – Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1479
-   *[1993 Round 16 - Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix)*
+   *[1993 Round 16 – Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1493
-   *[1993 Round 15 - Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)*
+   *[1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1472
-   *[1993 Round 16 - Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix)*
+   *[1993 Round 16 – Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

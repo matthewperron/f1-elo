@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1583
-   *[1984 Round 5 - French Grand Prix](../seasons/1984-season-report#round-5-french-grand-prix)*
+   *[1984 Round 5 – French Grand Prix](../seasons/1984-season-report#round-5-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1437
-   *[1985 Round 8 - British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix)*
+   *[1985 Round 8 – British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1553
-   *[1985 Round 6 - Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
+   *[1985 Round 6 – Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
 
 📉 **Lowest Race Elo**: 1508
-   *[1985 Round 8 - British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix)*
+   *[1985 Round 8 – British Grand Prix](../seasons/1985-season-report#round-8-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1537
-   *[1985 Round 6 - Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
+   *[1985 Round 6 – Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
 
 📉 **Lowest Global Elo**: 1482
-   *[1984 Round 13 - Dutch Grand Prix](../seasons/1984-season-report#round-13-dutch-grand-prix)*
+   *[1984 Round 13 – Dutch Grand Prix](../seasons/1984-season-report#round-13-dutch-grand-prix)*
 
 
 ## Complete Career Results by Season

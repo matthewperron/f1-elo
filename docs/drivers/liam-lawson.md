@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1497
-   *[2023 Round 15 - Singapore Grand Prix](../seasons/2023-season-report#round-15-singapore-grand-prix)*
+   *[2023 Round 15 – Singapore Grand Prix](../seasons/2023-season-report#round-15-singapore-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1305
-   *[2025 Round 10 - Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
+   *[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1568
-   *[2023 Round 16 - Japanese Grand Prix](../seasons/2023-season-report#round-16-japanese-grand-prix)*
+   *[2023 Round 16 – Japanese Grand Prix](../seasons/2023-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1344
-   *[2025 Round 9 - Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix)*
+   *[2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1538
-   *[2023 Round 16 - Japanese Grand Prix](../seasons/2023-season-report#round-16-japanese-grand-prix)*
+   *[2023 Round 16 – Japanese Grand Prix](../seasons/2023-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1334
-   *[2025 Round 10 - Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
+   *[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

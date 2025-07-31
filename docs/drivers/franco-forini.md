@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1469
-   *[1987 Round 11 - Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix)*
+   *[1987 Round 11 – Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1444
-   *[1987 Round 12 - Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix)*
+   *[1987 Round 12 – Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1491
-   *[1987 Round 11 - Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix)*
+   *[1987 Round 11 – Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1483
-   *[1987 Round 12 - Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix)*
+   *[1987 Round 12 – Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix)*
 
 
 ## Complete Career Results by Season

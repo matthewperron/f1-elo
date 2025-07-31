@@ -25,26 +25,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1885
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1530
-   *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
+   *[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1669
-   *[1959 Round 8 - Italian Grand Prix](../seasons/1959-season-report#round-8-italian-grand-prix)*
+   *[1959 Round 8 – Italian Grand Prix](../seasons/1959-season-report#round-8-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1512
-   *[1954 Round 3 - Belgian Grand Prix](../seasons/1954-season-report#round-3-belgian-grand-prix)*
+   *[1954 Round 3 – Belgian Grand Prix](../seasons/1954-season-report#round-3-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1715
-   *[1959 Round 9 - United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
+   *[1959 Round 9 – United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1509
-   *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
+   *[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
 
 ## Complete Career Results by Season

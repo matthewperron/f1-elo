@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1532
-   *[1989 Round 3 - Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
+   *[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1532
-   *[1989 Round 3 - Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
+   *[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1510
-   *[1989 Round 3 - Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
+   *[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1510
-   *[1989 Round 3 - Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
+   *[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

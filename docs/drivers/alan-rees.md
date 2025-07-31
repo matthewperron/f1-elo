@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1499
-   *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
+   *[1967 Round 6 – British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1489
-   *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
+   *[1967 Round 6 – British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1491
-   *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
+   *[1967 Round 6 – British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1491
-   *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
+   *[1967 Round 6 – British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1493
-   *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
+   *[1967 Round 6 – British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
+   *[1967 Round 6 – British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
 
 ## Complete Career Results by Season

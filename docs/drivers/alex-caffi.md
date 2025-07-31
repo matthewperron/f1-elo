@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1695
-   *[1989 Round 11 - Belgian Grand Prix](../seasons/1989-season-report#round-11-belgian-grand-prix)*
+   *[1989 Round 11 – Belgian Grand Prix](../seasons/1989-season-report#round-11-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1478
-   *[1990 Round 7 - French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix)*
+   *[1990 Round 7 – French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1616
-   *[1990 Round 12 - Italian Grand Prix](../seasons/1990-season-report#round-12-italian-grand-prix)*
+   *[1990 Round 12 – Italian Grand Prix](../seasons/1990-season-report#round-12-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1452
-   *[1989 Round 11 - Belgian Grand Prix](../seasons/1989-season-report#round-11-belgian-grand-prix)*
+   *[1989 Round 11 – Belgian Grand Prix](../seasons/1989-season-report#round-11-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1601
-   *[1990 Round 12 - Italian Grand Prix](../seasons/1990-season-report#round-12-italian-grand-prix)*
+   *[1990 Round 12 – Italian Grand Prix](../seasons/1990-season-report#round-12-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1495
-   *[1986 Round 13 - Italian Grand Prix](../seasons/1986-season-report#round-13-italian-grand-prix)*
+   *[1986 Round 13 – Italian Grand Prix](../seasons/1986-season-report#round-13-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -33,26 +33,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 2187
-   *[2001 Round 14 - Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)*
+   *[2001 Round 14 – Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1538
-   *[1991 Round 11 - Belgian Grand Prix](../seasons/1991-season-report#round-11-belgian-grand-prix)*
+   *[1991 Round 11 – Belgian Grand Prix](../seasons/1991-season-report#round-11-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1861
-   *[1997 Round 16 - Japanese Grand Prix](../seasons/1997-season-report#round-16-japanese-grand-prix)*
+   *[1997 Round 16 – Japanese Grand Prix](../seasons/1997-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1448
-   *[1993 Round 3 - European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)*
+   *[1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1959
-   *[2001 Round 14 - Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)*
+   *[2001 Round 14 – Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1511
-   *[1991 Round 11 - Belgian Grand Prix](../seasons/1991-season-report#round-11-belgian-grand-prix)*
+   *[1991 Round 11 – Belgian Grand Prix](../seasons/1991-season-report#round-11-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

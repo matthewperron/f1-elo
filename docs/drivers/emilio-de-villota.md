@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1482
-   *[1977 Round 5 - Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)*
+   *[1977 Round 5 – Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1452
-   *[1977 Round 12 - Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
+   *[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1479
-   *[1977 Round 5 - Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)*
+   *[1977 Round 5 – Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1456
-   *[1977 Round 12 - Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
+   *[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1480
-   *[1977 Round 5 - Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)*
+   *[1977 Round 5 – Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Global Elo**: 1455
-   *[1977 Round 12 - Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
+   *[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
 
 
 ## Complete Career Results by Season

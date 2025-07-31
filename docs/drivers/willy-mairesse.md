@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1567
-   *[1963 Round 2 - Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
+   *[1963 Round 2 – Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1419
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1490
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1444
-   *[1962 Round 3 - Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
+   *[1962 Round 3 – Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1502
-   *[1963 Round 2 - Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
+   *[1963 Round 2 – Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1460
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

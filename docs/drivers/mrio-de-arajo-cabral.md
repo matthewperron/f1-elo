@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1478
-   *[1960 Round 8 - Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
+   *[1960 Round 8 – Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1457
-   *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
+   *[1963 Round 6 – German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1493
-   *[1960 Round 8 - Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
+   *[1960 Round 8 – Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1487
-   *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
+   *[1963 Round 6 – German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1639
-   *[1964 Round 3 - Belgian Grand Prix](../seasons/1964-season-report#round-3-belgian-grand-prix)*
+   *[1964 Round 3 – Belgian Grand Prix](../seasons/1964-season-report#round-3-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1480
-   *[1962 Round 2 - Monaco Grand Prix](../seasons/1962-season-report#round-2-monaco-grand-prix)*
+   *[1962 Round 2 – Monaco Grand Prix](../seasons/1962-season-report#round-2-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1501
-   *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
+   *[1962 Round 1 – Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1442
-   *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
+   *[1963 Round 6 – German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1537
-   *[1964 Round 3 - Belgian Grand Prix](../seasons/1964-season-report#round-3-belgian-grand-prix)*
+   *[1964 Round 3 – Belgian Grand Prix](../seasons/1964-season-report#round-3-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1460
-   *[1962 Round 7 - Italian Grand Prix](../seasons/1962-season-report#round-7-italian-grand-prix)*
+   *[1962 Round 7 – Italian Grand Prix](../seasons/1962-season-report#round-7-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

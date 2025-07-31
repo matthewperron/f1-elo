@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1474
-   *[2006 Round 5 - European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)*
+   *[2006 Round 5 – European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1394
-   *[2006 Round 10 - United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
+   *[2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1453
-   *[2006 Round 8 - British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)*
+   *[2006 Round 8 – British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1414
-   *[2006 Round 10 - United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
+   *[2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1492
-   *[2006 Round 5 - European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)*
+   *[2006 Round 5 – European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)*
 
 📉 **Lowest Global Elo**: 1408
-   *[2006 Round 10 - United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
+   *[2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

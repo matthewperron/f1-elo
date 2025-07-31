@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1674
-   *[1999 Round 1 - Australian Grand Prix](../seasons/1999-season-report#round-1-australian-grand-prix)*
+   *[1999 Round 1 – Australian Grand Prix](../seasons/1999-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1430
-   *[1995 Round 16 - Japanese Grand Prix](../seasons/1995-season-report#round-16-japanese-grand-prix)*
+   *[1995 Round 16 – Japanese Grand Prix](../seasons/1995-season-report#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1514
-   *[1993 Round 12 - Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
+   *[1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1369
-   *[1995 Round 15 - Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
+   *[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1546
-   *[1999 Round 14 - European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
+   *[1999 Round 14 – European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
 
 📉 **Lowest Global Elo**: 1396
-   *[1995 Round 15 - Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
+   *[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
 
 
 ## Complete Career Results by Season

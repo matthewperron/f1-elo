@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1472
-   *[1982 Round 4 - San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix)*
+   *[1982 Round 4 – San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1429
-   *[1982 Round 8 - Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
+   *[1982 Round 8 – Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1492
-   *[1982 Round 4 - San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix)*
+   *[1982 Round 4 – San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1479
-   *[1982 Round 8 - Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
+   *[1982 Round 8 – Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

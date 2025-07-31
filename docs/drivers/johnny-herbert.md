@@ -26,26 +26,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1942
-   *[1998 Round 2 - Brazilian Grand Prix](../seasons/1998-season-report#round-2-brazilian-grand-prix)*
+   *[1998 Round 2 – Brazilian Grand Prix](../seasons/1998-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1441
-   *[1993 Round 1 - South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
+   *[1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1676
-   *[2000 Round 14 - Italian Grand Prix](../seasons/2000-season-report#round-14-italian-grand-prix)*
+   *[2000 Round 14 – Italian Grand Prix](../seasons/2000-season-report#round-14-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1332
-   *[1992 Round 16 - Australian Grand Prix](../seasons/1992-season-report#round-16-australian-grand-prix)*
+   *[1992 Round 16 – Australian Grand Prix](../seasons/1992-season-report#round-16-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1718
-   *[1998 Round 7 - Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
+   *[1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1364
-   *[1993 Round 1 - South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
+   *[1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

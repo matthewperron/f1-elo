@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1487
-   *[1971 Round 1 - South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix)*
+   *[1971 Round 1 – South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1447
-   *[1973 Round 3 - South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
+   *[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1496
-   *[1971 Round 1 - South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix)*
+   *[1971 Round 1 – South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1485
-   *[1973 Round 3 - South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
+   *[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

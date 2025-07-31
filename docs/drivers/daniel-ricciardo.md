@@ -28,26 +28,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1869
-   *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
+   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1447
-   *[2024 Round 8 - Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
+   *[2024 Round 8 – Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1820
-   *[2014 Round 13 - Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
+   *[2014 Round 13 – Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1399
-   *[2024 Round 8 - Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
+   *[2024 Round 8 – Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1799
-   *[2014 Round 17 - United States Grand Prix](../seasons/2014-season-report#round-17-united-states-grand-prix)*
+   *[2014 Round 17 – United States Grand Prix](../seasons/2014-season-report#round-17-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1411
-   *[2024 Round 8 - Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
+   *[2024 Round 8 – Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

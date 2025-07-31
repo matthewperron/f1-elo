@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1534
-   *[1969 Round 1 - South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix)*
+   *[1969 Round 1 – South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1508
-   *[1970 Round 1 - South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix)*
+   *[1970 Round 1 – South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1489
-   *[1970 Round 1 - South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix)*
+   *[1970 Round 1 – South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Race Elo**: 1489
-   *[1970 Round 1 - South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix)*
+   *[1970 Round 1 – South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1510
-   *[1969 Round 1 - South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix)*
+   *[1969 Round 1 – South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1495
-   *[1970 Round 1 - South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix)*
+   *[1970 Round 1 – South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1478
-   *[1976 Round 16 - Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)*
+   *[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1446
-   *[1977 Round 17 - Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)*
+   *[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1471
-   *[1976 Round 16 - Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)*
+   *[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1442
-   *[1977 Round 17 - Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)*
+   *[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1473
-   *[1976 Round 16 - Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)*
+   *[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1443
-   *[1977 Round 17 - Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)*
+   *[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)*
 
 
 ## Complete Career Results by Season

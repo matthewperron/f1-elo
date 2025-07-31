@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1595
-   *[2016 Round 19 - Mexican Grand Prix](../seasons/2016-season-report#round-19-mexican-grand-prix)*
+   *[2016 Round 19 – Mexican Grand Prix](../seasons/2016-season-report#round-19-mexican-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1307
-   *[2014 Round 13 - Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
+   *[2014 Round 13 – Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1652
-   *[2016 Round 13 - Belgian Grand Prix](../seasons/2016-season-report#round-13-belgian-grand-prix)*
+   *[2016 Round 13 – Belgian Grand Prix](../seasons/2016-season-report#round-13-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1330
-   *[2014 Round 13 - Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
+   *[2014 Round 13 – Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1608
-   *[2016 Round 19 - Mexican Grand Prix](../seasons/2016-season-report#round-19-mexican-grand-prix)*
+   *[2016 Round 19 – Mexican Grand Prix](../seasons/2016-season-report#round-19-mexican-grand-prix)*
 
 📉 **Lowest Global Elo**: 1323
-   *[2014 Round 13 - Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
+   *[2014 Round 13 – Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

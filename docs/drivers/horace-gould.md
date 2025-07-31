@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1515
-   *[1954 Round 5 - British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
+   *[1954 Round 5 – British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1357
-   *[1958 Round 3 - Dutch Grand Prix](../seasons/1958-season-report#round-3-dutch-grand-prix)*
+   *[1958 Round 3 – Dutch Grand Prix](../seasons/1958-season-report#round-3-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1494
-   *[1955 Round 5 - Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix)*
+   *[1955 Round 5 – Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1460
-   *[1957 Round 7 - Pescara Grand Prix](../seasons/1957-season-report#round-7-pescara-grand-prix)*
+   *[1957 Round 7 – Pescara Grand Prix](../seasons/1957-season-report#round-7-pescara-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1505
-   *[1954 Round 5 - British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
+   *[1954 Round 5 – British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1433
-   *[1958 Round 3 - Dutch Grand Prix](../seasons/1958-season-report#round-3-dutch-grand-prix)*
+   *[1958 Round 3 – Dutch Grand Prix](../seasons/1958-season-report#round-3-dutch-grand-prix)*
 
 
 ## Complete Career Results by Season

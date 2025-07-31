@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1671
-   *[2012 Round 20 - Brazilian Grand Prix](../seasons/2012-season-report#round-20-brazilian-grand-prix)*
+   *[2012 Round 20 – Brazilian Grand Prix](../seasons/2012-season-report#round-20-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1372
-   *[2010 Round 11 - German Grand Prix](../seasons/2010-season-report#round-11-german-grand-prix)*
+   *[2010 Round 11 – German Grand Prix](../seasons/2010-season-report#round-11-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1647
-   *[2012 Round 4 - Bahrain Grand Prix](../seasons/2012-season-report#round-4-bahrain-grand-prix)*
+   *[2012 Round 4 – Bahrain Grand Prix](../seasons/2012-season-report#round-4-bahrain-grand-prix)*
 
 📉 **Lowest Race Elo**: 1341
-   *[2010 Round 19 - Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)*
+   *[2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1647
-   *[2012 Round 20 - Brazilian Grand Prix](../seasons/2012-season-report#round-20-brazilian-grand-prix)*
+   *[2012 Round 20 – Brazilian Grand Prix](../seasons/2012-season-report#round-20-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1356
-   *[2010 Round 18 - Brazilian Grand Prix](../seasons/2010-season-report#round-18-brazilian-grand-prix)*
+   *[2010 Round 18 – Brazilian Grand Prix](../seasons/2010-season-report#round-18-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1484
-   *[1952 Round 7 - Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
+   *[1952 Round 7 – Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1466
-   *[1952 Round 7 - Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
+   *[1952 Round 7 – Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1495
-   *[1952 Round 7 - Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
+   *[1952 Round 7 – Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1952 Round 7 - Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
+   *[1952 Round 7 – Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
 
 
 ## Complete Career Results by Season

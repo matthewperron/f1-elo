@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1604
-   *[2004 Round 17 - Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)*
+   *[2004 Round 17 – Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1457
-   *[2004 Round 8 - Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix)*
+   *[2004 Round 8 – Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1576
-   *[2004 Round 7 - European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix)*
+   *[2004 Round 7 – European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix)*
 
 📉 **Lowest Race Elo**: 1490
-   *[2004 Round 18 - Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix)*
+   *[2004 Round 18 – Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1561
-   *[2004 Round 5 - Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix)*
+   *[2004 Round 5 – Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[2004 Round 1 - Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix)*
+   *[2004 Round 1 – Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

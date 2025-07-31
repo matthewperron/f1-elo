@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1484
-   *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
+   *[1963 Round 9 – Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1418
-   *[1967 Round 10 - United States Grand Prix](../seasons/1967-season-report#round-10-united-states-grand-prix)*
+   *[1967 Round 10 – United States Grand Prix](../seasons/1967-season-report#round-10-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1484
-   *[1964 Round 10 - Mexican Grand Prix](../seasons/1964-season-report#round-10-mexican-grand-prix)*
+   *[1964 Round 10 – Mexican Grand Prix](../seasons/1964-season-report#round-10-mexican-grand-prix)*
 
 📉 **Lowest Race Elo**: 1484
-   *[1964 Round 10 - Mexican Grand Prix](../seasons/1964-season-report#round-10-mexican-grand-prix)*
+   *[1964 Round 10 – Mexican Grand Prix](../seasons/1964-season-report#round-10-mexican-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1495
-   *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
+   *[1963 Round 9 – Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
 📉 **Lowest Global Elo**: 1464
-   *[1967 Round 10 - United States Grand Prix](../seasons/1967-season-report#round-10-united-states-grand-prix)*
+   *[1967 Round 10 – United States Grand Prix](../seasons/1967-season-report#round-10-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

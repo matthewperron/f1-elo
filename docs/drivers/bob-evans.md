@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1532
-   *[1976 Round 2 - South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
+   *[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1532
-   *[1976 Round 2 - South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
+   *[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1510
-   *[1976 Round 2 - South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
+   *[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1510
-   *[1976 Round 2 - South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
+   *[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1661
-   *[1998 Round 4 - San Marino Grand Prix](../seasons/1998-season-report#round-4-san-marino-grand-prix)*
+   *[1998 Round 4 – San Marino Grand Prix](../seasons/1998-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1375
-   *[2007 Round 16 - Chinese Grand Prix](../seasons/2007-season-report#round-16-chinese-grand-prix)*
+   *[2007 Round 16 – Chinese Grand Prix](../seasons/2007-season-report#round-16-chinese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1592
-   *[1998 Round 10 - Austrian Grand Prix](../seasons/1998-season-report#round-10-austrian-grand-prix)*
+   *[1998 Round 10 – Austrian Grand Prix](../seasons/1998-season-report#round-10-austrian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1364
-   *[1999 Round 14 - European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
+   *[1999 Round 14 – European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1587
-   *[1998 Round 5 - Spanish Grand Prix](../seasons/1998-season-report#round-5-spanish-grand-prix)*
+   *[1998 Round 5 – Spanish Grand Prix](../seasons/1998-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Global Elo**: 1394
-   *[2000 Round 9 - French Grand Prix](../seasons/2000-season-report#round-9-french-grand-prix)*
+   *[2000 Round 9 – French Grand Prix](../seasons/2000-season-report#round-9-french-grand-prix)*
 
 
 ## Complete Career Results by Season

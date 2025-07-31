@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1520
-   *[1952 Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
+   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1505
-   *[1952 Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
+   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1495
-   *[1952 Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
+   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1489
-   *[1952 Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
+   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1952 Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
+   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1496
-   *[1952 Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
+   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
 
 
 ## Complete Career Results by Season

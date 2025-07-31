@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1622
-   *[1957 Round 4 - French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
+   *[1957 Round 4 – French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1487
-   *[1958 Round 5 - Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
+   *[1958 Round 5 – Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1571
-   *[1957 Round 5 - British Grand Prix](../seasons/1957-season-report#round-5-british-grand-prix)*
+   *[1957 Round 5 – British Grand Prix](../seasons/1957-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1477
-   *[1958 Round 6 - French Grand Prix](../seasons/1958-season-report#round-6-french-grand-prix)*
+   *[1958 Round 6 – French Grand Prix](../seasons/1958-season-report#round-6-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1581
-   *[1957 Round 5 - British Grand Prix](../seasons/1957-season-report#round-5-british-grand-prix)*
+   *[1957 Round 5 – British Grand Prix](../seasons/1957-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1497
-   *[1953 Round 9 - Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix)*
+   *[1953 Round 9 – Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

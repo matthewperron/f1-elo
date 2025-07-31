@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1513
-   *[2005 Round 16 - Belgian Grand Prix](../seasons/2005-season-report#round-16-belgian-grand-prix)*
+   *[2005 Round 16 – Belgian Grand Prix](../seasons/2005-season-report#round-16-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1426
-   *[2005 Round 14 - Turkish Grand Prix](../seasons/2005-season-report#round-14-turkish-grand-prix)*
+   *[2005 Round 14 – Turkish Grand Prix](../seasons/2005-season-report#round-14-turkish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1535
-   *[2005 Round 18 - Japanese Grand Prix](../seasons/2005-season-report#round-18-japanese-grand-prix)*
+   *[2005 Round 18 – Japanese Grand Prix](../seasons/2005-season-report#round-18-japanese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1477
-   *[2005 Round 12 - German Grand Prix](../seasons/2005-season-report#round-12-german-grand-prix)*
+   *[2005 Round 12 – German Grand Prix](../seasons/2005-season-report#round-12-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1512
-   *[2005 Round 18 - Japanese Grand Prix](../seasons/2005-season-report#round-18-japanese-grand-prix)*
+   *[2005 Round 18 – Japanese Grand Prix](../seasons/2005-season-report#round-18-japanese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1462
-   *[2005 Round 14 - Turkish Grand Prix](../seasons/2005-season-report#round-14-turkish-grand-prix)*
+   *[2005 Round 14 – Turkish Grand Prix](../seasons/2005-season-report#round-14-turkish-grand-prix)*
 
 
 ## Complete Career Results by Season

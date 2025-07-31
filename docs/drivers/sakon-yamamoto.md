@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1531
-   *[2006 Round 16 - Chinese Grand Prix](../seasons/2006-season-report#round-16-chinese-grand-prix)*
+   *[2006 Round 16 – Chinese Grand Prix](../seasons/2006-season-report#round-16-chinese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1301
-   *[2010 Round 16 - Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix)*
+   *[2010 Round 16 – Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1460
-   *[2006 Round 17 - Japanese Grand Prix](../seasons/2006-season-report#round-17-japanese-grand-prix)*
+   *[2006 Round 17 – Japanese Grand Prix](../seasons/2006-season-report#round-17-japanese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1335
-   *[2010 Round 17 - Korean Grand Prix](../seasons/2010-season-report#round-17-korean-grand-prix)*
+   *[2010 Round 17 – Korean Grand Prix](../seasons/2010-season-report#round-17-korean-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1510
-   *[2006 Round 16 - Chinese Grand Prix](../seasons/2006-season-report#round-16-chinese-grand-prix)*
+   *[2006 Round 16 – Chinese Grand Prix](../seasons/2006-season-report#round-16-chinese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1337
-   *[2010 Round 16 - Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix)*
+   *[2010 Round 16 – Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix)*
 
 
 ## Complete Career Results by Season

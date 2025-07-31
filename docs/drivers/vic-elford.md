@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1578
-   *[1968 Round 12 - Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix)*
+   *[1968 Round 12 – Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1468
-   *[1968 Round 6 - French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
+   *[1968 Round 6 – French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1532
-   *[1968 Round 6 - French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
+   *[1968 Round 6 – French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
 
 📉 **Lowest Race Elo**: 1502
-   *[1969 Round 5 - French Grand Prix](../seasons/1969-season-report#round-5-french-grand-prix)*
+   *[1969 Round 5 – French Grand Prix](../seasons/1969-season-report#round-5-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1546
-   *[1968 Round 12 - Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix)*
+   *[1968 Round 12 – Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix)*
 
 📉 **Lowest Global Elo**: 1509
-   *[1971 Round 7 - German Grand Prix](../seasons/1971-season-report#round-7-german-grand-prix)*
+   *[1971 Round 7 – German Grand Prix](../seasons/1971-season-report#round-7-german-grand-prix)*
 
 
 ## Complete Career Results by Season

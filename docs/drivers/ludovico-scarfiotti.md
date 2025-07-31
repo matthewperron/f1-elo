@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1495
-   *[1963 Round 2 - Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
+   *[1963 Round 2 – Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1419
-   *[1965 Round 10 - Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
+   *[1965 Round 10 – Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1470
-   *[1963 Round 3 - Dutch Grand Prix](../seasons/1963-season-report#round-3-dutch-grand-prix)*
+   *[1963 Round 3 – Dutch Grand Prix](../seasons/1963-season-report#round-3-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1373
-   *[1968 Round 3 - Monaco Grand Prix](../seasons/1968-season-report#round-3-monaco-grand-prix)*
+   *[1968 Round 3 – Monaco Grand Prix](../seasons/1968-season-report#round-3-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1963 Round 2 - Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
+   *[1963 Round 2 – Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1388
-   *[1968 Round 3 - Monaco Grand Prix](../seasons/1968-season-report#round-3-monaco-grand-prix)*
+   *[1968 Round 3 – Monaco Grand Prix](../seasons/1968-season-report#round-3-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

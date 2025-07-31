@@ -22,26 +22,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1756
-   *[1983 Round 4 - San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
+   *[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1461
-   *[1986 Round 4 - Monaco Grand Prix](../seasons/1986-season-report#round-4-monaco-grand-prix)*
+   *[1986 Round 4 – Monaco Grand Prix](../seasons/1986-season-report#round-4-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1647
-   *[1985 Round 7 - French Grand Prix](../seasons/1985-season-report#round-7-french-grand-prix)*
+   *[1985 Round 7 – French Grand Prix](../seasons/1985-season-report#round-7-french-grand-prix)*
 
 📉 **Lowest Race Elo**: 1452
-   *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
+   *[1979 Round 10 – German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1639
-   *[1983 Round 4 - San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
+   *[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1461
-   *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
+   *[1979 Round 10 – German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 
 ## Complete Career Results by Season

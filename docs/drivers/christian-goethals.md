@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1497
-   *[1958 Round 8 - German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
+   *[1958 Round 8 – German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1475
-   *[1958 Round 8 - German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
+   *[1958 Round 8 – German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1958 Round 8 - German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
+   *[1958 Round 8 – German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1492
-   *[1958 Round 8 - German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
+   *[1958 Round 8 – German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
 
 
 ## Complete Career Results by Season

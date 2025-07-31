@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 2047
-   *[1970 Round 10 - Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
+   *[1970 Round 10 – Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1473
-   *[1965 Round 1 - South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix)*
+   *[1965 Round 1 – South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1691
-   *[1970 Round 8 - German Grand Prix](../seasons/1970-season-report#round-8-german-grand-prix)*
+   *[1970 Round 8 – German Grand Prix](../seasons/1970-season-report#round-8-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1476
-   *[1965 Round 8 - Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
+   *[1965 Round 8 – Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1800
-   *[1970 Round 10 - Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
+   *[1970 Round 10 – Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1485
-   *[1965 Round 5 - British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
+   *[1965 Round 5 – British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
 
 
 ## Complete Career Results by Season

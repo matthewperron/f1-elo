@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1712
-   *[2025 Round 10 - Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
+   *[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1481
-   *[2023 Round 11 - Hungarian Grand Prix](../seasons/2023-season-report#round-11-hungarian-grand-prix)*
+   *[2023 Round 11 – Hungarian Grand Prix](../seasons/2023-season-report#round-11-hungarian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1650
-   *[2025 Round 6 - Miami Grand Prix](../seasons/2025-season-report#round-6-miami-grand-prix)*
+   *[2025 Round 6 – Miami Grand Prix](../seasons/2025-season-report#round-6-miami-grand-prix)*
 
 📉 **Lowest Race Elo**: 1451
-   *[2024 Round 7 - Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)*
+   *[2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1645
-   *[2025 Round 10 - Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
+   *[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1486
-   *[2024 Round 7 - Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)*
+   *[2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -1,10 +1,10 @@
-# 2020 F1 Season - ELO Analysis
+# 2020 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Austrian Grand Prix](#round-1-austrian-grand-prix) • [Round 2: Styrian Grand Prix](#round-2-styrian-grand-prix) • [Round 3: Hungarian Grand Prix](#round-3-hungarian-grand-prix) • [Round 4: British Grand Prix](#round-4-british-grand-prix) • [Round 5: 70th Anniversary Grand Prix](#round-5-70th-anniversary-grand-prix) • [Round 6: Spanish Grand Prix](#round-6-spanish-grand-prix) • [Round 7: Belgian Grand Prix](#round-7-belgian-grand-prix) • [Round 8: Italian Grand Prix](#round-8-italian-grand-prix) • [Round 9: Tuscan Grand Prix](#round-9-tuscan-grand-prix) • [Round 10: Russian Grand Prix](#round-10-russian-grand-prix) • [Round 11: Eifel Grand Prix](#round-11-eifel-grand-prix) • [Round 12: Portuguese Grand Prix](#round-12-portuguese-grand-prix) • [Round 13: Emilia Romagna Grand Prix](#round-13-emilia-romagna-grand-prix) • [Round 14: Turkish Grand Prix](#round-14-turkish-grand-prix) • [Round 15: Bahrain Grand Prix](#round-15-bahrain-grand-prix) • [Round 16: Sakhir Grand Prix](#round-16-sakhir-grand-prix) • [Round 17: Abu Dhabi Grand Prix](#round-17-abu-dhabi-grand-prix)
+[Round 1 – Austrian Grand Prix](#round-1-austrian-grand-prix) • [Round 2 – Styrian Grand Prix](#round-2-styrian-grand-prix) • [Round 3 – Hungarian Grand Prix](#round-3-hungarian-grand-prix) • [Round 4 – British Grand Prix](#round-4-british-grand-prix) • [Round 5 – 70th Anniversary Grand Prix](#round-5-70th-anniversary-grand-prix) • [Round 6 – Spanish Grand Prix](#round-6-spanish-grand-prix) • [Round 7 – Belgian Grand Prix](#round-7-belgian-grand-prix) • [Round 8 – Italian Grand Prix](#round-8-italian-grand-prix) • [Round 9 – Tuscan Grand Prix](#round-9-tuscan-grand-prix) • [Round 10 – Russian Grand Prix](#round-10-russian-grand-prix) • [Round 11 – Eifel Grand Prix](#round-11-eifel-grand-prix) • [Round 12 – Portuguese Grand Prix](#round-12-portuguese-grand-prix) • [Round 13 – Emilia Romagna Grand Prix](#round-13-emilia-romagna-grand-prix) • [Round 14 – Turkish Grand Prix](#round-14-turkish-grand-prix) • [Round 15 – Bahrain Grand Prix](#round-15-bahrain-grand-prix) • [Round 16 – Sakhir Grand Prix](#round-16-sakhir-grand-prix) • [Round 17 – Abu Dhabi Grand Prix](#round-17-abu-dhabi-grand-prix)
 
 📊 **[View Complete F1 2020 Season Results](https://www.formula1.com/en/results.html/2020/races.html)** | **[Wikipedia 2020 F1 Season](https://en.wikipedia.org/wiki/2020_Formula_One_World_Championship)**
 
@@ -40,7 +40,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Austrian Grand Prix
+### Round 1 – Austrian Grand Prix
 *Date: 2020-07-05*
 
 #### Qualifying Results
@@ -95,7 +95,7 @@
 
 ---
 
-### Round 2: Styrian Grand Prix
+### Round 2 – Styrian Grand Prix
 *Date: 2020-07-12*
 
 #### Qualifying Results
@@ -150,7 +150,7 @@
 
 ---
 
-### Round 3: Hungarian Grand Prix
+### Round 3 – Hungarian Grand Prix
 *Date: 2020-07-19*
 
 #### Qualifying Results
@@ -205,7 +205,7 @@
 
 ---
 
-### Round 4: British Grand Prix
+### Round 4 – British Grand Prix
 *Date: 2020-08-02*
 
 #### Qualifying Results
@@ -260,7 +260,7 @@
 
 ---
 
-### Round 5: 70th Anniversary Grand Prix
+### Round 5 – 70th Anniversary Grand Prix
 *Date: 2020-08-09*
 
 #### Qualifying Results
@@ -315,7 +315,7 @@
 
 ---
 
-### Round 6: Spanish Grand Prix
+### Round 6 – Spanish Grand Prix
 *Date: 2020-08-16*
 
 #### Qualifying Results
@@ -370,7 +370,7 @@
 
 ---
 
-### Round 7: Belgian Grand Prix
+### Round 7 – Belgian Grand Prix
 *Date: 2020-08-30*
 
 #### Qualifying Results
@@ -425,7 +425,7 @@
 
 ---
 
-### Round 8: Italian Grand Prix
+### Round 8 – Italian Grand Prix
 *Date: 2020-09-06*
 
 #### Qualifying Results
@@ -480,7 +480,7 @@
 
 ---
 
-### Round 9: Tuscan Grand Prix
+### Round 9 – Tuscan Grand Prix
 *Date: 2020-09-13*
 
 #### Qualifying Results
@@ -535,7 +535,7 @@
 
 ---
 
-### Round 10: Russian Grand Prix
+### Round 10 – Russian Grand Prix
 *Date: 2020-09-27*
 
 #### Qualifying Results
@@ -590,7 +590,7 @@
 
 ---
 
-### Round 11: Eifel Grand Prix
+### Round 11 – Eifel Grand Prix
 *Date: 2020-10-11*
 
 #### Qualifying Results
@@ -645,7 +645,7 @@
 
 ---
 
-### Round 12: Portuguese Grand Prix
+### Round 12 – Portuguese Grand Prix
 *Date: 2020-10-25*
 
 #### Qualifying Results
@@ -700,7 +700,7 @@
 
 ---
 
-### Round 13: Emilia Romagna Grand Prix
+### Round 13 – Emilia Romagna Grand Prix
 *Date: 2020-11-01*
 
 #### Qualifying Results
@@ -755,7 +755,7 @@
 
 ---
 
-### Round 14: Turkish Grand Prix
+### Round 14 – Turkish Grand Prix
 *Date: 2020-11-15*
 
 #### Qualifying Results
@@ -810,7 +810,7 @@
 
 ---
 
-### Round 15: Bahrain Grand Prix
+### Round 15 – Bahrain Grand Prix
 *Date: 2020-11-29*
 
 #### Qualifying Results
@@ -865,7 +865,7 @@
 
 ---
 
-### Round 16: Sakhir Grand Prix
+### Round 16 – Sakhir Grand Prix
 *Date: 2020-12-06*
 
 #### Qualifying Results
@@ -920,7 +920,7 @@
 
 ---
 
-### Round 17: Abu Dhabi Grand Prix
+### Round 17 – Abu Dhabi Grand Prix
 *Date: 2020-12-13*
 
 #### Qualifying Results

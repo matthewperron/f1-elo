@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1550
-   *[1982 Round 2 - Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix)*
+   *[1982 Round 2 – Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1413
-   *[1983 Round 8 - Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
+   *[1983 Round 8 – Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1472
-   *[1982 Round 1 - South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
+   *[1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Race Elo**: 1379
-   *[1982 Round 16 - Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix)*
+   *[1982 Round 16 – Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1489
-   *[1982 Round 1 - South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
+   *[1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1419
-   *[1983 Round 1 - Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)*
+   *[1983 Round 1 – Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

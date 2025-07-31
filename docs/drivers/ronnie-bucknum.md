@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1540
-   *[1965 Round 2 - Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
+   *[1965 Round 2 – Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1435
-   *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
+   *[1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1469
-   *[1965 Round 10 - Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
+   *[1965 Round 10 – Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
 
 📉 **Lowest Race Elo**: 1444
-   *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
+   *[1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1512
-   *[1965 Round 2 - Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
+   *[1965 Round 2 – Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1441
-   *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
+   *[1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 
 ## Complete Career Results by Season

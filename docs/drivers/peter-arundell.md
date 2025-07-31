@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1497
-   *[1964 Round 3 - Belgian Grand Prix](../seasons/1964-season-report#round-3-belgian-grand-prix)*
+   *[1964 Round 3 – Belgian Grand Prix](../seasons/1964-season-report#round-3-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1407
-   *[1966 Round 6 - German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix)*
+   *[1966 Round 6 – German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1482
-   *[1964 Round 2 - Dutch Grand Prix](../seasons/1964-season-report#round-2-dutch-grand-prix)*
+   *[1964 Round 2 – Dutch Grand Prix](../seasons/1964-season-report#round-2-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1482
-   *[1964 Round 2 - Dutch Grand Prix](../seasons/1964-season-report#round-2-dutch-grand-prix)*
+   *[1964 Round 2 – Dutch Grand Prix](../seasons/1964-season-report#round-2-dutch-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1963 Round 2 - Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
+   *[1963 Round 2 – Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1459
-   *[1966 Round 6 - German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix)*
+   *[1966 Round 6 – German Grand Prix](../seasons/1966-season-report#round-6-german-grand-prix)*
 
 
 ## Complete Career Results by Season

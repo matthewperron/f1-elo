@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1478
-   *[2023 Round 1 - Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)*
+   *[2023 Round 1 – Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1285
-   *[2024 Round 9 - Canadian Grand Prix](../seasons/2024-season-report#round-9-canadian-grand-prix)*
+   *[2024 Round 9 – Canadian Grand Prix](../seasons/2024-season-report#round-9-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1482
-   *[2023 Round 1 - Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)*
+   *[2023 Round 1 – Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)*
 
 📉 **Lowest Race Elo**: 1323
-   *[2024 Round 15 - Dutch Grand Prix](../seasons/2024-season-report#round-15-dutch-grand-prix)*
+   *[2024 Round 15 – Dutch Grand Prix](../seasons/2024-season-report#round-15-dutch-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1481
-   *[2023 Round 1 - Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)*
+   *[2023 Round 1 – Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)*
 
 📉 **Lowest Global Elo**: 1325
-   *[2024 Round 9 - Canadian Grand Prix](../seasons/2024-season-report#round-9-canadian-grand-prix)*
+   *[2024 Round 9 – Canadian Grand Prix](../seasons/2024-season-report#round-9-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

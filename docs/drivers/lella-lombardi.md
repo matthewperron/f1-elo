@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1463
-   *[1975 Round 3 - South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
+   *[1975 Round 3 – South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1286
-   *[1976 Round 1 - Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
+   *[1976 Round 1 – Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1497
-   *[1975 Round 13 - Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix)*
+   *[1975 Round 13 – Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1454
-   *[1975 Round 12 - Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)*
+   *[1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1489
-   *[1975 Round 3 - South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
+   *[1975 Round 3 – South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1415
-   *[1975 Round 12 - Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)*
+   *[1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)*
 
 
 ## Complete Career Results by Season

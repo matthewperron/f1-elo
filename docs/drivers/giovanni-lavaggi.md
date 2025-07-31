@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1467
-   *[1995 Round 9 - German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)*
+   *[1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1323
-   *[1996 Round 15 - Portuguese Grand Prix](../seasons/1996-season-report#round-15-portuguese-grand-prix)*
+   *[1996 Round 15 – Portuguese Grand Prix](../seasons/1996-season-report#round-15-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1530
-   *[1996 Round 15 - Portuguese Grand Prix](../seasons/1996-season-report#round-15-portuguese-grand-prix)*
+   *[1996 Round 15 – Portuguese Grand Prix](../seasons/1996-season-report#round-15-portuguese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1466
-   *[1995 Round 10 - Hungarian Grand Prix](../seasons/1995-season-report#round-10-hungarian-grand-prix)*
+   *[1995 Round 10 – Hungarian Grand Prix](../seasons/1995-season-report#round-10-hungarian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1490
-   *[1995 Round 9 - German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)*
+   *[1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1452
-   *[1995 Round 11 - Belgian Grand Prix](../seasons/1995-season-report#round-11-belgian-grand-prix)*
+   *[1995 Round 11 – Belgian Grand Prix](../seasons/1995-season-report#round-11-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1600
-   *[2015 Round 9 - British Grand Prix](../seasons/2015-season-report#round-9-british-grand-prix)*
+   *[2015 Round 9 – British Grand Prix](../seasons/2015-season-report#round-9-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1296
-   *[2020 Round 6 - Spanish Grand Prix](../seasons/2020-season-report#round-6-spanish-grand-prix)*
+   *[2020 Round 6 – Spanish Grand Prix](../seasons/2020-season-report#round-6-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1653
-   *[2015 Round 18 - Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
+   *[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1407
-   *[2014 Round 17 - United States Grand Prix](../seasons/2014-season-report#round-17-united-states-grand-prix)*
+   *[2014 Round 17 – United States Grand Prix](../seasons/2014-season-report#round-17-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1633
-   *[2015 Round 18 - Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
+   *[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1406
-   *[2016 Round 14 - Italian Grand Prix](../seasons/2016-season-report#round-14-italian-grand-prix)*
+   *[2016 Round 14 – Italian Grand Prix](../seasons/2016-season-report#round-14-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -1,10 +1,10 @@
-# 1960 F1 Season - ELO Analysis
+# 1960 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3: Indianapolis 500](#round-3-indianapolis-500) • [Round 4: Dutch Grand Prix](#round-4-dutch-grand-prix) • [Round 5: Belgian Grand Prix](#round-5-belgian-grand-prix) • [Round 6: French Grand Prix](#round-6-french-grand-prix) • [Round 7: British Grand Prix](#round-7-british-grand-prix) • [Round 8: Portuguese Grand Prix](#round-8-portuguese-grand-prix) • [Round 9: Italian Grand Prix](#round-9-italian-grand-prix) • [Round 10: United States Grand Prix](#round-10-united-states-grand-prix)
+[Round 1 – Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2 – Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3 – Indianapolis 500](#round-3-indianapolis-500) • [Round 4 – Dutch Grand Prix](#round-4-dutch-grand-prix) • [Round 5 – Belgian Grand Prix](#round-5-belgian-grand-prix) • [Round 6 – French Grand Prix](#round-6-french-grand-prix) • [Round 7 – British Grand Prix](#round-7-british-grand-prix) • [Round 8 – Portuguese Grand Prix](#round-8-portuguese-grand-prix) • [Round 9 – Italian Grand Prix](#round-9-italian-grand-prix) • [Round 10 – United States Grand Prix](#round-10-united-states-grand-prix)
 
 📊 **[View Complete F1 1960 Season Results](https://www.formula1.com/en/results.html/1960/races.html)** | **[Wikipedia 1960 F1 Season](https://en.wikipedia.org/wiki/1960_Formula_One_World_Championship)**
 
@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Argentine Grand Prix
+### Round 1 – Argentine Grand Prix
 *Date: 1960-02-07*
 
 #### Qualifying Results
@@ -128,7 +128,7 @@
 
 ---
 
-### Round 2: Monaco Grand Prix
+### Round 2 – Monaco Grand Prix
 *Date: 1960-05-29*
 
 #### Qualifying Results
@@ -175,7 +175,7 @@
 
 ---
 
-### Round 3: Indianapolis 500
+### Round 3 – Indianapolis 500
 *Date: 1960-05-30*
 
 #### Qualifying Results
@@ -256,7 +256,7 @@
 
 ---
 
-### Round 4: Dutch Grand Prix
+### Round 4 – Dutch Grand Prix
 *Date: 1960-06-06*
 
 #### Qualifying Results
@@ -313,7 +313,7 @@
 
 ---
 
-### Round 5: Belgian Grand Prix
+### Round 5 – Belgian Grand Prix
 *Date: 1960-06-19*
 
 #### Qualifying Results
@@ -366,7 +366,7 @@
 
 ---
 
-### Round 6: French Grand Prix
+### Round 6 – French Grand Prix
 *Date: 1960-07-03*
 
 #### Qualifying Results
@@ -427,7 +427,7 @@
 
 ---
 
-### Round 7: British Grand Prix
+### Round 7 – British Grand Prix
 *Date: 1960-07-16*
 
 #### Qualifying Results
@@ -492,7 +492,7 @@
 
 ---
 
-### Round 8: Portuguese Grand Prix
+### Round 8 – Portuguese Grand Prix
 *Date: 1960-08-14*
 
 #### Qualifying Results
@@ -537,7 +537,7 @@
 
 ---
 
-### Round 9: Italian Grand Prix
+### Round 9 – Italian Grand Prix
 *Date: 1960-09-04*
 
 #### Qualifying Results
@@ -586,7 +586,7 @@
 
 ---
 
-### Round 10: United States Grand Prix
+### Round 10 – United States Grand Prix
 *Date: 1960-11-20*
 
 #### Qualifying Results

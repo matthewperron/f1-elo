@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1664
-   *[1974 Round 1 - Argentine Grand Prix](../seasons/1974-season-report#round-1-argentine-grand-prix)*
+   *[1974 Round 1 – Argentine Grand Prix](../seasons/1974-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1409
-   *[1971 Round 6 - British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix)*
+   *[1971 Round 6 – British Grand Prix](../seasons/1971-season-report#round-6-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1553
-   *[1973 Round 2 - Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
+   *[1973 Round 2 – Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1433
-   *[1971 Round 11 - United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
+   *[1971 Round 11 – United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1570
-   *[1973 Round 14 - Canadian Grand Prix](../seasons/1973-season-report#round-14-canadian-grand-prix)*
+   *[1973 Round 14 – Canadian Grand Prix](../seasons/1973-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1437
-   *[1971 Round 5 - French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
+   *[1971 Round 5 – French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
 
 
 ## Complete Career Results by Season

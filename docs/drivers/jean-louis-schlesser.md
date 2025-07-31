@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1484
-   *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
+   *[1988 Round 12 – Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1484
-   *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
+   *[1988 Round 12 – Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1486
-   *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
+   *[1988 Round 12 – Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1486
-   *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
+   *[1988 Round 12 – Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1485
-   *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
+   *[1988 Round 12 – Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1485
-   *[1988 Round 12 - Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
+   *[1988 Round 12 – Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

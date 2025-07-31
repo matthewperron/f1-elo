@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1479
-   *[1994 Round 1 - Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)*
+   *[1994 Round 1 – Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1375
-   *[1994 Round 10 - Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
+   *[1994 Round 10 – Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1528
-   *[1994 Round 4 - Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix)*
+   *[1994 Round 4 – Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1481
-   *[1994 Round 1 - Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)*
+   *[1994 Round 1 – Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1500
-   *[1994 Round 4 - Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix)*
+   *[1994 Round 4 – Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1452
-   *[1994 Round 10 - Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
+   *[1994 Round 10 – Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
 
 
 ## Complete Career Results by Season

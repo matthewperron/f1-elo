@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1493
-   *[1971 Round 8 - Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
+   *[1971 Round 8 – Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1391
-   *[1972 Round 5 - Belgian Grand Prix](../seasons/1972-season-report#round-5-belgian-grand-prix)*
+   *[1972 Round 5 – Belgian Grand Prix](../seasons/1972-season-report#round-5-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1489
-   *[1971 Round 10 - Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
+   *[1971 Round 10 – Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1463
-   *[1971 Round 11 - United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
+   *[1971 Round 11 – United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1489
-   *[1971 Round 8 - Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
+   *[1971 Round 8 – Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1447
-   *[1972 Round 5 - Belgian Grand Prix](../seasons/1972-season-report#round-5-belgian-grand-prix)*
+   *[1972 Round 5 – Belgian Grand Prix](../seasons/1972-season-report#round-5-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

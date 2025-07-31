@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1531
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1511
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1490
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1478
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1496
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1491
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

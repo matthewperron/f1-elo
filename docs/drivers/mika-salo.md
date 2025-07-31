@@ -22,26 +22,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1757
-   *[2002 Round 11 - French Grand Prix](../seasons/2002-season-report#round-11-french-grand-prix)*
+   *[2002 Round 11 – French Grand Prix](../seasons/2002-season-report#round-11-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1402
-   *[1995 Round 1 - Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
+   *[1995 Round 1 – Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1749
-   *[1998 Round 6 - Monaco Grand Prix](../seasons/1998-season-report#round-6-monaco-grand-prix)*
+   *[1998 Round 6 – Monaco Grand Prix](../seasons/1998-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1497
-   *[1999 Round 12 - Belgian Grand Prix](../seasons/1999-season-report#round-12-belgian-grand-prix)*
+   *[1999 Round 12 – Belgian Grand Prix](../seasons/1999-season-report#round-12-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1722
-   *[1998 Round 4 - San Marino Grand Prix](../seasons/1998-season-report#round-4-san-marino-grand-prix)*
+   *[1998 Round 4 – San Marino Grand Prix](../seasons/1998-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1492
-   *[1995 Round 2 - Argentine Grand Prix](../seasons/1995-season-report#round-2-argentine-grand-prix)*
+   *[1995 Round 2 – Argentine Grand Prix](../seasons/1995-season-report#round-2-argentine-grand-prix)*
 
 
 ## Complete Career Results by Season

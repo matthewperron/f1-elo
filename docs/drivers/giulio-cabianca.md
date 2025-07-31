@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1516
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1481
-   *[1958 Round 10 - Italian Grand Prix](../seasons/1958-season-report#round-10-italian-grand-prix)*
+   *[1958 Round 10 – Italian Grand Prix](../seasons/1958-season-report#round-10-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1505
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1494
-   *[1958 Round 10 - Italian Grand Prix](../seasons/1958-season-report#round-10-italian-grand-prix)*
+   *[1958 Round 10 – Italian Grand Prix](../seasons/1958-season-report#round-10-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

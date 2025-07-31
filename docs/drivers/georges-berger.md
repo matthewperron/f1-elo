@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1488
-   *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
+   *[1954 Round 4 – French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1468
-   *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
+   *[1954 Round 4 – French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1496
-   *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
+   *[1954 Round 4 – French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
+   *[1954 Round 4 – French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1486
-   *[1990 Round 3 - San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix)*
+   *[1990 Round 3 – San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1425
-   *[1990 Round 11 - Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)*
+   *[1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1539
-   *[1990 Round 10 - Hungarian Grand Prix](../seasons/1990-season-report#round-10-hungarian-grand-prix)*
+   *[1990 Round 10 – Hungarian Grand Prix](../seasons/1990-season-report#round-10-hungarian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1502
-   *[1990 Round 6 - Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)*
+   *[1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1522
-   *[1990 Round 3 - San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix)*
+   *[1990 Round 3 – San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1480
-   *[1990 Round 2 - Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix)*
+   *[1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

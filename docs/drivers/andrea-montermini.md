@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1703
-   *[1995 Round 17 - Australian Grand Prix](../seasons/1995-season-report#round-17-australian-grand-prix)*
+   *[1995 Round 17 – Australian Grand Prix](../seasons/1995-season-report#round-17-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1452
-   *[1995 Round 1 - Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
+   *[1995 Round 1 – Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1522
-   *[1995 Round 2 - Argentine Grand Prix](../seasons/1995-season-report#round-2-argentine-grand-prix)*
+   *[1995 Round 2 – Argentine Grand Prix](../seasons/1995-season-report#round-2-argentine-grand-prix)*
 
 📉 **Lowest Race Elo**: 1437
-   *[1996 Round 2 - Brazilian Grand Prix](../seasons/1996-season-report#round-2-brazilian-grand-prix)*
+   *[1996 Round 2 – Brazilian Grand Prix](../seasons/1996-season-report#round-2-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1543
-   *[1995 Round 17 - Australian Grand Prix](../seasons/1995-season-report#round-17-australian-grand-prix)*
+   *[1995 Round 17 – Australian Grand Prix](../seasons/1995-season-report#round-17-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1480
-   *[1995 Round 8 - British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix)*
+   *[1995 Round 8 – British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix)*
 
 
 ## Complete Career Results by Season

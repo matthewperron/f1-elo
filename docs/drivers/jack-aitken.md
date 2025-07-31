@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1467
-   *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
+   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1467
-   *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
+   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1490
-   *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
+   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
+   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1518
-   *[1983 Round 14 - European Grand Prix](../seasons/1983-season-report#round-14-european-grand-prix)*
+   *[1983 Round 14 – European Grand Prix](../seasons/1983-season-report#round-14-european-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1404
-   *[1983 Round 12 - Dutch Grand Prix](../seasons/1983-season-report#round-12-dutch-grand-prix)*
+   *[1983 Round 12 – Dutch Grand Prix](../seasons/1983-season-report#round-12-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1634
-   *[1983 Round 6 - Belgian Grand Prix](../seasons/1983-season-report#round-6-belgian-grand-prix)*
+   *[1983 Round 6 – Belgian Grand Prix](../seasons/1983-season-report#round-6-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1544
-   *[1983 Round 2 - United States Grand Prix West](../seasons/1983-season-report#round-2-united-states-grand-prix-west)*
+   *[1983 Round 2 – United States Grand Prix West](../seasons/1983-season-report#round-2-united-states-grand-prix-west)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1576
-   *[1983 Round 6 - Belgian Grand Prix](../seasons/1983-season-report#round-6-belgian-grand-prix)*
+   *[1983 Round 6 – Belgian Grand Prix](../seasons/1983-season-report#round-6-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1496
-   *[1983 Round 1 - Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)*
+   *[1983 Round 1 – Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

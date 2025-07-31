@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1478
-   *[2007 Round 10 - European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)*
+   *[2007 Round 10 – European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1478
-   *[2007 Round 10 - European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)*
+   *[2007 Round 10 – European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1493
-   *[2007 Round 10 - European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)*
+   *[2007 Round 10 – European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)*
 
 📉 **Lowest Global Elo**: 1493
-   *[2007 Round 10 - European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)*
+   *[2007 Round 10 – European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)*
 
 
 ## Complete Career Results by Season

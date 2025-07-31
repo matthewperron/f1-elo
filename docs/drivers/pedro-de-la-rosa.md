@@ -23,26 +23,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1785
-   *[2002 Round 7 - Monaco Grand Prix](../seasons/2002-season-report#round-7-monaco-grand-prix)*
+   *[2002 Round 7 – Monaco Grand Prix](../seasons/2002-season-report#round-7-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1448
-   *[2011 Round 7 - Canadian Grand Prix](../seasons/2011-season-report#round-7-canadian-grand-prix)*
+   *[2011 Round 7 – Canadian Grand Prix](../seasons/2011-season-report#round-7-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1568
-   *[1999 Round 5 - Spanish Grand Prix](../seasons/1999-season-report#round-5-spanish-grand-prix)*
+   *[1999 Round 5 – Spanish Grand Prix](../seasons/1999-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1371
-   *[2002 Round 7 - Monaco Grand Prix](../seasons/2002-season-report#round-7-monaco-grand-prix)*
+   *[2002 Round 7 – Monaco Grand Prix](../seasons/2002-season-report#round-7-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1562
-   *[2001 Round 15 - Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
+   *[2001 Round 15 – Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1403
-   *[2012 Round 2 - Malaysian Grand Prix](../seasons/2012-season-report#round-2-malaysian-grand-prix)*
+   *[2012 Round 2 – Malaysian Grand Prix](../seasons/2012-season-report#round-2-malaysian-grand-prix)*
 
 
 ## Complete Career Results by Season

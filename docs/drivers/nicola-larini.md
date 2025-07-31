@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1661
-   *[1992 Round 15 - Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
+   *[1992 Round 15 – Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1503
-   *[1997 Round 5 - Monaco Grand Prix](../seasons/1997-season-report#round-5-monaco-grand-prix)*
+   *[1997 Round 5 – Monaco Grand Prix](../seasons/1997-season-report#round-5-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1612
-   *[1990 Round 16 - Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)*
+   *[1990 Round 16 – Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1475
-   *[1990 Round 7 - French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix)*
+   *[1990 Round 7 – French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1612
-   *[1990 Round 16 - Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)*
+   *[1990 Round 16 – Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1488
-   *[1997 Round 4 - San Marino Grand Prix](../seasons/1997-season-report#round-4-san-marino-grand-prix)*
+   *[1997 Round 4 – San Marino Grand Prix](../seasons/1997-season-report#round-4-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

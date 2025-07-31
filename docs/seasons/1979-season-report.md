@@ -1,10 +1,10 @@
-# 1979 F1 Season - ELO Analysis
+# 1979 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3: South African Grand Prix](#round-3-south-african-grand-prix) • [Round 4: United States Grand Prix West](#round-4-united-states-grand-prix-west) • [Round 5: Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6: Belgian Grand Prix](#round-6-belgian-grand-prix) • [Round 7: Monaco Grand Prix](#round-7-monaco-grand-prix) • [Round 8: French Grand Prix](#round-8-french-grand-prix) • [Round 9: British Grand Prix](#round-9-british-grand-prix) • [Round 10: German Grand Prix](#round-10-german-grand-prix) • [Round 11: Austrian Grand Prix](#round-11-austrian-grand-prix) • [Round 12: Dutch Grand Prix](#round-12-dutch-grand-prix) • [Round 13: Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14: Canadian Grand Prix](#round-14-canadian-grand-prix) • [Round 15: United States Grand Prix](#round-15-united-states-grand-prix)
+[Round 1 – Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2 – Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3 – South African Grand Prix](#round-3-south-african-grand-prix) • [Round 4 – United States Grand Prix West](#round-4-united-states-grand-prix-west) • [Round 5 – Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6 – Belgian Grand Prix](#round-6-belgian-grand-prix) • [Round 7 – Monaco Grand Prix](#round-7-monaco-grand-prix) • [Round 8 – French Grand Prix](#round-8-french-grand-prix) • [Round 9 – British Grand Prix](#round-9-british-grand-prix) • [Round 10 – German Grand Prix](#round-10-german-grand-prix) • [Round 11 – Austrian Grand Prix](#round-11-austrian-grand-prix) • [Round 12 – Dutch Grand Prix](#round-12-dutch-grand-prix) • [Round 13 – Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14 – Canadian Grand Prix](#round-14-canadian-grand-prix) • [Round 15 – United States Grand Prix](#round-15-united-states-grand-prix)
 
 📊 **[View Complete F1 1979 Season Results](https://www.formula1.com/en/results.html/1979/races.html)** | **[Wikipedia 1979 F1 Season](https://en.wikipedia.org/wiki/1979_Formula_One_World_Championship)**
 
@@ -44,7 +44,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Argentine Grand Prix
+### Round 1 – Argentine Grand Prix
 *Date: 1979-01-21*
 
 #### Qualifying Results
@@ -111,7 +111,7 @@
 
 ---
 
-### Round 2: Brazilian Grand Prix
+### Round 2 – Brazilian Grand Prix
 *Date: 1979-02-04*
 
 #### Qualifying Results
@@ -174,7 +174,7 @@
 
 ---
 
-### Round 3: South African Grand Prix
+### Round 3 – South African Grand Prix
 *Date: 1979-03-03*
 
 #### Qualifying Results
@@ -237,7 +237,7 @@
 
 ---
 
-### Round 4: United States Grand Prix West
+### Round 4 – United States Grand Prix West
 *Date: 1979-04-08*
 
 #### Qualifying Results
@@ -304,7 +304,7 @@
 
 ---
 
-### Round 5: Spanish Grand Prix
+### Round 5 – Spanish Grand Prix
 *Date: 1979-04-29*
 
 #### Qualifying Results
@@ -367,7 +367,7 @@
 
 ---
 
-### Round 6: Belgian Grand Prix
+### Round 6 – Belgian Grand Prix
 *Date: 1979-05-13*
 
 #### Qualifying Results
@@ -430,7 +430,7 @@
 
 ---
 
-### Round 7: Monaco Grand Prix
+### Round 7 – Monaco Grand Prix
 *Date: 1979-05-27*
 
 #### Qualifying Results
@@ -485,7 +485,7 @@
 
 ---
 
-### Round 8: French Grand Prix
+### Round 8 – French Grand Prix
 *Date: 1979-07-01*
 
 #### Qualifying Results
@@ -550,7 +550,7 @@
 
 ---
 
-### Round 9: British Grand Prix
+### Round 9 – British Grand Prix
 *Date: 1979-07-14*
 
 #### Qualifying Results
@@ -613,7 +613,7 @@
 
 ---
 
-### Round 10: German Grand Prix
+### Round 10 – German Grand Prix
 *Date: 1979-07-29*
 
 #### Qualifying Results
@@ -676,7 +676,7 @@
 
 ---
 
-### Round 11: Austrian Grand Prix
+### Round 11 – Austrian Grand Prix
 *Date: 1979-08-12*
 
 #### Qualifying Results
@@ -739,7 +739,7 @@
 
 ---
 
-### Round 12: Dutch Grand Prix
+### Round 12 – Dutch Grand Prix
 *Date: 1979-08-26*
 
 #### Qualifying Results
@@ -802,7 +802,7 @@
 
 ---
 
-### Round 13: Italian Grand Prix
+### Round 13 – Italian Grand Prix
 *Date: 1979-09-09*
 
 #### Qualifying Results
@@ -865,7 +865,7 @@
 
 ---
 
-### Round 14: Canadian Grand Prix
+### Round 14 – Canadian Grand Prix
 *Date: 1979-09-30*
 
 #### Qualifying Results
@@ -930,7 +930,7 @@
 
 ---
 
-### Round 15: United States Grand Prix
+### Round 15 – United States Grand Prix
 *Date: 1979-10-07*
 
 #### Qualifying Results

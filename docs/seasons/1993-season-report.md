@@ -1,10 +1,10 @@
-# 1993 F1 Season - ELO Analysis
+# 1993 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: South African Grand Prix](#round-1-south-african-grand-prix) • [Round 2: Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3: European Grand Prix](#round-3-european-grand-prix) • [Round 4: San Marino Grand Prix](#round-4-san-marino-grand-prix) • [Round 5: Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6: Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7: Canadian Grand Prix](#round-7-canadian-grand-prix) • [Round 8: French Grand Prix](#round-8-french-grand-prix) • [Round 9: British Grand Prix](#round-9-british-grand-prix) • [Round 10: German Grand Prix](#round-10-german-grand-prix) • [Round 11: Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12: Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13: Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14: Portuguese Grand Prix](#round-14-portuguese-grand-prix) • [Round 15: Japanese Grand Prix](#round-15-japanese-grand-prix) • [Round 16: Australian Grand Prix](#round-16-australian-grand-prix)
+[Round 1 – South African Grand Prix](#round-1-south-african-grand-prix) • [Round 2 – Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3 – European Grand Prix](#round-3-european-grand-prix) • [Round 4 – San Marino Grand Prix](#round-4-san-marino-grand-prix) • [Round 5 – Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6 – Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7 – Canadian Grand Prix](#round-7-canadian-grand-prix) • [Round 8 – French Grand Prix](#round-8-french-grand-prix) • [Round 9 – British Grand Prix](#round-9-british-grand-prix) • [Round 10 – German Grand Prix](#round-10-german-grand-prix) • [Round 11 – Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12 – Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13 – Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14 – Portuguese Grand Prix](#round-14-portuguese-grand-prix) • [Round 15 – Japanese Grand Prix](#round-15-japanese-grand-prix) • [Round 16 – Australian Grand Prix](#round-16-australian-grand-prix)
 
 📊 **[View Complete F1 1993 Season Results](https://www.formula1.com/en/results.html/1993/races.html)** | **[Wikipedia 1993 F1 Season](https://en.wikipedia.org/wiki/1993_Formula_One_World_Championship)**
 
@@ -52,7 +52,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: South African Grand Prix
+### Round 1 – South African Grand Prix
 *Date: 1993-03-14*
 
 #### Qualifying Results
@@ -119,7 +119,7 @@
 
 ---
 
-### Round 2: Brazilian Grand Prix
+### Round 2 – Brazilian Grand Prix
 *Date: 1993-03-28*
 
 #### Qualifying Results
@@ -184,7 +184,7 @@
 
 ---
 
-### Round 3: European Grand Prix
+### Round 3 – European Grand Prix
 *Date: 1993-04-11*
 
 #### Qualifying Results
@@ -249,7 +249,7 @@
 
 ---
 
-### Round 4: San Marino Grand Prix
+### Round 4 – San Marino Grand Prix
 *Date: 1993-04-25*
 
 #### Qualifying Results
@@ -314,7 +314,7 @@
 
 ---
 
-### Round 5: Spanish Grand Prix
+### Round 5 – Spanish Grand Prix
 *Date: 1993-05-09*
 
 #### Qualifying Results
@@ -379,7 +379,7 @@
 
 ---
 
-### Round 6: Monaco Grand Prix
+### Round 6 – Monaco Grand Prix
 *Date: 1993-05-23*
 
 #### Qualifying Results
@@ -444,7 +444,7 @@
 
 ---
 
-### Round 7: Canadian Grand Prix
+### Round 7 – Canadian Grand Prix
 *Date: 1993-06-13*
 
 #### Qualifying Results
@@ -509,7 +509,7 @@
 
 ---
 
-### Round 8: French Grand Prix
+### Round 8 – French Grand Prix
 *Date: 1993-07-04*
 
 #### Qualifying Results
@@ -574,7 +574,7 @@
 
 ---
 
-### Round 9: British Grand Prix
+### Round 9 – British Grand Prix
 *Date: 1993-07-11*
 
 #### Qualifying Results
@@ -639,7 +639,7 @@
 
 ---
 
-### Round 10: German Grand Prix
+### Round 10 – German Grand Prix
 *Date: 1993-07-25*
 
 #### Qualifying Results
@@ -706,7 +706,7 @@
 
 ---
 
-### Round 11: Hungarian Grand Prix
+### Round 11 – Hungarian Grand Prix
 *Date: 1993-08-15*
 
 #### Qualifying Results
@@ -773,7 +773,7 @@
 
 ---
 
-### Round 12: Belgian Grand Prix
+### Round 12 – Belgian Grand Prix
 *Date: 1993-08-29*
 
 #### Qualifying Results
@@ -840,7 +840,7 @@
 
 ---
 
-### Round 13: Italian Grand Prix
+### Round 13 – Italian Grand Prix
 *Date: 1993-09-12*
 
 #### Qualifying Results
@@ -907,7 +907,7 @@
 
 ---
 
-### Round 14: Portuguese Grand Prix
+### Round 14 – Portuguese Grand Prix
 *Date: 1993-09-26*
 
 #### Qualifying Results
@@ -974,7 +974,7 @@
 
 ---
 
-### Round 15: Japanese Grand Prix
+### Round 15 – Japanese Grand Prix
 *Date: 1993-10-24*
 
 #### Qualifying Results
@@ -1037,7 +1037,7 @@
 
 ---
 
-### Round 16: Australian Grand Prix
+### Round 16 – Australian Grand Prix
 *Date: 1993-11-07*
 
 #### Qualifying Results

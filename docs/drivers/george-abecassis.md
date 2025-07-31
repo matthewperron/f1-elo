@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1471
-   *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
+   *[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1459
-   *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
+   *[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1491
-   *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
+   *[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
 📉 **Lowest Global Elo**: 1487
-   *[1952 Round 1 - Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
+   *[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
 
 
 ## Complete Career Results by Season

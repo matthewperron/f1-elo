@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1499
-   *[1950 Round 7 - Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
+   *[1950 Round 7 – Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1462
-   *[1950 Round 4 - Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
+   *[1950 Round 4 – Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1489
-   *[1950 Round 2 - Monaco Grand Prix](../seasons/1950-season-report#round-2-monaco-grand-prix)*
+   *[1950 Round 2 – Monaco Grand Prix](../seasons/1950-season-report#round-2-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1489
-   *[1950 Round 2 - Monaco Grand Prix](../seasons/1950-season-report#round-2-monaco-grand-prix)*
+   *[1950 Round 2 – Monaco Grand Prix](../seasons/1950-season-report#round-2-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1492
-   *[1950 Round 7 - Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
+   *[1950 Round 7 – Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1481
-   *[1950 Round 4 - Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
+   *[1950 Round 4 – Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1501
-   *[1955 Round 7 - Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
+   *[1955 Round 7 – Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1407
-   *[1954 Round 7 - Swiss Grand Prix](../seasons/1954-season-report#round-7-swiss-grand-prix)*
+   *[1954 Round 7 – Swiss Grand Prix](../seasons/1954-season-report#round-7-swiss-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1547
-   *[1955 Round 5 - Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix)*
+   *[1955 Round 5 – Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1482
-   *[1953 Round 9 - Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix)*
+   *[1953 Round 9 – Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1511
-   *[1955 Round 7 - Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
+   *[1955 Round 7 – Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1468
-   *[1953 Round 9 - Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix)*
+   *[1953 Round 9 – Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -25,26 +25,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1986
-   *[2014 Round 12 - Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
+   *[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1488
-   *[2006 Round 7 - Monaco Grand Prix](../seasons/2006-season-report#round-7-monaco-grand-prix)*
+   *[2006 Round 7 – Monaco Grand Prix](../seasons/2006-season-report#round-7-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1833
-   *[2010 Round 15 - Singapore Grand Prix](../seasons/2010-season-report#round-15-singapore-grand-prix)*
+   *[2010 Round 15 – Singapore Grand Prix](../seasons/2010-season-report#round-15-singapore-grand-prix)*
 
 📉 **Lowest Race Elo**: 1453
-   *[2006 Round 6 - Spanish Grand Prix](../seasons/2006-season-report#round-6-spanish-grand-prix)*
+   *[2006 Round 6 – Spanish Grand Prix](../seasons/2006-season-report#round-6-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1872
-   *[2010 Round 16 - Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix)*
+   *[2010 Round 16 – Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1463
-   *[2006 Round 7 - Monaco Grand Prix](../seasons/2006-season-report#round-7-monaco-grand-prix)*
+   *[2006 Round 7 – Monaco Grand Prix](../seasons/2006-season-report#round-7-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

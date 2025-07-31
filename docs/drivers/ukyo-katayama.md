@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1556
-   *[1994 Round 10 - Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
+   *[1994 Round 10 – Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1300
-   *[1996 Round 9 - French Grand Prix](../seasons/1996-season-report#round-9-french-grand-prix)*
+   *[1996 Round 9 – French Grand Prix](../seasons/1996-season-report#round-9-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1589
-   *[1993 Round 11 - Hungarian Grand Prix](../seasons/1993-season-report#round-11-hungarian-grand-prix)*
+   *[1993 Round 11 – Hungarian Grand Prix](../seasons/1993-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1340
-   *[1997 Round 3 - Argentine Grand Prix](../seasons/1997-season-report#round-3-argentine-grand-prix)*
+   *[1997 Round 3 – Argentine Grand Prix](../seasons/1997-season-report#round-3-argentine-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1561
-   *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
+   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1341
-   *[1996 Round 9 - French Grand Prix](../seasons/1996-season-report#round-9-french-grand-prix)*
+   *[1996 Round 9 – French Grand Prix](../seasons/1996-season-report#round-9-french-grand-prix)*
 
 
 ## Complete Career Results by Season

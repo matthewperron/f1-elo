@@ -22,26 +22,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1971
-   *[1983 Round 11 - Austrian Grand Prix](../seasons/1983-season-report#round-11-austrian-grand-prix)*
+   *[1983 Round 11 – Austrian Grand Prix](../seasons/1983-season-report#round-11-austrian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1434
-   *[1978 Round 13 - Dutch Grand Prix](../seasons/1978-season-report#round-13-dutch-grand-prix)*
+   *[1978 Round 13 – Dutch Grand Prix](../seasons/1978-season-report#round-13-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1760
-   *[1984 Round 9 - Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)*
+   *[1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)*
 
 📉 **Lowest Race Elo**: 1425
-   *[1978 Round 13 - Dutch Grand Prix](../seasons/1978-season-report#round-13-dutch-grand-prix)*
+   *[1978 Round 13 – Dutch Grand Prix](../seasons/1978-season-report#round-13-dutch-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1815
-   *[1984 Round 7 - Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix)*
+   *[1984 Round 7 – Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1428
-   *[1978 Round 13 - Dutch Grand Prix](../seasons/1978-season-report#round-13-dutch-grand-prix)*
+   *[1978 Round 13 – Dutch Grand Prix](../seasons/1978-season-report#round-13-dutch-grand-prix)*
 
 
 ## Complete Career Results by Season

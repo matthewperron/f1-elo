@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1695
-   *[1975 Round 13 - Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix)*
+   *[1975 Round 13 – Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1538
-   *[1975 Round 4 - Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix)*
+   *[1975 Round 4 – Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1554
-   *[1975 Round 9 - French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)*
+   *[1975 Round 9 – French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)*
 
 📉 **Lowest Race Elo**: 1455
-   *[1975 Round 13 - Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix)*
+   *[1975 Round 13 – Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1575
-   *[1975 Round 9 - French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)*
+   *[1975 Round 9 – French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1511
-   *[1975 Round 4 - Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix)*
+   *[1975 Round 4 – Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix)*
 
 
 ## Complete Career Results by Season

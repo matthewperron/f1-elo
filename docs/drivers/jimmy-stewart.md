@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1498
-   *[1953 Round 6 - British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
+   *[1953 Round 6 – British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1481
-   *[1953 Round 6 - British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
+   *[1953 Round 6 – British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1953 Round 6 - British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
+   *[1953 Round 6 – British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1494
-   *[1953 Round 6 - British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
+   *[1953 Round 6 – British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
 
 
 ## Complete Career Results by Season

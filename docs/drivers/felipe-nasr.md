@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1579
-   *[2015 Round 6 - Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)*
+   *[2015 Round 6 – Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1374
-   *[2016 Round 3 - Chinese Grand Prix](../seasons/2016-season-report#round-3-chinese-grand-prix)*
+   *[2016 Round 3 – Chinese Grand Prix](../seasons/2016-season-report#round-3-chinese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1625
-   *[2015 Round 6 - Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)*
+   *[2015 Round 6 – Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1391
-   *[2016 Round 7 - Canadian Grand Prix](../seasons/2016-season-report#round-7-canadian-grand-prix)*
+   *[2016 Round 7 – Canadian Grand Prix](../seasons/2016-season-report#round-7-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1611
-   *[2015 Round 6 - Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)*
+   *[2015 Round 6 – Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1402
-   *[2016 Round 6 - Monaco Grand Prix](../seasons/2016-season-report#round-6-monaco-grand-prix)*
+   *[2016 Round 6 – Monaco Grand Prix](../seasons/2016-season-report#round-6-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

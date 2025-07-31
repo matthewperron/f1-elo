@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1671
-   *[1989 Round 16 - Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)*
+   *[1989 Round 16 – Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1488
-   *[1992 Round 9 - British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)*
+   *[1992 Round 9 – British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1626
-   *[1992 Round 9 - British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)*
+   *[1992 Round 9 – British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1533
-   *[1989 Round 4 - Mexican Grand Prix](../seasons/1989-season-report#round-4-mexican-grand-prix)*
+   *[1989 Round 4 – Mexican Grand Prix](../seasons/1989-season-report#round-4-mexican-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1609
-   *[1989 Round 16 - Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)*
+   *[1989 Round 16 – Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1515
-   *[1989 Round 3 - Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
+   *[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

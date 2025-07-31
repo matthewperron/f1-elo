@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1516
-   *[1963 Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
+   *[1963 Round 7 – Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1478
-   *[1962 Round 4 - French Grand Prix](../seasons/1962-season-report#round-4-french-grand-prix)*
+   *[1962 Round 4 – French Grand Prix](../seasons/1962-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1504
-   *[1963 Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
+   *[1963 Round 7 – Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1493
-   *[1962 Round 4 - French Grand Prix](../seasons/1962-season-report#round-4-french-grand-prix)*
+   *[1962 Round 4 – French Grand Prix](../seasons/1962-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Career Results by Season

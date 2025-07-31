@@ -29,26 +29,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1962
-   *[2008 Round 15 - Singapore Grand Prix](../seasons/2008-season-report#round-15-singapore-grand-prix)*
+   *[2008 Round 15 – Singapore Grand Prix](../seasons/2008-season-report#round-15-singapore-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1426
-   *[2002 Round 12 - German Grand Prix](../seasons/2002-season-report#round-12-german-grand-prix)*
+   *[2002 Round 12 – German Grand Prix](../seasons/2002-season-report#round-12-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1756
-   *[2009 Round 2 - Malaysian Grand Prix](../seasons/2009-season-report#round-2-malaysian-grand-prix)*
+   *[2009 Round 2 – Malaysian Grand Prix](../seasons/2009-season-report#round-2-malaysian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1405
-   *[2014 Round 10 - German Grand Prix](../seasons/2014-season-report#round-10-german-grand-prix)*
+   *[2014 Round 10 – German Grand Prix](../seasons/2014-season-report#round-10-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1812
-   *[2008 Round 15 - Singapore Grand Prix](../seasons/2008-season-report#round-15-singapore-grand-prix)*
+   *[2008 Round 15 – Singapore Grand Prix](../seasons/2008-season-report#round-15-singapore-grand-prix)*
 
 📉 **Lowest Global Elo**: 1468
-   *[2002 Round 12 - German Grand Prix](../seasons/2002-season-report#round-12-german-grand-prix)*
+   *[2002 Round 12 – German Grand Prix](../seasons/2002-season-report#round-12-german-grand-prix)*
 
 
 ## Complete Career Results by Season

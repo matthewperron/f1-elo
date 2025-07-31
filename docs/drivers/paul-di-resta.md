@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1680
-   *[2013 Round 19 - Brazilian Grand Prix](../seasons/2013-season-report#round-19-brazilian-grand-prix)*
+   *[2013 Round 19 – Brazilian Grand Prix](../seasons/2013-season-report#round-19-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1473
-   *[2012 Round 1 - Australian Grand Prix](../seasons/2012-season-report#round-1-australian-grand-prix)*
+   *[2012 Round 1 – Australian Grand Prix](../seasons/2012-season-report#round-1-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1560
-   *[2011 Round 5 - Spanish Grand Prix](../seasons/2011-season-report#round-5-spanish-grand-prix)*
+   *[2011 Round 5 – Spanish Grand Prix](../seasons/2011-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1353
-   *[2013 Round 1 - Australian Grand Prix](../seasons/2013-season-report#round-1-australian-grand-prix)*
+   *[2013 Round 1 – Australian Grand Prix](../seasons/2013-season-report#round-1-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1589
-   *[2013 Round 19 - Brazilian Grand Prix](../seasons/2013-season-report#round-19-brazilian-grand-prix)*
+   *[2013 Round 19 – Brazilian Grand Prix](../seasons/2013-season-report#round-19-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1401
-   *[2013 Round 2 - Malaysian Grand Prix](../seasons/2013-season-report#round-2-malaysian-grand-prix)*
+   *[2013 Round 2 – Malaysian Grand Prix](../seasons/2013-season-report#round-2-malaysian-grand-prix)*
 
 
 ## Complete Career Results by Season

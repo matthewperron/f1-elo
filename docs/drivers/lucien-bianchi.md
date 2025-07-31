@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1497
-   *[1960 Round 5 - Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
+   *[1960 Round 5 – Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1336
-   *[1968 Round 12 - Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix)*
+   *[1968 Round 12 – Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1538
-   *[1968 Round 4 - Belgian Grand Prix](../seasons/1968-season-report#round-4-belgian-grand-prix)*
+   *[1968 Round 4 – Belgian Grand Prix](../seasons/1968-season-report#round-4-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1480
-   *[1965 Round 3 - Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix)*
+   *[1965 Round 3 – Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1502
-   *[1968 Round 4 - Belgian Grand Prix](../seasons/1968-season-report#round-4-belgian-grand-prix)*
+   *[1968 Round 4 – Belgian Grand Prix](../seasons/1968-season-report#round-4-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1454
-   *[1965 Round 3 - Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix)*
+   *[1965 Round 3 – Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1600
-   *[2006 Round 14 - Turkish Grand Prix](../seasons/2006-season-report#round-14-turkish-grand-prix)*
+   *[2006 Round 14 – Turkish Grand Prix](../seasons/2006-season-report#round-14-turkish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1431
-   *[2005 Round 5 - Spanish Grand Prix](../seasons/2005-season-report#round-5-spanish-grand-prix)*
+   *[2005 Round 5 – Spanish Grand Prix](../seasons/2005-season-report#round-5-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1610
-   *[2006 Round 5 - European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)*
+   *[2006 Round 5 – European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)*
 
 📉 **Lowest Race Elo**: 1420
-   *[2005 Round 4 - San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
+   *[2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1597
-   *[2006 Round 13 - Hungarian Grand Prix](../seasons/2006-season-report#round-13-hungarian-grand-prix)*
+   *[2006 Round 13 – Hungarian Grand Prix](../seasons/2006-season-report#round-13-hungarian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1431
-   *[2005 Round 4 - San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
+   *[2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

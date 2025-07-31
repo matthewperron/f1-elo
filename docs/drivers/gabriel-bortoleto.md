@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1599
-   *[2025 Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
+   *[2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1440
-   *[2025 Round 5 - Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)*
+   *[2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1536
-   *[2025 Round 2 - Chinese Grand Prix](../seasons/2025-season-report#round-2-chinese-grand-prix)*
+   *[2025 Round 2 – Chinese Grand Prix](../seasons/2025-season-report#round-2-chinese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1444
-   *[2025 Round 10 - Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
+   *[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1550
-   *[2025 Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
+   *[2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1463
-   *[2025 Round 5 - Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)*
+   *[2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)*
 
 
 ## Complete Career Results by Season

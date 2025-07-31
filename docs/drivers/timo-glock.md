@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1742
-   *[2011 Round 14 - Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)*
+   *[2011 Round 14 – Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1387
-   *[2008 Round 6 - Monaco Grand Prix](../seasons/2008-season-report#round-6-monaco-grand-prix)*
+   *[2008 Round 6 – Monaco Grand Prix](../seasons/2008-season-report#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1677
-   *[2011 Round 11 - Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
+   *[2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1444
-   *[2008 Round 5 - Turkish Grand Prix](../seasons/2008-season-report#round-5-turkish-grand-prix)*
+   *[2008 Round 5 – Turkish Grand Prix](../seasons/2008-season-report#round-5-turkish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1689
-   *[2011 Round 11 - Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
+   *[2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1429
-   *[2008 Round 5 - Turkish Grand Prix](../seasons/2008-season-report#round-5-turkish-grand-prix)*
+   *[2008 Round 5 – Turkish Grand Prix](../seasons/2008-season-report#round-5-turkish-grand-prix)*
 
 
 ## Complete Career Results by Season

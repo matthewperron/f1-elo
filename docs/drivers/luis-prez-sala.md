@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1542
-   *[1988 Round 10 - Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix)*
+   *[1988 Round 10 – Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1310
-   *[1989 Round 14 - Spanish Grand Prix](../seasons/1989-season-report#round-14-spanish-grand-prix)*
+   *[1989 Round 14 – Spanish Grand Prix](../seasons/1989-season-report#round-14-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1558
-   *[1988 Round 10 - Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix)*
+   *[1988 Round 10 – Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1433
-   *[1989 Round 13 - Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)*
+   *[1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1553
-   *[1988 Round 10 - Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix)*
+   *[1988 Round 10 – Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1398
-   *[1989 Round 13 - Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)*
+   *[1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)*
 
 
 ## Complete Career Results by Season

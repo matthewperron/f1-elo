@@ -1,10 +1,10 @@
-# 1971 F1 Season - ELO Analysis
+# 1971 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: South African Grand Prix](#round-1-south-african-grand-prix) • [Round 2: Spanish Grand Prix](#round-2-spanish-grand-prix) • [Round 3: Monaco Grand Prix](#round-3-monaco-grand-prix) • [Round 4: Dutch Grand Prix](#round-4-dutch-grand-prix) • [Round 5: French Grand Prix](#round-5-french-grand-prix) • [Round 6: British Grand Prix](#round-6-british-grand-prix) • [Round 7: German Grand Prix](#round-7-german-grand-prix) • [Round 8: Austrian Grand Prix](#round-8-austrian-grand-prix) • [Round 9: Italian Grand Prix](#round-9-italian-grand-prix) • [Round 10: Canadian Grand Prix](#round-10-canadian-grand-prix) • [Round 11: United States Grand Prix](#round-11-united-states-grand-prix)
+[Round 1 – South African Grand Prix](#round-1-south-african-grand-prix) • [Round 2 – Spanish Grand Prix](#round-2-spanish-grand-prix) • [Round 3 – Monaco Grand Prix](#round-3-monaco-grand-prix) • [Round 4 – Dutch Grand Prix](#round-4-dutch-grand-prix) • [Round 5 – French Grand Prix](#round-5-french-grand-prix) • [Round 6 – British Grand Prix](#round-6-british-grand-prix) • [Round 7 – German Grand Prix](#round-7-german-grand-prix) • [Round 8 – Austrian Grand Prix](#round-8-austrian-grand-prix) • [Round 9 – Italian Grand Prix](#round-9-italian-grand-prix) • [Round 10 – Canadian Grand Prix](#round-10-canadian-grand-prix) • [Round 11 – United States Grand Prix](#round-11-united-states-grand-prix)
 
 📊 **[View Complete F1 1971 Season Results](https://www.formula1.com/en/results.html/1971/races.html)** | **[Wikipedia 1971 F1 Season](https://en.wikipedia.org/wiki/1971_Formula_One_World_Championship)**
 
@@ -65,7 +65,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: South African Grand Prix
+### Round 1 – South African Grand Prix
 *Date: 1971-03-06*
 
 #### Qualifying Results
@@ -130,7 +130,7 @@
 
 ---
 
-### Round 2: Spanish Grand Prix
+### Round 2 – Spanish Grand Prix
 *Date: 1971-04-18*
 
 #### Qualifying Results
@@ -189,7 +189,7 @@
 
 ---
 
-### Round 3: Monaco Grand Prix
+### Round 3 – Monaco Grand Prix
 *Date: 1971-05-23*
 
 #### Qualifying Results
@@ -240,7 +240,7 @@
 
 ---
 
-### Round 4: Dutch Grand Prix
+### Round 4 – Dutch Grand Prix
 *Date: 1971-06-20*
 
 #### Qualifying Results
@@ -301,7 +301,7 @@
 
 ---
 
-### Round 5: French Grand Prix
+### Round 5 – French Grand Prix
 *Date: 1971-07-04*
 
 #### Qualifying Results
@@ -362,7 +362,7 @@
 
 ---
 
-### Round 6: British Grand Prix
+### Round 6 – British Grand Prix
 *Date: 1971-07-17*
 
 #### Qualifying Results
@@ -425,7 +425,7 @@
 
 ---
 
-### Round 7: German Grand Prix
+### Round 7 – German Grand Prix
 *Date: 1971-08-01*
 
 #### Qualifying Results
@@ -484,7 +484,7 @@
 
 ---
 
-### Round 8: Austrian Grand Prix
+### Round 8 – Austrian Grand Prix
 *Date: 1971-08-15*
 
 #### Qualifying Results
@@ -543,7 +543,7 @@
 
 ---
 
-### Round 9: Italian Grand Prix
+### Round 9 – Italian Grand Prix
 *Date: 1971-09-05*
 
 #### Qualifying Results
@@ -606,7 +606,7 @@
 
 ---
 
-### Round 10: Canadian Grand Prix
+### Round 10 – Canadian Grand Prix
 *Date: 1971-09-19*
 
 #### Qualifying Results
@@ -671,7 +671,7 @@
 
 ---
 
-### Round 11: United States Grand Prix
+### Round 11 – United States Grand Prix
 *Date: 1971-10-03*
 
 #### Qualifying Results

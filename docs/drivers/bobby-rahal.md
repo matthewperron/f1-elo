@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1483
-   *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
+   *[1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1468
-   *[1978 Round 16 - Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)*
+   *[1978 Round 16 – Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1477
-   *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
+   *[1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
 📉 **Lowest Race Elo**: 1477
-   *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
+   *[1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1479
-   *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
+   *[1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1474
-   *[1978 Round 16 - Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)*
+   *[1978 Round 16 – Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

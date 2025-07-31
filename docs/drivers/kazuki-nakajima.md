@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1573
-   *[2008 Round 9 - British Grand Prix](../seasons/2008-season-report#round-9-british-grand-prix)*
+   *[2008 Round 9 – British Grand Prix](../seasons/2008-season-report#round-9-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1455
-   *[2008 Round 3 - Bahrain Grand Prix](../seasons/2008-season-report#round-3-bahrain-grand-prix)*
+   *[2008 Round 3 – Bahrain Grand Prix](../seasons/2008-season-report#round-3-bahrain-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1530
-   *[2008 Round 11 - Hungarian Grand Prix](../seasons/2008-season-report#round-11-hungarian-grand-prix)*
+   *[2008 Round 11 – Hungarian Grand Prix](../seasons/2008-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1346
-   *[2009 Round 12 - Belgian Grand Prix](../seasons/2009-season-report#round-12-belgian-grand-prix)*
+   *[2009 Round 12 – Belgian Grand Prix](../seasons/2009-season-report#round-12-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1537
-   *[2008 Round 9 - British Grand Prix](../seasons/2008-season-report#round-9-british-grand-prix)*
+   *[2008 Round 9 – British Grand Prix](../seasons/2008-season-report#round-9-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1393
-   *[2009 Round 12 - Belgian Grand Prix](../seasons/2009-season-report#round-12-belgian-grand-prix)*
+   *[2009 Round 12 – Belgian Grand Prix](../seasons/2009-season-report#round-12-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

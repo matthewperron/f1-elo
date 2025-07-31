@@ -1,10 +1,10 @@
-# 1970 F1 Season - ELO Analysis
+# 1970 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: South African Grand Prix](#round-1-south-african-grand-prix) • [Round 2: Spanish Grand Prix](#round-2-spanish-grand-prix) • [Round 3: Monaco Grand Prix](#round-3-monaco-grand-prix) • [Round 4: Belgian Grand Prix](#round-4-belgian-grand-prix) • [Round 5: Dutch Grand Prix](#round-5-dutch-grand-prix) • [Round 6: French Grand Prix](#round-6-french-grand-prix) • [Round 7: British Grand Prix](#round-7-british-grand-prix) • [Round 8: German Grand Prix](#round-8-german-grand-prix) • [Round 9: Austrian Grand Prix](#round-9-austrian-grand-prix) • [Round 10: Italian Grand Prix](#round-10-italian-grand-prix) • [Round 11: Canadian Grand Prix](#round-11-canadian-grand-prix) • [Round 12: United States Grand Prix](#round-12-united-states-grand-prix) • [Round 13: Mexican Grand Prix](#round-13-mexican-grand-prix)
+[Round 1 – South African Grand Prix](#round-1-south-african-grand-prix) • [Round 2 – Spanish Grand Prix](#round-2-spanish-grand-prix) • [Round 3 – Monaco Grand Prix](#round-3-monaco-grand-prix) • [Round 4 – Belgian Grand Prix](#round-4-belgian-grand-prix) • [Round 5 – Dutch Grand Prix](#round-5-dutch-grand-prix) • [Round 6 – French Grand Prix](#round-6-french-grand-prix) • [Round 7 – British Grand Prix](#round-7-british-grand-prix) • [Round 8 – German Grand Prix](#round-8-german-grand-prix) • [Round 9 – Austrian Grand Prix](#round-9-austrian-grand-prix) • [Round 10 – Italian Grand Prix](#round-10-italian-grand-prix) • [Round 11 – Canadian Grand Prix](#round-11-canadian-grand-prix) • [Round 12 – United States Grand Prix](#round-12-united-states-grand-prix) • [Round 13 – Mexican Grand Prix](#round-13-mexican-grand-prix)
 
 📊 **[View Complete F1 1970 Season Results](https://www.formula1.com/en/results.html/1970/races.html)** | **[Wikipedia 1970 F1 Season](https://en.wikipedia.org/wiki/1970_Formula_One_World_Championship)**
 
@@ -51,7 +51,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: South African Grand Prix
+### Round 1 – South African Grand Prix
 *Date: 1970-03-07*
 
 #### Qualifying Results
@@ -112,7 +112,7 @@
 
 ---
 
-### Round 2: Spanish Grand Prix
+### Round 2 – Spanish Grand Prix
 *Date: 1970-04-19*
 
 #### Qualifying Results
@@ -161,7 +161,7 @@
 
 ---
 
-### Round 3: Monaco Grand Prix
+### Round 3 – Monaco Grand Prix
 *Date: 1970-05-10*
 
 #### Qualifying Results
@@ -208,7 +208,7 @@
 
 ---
 
-### Round 4: Belgian Grand Prix
+### Round 4 – Belgian Grand Prix
 *Date: 1970-06-07*
 
 #### Qualifying Results
@@ -257,7 +257,7 @@
 
 ---
 
-### Round 5: Dutch Grand Prix
+### Round 5 – Dutch Grand Prix
 *Date: 1970-06-21*
 
 #### Qualifying Results
@@ -312,7 +312,7 @@
 
 ---
 
-### Round 6: French Grand Prix
+### Round 6 – French Grand Prix
 *Date: 1970-07-05*
 
 #### Qualifying Results
@@ -367,7 +367,7 @@
 
 ---
 
-### Round 7: British Grand Prix
+### Round 7 – British Grand Prix
 *Date: 1970-07-18*
 
 #### Qualifying Results
@@ -428,7 +428,7 @@
 
 ---
 
-### Round 8: German Grand Prix
+### Round 8 – German Grand Prix
 *Date: 1970-08-02*
 
 #### Qualifying Results
@@ -485,7 +485,7 @@
 
 ---
 
-### Round 9: Austrian Grand Prix
+### Round 9 – Austrian Grand Prix
 *Date: 1970-08-16*
 
 #### Qualifying Results
@@ -548,7 +548,7 @@
 
 ---
 
-### Round 10: Italian Grand Prix
+### Round 10 – Italian Grand Prix
 *Date: 1970-09-06*
 
 #### Qualifying Results
@@ -611,7 +611,7 @@
 
 ---
 
-### Round 11: Canadian Grand Prix
+### Round 11 – Canadian Grand Prix
 *Date: 1970-09-20*
 
 #### Qualifying Results
@@ -666,7 +666,7 @@
 
 ---
 
-### Round 12: United States Grand Prix
+### Round 12 – United States Grand Prix
 *Date: 1970-10-04*
 
 #### Qualifying Results
@@ -729,7 +729,7 @@
 
 ---
 
-### Round 13: Mexican Grand Prix
+### Round 13 – Mexican Grand Prix
 *Date: 1970-10-25*
 
 #### Qualifying Results

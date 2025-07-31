@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1628
-   *[2004 Round 11 - British Grand Prix](../seasons/2004-season-report#round-11-british-grand-prix)*
+   *[2004 Round 11 – British Grand Prix](../seasons/2004-season-report#round-11-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1435
-   *[2003 Round 6 - Austrian Grand Prix](../seasons/2003-season-report#round-6-austrian-grand-prix)*
+   *[2003 Round 6 – Austrian Grand Prix](../seasons/2003-season-report#round-6-austrian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1603
-   *[2004 Round 2 - Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix)*
+   *[2004 Round 2 – Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1474
-   *[2003 Round 10 - French Grand Prix](../seasons/2003-season-report#round-10-french-grand-prix)*
+   *[2003 Round 10 – French Grand Prix](../seasons/2003-season-report#round-10-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1602
-   *[2004 Round 2 - Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix)*
+   *[2004 Round 2 – Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1469
-   *[2003 Round 10 - French Grand Prix](../seasons/2003-season-report#round-10-french-grand-prix)*
+   *[2003 Round 10 – French Grand Prix](../seasons/2003-season-report#round-10-french-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1582
-   *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
+   *[1960 Round 1 – Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1482
-   *[1954 Round 1 - Argentine Grand Prix](../seasons/1954-season-report#round-1-argentine-grand-prix)*
+   *[1954 Round 1 – Argentine Grand Prix](../seasons/1954-season-report#round-1-argentine-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1524
-   *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
+   *[1960 Round 1 – Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Race Elo**: 1485
-   *[1958 Round 1 - Argentine Grand Prix](../seasons/1958-season-report#round-1-argentine-grand-prix)*
+   *[1958 Round 1 – Argentine Grand Prix](../seasons/1958-season-report#round-1-argentine-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1537
-   *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
+   *[1960 Round 1 – Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1485
-   *[1955 Round 7 - Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
+   *[1955 Round 7 – Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

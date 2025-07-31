@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1671
-   *[2021 Round 22 - Abu Dhabi Grand Prix](../seasons/2021-season-report#round-22-abu-dhabi-grand-prix)*
+   *[2021 Round 22 – Abu Dhabi Grand Prix](../seasons/2021-season-report#round-22-abu-dhabi-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1472
-   *[2022 Round 11 - Austrian Grand Prix](../seasons/2022-season-report#round-11-austrian-grand-prix)*
+   *[2022 Round 11 – Austrian Grand Prix](../seasons/2022-season-report#round-11-austrian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1673
-   *[2022 Round 13 - Hungarian Grand Prix](../seasons/2022-season-report#round-13-hungarian-grand-prix)*
+   *[2022 Round 13 – Hungarian Grand Prix](../seasons/2022-season-report#round-13-hungarian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1498
-   *[2022 Round 1 - Bahrain Grand Prix](../seasons/2022-season-report#round-1-bahrain-grand-prix)*
+   *[2022 Round 1 – Bahrain Grand Prix](../seasons/2022-season-report#round-1-bahrain-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1630
-   *[2021 Round 17 - United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
+   *[2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1525
-   *[2022 Round 2 - Saudi Arabian Grand Prix](../seasons/2022-season-report#round-2-saudi-arabian-grand-prix)*
+   *[2022 Round 2 – Saudi Arabian Grand Prix](../seasons/2022-season-report#round-2-saudi-arabian-grand-prix)*
 
 
 ## Complete Career Results by Season

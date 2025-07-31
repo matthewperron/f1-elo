@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1515
-   *[1985 Round 13 - Belgian Grand Prix](../seasons/1985-season-report#round-13-belgian-grand-prix)*
+   *[1985 Round 13 – Belgian Grand Prix](../seasons/1985-season-report#round-13-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1347
-   *[1984 Round 15 - European Grand Prix](../seasons/1984-season-report#round-15-european-grand-prix)*
+   *[1984 Round 15 – European Grand Prix](../seasons/1984-season-report#round-15-european-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1598
-   *[1987 Round 10 - Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
+   *[1987 Round 10 – Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1437
-   *[1986 Round 1 - Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)*
+   *[1986 Round 1 – Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1530
-   *[1987 Round 10 - Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
+   *[1987 Round 10 – Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1428
-   *[1984 Round 15 - European Grand Prix](../seasons/1984-season-report#round-15-european-grand-prix)*
+   *[1984 Round 15 – European Grand Prix](../seasons/1984-season-report#round-15-european-grand-prix)*
 
 
 ## Complete Career Results by Season

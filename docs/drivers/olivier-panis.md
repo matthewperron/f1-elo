@@ -24,26 +24,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1845
-   *[2002 Round 13 - Hungarian Grand Prix](../seasons/2002-season-report#round-13-hungarian-grand-prix)*
+   *[2002 Round 13 – Hungarian Grand Prix](../seasons/2002-season-report#round-13-hungarian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1465
-   *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
+   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1685
-   *[1994 Round 11 - Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
+   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1418
-   *[2004 Round 17 - Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)*
+   *[2004 Round 17 – Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1709
-   *[1997 Round 6 - Spanish Grand Prix](../seasons/1997-season-report#round-6-spanish-grand-prix)*
+   *[1997 Round 6 – Spanish Grand Prix](../seasons/1997-season-report#round-6-spanish-grand-prix)*
 
 📉 **Lowest Global Elo**: 1473
-   *[2004 Round 17 - Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)*
+   *[2004 Round 17 – Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1480
-   *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
+   *[1967 Round 1 – South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1466
-   *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
+   *[1967 Round 1 – South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1494
-   *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
+   *[1967 Round 1 – South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
+   *[1967 Round 1 – South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

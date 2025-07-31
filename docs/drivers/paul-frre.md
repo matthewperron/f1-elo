@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1592
-   *[1953 Round 8 - Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix)*
+   *[1953 Round 8 – Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1507
-   *[1952 Round 3 - Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
+   *[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1525
-   *[1955 Round 4 - Belgian Grand Prix](../seasons/1955-season-report#round-4-belgian-grand-prix)*
+   *[1955 Round 4 – Belgian Grand Prix](../seasons/1955-season-report#round-4-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1508
-   *[1952 Round 3 - Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
+   *[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1545
-   *[1953 Round 8 - Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix)*
+   *[1953 Round 8 – Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix)*
 
 📉 **Lowest Global Elo**: 1508
-   *[1952 Round 3 - Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
+   *[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -36,26 +36,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 2027
-   *[2011 Round 10 - German Grand Prix](../seasons/2011-season-report#round-10-german-grand-prix)*
+   *[2011 Round 10 – German Grand Prix](../seasons/2011-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1470
-   *[2001 Round 2 - Malaysian Grand Prix](../seasons/2001-season-report#round-2-malaysian-grand-prix)*
+   *[2001 Round 2 – Malaysian Grand Prix](../seasons/2001-season-report#round-2-malaysian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 2018
-   *[2015 Round 11 - Belgian Grand Prix](../seasons/2015-season-report#round-11-belgian-grand-prix)*
+   *[2015 Round 11 – Belgian Grand Prix](../seasons/2015-season-report#round-11-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1529
-   *[2001 Round 2 - Malaysian Grand Prix](../seasons/2001-season-report#round-2-malaysian-grand-prix)*
+   *[2001 Round 2 – Malaysian Grand Prix](../seasons/2001-season-report#round-2-malaysian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1993
-   *[2012 Round 11 - Hungarian Grand Prix](../seasons/2012-season-report#round-11-hungarian-grand-prix)*
+   *[2012 Round 11 – Hungarian Grand Prix](../seasons/2012-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1505
-   *[2001 Round 1 - Australian Grand Prix](../seasons/2001-season-report#round-1-australian-grand-prix)*
+   *[2001 Round 1 – Australian Grand Prix](../seasons/2001-season-report#round-1-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1465
-   *[1994 Round 2 - Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix)*
+   *[1994 Round 2 – Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1437
-   *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
+   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1464
-   *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
+   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
 📉 **Lowest Race Elo**: 1464
-   *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
+   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1490
-   *[1994 Round 2 - Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix)*
+   *[1994 Round 2 – Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix)*
 
 📉 **Lowest Global Elo**: 1456
-   *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
+   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

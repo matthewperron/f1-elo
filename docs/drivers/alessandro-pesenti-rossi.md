@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1482
-   *[1976 Round 10 - German Grand Prix](../seasons/1976-season-report#round-10-german-grand-prix)*
+   *[1976 Round 10 – German Grand Prix](../seasons/1976-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1437
-   *[1976 Round 13 - Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix)*
+   *[1976 Round 13 – Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1501
-   *[1976 Round 10 - German Grand Prix](../seasons/1976-season-report#round-10-german-grand-prix)*
+   *[1976 Round 10 – German Grand Prix](../seasons/1976-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1481
-   *[1976 Round 13 - Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix)*
+   *[1976 Round 13 – Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1494
-   *[1976 Round 10 - German Grand Prix](../seasons/1976-season-report#round-10-german-grand-prix)*
+   *[1976 Round 10 – German Grand Prix](../seasons/1976-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1468
-   *[1976 Round 13 - Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix)*
+   *[1976 Round 13 – Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

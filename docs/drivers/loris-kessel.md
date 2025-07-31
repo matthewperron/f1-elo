@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1468
-   *[1976 Round 5 - Belgian Grand Prix](../seasons/1976-season-report#round-5-belgian-grand-prix)*
+   *[1976 Round 5 – Belgian Grand Prix](../seasons/1976-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1421
-   *[1976 Round 11 - Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)*
+   *[1976 Round 11 – Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1490
-   *[1976 Round 5 - Belgian Grand Prix](../seasons/1976-season-report#round-5-belgian-grand-prix)*
+   *[1976 Round 5 – Belgian Grand Prix](../seasons/1976-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1476
-   *[1976 Round 11 - Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)*
+   *[1976 Round 11 – Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)*
 
 
 ## Complete Career Results by Season

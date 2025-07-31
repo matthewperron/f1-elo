@@ -29,26 +29,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 2049
-   *[1989 Round 9 - German Grand Prix](../seasons/1989-season-report#round-9-german-grand-prix)*
+   *[1989 Round 9 – German Grand Prix](../seasons/1989-season-report#round-9-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1408
-   *[1983 Round 4 - San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
+   *[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1888
-   *[1992 Round 14 - Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
+   *[1992 Round 14 – Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1446
-   *[1984 Round 7 - Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix)*
+   *[1984 Round 7 – Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1902
-   *[1992 Round 16 - Australian Grand Prix](../seasons/1992-season-report#round-16-australian-grand-prix)*
+   *[1992 Round 16 – Australian Grand Prix](../seasons/1992-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1444
-   *[1983 Round 4 - San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
+   *[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

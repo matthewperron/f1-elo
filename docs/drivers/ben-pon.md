@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1519
-   *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
+   *[1962 Round 1 – Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1505
-   *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
+   *[1962 Round 1 – Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1490
-   *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
+   *[1962 Round 1 – Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1483
-   *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
+   *[1962 Round 1 – Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1495
-   *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
+   *[1962 Round 1 – Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
 📉 **Lowest Global Elo**: 1491
-   *[1962 Round 1 - Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
+   *[1962 Round 1 – Dutch Grand Prix](../seasons/1962-season-report#round-1-dutch-grand-prix)*
 
 
 ## Complete Career Results by Season

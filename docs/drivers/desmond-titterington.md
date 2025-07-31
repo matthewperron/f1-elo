@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1513
-   *[1956 Round 6 - British Grand Prix](../seasons/1956-season-report#round-6-british-grand-prix)*
+   *[1956 Round 6 – British Grand Prix](../seasons/1956-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1497
-   *[1956 Round 6 - British Grand Prix](../seasons/1956-season-report#round-6-british-grand-prix)*
+   *[1956 Round 6 – British Grand Prix](../seasons/1956-season-report#round-6-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1504
-   *[1956 Round 6 - British Grand Prix](../seasons/1956-season-report#round-6-british-grand-prix)*
+   *[1956 Round 6 – British Grand Prix](../seasons/1956-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1499
-   *[1956 Round 6 - British Grand Prix](../seasons/1956-season-report#round-6-british-grand-prix)*
+   *[1956 Round 6 – British Grand Prix](../seasons/1956-season-report#round-6-british-grand-prix)*
 
 
 ## Complete Career Results by Season

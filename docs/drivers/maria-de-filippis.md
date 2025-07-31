@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1492
-   *[1958 Round 5 - Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
+   *[1958 Round 5 – Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1414
-   *[1958 Round 10 - Italian Grand Prix](../seasons/1958-season-report#round-10-italian-grand-prix)*
+   *[1958 Round 10 – Italian Grand Prix](../seasons/1958-season-report#round-10-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1494
-   *[1958 Round 5 - Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
+   *[1958 Round 5 – Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1487
-   *[1958 Round 5 - Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
+   *[1958 Round 5 – Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1493
-   *[1958 Round 5 - Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
+   *[1958 Round 5 – Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1465
-   *[1958 Round 10 - Italian Grand Prix](../seasons/1958-season-report#round-10-italian-grand-prix)*
+   *[1958 Round 10 – Italian Grand Prix](../seasons/1958-season-report#round-10-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1467
-   *[1992 Round 2 - Mexican Grand Prix](../seasons/1992-season-report#round-2-mexican-grand-prix)*
+   *[1992 Round 2 – Mexican Grand Prix](../seasons/1992-season-report#round-2-mexican-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1418
-   *[1992 Round 8 - French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix)*
+   *[1992 Round 8 – French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1468
-   *[1992 Round 4 - Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
+   *[1992 Round 4 – Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1468
-   *[1992 Round 4 - Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
+   *[1992 Round 4 – Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1490
-   *[1992 Round 2 - Mexican Grand Prix](../seasons/1992-season-report#round-2-mexican-grand-prix)*
+   *[1992 Round 2 – Mexican Grand Prix](../seasons/1992-season-report#round-2-mexican-grand-prix)*
 
 📉 **Lowest Global Elo**: 1453
-   *[1992 Round 8 - French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix)*
+   *[1992 Round 8 – French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -25,26 +25,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 2287
-   *[1991 Round 12 - Italian Grand Prix](../seasons/1991-season-report#round-12-italian-grand-prix)*
+   *[1991 Round 12 – Italian Grand Prix](../seasons/1991-season-report#round-12-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1503
-   *[1984 Round 3 - Belgian Grand Prix](../seasons/1984-season-report#round-3-belgian-grand-prix)*
+   *[1984 Round 3 – Belgian Grand Prix](../seasons/1984-season-report#round-3-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1860
-   *[1990 Round 13 - Portuguese Grand Prix](../seasons/1990-season-report#round-13-portuguese-grand-prix)*
+   *[1990 Round 13 – Portuguese Grand Prix](../seasons/1990-season-report#round-13-portuguese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1529
-   *[1985 Round 7 - French Grand Prix](../seasons/1985-season-report#round-7-french-grand-prix)*
+   *[1985 Round 7 – French Grand Prix](../seasons/1985-season-report#round-7-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1973
-   *[1991 Round 12 - Italian Grand Prix](../seasons/1991-season-report#round-12-italian-grand-prix)*
+   *[1991 Round 12 – Italian Grand Prix](../seasons/1991-season-report#round-12-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1501
-   *[1984 Round 3 - Belgian Grand Prix](../seasons/1984-season-report#round-3-belgian-grand-prix)*
+   *[1984 Round 3 – Belgian Grand Prix](../seasons/1984-season-report#round-3-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1755
-   *[2012 Round 19 - United States Grand Prix](../seasons/2012-season-report#round-19-united-states-grand-prix)*
+   *[2012 Round 19 – United States Grand Prix](../seasons/2012-season-report#round-19-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1478
-   *[2015 Round 18 - Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
+   *[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1670
-   *[2014 Round 14 - Singapore Grand Prix](../seasons/2014-season-report#round-14-singapore-grand-prix)*
+   *[2014 Round 14 – Singapore Grand Prix](../seasons/2014-season-report#round-14-singapore-grand-prix)*
 
 📉 **Lowest Race Elo**: 1430
-   *[2012 Round 13 - Italian Grand Prix](../seasons/2012-season-report#round-13-italian-grand-prix)*
+   *[2012 Round 13 – Italian Grand Prix](../seasons/2012-season-report#round-13-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1631
-   *[2014 Round 14 - Singapore Grand Prix](../seasons/2014-season-report#round-14-singapore-grand-prix)*
+   *[2014 Round 14 – Singapore Grand Prix](../seasons/2014-season-report#round-14-singapore-grand-prix)*
 
 📉 **Lowest Global Elo**: 1475
-   *[2011 Round 4 - Turkish Grand Prix](../seasons/2011-season-report#round-4-turkish-grand-prix)*
+   *[2011 Round 4 – Turkish Grand Prix](../seasons/2011-season-report#round-4-turkish-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1465
-   *[1994 Round 16 - Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
+   *[1994 Round 16 – Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1426
-   *[1995 Round 14 - European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
+   *[1995 Round 14 – European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1490
-   *[1994 Round 16 - Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
+   *[1994 Round 16 – Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1478
-   *[1995 Round 14 - European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
+   *[1995 Round 14 – European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
 
 
 ## Complete Career Results by Season

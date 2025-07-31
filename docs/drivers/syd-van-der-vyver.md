@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1497
-   *[1962 Round 9 - South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix)*
+   *[1962 Round 9 – South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1483
-   *[1962 Round 9 - South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix)*
+   *[1962 Round 9 – South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1962 Round 9 - South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix)*
+   *[1962 Round 9 – South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1495
-   *[1962 Round 9 - South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix)*
+   *[1962 Round 9 – South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

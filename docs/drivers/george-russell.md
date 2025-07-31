@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1974
-   *[2025 Round 5 - Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)*
+   *[2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1548
-   *[2019 Round 1 - Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix)*
+   *[2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1889
-   *[2022 Round 8 - Azerbaijan Grand Prix](../seasons/2022-season-report#round-8-azerbaijan-grand-prix)*
+   *[2022 Round 8 – Azerbaijan Grand Prix](../seasons/2022-season-report#round-8-azerbaijan-grand-prix)*
 
 📉 **Lowest Race Elo**: 1551
-   *[2019 Round 1 - Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix)*
+   *[2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1893
-   *[2025 Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
+   *[2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1550
-   *[2019 Round 1 - Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix)*
+   *[2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

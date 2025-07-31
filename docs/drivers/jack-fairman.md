@@ -22,26 +22,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1490
-   *[1953 Round 6 - British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
+   *[1953 Round 6 – British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1388
-   *[1958 Round 7 - British Grand Prix](../seasons/1958-season-report#round-7-british-grand-prix)*
+   *[1958 Round 7 – British Grand Prix](../seasons/1958-season-report#round-7-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1505
-   *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
+   *[1958 Round 11 – Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 📉 **Lowest Race Elo**: 1480
-   *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
+   *[1958 Round 11 – Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1497
-   *[1953 Round 6 - British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
+   *[1953 Round 6 – British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1455
-   *[1958 Round 7 - British Grand Prix](../seasons/1958-season-report#round-7-british-grand-prix)*
+   *[1958 Round 7 – British Grand Prix](../seasons/1958-season-report#round-7-british-grand-prix)*
 
 
 ## Complete Career Results by Season

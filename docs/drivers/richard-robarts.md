@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1494
-   *[1974 Round 1 - Argentine Grand Prix](../seasons/1974-season-report#round-1-argentine-grand-prix)*
+   *[1974 Round 1 – Argentine Grand Prix](../seasons/1974-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1437
-   *[1974 Round 3 - South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
+   *[1974 Round 3 – South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1488
-   *[1974 Round 2 - Brazilian Grand Prix](../seasons/1974-season-report#round-2-brazilian-grand-prix)*
+   *[1974 Round 2 – Brazilian Grand Prix](../seasons/1974-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1477
-   *[1974 Round 3 - South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
+   *[1974 Round 3 – South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1498
-   *[1974 Round 1 - Argentine Grand Prix](../seasons/1974-season-report#round-1-argentine-grand-prix)*
+   *[1974 Round 1 – Argentine Grand Prix](../seasons/1974-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1465
-   *[1974 Round 3 - South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
+   *[1974 Round 3 – South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

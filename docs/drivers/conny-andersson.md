@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1498
-   *[1976 Round 12 - Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
+   *[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1486
-   *[1976 Round 12 - Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
+   *[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1976 Round 12 - Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
+   *[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
 
 📉 **Lowest Global Elo**: 1496
-   *[1976 Round 12 - Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
+   *[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
 
 
 ## Complete Career Results by Season

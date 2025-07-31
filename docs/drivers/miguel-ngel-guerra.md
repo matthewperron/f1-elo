@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1468
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+   *[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1468
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+   *[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1468
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+   *[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Race Elo**: 1468
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+   *[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1468
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+   *[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1468
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+   *[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

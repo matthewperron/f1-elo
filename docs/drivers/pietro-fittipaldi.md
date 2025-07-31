@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1509
-   *[2020 Round 17 - Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
+   *[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1470
-   *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
+   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1478
-   *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
+   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
 📉 **Lowest Race Elo**: 1459
-   *[2020 Round 17 - Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
+   *[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1476
-   *[2020 Round 16 - Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
+   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
 
 📉 **Lowest Global Elo**: 1474
-   *[2020 Round 17 - Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
+   *[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
 
 
 ## Complete Career Results by Season

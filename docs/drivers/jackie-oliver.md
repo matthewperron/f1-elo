@@ -22,26 +22,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1636
-   *[1973 Round 14 - Canadian Grand Prix](../seasons/1973-season-report#round-14-canadian-grand-prix)*
+   *[1973 Round 14 – Canadian Grand Prix](../seasons/1973-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1436
-   *[1968 Round 12 - Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix)*
+   *[1968 Round 12 – Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1502
-   *[1977 Round 8 - Swedish Grand Prix](../seasons/1977-season-report#round-8-swedish-grand-prix)*
+   *[1977 Round 8 – Swedish Grand Prix](../seasons/1977-season-report#round-8-swedish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1446
-   *[1973 Round 10 - Dutch Grand Prix](../seasons/1973-season-report#round-10-dutch-grand-prix)*
+   *[1973 Round 10 – Dutch Grand Prix](../seasons/1973-season-report#round-10-dutch-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1525
-   *[1970 Round 10 - Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
+   *[1970 Round 10 – Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1466
-   *[1968 Round 12 - Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix)*
+   *[1968 Round 12 – Mexican Grand Prix](../seasons/1968-season-report#round-12-mexican-grand-prix)*
 
 
 ## Complete Career Results by Season

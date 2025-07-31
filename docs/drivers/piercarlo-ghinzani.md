@@ -22,26 +22,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1735
-   *[1987 Round 2 - San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
+   *[1987 Round 2 – San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1379
-   *[1989 Round 16 - Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)*
+   *[1989 Round 16 – Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1561
-   *[1987 Round 11 - Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix)*
+   *[1987 Round 11 – Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1468
-   *[1983 Round 11 - Austrian Grand Prix](../seasons/1983-season-report#round-11-austrian-grand-prix)*
+   *[1983 Round 11 – Austrian Grand Prix](../seasons/1983-season-report#round-11-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1594
-   *[1987 Round 2 - San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
+   *[1987 Round 2 – San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1480
-   *[1989 Round 16 - Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)*
+   *[1989 Round 16 – Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -26,26 +26,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1745
-   *[2006 Round 1 - Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
+   *[2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1337
-   *[2011 Round 6 - Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)*
+   *[2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1778
-   *[2005 Round 7 - European Grand Prix](../seasons/2005-season-report#round-7-european-grand-prix)*
+   *[2005 Round 7 – European Grand Prix](../seasons/2005-season-report#round-7-european-grand-prix)*
 
 📉 **Lowest Race Elo**: 1487
-   *[2008 Round 8 - French Grand Prix](../seasons/2008-season-report#round-8-french-grand-prix)*
+   *[2008 Round 8 – French Grand Prix](../seasons/2008-season-report#round-8-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1760
-   *[2005 Round 8 - Canadian Grand Prix](../seasons/2005-season-report#round-8-canadian-grand-prix)*
+   *[2005 Round 8 – Canadian Grand Prix](../seasons/2005-season-report#round-8-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1467
-   *[2011 Round 11 - Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
+   *[2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1484
-   *[1955 Round 7 - Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
+   *[1955 Round 7 – Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1468
-   *[1955 Round 7 - Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
+   *[1955 Round 7 – Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1495
-   *[1955 Round 7 - Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
+   *[1955 Round 7 – Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1955 Round 7 - Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
+   *[1955 Round 7 – Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

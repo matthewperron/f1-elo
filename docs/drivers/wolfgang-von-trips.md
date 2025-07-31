@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1560
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1415
-   *[1959 Round 9 - United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
+   *[1959 Round 9 – United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1592
-   *[1961 Round 6 - German Grand Prix](../seasons/1961-season-report#round-6-german-grand-prix)*
+   *[1961 Round 6 – German Grand Prix](../seasons/1961-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1486
-   *[1960 Round 1 - Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
+   *[1960 Round 1 – Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1574
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1470
-   *[1959 Round 9 - United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
+   *[1959 Round 9 – United States Grand Prix](../seasons/1959-season-report#round-9-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

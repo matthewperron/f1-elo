@@ -23,26 +23,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1752
-   *[1971 Round 2 - Spanish Grand Prix](../seasons/1971-season-report#round-2-spanish-grand-prix)*
+   *[1971 Round 2 – Spanish Grand Prix](../seasons/1971-season-report#round-2-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1445
-   *[1965 Round 10 - Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
+   *[1965 Round 10 – Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1625
-   *[1971 Round 4 - Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
+   *[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1451
-   *[1965 Round 9 - United States Grand Prix](../seasons/1965-season-report#round-9-united-states-grand-prix)*
+   *[1965 Round 9 – United States Grand Prix](../seasons/1965-season-report#round-9-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1659
-   *[1971 Round 5 - French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
+   *[1971 Round 5 – French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1457
-   *[1965 Round 9 - United States Grand Prix](../seasons/1965-season-report#round-9-united-states-grand-prix)*
+   *[1965 Round 9 – United States Grand Prix](../seasons/1965-season-report#round-9-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

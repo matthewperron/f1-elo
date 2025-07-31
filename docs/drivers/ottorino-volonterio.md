@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1497
-   *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
+   *[1954 Round 9 – Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1445
-   *[1957 Round 8 - Italian Grand Prix](../seasons/1957-season-report#round-8-italian-grand-prix)*
+   *[1957 Round 8 – Italian Grand Prix](../seasons/1957-season-report#round-8-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1498
-   *[1956 Round 7 - German Grand Prix](../seasons/1956-season-report#round-7-german-grand-prix)*
+   *[1956 Round 7 – German Grand Prix](../seasons/1956-season-report#round-7-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1489
-   *[1956 Round 7 - German Grand Prix](../seasons/1956-season-report#round-7-german-grand-prix)*
+   *[1956 Round 7 – German Grand Prix](../seasons/1956-season-report#round-7-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
+   *[1954 Round 9 – Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
 
 📉 **Lowest Global Elo**: 1478
-   *[1957 Round 8 - Italian Grand Prix](../seasons/1957-season-report#round-8-italian-grand-prix)*
+   *[1957 Round 8 – Italian Grand Prix](../seasons/1957-season-report#round-8-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

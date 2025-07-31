@@ -28,26 +28,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1938
-   *[1985 Round 15 - South African Grand Prix](../seasons/1985-season-report#round-15-south-african-grand-prix)*
+   *[1985 Round 15 – South African Grand Prix](../seasons/1985-season-report#round-15-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1379
-   *[1978 Round 16 - Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)*
+   *[1978 Round 16 – Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1763
-   *[1987 Round 5 - Detroit Grand Prix](../seasons/1987-season-report#round-5-detroit-grand-prix)*
+   *[1987 Round 5 – Detroit Grand Prix](../seasons/1987-season-report#round-5-detroit-grand-prix)*
 
 📉 **Lowest Race Elo**: 1468
-   *[1978 Round 14 - Italian Grand Prix](../seasons/1978-season-report#round-14-italian-grand-prix)*
+   *[1978 Round 14 – Italian Grand Prix](../seasons/1978-season-report#round-14-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1808
-   *[1986 Round 3 - San Marino Grand Prix](../seasons/1986-season-report#round-3-san-marino-grand-prix)*
+   *[1986 Round 3 – San Marino Grand Prix](../seasons/1986-season-report#round-3-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1449
-   *[1978 Round 14 - Italian Grand Prix](../seasons/1978-season-report#round-14-italian-grand-prix)*
+   *[1978 Round 14 – Italian Grand Prix](../seasons/1978-season-report#round-14-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1474
-   *[2001 Round 15 - Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
+   *[2001 Round 15 – Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1280
-   *[2002 Round 17 - Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix)*
+   *[2002 Round 17 – Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1473
-   *[2001 Round 15 - Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
+   *[2001 Round 15 – Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1340
-   *[2002 Round 17 - Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix)*
+   *[2002 Round 17 – Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1473
-   *[2001 Round 15 - Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
+   *[2001 Round 15 – Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1321
-   *[2002 Round 17 - Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix)*
+   *[2002 Round 17 – Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix)*
 
 
 ## Complete Career Results by Season

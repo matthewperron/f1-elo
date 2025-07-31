@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1487
-   *[2006 Round 2 - Malaysian Grand Prix](../seasons/2006-season-report#round-2-malaysian-grand-prix)*
+   *[2006 Round 2 – Malaysian Grand Prix](../seasons/2006-season-report#round-2-malaysian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1317
-   *[2006 Round 9 - Canadian Grand Prix](../seasons/2006-season-report#round-9-canadian-grand-prix)*
+   *[2006 Round 9 – Canadian Grand Prix](../seasons/2006-season-report#round-9-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1591
-   *[2007 Round 5 - Monaco Grand Prix](../seasons/2007-season-report#round-5-monaco-grand-prix)*
+   *[2007 Round 5 – Monaco Grand Prix](../seasons/2007-season-report#round-5-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1449
-   *[2006 Round 8 - British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)*
+   *[2006 Round 8 – British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1531
-   *[2007 Round 10 - European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)*
+   *[2007 Round 10 – European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)*
 
 📉 **Lowest Global Elo**: 1413
-   *[2006 Round 8 - British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)*
+   *[2006 Round 8 – British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)*
 
 
 ## Complete Career Results by Season

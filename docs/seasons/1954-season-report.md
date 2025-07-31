@@ -1,10 +1,10 @@
-# 1954 F1 Season - ELO Analysis
+# 1954 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Indianapolis 500](#round-2-indianapolis-500) • [Round 3: Belgian Grand Prix](#round-3-belgian-grand-prix) • [Round 4: French Grand Prix](#round-4-french-grand-prix) • [Round 5: British Grand Prix](#round-5-british-grand-prix) • [Round 6: German Grand Prix](#round-6-german-grand-prix) • [Round 7: Swiss Grand Prix](#round-7-swiss-grand-prix) • [Round 8: Italian Grand Prix](#round-8-italian-grand-prix) • [Round 9: Spanish Grand Prix](#round-9-spanish-grand-prix)
+[Round 1 – Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2 – Indianapolis 500](#round-2-indianapolis-500) • [Round 3 – Belgian Grand Prix](#round-3-belgian-grand-prix) • [Round 4 – French Grand Prix](#round-4-french-grand-prix) • [Round 5 – British Grand Prix](#round-5-british-grand-prix) • [Round 6 – German Grand Prix](#round-6-german-grand-prix) • [Round 7 – Swiss Grand Prix](#round-7-swiss-grand-prix) • [Round 8 – Italian Grand Prix](#round-8-italian-grand-prix) • [Round 9 – Spanish Grand Prix](#round-9-spanish-grand-prix)
 
 📊 **[View Complete F1 1954 Season Results](https://www.formula1.com/en/results.html/1954/races.html)** | **[Wikipedia 1954 F1 Season](https://en.wikipedia.org/wiki/1954_Formula_One_World_Championship)**
 
@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Argentine Grand Prix
+### Round 1 – Argentine Grand Prix
 *Date: 1954-01-17*
 
 #### Qualifying Results
@@ -118,7 +118,7 @@
 
 ---
 
-### Round 2: Indianapolis 500
+### Round 2 – Indianapolis 500
 *Date: 1954-05-31*
 
 #### Qualifying Results
@@ -199,7 +199,7 @@
 
 ---
 
-### Round 3: Belgian Grand Prix
+### Round 3 – Belgian Grand Prix
 *Date: 1954-06-20*
 
 #### Qualifying Results
@@ -244,7 +244,7 @@
 
 ---
 
-### Round 4: French Grand Prix
+### Round 4 – French Grand Prix
 *Date: 1954-07-04*
 
 #### Qualifying Results
@@ -303,7 +303,7 @@
 
 ---
 
-### Round 5: British Grand Prix
+### Round 5 – British Grand Prix
 *Date: 1954-07-17*
 
 #### Qualifying Results
@@ -382,7 +382,7 @@
 
 ---
 
-### Round 6: German Grand Prix
+### Round 6 – German Grand Prix
 *Date: 1954-08-01*
 
 #### Qualifying Results
@@ -443,7 +443,7 @@
 
 ---
 
-### Round 7: Swiss Grand Prix
+### Round 7 – Swiss Grand Prix
 *Date: 1954-08-22*
 
 #### Qualifying Results
@@ -492,7 +492,7 @@
 
 ---
 
-### Round 8: Italian Grand Prix
+### Round 8 – Italian Grand Prix
 *Date: 1954-09-05*
 
 #### Qualifying Results
@@ -549,7 +549,7 @@
 
 ---
 
-### Round 9: Spanish Grand Prix
+### Round 9 – Spanish Grand Prix
 *Date: 1954-10-24*
 
 #### Qualifying Results

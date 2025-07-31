@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1483
-   *[1977 Round 3 - South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)*
+   *[1977 Round 3 – South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1439
-   *[1977 Round 7 - Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
+   *[1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1495
-   *[1977 Round 3 - South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)*
+   *[1977 Round 3 – South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1482
-   *[1977 Round 7 - Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
+   *[1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

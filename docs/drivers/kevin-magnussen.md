@@ -24,26 +24,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1710
-   *[2022 Round 11 - Austrian Grand Prix](../seasons/2022-season-report#round-11-austrian-grand-prix)*
+   *[2022 Round 11 – Austrian Grand Prix](../seasons/2022-season-report#round-11-austrian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1402
-   *[2017 Round 12 - Belgian Grand Prix](../seasons/2017-season-report#round-12-belgian-grand-prix)*
+   *[2017 Round 12 – Belgian Grand Prix](../seasons/2017-season-report#round-12-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1671
-   *[2022 Round 1 - Bahrain Grand Prix](../seasons/2022-season-report#round-1-bahrain-grand-prix)*
+   *[2022 Round 1 – Bahrain Grand Prix](../seasons/2022-season-report#round-1-bahrain-grand-prix)*
 
 📉 **Lowest Race Elo**: 1286
-   *[2024 Round 13 - Hungarian Grand Prix](../seasons/2024-season-report#round-13-hungarian-grand-prix)*
+   *[2024 Round 13 – Hungarian Grand Prix](../seasons/2024-season-report#round-13-hungarian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1648
-   *[2022 Round 2 - Saudi Arabian Grand Prix](../seasons/2022-season-report#round-2-saudi-arabian-grand-prix)*
+   *[2022 Round 2 – Saudi Arabian Grand Prix](../seasons/2022-season-report#round-2-saudi-arabian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1335
-   *[2024 Round 13 - Hungarian Grand Prix](../seasons/2024-season-report#round-13-hungarian-grand-prix)*
+   *[2024 Round 13 – Hungarian Grand Prix](../seasons/2024-season-report#round-13-hungarian-grand-prix)*
 
 
 ## Complete Career Results by Season

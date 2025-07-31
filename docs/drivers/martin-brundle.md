@@ -26,26 +26,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1778
-   *[1987 Round 10 - Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
+   *[1987 Round 10 – Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1320
-   *[1993 Round 5 - Spanish Grand Prix](../seasons/1993-season-report#round-5-spanish-grand-prix)*
+   *[1993 Round 5 – Spanish Grand Prix](../seasons/1993-season-report#round-5-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1584
-   *[1993 Round 12 - Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
+   *[1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1402
-   *[1992 Round 4 - Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
+   *[1992 Round 4 – Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1606
-   *[1986 Round 12 - Austrian Grand Prix](../seasons/1986-season-report#round-12-austrian-grand-prix)*
+   *[1986 Round 12 – Austrian Grand Prix](../seasons/1986-season-report#round-12-austrian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1396
-   *[1993 Round 3 - European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)*
+   *[1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)*
 
 
 ## Complete Career Results by Season

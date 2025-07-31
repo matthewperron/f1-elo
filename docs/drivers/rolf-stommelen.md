@@ -22,26 +22,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1704
-   *[1971 Round 8 - Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
+   *[1971 Round 8 – Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1329
-   *[1978 Round 11 - German Grand Prix](../seasons/1978-season-report#round-11-german-grand-prix)*
+   *[1978 Round 11 – German Grand Prix](../seasons/1978-season-report#round-11-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1575
-   *[1971 Round 3 - Monaco Grand Prix](../seasons/1971-season-report#round-3-monaco-grand-prix)*
+   *[1971 Round 3 – Monaco Grand Prix](../seasons/1971-season-report#round-3-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1353
-   *[1978 Round 9 - French Grand Prix](../seasons/1978-season-report#round-9-french-grand-prix)*
+   *[1978 Round 9 – French Grand Prix](../seasons/1978-season-report#round-9-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1598
-   *[1971 Round 8 - Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
+   *[1971 Round 8 – Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1346
-   *[1978 Round 11 - German Grand Prix](../seasons/1978-season-report#round-11-german-grand-prix)*
+   *[1978 Round 11 – German Grand Prix](../seasons/1978-season-report#round-11-german-grand-prix)*
 
 
 ## Complete Career Results by Season

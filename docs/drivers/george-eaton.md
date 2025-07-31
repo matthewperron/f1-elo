@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1546
-   *[1969 Round 10 - United States Grand Prix](../seasons/1969-season-report#round-10-united-states-grand-prix)*
+   *[1969 Round 10 – United States Grand Prix](../seasons/1969-season-report#round-10-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1390
-   *[1971 Round 10 - Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
+   *[1971 Round 10 – Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1486
-   *[1970 Round 9 - Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix)*
+   *[1970 Round 9 – Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1434
-   *[1971 Round 10 - Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
+   *[1971 Round 10 – Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1514
-   *[1969 Round 10 - United States Grand Prix](../seasons/1969-season-report#round-10-united-states-grand-prix)*
+   *[1969 Round 10 – United States Grand Prix](../seasons/1969-season-report#round-10-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1423
-   *[1971 Round 10 - Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
+   *[1971 Round 10 – Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

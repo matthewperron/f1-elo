@@ -17,18 +17,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1516
-   *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
+   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 📉 **Lowest Qualifying Elo**: 1482
-   *[1959 Round 2 - Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500)*
+   *[1959 Round 2 – Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1505
-   *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
+   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 📉 **Lowest Global Elo**: 1495
-   *[1959 Round 2 - Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500)*
+   *[1959 Round 2 – Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500)*
 
 
 ## Complete Career Results by Season

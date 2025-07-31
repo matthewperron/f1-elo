@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1644
-   *[1977 Round 10 - British Grand Prix](../seasons/1977-season-report#round-10-british-grand-prix)*
+   *[1977 Round 10 – British Grand Prix](../seasons/1977-season-report#round-10-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1398
-   *[1973 Round 6 - Monaco Grand Prix](../seasons/1973-season-report#round-6-monaco-grand-prix)*
+   *[1973 Round 6 – Monaco Grand Prix](../seasons/1973-season-report#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1548
-   *[1973 Round 3 - South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
+   *[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Race Elo**: 1456
-   *[1973 Round 1 - Argentine Grand Prix](../seasons/1973-season-report#round-1-argentine-grand-prix)*
+   *[1973 Round 1 – Argentine Grand Prix](../seasons/1973-season-report#round-1-argentine-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1555
-   *[1976 Round 14 - Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
+   *[1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1452
-   *[1973 Round 1 - Argentine Grand Prix](../seasons/1973-season-report#round-1-argentine-grand-prix)*
+   *[1973 Round 1 – Argentine Grand Prix](../seasons/1973-season-report#round-1-argentine-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -26,26 +26,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1788
-   *[1977 Round 11 - German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix)*
+   *[1977 Round 11 – German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1463
-   *[1973 Round 15 - United States Grand Prix](../seasons/1973-season-report#round-15-united-states-grand-prix)*
+   *[1973 Round 15 – United States Grand Prix](../seasons/1973-season-report#round-15-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1717
-   *[1983 Round 8 - Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
+   *[1983 Round 8 – Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1470
-   *[1974 Round 15 - United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
+   *[1974 Round 15 – United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1711
-   *[1981 Round 15 - Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
+   *[1981 Round 15 – Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
 
 📉 **Lowest Global Elo**: 1477
-   *[1974 Round 15 - United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
+   *[1974 Round 15 – United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1511
-   *[1971 Round 5 - French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
+   *[1971 Round 5 – French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1488
-   *[1971 Round 5 - French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
+   *[1971 Round 5 – French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1503
-   *[1971 Round 5 - French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
+   *[1971 Round 5 – French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1496
-   *[1971 Round 5 - French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
+   *[1971 Round 5 – French Grand Prix](../seasons/1971-season-report#round-5-french-grand-prix)*
 
 
 ## Complete Career Results by Season

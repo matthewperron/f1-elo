@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1586
-   *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
+   *[1951 Round 7 – Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1317
-   *[1955 Round 2 - Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix)*
+   *[1955 Round 2 – Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1582
-   *[1951 Round 8 - Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
+   *[1951 Round 8 – Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1396
-   *[1956 Round 4 - Belgian Grand Prix](../seasons/1956-season-report#round-4-belgian-grand-prix)*
+   *[1956 Round 4 – Belgian Grand Prix](../seasons/1956-season-report#round-4-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1569
-   *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
+   *[1951 Round 7 – Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1362
-   *[1956 Round 4 - Belgian Grand Prix](../seasons/1956-season-report#round-4-belgian-grand-prix)*
+   *[1956 Round 4 – Belgian Grand Prix](../seasons/1956-season-report#round-4-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

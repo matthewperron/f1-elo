@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1491
-   *[1997 Round 8 - French Grand Prix](../seasons/1997-season-report#round-8-french-grand-prix)*
+   *[1997 Round 8 – French Grand Prix](../seasons/1997-season-report#round-8-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1469
-   *[1997 Round 17 - European Grand Prix](../seasons/1997-season-report#round-17-european-grand-prix)*
+   *[1997 Round 17 – European Grand Prix](../seasons/1997-season-report#round-17-european-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1514
-   *[1997 Round 10 - German Grand Prix](../seasons/1997-season-report#round-10-german-grand-prix)*
+   *[1997 Round 10 – German Grand Prix](../seasons/1997-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1473
-   *[1997 Round 8 - French Grand Prix](../seasons/1997-season-report#round-8-french-grand-prix)*
+   *[1997 Round 8 – French Grand Prix](../seasons/1997-season-report#round-8-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1503
-   *[1997 Round 10 - German Grand Prix](../seasons/1997-season-report#round-10-german-grand-prix)*
+   *[1997 Round 10 – German Grand Prix](../seasons/1997-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1476
-   *[1997 Round 9 - British Grand Prix](../seasons/1997-season-report#round-9-british-grand-prix)*
+   *[1997 Round 9 – British Grand Prix](../seasons/1997-season-report#round-9-british-grand-prix)*
 
 
 ## Complete Career Results by Season

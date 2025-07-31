@@ -654,15 +654,15 @@ function generateSeasonReportELOTable(driverRatings) {
 async function generateSeasonReport(driverRatings, raceEvents, season) {
     const timestamp = new Date().toISOString().split('T')[0];
     
-    let content = `# ${season} F1 Season - ELO Analysis\n\n`;
+    let content = `# ${season} F1 Season - Elo Analysis\n\n`;
     content += `*Last updated: ${timestamp}*\n\n`;
     
     // Add quick navigation to race sections
     content += `## Quick Navigation\n\n`;
     const raceNavigation = raceEvents.map(race => 
-        `[Round ${race.round}: ${race.raceName}](#round-${race.round}-${race.raceName.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-')})`
+        `[Round ${race.round} – ${race.raceName}](#round-${race.round}-${race.raceName.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-')})`
     ).join(' • ');
-    content += `**Races**: ${raceNavigation}\n\n`;
+    content += `${raceNavigation}\n\n`;
     content += `📊 **[View Complete F1 ${season} Season Results](https://www.formula1.com/en/results.html/${season}/races.html)** | **[Wikipedia ${season} F1 Season](https://en.wikipedia.org/wiki/${season}_Formula_One_World_Championship)**\n\n`;
     
     // Final ELO Table
@@ -685,7 +685,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     }
     
     raceEvents.forEach(race => {
-        content += `### Round ${race.round}: ${race.raceName}\n`;
+        content += `### Round ${race.round} – ${race.raceName}\n`;
         content += `*Date: ${race.date}*\n\n`;
         
         // Group changes by type
@@ -810,9 +810,9 @@ async function updateHomepageFiles(driverRatings, season, useComprehensiveLinks 
 
 - This table shows the current Elo ratings of drivers currently on the grid for the ${season} season. Some drivers may have peaked earlier in their careers, so this is not a comprehensive list of the best drivers of all time.
 
-- For the all-time best drivers, see: [Best Qualifying Elo](${file.isGithubPages ? 'peak-elo#best-qualifying-elo' : 'docs/peak-elo.md#best-qualifying-elo'}) | [Best Race Elo](${file.isGithubPages ? 'peak-elo#best-race-elo' : 'docs/peak-elo.md#best-race-elo'}) | [Best Global Elo](${file.isGithubPages ? 'peak-elo#best-global-elo' : 'docs/peak-elo.md#best-global-elo'})*
+- For the all-time best drivers, see: [Best Qualifying Elo](${file.isGithubPages ? 'peak-elo#best-qualifying-elo' : 'docs/peak-elo.md#best-qualifying-elo'}) | [Best Race Elo](${file.isGithubPages ? 'peak-elo#best-race-elo' : 'docs/peak-elo.md#best-race-elo'}) | [Best Global Elo](${file.isGithubPages ? 'peak-elo#best-global-elo' : 'docs/peak-elo.md#best-global-elo'})
 
-- The Global Elo combines qualifying (30%) and race (70%) Elo changes using a weighted calculation to provide a comprehensive driver rating.*
+- The Global Elo combines qualifying (30%) and race (70%) Elo changes using a weighted calculation to provide a comprehensive driver rating.
 
 ${table}
 

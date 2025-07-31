@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1521
-   *[1951 Round 1 - Swiss Grand Prix](../seasons/1951-season-report#round-1-swiss-grand-prix)*
+   *[1951 Round 1 – Swiss Grand Prix](../seasons/1951-season-report#round-1-swiss-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1491
-   *[1950 Round 7 - Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
+   *[1950 Round 7 – Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1495
-   *[1951 Round 1 - Swiss Grand Prix](../seasons/1951-season-report#round-1-swiss-grand-prix)*
+   *[1951 Round 1 – Swiss Grand Prix](../seasons/1951-season-report#round-1-swiss-grand-prix)*
 
 📉 **Lowest Race Elo**: 1490
-   *[1951 Round 1 - Swiss Grand Prix](../seasons/1951-season-report#round-1-swiss-grand-prix)*
+   *[1951 Round 1 – Swiss Grand Prix](../seasons/1951-season-report#round-1-swiss-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1501
-   *[1950 Round 7 - Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
+   *[1950 Round 7 – Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1493
-   *[1951 Round 1 - Swiss Grand Prix](../seasons/1951-season-report#round-1-swiss-grand-prix)*
+   *[1951 Round 1 – Swiss Grand Prix](../seasons/1951-season-report#round-1-swiss-grand-prix)*
 
 
 ## Complete Career Results by Season

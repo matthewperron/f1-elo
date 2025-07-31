@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1498
-   *[1961 Round 6 - German Grand Prix](../seasons/1961-season-report#round-6-german-grand-prix)*
+   *[1961 Round 6 – German Grand Prix](../seasons/1961-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1460
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1490
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1478
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1961 Round 6 - German Grand Prix](../seasons/1961-season-report#round-6-german-grand-prix)*
+   *[1961 Round 6 – German Grand Prix](../seasons/1961-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1474
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

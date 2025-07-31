@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1495
-   *[1950 Round 7 - Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
+   *[1950 Round 7 – Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1470
-   *[1952 Round 4 - French Grand Prix](../seasons/1952-season-report#round-4-french-grand-prix)*
+   *[1952 Round 4 – French Grand Prix](../seasons/1952-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1950 Round 7 - Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
+   *[1950 Round 7 – Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1491
-   *[1952 Round 4 - French Grand Prix](../seasons/1952-season-report#round-4-french-grand-prix)*
+   *[1952 Round 4 – French Grand Prix](../seasons/1952-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1706
-   *[1995 Round 17 - Australian Grand Prix](../seasons/1995-season-report#round-17-australian-grand-prix)*
+   *[1995 Round 17 – Australian Grand Prix](../seasons/1995-season-report#round-17-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1435
-   *[1991 Round 2 - Brazilian Grand Prix](../seasons/1991-season-report#round-2-brazilian-grand-prix)*
+   *[1991 Round 2 – Brazilian Grand Prix](../seasons/1991-season-report#round-2-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1557
-   *[1992 Round 7 - Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
+   *[1992 Round 7 – Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1389
-   *[1994 Round 13 - Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
+   *[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1561
-   *[1995 Round 15 - Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
+   *[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
 
 📉 **Lowest Global Elo**: 1440
-   *[1994 Round 13 - Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
+   *[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
 
 
 ## Complete Career Results by Season

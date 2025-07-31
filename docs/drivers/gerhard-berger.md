@@ -28,26 +28,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 2040
-   *[1990 Round 7 - French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix)*
+   *[1990 Round 7 – French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1438
-   *[1985 Round 6 - Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
+   *[1985 Round 6 – Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1759
-   *[1996 Round 5 - San Marino Grand Prix](../seasons/1996-season-report#round-5-san-marino-grand-prix)*
+   *[1996 Round 5 – San Marino Grand Prix](../seasons/1996-season-report#round-5-san-marino-grand-prix)*
 
 📉 **Lowest Race Elo**: 1429
-   *[1985 Round 7 - French Grand Prix](../seasons/1985-season-report#round-7-french-grand-prix)*
+   *[1985 Round 7 – French Grand Prix](../seasons/1985-season-report#round-7-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1773
-   *[1995 Round 1 - Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
+   *[1995 Round 1 – Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1442
-   *[1985 Round 6 - Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
+   *[1985 Round 6 – Detroit Grand Prix](../seasons/1985-season-report#round-6-detroit-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1506
-   *[1984 Round 9 - Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)*
+   *[1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1414
-   *[1983 Round 13 - Italian Grand Prix](../seasons/1983-season-report#round-13-italian-grand-prix)*
+   *[1983 Round 13 – Italian Grand Prix](../seasons/1983-season-report#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1577
-   *[1984 Round 9 - Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)*
+   *[1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)*
 
 📉 **Lowest Race Elo**: 1532
-   *[1983 Round 11 - Austrian Grand Prix](../seasons/1983-season-report#round-11-austrian-grand-prix)*
+   *[1983 Round 11 – Austrian Grand Prix](../seasons/1983-season-report#round-11-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1556
-   *[1984 Round 9 - Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)*
+   *[1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1983 Round 7 - Detroit Grand Prix](../seasons/1983-season-report#round-7-detroit-grand-prix)*
+   *[1983 Round 7 – Detroit Grand Prix](../seasons/1983-season-report#round-7-detroit-grand-prix)*
 
 
 ## Complete Career Results by Season

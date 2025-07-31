@@ -1,10 +1,10 @@
-# 1986 F1 Season - ELO Analysis
+# 1986 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Brazilian Grand Prix](#round-1-brazilian-grand-prix) • [Round 2: Spanish Grand Prix](#round-2-spanish-grand-prix) • [Round 3: San Marino Grand Prix](#round-3-san-marino-grand-prix) • [Round 4: Monaco Grand Prix](#round-4-monaco-grand-prix) • [Round 5: Belgian Grand Prix](#round-5-belgian-grand-prix) • [Round 6: Canadian Grand Prix](#round-6-canadian-grand-prix) • [Round 7: Detroit Grand Prix](#round-7-detroit-grand-prix) • [Round 8: French Grand Prix](#round-8-french-grand-prix) • [Round 9: British Grand Prix](#round-9-british-grand-prix) • [Round 10: German Grand Prix](#round-10-german-grand-prix) • [Round 11: Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12: Austrian Grand Prix](#round-12-austrian-grand-prix) • [Round 13: Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14: Portuguese Grand Prix](#round-14-portuguese-grand-prix) • [Round 15: Mexican Grand Prix](#round-15-mexican-grand-prix) • [Round 16: Australian Grand Prix](#round-16-australian-grand-prix)
+[Round 1 – Brazilian Grand Prix](#round-1-brazilian-grand-prix) • [Round 2 – Spanish Grand Prix](#round-2-spanish-grand-prix) • [Round 3 – San Marino Grand Prix](#round-3-san-marino-grand-prix) • [Round 4 – Monaco Grand Prix](#round-4-monaco-grand-prix) • [Round 5 – Belgian Grand Prix](#round-5-belgian-grand-prix) • [Round 6 – Canadian Grand Prix](#round-6-canadian-grand-prix) • [Round 7 – Detroit Grand Prix](#round-7-detroit-grand-prix) • [Round 8 – French Grand Prix](#round-8-french-grand-prix) • [Round 9 – British Grand Prix](#round-9-british-grand-prix) • [Round 10 – German Grand Prix](#round-10-german-grand-prix) • [Round 11 – Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12 – Austrian Grand Prix](#round-12-austrian-grand-prix) • [Round 13 – Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14 – Portuguese Grand Prix](#round-14-portuguese-grand-prix) • [Round 15 – Mexican Grand Prix](#round-15-mexican-grand-prix) • [Round 16 – Australian Grand Prix](#round-16-australian-grand-prix)
 
 📊 **[View Complete F1 1986 Season Results](https://www.formula1.com/en/results.html/1986/races.html)** | **[Wikipedia 1986 F1 Season](https://en.wikipedia.org/wiki/1986_Formula_One_World_Championship)**
 
@@ -48,7 +48,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Brazilian Grand Prix
+### Round 1 – Brazilian Grand Prix
 *Date: 1986-03-23*
 
 #### Qualifying Results
@@ -113,7 +113,7 @@
 
 ---
 
-### Round 2: Spanish Grand Prix
+### Round 2 – Spanish Grand Prix
 *Date: 1986-04-13*
 
 #### Qualifying Results
@@ -178,7 +178,7 @@
 
 ---
 
-### Round 3: San Marino Grand Prix
+### Round 3 – San Marino Grand Prix
 *Date: 1986-04-27*
 
 #### Qualifying Results
@@ -245,7 +245,7 @@
 
 ---
 
-### Round 4: Monaco Grand Prix
+### Round 4 – Monaco Grand Prix
 *Date: 1986-05-11*
 
 #### Qualifying Results
@@ -300,7 +300,7 @@
 
 ---
 
-### Round 5: Belgian Grand Prix
+### Round 5 – Belgian Grand Prix
 *Date: 1986-05-25*
 
 #### Qualifying Results
@@ -365,7 +365,7 @@
 
 ---
 
-### Round 6: Canadian Grand Prix
+### Round 6 – Canadian Grand Prix
 *Date: 1986-06-15*
 
 #### Qualifying Results
@@ -430,7 +430,7 @@
 
 ---
 
-### Round 7: Detroit Grand Prix
+### Round 7 – Detroit Grand Prix
 *Date: 1986-06-22*
 
 #### Qualifying Results
@@ -497,7 +497,7 @@
 
 ---
 
-### Round 8: French Grand Prix
+### Round 8 – French Grand Prix
 *Date: 1986-07-06*
 
 #### Qualifying Results
@@ -564,7 +564,7 @@
 
 ---
 
-### Round 9: British Grand Prix
+### Round 9 – British Grand Prix
 *Date: 1986-07-13*
 
 #### Qualifying Results
@@ -631,7 +631,7 @@
 
 ---
 
-### Round 10: German Grand Prix
+### Round 10 – German Grand Prix
 *Date: 1986-07-27*
 
 #### Qualifying Results
@@ -698,7 +698,7 @@
 
 ---
 
-### Round 11: Hungarian Grand Prix
+### Round 11 – Hungarian Grand Prix
 *Date: 1986-08-10*
 
 #### Qualifying Results
@@ -765,7 +765,7 @@
 
 ---
 
-### Round 12: Austrian Grand Prix
+### Round 12 – Austrian Grand Prix
 *Date: 1986-08-17*
 
 #### Qualifying Results
@@ -832,7 +832,7 @@
 
 ---
 
-### Round 13: Italian Grand Prix
+### Round 13 – Italian Grand Prix
 *Date: 1986-09-07*
 
 #### Qualifying Results
@@ -901,7 +901,7 @@
 
 ---
 
-### Round 14: Portuguese Grand Prix
+### Round 14 – Portuguese Grand Prix
 *Date: 1986-09-21*
 
 #### Qualifying Results
@@ -970,7 +970,7 @@
 
 ---
 
-### Round 15: Mexican Grand Prix
+### Round 15 – Mexican Grand Prix
 *Date: 1986-10-12*
 
 #### Qualifying Results
@@ -1035,7 +1035,7 @@
 
 ---
 
-### Round 16: Australian Grand Prix
+### Round 16 – Australian Grand Prix
 *Date: 1986-10-26*
 
 #### Qualifying Results

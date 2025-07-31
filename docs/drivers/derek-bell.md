@@ -19,18 +19,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1483
-   *[1968 Round 9 - Italian Grand Prix](../seasons/1968-season-report#round-9-italian-grand-prix)*
+   *[1968 Round 9 – Italian Grand Prix](../seasons/1968-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1382
-   *[1974 Round 11 - German Grand Prix](../seasons/1974-season-report#round-11-german-grand-prix)*
+   *[1974 Round 11 – German Grand Prix](../seasons/1974-season-report#round-11-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1495
-   *[1968 Round 9 - Italian Grand Prix](../seasons/1968-season-report#round-9-italian-grand-prix)*
+   *[1968 Round 9 – Italian Grand Prix](../seasons/1968-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1465
-   *[1974 Round 11 - German Grand Prix](../seasons/1974-season-report#round-11-german-grand-prix)*
+   *[1974 Round 11 – German Grand Prix](../seasons/1974-season-report#round-11-german-grand-prix)*
 
 
 ## Complete Career Results by Season

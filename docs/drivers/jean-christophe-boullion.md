@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1490
-   *[1995 Round 5 - Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)*
+   *[1995 Round 5 – Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1426
-   *[1995 Round 15 - Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
+   *[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1482
-   *[1995 Round 5 - Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)*
+   *[1995 Round 5 – Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1420
-   *[1995 Round 13 - Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix)*
+   *[1995 Round 13 – Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1484
-   *[1995 Round 5 - Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)*
+   *[1995 Round 5 – Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1424
-   *[1995 Round 13 - Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix)*
+   *[1995 Round 13 – Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix)*
 
 
 ## Complete Career Results by Season

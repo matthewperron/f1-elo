@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1688
-   *[1994 Round 16 - Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
+   *[1994 Round 16 – Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1428
-   *[1990 Round 13 - Portuguese Grand Prix](../seasons/1990-season-report#round-13-portuguese-grand-prix)*
+   *[1990 Round 13 – Portuguese Grand Prix](../seasons/1990-season-report#round-13-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1521
-   *[1994 Round 8 - British Grand Prix](../seasons/1994-season-report#round-8-british-grand-prix)*
+   *[1994 Round 8 – British Grand Prix](../seasons/1994-season-report#round-8-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1452
-   *[1990 Round 16 - Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)*
+   *[1990 Round 16 – Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1568
-   *[1994 Round 16 - Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
+   *[1994 Round 16 – Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1457
-   *[1990 Round 16 - Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)*
+   *[1990 Round 16 – Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

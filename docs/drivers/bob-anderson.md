@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1496
-   *[1963 Round 5 - British Grand Prix](../seasons/1963-season-report#round-5-british-grand-prix)*
+   *[1963 Round 5 – British Grand Prix](../seasons/1963-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1348
-   *[1966 Round 1 - Monaco Grand Prix](../seasons/1966-season-report#round-1-monaco-grand-prix)*
+   *[1966 Round 1 – Monaco Grand Prix](../seasons/1966-season-report#round-1-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1527
-   *[1964 Round 8 - Italian Grand Prix](../seasons/1964-season-report#round-8-italian-grand-prix)*
+   *[1964 Round 8 – Italian Grand Prix](../seasons/1964-season-report#round-8-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1491
-   *[1964 Round 5 - British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
+   *[1964 Round 5 – British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1501
-   *[1967 Round 1 - South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
+   *[1967 Round 1 – South African Grand Prix](../seasons/1967-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1473
-   *[1966 Round 1 - Monaco Grand Prix](../seasons/1966-season-report#round-1-monaco-grand-prix)*
+   *[1966 Round 1 – Monaco Grand Prix](../seasons/1966-season-report#round-1-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

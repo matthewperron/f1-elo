@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1463
-   *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
+   *[1979 Round 10 – German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1444
-   *[1982 Round 11 - French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
+   *[1982 Round 11 – French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1523
-   *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
+   *[1979 Round 10 – German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1523
-   *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
+   *[1979 Round 10 – German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1505
-   *[1979 Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
+   *[1979 Round 10 – German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1499
-   *[1982 Round 11 - French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
+   *[1982 Round 11 – French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
 
 
 ## Complete Career Results by Season

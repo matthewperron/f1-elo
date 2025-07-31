@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1491
-   *[1953 Round 4 - Belgian Grand Prix](../seasons/1953-season-report#round-4-belgian-grand-prix)*
+   *[1953 Round 4 – Belgian Grand Prix](../seasons/1953-season-report#round-4-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1413
-   *[1954 Round 8 - Italian Grand Prix](../seasons/1954-season-report#round-8-italian-grand-prix)*
+   *[1954 Round 8 – Italian Grand Prix](../seasons/1954-season-report#round-8-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1488
-   *[1953 Round 4 - Belgian Grand Prix](../seasons/1953-season-report#round-4-belgian-grand-prix)*
+   *[1953 Round 4 – Belgian Grand Prix](../seasons/1953-season-report#round-4-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1476
-   *[1953 Round 4 - Belgian Grand Prix](../seasons/1953-season-report#round-4-belgian-grand-prix)*
+   *[1953 Round 4 – Belgian Grand Prix](../seasons/1953-season-report#round-4-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1489
-   *[1953 Round 4 - Belgian Grand Prix](../seasons/1953-season-report#round-4-belgian-grand-prix)*
+   *[1953 Round 4 – Belgian Grand Prix](../seasons/1953-season-report#round-4-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1458
-   *[1954 Round 8 - Italian Grand Prix](../seasons/1954-season-report#round-8-italian-grand-prix)*
+   *[1954 Round 8 – Italian Grand Prix](../seasons/1954-season-report#round-8-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

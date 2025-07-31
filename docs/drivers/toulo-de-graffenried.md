@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1554
-   *[1952 Round 4 - French Grand Prix](../seasons/1952-season-report#round-4-french-grand-prix)*
+   *[1952 Round 4 – French Grand Prix](../seasons/1952-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1437
-   *[1956 Round 8 - Italian Grand Prix](../seasons/1956-season-report#round-8-italian-grand-prix)*
+   *[1956 Round 8 – Italian Grand Prix](../seasons/1956-season-report#round-8-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1495
-   *[1950 Round 4 - Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
+   *[1950 Round 4 – Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
 
 📉 **Lowest Race Elo**: 1407
-   *[1956 Round 8 - Italian Grand Prix](../seasons/1956-season-report#round-8-italian-grand-prix)*
+   *[1956 Round 8 – Italian Grand Prix](../seasons/1956-season-report#round-8-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1512
-   *[1950 Round 7 - Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
+   *[1950 Round 7 – Italian Grand Prix](../seasons/1950-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1419
-   *[1956 Round 8 - Italian Grand Prix](../seasons/1956-season-report#round-8-italian-grand-prix)*
+   *[1956 Round 8 – Italian Grand Prix](../seasons/1956-season-report#round-8-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

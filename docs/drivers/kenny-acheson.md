@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1494
-   *[1985 Round 12 - Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix)*
+   *[1985 Round 12 – Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1461
-   *[1985 Round 10 - Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix)*
+   *[1985 Round 10 – Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1498
-   *[1985 Round 12 - Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix)*
+   *[1985 Round 12 – Italian Grand Prix](../seasons/1985-season-report#round-12-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1488
-   *[1985 Round 10 - Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix)*
+   *[1985 Round 10 – Austrian Grand Prix](../seasons/1985-season-report#round-10-austrian-grand-prix)*
 
 
 ## Complete Career Results by Season

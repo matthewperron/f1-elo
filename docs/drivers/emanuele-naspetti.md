@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1468
-   *[1992 Round 12 - Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
+   *[1992 Round 12 – Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1396
-   *[1992 Round 15 - Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
+   *[1992 Round 15 – Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1464
-   *[1992 Round 12 - Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
+   *[1992 Round 12 – Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1464
-   *[1992 Round 12 - Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
+   *[1992 Round 12 – Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1465
-   *[1992 Round 12 - Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
+   *[1992 Round 12 – Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1443
-   *[1992 Round 15 - Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
+   *[1992 Round 15 – Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
 
 
 ## Complete Career Results by Season

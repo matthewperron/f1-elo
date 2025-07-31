@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1642
-   *[1993 Round 5 - Spanish Grand Prix](../seasons/1993-season-report#round-5-spanish-grand-prix)*
+   *[1993 Round 5 – Spanish Grand Prix](../seasons/1993-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1308
-   *[1994 Round 10 - Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
+   *[1994 Round 10 – Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1618
-   *[1993 Round 3 - European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)*
+   *[1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)*
 
 📉 **Lowest Race Elo**: 1430
-   *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
+   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1621
-   *[1993 Round 3 - European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)*
+   *[1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)*
 
 📉 **Lowest Global Elo**: 1422
-   *[1994 Round 3 - San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
+   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

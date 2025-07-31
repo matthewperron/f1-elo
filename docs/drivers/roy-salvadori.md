@@ -25,26 +25,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1647
-   *[1958 Round 2 - Monaco Grand Prix](../seasons/1958-season-report#round-2-monaco-grand-prix)*
+   *[1958 Round 2 – Monaco Grand Prix](../seasons/1958-season-report#round-2-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1460
-   *[1962 Round 9 - South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix)*
+   *[1962 Round 9 – South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1560
-   *[1959 Round 7 - Portuguese Grand Prix](../seasons/1959-season-report#round-7-portuguese-grand-prix)*
+   *[1959 Round 7 – Portuguese Grand Prix](../seasons/1959-season-report#round-7-portuguese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1464
-   *[1957 Round 7 - Pescara Grand Prix](../seasons/1957-season-report#round-7-pescara-grand-prix)*
+   *[1957 Round 7 – Pescara Grand Prix](../seasons/1957-season-report#round-7-pescara-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1583
-   *[1959 Round 8 - Italian Grand Prix](../seasons/1959-season-report#round-8-italian-grand-prix)*
+   *[1959 Round 8 – Italian Grand Prix](../seasons/1959-season-report#round-8-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1486
-   *[1953 Round 6 - British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
+   *[1953 Round 6 – British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
 
 
 ## Complete Career Results by Season

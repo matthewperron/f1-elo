@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1494
-   *[1963 Round 10 - South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
+   *[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1456
-   *[1965 Round 1 - South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix)*
+   *[1965 Round 1 – South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1498
-   *[1963 Round 10 - South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
+   *[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1487
-   *[1965 Round 1 - South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix)*
+   *[1965 Round 1 – South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

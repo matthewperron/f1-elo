@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1533
-   *[1956 Round 6 - British Grand Prix](../seasons/1956-season-report#round-6-british-grand-prix)*
+   *[1956 Round 6 – British Grand Prix](../seasons/1956-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1495
-   *[1955 Round 2 - Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix)*
+   *[1955 Round 2 – Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1510
-   *[1956 Round 4 - Belgian Grand Prix](../seasons/1956-season-report#round-4-belgian-grand-prix)*
+   *[1956 Round 4 – Belgian Grand Prix](../seasons/1956-season-report#round-4-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1486
-   *[1955 Round 4 - Belgian Grand Prix](../seasons/1955-season-report#round-4-belgian-grand-prix)*
+   *[1955 Round 4 – Belgian Grand Prix](../seasons/1955-season-report#round-4-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1504
-   *[1955 Round 2 - Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix)*
+   *[1955 Round 2 – Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1483
-   *[1957 Round 1 - Argentine Grand Prix](../seasons/1957-season-report#round-1-argentine-grand-prix)*
+   *[1957 Round 1 – Argentine Grand Prix](../seasons/1957-season-report#round-1-argentine-grand-prix)*
 
 
 ## Complete Career Results by Season

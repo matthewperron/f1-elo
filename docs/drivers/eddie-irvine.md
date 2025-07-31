@@ -24,26 +24,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1867
-   *[2001 Round 7 - Monaco Grand Prix](../seasons/2001-season-report#round-7-monaco-grand-prix)*
+   *[2001 Round 7 – Monaco Grand Prix](../seasons/2001-season-report#round-7-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1482
-   *[1994 Round 6 - Canadian Grand Prix](../seasons/1994-season-report#round-6-canadian-grand-prix)*
+   *[1994 Round 6 – Canadian Grand Prix](../seasons/1994-season-report#round-6-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1655
-   *[2000 Round 3 - San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
+   *[2000 Round 3 – San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
 
 📉 **Lowest Race Elo**: 1424
-   *[1994 Round 1 - Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)*
+   *[1994 Round 1 – Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1691
-   *[2000 Round 7 - Monaco Grand Prix](../seasons/2000-season-report#round-7-monaco-grand-prix)*
+   *[2000 Round 7 – Monaco Grand Prix](../seasons/2000-season-report#round-7-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1452
-   *[1994 Round 1 - Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)*
+   *[1994 Round 1 – Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

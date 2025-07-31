@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1532
-   *[1974 Round 15 - United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
+   *[1974 Round 15 – United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1532
-   *[1974 Round 15 - United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
+   *[1974 Round 15 – United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1510
-   *[1974 Round 15 - United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
+   *[1974 Round 15 – United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1510
-   *[1974 Round 15 - United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
+   *[1974 Round 15 – United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

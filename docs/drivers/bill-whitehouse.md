@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1516
-   *[1954 Round 5 - British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
+   *[1954 Round 5 – British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1492
-   *[1954 Round 5 - British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
+   *[1954 Round 5 – British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1505
-   *[1954 Round 5 - British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
+   *[1954 Round 5 – British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1498
-   *[1954 Round 5 - British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
+   *[1954 Round 5 – British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
 
 
 ## Complete Career Results by Season

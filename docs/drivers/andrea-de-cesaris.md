@@ -28,26 +28,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1846
-   *[1985 Round 5 - Canadian Grand Prix](../seasons/1985-season-report#round-5-canadian-grand-prix)*
+   *[1985 Round 5 – Canadian Grand Prix](../seasons/1985-season-report#round-5-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1351
-   *[1981 Round 15 - Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
+   *[1981 Round 15 – Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1662
-   *[1992 Round 15 - Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
+   *[1992 Round 15 – Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1385
-   *[1982 Round 1 - South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
+   *[1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1692
-   *[1992 Round 16 - Australian Grand Prix](../seasons/1992-season-report#round-16-australian-grand-prix)*
+   *[1992 Round 16 – Australian Grand Prix](../seasons/1992-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1389
-   *[1981 Round 15 - Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
+   *[1981 Round 15 – Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
 
 
 ## Complete Career Results by Season

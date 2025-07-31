@@ -18,18 +18,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1602
-   *[1956 Round 2 - Monaco Grand Prix](../seasons/1956-season-report#round-2-monaco-grand-prix)*
+   *[1956 Round 2 – Monaco Grand Prix](../seasons/1956-season-report#round-2-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1537
-   *[1953 Round 5 - French Grand Prix](../seasons/1953-season-report#round-5-french-grand-prix)*
+   *[1953 Round 5 – French Grand Prix](../seasons/1953-season-report#round-5-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1531
-   *[1955 Round 1 - Argentine Grand Prix](../seasons/1955-season-report#round-1-argentine-grand-prix)*
+   *[1955 Round 1 – Argentine Grand Prix](../seasons/1955-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1511
-   *[1953 Round 5 - French Grand Prix](../seasons/1953-season-report#round-5-french-grand-prix)*
+   *[1953 Round 5 – French Grand Prix](../seasons/1953-season-report#round-5-french-grand-prix)*
 
 
 ## Complete Career Results by Season

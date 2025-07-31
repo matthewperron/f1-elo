@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1591
-   *[2025 Round 11 - Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix)*
+   *[2025 Round 11 – Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1477
-   *[2025 Round 8 - Monaco Grand Prix](../seasons/2025-season-report#round-8-monaco-grand-prix)*
+   *[2025 Round 8 – Monaco Grand Prix](../seasons/2025-season-report#round-8-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1528
-   *[2025 Round 5 - Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)*
+   *[2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1437
-   *[2025 Round 11 - Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix)*
+   *[2025 Round 11 – Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1537
-   *[2024 Round 21 - São Paulo Grand Prix](../seasons/2024-season-report#round-21-so-paulo-grand-prix)*
+   *[2024 Round 21 – São Paulo Grand Prix](../seasons/2024-season-report#round-21-so-paulo-grand-prix)*
 
 📉 **Lowest Global Elo**: 1482
-   *[2025 Round 2 - Chinese Grand Prix](../seasons/2025-season-report#round-2-chinese-grand-prix)*
+   *[2025 Round 2 – Chinese Grand Prix](../seasons/2025-season-report#round-2-chinese-grand-prix)*
 
 
 ## Complete Career Results by Season

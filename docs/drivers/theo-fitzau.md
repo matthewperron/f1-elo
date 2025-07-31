@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1530
-   *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
+   *[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1515
-   *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
+   *[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1509
-   *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
+   *[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1505
-   *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
+   *[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
 
 ## Complete Career Results by Season

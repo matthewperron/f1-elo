@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1464
-   *[2003 Round 12 - German Grand Prix](../seasons/2003-season-report#round-12-german-grand-prix)*
+   *[2003 Round 12 – German Grand Prix](../seasons/2003-season-report#round-12-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1373
-   *[2003 Round 16 - Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)*
+   *[2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1471
-   *[2003 Round 13 - Hungarian Grand Prix](../seasons/2003-season-report#round-13-hungarian-grand-prix)*
+   *[2003 Round 13 – Hungarian Grand Prix](../seasons/2003-season-report#round-13-hungarian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1428
-   *[2003 Round 16 - Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)*
+   *[2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1489
-   *[2003 Round 12 - German Grand Prix](../seasons/2003-season-report#round-12-german-grand-prix)*
+   *[2003 Round 12 – German Grand Prix](../seasons/2003-season-report#round-12-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1411
-   *[2003 Round 16 - Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)*
+   *[2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)*
 
 
 ## Complete Career Results by Season

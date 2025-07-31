@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1489
-   *[1964 Round 5 - British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
+   *[1964 Round 5 – British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1485
-   *[1964 Round 5 - British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
+   *[1964 Round 5 – British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1497
-   *[1964 Round 5 - British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
+   *[1964 Round 5 – British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1496
-   *[1964 Round 5 - British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
+   *[1964 Round 5 – British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix)*
 
 
 ## Complete Career Results by Season

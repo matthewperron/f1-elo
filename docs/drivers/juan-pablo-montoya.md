@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1729
-   *[2004 Round 12 - German Grand Prix](../seasons/2004-season-report#round-12-german-grand-prix)*
+   *[2004 Round 12 – German Grand Prix](../seasons/2004-season-report#round-12-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1399
-   *[2001 Round 10 - French Grand Prix](../seasons/2001-season-report#round-10-french-grand-prix)*
+   *[2001 Round 10 – French Grand Prix](../seasons/2001-season-report#round-10-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1740
-   *[2005 Round 11 - British Grand Prix](../seasons/2005-season-report#round-11-british-grand-prix)*
+   *[2005 Round 11 – British Grand Prix](../seasons/2005-season-report#round-11-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1425
-   *[2001 Round 8 - Canadian Grand Prix](../seasons/2001-season-report#round-8-canadian-grand-prix)*
+   *[2001 Round 8 – Canadian Grand Prix](../seasons/2001-season-report#round-8-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1725
-   *[2005 Round 17 - Brazilian Grand Prix](../seasons/2005-season-report#round-17-brazilian-grand-prix)*
+   *[2005 Round 17 – Brazilian Grand Prix](../seasons/2005-season-report#round-17-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1424
-   *[2001 Round 8 - Canadian Grand Prix](../seasons/2001-season-report#round-8-canadian-grand-prix)*
+   *[2001 Round 8 – Canadian Grand Prix](../seasons/2001-season-report#round-8-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1489
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1453
-   *[1966 Round 2 - Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix)*
+   *[1966 Round 2 – Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1497
-   *[1960 Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
+   *[1960 Round 9 – Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1486
-   *[1966 Round 2 - Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix)*
+   *[1966 Round 2 – Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

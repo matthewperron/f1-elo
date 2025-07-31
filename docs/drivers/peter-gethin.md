@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1702
-   *[1971 Round 2 - Spanish Grand Prix](../seasons/1971-season-report#round-2-spanish-grand-prix)*
+   *[1971 Round 2 – Spanish Grand Prix](../seasons/1971-season-report#round-2-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1480
-   *[1972 Round 9 - Austrian Grand Prix](../seasons/1972-season-report#round-9-austrian-grand-prix)*
+   *[1972 Round 9 – Austrian Grand Prix](../seasons/1972-season-report#round-9-austrian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1493
-   *[1970 Round 5 - Dutch Grand Prix](../seasons/1970-season-report#round-5-dutch-grand-prix)*
+   *[1970 Round 5 – Dutch Grand Prix](../seasons/1970-season-report#round-5-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1426
-   *[1972 Round 9 - Austrian Grand Prix](../seasons/1972-season-report#round-9-austrian-grand-prix)*
+   *[1972 Round 9 – Austrian Grand Prix](../seasons/1972-season-report#round-9-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1542
-   *[1970 Round 13 - Mexican Grand Prix](../seasons/1970-season-report#round-13-mexican-grand-prix)*
+   *[1970 Round 13 – Mexican Grand Prix](../seasons/1970-season-report#round-13-mexican-grand-prix)*
 
 📉 **Lowest Global Elo**: 1448
-   *[1972 Round 9 - Austrian Grand Prix](../seasons/1972-season-report#round-9-austrian-grand-prix)*
+   *[1972 Round 9 – Austrian Grand Prix](../seasons/1972-season-report#round-9-austrian-grand-prix)*
 
 
 ## Complete Career Results by Season

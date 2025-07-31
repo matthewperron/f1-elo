@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1494
-   *[1957 Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
+   *[1957 Round 6 – German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1477
-   *[1957 Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
+   *[1957 Round 6 – German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1498
-   *[1957 Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
+   *[1957 Round 6 – German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1493
-   *[1957 Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
+   *[1957 Round 6 – German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
 
 
 ## Complete Career Results by Season

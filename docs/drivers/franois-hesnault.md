@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1480
-   *[1984 Round 1 - Brazilian Grand Prix](../seasons/1984-season-report#round-1-brazilian-grand-prix)*
+   *[1984 Round 1 – Brazilian Grand Prix](../seasons/1984-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1330
-   *[1985 Round 9 - German Grand Prix](../seasons/1985-season-report#round-9-german-grand-prix)*
+   *[1985 Round 9 – German Grand Prix](../seasons/1985-season-report#round-9-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1468
-   *[1984 Round 2 - South African Grand Prix](../seasons/1984-season-report#round-2-south-african-grand-prix)*
+   *[1984 Round 2 – South African Grand Prix](../seasons/1984-season-report#round-2-south-african-grand-prix)*
 
 📉 **Lowest Race Elo**: 1401
-   *[1984 Round 15 - European Grand Prix](../seasons/1984-season-report#round-15-european-grand-prix)*
+   *[1984 Round 15 – European Grand Prix](../seasons/1984-season-report#round-15-european-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1494
-   *[1984 Round 1 - Brazilian Grand Prix](../seasons/1984-season-report#round-1-brazilian-grand-prix)*
+   *[1984 Round 1 – Brazilian Grand Prix](../seasons/1984-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1380
-   *[1985 Round 9 - German Grand Prix](../seasons/1985-season-report#round-9-german-grand-prix)*
+   *[1985 Round 9 – German Grand Prix](../seasons/1985-season-report#round-9-german-grand-prix)*
 
 
 ## Complete Career Results by Season

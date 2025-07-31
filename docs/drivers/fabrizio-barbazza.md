@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1463
-   *[1993 Round 1 - South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
+   *[1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1330
-   *[1993 Round 8 - French Grand Prix](../seasons/1993-season-report#round-8-french-grand-prix)*
+   *[1993 Round 8 – French Grand Prix](../seasons/1993-season-report#round-8-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1494
-   *[1993 Round 3 - European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)*
+   *[1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)*
 
 📉 **Lowest Race Elo**: 1446
-   *[1993 Round 6 - Monaco Grand Prix](../seasons/1993-season-report#round-6-monaco-grand-prix)*
+   *[1993 Round 6 – Monaco Grand Prix](../seasons/1993-season-report#round-6-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1469
-   *[1993 Round 1 - South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
+   *[1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1411
-   *[1993 Round 8 - French Grand Prix](../seasons/1993-season-report#round-8-french-grand-prix)*
+   *[1993 Round 8 – French Grand Prix](../seasons/1993-season-report#round-8-french-grand-prix)*
 
 
 ## Complete Career Results by Season

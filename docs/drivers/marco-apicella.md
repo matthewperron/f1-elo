@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1486
-   *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
+   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1486
-   *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
+   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1466
-   *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
+   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1466
-   *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
+   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1472
-   *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
+   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1472
-   *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
+   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

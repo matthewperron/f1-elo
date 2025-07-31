@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1461
-   *[1995 Round 15 - Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
+   *[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1332
-   *[1998 Round 7 - Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
+   *[1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1468
-   *[1995 Round 15 - Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
+   *[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
 
 📉 **Lowest Race Elo**: 1374
-   *[1998 Round 7 - Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
+   *[1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1466
-   *[1995 Round 15 - Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
+   *[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)*
 
 📉 **Lowest Global Elo**: 1361
-   *[1998 Round 7 - Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
+   *[1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1614
-   *[1951 Round 8 - Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
+   *[1951 Round 8 – Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1508
-   *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
+   *[1950 Round 1 – British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1523
-   *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
+   *[1950 Round 1 – British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1478
-   *[1951 Round 8 - Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
+   *[1951 Round 8 – Spanish Grand Prix](../seasons/1951-season-report#round-8-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1526
-   *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
+   *[1950 Round 1 – British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1491
-   *[1953 Round 9 - Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix)*
+   *[1953 Round 9 – Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

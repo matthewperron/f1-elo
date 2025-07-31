@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1485
-   *[1953 Round 1 - Argentine Grand Prix](../seasons/1953-season-report#round-1-argentine-grand-prix)*
+   *[1953 Round 1 – Argentine Grand Prix](../seasons/1953-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1470
-   *[1953 Round 1 - Argentine Grand Prix](../seasons/1953-season-report#round-1-argentine-grand-prix)*
+   *[1953 Round 1 – Argentine Grand Prix](../seasons/1953-season-report#round-1-argentine-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1496
-   *[1953 Round 1 - Argentine Grand Prix](../seasons/1953-season-report#round-1-argentine-grand-prix)*
+   *[1953 Round 1 – Argentine Grand Prix](../seasons/1953-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1491
-   *[1953 Round 1 - Argentine Grand Prix](../seasons/1953-season-report#round-1-argentine-grand-prix)*
+   *[1953 Round 1 – Argentine Grand Prix](../seasons/1953-season-report#round-1-argentine-grand-prix)*
 
 
 ## Complete Career Results by Season

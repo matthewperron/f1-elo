@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1626
-   *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
+   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 📉 **Lowest Qualifying Elo**: 1511
-   *[1951 Round 2 - Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)*
+   *[1951 Round 2 – Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1552
-   *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
+   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 📉 **Lowest Race Elo**: 1491
-   *[1955 Round 3 - Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500)*
+   *[1955 Round 3 – Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1570
-   *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
+   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 📉 **Lowest Global Elo**: 1503
-   *[1951 Round 2 - Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)*
+   *[1951 Round 2 – Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)*
 
 
 ## Complete Career Results by Season

@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1662
-   *[2007 Round 13 - Italian Grand Prix](../seasons/2007-season-report#round-13-italian-grand-prix)*
+   *[2007 Round 13 – Italian Grand Prix](../seasons/2007-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1419
-   *[2007 Round 2 - Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
+   *[2007 Round 2 – Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1495
-   *[2008 Round 3 - Bahrain Grand Prix](../seasons/2008-season-report#round-3-bahrain-grand-prix)*
+   *[2008 Round 3 – Bahrain Grand Prix](../seasons/2008-season-report#round-3-bahrain-grand-prix)*
 
 📉 **Lowest Race Elo**: 1366
-   *[2007 Round 6 - Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)*
+   *[2007 Round 6 – Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1528
-   *[2007 Round 13 - Italian Grand Prix](../seasons/2007-season-report#round-13-italian-grand-prix)*
+   *[2007 Round 13 – Italian Grand Prix](../seasons/2007-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1399
-   *[2007 Round 6 - Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)*
+   *[2007 Round 6 – Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1499
-   *[1956 Round 3 - Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500)*
+   *[1956 Round 3 – Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500)*
 
 📉 **Lowest Qualifying Elo**: 1489
-   *[1956 Round 3 - Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500)*
+   *[1956 Round 3 – Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1500
-   *[1956 Round 3 - Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500)*
+   *[1956 Round 3 – Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500)*
 
 📉 **Lowest Global Elo**: 1497
-   *[1956 Round 3 - Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500)*
+   *[1956 Round 3 – Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500)*
 
 
 ## Complete Career Results by Season

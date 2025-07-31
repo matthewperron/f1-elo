@@ -26,26 +26,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1873
-   *[2008 Round 15 - Singapore Grand Prix](../seasons/2008-season-report#round-15-singapore-grand-prix)*
+   *[2008 Round 15 – Singapore Grand Prix](../seasons/2008-season-report#round-15-singapore-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1492
-   *[2013 Round 14 - Korean Grand Prix](../seasons/2013-season-report#round-14-korean-grand-prix)*
+   *[2013 Round 14 – Korean Grand Prix](../seasons/2013-season-report#round-14-korean-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1759
-   *[2009 Round 2 - Malaysian Grand Prix](../seasons/2009-season-report#round-2-malaysian-grand-prix)*
+   *[2009 Round 2 – Malaysian Grand Prix](../seasons/2009-season-report#round-2-malaysian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1446
-   *[2013 Round 19 - Brazilian Grand Prix](../seasons/2013-season-report#round-19-brazilian-grand-prix)*
+   *[2013 Round 19 – Brazilian Grand Prix](../seasons/2013-season-report#round-19-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1788
-   *[2008 Round 15 - Singapore Grand Prix](../seasons/2008-season-report#round-15-singapore-grand-prix)*
+   *[2008 Round 15 – Singapore Grand Prix](../seasons/2008-season-report#round-15-singapore-grand-prix)*
 
 📉 **Lowest Global Elo**: 1481
-   *[2013 Round 14 - Korean Grand Prix](../seasons/2013-season-report#round-14-korean-grand-prix)*
+   *[2013 Round 14 – Korean Grand Prix](../seasons/2013-season-report#round-14-korean-grand-prix)*
 
 
 ## Complete Career Results by Season

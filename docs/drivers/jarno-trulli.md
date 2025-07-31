@@ -29,26 +29,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1881
-   *[2002 Round 1 - Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)*
+   *[2002 Round 1 – Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1463
-   *[1997 Round 1 - Australian Grand Prix](../seasons/1997-season-report#round-1-australian-grand-prix)*
+   *[1997 Round 1 – Australian Grand Prix](../seasons/1997-season-report#round-1-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1782
-   *[2001 Round 10 - French Grand Prix](../seasons/2001-season-report#round-10-french-grand-prix)*
+   *[2001 Round 10 – French Grand Prix](../seasons/2001-season-report#round-10-french-grand-prix)*
 
 📉 **Lowest Race Elo**: 1383
-   *[2011 Round 19 - Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix)*
+   *[2011 Round 19 – Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1800
-   *[2002 Round 1 - Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)*
+   *[2002 Round 1 – Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1408
-   *[2011 Round 19 - Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix)*
+   *[2011 Round 19 – Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

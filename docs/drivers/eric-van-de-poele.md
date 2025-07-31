@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1468
-   *[1992 Round 9 - British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)*
+   *[1992 Round 9 – British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1410
-   *[1992 Round 13 - Italian Grand Prix](../seasons/1992-season-report#round-13-italian-grand-prix)*
+   *[1992 Round 13 – Italian Grand Prix](../seasons/1992-season-report#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1535
-   *[1992 Round 11 - Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)*
+   *[1992 Round 11 – Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1535
-   *[1992 Round 11 - Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)*
+   *[1992 Round 11 – Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1508
-   *[1992 Round 11 - Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)*
+   *[1992 Round 11 – Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1992 Round 9 - British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)*
+   *[1992 Round 9 – British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)*
 
 
 ## Complete Career Results by Season

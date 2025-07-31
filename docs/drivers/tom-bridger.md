@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1497
-   *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
+   *[1958 Round 11 – Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1487
-   *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
+   *[1958 Round 11 – Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1497
-   *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
+   *[1958 Round 11 – Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 📉 **Lowest Race Elo**: 1476
-   *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
+   *[1958 Round 11 – Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1497
-   *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
+   *[1958 Round 11 – Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 📉 **Lowest Global Elo**: 1482
-   *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
+   *[1958 Round 11 – Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 
 ## Complete Career Results by Season

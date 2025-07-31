@@ -23,26 +23,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1644
-   *[1975 Round 11 - German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
+   *[1975 Round 11 – German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1400
-   *[1982 Round 2 - Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix)*
+   *[1982 Round 2 – Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1628
-   *[1982 Round 7 - Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
+   *[1982 Round 7 – Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
 
 📉 **Lowest Race Elo**: 1393
-   *[1977 Round 3 - South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)*
+   *[1977 Round 3 – South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1582
-   *[1982 Round 7 - Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
+   *[1982 Round 7 – Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
 
 📉 **Lowest Global Elo**: 1412
-   *[1977 Round 4 - United States Grand Prix West](../seasons/1977-season-report#round-4-united-states-grand-prix-west)*
+   *[1977 Round 4 – United States Grand Prix West](../seasons/1977-season-report#round-4-united-states-grand-prix-west)*
 
 
 ## Complete Career Results by Season

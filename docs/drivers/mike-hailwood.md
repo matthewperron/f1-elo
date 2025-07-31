@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1740
-   *[1973 Round 9 - British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)*
+   *[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1462
-   *[1971 Round 9 - Italian Grand Prix](../seasons/1971-season-report#round-9-italian-grand-prix)*
+   *[1971 Round 9 – Italian Grand Prix](../seasons/1971-season-report#round-9-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1623
-   *[1972 Round 10 - Italian Grand Prix](../seasons/1972-season-report#round-10-italian-grand-prix)*
+   *[1972 Round 10 – Italian Grand Prix](../seasons/1972-season-report#round-10-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1436
-   *[1974 Round 10 - British Grand Prix](../seasons/1974-season-report#round-10-british-grand-prix)*
+   *[1974 Round 10 – British Grand Prix](../seasons/1974-season-report#round-10-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1633
-   *[1973 Round 2 - Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
+   *[1973 Round 2 – Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1488
-   *[1963 Round 5 - British Grand Prix](../seasons/1963-season-report#round-5-british-grand-prix)*
+   *[1963 Round 5 – British Grand Prix](../seasons/1963-season-report#round-5-british-grand-prix)*
 
 
 ## Complete Career Results by Season

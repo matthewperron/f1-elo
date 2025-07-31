@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1495
-   *[1950 Round 4 - Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
+   *[1950 Round 4 – Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1482
-   *[1950 Round 4 - Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
+   *[1950 Round 4 – Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1494
-   *[1950 Round 4 - Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
+   *[1950 Round 4 – Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
 
 📉 **Lowest Race Elo**: 1481
-   *[1950 Round 4 - Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
+   *[1950 Round 4 – Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1494
-   *[1950 Round 4 - Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
+   *[1950 Round 4 – Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
 
 📉 **Lowest Global Elo**: 1481
-   *[1950 Round 4 - Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
+   *[1950 Round 4 – Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -1,10 +1,10 @@
-# 1997 F1 Season - ELO Analysis
+# 1997 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2: Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3: Argentine Grand Prix](#round-3-argentine-grand-prix) • [Round 4: San Marino Grand Prix](#round-4-san-marino-grand-prix) • [Round 5: Monaco Grand Prix](#round-5-monaco-grand-prix) • [Round 6: Spanish Grand Prix](#round-6-spanish-grand-prix) • [Round 7: Canadian Grand Prix](#round-7-canadian-grand-prix) • [Round 8: French Grand Prix](#round-8-french-grand-prix) • [Round 9: British Grand Prix](#round-9-british-grand-prix) • [Round 10: German Grand Prix](#round-10-german-grand-prix) • [Round 11: Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12: Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13: Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14: Austrian Grand Prix](#round-14-austrian-grand-prix) • [Round 15: Luxembourg Grand Prix](#round-15-luxembourg-grand-prix) • [Round 16: Japanese Grand Prix](#round-16-japanese-grand-prix) • [Round 17: European Grand Prix](#round-17-european-grand-prix)
+[Round 1 – Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2 – Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3 – Argentine Grand Prix](#round-3-argentine-grand-prix) • [Round 4 – San Marino Grand Prix](#round-4-san-marino-grand-prix) • [Round 5 – Monaco Grand Prix](#round-5-monaco-grand-prix) • [Round 6 – Spanish Grand Prix](#round-6-spanish-grand-prix) • [Round 7 – Canadian Grand Prix](#round-7-canadian-grand-prix) • [Round 8 – French Grand Prix](#round-8-french-grand-prix) • [Round 9 – British Grand Prix](#round-9-british-grand-prix) • [Round 10 – German Grand Prix](#round-10-german-grand-prix) • [Round 11 – Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12 – Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13 – Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14 – Austrian Grand Prix](#round-14-austrian-grand-prix) • [Round 15 – Luxembourg Grand Prix](#round-15-luxembourg-grand-prix) • [Round 16 – Japanese Grand Prix](#round-16-japanese-grand-prix) • [Round 17 – European Grand Prix](#round-17-european-grand-prix)
 
 📊 **[View Complete F1 1997 Season Results](https://www.formula1.com/en/results.html/1997/races.html)** | **[Wikipedia 1997 F1 Season](https://en.wikipedia.org/wiki/1997_Formula_One_World_Championship)**
 
@@ -43,7 +43,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Australian Grand Prix
+### Round 1 – Australian Grand Prix
 *Date: 1997-03-09*
 
 #### Qualifying Results
@@ -102,7 +102,7 @@
 
 ---
 
-### Round 2: Brazilian Grand Prix
+### Round 2 – Brazilian Grand Prix
 *Date: 1997-03-30*
 
 #### Qualifying Results
@@ -161,7 +161,7 @@
 
 ---
 
-### Round 3: Argentine Grand Prix
+### Round 3 – Argentine Grand Prix
 *Date: 1997-04-13*
 
 #### Qualifying Results
@@ -220,7 +220,7 @@
 
 ---
 
-### Round 4: San Marino Grand Prix
+### Round 4 – San Marino Grand Prix
 *Date: 1997-04-27*
 
 #### Qualifying Results
@@ -279,7 +279,7 @@
 
 ---
 
-### Round 5: Monaco Grand Prix
+### Round 5 – Monaco Grand Prix
 *Date: 1997-05-11*
 
 #### Qualifying Results
@@ -338,7 +338,7 @@
 
 ---
 
-### Round 6: Spanish Grand Prix
+### Round 6 – Spanish Grand Prix
 *Date: 1997-05-25*
 
 #### Qualifying Results
@@ -397,7 +397,7 @@
 
 ---
 
-### Round 7: Canadian Grand Prix
+### Round 7 – Canadian Grand Prix
 *Date: 1997-06-15*
 
 #### Qualifying Results
@@ -456,7 +456,7 @@
 
 ---
 
-### Round 8: French Grand Prix
+### Round 8 – French Grand Prix
 *Date: 1997-06-29*
 
 #### Qualifying Results
@@ -515,7 +515,7 @@
 
 ---
 
-### Round 9: British Grand Prix
+### Round 9 – British Grand Prix
 *Date: 1997-07-13*
 
 #### Qualifying Results
@@ -574,7 +574,7 @@
 
 ---
 
-### Round 10: German Grand Prix
+### Round 10 – German Grand Prix
 *Date: 1997-07-27*
 
 #### Qualifying Results
@@ -633,7 +633,7 @@
 
 ---
 
-### Round 11: Hungarian Grand Prix
+### Round 11 – Hungarian Grand Prix
 *Date: 1997-08-10*
 
 #### Qualifying Results
@@ -692,7 +692,7 @@
 
 ---
 
-### Round 12: Belgian Grand Prix
+### Round 12 – Belgian Grand Prix
 *Date: 1997-08-24*
 
 #### Qualifying Results
@@ -751,7 +751,7 @@
 
 ---
 
-### Round 13: Italian Grand Prix
+### Round 13 – Italian Grand Prix
 *Date: 1997-09-07*
 
 #### Qualifying Results
@@ -810,7 +810,7 @@
 
 ---
 
-### Round 14: Austrian Grand Prix
+### Round 14 – Austrian Grand Prix
 *Date: 1997-09-21*
 
 #### Qualifying Results
@@ -869,7 +869,7 @@
 
 ---
 
-### Round 15: Luxembourg Grand Prix
+### Round 15 – Luxembourg Grand Prix
 *Date: 1997-09-28*
 
 #### Qualifying Results
@@ -928,7 +928,7 @@
 
 ---
 
-### Round 16: Japanese Grand Prix
+### Round 16 – Japanese Grand Prix
 *Date: 1997-10-12*
 
 #### Qualifying Results
@@ -987,7 +987,7 @@
 
 ---
 
-### Round 17: European Grand Prix
+### Round 17 – European Grand Prix
 *Date: 1997-10-26*
 
 #### Qualifying Results

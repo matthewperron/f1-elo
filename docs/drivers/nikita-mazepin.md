@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1468
-   *[2021 Round 1 - Bahrain Grand Prix](../seasons/2021-season-report#round-1-bahrain-grand-prix)*
+   *[2021 Round 1 – Bahrain Grand Prix](../seasons/2021-season-report#round-1-bahrain-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1329
-   *[2021 Round 22 - Abu Dhabi Grand Prix](../seasons/2021-season-report#round-22-abu-dhabi-grand-prix)*
+   *[2021 Round 22 – Abu Dhabi Grand Prix](../seasons/2021-season-report#round-22-abu-dhabi-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1482
-   *[2021 Round 21 - Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
+   *[2021 Round 21 – Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1365
-   *[2021 Round 17 - United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
+   *[2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1468
-   *[2021 Round 1 - Bahrain Grand Prix](../seasons/2021-season-report#round-1-bahrain-grand-prix)*
+   *[2021 Round 1 – Bahrain Grand Prix](../seasons/2021-season-report#round-1-bahrain-grand-prix)*
 
 📉 **Lowest Global Elo**: 1370
-   *[2021 Round 17 - United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
+   *[2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

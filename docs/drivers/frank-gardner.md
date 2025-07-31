@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1490
-   *[1965 Round 5 - British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
+   *[1965 Round 5 – British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1446
-   *[1965 Round 8 - Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
+   *[1965 Round 8 – Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1516
-   *[1965 Round 5 - British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
+   *[1965 Round 5 – British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1516
-   *[1965 Round 5 - British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
+   *[1965 Round 5 – British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1508
-   *[1965 Round 5 - British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
+   *[1965 Round 5 – British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1484
-   *[1965 Round 3 - Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix)*
+   *[1965 Round 3 – Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

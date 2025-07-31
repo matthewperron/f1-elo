@@ -96,9 +96,9 @@ The following table shows current Elo ratings for all F1 drivers (updated automa
 
 - This table shows the current Elo ratings of drivers currently on the grid for the 2025 season. Some drivers may have peaked earlier in their careers, so this is not a comprehensive list of the best drivers of all time.
 
-- For the all-time best drivers, see: [Best Qualifying Elo](docs/peak-elo.md#best-qualifying-elo) | [Best Race Elo](docs/peak-elo.md#best-race-elo) | [Best Global Elo](docs/peak-elo.md#best-global-elo)*
+- For the all-time best drivers, see: [Best Qualifying Elo](docs/peak-elo.md#best-qualifying-elo) | [Best Race Elo](docs/peak-elo.md#best-race-elo) | [Best Global Elo](docs/peak-elo.md#best-global-elo)
 
-- The Global Elo combines qualifying (30%) and race (70%) Elo changes using a weighted calculation to provide a comprehensive driver rating.*
+- The Global Elo combines qualifying (30%) and race (70%) Elo changes using a weighted calculation to provide a comprehensive driver rating.
 
 | Rank | Driver | Constructor | Qualifying Elo | Race Elo | Global Elo |
 |------|--------|-------------|----------------|----------|------------|

@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1709
-   *[2025 Round 1 - Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix)*
+   *[2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1293
-   *[2021 Round 21 - Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
+   *[2021 Round 21 – Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1621
-   *[2024 Round 8 - Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
+   *[2024 Round 8 – Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1354
-   *[2021 Round 21 - Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
+   *[2021 Round 21 – Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1642
-   *[2024 Round 8 - Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
+   *[2024 Round 8 – Monaco Grand Prix](../seasons/2024-season-report#round-8-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1336
-   *[2021 Round 21 - Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
+   *[2021 Round 21 – Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)*
 
 
 ## Complete Career Results by Season

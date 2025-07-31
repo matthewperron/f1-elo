@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1513
-   *[1954 Round 5 - British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
+   *[1954 Round 5 – British Grand Prix](../seasons/1954-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1370
-   *[1960 Round 10 - United States Grand Prix](../seasons/1960-season-report#round-10-united-states-grand-prix)*
+   *[1960 Round 10 – United States Grand Prix](../seasons/1960-season-report#round-10-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1528
-   *[1959 Round 4 - French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
+   *[1959 Round 4 – French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Race Elo**: 1451
-   *[1960 Round 6 - French Grand Prix](../seasons/1960-season-report#round-6-french-grand-prix)*
+   *[1960 Round 6 – French Grand Prix](../seasons/1960-season-report#round-6-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1502
-   *[1959 Round 4 - French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
+   *[1959 Round 4 – French Grand Prix](../seasons/1959-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1427
-   *[1960 Round 10 - United States Grand Prix](../seasons/1960-season-report#round-10-united-states-grand-prix)*
+   *[1960 Round 10 – United States Grand Prix](../seasons/1960-season-report#round-10-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

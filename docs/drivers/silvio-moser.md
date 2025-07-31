@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1520
-   *[1968 Round 5 - Dutch Grand Prix](../seasons/1968-season-report#round-5-dutch-grand-prix)*
+   *[1968 Round 5 – Dutch Grand Prix](../seasons/1968-season-report#round-5-dutch-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1390
-   *[1969 Round 11 - Mexican Grand Prix](../seasons/1969-season-report#round-11-mexican-grand-prix)*
+   *[1969 Round 11 – Mexican Grand Prix](../seasons/1969-season-report#round-11-mexican-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1516
-   *[1968 Round 5 - Dutch Grand Prix](../seasons/1968-season-report#round-5-dutch-grand-prix)*
+   *[1968 Round 5 – Dutch Grand Prix](../seasons/1968-season-report#round-5-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1489
-   *[1969 Round 9 - Canadian Grand Prix](../seasons/1969-season-report#round-9-canadian-grand-prix)*
+   *[1969 Round 9 – Canadian Grand Prix](../seasons/1969-season-report#round-9-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1515
-   *[1968 Round 5 - Dutch Grand Prix](../seasons/1968-season-report#round-5-dutch-grand-prix)*
+   *[1968 Round 5 – Dutch Grand Prix](../seasons/1968-season-report#round-5-dutch-grand-prix)*
 
 📉 **Lowest Global Elo**: 1460
-   *[1969 Round 11 - Mexican Grand Prix](../seasons/1969-season-report#round-11-mexican-grand-prix)*
+   *[1969 Round 11 – Mexican Grand Prix](../seasons/1969-season-report#round-11-mexican-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1487
-   *[2003 Round 5 - Spanish Grand Prix](../seasons/2003-season-report#round-5-spanish-grand-prix)*
+   *[2003 Round 5 – Spanish Grand Prix](../seasons/2003-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1392
-   *[2003 Round 15 - United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)*
+   *[2003 Round 15 – United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1533
-   *[2003 Round 9 - European Grand Prix](../seasons/2003-season-report#round-9-european-grand-prix)*
+   *[2003 Round 9 – European Grand Prix](../seasons/2003-season-report#round-9-european-grand-prix)*
 
 📉 **Lowest Race Elo**: 1484
-   *[2003 Round 7 - Monaco Grand Prix](../seasons/2003-season-report#round-7-monaco-grand-prix)*
+   *[2003 Round 7 – Monaco Grand Prix](../seasons/2003-season-report#round-7-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1502
-   *[2003 Round 9 - European Grand Prix](../seasons/2003-season-report#round-9-european-grand-prix)*
+   *[2003 Round 9 – European Grand Prix](../seasons/2003-season-report#round-9-european-grand-prix)*
 
 📉 **Lowest Global Elo**: 1471
-   *[2003 Round 8 - Canadian Grand Prix](../seasons/2003-season-report#round-8-canadian-grand-prix)*
+   *[2003 Round 8 – Canadian Grand Prix](../seasons/2003-season-report#round-8-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

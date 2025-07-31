@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1468
-   *[1975 Round 10 - British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
+   *[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1468
-   *[1975 Round 10 - British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
+   *[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1465
-   *[1975 Round 10 - British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
+   *[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1465
-   *[1975 Round 10 - British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
+   *[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1466
-   *[1975 Round 10 - British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
+   *[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1466
-   *[1975 Round 10 - British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
+   *[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
 
 
 ## Complete Career Results by Season

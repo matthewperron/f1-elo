@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1538
-   *[2005 Round 7 - European Grand Prix](../seasons/2005-season-report#round-7-european-grand-prix)*
+   *[2005 Round 7 – European Grand Prix](../seasons/2005-season-report#round-7-european-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1463
-   *[2005 Round 3 - Bahrain Grand Prix](../seasons/2005-season-report#round-3-bahrain-grand-prix)*
+   *[2005 Round 3 – Bahrain Grand Prix](../seasons/2005-season-report#round-3-bahrain-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1506
-   *[2005 Round 3 - Bahrain Grand Prix](../seasons/2005-season-report#round-3-bahrain-grand-prix)*
+   *[2005 Round 3 – Bahrain Grand Prix](../seasons/2005-season-report#round-3-bahrain-grand-prix)*
 
 📉 **Lowest Race Elo**: 1405
-   *[2005 Round 11 - British Grand Prix](../seasons/2005-season-report#round-11-british-grand-prix)*
+   *[2005 Round 11 – British Grand Prix](../seasons/2005-season-report#round-11-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1510
-   *[2005 Round 1 - Australian Grand Prix](../seasons/2005-season-report#round-1-australian-grand-prix)*
+   *[2005 Round 1 – Australian Grand Prix](../seasons/2005-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1425
-   *[2005 Round 11 - British Grand Prix](../seasons/2005-season-report#round-11-british-grand-prix)*
+   *[2005 Round 11 – British Grand Prix](../seasons/2005-season-report#round-11-british-grand-prix)*
 
 
 ## Complete Career Results by Season

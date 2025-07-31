@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1481
-   *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
+   *[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1332
-   *[1995 Round 9 - German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)*
+   *[1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1467
-   *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
+   *[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1355
-   *[1995 Round 8 - British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix)*
+   *[1995 Round 8 – British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1471
-   *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
+   *[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1347
-   *[1995 Round 9 - German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)*
+   *[1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -1,10 +1,10 @@
-# 2023 F1 Season - ELO Analysis
+# 2023 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Bahrain Grand Prix](#round-1-bahrain-grand-prix) • [Round 2: Saudi Arabian Grand Prix](#round-2-saudi-arabian-grand-prix) • [Round 3: Australian Grand Prix](#round-3-australian-grand-prix) • [Round 4: Azerbaijan Grand Prix](#round-4-azerbaijan-grand-prix) • [Round 5: Miami Grand Prix](#round-5-miami-grand-prix) • [Round 6: Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7: Spanish Grand Prix](#round-7-spanish-grand-prix) • [Round 8: Canadian Grand Prix](#round-8-canadian-grand-prix) • [Round 9: Austrian Grand Prix](#round-9-austrian-grand-prix) • [Round 10: British Grand Prix](#round-10-british-grand-prix) • [Round 11: Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12: Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13: Dutch Grand Prix](#round-13-dutch-grand-prix) • [Round 14: Italian Grand Prix](#round-14-italian-grand-prix) • [Round 15: Singapore Grand Prix](#round-15-singapore-grand-prix) • [Round 16: Japanese Grand Prix](#round-16-japanese-grand-prix) • [Round 17: Qatar Grand Prix](#round-17-qatar-grand-prix) • [Round 18: United States Grand Prix](#round-18-united-states-grand-prix) • [Round 19: Mexico City Grand Prix](#round-19-mexico-city-grand-prix) • [Round 20: São Paulo Grand Prix](#round-20-so-paulo-grand-prix) • [Round 21: Las Vegas Grand Prix](#round-21-las-vegas-grand-prix) • [Round 22: Abu Dhabi Grand Prix](#round-22-abu-dhabi-grand-prix)
+[Round 1 – Bahrain Grand Prix](#round-1-bahrain-grand-prix) • [Round 2 – Saudi Arabian Grand Prix](#round-2-saudi-arabian-grand-prix) • [Round 3 – Australian Grand Prix](#round-3-australian-grand-prix) • [Round 4 – Azerbaijan Grand Prix](#round-4-azerbaijan-grand-prix) • [Round 5 – Miami Grand Prix](#round-5-miami-grand-prix) • [Round 6 – Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7 – Spanish Grand Prix](#round-7-spanish-grand-prix) • [Round 8 – Canadian Grand Prix](#round-8-canadian-grand-prix) • [Round 9 – Austrian Grand Prix](#round-9-austrian-grand-prix) • [Round 10 – British Grand Prix](#round-10-british-grand-prix) • [Round 11 – Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12 – Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13 – Dutch Grand Prix](#round-13-dutch-grand-prix) • [Round 14 – Italian Grand Prix](#round-14-italian-grand-prix) • [Round 15 – Singapore Grand Prix](#round-15-singapore-grand-prix) • [Round 16 – Japanese Grand Prix](#round-16-japanese-grand-prix) • [Round 17 – Qatar Grand Prix](#round-17-qatar-grand-prix) • [Round 18 – United States Grand Prix](#round-18-united-states-grand-prix) • [Round 19 – Mexico City Grand Prix](#round-19-mexico-city-grand-prix) • [Round 20 – São Paulo Grand Prix](#round-20-so-paulo-grand-prix) • [Round 21 – Las Vegas Grand Prix](#round-21-las-vegas-grand-prix) • [Round 22 – Abu Dhabi Grand Prix](#round-22-abu-dhabi-grand-prix)
 
 📊 **[View Complete F1 2023 Season Results](https://www.formula1.com/en/results.html/2023/races.html)** | **[Wikipedia 2023 F1 Season](https://en.wikipedia.org/wiki/2023_Formula_One_World_Championship)**
 
@@ -39,7 +39,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Bahrain Grand Prix
+### Round 1 – Bahrain Grand Prix
 *Date: 2023-03-05*
 
 #### Qualifying Results
@@ -94,7 +94,7 @@
 
 ---
 
-### Round 2: Saudi Arabian Grand Prix
+### Round 2 – Saudi Arabian Grand Prix
 *Date: 2023-03-19*
 
 #### Qualifying Results
@@ -149,7 +149,7 @@
 
 ---
 
-### Round 3: Australian Grand Prix
+### Round 3 – Australian Grand Prix
 *Date: 2023-04-02*
 
 #### Qualifying Results
@@ -204,7 +204,7 @@
 
 ---
 
-### Round 4: Azerbaijan Grand Prix
+### Round 4 – Azerbaijan Grand Prix
 *Date: 2023-04-30*
 
 #### Qualifying Results
@@ -259,7 +259,7 @@
 
 ---
 
-### Round 5: Miami Grand Prix
+### Round 5 – Miami Grand Prix
 *Date: 2023-05-07*
 
 #### Qualifying Results
@@ -314,7 +314,7 @@
 
 ---
 
-### Round 6: Monaco Grand Prix
+### Round 6 – Monaco Grand Prix
 *Date: 2023-05-28*
 
 #### Qualifying Results
@@ -369,7 +369,7 @@
 
 ---
 
-### Round 7: Spanish Grand Prix
+### Round 7 – Spanish Grand Prix
 *Date: 2023-06-04*
 
 #### Qualifying Results
@@ -424,7 +424,7 @@
 
 ---
 
-### Round 8: Canadian Grand Prix
+### Round 8 – Canadian Grand Prix
 *Date: 2023-06-18*
 
 #### Qualifying Results
@@ -479,7 +479,7 @@
 
 ---
 
-### Round 9: Austrian Grand Prix
+### Round 9 – Austrian Grand Prix
 *Date: 2023-07-02*
 
 #### Qualifying Results
@@ -534,7 +534,7 @@
 
 ---
 
-### Round 10: British Grand Prix
+### Round 10 – British Grand Prix
 *Date: 2023-07-09*
 
 #### Qualifying Results
@@ -589,7 +589,7 @@
 
 ---
 
-### Round 11: Hungarian Grand Prix
+### Round 11 – Hungarian Grand Prix
 *Date: 2023-07-23*
 
 #### Qualifying Results
@@ -644,7 +644,7 @@
 
 ---
 
-### Round 12: Belgian Grand Prix
+### Round 12 – Belgian Grand Prix
 *Date: 2023-07-30*
 
 #### Qualifying Results
@@ -699,7 +699,7 @@
 
 ---
 
-### Round 13: Dutch Grand Prix
+### Round 13 – Dutch Grand Prix
 *Date: 2023-08-27*
 
 #### Qualifying Results
@@ -754,7 +754,7 @@
 
 ---
 
-### Round 14: Italian Grand Prix
+### Round 14 – Italian Grand Prix
 *Date: 2023-09-03*
 
 #### Qualifying Results
@@ -809,7 +809,7 @@
 
 ---
 
-### Round 15: Singapore Grand Prix
+### Round 15 – Singapore Grand Prix
 *Date: 2023-09-17*
 
 #### Qualifying Results
@@ -864,7 +864,7 @@
 
 ---
 
-### Round 16: Japanese Grand Prix
+### Round 16 – Japanese Grand Prix
 *Date: 2023-09-24*
 
 #### Qualifying Results
@@ -919,7 +919,7 @@
 
 ---
 
-### Round 17: Qatar Grand Prix
+### Round 17 – Qatar Grand Prix
 *Date: 2023-10-08*
 
 #### Qualifying Results
@@ -974,7 +974,7 @@
 
 ---
 
-### Round 18: United States Grand Prix
+### Round 18 – United States Grand Prix
 *Date: 2023-10-22*
 
 #### Qualifying Results
@@ -1029,7 +1029,7 @@
 
 ---
 
-### Round 19: Mexico City Grand Prix
+### Round 19 – Mexico City Grand Prix
 *Date: 2023-10-29*
 
 #### Qualifying Results
@@ -1084,7 +1084,7 @@
 
 ---
 
-### Round 20: São Paulo Grand Prix
+### Round 20 – São Paulo Grand Prix
 *Date: 2023-11-05*
 
 #### Qualifying Results
@@ -1139,7 +1139,7 @@
 
 ---
 
-### Round 21: Las Vegas Grand Prix
+### Round 21 – Las Vegas Grand Prix
 *Date: 2023-11-19*
 
 #### Qualifying Results
@@ -1194,7 +1194,7 @@
 
 ---
 
-### Round 22: Abu Dhabi Grand Prix
+### Round 22 – Abu Dhabi Grand Prix
 *Date: 2023-11-26*
 
 #### Qualifying Results

@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1532
-   *[1978 Round 1 - Argentine Grand Prix](../seasons/1978-season-report#round-1-argentine-grand-prix)*
+   *[1978 Round 1 – Argentine Grand Prix](../seasons/1978-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1494
-   *[1978 Round 2 - Brazilian Grand Prix](../seasons/1978-season-report#round-2-brazilian-grand-prix)*
+   *[1978 Round 2 – Brazilian Grand Prix](../seasons/1978-season-report#round-2-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1510
-   *[1978 Round 1 - Argentine Grand Prix](../seasons/1978-season-report#round-1-argentine-grand-prix)*
+   *[1978 Round 1 – Argentine Grand Prix](../seasons/1978-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1498
-   *[1978 Round 2 - Brazilian Grand Prix](../seasons/1978-season-report#round-2-brazilian-grand-prix)*
+   *[1978 Round 2 – Brazilian Grand Prix](../seasons/1978-season-report#round-2-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

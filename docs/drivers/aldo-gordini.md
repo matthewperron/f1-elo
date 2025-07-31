@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1531
-   *[1951 Round 4 - French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)*
+   *[1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1509
-   *[1951 Round 4 - French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)*
+   *[1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1509
-   *[1951 Round 4 - French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)*
+   *[1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1503
-   *[1951 Round 4 - French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)*
+   *[1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Career Results by Season

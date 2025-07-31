@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1802
-   *[2012 Round 1 - Australian Grand Prix](../seasons/2012-season-report#round-1-australian-grand-prix)*
+   *[2012 Round 1 – Australian Grand Prix](../seasons/2012-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1480
-   *[2007 Round 1 - Australian Grand Prix](../seasons/2007-season-report#round-1-australian-grand-prix)*
+   *[2007 Round 1 – Australian Grand Prix](../seasons/2007-season-report#round-1-australian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1675
-   *[2008 Round 3 - Bahrain Grand Prix](../seasons/2008-season-report#round-3-bahrain-grand-prix)*
+   *[2008 Round 3 – Bahrain Grand Prix](../seasons/2008-season-report#round-3-bahrain-grand-prix)*
 
 📉 **Lowest Race Elo**: 1424
-   *[2007 Round 3 - Bahrain Grand Prix](../seasons/2007-season-report#round-3-bahrain-grand-prix)*
+   *[2007 Round 3 – Bahrain Grand Prix](../seasons/2007-season-report#round-3-bahrain-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1684
-   *[2012 Round 1 - Australian Grand Prix](../seasons/2012-season-report#round-1-australian-grand-prix)*
+   *[2012 Round 1 – Australian Grand Prix](../seasons/2012-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1447
-   *[2007 Round 3 - Bahrain Grand Prix](../seasons/2007-season-report#round-3-bahrain-grand-prix)*
+   *[2007 Round 3 – Bahrain Grand Prix](../seasons/2007-season-report#round-3-bahrain-grand-prix)*
 
 
 ## Complete Career Results by Season

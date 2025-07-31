@@ -29,26 +29,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1646
-   *[1953 Round 9 - Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix)*
+   *[1953 Round 9 – Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1402
-   *[1958 Round 2 - Monaco Grand Prix](../seasons/1958-season-report#round-2-monaco-grand-prix)*
+   *[1958 Round 2 – Monaco Grand Prix](../seasons/1958-season-report#round-2-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1524
-   *[1958 Round 2 - Monaco Grand Prix](../seasons/1958-season-report#round-2-monaco-grand-prix)*
+   *[1958 Round 2 – Monaco Grand Prix](../seasons/1958-season-report#round-2-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1424
-   *[1953 Round 1 - Argentine Grand Prix](../seasons/1953-season-report#round-1-argentine-grand-prix)*
+   *[1953 Round 1 – Argentine Grand Prix](../seasons/1953-season-report#round-1-argentine-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1547
-   *[1954 Round 4 - French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
+   *[1954 Round 4 – French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1447
-   *[1952 Round 7 - Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
+   *[1952 Round 7 – Dutch Grand Prix](../seasons/1952-season-report#round-7-dutch-grand-prix)*
 
 
 ## Complete Career Results by Season

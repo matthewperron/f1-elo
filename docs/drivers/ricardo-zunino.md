@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1509
-   *[1979 Round 14 - Canadian Grand Prix](../seasons/1979-season-report#round-14-canadian-grand-prix)*
+   *[1979 Round 14 – Canadian Grand Prix](../seasons/1979-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1359
-   *[1981 Round 3 - Argentine Grand Prix](../seasons/1981-season-report#round-3-argentine-grand-prix)*
+   *[1981 Round 3 – Argentine Grand Prix](../seasons/1981-season-report#round-3-argentine-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1473
-   *[1980 Round 1 - Argentine Grand Prix](../seasons/1980-season-report#round-1-argentine-grand-prix)*
+   *[1980 Round 1 – Argentine Grand Prix](../seasons/1980-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Race Elo**: 1433
-   *[1980 Round 4 - United States Grand Prix West](../seasons/1980-season-report#round-4-united-states-grand-prix-west)*
+   *[1980 Round 4 – United States Grand Prix West](../seasons/1980-season-report#round-4-united-states-grand-prix-west)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1503
-   *[1979 Round 14 - Canadian Grand Prix](../seasons/1979-season-report#round-14-canadian-grand-prix)*
+   *[1979 Round 14 – Canadian Grand Prix](../seasons/1979-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1411
-   *[1981 Round 3 - Argentine Grand Prix](../seasons/1981-season-report#round-3-argentine-grand-prix)*
+   *[1981 Round 3 – Argentine Grand Prix](../seasons/1981-season-report#round-3-argentine-grand-prix)*
 
 
 ## Complete Career Results by Season

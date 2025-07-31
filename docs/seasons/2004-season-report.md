@@ -1,10 +1,10 @@
-# 2004 F1 Season - ELO Analysis
+# 2004 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2: Malaysian Grand Prix](#round-2-malaysian-grand-prix) • [Round 3: Bahrain Grand Prix](#round-3-bahrain-grand-prix) • [Round 4: San Marino Grand Prix](#round-4-san-marino-grand-prix) • [Round 5: Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6: Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7: European Grand Prix](#round-7-european-grand-prix) • [Round 8: Canadian Grand Prix](#round-8-canadian-grand-prix) • [Round 9: United States Grand Prix](#round-9-united-states-grand-prix) • [Round 10: French Grand Prix](#round-10-french-grand-prix) • [Round 11: British Grand Prix](#round-11-british-grand-prix) • [Round 12: German Grand Prix](#round-12-german-grand-prix) • [Round 13: Hungarian Grand Prix](#round-13-hungarian-grand-prix) • [Round 14: Belgian Grand Prix](#round-14-belgian-grand-prix) • [Round 15: Italian Grand Prix](#round-15-italian-grand-prix) • [Round 16: Chinese Grand Prix](#round-16-chinese-grand-prix) • [Round 17: Japanese Grand Prix](#round-17-japanese-grand-prix) • [Round 18: Brazilian Grand Prix](#round-18-brazilian-grand-prix)
+[Round 1 – Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2 – Malaysian Grand Prix](#round-2-malaysian-grand-prix) • [Round 3 – Bahrain Grand Prix](#round-3-bahrain-grand-prix) • [Round 4 – San Marino Grand Prix](#round-4-san-marino-grand-prix) • [Round 5 – Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6 – Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7 – European Grand Prix](#round-7-european-grand-prix) • [Round 8 – Canadian Grand Prix](#round-8-canadian-grand-prix) • [Round 9 – United States Grand Prix](#round-9-united-states-grand-prix) • [Round 10 – French Grand Prix](#round-10-french-grand-prix) • [Round 11 – British Grand Prix](#round-11-british-grand-prix) • [Round 12 – German Grand Prix](#round-12-german-grand-prix) • [Round 13 – Hungarian Grand Prix](#round-13-hungarian-grand-prix) • [Round 14 – Belgian Grand Prix](#round-14-belgian-grand-prix) • [Round 15 – Italian Grand Prix](#round-15-italian-grand-prix) • [Round 16 – Chinese Grand Prix](#round-16-chinese-grand-prix) • [Round 17 – Japanese Grand Prix](#round-17-japanese-grand-prix) • [Round 18 – Brazilian Grand Prix](#round-18-brazilian-grand-prix)
 
 📊 **[View Complete F1 2004 Season Results](https://www.formula1.com/en/results.html/2004/races.html)** | **[Wikipedia 2004 F1 Season](https://en.wikipedia.org/wiki/2004_Formula_One_World_Championship)**
 
@@ -42,7 +42,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Australian Grand Prix
+### Round 1 – Australian Grand Prix
 *Date: 2004-03-07*
 
 #### Qualifying Results
@@ -97,7 +97,7 @@
 
 ---
 
-### Round 2: Malaysian Grand Prix
+### Round 2 – Malaysian Grand Prix
 *Date: 2004-03-21*
 
 #### Qualifying Results
@@ -152,7 +152,7 @@
 
 ---
 
-### Round 3: Bahrain Grand Prix
+### Round 3 – Bahrain Grand Prix
 *Date: 2004-04-04*
 
 #### Qualifying Results
@@ -207,7 +207,7 @@
 
 ---
 
-### Round 4: San Marino Grand Prix
+### Round 4 – San Marino Grand Prix
 *Date: 2004-04-25*
 
 #### Qualifying Results
@@ -262,7 +262,7 @@
 
 ---
 
-### Round 5: Spanish Grand Prix
+### Round 5 – Spanish Grand Prix
 *Date: 2004-05-09*
 
 #### Qualifying Results
@@ -317,7 +317,7 @@
 
 ---
 
-### Round 6: Monaco Grand Prix
+### Round 6 – Monaco Grand Prix
 *Date: 2004-05-23*
 
 #### Qualifying Results
@@ -372,7 +372,7 @@
 
 ---
 
-### Round 7: European Grand Prix
+### Round 7 – European Grand Prix
 *Date: 2004-05-30*
 
 #### Qualifying Results
@@ -427,7 +427,7 @@
 
 ---
 
-### Round 8: Canadian Grand Prix
+### Round 8 – Canadian Grand Prix
 *Date: 2004-06-13*
 
 #### Qualifying Results
@@ -482,7 +482,7 @@
 
 ---
 
-### Round 9: United States Grand Prix
+### Round 9 – United States Grand Prix
 *Date: 2004-06-20*
 
 #### Qualifying Results
@@ -537,7 +537,7 @@
 
 ---
 
-### Round 10: French Grand Prix
+### Round 10 – French Grand Prix
 *Date: 2004-07-04*
 
 #### Qualifying Results
@@ -592,7 +592,7 @@
 
 ---
 
-### Round 11: British Grand Prix
+### Round 11 – British Grand Prix
 *Date: 2004-07-11*
 
 #### Qualifying Results
@@ -647,7 +647,7 @@
 
 ---
 
-### Round 12: German Grand Prix
+### Round 12 – German Grand Prix
 *Date: 2004-07-25*
 
 #### Qualifying Results
@@ -702,7 +702,7 @@
 
 ---
 
-### Round 13: Hungarian Grand Prix
+### Round 13 – Hungarian Grand Prix
 *Date: 2004-08-15*
 
 #### Qualifying Results
@@ -757,7 +757,7 @@
 
 ---
 
-### Round 14: Belgian Grand Prix
+### Round 14 – Belgian Grand Prix
 *Date: 2004-08-29*
 
 #### Qualifying Results
@@ -812,7 +812,7 @@
 
 ---
 
-### Round 15: Italian Grand Prix
+### Round 15 – Italian Grand Prix
 *Date: 2004-09-12*
 
 #### Qualifying Results
@@ -867,7 +867,7 @@
 
 ---
 
-### Round 16: Chinese Grand Prix
+### Round 16 – Chinese Grand Prix
 *Date: 2004-09-26*
 
 #### Qualifying Results
@@ -922,7 +922,7 @@
 
 ---
 
-### Round 17: Japanese Grand Prix
+### Round 17 – Japanese Grand Prix
 *Date: 2004-10-10*
 
 #### Qualifying Results
@@ -977,7 +977,7 @@
 
 ---
 
-### Round 18: Brazilian Grand Prix
+### Round 18 – Brazilian Grand Prix
 *Date: 2004-10-24*
 
 #### Qualifying Results

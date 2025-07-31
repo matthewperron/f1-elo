@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1480
-   *[1967 Round 11 - Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
+   *[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1480
-   *[1967 Round 11 - Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
+   *[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1494
-   *[1967 Round 11 - Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
+   *[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
 
 📉 **Lowest Global Elo**: 1494
-   *[1967 Round 11 - Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
+   *[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
 
 
 ## Complete Career Results by Season

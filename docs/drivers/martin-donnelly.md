@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1624
-   *[1990 Round 4 - Monaco Grand Prix](../seasons/1990-season-report#round-4-monaco-grand-prix)*
+   *[1990 Round 4 – Monaco Grand Prix](../seasons/1990-season-report#round-4-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1522
-   *[1989 Round 7 - French Grand Prix](../seasons/1989-season-report#round-7-french-grand-prix)*
+   *[1989 Round 7 – French Grand Prix](../seasons/1989-season-report#round-7-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1474
-   *[1990 Round 6 - Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)*
+   *[1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)*
 
 📉 **Lowest Race Elo**: 1395
-   *[1990 Round 11 - Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)*
+   *[1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1508
-   *[1990 Round 2 - Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix)*
+   *[1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1436
-   *[1990 Round 11 - Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)*
+   *[1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

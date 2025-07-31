@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1521
-   *[2003 Round 1 - Australian Grand Prix](../seasons/2003-season-report#round-1-australian-grand-prix)*
+   *[2003 Round 1 – Australian Grand Prix](../seasons/2003-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1370
-   *[2003 Round 16 - Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)*
+   *[2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1590
-   *[2003 Round 15 - United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)*
+   *[2003 Round 15 – United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)*
 
 📉 **Lowest Race Elo**: 1475
-   *[2003 Round 3 - Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)*
+   *[2003 Round 3 – Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1525
-   *[2003 Round 15 - United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)*
+   *[2003 Round 15 – United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1463
-   *[2003 Round 3 - Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)*
+   *[2003 Round 3 – Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

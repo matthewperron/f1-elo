@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1515
-   *[1957 Round 4 - French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
+   *[1957 Round 4 – French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1496
-   *[1957 Round 4 - French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
+   *[1957 Round 4 – French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1509
-   *[1957 Round 4 - French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
+   *[1957 Round 4 – French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1505
-   *[1957 Round 4 - French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
+   *[1957 Round 4 – French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Career Results by Season

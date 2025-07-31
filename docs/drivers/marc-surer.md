@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1704
-   *[1983 Round 8 - Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
+   *[1983 Round 8 – Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1443
-   *[1986 Round 5 - Belgian Grand Prix](../seasons/1986-season-report#round-5-belgian-grand-prix)*
+   *[1986 Round 5 – Belgian Grand Prix](../seasons/1986-season-report#round-5-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1617
-   *[1983 Round 4 - San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
+   *[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Race Elo**: 1371
-   *[1986 Round 4 - Monaco Grand Prix](../seasons/1986-season-report#round-4-monaco-grand-prix)*
+   *[1986 Round 4 – Monaco Grand Prix](../seasons/1986-season-report#round-4-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1625
-   *[1983 Round 4 - San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
+   *[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1392
-   *[1986 Round 5 - Belgian Grand Prix](../seasons/1986-season-report#round-5-belgian-grand-prix)*
+   *[1986 Round 5 – Belgian Grand Prix](../seasons/1986-season-report#round-5-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

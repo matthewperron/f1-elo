@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1507
-   *[2011 Round 3 - Chinese Grand Prix](../seasons/2011-season-report#round-3-chinese-grand-prix)*
+   *[2011 Round 3 – Chinese Grand Prix](../seasons/2011-season-report#round-3-chinese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1367
-   *[2011 Round 14 - Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)*
+   *[2011 Round 14 – Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1551
-   *[2011 Round 14 - Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)*
+   *[2011 Round 14 – Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)*
 
 📉 **Lowest Race Elo**: 1459
-   *[2011 Round 11 - Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
+   *[2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1529
-   *[2011 Round 19 - Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix)*
+   *[2011 Round 19 – Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1439
-   *[2011 Round 11 - Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
+   *[2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)*
 
 
 ## Complete Career Results by Season

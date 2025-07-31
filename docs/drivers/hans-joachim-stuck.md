@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1619
-   *[1975 Round 13 - Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix)*
+   *[1975 Round 13 – Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1379
-   *[1978 Round 14 - Italian Grand Prix](../seasons/1978-season-report#round-14-italian-grand-prix)*
+   *[1978 Round 14 – Italian Grand Prix](../seasons/1978-season-report#round-14-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1558
-   *[1974 Round 6 - Monaco Grand Prix](../seasons/1974-season-report#round-6-monaco-grand-prix)*
+   *[1974 Round 6 – Monaco Grand Prix](../seasons/1974-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1393
-   *[1978 Round 8 - Swedish Grand Prix](../seasons/1978-season-report#round-8-swedish-grand-prix)*
+   *[1978 Round 8 – Swedish Grand Prix](../seasons/1978-season-report#round-8-swedish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1570
-   *[1974 Round 6 - Monaco Grand Prix](../seasons/1974-season-report#round-6-monaco-grand-prix)*
+   *[1974 Round 6 – Monaco Grand Prix](../seasons/1974-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1393
-   *[1978 Round 14 - Italian Grand Prix](../seasons/1978-season-report#round-14-italian-grand-prix)*
+   *[1978 Round 14 – Italian Grand Prix](../seasons/1978-season-report#round-14-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

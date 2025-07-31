@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1560
-   *[2016 Round 2 - Bahrain Grand Prix](../seasons/2016-season-report#round-2-bahrain-grand-prix)*
+   *[2016 Round 2 – Bahrain Grand Prix](../seasons/2016-season-report#round-2-bahrain-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1432
-   *[2016 Round 6 - Monaco Grand Prix](../seasons/2016-season-report#round-6-monaco-grand-prix)*
+   *[2016 Round 6 – Monaco Grand Prix](../seasons/2016-season-report#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1526
-   *[2016 Round 1 - Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
+   *[2016 Round 1 – Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1369
-   *[2017 Round 7 - Canadian Grand Prix](../seasons/2017-season-report#round-7-canadian-grand-prix)*
+   *[2017 Round 7 – Canadian Grand Prix](../seasons/2017-season-report#round-7-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1536
-   *[2016 Round 2 - Bahrain Grand Prix](../seasons/2016-season-report#round-2-bahrain-grand-prix)*
+   *[2016 Round 2 – Bahrain Grand Prix](../seasons/2016-season-report#round-2-bahrain-grand-prix)*
 
 📉 **Lowest Global Elo**: 1401
-   *[2017 Round 8 - Azerbaijan Grand Prix](../seasons/2017-season-report#round-8-azerbaijan-grand-prix)*
+   *[2017 Round 8 – Azerbaijan Grand Prix](../seasons/2017-season-report#round-8-azerbaijan-grand-prix)*
 
 
 ## Complete Career Results by Season

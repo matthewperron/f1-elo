@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1507
-   *[1965 Round 10 - Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
+   *[1965 Round 10 – Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1460
-   *[1966 Round 7 - Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix)*
+   *[1966 Round 7 – Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1480
-   *[1965 Round 9 - United States Grand Prix](../seasons/1965-season-report#round-9-united-states-grand-prix)*
+   *[1965 Round 9 – United States Grand Prix](../seasons/1965-season-report#round-9-united-states-grand-prix)*
 
 📉 **Lowest Race Elo**: 1419
-   *[1966 Round 4 - British Grand Prix](../seasons/1966-season-report#round-4-british-grand-prix)*
+   *[1966 Round 4 – British Grand Prix](../seasons/1966-season-report#round-4-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1482
-   *[1965 Round 9 - United States Grand Prix](../seasons/1965-season-report#round-9-united-states-grand-prix)*
+   *[1965 Round 9 – United States Grand Prix](../seasons/1965-season-report#round-9-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1431
-   *[1966 Round 7 - Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix)*
+   *[1966 Round 7 – Italian Grand Prix](../seasons/1966-season-report#round-7-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

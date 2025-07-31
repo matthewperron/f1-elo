@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1479
-   *[1962 Round 3 - Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
+   *[1962 Round 3 – Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1468
-   *[1962 Round 3 - Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
+   *[1962 Round 3 – Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1494
-   *[1962 Round 3 - Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
+   *[1962 Round 3 – Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1962 Round 3 - Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
+   *[1962 Round 3 – Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

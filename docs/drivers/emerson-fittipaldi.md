@@ -23,26 +23,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1877
-   *[1975 Round 3 - South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
+   *[1975 Round 3 – South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1499
-   *[1970 Round 7 - British Grand Prix](../seasons/1970-season-report#round-7-british-grand-prix)*
+   *[1970 Round 7 – British Grand Prix](../seasons/1970-season-report#round-7-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1751
-   *[1975 Round 6 - Belgian Grand Prix](../seasons/1975-season-report#round-6-belgian-grand-prix)*
+   *[1975 Round 6 – Belgian Grand Prix](../seasons/1975-season-report#round-6-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1484
-   *[1970 Round 8 - German Grand Prix](../seasons/1970-season-report#round-8-german-grand-prix)*
+   *[1970 Round 8 – German Grand Prix](../seasons/1970-season-report#round-8-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1782
-   *[1975 Round 8 - Dutch Grand Prix](../seasons/1975-season-report#round-8-dutch-grand-prix)*
+   *[1975 Round 8 – Dutch Grand Prix](../seasons/1975-season-report#round-8-dutch-grand-prix)*
 
 📉 **Lowest Global Elo**: 1489
-   *[1970 Round 9 - Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix)*
+   *[1970 Round 9 – Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix)*
 
 
 ## Complete Career Results by Season

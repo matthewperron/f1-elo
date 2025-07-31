@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1635
-   *[1991 Round 5 - Canadian Grand Prix](../seasons/1991-season-report#round-5-canadian-grand-prix)*
+   *[1991 Round 5 – Canadian Grand Prix](../seasons/1991-season-report#round-5-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1428
-   *[1989 Round 13 - Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)*
+   *[1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1521
-   *[1991 Round 8 - British Grand Prix](../seasons/1991-season-report#round-8-british-grand-prix)*
+   *[1991 Round 8 – British Grand Prix](../seasons/1991-season-report#round-8-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1417
-   *[1990 Round 12 - Italian Grand Prix](../seasons/1990-season-report#round-12-italian-grand-prix)*
+   *[1990 Round 12 – Italian Grand Prix](../seasons/1990-season-report#round-12-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1550
-   *[1991 Round 10 - Hungarian Grand Prix](../seasons/1991-season-report#round-10-hungarian-grand-prix)*
+   *[1991 Round 10 – Hungarian Grand Prix](../seasons/1991-season-report#round-10-hungarian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1443
-   *[1989 Round 13 - Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)*
+   *[1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)*
 
 
 ## Complete Career Results by Season

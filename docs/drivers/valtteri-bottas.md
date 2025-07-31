@@ -26,26 +26,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1907
-   *[2018 Round 3 - Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)*
+   *[2018 Round 3 – Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1507
-   *[2013 Round 3 - Chinese Grand Prix](../seasons/2013-season-report#round-3-chinese-grand-prix)*
+   *[2013 Round 3 – Chinese Grand Prix](../seasons/2013-season-report#round-3-chinese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1701
-   *[2018 Round 3 - Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)*
+   *[2018 Round 3 – Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1410
-   *[2016 Round 3 - Chinese Grand Prix](../seasons/2016-season-report#round-3-chinese-grand-prix)*
+   *[2016 Round 3 – Chinese Grand Prix](../seasons/2016-season-report#round-3-chinese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1761
-   *[2018 Round 3 - Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)*
+   *[2018 Round 3 – Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1501
-   *[2013 Round 17 - Abu Dhabi Grand Prix](../seasons/2013-season-report#round-17-abu-dhabi-grand-prix)*
+   *[2013 Round 17 – Abu Dhabi Grand Prix](../seasons/2013-season-report#round-17-abu-dhabi-grand-prix)*
 
 
 ## Complete Career Results by Season

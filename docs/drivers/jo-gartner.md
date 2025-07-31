@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1487
-   *[1984 Round 12 - Austrian Grand Prix](../seasons/1984-season-report#round-12-austrian-grand-prix)*
+   *[1984 Round 12 – Austrian Grand Prix](../seasons/1984-season-report#round-12-austrian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1399
-   *[1984 Round 16 - Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix)*
+   *[1984 Round 16 – Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1465
-   *[1984 Round 10 - British Grand Prix](../seasons/1984-season-report#round-10-british-grand-prix)*
+   *[1984 Round 10 – British Grand Prix](../seasons/1984-season-report#round-10-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1465
-   *[1984 Round 10 - British Grand Prix](../seasons/1984-season-report#round-10-british-grand-prix)*
+   *[1984 Round 10 – British Grand Prix](../seasons/1984-season-report#round-10-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1472
-   *[1984 Round 12 - Austrian Grand Prix](../seasons/1984-season-report#round-12-austrian-grand-prix)*
+   *[1984 Round 12 – Austrian Grand Prix](../seasons/1984-season-report#round-12-austrian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1445
-   *[1984 Round 16 - Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix)*
+   *[1984 Round 16 – Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix)*
 
 
 ## Complete Career Results by Season

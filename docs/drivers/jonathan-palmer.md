@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1723
-   *[1987 Round 1 - Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix)*
+   *[1987 Round 1 – Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1415
-   *[1989 Round 15 - Japanese Grand Prix](../seasons/1989-season-report#round-15-japanese-grand-prix)*
+   *[1989 Round 15 – Japanese Grand Prix](../seasons/1989-season-report#round-15-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1667
-   *[1989 Round 1 - Brazilian Grand Prix](../seasons/1989-season-report#round-1-brazilian-grand-prix)*
+   *[1989 Round 1 – Brazilian Grand Prix](../seasons/1989-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1497
-   *[1987 Round 8 - German Grand Prix](../seasons/1987-season-report#round-8-german-grand-prix)*
+   *[1987 Round 8 – German Grand Prix](../seasons/1987-season-report#round-8-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1661
-   *[1989 Round 1 - Brazilian Grand Prix](../seasons/1989-season-report#round-1-brazilian-grand-prix)*
+   *[1989 Round 1 – Brazilian Grand Prix](../seasons/1989-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1489
-   *[1984 Round 1 - Brazilian Grand Prix](../seasons/1984-season-report#round-1-brazilian-grand-prix)*
+   *[1984 Round 1 – Brazilian Grand Prix](../seasons/1984-season-report#round-1-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

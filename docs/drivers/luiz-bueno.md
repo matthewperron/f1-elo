@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1489
-   *[1973 Round 2 - Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
+   *[1973 Round 2 – Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1480
-   *[1973 Round 2 - Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
+   *[1973 Round 2 – Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1497
-   *[1973 Round 2 - Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
+   *[1973 Round 2 – Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1494
-   *[1973 Round 2 - Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
+   *[1973 Round 2 – Brazilian Grand Prix](../seasons/1973-season-report#round-2-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

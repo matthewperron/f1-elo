@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1939
-   *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
+   *[1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1491
-   *[1973 Round 6 - Monaco Grand Prix](../seasons/1973-season-report#round-6-monaco-grand-prix)*
+   *[1973 Round 6 – Monaco Grand Prix](../seasons/1973-season-report#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1745
-   *[1977 Round 7 - Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
+   *[1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1488
-   *[1978 Round 16 - Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)*
+   *[1978 Round 16 – Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1783
-   *[1977 Round 6 - Monaco Grand Prix](../seasons/1977-season-report#round-6-monaco-grand-prix)*
+   *[1977 Round 6 – Monaco Grand Prix](../seasons/1977-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1497
-   *[1973 Round 6 - Monaco Grand Prix](../seasons/1973-season-report#round-6-monaco-grand-prix)*
+   *[1973 Round 6 – Monaco Grand Prix](../seasons/1973-season-report#round-6-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

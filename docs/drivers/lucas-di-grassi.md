@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1467
-   *[2010 Round 1 - Bahrain Grand Prix](../seasons/2010-season-report#round-1-bahrain-grand-prix)*
+   *[2010 Round 1 – Bahrain Grand Prix](../seasons/2010-season-report#round-1-bahrain-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1346
-   *[2010 Round 8 - Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix)*
+   *[2010 Round 8 – Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1554
-   *[2010 Round 13 - Belgian Grand Prix](../seasons/2010-season-report#round-13-belgian-grand-prix)*
+   *[2010 Round 13 – Belgian Grand Prix](../seasons/2010-season-report#round-13-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1494
-   *[2010 Round 7 - Turkish Grand Prix](../seasons/2010-season-report#round-7-turkish-grand-prix)*
+   *[2010 Round 7 – Turkish Grand Prix](../seasons/2010-season-report#round-7-turkish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1506
-   *[2010 Round 3 - Malaysian Grand Prix](../seasons/2010-season-report#round-3-malaysian-grand-prix)*
+   *[2010 Round 3 – Malaysian Grand Prix](../seasons/2010-season-report#round-3-malaysian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1449
-   *[2010 Round 8 - Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix)*
+   *[2010 Round 8 – Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

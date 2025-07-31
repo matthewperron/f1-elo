@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1524
-   *[1976 Round 8 - French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)*
+   *[1976 Round 8 – French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1429
-   *[1976 Round 13 - Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix)*
+   *[1976 Round 13 – Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1462
-   *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
+   *[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1364
-   *[1976 Round 9 - British Grand Prix](../seasons/1976-season-report#round-9-british-grand-prix)*
+   *[1976 Round 9 – British Grand Prix](../seasons/1976-season-report#round-9-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1496
-   *[1974 Round 2 - Brazilian Grand Prix](../seasons/1974-season-report#round-2-brazilian-grand-prix)*
+   *[1974 Round 2 – Brazilian Grand Prix](../seasons/1974-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1401
-   *[1976 Round 9 - British Grand Prix](../seasons/1976-season-report#round-9-british-grand-prix)*
+   *[1976 Round 9 – British Grand Prix](../seasons/1976-season-report#round-9-british-grand-prix)*
 
 
 ## Complete Career Results by Season

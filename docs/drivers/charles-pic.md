@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1578
-   *[2012 Round 11 - Hungarian Grand Prix](../seasons/2012-season-report#round-11-hungarian-grand-prix)*
+   *[2012 Round 11 – Hungarian Grand Prix](../seasons/2012-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1393
-   *[2013 Round 18 - United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)*
+   *[2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1664
-   *[2013 Round 9 - German Grand Prix](../seasons/2013-season-report#round-9-german-grand-prix)*
+   *[2013 Round 9 – German Grand Prix](../seasons/2013-season-report#round-9-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1425
-   *[2012 Round 9 - British Grand Prix](../seasons/2012-season-report#round-9-british-grand-prix)*
+   *[2012 Round 9 – British Grand Prix](../seasons/2012-season-report#round-9-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1612
-   *[2013 Round 8 - British Grand Prix](../seasons/2013-season-report#round-8-british-grand-prix)*
+   *[2013 Round 8 – British Grand Prix](../seasons/2013-season-report#round-8-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1440
-   *[2012 Round 3 - Chinese Grand Prix](../seasons/2012-season-report#round-3-chinese-grand-prix)*
+   *[2012 Round 3 – Chinese Grand Prix](../seasons/2012-season-report#round-3-chinese-grand-prix)*
 
 
 ## Complete Career Results by Season

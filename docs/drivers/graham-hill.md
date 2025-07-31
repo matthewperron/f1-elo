@@ -32,26 +32,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1927
-   *[1965 Round 3 - Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix)*
+   *[1965 Round 3 – Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1292
-   *[1975 Round 1 - Argentine Grand Prix](../seasons/1975-season-report#round-1-argentine-grand-prix)*
+   *[1975 Round 1 – Argentine Grand Prix](../seasons/1975-season-report#round-1-argentine-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1666
-   *[1964 Round 9 - United States Grand Prix](../seasons/1964-season-report#round-9-united-states-grand-prix)*
+   *[1964 Round 9 – United States Grand Prix](../seasons/1964-season-report#round-9-united-states-grand-prix)*
 
 📉 **Lowest Race Elo**: 1396
-   *[1972 Round 6 - French Grand Prix](../seasons/1972-season-report#round-6-french-grand-prix)*
+   *[1972 Round 6 – French Grand Prix](../seasons/1972-season-report#round-6-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1736
-   *[1964 Round 9 - United States Grand Prix](../seasons/1964-season-report#round-9-united-states-grand-prix)*
+   *[1964 Round 9 – United States Grand Prix](../seasons/1964-season-report#round-9-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1393
-   *[1973 Round 14 - Canadian Grand Prix](../seasons/1973-season-report#round-14-canadian-grand-prix)*
+   *[1973 Round 14 – Canadian Grand Prix](../seasons/1973-season-report#round-14-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

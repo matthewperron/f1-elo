@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1481
-   *[1968 Round 11 - United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
+   *[1968 Round 11 – United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1473
-   *[1968 Round 11 - United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
+   *[1968 Round 11 – United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1494
-   *[1968 Round 11 - United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
+   *[1968 Round 11 – United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1492
-   *[1968 Round 11 - United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
+   *[1968 Round 11 – United States Grand Prix](../seasons/1968-season-report#round-11-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

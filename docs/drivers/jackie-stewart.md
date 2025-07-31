@@ -23,26 +23,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 2006
-   *[1973 Round 3 - South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
+   *[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1488
-   *[1965 Round 3 - Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix)*
+   *[1965 Round 3 – Belgian Grand Prix](../seasons/1965-season-report#round-3-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1753
-   *[1971 Round 10 - Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
+   *[1971 Round 10 – Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1460
-   *[1965 Round 2 - Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
+   *[1965 Round 2 – Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1816
-   *[1971 Round 8 - Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
+   *[1971 Round 8 – Austrian Grand Prix](../seasons/1971-season-report#round-8-austrian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1469
-   *[1965 Round 2 - Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
+   *[1965 Round 2 – Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

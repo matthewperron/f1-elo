@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1922
-   *[1982 Round 5 - Belgian Grand Prix](../seasons/1982-season-report#round-5-belgian-grand-prix)*
+   *[1982 Round 5 – Belgian Grand Prix](../seasons/1982-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1469
-   *[1978 Round 2 - Brazilian Grand Prix](../seasons/1978-season-report#round-2-brazilian-grand-prix)*
+   *[1978 Round 2 – Brazilian Grand Prix](../seasons/1978-season-report#round-2-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1663
-   *[1980 Round 11 - Dutch Grand Prix](../seasons/1980-season-report#round-11-dutch-grand-prix)*
+   *[1980 Round 11 – Dutch Grand Prix](../seasons/1980-season-report#round-11-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1322
-   *[1978 Round 6 - Belgian Grand Prix](../seasons/1978-season-report#round-6-belgian-grand-prix)*
+   *[1978 Round 6 – Belgian Grand Prix](../seasons/1978-season-report#round-6-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1734
-   *[1981 Round 8 - French Grand Prix](../seasons/1981-season-report#round-8-french-grand-prix)*
+   *[1981 Round 8 – French Grand Prix](../seasons/1981-season-report#round-8-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1372
-   *[1978 Round 6 - Belgian Grand Prix](../seasons/1978-season-report#round-6-belgian-grand-prix)*
+   *[1978 Round 6 – Belgian Grand Prix](../seasons/1978-season-report#round-6-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

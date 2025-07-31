@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1590
-   *[2010 Round 19 - Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)*
+   *[2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1347
-   *[2010 Round 10 - British Grand Prix](../seasons/2010-season-report#round-10-british-grand-prix)*
+   *[2010 Round 10 – British Grand Prix](../seasons/2010-season-report#round-10-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1553
-   *[2010 Round 4 - Chinese Grand Prix](../seasons/2010-season-report#round-4-chinese-grand-prix)*
+   *[2010 Round 4 – Chinese Grand Prix](../seasons/2010-season-report#round-4-chinese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1399
-   *[2011 Round 6 - Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)*
+   *[2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1561
-   *[2010 Round 19 - Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)*
+   *[2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)*
 
 📉 **Lowest Global Elo**: 1415
-   *[2011 Round 6 - Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)*
+   *[2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

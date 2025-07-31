@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1465
-   *[1968 Round 7 - British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
+   *[1968 Round 7 – British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1465
-   *[1968 Round 7 - British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
+   *[1968 Round 7 – British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1490
-   *[1968 Round 7 - British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
+   *[1968 Round 7 – British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1968 Round 7 - British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
+   *[1968 Round 7 – British Grand Prix](../seasons/1968-season-report#round-7-british-grand-prix)*
 
 
 ## Complete Career Results by Season

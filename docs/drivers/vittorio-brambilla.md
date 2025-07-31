@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1861
-   *[1978 Round 13 - Dutch Grand Prix](../seasons/1978-season-report#round-13-dutch-grand-prix)*
+   *[1978 Round 13 – Dutch Grand Prix](../seasons/1978-season-report#round-13-dutch-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1392
-   *[1974 Round 12 - Austrian Grand Prix](../seasons/1974-season-report#round-12-austrian-grand-prix)*
+   *[1974 Round 12 – Austrian Grand Prix](../seasons/1974-season-report#round-12-austrian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1682
-   *[1979 Round 13 - Italian Grand Prix](../seasons/1979-season-report#round-13-italian-grand-prix)*
+   *[1979 Round 13 – Italian Grand Prix](../seasons/1979-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1442
-   *[1974 Round 6 - Monaco Grand Prix](../seasons/1974-season-report#round-6-monaco-grand-prix)*
+   *[1974 Round 6 – Monaco Grand Prix](../seasons/1974-season-report#round-6-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1725
-   *[1978 Round 13 - Dutch Grand Prix](../seasons/1978-season-report#round-13-dutch-grand-prix)*
+   *[1978 Round 13 – Dutch Grand Prix](../seasons/1978-season-report#round-13-dutch-grand-prix)*
 
 📉 **Lowest Global Elo**: 1430
-   *[1974 Round 7 - Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
+   *[1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1537
-   *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
+   *[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1509
-   *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
+   *[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1511
-   *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
+   *[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1503
-   *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
+   *[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1552
-   *[2004 Round 13 - Hungarian Grand Prix](../seasons/2004-season-report#round-13-hungarian-grand-prix)*
+   *[2004 Round 13 – Hungarian Grand Prix](../seasons/2004-season-report#round-13-hungarian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1461
-   *[2005 Round 19 - Chinese Grand Prix](../seasons/2005-season-report#round-19-chinese-grand-prix)*
+   *[2005 Round 19 – Chinese Grand Prix](../seasons/2005-season-report#round-19-chinese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1480
-   *[2003 Round 3 - Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)*
+   *[2003 Round 3 – Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1385
-   *[2004 Round 15 - Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix)*
+   *[2004 Round 15 – Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1510
-   *[2003 Round 2 - Malaysian Grand Prix](../seasons/2003-season-report#round-2-malaysian-grand-prix)*
+   *[2003 Round 2 – Malaysian Grand Prix](../seasons/2003-season-report#round-2-malaysian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1424
-   *[2004 Round 15 - Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix)*
+   *[2004 Round 15 – Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1829
-   *[1974 Round 14 - Canadian Grand Prix](../seasons/1974-season-report#round-14-canadian-grand-prix)*
+   *[1974 Round 14 – Canadian Grand Prix](../seasons/1974-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1482
-   *[1971 Round 4 - Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
+   *[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1605
-   *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
+   *[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1413
-   *[1969 Round 8 - Italian Grand Prix](../seasons/1969-season-report#round-8-italian-grand-prix)*
+   *[1969 Round 8 – Italian Grand Prix](../seasons/1969-season-report#round-8-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1664
-   *[1974 Round 14 - Canadian Grand Prix](../seasons/1974-season-report#round-14-canadian-grand-prix)*
+   *[1974 Round 14 – Canadian Grand Prix](../seasons/1974-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1436
-   *[1969 Round 8 - Italian Grand Prix](../seasons/1969-season-report#round-8-italian-grand-prix)*
+   *[1969 Round 8 – Italian Grand Prix](../seasons/1969-season-report#round-8-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1496
-   *[1971 Round 11 - United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
+   *[1971 Round 11 – United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1473
-   *[1971 Round 11 - United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
+   *[1971 Round 11 – United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1492
-   *[1971 Round 11 - United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
+   *[1971 Round 11 – United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
 
 📉 **Lowest Race Elo**: 1466
-   *[1971 Round 11 - United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
+   *[1971 Round 11 – United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1493
-   *[1971 Round 11 - United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
+   *[1971 Round 11 – United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1469
-   *[1971 Round 11 - United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
+   *[1971 Round 11 – United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -27,26 +27,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1978
-   *[1996 Round 10 - British Grand Prix](../seasons/1996-season-report#round-10-british-grand-prix)*
+   *[1996 Round 10 – British Grand Prix](../seasons/1996-season-report#round-10-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1451
-   *[1989 Round 8 - British Grand Prix](../seasons/1989-season-report#round-8-british-grand-prix)*
+   *[1989 Round 8 – British Grand Prix](../seasons/1989-season-report#round-8-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1767
-   *[1999 Round 16 - Japanese Grand Prix](../seasons/1999-season-report#round-16-japanese-grand-prix)*
+   *[1999 Round 16 – Japanese Grand Prix](../seasons/1999-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1513
-   *[1989 Round 8 - British Grand Prix](../seasons/1989-season-report#round-8-british-grand-prix)*
+   *[1989 Round 8 – British Grand Prix](../seasons/1989-season-report#round-8-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1791
-   *[1996 Round 15 - Portuguese Grand Prix](../seasons/1996-season-report#round-15-portuguese-grand-prix)*
+   *[1996 Round 15 – Portuguese Grand Prix](../seasons/1996-season-report#round-15-portuguese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1494
-   *[1989 Round 8 - British Grand Prix](../seasons/1989-season-report#round-8-british-grand-prix)*
+   *[1989 Round 8 – British Grand Prix](../seasons/1989-season-report#round-8-british-grand-prix)*
 
 
 ## Complete Career Results by Season

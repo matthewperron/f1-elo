@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1498
-   *[1984 Round 7 - Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix)*
+   *[1984 Round 7 – Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1464
-   *[1980 Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
+   *[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1479
-   *[1980 Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
+   *[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1464
-   *[1980 Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
+   *[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1481
-   *[1980 Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
+   *[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1464
-   *[1980 Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
+   *[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

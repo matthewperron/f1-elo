@@ -1,10 +1,10 @@
-# 2000 F1 Season - ELO Analysis
+# 2000 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2: Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3: San Marino Grand Prix](#round-3-san-marino-grand-prix) • [Round 4: British Grand Prix](#round-4-british-grand-prix) • [Round 5: Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6: European Grand Prix](#round-6-european-grand-prix) • [Round 7: Monaco Grand Prix](#round-7-monaco-grand-prix) • [Round 8: Canadian Grand Prix](#round-8-canadian-grand-prix) • [Round 9: French Grand Prix](#round-9-french-grand-prix) • [Round 10: Austrian Grand Prix](#round-10-austrian-grand-prix) • [Round 11: German Grand Prix](#round-11-german-grand-prix) • [Round 12: Hungarian Grand Prix](#round-12-hungarian-grand-prix) • [Round 13: Belgian Grand Prix](#round-13-belgian-grand-prix) • [Round 14: Italian Grand Prix](#round-14-italian-grand-prix) • [Round 15: United States Grand Prix](#round-15-united-states-grand-prix) • [Round 16: Japanese Grand Prix](#round-16-japanese-grand-prix) • [Round 17: Malaysian Grand Prix](#round-17-malaysian-grand-prix)
+[Round 1 – Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2 – Brazilian Grand Prix](#round-2-brazilian-grand-prix) • [Round 3 – San Marino Grand Prix](#round-3-san-marino-grand-prix) • [Round 4 – British Grand Prix](#round-4-british-grand-prix) • [Round 5 – Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6 – European Grand Prix](#round-6-european-grand-prix) • [Round 7 – Monaco Grand Prix](#round-7-monaco-grand-prix) • [Round 8 – Canadian Grand Prix](#round-8-canadian-grand-prix) • [Round 9 – French Grand Prix](#round-9-french-grand-prix) • [Round 10 – Austrian Grand Prix](#round-10-austrian-grand-prix) • [Round 11 – German Grand Prix](#round-11-german-grand-prix) • [Round 12 – Hungarian Grand Prix](#round-12-hungarian-grand-prix) • [Round 13 – Belgian Grand Prix](#round-13-belgian-grand-prix) • [Round 14 – Italian Grand Prix](#round-14-italian-grand-prix) • [Round 15 – United States Grand Prix](#round-15-united-states-grand-prix) • [Round 16 – Japanese Grand Prix](#round-16-japanese-grand-prix) • [Round 17 – Malaysian Grand Prix](#round-17-malaysian-grand-prix)
 
 📊 **[View Complete F1 2000 Season Results](https://www.formula1.com/en/results.html/2000/races.html)** | **[Wikipedia 2000 F1 Season](https://en.wikipedia.org/wiki/2000_Formula_One_World_Championship)**
 
@@ -40,7 +40,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Australian Grand Prix
+### Round 1 – Australian Grand Prix
 *Date: 2000-03-12*
 
 #### Qualifying Results
@@ -99,7 +99,7 @@
 
 ---
 
-### Round 2: Brazilian Grand Prix
+### Round 2 – Brazilian Grand Prix
 *Date: 2000-03-26*
 
 #### Qualifying Results
@@ -158,7 +158,7 @@
 
 ---
 
-### Round 3: San Marino Grand Prix
+### Round 3 – San Marino Grand Prix
 *Date: 2000-04-09*
 
 #### Qualifying Results
@@ -217,7 +217,7 @@
 
 ---
 
-### Round 4: British Grand Prix
+### Round 4 – British Grand Prix
 *Date: 2000-04-23*
 
 #### Qualifying Results
@@ -276,7 +276,7 @@
 
 ---
 
-### Round 5: Spanish Grand Prix
+### Round 5 – Spanish Grand Prix
 *Date: 2000-05-07*
 
 #### Qualifying Results
@@ -335,7 +335,7 @@
 
 ---
 
-### Round 6: European Grand Prix
+### Round 6 – European Grand Prix
 *Date: 2000-05-21*
 
 #### Qualifying Results
@@ -392,7 +392,7 @@
 
 ---
 
-### Round 7: Monaco Grand Prix
+### Round 7 – Monaco Grand Prix
 *Date: 2000-06-04*
 
 #### Qualifying Results
@@ -451,7 +451,7 @@
 
 ---
 
-### Round 8: Canadian Grand Prix
+### Round 8 – Canadian Grand Prix
 *Date: 2000-06-18*
 
 #### Qualifying Results
@@ -510,7 +510,7 @@
 
 ---
 
-### Round 9: French Grand Prix
+### Round 9 – French Grand Prix
 *Date: 2000-07-02*
 
 #### Qualifying Results
@@ -569,7 +569,7 @@
 
 ---
 
-### Round 10: Austrian Grand Prix
+### Round 10 – Austrian Grand Prix
 *Date: 2000-07-16*
 
 #### Qualifying Results
@@ -628,7 +628,7 @@
 
 ---
 
-### Round 11: German Grand Prix
+### Round 11 – German Grand Prix
 *Date: 2000-07-30*
 
 #### Qualifying Results
@@ -687,7 +687,7 @@
 
 ---
 
-### Round 12: Hungarian Grand Prix
+### Round 12 – Hungarian Grand Prix
 *Date: 2000-08-13*
 
 #### Qualifying Results
@@ -746,7 +746,7 @@
 
 ---
 
-### Round 13: Belgian Grand Prix
+### Round 13 – Belgian Grand Prix
 *Date: 2000-08-27*
 
 #### Qualifying Results
@@ -805,7 +805,7 @@
 
 ---
 
-### Round 14: Italian Grand Prix
+### Round 14 – Italian Grand Prix
 *Date: 2000-09-10*
 
 #### Qualifying Results
@@ -864,7 +864,7 @@
 
 ---
 
-### Round 15: United States Grand Prix
+### Round 15 – United States Grand Prix
 *Date: 2000-09-24*
 
 #### Qualifying Results
@@ -923,7 +923,7 @@
 
 ---
 
-### Round 16: Japanese Grand Prix
+### Round 16 – Japanese Grand Prix
 *Date: 2000-10-08*
 
 #### Qualifying Results
@@ -982,7 +982,7 @@
 
 ---
 
-### Round 17: Malaysian Grand Prix
+### Round 17 – Malaysian Grand Prix
 *Date: 2000-10-22*
 
 #### Qualifying Results

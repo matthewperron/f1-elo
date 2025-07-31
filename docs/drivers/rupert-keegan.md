@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1569
-   *[1977 Round 16 - Canadian Grand Prix](../seasons/1977-season-report#round-16-canadian-grand-prix)*
+   *[1977 Round 16 – Canadian Grand Prix](../seasons/1977-season-report#round-16-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1470
-   *[1980 Round 14 - United States Grand Prix](../seasons/1980-season-report#round-14-united-states-grand-prix)*
+   *[1980 Round 14 – United States Grand Prix](../seasons/1980-season-report#round-14-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1517
-   *[1977 Round 15 - United States Grand Prix](../seasons/1977-season-report#round-15-united-states-grand-prix)*
+   *[1977 Round 15 – United States Grand Prix](../seasons/1977-season-report#round-15-united-states-grand-prix)*
 
 📉 **Lowest Race Elo**: 1402
-   *[1980 Round 14 - United States Grand Prix](../seasons/1980-season-report#round-14-united-states-grand-prix)*
+   *[1980 Round 14 – United States Grand Prix](../seasons/1980-season-report#round-14-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1533
-   *[1977 Round 16 - Canadian Grand Prix](../seasons/1977-season-report#round-16-canadian-grand-prix)*
+   *[1977 Round 16 – Canadian Grand Prix](../seasons/1977-season-report#round-16-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1420
-   *[1980 Round 14 - United States Grand Prix](../seasons/1980-season-report#round-14-united-states-grand-prix)*
+   *[1980 Round 14 – United States Grand Prix](../seasons/1980-season-report#round-14-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1550
-   *[1952 Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
+   *[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
 
 📉 **Lowest Qualifying Elo**: 1502
-   *[1951 Round 2 - Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)*
+   *[1951 Round 2 – Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1498
-   *[1953 Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
+   *[1953 Round 2 – Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
 
 📉 **Lowest Race Elo**: 1488
-   *[1953 Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
+   *[1953 Round 2 – Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1513
-   *[1952 Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
+   *[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
 
 📉 **Lowest Global Elo**: 1493
-   *[1953 Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
+   *[1953 Round 2 – Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500)*
 
 
 ## Complete Career Results by Season

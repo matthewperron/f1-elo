@@ -25,26 +25,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1963
-   *[2025 Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
+   *[2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1450
-   *[2015 Round 12 - Italian Grand Prix](../seasons/2015-season-report#round-12-italian-grand-prix)*
+   *[2015 Round 12 – Italian Grand Prix](../seasons/2015-season-report#round-12-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 2045
-   *[2025 Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
+   *[2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1417
-   *[2015 Round 12 - Italian Grand Prix](../seasons/2015-season-report#round-12-italian-grand-prix)*
+   *[2015 Round 12 – Italian Grand Prix](../seasons/2015-season-report#round-12-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 2021
-   *[2025 Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
+   *[2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1427
-   *[2015 Round 12 - Italian Grand Prix](../seasons/2015-season-report#round-12-italian-grand-prix)*
+   *[2015 Round 12 – Italian Grand Prix](../seasons/2015-season-report#round-12-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

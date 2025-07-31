@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1562
-   *[2015 Round 18 - Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
+   *[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1448
-   *[2015 Round 14 - Japanese Grand Prix](../seasons/2015-season-report#round-14-japanese-grand-prix)*
+   *[2015 Round 14 – Japanese Grand Prix](../seasons/2015-season-report#round-14-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1574
-   *[2015 Round 17 - Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)*
+   *[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)*
 
 📉 **Lowest Race Elo**: 1526
-   *[2015 Round 18 - Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
+   *[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1561
-   *[2015 Round 17 - Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)*
+   *[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)*
 
 📉 **Lowest Global Elo**: 1512
-   *[2015 Round 13 - Singapore Grand Prix](../seasons/2015-season-report#round-13-singapore-grand-prix)*
+   *[2015 Round 13 – Singapore Grand Prix](../seasons/2015-season-report#round-13-singapore-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -22,26 +22,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1729
-   *[1979 Round 1 - Argentine Grand Prix](../seasons/1979-season-report#round-1-argentine-grand-prix)*
+   *[1979 Round 1 – Argentine Grand Prix](../seasons/1979-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1459
-   *[1976 Round 6 - Monaco Grand Prix](../seasons/1976-season-report#round-6-monaco-grand-prix)*
+   *[1976 Round 6 – Monaco Grand Prix](../seasons/1976-season-report#round-6-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1622
-   *[1978 Round 15 - United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
+   *[1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)*
 
 📉 **Lowest Race Elo**: 1380
-   *[1974 Round 3 - South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
+   *[1974 Round 3 – South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1655
-   *[1979 Round 1 - Argentine Grand Prix](../seasons/1979-season-report#round-1-argentine-grand-prix)*
+   *[1979 Round 1 – Argentine Grand Prix](../seasons/1979-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1436
-   *[1974 Round 3 - South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
+   *[1974 Round 3 – South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

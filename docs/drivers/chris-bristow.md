@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1559
-   *[1960 Round 5 - Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
+   *[1960 Round 5 – Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1528
-   *[1960 Round 2 - Monaco Grand Prix](../seasons/1960-season-report#round-2-monaco-grand-prix)*
+   *[1960 Round 2 – Monaco Grand Prix](../seasons/1960-season-report#round-2-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1531
-   *[1959 Round 5 - British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix)*
+   *[1959 Round 5 – British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1512
-   *[1960 Round 5 - Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
+   *[1960 Round 5 – Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1540
-   *[1960 Round 4 - Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix)*
+   *[1960 Round 4 – Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix)*
 
 📉 **Lowest Global Elo**: 1524
-   *[1960 Round 5 - Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
+   *[1960 Round 5 – Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

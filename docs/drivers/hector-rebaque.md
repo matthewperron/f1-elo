@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1467
-   *[1977 Round 11 - German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix)*
+   *[1977 Round 11 – German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1246
-   *[1981 Round 15 - Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
+   *[1981 Round 15 – Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1489
-   *[1978 Round 3 - South African Grand Prix](../seasons/1978-season-report#round-3-south-african-grand-prix)*
+   *[1978 Round 3 – South African Grand Prix](../seasons/1978-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Race Elo**: 1381
-   *[1981 Round 4 - San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
+   *[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1490
-   *[1977 Round 11 - German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix)*
+   *[1977 Round 11 – German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1343
-   *[1981 Round 15 - Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
+   *[1981 Round 15 – Caesars Palace Grand Prix](../seasons/1981-season-report#round-15-caesars-palace-grand-prix)*
 
 
 ## Complete Career Results by Season

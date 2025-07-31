@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1480
-   *[1994 Round 14 - European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)*
+   *[1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1387
-   *[1995 Round 4 - Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
+   *[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1461
-   *[1995 Round 4 - Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
+   *[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1461
-   *[1995 Round 4 - Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
+   *[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1494
-   *[1994 Round 14 - European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)*
+   *[1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)*
 
 📉 **Lowest Global Elo**: 1439
-   *[1995 Round 4 - Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
+   *[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
 
 
 ## Complete Career Results by Season

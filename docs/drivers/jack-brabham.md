@@ -29,26 +29,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1832
-   *[1967 Round 6 - British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
+   *[1967 Round 6 – British Grand Prix](../seasons/1967-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1441
-   *[1957 Round 4 - French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
+   *[1957 Round 4 – French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1719
-   *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
+   *[1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 📉 **Lowest Race Elo**: 1494
-   *[1958 Round 8 - German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
+   *[1958 Round 8 – German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1716
-   *[1966 Round 9 - Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
+   *[1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)*
 
 📉 **Lowest Global Elo**: 1473
-   *[1957 Round 4 - French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
+   *[1957 Round 4 – French Grand Prix](../seasons/1957-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Career Results by Season

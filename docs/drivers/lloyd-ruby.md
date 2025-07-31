@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1495
-   *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
+   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 📉 **Lowest Qualifying Elo**: 1457
-   *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
+   *[1961 Round 8 – United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1495
-   *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
+   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 📉 **Lowest Race Elo**: 1490
-   *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
+   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1495
-   *[1960 Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
+   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
 
 📉 **Lowest Global Elo**: 1484
-   *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
+   *[1961 Round 8 – United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

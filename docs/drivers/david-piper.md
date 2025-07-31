@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1482
-   *[1959 Round 5 - British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix)*
+   *[1959 Round 5 – British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1415
-   *[1960 Round 7 - British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix)*
+   *[1960 Round 7 – British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1490
-   *[1960 Round 7 - British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix)*
+   *[1960 Round 7 – British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1481
-   *[1960 Round 7 - British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix)*
+   *[1960 Round 7 – British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1495
-   *[1959 Round 5 - British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix)*
+   *[1959 Round 5 – British Grand Prix](../seasons/1959-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1462
-   *[1960 Round 7 - British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix)*
+   *[1960 Round 7 – British Grand Prix](../seasons/1960-season-report#round-7-british-grand-prix)*
 
 
 ## Complete Career Results by Season

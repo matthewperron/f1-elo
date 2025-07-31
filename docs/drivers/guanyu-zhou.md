@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1701
-   *[2023 Round 3 - Australian Grand Prix](../seasons/2023-season-report#round-3-australian-grand-prix)*
+   *[2023 Round 3 – Australian Grand Prix](../seasons/2023-season-report#round-3-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1439
-   *[2024 Round 21 - São Paulo Grand Prix](../seasons/2024-season-report#round-21-so-paulo-grand-prix)*
+   *[2024 Round 21 – São Paulo Grand Prix](../seasons/2024-season-report#round-21-so-paulo-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1557
-   *[2024 Round 7 - Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)*
+   *[2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)*
 
 📉 **Lowest Race Elo**: 1376
-   *[2022 Round 12 - French Grand Prix](../seasons/2022-season-report#round-12-french-grand-prix)*
+   *[2022 Round 12 – French Grand Prix](../seasons/2022-season-report#round-12-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1588
-   *[2023 Round 3 - Australian Grand Prix](../seasons/2023-season-report#round-3-australian-grand-prix)*
+   *[2023 Round 3 – Australian Grand Prix](../seasons/2023-season-report#round-3-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1425
-   *[2022 Round 7 - Monaco Grand Prix](../seasons/2022-season-report#round-7-monaco-grand-prix)*
+   *[2022 Round 7 – Monaco Grand Prix](../seasons/2022-season-report#round-7-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

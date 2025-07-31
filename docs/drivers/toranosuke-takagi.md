@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1566
-   *[1998 Round 7 - Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
+   *[1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1475
-   *[1999 Round 3 - San Marino Grand Prix](../seasons/1999-season-report#round-3-san-marino-grand-prix)*
+   *[1999 Round 3 – San Marino Grand Prix](../seasons/1999-season-report#round-3-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1562
-   *[1998 Round 14 - Italian Grand Prix](../seasons/1998-season-report#round-14-italian-grand-prix)*
+   *[1998 Round 14 – Italian Grand Prix](../seasons/1998-season-report#round-14-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1494
-   *[1999 Round 5 - Spanish Grand Prix](../seasons/1999-season-report#round-5-spanish-grand-prix)*
+   *[1999 Round 5 – Spanish Grand Prix](../seasons/1999-season-report#round-5-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1549
-   *[1998 Round 15 - Luxembourg Grand Prix](../seasons/1998-season-report#round-15-luxembourg-grand-prix)*
+   *[1998 Round 15 – Luxembourg Grand Prix](../seasons/1998-season-report#round-15-luxembourg-grand-prix)*
 
 📉 **Lowest Global Elo**: 1489
-   *[1999 Round 11 - Hungarian Grand Prix](../seasons/1999-season-report#round-11-hungarian-grand-prix)*
+   *[1999 Round 11 – Hungarian Grand Prix](../seasons/1999-season-report#round-11-hungarian-grand-prix)*
 
 
 ## Complete Career Results by Season

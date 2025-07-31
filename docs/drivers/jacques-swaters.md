@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1496
-   *[1951 Round 6 - German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
+   *[1951 Round 6 – German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1406
-   *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
+   *[1954 Round 9 – Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1504
-   *[1953 Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
+   *[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1489
-   *[1953 Round 8 - Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix)*
+   *[1953 Round 8 – Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1496
-   *[1951 Round 6 - German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
+   *[1951 Round 6 – German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1467
-   *[1954 Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
+   *[1954 Round 9 – Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
 
 
 ## Complete Career Results by Season

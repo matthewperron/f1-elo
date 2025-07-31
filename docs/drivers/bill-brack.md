@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1498
-   *[1968 Round 10 - Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix)*
+   *[1968 Round 10 – Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1436
-   *[1972 Round 11 - Canadian Grand Prix](../seasons/1972-season-report#round-11-canadian-grand-prix)*
+   *[1972 Round 11 – Canadian Grand Prix](../seasons/1972-season-report#round-11-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1490
-   *[1972 Round 11 - Canadian Grand Prix](../seasons/1972-season-report#round-11-canadian-grand-prix)*
+   *[1972 Round 11 – Canadian Grand Prix](../seasons/1972-season-report#round-11-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1490
-   *[1972 Round 11 - Canadian Grand Prix](../seasons/1972-season-report#round-11-canadian-grand-prix)*
+   *[1972 Round 11 – Canadian Grand Prix](../seasons/1972-season-report#round-11-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1968 Round 10 - Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix)*
+   *[1968 Round 10 – Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1474
-   *[1972 Round 11 - Canadian Grand Prix](../seasons/1972-season-report#round-11-canadian-grand-prix)*
+   *[1972 Round 11 – Canadian Grand Prix](../seasons/1972-season-report#round-11-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

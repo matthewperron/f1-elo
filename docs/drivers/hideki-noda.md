@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1501
-   *[1994 Round 16 - Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
+   *[1994 Round 16 – Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1465
-   *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
+   *[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1484
-   *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
+   *[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1484
-   *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
+   *[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1494
-   *[1994 Round 14 - European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)*
+   *[1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)*
 
 📉 **Lowest Global Elo**: 1478
-   *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
+   *[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
 
 ## Complete Career Results by Season

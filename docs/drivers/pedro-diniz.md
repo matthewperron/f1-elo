@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1581
-   *[1999 Round 14 - European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
+   *[1999 Round 14 – European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1299
-   *[1997 Round 7 - Canadian Grand Prix](../seasons/1997-season-report#round-7-canadian-grand-prix)*
+   *[1997 Round 7 – Canadian Grand Prix](../seasons/1997-season-report#round-7-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1654
-   *[1999 Round 8 - British Grand Prix](../seasons/1999-season-report#round-8-british-grand-prix)*
+   *[1999 Round 8 – British Grand Prix](../seasons/1999-season-report#round-8-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1381
-   *[2000 Round 14 - Italian Grand Prix](../seasons/2000-season-report#round-14-italian-grand-prix)*
+   *[2000 Round 14 – Italian Grand Prix](../seasons/2000-season-report#round-14-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1611
-   *[1999 Round 9 - Austrian Grand Prix](../seasons/1999-season-report#round-9-austrian-grand-prix)*
+   *[1999 Round 9 – Austrian Grand Prix](../seasons/1999-season-report#round-9-austrian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1401
-   *[2000 Round 14 - Italian Grand Prix](../seasons/2000-season-report#round-14-italian-grand-prix)*
+   *[2000 Round 14 – Italian Grand Prix](../seasons/2000-season-report#round-14-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

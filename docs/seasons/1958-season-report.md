@@ -1,10 +1,10 @@
-# 1958 F1 Season - ELO Analysis
+# 1958 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3: Dutch Grand Prix](#round-3-dutch-grand-prix) • [Round 4: Indianapolis 500](#round-4-indianapolis-500) • [Round 5: Belgian Grand Prix](#round-5-belgian-grand-prix) • [Round 6: French Grand Prix](#round-6-french-grand-prix) • [Round 7: British Grand Prix](#round-7-british-grand-prix) • [Round 8: German Grand Prix](#round-8-german-grand-prix) • [Round 9: Portuguese Grand Prix](#round-9-portuguese-grand-prix) • [Round 10: Italian Grand Prix](#round-10-italian-grand-prix) • [Round 11: Moroccan Grand Prix](#round-11-moroccan-grand-prix)
+[Round 1 – Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2 – Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3 – Dutch Grand Prix](#round-3-dutch-grand-prix) • [Round 4 – Indianapolis 500](#round-4-indianapolis-500) • [Round 5 – Belgian Grand Prix](#round-5-belgian-grand-prix) • [Round 6 – French Grand Prix](#round-6-french-grand-prix) • [Round 7 – British Grand Prix](#round-7-british-grand-prix) • [Round 8 – German Grand Prix](#round-8-german-grand-prix) • [Round 9 – Portuguese Grand Prix](#round-9-portuguese-grand-prix) • [Round 10 – Italian Grand Prix](#round-10-italian-grand-prix) • [Round 11 – Moroccan Grand Prix](#round-11-moroccan-grand-prix)
 
 📊 **[View Complete F1 1958 Season Results](https://www.formula1.com/en/results.html/1958/races.html)** | **[Wikipedia 1958 F1 Season](https://en.wikipedia.org/wiki/1958_Formula_One_World_Championship)**
 
@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Argentine Grand Prix
+### Round 1 – Argentine Grand Prix
 *Date: 1958-01-19*
 
 #### Qualifying Results
@@ -102,7 +102,7 @@
 
 ---
 
-### Round 2: Monaco Grand Prix
+### Round 2 – Monaco Grand Prix
 *Date: 1958-05-18*
 
 #### Qualifying Results
@@ -149,7 +149,7 @@
 
 ---
 
-### Round 3: Dutch Grand Prix
+### Round 3 – Dutch Grand Prix
 *Date: 1958-05-26*
 
 #### Qualifying Results
@@ -200,7 +200,7 @@
 
 ---
 
-### Round 4: Indianapolis 500
+### Round 4 – Indianapolis 500
 *Date: 1958-05-30*
 
 #### Qualifying Results
@@ -281,7 +281,7 @@
 
 ---
 
-### Round 5: Belgian Grand Prix
+### Round 5 – Belgian Grand Prix
 *Date: 1958-06-15*
 
 #### Qualifying Results
@@ -334,7 +334,7 @@
 
 ---
 
-### Round 6: French Grand Prix
+### Round 6 – French Grand Prix
 *Date: 1958-07-06*
 
 #### Qualifying Results
@@ -393,7 +393,7 @@
 
 ---
 
-### Round 7: British Grand Prix
+### Round 7 – British Grand Prix
 *Date: 1958-07-19*
 
 #### Qualifying Results
@@ -448,7 +448,7 @@
 
 ---
 
-### Round 8: German Grand Prix
+### Round 8 – German Grand Prix
 *Date: 1958-08-03*
 
 #### Qualifying Results
@@ -515,7 +515,7 @@
 
 ---
 
-### Round 9: Portuguese Grand Prix
+### Round 9 – Portuguese Grand Prix
 *Date: 1958-08-24*
 
 #### Qualifying Results
@@ -560,7 +560,7 @@
 
 ---
 
-### Round 10: Italian Grand Prix
+### Round 10 – Italian Grand Prix
 *Date: 1958-09-07*
 
 #### Qualifying Results
@@ -617,7 +617,7 @@
 
 ---
 
-### Round 11: Moroccan Grand Prix
+### Round 11 – Moroccan Grand Prix
 *Date: 1958-10-19*
 
 #### Qualifying Results

@@ -23,26 +23,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1602
-   *[2021 Round 17 - United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
+   *[2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1242
-   *[2019 Round 13 - Belgian Grand Prix](../seasons/2019-season-report#round-13-belgian-grand-prix)*
+   *[2019 Round 13 – Belgian Grand Prix](../seasons/2019-season-report#round-13-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1624
-   *[2024 Round 13 - Hungarian Grand Prix](../seasons/2024-season-report#round-13-hungarian-grand-prix)*
+   *[2024 Round 13 – Hungarian Grand Prix](../seasons/2024-season-report#round-13-hungarian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1374
-   *[2017 Round 12 - Belgian Grand Prix](../seasons/2017-season-report#round-12-belgian-grand-prix)*
+   *[2017 Round 12 – Belgian Grand Prix](../seasons/2017-season-report#round-12-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1594
-   *[2024 Round 13 - Hungarian Grand Prix](../seasons/2024-season-report#round-13-hungarian-grand-prix)*
+   *[2024 Round 13 – Hungarian Grand Prix](../seasons/2024-season-report#round-13-hungarian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1390
-   *[2020 Round 1 - Austrian Grand Prix](../seasons/2020-season-report#round-1-austrian-grand-prix)*
+   *[2020 Round 1 – Austrian Grand Prix](../seasons/2020-season-report#round-1-austrian-grand-prix)*
 
 
 ## Complete Career Results by Season

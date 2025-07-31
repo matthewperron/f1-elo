@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1504
-   *[1950 Round 5 - Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix)*
+   *[1950 Round 5 – Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1429
-   *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
+   *[1951 Round 7 – Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1500
-   *[1950 Round 5 - Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix)*
+   *[1950 Round 5 – Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1476
-   *[1951 Round 6 - German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
+   *[1951 Round 6 – German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1501
-   *[1950 Round 5 - Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix)*
+   *[1950 Round 5 – Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1466
-   *[1951 Round 6 - German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
+   *[1951 Round 6 – German Grand Prix](../seasons/1951-season-report#round-6-german-grand-prix)*
 
 
 ## Complete Career Results by Season

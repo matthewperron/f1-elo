@@ -16,18 +16,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1496
-   *[1967 Round 8 - Canadian Grand Prix](../seasons/1967-season-report#round-8-canadian-grand-prix)*
+   *[1967 Round 8 – Canadian Grand Prix](../seasons/1967-season-report#round-8-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1474
-   *[1974 Round 14 - Canadian Grand Prix](../seasons/1974-season-report#round-14-canadian-grand-prix)*
+   *[1974 Round 14 – Canadian Grand Prix](../seasons/1974-season-report#round-14-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1967 Round 8 - Canadian Grand Prix](../seasons/1967-season-report#round-8-canadian-grand-prix)*
+   *[1967 Round 8 – Canadian Grand Prix](../seasons/1967-season-report#round-8-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1492
-   *[1974 Round 14 - Canadian Grand Prix](../seasons/1974-season-report#round-14-canadian-grand-prix)*
+   *[1974 Round 14 – Canadian Grand Prix](../seasons/1974-season-report#round-14-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

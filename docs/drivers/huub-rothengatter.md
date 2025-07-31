@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1472
-   *[1986 Round 3 - San Marino Grand Prix](../seasons/1986-season-report#round-3-san-marino-grand-prix)*
+   *[1986 Round 3 – San Marino Grand Prix](../seasons/1986-season-report#round-3-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1333
-   *[1986 Round 16 - Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
+   *[1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1492
-   *[1986 Round 3 - San Marino Grand Prix](../seasons/1986-season-report#round-3-san-marino-grand-prix)*
+   *[1986 Round 3 – San Marino Grand Prix](../seasons/1986-season-report#round-3-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1450
-   *[1986 Round 16 - Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
+   *[1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

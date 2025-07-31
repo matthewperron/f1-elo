@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1836
-   *[2025 Round 3 - Japanese Grand Prix](../seasons/2025-season-report#round-3-japanese-grand-prix)*
+   *[2025 Round 3 – Japanese Grand Prix](../seasons/2025-season-report#round-3-japanese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1354
-   *[2020 Round 17 - Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
+   *[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1854
-   *[2024 Round 17 - Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix)*
+   *[2024 Round 17 – Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix)*
 
 📉 **Lowest Race Elo**: 1424
-   *[2019 Round 11 - German Grand Prix](../seasons/2019-season-report#round-11-german-grand-prix)*
+   *[2019 Round 11 – German Grand Prix](../seasons/2019-season-report#round-11-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1831
-   *[2025 Round 3 - Japanese Grand Prix](../seasons/2025-season-report#round-3-japanese-grand-prix)*
+   *[2025 Round 3 – Japanese Grand Prix](../seasons/2025-season-report#round-3-japanese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1428
-   *[2019 Round 11 - German Grand Prix](../seasons/2019-season-report#round-11-german-grand-prix)*
+   *[2019 Round 11 – German Grand Prix](../seasons/2019-season-report#round-11-german-grand-prix)*
 
 
 ## Complete Career Results by Season

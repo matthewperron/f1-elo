@@ -1,10 +1,10 @@
-# 2025 F1 Season - ELO Analysis
+# 2025 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2: Chinese Grand Prix](#round-2-chinese-grand-prix) • [Round 3: Japanese Grand Prix](#round-3-japanese-grand-prix) • [Round 4: Bahrain Grand Prix](#round-4-bahrain-grand-prix) • [Round 5: Saudi Arabian Grand Prix](#round-5-saudi-arabian-grand-prix) • [Round 6: Miami Grand Prix](#round-6-miami-grand-prix) • [Round 7: Emilia Romagna Grand Prix](#round-7-emilia-romagna-grand-prix) • [Round 8: Monaco Grand Prix](#round-8-monaco-grand-prix) • [Round 9: Spanish Grand Prix](#round-9-spanish-grand-prix) • [Round 10: Canadian Grand Prix](#round-10-canadian-grand-prix) • [Round 11: Austrian Grand Prix](#round-11-austrian-grand-prix) • [Round 12: British Grand Prix](#round-12-british-grand-prix) • [Round 13: Belgian Grand Prix](#round-13-belgian-grand-prix)
+[Round 1 – Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2 – Chinese Grand Prix](#round-2-chinese-grand-prix) • [Round 3 – Japanese Grand Prix](#round-3-japanese-grand-prix) • [Round 4 – Bahrain Grand Prix](#round-4-bahrain-grand-prix) • [Round 5 – Saudi Arabian Grand Prix](#round-5-saudi-arabian-grand-prix) • [Round 6 – Miami Grand Prix](#round-6-miami-grand-prix) • [Round 7 – Emilia Romagna Grand Prix](#round-7-emilia-romagna-grand-prix) • [Round 8 – Monaco Grand Prix](#round-8-monaco-grand-prix) • [Round 9 – Spanish Grand Prix](#round-9-spanish-grand-prix) • [Round 10 – Canadian Grand Prix](#round-10-canadian-grand-prix) • [Round 11 – Austrian Grand Prix](#round-11-austrian-grand-prix) • [Round 12 – British Grand Prix](#round-12-british-grand-prix) • [Round 13 – Belgian Grand Prix](#round-13-belgian-grand-prix)
 
 📊 **[View Complete F1 2025 Season Results](https://www.formula1.com/en/results.html/2025/races.html)** | **[Wikipedia 2025 F1 Season](https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship)**
 
@@ -38,7 +38,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Australian Grand Prix
+### Round 1 – Australian Grand Prix
 *Date: 2025-03-16*
 
 #### Qualifying Results
@@ -93,7 +93,7 @@
 
 ---
 
-### Round 2: Chinese Grand Prix
+### Round 2 – Chinese Grand Prix
 *Date: 2025-03-23*
 
 #### Qualifying Results
@@ -148,7 +148,7 @@
 
 ---
 
-### Round 3: Japanese Grand Prix
+### Round 3 – Japanese Grand Prix
 *Date: 2025-04-06*
 
 #### Qualifying Results
@@ -203,7 +203,7 @@
 
 ---
 
-### Round 4: Bahrain Grand Prix
+### Round 4 – Bahrain Grand Prix
 *Date: 2025-04-13*
 
 #### Qualifying Results
@@ -258,7 +258,7 @@
 
 ---
 
-### Round 5: Saudi Arabian Grand Prix
+### Round 5 – Saudi Arabian Grand Prix
 *Date: 2025-04-20*
 
 #### Qualifying Results
@@ -313,7 +313,7 @@
 
 ---
 
-### Round 6: Miami Grand Prix
+### Round 6 – Miami Grand Prix
 *Date: 2025-05-04*
 
 #### Qualifying Results
@@ -368,7 +368,7 @@
 
 ---
 
-### Round 7: Emilia Romagna Grand Prix
+### Round 7 – Emilia Romagna Grand Prix
 *Date: 2025-05-18*
 
 #### Qualifying Results
@@ -423,7 +423,7 @@
 
 ---
 
-### Round 8: Monaco Grand Prix
+### Round 8 – Monaco Grand Prix
 *Date: 2025-05-25*
 
 #### Qualifying Results
@@ -478,7 +478,7 @@
 
 ---
 
-### Round 9: Spanish Grand Prix
+### Round 9 – Spanish Grand Prix
 *Date: 2025-06-01*
 
 #### Qualifying Results
@@ -531,7 +531,7 @@
 
 ---
 
-### Round 10: Canadian Grand Prix
+### Round 10 – Canadian Grand Prix
 *Date: 2025-06-15*
 
 #### Qualifying Results
@@ -586,7 +586,7 @@
 
 ---
 
-### Round 11: Austrian Grand Prix
+### Round 11 – Austrian Grand Prix
 *Date: 2025-06-29*
 
 #### Qualifying Results
@@ -641,7 +641,7 @@
 
 ---
 
-### Round 12: British Grand Prix
+### Round 12 – British Grand Prix
 *Date: 2025-07-06*
 
 #### Qualifying Results
@@ -696,7 +696,7 @@
 
 ---
 
-### Round 13: Belgian Grand Prix
+### Round 13 – Belgian Grand Prix
 *Date: 2025-07-27*
 
 #### Qualifying Results

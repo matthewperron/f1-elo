@@ -23,26 +23,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1955
-   *[1974 Round 14 - Canadian Grand Prix](../seasons/1974-season-report#round-14-canadian-grand-prix)*
+   *[1974 Round 14 – Canadian Grand Prix](../seasons/1974-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1476
-   *[1970 Round 12 - United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
+   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1769
-   *[1976 Round 1 - Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
+   *[1976 Round 1 – Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1473
-   *[1970 Round 12 - United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
+   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1802
-   *[1975 Round 10 - British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
+   *[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1478
-   *[1970 Round 12 - United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
+   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

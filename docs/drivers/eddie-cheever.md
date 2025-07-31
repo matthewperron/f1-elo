@@ -23,26 +23,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1709
-   *[1982 Round 8 - Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
+   *[1982 Round 8 – Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1336
-   *[1989 Round 14 - Spanish Grand Prix](../seasons/1989-season-report#round-14-spanish-grand-prix)*
+   *[1989 Round 14 – Spanish Grand Prix](../seasons/1989-season-report#round-14-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1601
-   *[1982 Round 7 - Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
+   *[1982 Round 7 – Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
 
 📉 **Lowest Race Elo**: 1399
-   *[1989 Round 2 - San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix)*
+   *[1989 Round 2 – San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1632
-   *[1982 Round 8 - Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
+   *[1982 Round 8 – Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1397
-   *[1989 Round 4 - Mexican Grand Prix](../seasons/1989-season-report#round-4-mexican-grand-prix)*
+   *[1989 Round 4 – Mexican Grand Prix](../seasons/1989-season-report#round-4-mexican-grand-prix)*
 
 
 ## Complete Career Results by Season

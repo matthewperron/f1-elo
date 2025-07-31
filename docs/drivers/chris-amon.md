@@ -27,26 +27,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1780
-   *[1971 Round 4 - Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
+   *[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1462
-   *[1963 Round 1 - Monaco Grand Prix](../seasons/1963-season-report#round-1-monaco-grand-prix)*
+   *[1963 Round 1 – Monaco Grand Prix](../seasons/1963-season-report#round-1-monaco-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1599
-   *[1971 Round 10 - Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
+   *[1971 Round 10 – Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1460
-   *[1966 Round 3 - French Grand Prix](../seasons/1966-season-report#round-3-french-grand-prix)*
+   *[1966 Round 3 – French Grand Prix](../seasons/1966-season-report#round-3-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1647
-   *[1971 Round 10 - Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
+   *[1971 Round 10 – Canadian Grand Prix](../seasons/1971-season-report#round-10-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1471
-   *[1964 Round 4 - French Grand Prix](../seasons/1964-season-report#round-4-french-grand-prix)*
+   *[1964 Round 4 – French Grand Prix](../seasons/1964-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Career Results by Season

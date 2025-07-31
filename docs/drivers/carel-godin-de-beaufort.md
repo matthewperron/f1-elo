@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1484
-   *[1957 Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
+   *[1957 Round 6 – German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1363
-   *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
+   *[1963 Round 6 – German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1484
-   *[1957 Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
+   *[1957 Round 6 – German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1404
-   *[1962 Round 6 - German Grand Prix](../seasons/1962-season-report#round-6-german-grand-prix)*
+   *[1962 Round 6 – German Grand Prix](../seasons/1962-season-report#round-6-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1484
-   *[1957 Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
+   *[1957 Round 6 – German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1393
-   *[1963 Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
+   *[1963 Round 6 – German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix)*
 
 
 ## Complete Career Results by Season

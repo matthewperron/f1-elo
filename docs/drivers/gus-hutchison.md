@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1492
-   *[1970 Round 12 - United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
+   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1479
-   *[1970 Round 12 - United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
+   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1498
-   *[1970 Round 12 - United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
+   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1494
-   *[1970 Round 12 - United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
+   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

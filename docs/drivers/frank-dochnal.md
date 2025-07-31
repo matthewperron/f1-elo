@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1489
-   *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
+   *[1963 Round 9 – Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1477
-   *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
+   *[1963 Round 9 – Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1497
-   *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
+   *[1963 Round 9 – Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
 📉 **Lowest Global Elo**: 1493
-   *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
+   *[1963 Round 9 – Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
 
 ## Complete Career Results by Season

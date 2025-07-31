@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1505
-   *[1963 Round 9 - Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
+   *[1963 Round 9 – Mexican Grand Prix](../seasons/1963-season-report#round-9-mexican-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1419
-   *[1963 Round 4 - French Grand Prix](../seasons/1963-season-report#round-4-french-grand-prix)*
+   *[1963 Round 4 – French Grand Prix](../seasons/1963-season-report#round-4-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1528
-   *[1963 Round 2 - Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
+   *[1963 Round 2 – Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1488
-   *[1960 Round 10 - United States Grand Prix](../seasons/1960-season-report#round-10-united-states-grand-prix)*
+   *[1960 Round 10 – United States Grand Prix](../seasons/1960-season-report#round-10-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1513
-   *[1963 Round 2 - Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
+   *[1963 Round 2 – Belgian Grand Prix](../seasons/1963-season-report#round-2-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1470
-   *[1963 Round 4 - French Grand Prix](../seasons/1963-season-report#round-4-french-grand-prix)*
+   *[1963 Round 4 – French Grand Prix](../seasons/1963-season-report#round-4-french-grand-prix)*
 
 
 ## Complete Career Results by Season

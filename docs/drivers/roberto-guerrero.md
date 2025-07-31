@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1581
-   *[1983 Round 8 - Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
+   *[1983 Round 8 – Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1463
-   *[1983 Round 3 - French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix)*
+   *[1983 Round 3 – French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1468
-   *[1983 Round 4 - San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
+   *[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Race Elo**: 1442
-   *[1983 Round 13 - Italian Grand Prix](../seasons/1983-season-report#round-13-italian-grand-prix)*
+   *[1983 Round 13 – Italian Grand Prix](../seasons/1983-season-report#round-13-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1510
-   *[1983 Round 1 - Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)*
+   *[1983 Round 1 – Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1478
-   *[1983 Round 4 - San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
+   *[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

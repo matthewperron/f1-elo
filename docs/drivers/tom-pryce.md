@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1717
-   *[1977 Round 3 - South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)*
+   *[1977 Round 3 – South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1431
-   *[1975 Round 3 - South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
+   *[1975 Round 3 – South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1630
-   *[1976 Round 14 - Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
+   *[1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1436
-   *[1975 Round 4 - Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix)*
+   *[1975 Round 4 – Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1656
-   *[1977 Round 3 - South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)*
+   *[1977 Round 3 – South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1450
-   *[1975 Round 4 - Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix)*
+   *[1975 Round 4 – Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix)*
 
 
 ## Complete Career Results by Season

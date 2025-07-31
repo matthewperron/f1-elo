@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1897
-   *[2023 Round 11 - Hungarian Grand Prix](../seasons/2023-season-report#round-11-hungarian-grand-prix)*
+   *[2023 Round 11 – Hungarian Grand Prix](../seasons/2023-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1455
-   *[2019 Round 19 - United States Grand Prix](../seasons/2019-season-report#round-19-united-states-grand-prix)*
+   *[2019 Round 19 – United States Grand Prix](../seasons/2019-season-report#round-19-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1766
-   *[2024 Round 7 - Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)*
+   *[2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)*
 
 📉 **Lowest Race Elo**: 1430
-   *[2019 Round 8 - French Grand Prix](../seasons/2019-season-report#round-8-french-grand-prix)*
+   *[2019 Round 8 – French Grand Prix](../seasons/2019-season-report#round-8-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1785
-   *[2022 Round 19 - United States Grand Prix](../seasons/2022-season-report#round-19-united-states-grand-prix)*
+   *[2022 Round 19 – United States Grand Prix](../seasons/2022-season-report#round-19-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1458
-   *[2019 Round 18 - Mexican Grand Prix](../seasons/2019-season-report#round-18-mexican-grand-prix)*
+   *[2019 Round 18 – Mexican Grand Prix](../seasons/2019-season-report#round-18-mexican-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1747
-   *[1981 Round 5 - Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix)*
+   *[1981 Round 5 – Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1446
-   *[1982 Round 14 - Swiss Grand Prix](../seasons/1982-season-report#round-14-swiss-grand-prix)*
+   *[1982 Round 14 – Swiss Grand Prix](../seasons/1982-season-report#round-14-swiss-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1580
-   *[1981 Round 6 - Monaco Grand Prix](../seasons/1981-season-report#round-6-monaco-grand-prix)*
+   *[1981 Round 6 – Monaco Grand Prix](../seasons/1981-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1333
-   *[1983 Round 14 - European Grand Prix](../seasons/1983-season-report#round-14-european-grand-prix)*
+   *[1983 Round 14 – European Grand Prix](../seasons/1983-season-report#round-14-european-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1618
-   *[1981 Round 6 - Monaco Grand Prix](../seasons/1981-season-report#round-6-monaco-grand-prix)*
+   *[1981 Round 6 – Monaco Grand Prix](../seasons/1981-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1370
-   *[1983 Round 15 - South African Grand Prix](../seasons/1983-season-report#round-15-south-african-grand-prix)*
+   *[1983 Round 15 – South African Grand Prix](../seasons/1983-season-report#round-15-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

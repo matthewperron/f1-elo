@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1496
-   *[2013 Round 7 - Canadian Grand Prix](../seasons/2013-season-report#round-7-canadian-grand-prix)*
+   *[2013 Round 7 – Canadian Grand Prix](../seasons/2013-season-report#round-7-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1344
-   *[2014 Round 16 - Russian Grand Prix](../seasons/2014-season-report#round-16-russian-grand-prix)*
+   *[2014 Round 16 – Russian Grand Prix](../seasons/2014-season-report#round-16-russian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1592
-   *[2012 Round 5 - Spanish Grand Prix](../seasons/2012-season-report#round-5-spanish-grand-prix)*
+   *[2012 Round 5 – Spanish Grand Prix](../seasons/2012-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1411
-   *[2014 Round 13 - Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
+   *[2014 Round 13 – Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1552
-   *[2012 Round 5 - Spanish Grand Prix](../seasons/2012-season-report#round-5-spanish-grand-prix)*
+   *[2012 Round 5 – Spanish Grand Prix](../seasons/2012-season-report#round-5-spanish-grand-prix)*
 
 📉 **Lowest Global Elo**: 1409
-   *[2014 Round 10 - German Grand Prix](../seasons/2014-season-report#round-10-german-grand-prix)*
+   *[2014 Round 10 – German Grand Prix](../seasons/2014-season-report#round-10-german-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1486
-   *[1981 Round 2 - Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
+   *[1981 Round 2 – Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1415
-   *[1981 Round 12 - Dutch Grand Prix](../seasons/1981-season-report#round-12-dutch-grand-prix)*
+   *[1981 Round 12 – Dutch Grand Prix](../seasons/1981-season-report#round-12-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1467
-   *[1981 Round 2 - Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
+   *[1981 Round 2 – Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1418
-   *[1981 Round 5 - Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix)*
+   *[1981 Round 5 – Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1473
-   *[1981 Round 2 - Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
+   *[1981 Round 2 – Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1417
-   *[1981 Round 12 - Dutch Grand Prix](../seasons/1981-season-report#round-12-dutch-grand-prix)*
+   *[1981 Round 12 – Dutch Grand Prix](../seasons/1981-season-report#round-12-dutch-grand-prix)*
 
 
 ## Complete Career Results by Season

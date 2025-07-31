@@ -1,10 +1,10 @@
-# 2013 F1 Season - ELO Analysis
+# 2013 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2: Malaysian Grand Prix](#round-2-malaysian-grand-prix) • [Round 3: Chinese Grand Prix](#round-3-chinese-grand-prix) • [Round 4: Bahrain Grand Prix](#round-4-bahrain-grand-prix) • [Round 5: Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6: Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7: Canadian Grand Prix](#round-7-canadian-grand-prix) • [Round 8: British Grand Prix](#round-8-british-grand-prix) • [Round 9: German Grand Prix](#round-9-german-grand-prix) • [Round 10: Hungarian Grand Prix](#round-10-hungarian-grand-prix) • [Round 11: Belgian Grand Prix](#round-11-belgian-grand-prix) • [Round 12: Italian Grand Prix](#round-12-italian-grand-prix) • [Round 13: Singapore Grand Prix](#round-13-singapore-grand-prix) • [Round 14: Korean Grand Prix](#round-14-korean-grand-prix) • [Round 15: Japanese Grand Prix](#round-15-japanese-grand-prix) • [Round 16: Indian Grand Prix](#round-16-indian-grand-prix) • [Round 17: Abu Dhabi Grand Prix](#round-17-abu-dhabi-grand-prix) • [Round 18: United States Grand Prix](#round-18-united-states-grand-prix) • [Round 19: Brazilian Grand Prix](#round-19-brazilian-grand-prix)
+[Round 1 – Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2 – Malaysian Grand Prix](#round-2-malaysian-grand-prix) • [Round 3 – Chinese Grand Prix](#round-3-chinese-grand-prix) • [Round 4 – Bahrain Grand Prix](#round-4-bahrain-grand-prix) • [Round 5 – Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6 – Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7 – Canadian Grand Prix](#round-7-canadian-grand-prix) • [Round 8 – British Grand Prix](#round-8-british-grand-prix) • [Round 9 – German Grand Prix](#round-9-german-grand-prix) • [Round 10 – Hungarian Grand Prix](#round-10-hungarian-grand-prix) • [Round 11 – Belgian Grand Prix](#round-11-belgian-grand-prix) • [Round 12 – Italian Grand Prix](#round-12-italian-grand-prix) • [Round 13 – Singapore Grand Prix](#round-13-singapore-grand-prix) • [Round 14 – Korean Grand Prix](#round-14-korean-grand-prix) • [Round 15 – Japanese Grand Prix](#round-15-japanese-grand-prix) • [Round 16 – Indian Grand Prix](#round-16-indian-grand-prix) • [Round 17 – Abu Dhabi Grand Prix](#round-17-abu-dhabi-grand-prix) • [Round 18 – United States Grand Prix](#round-18-united-states-grand-prix) • [Round 19 – Brazilian Grand Prix](#round-19-brazilian-grand-prix)
 
 📊 **[View Complete F1 2013 Season Results](https://www.formula1.com/en/results.html/2013/races.html)** | **[Wikipedia 2013 F1 Season](https://en.wikipedia.org/wiki/2013_Formula_One_World_Championship)**
 
@@ -40,7 +40,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Australian Grand Prix
+### Round 1 – Australian Grand Prix
 *Date: 2013-03-17*
 
 #### Qualifying Results
@@ -99,7 +99,7 @@
 
 ---
 
-### Round 2: Malaysian Grand Prix
+### Round 2 – Malaysian Grand Prix
 *Date: 2013-03-24*
 
 #### Qualifying Results
@@ -158,7 +158,7 @@
 
 ---
 
-### Round 3: Chinese Grand Prix
+### Round 3 – Chinese Grand Prix
 *Date: 2013-04-14*
 
 #### Qualifying Results
@@ -217,7 +217,7 @@
 
 ---
 
-### Round 4: Bahrain Grand Prix
+### Round 4 – Bahrain Grand Prix
 *Date: 2013-04-21*
 
 #### Qualifying Results
@@ -276,7 +276,7 @@
 
 ---
 
-### Round 5: Spanish Grand Prix
+### Round 5 – Spanish Grand Prix
 *Date: 2013-05-12*
 
 #### Qualifying Results
@@ -335,7 +335,7 @@
 
 ---
 
-### Round 6: Monaco Grand Prix
+### Round 6 – Monaco Grand Prix
 *Date: 2013-05-26*
 
 #### Qualifying Results
@@ -394,7 +394,7 @@
 
 ---
 
-### Round 7: Canadian Grand Prix
+### Round 7 – Canadian Grand Prix
 *Date: 2013-06-09*
 
 #### Qualifying Results
@@ -453,7 +453,7 @@
 
 ---
 
-### Round 8: British Grand Prix
+### Round 8 – British Grand Prix
 *Date: 2013-06-30*
 
 #### Qualifying Results
@@ -512,7 +512,7 @@
 
 ---
 
-### Round 9: German Grand Prix
+### Round 9 – German Grand Prix
 *Date: 2013-07-07*
 
 #### Qualifying Results
@@ -571,7 +571,7 @@
 
 ---
 
-### Round 10: Hungarian Grand Prix
+### Round 10 – Hungarian Grand Prix
 *Date: 2013-07-28*
 
 #### Qualifying Results
@@ -630,7 +630,7 @@
 
 ---
 
-### Round 11: Belgian Grand Prix
+### Round 11 – Belgian Grand Prix
 *Date: 2013-08-25*
 
 #### Qualifying Results
@@ -689,7 +689,7 @@
 
 ---
 
-### Round 12: Italian Grand Prix
+### Round 12 – Italian Grand Prix
 *Date: 2013-09-08*
 
 #### Qualifying Results
@@ -748,7 +748,7 @@
 
 ---
 
-### Round 13: Singapore Grand Prix
+### Round 13 – Singapore Grand Prix
 *Date: 2013-09-22*
 
 #### Qualifying Results
@@ -807,7 +807,7 @@
 
 ---
 
-### Round 14: Korean Grand Prix
+### Round 14 – Korean Grand Prix
 *Date: 2013-10-06*
 
 #### Qualifying Results
@@ -866,7 +866,7 @@
 
 ---
 
-### Round 15: Japanese Grand Prix
+### Round 15 – Japanese Grand Prix
 *Date: 2013-10-13*
 
 #### Qualifying Results
@@ -925,7 +925,7 @@
 
 ---
 
-### Round 16: Indian Grand Prix
+### Round 16 – Indian Grand Prix
 *Date: 2013-10-27*
 
 #### Qualifying Results
@@ -984,7 +984,7 @@
 
 ---
 
-### Round 17: Abu Dhabi Grand Prix
+### Round 17 – Abu Dhabi Grand Prix
 *Date: 2013-11-03*
 
 #### Qualifying Results
@@ -1043,7 +1043,7 @@
 
 ---
 
-### Round 18: United States Grand Prix
+### Round 18 – United States Grand Prix
 *Date: 2013-11-17*
 
 #### Qualifying Results
@@ -1102,7 +1102,7 @@
 
 ---
 
-### Round 19: Brazilian Grand Prix
+### Round 19 – Brazilian Grand Prix
 *Date: 2013-11-24*
 
 #### Qualifying Results

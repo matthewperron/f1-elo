@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1496
-   *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
+   *[1951 Round 7 – Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1415
-   *[1956 Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
+   *[1956 Round 1 – Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1495
-   *[1952 Round 8 - Italian Grand Prix](../seasons/1952-season-report#round-8-italian-grand-prix)*
+   *[1952 Round 8 – Italian Grand Prix](../seasons/1952-season-report#round-8-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1486
-   *[1956 Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
+   *[1956 Round 1 – Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1951 Round 7 - Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
+   *[1951 Round 7 – Italian Grand Prix](../seasons/1951-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1464
-   *[1956 Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
+   *[1956 Round 1 – Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
 
 
 ## Complete Career Results by Season

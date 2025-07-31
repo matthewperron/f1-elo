@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1478
-   *[1970 Round 4 - Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
+   *[1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1420
-   *[1970 Round 10 - Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
+   *[1970 Round 10 – Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1546
-   *[1970 Round 4 - Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
+   *[1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1516
-   *[1970 Round 9 - Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix)*
+   *[1970 Round 9 – Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1526
-   *[1970 Round 4 - Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
+   *[1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1487
-   *[1970 Round 10 - Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
+   *[1970 Round 10 – Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

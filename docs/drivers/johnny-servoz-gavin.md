@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1532
-   *[1968 Round 6 - French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
+   *[1968 Round 6 – French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1437
-   *[1970 Round 2 - Spanish Grand Prix](../seasons/1970-season-report#round-2-spanish-grand-prix)*
+   *[1970 Round 2 – Spanish Grand Prix](../seasons/1970-season-report#round-2-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1474
-   *[1969 Round 9 - Canadian Grand Prix](../seasons/1969-season-report#round-9-canadian-grand-prix)*
+   *[1969 Round 9 – Canadian Grand Prix](../seasons/1969-season-report#round-9-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1434
-   *[1970 Round 2 - Spanish Grand Prix](../seasons/1970-season-report#round-2-spanish-grand-prix)*
+   *[1970 Round 2 – Spanish Grand Prix](../seasons/1970-season-report#round-2-spanish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1487
-   *[1968 Round 6 - French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
+   *[1968 Round 6 – French Grand Prix](../seasons/1968-season-report#round-6-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1437
-   *[1970 Round 2 - Spanish Grand Prix](../seasons/1970-season-report#round-2-spanish-grand-prix)*
+   *[1970 Round 2 – Spanish Grand Prix](../seasons/1970-season-report#round-2-spanish-grand-prix)*
 
 
 ## Complete Career Results by Season

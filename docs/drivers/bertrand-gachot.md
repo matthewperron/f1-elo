@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1640
-   *[1995 Round 1 - Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
+   *[1995 Round 1 – Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1375
-   *[1991 Round 9 - German Grand Prix](../seasons/1991-season-report#round-9-german-grand-prix)*
+   *[1991 Round 9 – German Grand Prix](../seasons/1991-season-report#round-9-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1481
-   *[1989 Round 11 - Belgian Grand Prix](../seasons/1989-season-report#round-11-belgian-grand-prix)*
+   *[1989 Round 11 – Belgian Grand Prix](../seasons/1989-season-report#round-11-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1366
-   *[1995 Round 2 - Argentine Grand Prix](../seasons/1995-season-report#round-2-argentine-grand-prix)*
+   *[1995 Round 2 – Argentine Grand Prix](../seasons/1995-season-report#round-2-argentine-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1519
-   *[1989 Round 10 - Hungarian Grand Prix](../seasons/1989-season-report#round-10-hungarian-grand-prix)*
+   *[1989 Round 10 – Hungarian Grand Prix](../seasons/1989-season-report#round-10-hungarian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1397
-   *[1992 Round 1 - South African Grand Prix](../seasons/1992-season-report#round-1-south-african-grand-prix)*
+   *[1992 Round 1 – South African Grand Prix](../seasons/1992-season-report#round-1-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

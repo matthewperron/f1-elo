@@ -1,10 +1,10 @@
-# 1967 F1 Season - ELO Analysis
+# 1967 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: South African Grand Prix](#round-1-south-african-grand-prix) • [Round 2: Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3: Dutch Grand Prix](#round-3-dutch-grand-prix) • [Round 4: Belgian Grand Prix](#round-4-belgian-grand-prix) • [Round 5: French Grand Prix](#round-5-french-grand-prix) • [Round 6: British Grand Prix](#round-6-british-grand-prix) • [Round 7: German Grand Prix](#round-7-german-grand-prix) • [Round 8: Canadian Grand Prix](#round-8-canadian-grand-prix) • [Round 9: Italian Grand Prix](#round-9-italian-grand-prix) • [Round 10: United States Grand Prix](#round-10-united-states-grand-prix) • [Round 11: Mexican Grand Prix](#round-11-mexican-grand-prix)
+[Round 1 – South African Grand Prix](#round-1-south-african-grand-prix) • [Round 2 – Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3 – Dutch Grand Prix](#round-3-dutch-grand-prix) • [Round 4 – Belgian Grand Prix](#round-4-belgian-grand-prix) • [Round 5 – French Grand Prix](#round-5-french-grand-prix) • [Round 6 – British Grand Prix](#round-6-british-grand-prix) • [Round 7 – German Grand Prix](#round-7-german-grand-prix) • [Round 8 – Canadian Grand Prix](#round-8-canadian-grand-prix) • [Round 9 – Italian Grand Prix](#round-9-italian-grand-prix) • [Round 10 – United States Grand Prix](#round-10-united-states-grand-prix) • [Round 11 – Mexican Grand Prix](#round-11-mexican-grand-prix)
 
 📊 **[View Complete F1 1967 Season Results](https://www.formula1.com/en/results.html/1967/races.html)** | **[Wikipedia 1967 F1 Season](https://en.wikipedia.org/wiki/1967_Formula_One_World_Championship)**
 
@@ -53,7 +53,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: South African Grand Prix
+### Round 1 – South African Grand Prix
 *Date: 1967-01-02*
 
 #### Qualifying Results
@@ -104,7 +104,7 @@
 
 ---
 
-### Round 2: Monaco Grand Prix
+### Round 2 – Monaco Grand Prix
 *Date: 1967-05-07*
 
 #### Qualifying Results
@@ -151,7 +151,7 @@
 
 ---
 
-### Round 3: Dutch Grand Prix
+### Round 3 – Dutch Grand Prix
 *Date: 1967-06-04*
 
 #### Qualifying Results
@@ -200,7 +200,7 @@
 
 ---
 
-### Round 4: Belgian Grand Prix
+### Round 4 – Belgian Grand Prix
 *Date: 1967-06-18*
 
 #### Qualifying Results
@@ -251,7 +251,7 @@
 
 ---
 
-### Round 5: French Grand Prix
+### Round 5 – French Grand Prix
 *Date: 1967-07-02*
 
 #### Qualifying Results
@@ -296,7 +296,7 @@
 
 ---
 
-### Round 6: British Grand Prix
+### Round 6 – British Grand Prix
 *Date: 1967-07-15*
 
 #### Qualifying Results
@@ -353,7 +353,7 @@
 
 ---
 
-### Round 7: German Grand Prix
+### Round 7 – German Grand Prix
 *Date: 1967-08-06*
 
 #### Qualifying Results
@@ -416,7 +416,7 @@
 
 ---
 
-### Round 8: Canadian Grand Prix
+### Round 8 – Canadian Grand Prix
 *Date: 1967-08-27*
 
 #### Qualifying Results
@@ -465,7 +465,7 @@
 
 ---
 
-### Round 9: Italian Grand Prix
+### Round 9 – Italian Grand Prix
 *Date: 1967-09-10*
 
 #### Qualifying Results
@@ -516,7 +516,7 @@
 
 ---
 
-### Round 10: United States Grand Prix
+### Round 10 – United States Grand Prix
 *Date: 1967-10-01*
 
 #### Qualifying Results
@@ -567,7 +567,7 @@
 
 ---
 
-### Round 11: Mexican Grand Prix
+### Round 11 – Mexican Grand Prix
 *Date: 1967-10-22*
 
 #### Qualifying Results

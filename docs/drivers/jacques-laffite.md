@@ -25,26 +25,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1817
-   *[1980 Round 1 - Argentine Grand Prix](../seasons/1980-season-report#round-1-argentine-grand-prix)*
+   *[1980 Round 1 – Argentine Grand Prix](../seasons/1980-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1370
-   *[1986 Round 9 - British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
+   *[1986 Round 9 – British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1716
-   *[1980 Round 3 - South African Grand Prix](../seasons/1980-season-report#round-3-south-african-grand-prix)*
+   *[1980 Round 3 – South African Grand Prix](../seasons/1980-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Race Elo**: 1467
-   *[1986 Round 9 - British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
+   *[1986 Round 9 – British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1740
-   *[1980 Round 1 - Argentine Grand Prix](../seasons/1980-season-report#round-1-argentine-grand-prix)*
+   *[1980 Round 1 – Argentine Grand Prix](../seasons/1980-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1437
-   *[1986 Round 9 - British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
+   *[1986 Round 9 – British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)*
 
 
 ## Complete Career Results by Season

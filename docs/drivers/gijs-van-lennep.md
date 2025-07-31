@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1494
-   *[1971 Round 4 - Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
+   *[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1390
-   *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
+   *[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1529
-   *[1973 Round 10 - Dutch Grand Prix](../seasons/1973-season-report#round-10-dutch-grand-prix)*
+   *[1973 Round 10 – Dutch Grand Prix](../seasons/1973-season-report#round-10-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1491
-   *[1971 Round 4 - Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
+   *[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1506
-   *[1973 Round 10 - Dutch Grand Prix](../seasons/1973-season-report#round-10-dutch-grand-prix)*
+   *[1973 Round 10 – Dutch Grand Prix](../seasons/1973-season-report#round-10-dutch-grand-prix)*
 
 📉 **Lowest Global Elo**: 1487
-   *[1974 Round 5 - Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
+   *[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

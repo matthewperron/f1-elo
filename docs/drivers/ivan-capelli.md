@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1620
-   *[1989 Round 2 - San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix)*
+   *[1989 Round 2 – San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1379
-   *[1993 Round 1 - South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
+   *[1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1583
-   *[1988 Round 16 - Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)*
+   *[1988 Round 16 – Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1389
-   *[1992 Round 7 - Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
+   *[1992 Round 7 – Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1593
-   *[1989 Round 2 - San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix)*
+   *[1989 Round 2 – San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1403
-   *[1992 Round 10 - German Grand Prix](../seasons/1992-season-report#round-10-german-grand-prix)*
+   *[1992 Round 10 – German Grand Prix](../seasons/1992-season-report#round-10-german-grand-prix)*
 
 
 ## Complete Career Results by Season

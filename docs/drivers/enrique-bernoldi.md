@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1538
-   *[2001 Round 6 - Austrian Grand Prix](../seasons/2001-season-report#round-6-austrian-grand-prix)*
+   *[2001 Round 6 – Austrian Grand Prix](../seasons/2001-season-report#round-6-austrian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1416
-   *[2001 Round 11 - British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix)*
+   *[2001 Round 11 – British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1514
-   *[2002 Round 9 - European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix)*
+   *[2002 Round 9 – European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix)*
 
 📉 **Lowest Race Elo**: 1416
-   *[2001 Round 11 - British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix)*
+   *[2001 Round 11 – British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[2002 Round 9 - European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix)*
+   *[2002 Round 9 – European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix)*
 
 📉 **Lowest Global Elo**: 1416
-   *[2001 Round 11 - British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix)*
+   *[2001 Round 11 – British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix)*
 
 
 ## Complete Career Results by Season

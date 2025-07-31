@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1658
-   *[1964 Round 1 - Monaco Grand Prix](../seasons/1964-season-report#round-1-monaco-grand-prix)*
+   *[1964 Round 1 – Monaco Grand Prix](../seasons/1964-season-report#round-1-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1454
-   *[1958 Round 11 - Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
+   *[1958 Round 11 – Moroccan Grand Prix](../seasons/1958-season-report#round-11-moroccan-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1589
-   *[1962 Round 3 - Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
+   *[1962 Round 3 – Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1436
-   *[1960 Round 8 - Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
+   *[1960 Round 8 – Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1606
-   *[1962 Round 3 - Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
+   *[1962 Round 3 – Belgian Grand Prix](../seasons/1962-season-report#round-3-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1442
-   *[1960 Round 8 - Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
+   *[1960 Round 8 – Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix)*
 
 
 ## Complete Career Results by Season

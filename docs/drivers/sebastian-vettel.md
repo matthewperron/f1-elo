@@ -30,26 +30,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1898
-   *[2013 Round 14 - Korean Grand Prix](../seasons/2013-season-report#round-14-korean-grand-prix)*
+   *[2013 Round 14 – Korean Grand Prix](../seasons/2013-season-report#round-14-korean-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1417
-   *[2007 Round 12 - Turkish Grand Prix](../seasons/2007-season-report#round-12-turkish-grand-prix)*
+   *[2007 Round 12 – Turkish Grand Prix](../seasons/2007-season-report#round-12-turkish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1896
-   *[2013 Round 19 - Brazilian Grand Prix](../seasons/2013-season-report#round-19-brazilian-grand-prix)*
+   *[2013 Round 19 – Brazilian Grand Prix](../seasons/2013-season-report#round-19-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1405
-   *[2007 Round 15 - Japanese Grand Prix](../seasons/2007-season-report#round-15-japanese-grand-prix)*
+   *[2007 Round 15 – Japanese Grand Prix](../seasons/2007-season-report#round-15-japanese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1882
-   *[2013 Round 14 - Korean Grand Prix](../seasons/2013-season-report#round-14-korean-grand-prix)*
+   *[2013 Round 14 – Korean Grand Prix](../seasons/2013-season-report#round-14-korean-grand-prix)*
 
 📉 **Lowest Global Elo**: 1423
-   *[2007 Round 15 - Japanese Grand Prix](../seasons/2007-season-report#round-15-japanese-grand-prix)*
+   *[2007 Round 15 – Japanese Grand Prix](../seasons/2007-season-report#round-15-japanese-grand-prix)*
 
 
 ## Complete Career Results by Season

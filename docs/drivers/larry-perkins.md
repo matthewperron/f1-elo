@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1490
-   *[1976 Round 14 - Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
+   *[1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1462
-   *[1977 Round 7 - Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
+   *[1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1480
-   *[1976 Round 14 - Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
+   *[1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1452
-   *[1977 Round 7 - Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
+   *[1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1483
-   *[1976 Round 14 - Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
+   *[1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1455
-   *[1977 Round 7 - Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
+   *[1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

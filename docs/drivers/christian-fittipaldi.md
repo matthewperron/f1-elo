@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1671
-   *[1993 Round 10 - German Grand Prix](../seasons/1993-season-report#round-10-german-grand-prix)*
+   *[1993 Round 10 – German Grand Prix](../seasons/1993-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1432
-   *[1992 Round 14 - Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
+   *[1992 Round 14 – Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1631
-   *[1993 Round 12 - Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
+   *[1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1441
-   *[1992 Round 7 - Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
+   *[1992 Round 7 – Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1634
-   *[1993 Round 10 - German Grand Prix](../seasons/1993-season-report#round-10-german-grand-prix)*
+   *[1993 Round 10 – German Grand Prix](../seasons/1993-season-report#round-10-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1447
-   *[1992 Round 7 - Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
+   *[1992 Round 7 – Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

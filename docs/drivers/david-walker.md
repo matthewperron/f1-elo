@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1481
-   *[1972 Round 1 - Argentine Grand Prix](../seasons/1972-season-report#round-1-argentine-grand-prix)*
+   *[1972 Round 1 – Argentine Grand Prix](../seasons/1972-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1408
-   *[1972 Round 7 - British Grand Prix](../seasons/1972-season-report#round-7-british-grand-prix)*
+   *[1972 Round 7 – British Grand Prix](../seasons/1972-season-report#round-7-british-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1486
-   *[1972 Round 2 - South African Grand Prix](../seasons/1972-season-report#round-2-south-african-grand-prix)*
+   *[1972 Round 2 – South African Grand Prix](../seasons/1972-season-report#round-2-south-african-grand-prix)*
 
 📉 **Lowest Race Elo**: 1419
-   *[1972 Round 5 - Belgian Grand Prix](../seasons/1972-season-report#round-5-belgian-grand-prix)*
+   *[1972 Round 5 – Belgian Grand Prix](../seasons/1972-season-report#round-5-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1494
-   *[1972 Round 1 - Argentine Grand Prix](../seasons/1972-season-report#round-1-argentine-grand-prix)*
+   *[1972 Round 1 – Argentine Grand Prix](../seasons/1972-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1417
-   *[1972 Round 7 - British Grand Prix](../seasons/1972-season-report#round-7-british-grand-prix)*
+   *[1972 Round 7 – British Grand Prix](../seasons/1972-season-report#round-7-british-grand-prix)*
 
 
 ## Complete Career Results by Season

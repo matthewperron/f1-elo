@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1572
-   *[1963 Round 10 - South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
+   *[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1424
-   *[1962 Round 8 - United States Grand Prix](../seasons/1962-season-report#round-8-united-states-grand-prix)*
+   *[1962 Round 8 – United States Grand Prix](../seasons/1962-season-report#round-8-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1534
-   *[1962 Round 5 - British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
+   *[1962 Round 5 – British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1468
-   *[1964 Round 7 - Austrian Grand Prix](../seasons/1964-season-report#round-7-austrian-grand-prix)*
+   *[1964 Round 7 – Austrian Grand Prix](../seasons/1964-season-report#round-7-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1520
-   *[1963 Round 8 - United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix)*
+   *[1963 Round 8 – United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1474
-   *[1964 Round 7 - Austrian Grand Prix](../seasons/1964-season-report#round-7-austrian-grand-prix)*
+   *[1964 Round 7 – Austrian Grand Prix](../seasons/1964-season-report#round-7-austrian-grand-prix)*
 
 
 ## Complete Career Results by Season

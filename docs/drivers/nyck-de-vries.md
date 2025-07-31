@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1520
-   *[2023 Round 8 - Canadian Grand Prix](../seasons/2023-season-report#round-8-canadian-grand-prix)*
+   *[2023 Round 8 – Canadian Grand Prix](../seasons/2023-season-report#round-8-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1415
-   *[2023 Round 4 - Azerbaijan Grand Prix](../seasons/2023-season-report#round-4-azerbaijan-grand-prix)*
+   *[2023 Round 4 – Azerbaijan Grand Prix](../seasons/2023-season-report#round-4-azerbaijan-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1520
-   *[2022 Round 16 - Italian Grand Prix](../seasons/2022-season-report#round-16-italian-grand-prix)*
+   *[2022 Round 16 – Italian Grand Prix](../seasons/2022-season-report#round-16-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1412
-   *[2023 Round 5 - Miami Grand Prix](../seasons/2023-season-report#round-5-miami-grand-prix)*
+   *[2023 Round 5 – Miami Grand Prix](../seasons/2023-season-report#round-5-miami-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1519
-   *[2022 Round 16 - Italian Grand Prix](../seasons/2022-season-report#round-16-italian-grand-prix)*
+   *[2022 Round 16 – Italian Grand Prix](../seasons/2022-season-report#round-16-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1426
-   *[2023 Round 4 - Azerbaijan Grand Prix](../seasons/2023-season-report#round-4-azerbaijan-grand-prix)*
+   *[2023 Round 4 – Azerbaijan Grand Prix](../seasons/2023-season-report#round-4-azerbaijan-grand-prix)*
 
 
 ## Complete Career Results by Season

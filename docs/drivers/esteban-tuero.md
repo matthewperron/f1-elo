@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1521
-   *[1998 Round 1 - Australian Grand Prix](../seasons/1998-season-report#round-1-australian-grand-prix)*
+   *[1998 Round 1 – Australian Grand Prix](../seasons/1998-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1319
-   *[1998 Round 16 - Japanese Grand Prix](../seasons/1998-season-report#round-16-japanese-grand-prix)*
+   *[1998 Round 16 – Japanese Grand Prix](../seasons/1998-season-report#round-16-japanese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1461
-   *[1998 Round 3 - Argentine Grand Prix](../seasons/1998-season-report#round-3-argentine-grand-prix)*
+   *[1998 Round 3 – Argentine Grand Prix](../seasons/1998-season-report#round-3-argentine-grand-prix)*
 
 📉 **Lowest Race Elo**: 1363
-   *[1998 Round 10 - Austrian Grand Prix](../seasons/1998-season-report#round-10-austrian-grand-prix)*
+   *[1998 Round 10 – Austrian Grand Prix](../seasons/1998-season-report#round-10-austrian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1506
-   *[1998 Round 1 - Australian Grand Prix](../seasons/1998-season-report#round-1-australian-grand-prix)*
+   *[1998 Round 1 – Australian Grand Prix](../seasons/1998-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1350
-   *[1998 Round 16 - Japanese Grand Prix](../seasons/1998-season-report#round-16-japanese-grand-prix)*
+   *[1998 Round 16 – Japanese Grand Prix](../seasons/1998-season-report#round-16-japanese-grand-prix)*
 
 
 ## Complete Career Results by Season

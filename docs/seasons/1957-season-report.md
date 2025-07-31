@@ -1,10 +1,10 @@
-# 1957 F1 Season - ELO Analysis
+# 1957 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2: Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3: Indianapolis 500](#round-3-indianapolis-500) • [Round 4: French Grand Prix](#round-4-french-grand-prix) • [Round 5: British Grand Prix](#round-5-british-grand-prix) • [Round 6: German Grand Prix](#round-6-german-grand-prix) • [Round 7: Pescara Grand Prix](#round-7-pescara-grand-prix) • [Round 8: Italian Grand Prix](#round-8-italian-grand-prix)
+[Round 1 – Argentine Grand Prix](#round-1-argentine-grand-prix) • [Round 2 – Monaco Grand Prix](#round-2-monaco-grand-prix) • [Round 3 – Indianapolis 500](#round-3-indianapolis-500) • [Round 4 – French Grand Prix](#round-4-french-grand-prix) • [Round 5 – British Grand Prix](#round-5-british-grand-prix) • [Round 6 – German Grand Prix](#round-6-german-grand-prix) • [Round 7 – Pescara Grand Prix](#round-7-pescara-grand-prix) • [Round 8 – Italian Grand Prix](#round-8-italian-grand-prix)
 
 📊 **[View Complete F1 1957 Season Results](https://www.formula1.com/en/results.html/1957/races.html)** | **[Wikipedia 1957 F1 Season](https://en.wikipedia.org/wiki/1957_Formula_One_World_Championship)**
 
@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Argentine Grand Prix
+### Round 1 – Argentine Grand Prix
 *Date: 1957-01-13*
 
 #### Qualifying Results
@@ -116,7 +116,7 @@
 
 ---
 
-### Round 2: Monaco Grand Prix
+### Round 2 – Monaco Grand Prix
 *Date: 1957-05-19*
 
 #### Qualifying Results
@@ -163,7 +163,7 @@
 
 ---
 
-### Round 3: Indianapolis 500
+### Round 3 – Indianapolis 500
 *Date: 1957-05-30*
 
 #### Qualifying Results
@@ -244,7 +244,7 @@
 
 ---
 
-### Round 4: French Grand Prix
+### Round 4 – French Grand Prix
 *Date: 1957-07-07*
 
 #### Qualifying Results
@@ -291,7 +291,7 @@
 
 ---
 
-### Round 5: British Grand Prix
+### Round 5 – British Grand Prix
 *Date: 1957-07-20*
 
 #### Qualifying Results
@@ -344,7 +344,7 @@
 
 ---
 
-### Round 6: German Grand Prix
+### Round 6 – German Grand Prix
 *Date: 1957-08-04*
 
 #### Qualifying Results
@@ -407,7 +407,7 @@
 
 ---
 
-### Round 7: Pescara Grand Prix
+### Round 7 – Pescara Grand Prix
 *Date: 1957-08-18*
 
 #### Qualifying Results
@@ -454,7 +454,7 @@
 
 ---
 
-### Round 8: Italian Grand Prix
+### Round 8 – Italian Grand Prix
 *Date: 1957-09-08*
 
 #### Qualifying Results

@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1531
-   *[1988 Round 4 - Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)*
+   *[1988 Round 4 – Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1390
-   *[1988 Round 16 - Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)*
+   *[1988 Round 16 – Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1509
-   *[1988 Round 4 - Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)*
+   *[1988 Round 4 – Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)*
 
 📉 **Lowest Global Elo**: 1467
-   *[1988 Round 16 - Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)*
+   *[1988 Round 16 – Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

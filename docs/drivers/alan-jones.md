@@ -22,26 +22,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1889
-   *[1980 Round 10 - Austrian Grand Prix](../seasons/1980-season-report#round-10-austrian-grand-prix)*
+   *[1980 Round 10 – Austrian Grand Prix](../seasons/1980-season-report#round-10-austrian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1389
-   *[1975 Round 11 - German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
+   *[1975 Round 11 – German Grand Prix](../seasons/1975-season-report#round-11-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1681
-   *[1980 Round 8 - British Grand Prix](../seasons/1980-season-report#round-8-british-grand-prix)*
+   *[1980 Round 8 – British Grand Prix](../seasons/1980-season-report#round-8-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1419
-   *[1975 Round 9 - French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)*
+   *[1975 Round 9 – French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1737
-   *[1981 Round 1 - United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)*
+   *[1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)*
 
 📉 **Lowest Global Elo**: 1419
-   *[1975 Round 9 - French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)*
+   *[1975 Round 9 – French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1464
-   *[2006 Round 1 - Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
+   *[2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1391
-   *[2006 Round 4 - San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)*
+   *[2006 Round 4 – San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1450
-   *[2006 Round 3 - Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)*
+   *[2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1450
-   *[2006 Round 3 - Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)*
+   *[2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1489
-   *[2006 Round 1 - Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
+   *[2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
 
 📉 **Lowest Global Elo**: 1432
-   *[2006 Round 4 - San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)*
+   *[2006 Round 4 – San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

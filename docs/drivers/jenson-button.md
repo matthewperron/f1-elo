@@ -32,26 +32,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1955
-   *[2007 Round 16 - Chinese Grand Prix](../seasons/2007-season-report#round-16-chinese-grand-prix)*
+   *[2007 Round 16 – Chinese Grand Prix](../seasons/2007-season-report#round-16-chinese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1411
-   *[2001 Round 10 - French Grand Prix](../seasons/2001-season-report#round-10-french-grand-prix)*
+   *[2001 Round 10 – French Grand Prix](../seasons/2001-season-report#round-10-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1906
-   *[2016 Round 1 - Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
+   *[2016 Round 1 – Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1352
-   *[2002 Round 1 - Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)*
+   *[2002 Round 1 – Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1850
-   *[2016 Round 1 - Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
+   *[2016 Round 1 – Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1388
-   *[2001 Round 14 - Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)*
+   *[2001 Round 14 – Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

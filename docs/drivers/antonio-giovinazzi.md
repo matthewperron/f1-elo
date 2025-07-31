@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1629
-   *[2021 Round 9 - Austrian Grand Prix](../seasons/2021-season-report#round-9-austrian-grand-prix)*
+   *[2021 Round 9 – Austrian Grand Prix](../seasons/2021-season-report#round-9-austrian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1397
-   *[2019 Round 3 - Chinese Grand Prix](../seasons/2019-season-report#round-3-chinese-grand-prix)*
+   *[2019 Round 3 – Chinese Grand Prix](../seasons/2019-season-report#round-3-chinese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1639
-   *[2021 Round 17 - United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
+   *[2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
 
 📉 **Lowest Race Elo**: 1383
-   *[2019 Round 13 - Belgian Grand Prix](../seasons/2019-season-report#round-13-belgian-grand-prix)*
+   *[2019 Round 13 – Belgian Grand Prix](../seasons/2019-season-report#round-13-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1630
-   *[2021 Round 17 - United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
+   *[2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1399
-   *[2019 Round 6 - Monaco Grand Prix](../seasons/2019-season-report#round-6-monaco-grand-prix)*
+   *[2019 Round 6 – Monaco Grand Prix](../seasons/2019-season-report#round-6-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

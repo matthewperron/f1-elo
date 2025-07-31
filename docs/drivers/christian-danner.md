@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1546
-   *[1986 Round 11 - Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)*
+   *[1986 Round 11 – Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1416
-   *[1986 Round 7 - Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix)*
+   *[1986 Round 7 – Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1478
-   *[1986 Round 13 - Italian Grand Prix](../seasons/1986-season-report#round-13-italian-grand-prix)*
+   *[1986 Round 13 – Italian Grand Prix](../seasons/1986-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1416
-   *[1987 Round 2 - San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
+   *[1987 Round 2 – San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1514
-   *[1986 Round 11 - Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)*
+   *[1986 Round 11 – Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1419
-   *[1987 Round 10 - Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
+   *[1987 Round 10 – Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
 
 
 ## Complete Career Results by Season

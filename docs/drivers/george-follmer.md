@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1510
-   *[1973 Round 9 - British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)*
+   *[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1443
-   *[1973 Round 13 - Italian Grand Prix](../seasons/1973-season-report#round-13-italian-grand-prix)*
+   *[1973 Round 13 – Italian Grand Prix](../seasons/1973-season-report#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1528
-   *[1973 Round 10 - Dutch Grand Prix](../seasons/1973-season-report#round-10-dutch-grand-prix)*
+   *[1973 Round 10 – Dutch Grand Prix](../seasons/1973-season-report#round-10-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1489
-   *[1973 Round 11 - German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix)*
+   *[1973 Round 11 – German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1514
-   *[1973 Round 9 - British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)*
+   *[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1477
-   *[1973 Round 11 - German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix)*
+   *[1973 Round 11 – German Grand Prix](../seasons/1973-season-report#round-11-german-grand-prix)*
 
 
 ## Complete Career Results by Season

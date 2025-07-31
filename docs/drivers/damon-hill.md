@@ -22,26 +22,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1821
-   *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
+   *[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1372
-   *[1999 Round 14 - European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
+   *[1999 Round 14 – European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1781
-   *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
+   *[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1459
-   *[1999 Round 15 - Malaysian Grand Prix](../seasons/1999-season-report#round-15-malaysian-grand-prix)*
+   *[1999 Round 15 – Malaysian Grand Prix](../seasons/1999-season-report#round-15-malaysian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1791
-   *[1994 Round 15 - Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
+   *[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1438
-   *[1999 Round 14 - European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
+   *[1999 Round 14 – European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
 
 
 ## Complete Career Results by Season

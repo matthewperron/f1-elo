@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1495
-   *[1965 Round 8 - Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
+   *[1965 Round 8 – Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1484
-   *[1965 Round 8 - Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
+   *[1965 Round 8 – Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1965 Round 8 - Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
+   *[1965 Round 8 – Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1495
-   *[1965 Round 8 - Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
+   *[1965 Round 8 – Italian Grand Prix](../seasons/1965-season-report#round-8-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

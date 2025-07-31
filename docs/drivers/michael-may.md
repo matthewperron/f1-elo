@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1504
-   *[1961 Round 1 - Monaco Grand Prix](../seasons/1961-season-report#round-1-monaco-grand-prix)*
+   *[1961 Round 1 – Monaco Grand Prix](../seasons/1961-season-report#round-1-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1453
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1497
-   *[1961 Round 4 - French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
+   *[1961 Round 4 – French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
 
 📉 **Lowest Race Elo**: 1490
-   *[1961 Round 4 - French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
+   *[1961 Round 4 – French Grand Prix](../seasons/1961-season-report#round-4-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1501
-   *[1961 Round 1 - Monaco Grand Prix](../seasons/1961-season-report#round-1-monaco-grand-prix)*
+   *[1961 Round 1 – Monaco Grand Prix](../seasons/1961-season-report#round-1-monaco-grand-prix)*
 
 📉 **Lowest Global Elo**: 1478
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

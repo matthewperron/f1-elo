@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1538
-   *[2024 Round 17 - Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix)*
+   *[2024 Round 17 – Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1412
-   *[2025 Round 9 - Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix)*
+   *[2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1546
-   *[2025 Round 10 - Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
+   *[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1485
-   *[2024 Round 17 - Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix)*
+   *[2024 Round 17 – Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1530
-   *[2024 Round 19 - United States Grand Prix](../seasons/2024-season-report#round-19-united-states-grand-prix)*
+   *[2024 Round 19 – United States Grand Prix](../seasons/2024-season-report#round-19-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1474
-   *[2025 Round 9 - Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix)*
+   *[2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix)*
 
 
 ## Complete Career Results by Season

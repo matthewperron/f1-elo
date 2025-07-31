@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1506
-   *[1960 Round 5 - Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
+   *[1960 Round 5 – Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1468
-   *[1960 Round 4 - Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix)*
+   *[1960 Round 4 – Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1502
-   *[1960 Round 5 - Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
+   *[1960 Round 5 – Belgian Grand Prix](../seasons/1960-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1960 Round 4 - Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix)*
+   *[1960 Round 4 – Dutch Grand Prix](../seasons/1960-season-report#round-4-dutch-grand-prix)*
 
 
 ## Complete Career Results by Season

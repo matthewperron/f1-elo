@@ -18,26 +18,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1629
-   *[1992 Round 13 - Italian Grand Prix](../seasons/1992-season-report#round-13-italian-grand-prix)*
+   *[1992 Round 13 – Italian Grand Prix](../seasons/1992-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1466
-   *[1987 Round 2 - San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
+   *[1987 Round 2 – San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1532
-   *[1992 Round 4 - Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
+   *[1992 Round 4 – Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1475
-   *[1995 Round 14 - European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
+   *[1995 Round 14 – European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1544
-   *[1992 Round 8 - French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix)*
+   *[1992 Round 8 – French Grand Prix](../seasons/1992-season-report#round-8-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1490
-   *[1987 Round 2 - San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
+   *[1987 Round 2 – San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

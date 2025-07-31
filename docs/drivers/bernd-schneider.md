@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1575
-   *[1988 Round 9 - German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
+   *[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1528
-   *[1988 Round 11 - Belgian Grand Prix](../seasons/1988-season-report#round-11-belgian-grand-prix)*
+   *[1988 Round 11 – Belgian Grand Prix](../seasons/1988-season-report#round-11-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1538
-   *[1988 Round 9 - German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
+   *[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1498
-   *[1990 Round 1 - United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix)*
+   *[1990 Round 1 – United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1549
-   *[1988 Round 9 - German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
+   *[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
 
 📉 **Lowest Global Elo**: 1509
-   *[1988 Round 4 - Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)*
+   *[1988 Round 4 – Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)*
 
 
 ## Complete Career Results by Season

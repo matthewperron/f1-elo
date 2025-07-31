@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1611
-   *[1965 Round 10 - Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
+   *[1965 Round 10 – Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1454
-   *[1964 Round 8 - Italian Grand Prix](../seasons/1964-season-report#round-8-italian-grand-prix)*
+   *[1964 Round 8 – Italian Grand Prix](../seasons/1964-season-report#round-8-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1520
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1388
-   *[1964 Round 8 - Italian Grand Prix](../seasons/1964-season-report#round-8-italian-grand-prix)*
+   *[1964 Round 8 – Italian Grand Prix](../seasons/1964-season-report#round-8-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1546
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1407
-   *[1964 Round 8 - Italian Grand Prix](../seasons/1964-season-report#round-8-italian-grand-prix)*
+   *[1964 Round 8 – Italian Grand Prix](../seasons/1964-season-report#round-8-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

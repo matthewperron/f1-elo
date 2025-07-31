@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1492
-   *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
+   *[1950 Round 1 – British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1242
-   *[1955 Round 5 - Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix)*
+   *[1955 Round 5 – Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1495
-   *[1950 Round 4 - Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
+   *[1950 Round 4 – Swiss Grand Prix](../seasons/1950-season-report#round-4-swiss-grand-prix)*
 
 📉 **Lowest Race Elo**: 1449
-   *[1952 Round 3 - Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
+   *[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1492
-   *[1950 Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
+   *[1950 Round 1 – British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1395
-   *[1955 Round 5 - Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix)*
+   *[1955 Round 5 – Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -33,26 +33,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1990
-   *[2005 Round 2 - Malaysian Grand Prix](../seasons/2005-season-report#round-2-malaysian-grand-prix)*
+   *[2005 Round 2 – Malaysian Grand Prix](../seasons/2005-season-report#round-2-malaysian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1483
-   *[1995 Round 6 - Canadian Grand Prix](../seasons/1995-season-report#round-6-canadian-grand-prix)*
+   *[1995 Round 6 – Canadian Grand Prix](../seasons/1995-season-report#round-6-canadian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1716
-   *[2007 Round 5 - Monaco Grand Prix](../seasons/2007-season-report#round-5-monaco-grand-prix)*
+   *[2007 Round 5 – Monaco Grand Prix](../seasons/2007-season-report#round-5-monaco-grand-prix)*
 
 📉 **Lowest Race Elo**: 1436
-   *[2001 Round 14 - Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)*
+   *[2001 Round 14 – Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1779
-   *[2007 Round 6 - Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)*
+   *[2007 Round 6 – Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1495
-   *[1995 Round 5 - Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)*
+   *[1995 Round 5 – Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

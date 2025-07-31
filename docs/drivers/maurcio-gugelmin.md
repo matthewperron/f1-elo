@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1614
-   *[1992 Round 6 - Monaco Grand Prix](../seasons/1992-season-report#round-6-monaco-grand-prix)*
+   *[1992 Round 6 – Monaco Grand Prix](../seasons/1992-season-report#round-6-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1329
-   *[1989 Round 2 - San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix)*
+   *[1989 Round 2 – San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1667
-   *[1992 Round 12 - Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
+   *[1992 Round 12 – Belgian Grand Prix](../seasons/1992-season-report#round-12-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1417
-   *[1988 Round 16 - Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)*
+   *[1988 Round 16 – Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1648
-   *[1992 Round 14 - Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
+   *[1992 Round 14 – Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1391
-   *[1989 Round 2 - San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix)*
+   *[1989 Round 2 – San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

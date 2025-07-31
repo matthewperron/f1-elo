@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1506
-   *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
+   *[1961 Round 8 – United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1495
-   *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
+   *[1961 Round 8 – United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1497
-   *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
+   *[1961 Round 8 – United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 📉 **Lowest Race Elo**: 1494
-   *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
+   *[1961 Round 8 – United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1500
-   *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
+   *[1961 Round 8 – United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1494
-   *[1961 Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
+   *[1961 Round 8 – United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

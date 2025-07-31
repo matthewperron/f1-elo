@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1524
-   *[1977 Round 4 - United States Grand Prix West](../seasons/1977-season-report#round-4-united-states-grand-prix-west)*
+   *[1977 Round 4 – United States Grand Prix West](../seasons/1977-season-report#round-4-united-states-grand-prix-west)*
 
 📉 **Lowest Qualifying Elo**: 1350
-   *[1982 Round 16 - Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix)*
+   *[1982 Round 16 – Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1549
-   *[1982 Round 7 - Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
+   *[1982 Round 7 – Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix)*
 
 📉 **Lowest Race Elo**: 1423
-   *[1982 Round 16 - Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix)*
+   *[1982 Round 16 – Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1516
-   *[1975 Round 10 - British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
+   *[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1400
-   *[1982 Round 16 - Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix)*
+   *[1982 Round 16 – Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix)*
 
 
 ## Complete Career Results by Season

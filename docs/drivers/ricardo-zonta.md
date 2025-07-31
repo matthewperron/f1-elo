@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1528
-   *[1999 Round 7 - French Grand Prix](../seasons/1999-season-report#round-7-french-grand-prix)*
+   *[1999 Round 7 – French Grand Prix](../seasons/1999-season-report#round-7-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1389
-   *[2004 Round 14 - Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix)*
+   *[2004 Round 14 – Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1529
-   *[1999 Round 7 - French Grand Prix](../seasons/1999-season-report#round-7-french-grand-prix)*
+   *[1999 Round 7 – French Grand Prix](../seasons/1999-season-report#round-7-french-grand-prix)*
 
 📉 **Lowest Race Elo**: 1416
-   *[2000 Round 16 - Japanese Grand Prix](../seasons/2000-season-report#round-16-japanese-grand-prix)*
+   *[2000 Round 16 – Japanese Grand Prix](../seasons/2000-season-report#round-16-japanese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1529
-   *[1999 Round 7 - French Grand Prix](../seasons/1999-season-report#round-7-french-grand-prix)*
+   *[1999 Round 7 – French Grand Prix](../seasons/1999-season-report#round-7-french-grand-prix)*
 
 📉 **Lowest Global Elo**: 1408
-   *[2004 Round 14 - Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix)*
+   *[2004 Round 14 – Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

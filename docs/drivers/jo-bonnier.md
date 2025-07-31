@@ -30,26 +30,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1688
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1379
-   *[1971 Round 11 - United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
+   *[1971 Round 11 – United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1547
-   *[1961 Round 5 - British Grand Prix](../seasons/1961-season-report#round-5-british-grand-prix)*
+   *[1961 Round 5 – British Grand Prix](../seasons/1961-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1444
-   *[1966 Round 2 - Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix)*
+   *[1966 Round 2 – Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1592
-   *[1961 Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
+   *[1961 Round 7 – Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1427
-   *[1971 Round 11 - United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
+   *[1971 Round 11 – United States Grand Prix](../seasons/1971-season-report#round-11-united-states-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1831
-   *[1976 Round 8 - French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)*
+   *[1976 Round 8 – French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1482
-   *[1972 Round 2 - South African Grand Prix](../seasons/1972-season-report#round-2-south-african-grand-prix)*
+   *[1972 Round 2 – South African Grand Prix](../seasons/1972-season-report#round-2-south-african-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1671
-   *[1977 Round 2 - Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
+   *[1977 Round 2 – Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1459
-   *[1973 Round 3 - South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
+   *[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1702
-   *[1976 Round 16 - Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)*
+   *[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1476
-   *[1972 Round 2 - South African Grand Prix](../seasons/1972-season-report#round-2-south-african-grand-prix)*
+   *[1972 Round 2 – South African Grand Prix](../seasons/1972-season-report#round-2-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

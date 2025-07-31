@@ -27,26 +27,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 2007
-   *[1993 Round 7 - Canadian Grand Prix](../seasons/1993-season-report#round-7-canadian-grand-prix)*
+   *[1993 Round 7 – Canadian Grand Prix](../seasons/1993-season-report#round-7-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1414
-   *[1982 Round 11 - French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
+   *[1982 Round 11 – French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1848
-   *[1987 Round 10 - Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
+   *[1987 Round 10 – Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1470
-   *[1981 Round 1 - United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)*
+   *[1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1882
-   *[1987 Round 10 - Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
+   *[1987 Round 10 – Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1497
-   *[1981 Round 1 - United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)*
+   *[1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)*
 
 
 ## Complete Career Results by Season

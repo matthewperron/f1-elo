@@ -24,26 +24,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1783
-   *[1989 Round 14 - Spanish Grand Prix](../seasons/1989-season-report#round-14-spanish-grand-prix)*
+   *[1989 Round 14 – Spanish Grand Prix](../seasons/1989-season-report#round-14-spanish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1483
-   *[1987 Round 5 - Detroit Grand Prix](../seasons/1987-season-report#round-5-detroit-grand-prix)*
+   *[1987 Round 5 – Detroit Grand Prix](../seasons/1987-season-report#round-5-detroit-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1624
-   *[1984 Round 4 - San Marino Grand Prix](../seasons/1984-season-report#round-4-san-marino-grand-prix)*
+   *[1984 Round 4 – San Marino Grand Prix](../seasons/1984-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Race Elo**: 1431
-   *[1987 Round 14 - Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix)*
+   *[1987 Round 14 – Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1640
-   *[1984 Round 4 - San Marino Grand Prix](../seasons/1984-season-report#round-4-san-marino-grand-prix)*
+   *[1984 Round 4 – San Marino Grand Prix](../seasons/1984-season-report#round-4-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1472
-   *[1987 Round 5 - Detroit Grand Prix](../seasons/1987-season-report#round-5-detroit-grand-prix)*
+   *[1987 Round 5 – Detroit Grand Prix](../seasons/1987-season-report#round-5-detroit-grand-prix)*
 
 
 ## Complete Career Results by Season

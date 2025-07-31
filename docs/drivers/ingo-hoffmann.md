@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1492
-   *[1976 Round 1 - Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
+   *[1976 Round 1 – Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1477
-   *[1977 Round 2 - Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
+   *[1977 Round 2 – Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1549
-   *[1976 Round 1 - Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
+   *[1976 Round 1 – Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1526
-   *[1977 Round 2 - Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
+   *[1977 Round 2 – Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1532
-   *[1976 Round 1 - Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
+   *[1976 Round 1 – Brazilian Grand Prix](../seasons/1976-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1511
-   *[1977 Round 2 - Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
+   *[1977 Round 2 – Brazilian Grand Prix](../seasons/1977-season-report#round-2-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

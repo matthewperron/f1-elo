@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1494
-   *[2000 Round 3 - San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
+   *[2000 Round 3 – San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1362
-   *[2001 Round 4 - San Marino Grand Prix](../seasons/2001-season-report#round-4-san-marino-grand-prix)*
+   *[2001 Round 4 – San Marino Grand Prix](../seasons/2001-season-report#round-4-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1531
-   *[2000 Round 3 - San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
+   *[2000 Round 3 – San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
 
 📉 **Lowest Race Elo**: 1390
-   *[2001 Round 2 - Malaysian Grand Prix](../seasons/2001-season-report#round-2-malaysian-grand-prix)*
+   *[2001 Round 2 – Malaysian Grand Prix](../seasons/2001-season-report#round-2-malaysian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1520
-   *[2000 Round 3 - San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
+   *[2000 Round 3 – San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1381
-   *[2001 Round 4 - San Marino Grand Prix](../seasons/2001-season-report#round-4-san-marino-grand-prix)*
+   *[2001 Round 4 – San Marino Grand Prix](../seasons/2001-season-report#round-4-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

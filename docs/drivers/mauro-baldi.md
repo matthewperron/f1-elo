@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1476
-   *[1982 Round 12 - German Grand Prix](../seasons/1982-season-report#round-12-german-grand-prix)*
+   *[1982 Round 12 – German Grand Prix](../seasons/1982-season-report#round-12-german-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1298
-   *[1983 Round 10 - German Grand Prix](../seasons/1983-season-report#round-10-german-grand-prix)*
+   *[1983 Round 10 – German Grand Prix](../seasons/1983-season-report#round-10-german-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1484
-   *[1982 Round 9 - Dutch Grand Prix](../seasons/1982-season-report#round-9-dutch-grand-prix)*
+   *[1982 Round 9 – Dutch Grand Prix](../seasons/1982-season-report#round-9-dutch-grand-prix)*
 
 📉 **Lowest Race Elo**: 1407
-   *[1983 Round 3 - French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix)*
+   *[1983 Round 3 – French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1491
-   *[1982 Round 5 - Belgian Grand Prix](../seasons/1982-season-report#round-5-belgian-grand-prix)*
+   *[1982 Round 5 – Belgian Grand Prix](../seasons/1982-season-report#round-5-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1380
-   *[1983 Round 8 - Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
+   *[1983 Round 8 – Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)*
 
 
 ## Complete Career Results by Season

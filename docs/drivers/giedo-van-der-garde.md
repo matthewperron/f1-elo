@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1557
-   *[2013 Round 18 - United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)*
+   *[2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1424
-   *[2013 Round 4 - Bahrain Grand Prix](../seasons/2013-season-report#round-4-bahrain-grand-prix)*
+   *[2013 Round 4 – Bahrain Grand Prix](../seasons/2013-season-report#round-4-bahrain-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1510
-   *[2013 Round 18 - United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)*
+   *[2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)*
 
 📉 **Lowest Race Elo**: 1373
-   *[2013 Round 9 - German Grand Prix](../seasons/2013-season-report#round-9-german-grand-prix)*
+   *[2013 Round 9 – German Grand Prix](../seasons/2013-season-report#round-9-german-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1523
-   *[2013 Round 18 - United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)*
+   *[2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)*
 
 📉 **Lowest Global Elo**: 1398
-   *[2013 Round 8 - British Grand Prix](../seasons/2013-season-report#round-8-british-grand-prix)*
+   *[2013 Round 8 – British Grand Prix](../seasons/2013-season-report#round-8-british-grand-prix)*
 
 
 ## Complete Career Results by Season

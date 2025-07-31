@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1498
-   *[1956 Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
+   *[1956 Round 1 – Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1474
-   *[1956 Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
+   *[1956 Round 1 – Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1956 Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
+   *[1956 Round 1 – Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1493
-   *[1956 Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
+   *[1956 Round 1 – Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix)*
 
 
 ## Complete Career Results by Season

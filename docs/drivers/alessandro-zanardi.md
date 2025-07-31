@@ -19,26 +19,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1569
-   *[1999 Round 7 - French Grand Prix](../seasons/1999-season-report#round-7-french-grand-prix)*
+   *[1999 Round 7 – French Grand Prix](../seasons/1999-season-report#round-7-french-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1323
-   *[1994 Round 7 - French Grand Prix](../seasons/1994-season-report#round-7-french-grand-prix)*
+   *[1994 Round 7 – French Grand Prix](../seasons/1994-season-report#round-7-french-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1476
-   *[1991 Round 16 - Australian Grand Prix](../seasons/1991-season-report#round-16-australian-grand-prix)*
+   *[1991 Round 16 – Australian Grand Prix](../seasons/1991-season-report#round-16-australian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1309
-   *[1999 Round 14 - European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
+   *[1999 Round 14 – European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1491
-   *[1991 Round 14 - Spanish Grand Prix](../seasons/1991-season-report#round-14-spanish-grand-prix)*
+   *[1991 Round 14 – Spanish Grand Prix](../seasons/1991-season-report#round-14-spanish-grand-prix)*
 
 📉 **Lowest Global Elo**: 1339
-   *[1993 Round 12 - Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
+   *[1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1498
-   *[1954 Round 1 - Argentine Grand Prix](../seasons/1954-season-report#round-1-argentine-grand-prix)*
+   *[1954 Round 1 – Argentine Grand Prix](../seasons/1954-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1453
-   *[1954 Round 8 - Italian Grand Prix](../seasons/1954-season-report#round-8-italian-grand-prix)*
+   *[1954 Round 8 – Italian Grand Prix](../seasons/1954-season-report#round-8-italian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1499
-   *[1954 Round 1 - Argentine Grand Prix](../seasons/1954-season-report#round-1-argentine-grand-prix)*
+   *[1954 Round 1 – Argentine Grand Prix](../seasons/1954-season-report#round-1-argentine-grand-prix)*
 
 📉 **Lowest Global Elo**: 1486
-   *[1954 Round 8 - Italian Grand Prix](../seasons/1954-season-report#round-8-italian-grand-prix)*
+   *[1954 Round 8 – Italian Grand Prix](../seasons/1954-season-report#round-8-italian-grand-prix)*
 
 
 ## Complete Career Results by Season

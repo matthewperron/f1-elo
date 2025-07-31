@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1535
-   *[2008 Round 7 - Canadian Grand Prix](../seasons/2008-season-report#round-7-canadian-grand-prix)*
+   *[2008 Round 7 – Canadian Grand Prix](../seasons/2008-season-report#round-7-canadian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1292
-   *[2009 Round 7 - Turkish Grand Prix](../seasons/2009-season-report#round-7-turkish-grand-prix)*
+   *[2009 Round 7 – Turkish Grand Prix](../seasons/2009-season-report#round-7-turkish-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1527
-   *[2008 Round 4 - Spanish Grand Prix](../seasons/2008-season-report#round-4-spanish-grand-prix)*
+   *[2008 Round 4 – Spanish Grand Prix](../seasons/2008-season-report#round-4-spanish-grand-prix)*
 
 📉 **Lowest Race Elo**: 1304
-   *[2009 Round 1 - Australian Grand Prix](../seasons/2009-season-report#round-1-australian-grand-prix)*
+   *[2009 Round 1 – Australian Grand Prix](../seasons/2009-season-report#round-1-australian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1522
-   *[2008 Round 4 - Spanish Grand Prix](../seasons/2008-season-report#round-4-spanish-grand-prix)*
+   *[2008 Round 4 – Spanish Grand Prix](../seasons/2008-season-report#round-4-spanish-grand-prix)*
 
 📉 **Lowest Global Elo**: 1311
-   *[2009 Round 1 - Australian Grand Prix](../seasons/2009-season-report#round-1-australian-grand-prix)*
+   *[2009 Round 1 – Australian Grand Prix](../seasons/2009-season-report#round-1-australian-grand-prix)*
 
 
 ## Complete Career Results by Season

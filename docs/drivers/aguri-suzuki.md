@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1546
-   *[1993 Round 13 - Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
+   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1324
-   *[1992 Round 14 - Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
+   *[1992 Round 14 – Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1492
-   *[1995 Round 1 - Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
+   *[1995 Round 1 – Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1304
-   *[1992 Round 14 - Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
+   *[1992 Round 14 – Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1489
-   *[1995 Round 1 - Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
+   *[1995 Round 1 – Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1308
-   *[1992 Round 14 - Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
+   *[1992 Round 14 – Portuguese Grand Prix](../seasons/1992-season-report#round-14-portuguese-grand-prix)*
 
 
 ## Complete Career Results by Season

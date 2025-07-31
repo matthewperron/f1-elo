@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1499
-   *[1962 Round 5 - British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
+   *[1962 Round 5 – British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1490
-   *[1962 Round 5 - British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
+   *[1962 Round 5 – British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1500
-   *[1962 Round 5 - British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
+   *[1962 Round 5 – British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1497
-   *[1962 Round 5 - British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
+   *[1962 Round 5 – British Grand Prix](../seasons/1962-season-report#round-5-british-grand-prix)*
 
 
 ## Complete Career Results by Season

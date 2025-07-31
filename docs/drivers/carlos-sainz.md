@@ -25,26 +25,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1771
-   *[2025 Round 7 - Emilia Romagna Grand Prix](../seasons/2025-season-report#round-7-emilia-romagna-grand-prix)*
+   *[2025 Round 7 – Emilia Romagna Grand Prix](../seasons/2025-season-report#round-7-emilia-romagna-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1394
-   *[2017 Round 4 - Russian Grand Prix](../seasons/2017-season-report#round-4-russian-grand-prix)*
+   *[2017 Round 4 – Russian Grand Prix](../seasons/2017-season-report#round-4-russian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1686
-   *[2022 Round 14 - Belgian Grand Prix](../seasons/2022-season-report#round-14-belgian-grand-prix)*
+   *[2022 Round 14 – Belgian Grand Prix](../seasons/2022-season-report#round-14-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1441
-   *[2015 Round 17 - Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)*
+   *[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1683
-   *[2022 Round 14 - Belgian Grand Prix](../seasons/2022-season-report#round-14-belgian-grand-prix)*
+   *[2022 Round 14 – Belgian Grand Prix](../seasons/2022-season-report#round-14-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1434
-   *[2015 Round 18 - Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
+   *[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
 
 
 ## Complete Career Results by Season

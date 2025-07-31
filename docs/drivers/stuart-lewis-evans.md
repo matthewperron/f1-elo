@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1552
-   *[1958 Round 3 - Dutch Grand Prix](../seasons/1958-season-report#round-3-dutch-grand-prix)*
+   *[1958 Round 3 – Dutch Grand Prix](../seasons/1958-season-report#round-3-dutch-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1446
-   *[1957 Round 7 - Pescara Grand Prix](../seasons/1957-season-report#round-7-pescara-grand-prix)*
+   *[1957 Round 7 – Pescara Grand Prix](../seasons/1957-season-report#round-7-pescara-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1496
-   *[1958 Round 9 - Portuguese Grand Prix](../seasons/1958-season-report#round-9-portuguese-grand-prix)*
+   *[1958 Round 9 – Portuguese Grand Prix](../seasons/1958-season-report#round-9-portuguese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1472
-   *[1958 Round 5 - Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
+   *[1958 Round 5 – Belgian Grand Prix](../seasons/1958-season-report#round-5-belgian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1518
-   *[1958 Round 9 - Portuguese Grand Prix](../seasons/1958-season-report#round-9-portuguese-grand-prix)*
+   *[1958 Round 9 – Portuguese Grand Prix](../seasons/1958-season-report#round-9-portuguese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1474
-   *[1957 Round 7 - Pescara Grand Prix](../seasons/1957-season-report#round-7-pescara-grand-prix)*
+   *[1957 Round 7 – Pescara Grand Prix](../seasons/1957-season-report#round-7-pescara-grand-prix)*
 
 
 ## Complete Career Results by Season

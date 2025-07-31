@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1527
-   *[2017 Round 19 - Brazilian Grand Prix](../seasons/2017-season-report#round-19-brazilian-grand-prix)*
+   *[2017 Round 19 – Brazilian Grand Prix](../seasons/2017-season-report#round-19-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1317
-   *[2018 Round 16 - Russian Grand Prix](../seasons/2018-season-report#round-16-russian-grand-prix)*
+   *[2018 Round 16 – Russian Grand Prix](../seasons/2018-season-report#round-16-russian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1531
-   *[2018 Round 11 - German Grand Prix](../seasons/2018-season-report#round-11-german-grand-prix)*
+   *[2018 Round 11 – German Grand Prix](../seasons/2018-season-report#round-11-german-grand-prix)*
 
 📉 **Lowest Race Elo**: 1418
-   *[2018 Round 17 - Japanese Grand Prix](../seasons/2018-season-report#round-17-japanese-grand-prix)*
+   *[2018 Round 17 – Japanese Grand Prix](../seasons/2018-season-report#round-17-japanese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1508
-   *[2018 Round 1 - Australian Grand Prix](../seasons/2018-season-report#round-1-australian-grand-prix)*
+   *[2018 Round 1 – Australian Grand Prix](../seasons/2018-season-report#round-1-australian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1403
-   *[2018 Round 16 - Russian Grand Prix](../seasons/2018-season-report#round-16-russian-grand-prix)*
+   *[2018 Round 16 – Russian Grand Prix](../seasons/2018-season-report#round-16-russian-grand-prix)*
 
 
 ## Complete Career Results by Season

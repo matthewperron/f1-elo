@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1540
-   *[1988 Round 2 - San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
+   *[1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1416
-   *[1991 Round 3 - San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix)*
+   *[1991 Round 3 – San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1476
-   *[1988 Round 5 - Canadian Grand Prix](../seasons/1988-season-report#round-5-canadian-grand-prix)*
+   *[1988 Round 5 – Canadian Grand Prix](../seasons/1988-season-report#round-5-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1413
-   *[1991 Round 3 - San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix)*
+   *[1991 Round 3 – San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1512
-   *[1988 Round 2 - San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
+   *[1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
 
 📉 **Lowest Global Elo**: 1415
-   *[1991 Round 3 - San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix)*
+   *[1991 Round 3 – San Marino Grand Prix](../seasons/1991-season-report#round-3-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

@@ -15,18 +15,18 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1486
-   *[1974 Round 7 - Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
+   *[1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1475
-   *[1974 Round 7 - Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
+   *[1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1496
-   *[1974 Round 7 - Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
+   *[1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
 
 📉 **Lowest Global Elo**: 1493
-   *[1974 Round 7 - Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
+   *[1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)*
 
 
 ## Complete Career Results by Season

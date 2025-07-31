@@ -1,10 +1,10 @@
-# 1976 F1 Season - ELO Analysis
+# 1976 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Brazilian Grand Prix](#round-1-brazilian-grand-prix) • [Round 2: South African Grand Prix](#round-2-south-african-grand-prix) • [Round 3: United States Grand Prix West](#round-3-united-states-grand-prix-west) • [Round 4: Spanish Grand Prix](#round-4-spanish-grand-prix) • [Round 5: Belgian Grand Prix](#round-5-belgian-grand-prix) • [Round 6: Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7: Swedish Grand Prix](#round-7-swedish-grand-prix) • [Round 8: French Grand Prix](#round-8-french-grand-prix) • [Round 9: British Grand Prix](#round-9-british-grand-prix) • [Round 10: German Grand Prix](#round-10-german-grand-prix) • [Round 11: Austrian Grand Prix](#round-11-austrian-grand-prix) • [Round 12: Dutch Grand Prix](#round-12-dutch-grand-prix) • [Round 13: Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14: Canadian Grand Prix](#round-14-canadian-grand-prix) • [Round 15: United States Grand Prix](#round-15-united-states-grand-prix) • [Round 16: Japanese Grand Prix](#round-16-japanese-grand-prix)
+[Round 1 – Brazilian Grand Prix](#round-1-brazilian-grand-prix) • [Round 2 – South African Grand Prix](#round-2-south-african-grand-prix) • [Round 3 – United States Grand Prix West](#round-3-united-states-grand-prix-west) • [Round 4 – Spanish Grand Prix](#round-4-spanish-grand-prix) • [Round 5 – Belgian Grand Prix](#round-5-belgian-grand-prix) • [Round 6 – Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7 – Swedish Grand Prix](#round-7-swedish-grand-prix) • [Round 8 – French Grand Prix](#round-8-french-grand-prix) • [Round 9 – British Grand Prix](#round-9-british-grand-prix) • [Round 10 – German Grand Prix](#round-10-german-grand-prix) • [Round 11 – Austrian Grand Prix](#round-11-austrian-grand-prix) • [Round 12 – Dutch Grand Prix](#round-12-dutch-grand-prix) • [Round 13 – Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14 – Canadian Grand Prix](#round-14-canadian-grand-prix) • [Round 15 – United States Grand Prix](#round-15-united-states-grand-prix) • [Round 16 – Japanese Grand Prix](#round-16-japanese-grand-prix)
 
 📊 **[View Complete F1 1976 Season Results](https://www.formula1.com/en/results.html/1976/races.html)** | **[Wikipedia 1976 F1 Season](https://en.wikipedia.org/wiki/1976_Formula_One_World_Championship)**
 
@@ -60,7 +60,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Brazilian Grand Prix
+### Round 1 – Brazilian Grand Prix
 *Date: 1976-01-25*
 
 #### Qualifying Results
@@ -119,7 +119,7 @@
 
 ---
 
-### Round 2: South African Grand Prix
+### Round 2 – South African Grand Prix
 *Date: 1976-03-06*
 
 #### Qualifying Results
@@ -184,7 +184,7 @@
 
 ---
 
-### Round 3: United States Grand Prix West
+### Round 3 – United States Grand Prix West
 *Date: 1976-03-28*
 
 #### Qualifying Results
@@ -239,7 +239,7 @@
 
 ---
 
-### Round 4: Spanish Grand Prix
+### Round 4 – Spanish Grand Prix
 *Date: 1976-05-02*
 
 #### Qualifying Results
@@ -302,7 +302,7 @@
 
 ---
 
-### Round 5: Belgian Grand Prix
+### Round 5 – Belgian Grand Prix
 *Date: 1976-05-16*
 
 #### Qualifying Results
@@ -369,7 +369,7 @@
 
 ---
 
-### Round 6: Monaco Grand Prix
+### Round 6 – Monaco Grand Prix
 *Date: 1976-05-30*
 
 #### Qualifying Results
@@ -424,7 +424,7 @@
 
 ---
 
-### Round 7: Swedish Grand Prix
+### Round 7 – Swedish Grand Prix
 *Date: 1976-06-13*
 
 #### Qualifying Results
@@ -491,7 +491,7 @@
 
 ---
 
-### Round 8: French Grand Prix
+### Round 8 – French Grand Prix
 *Date: 1976-07-04*
 
 #### Qualifying Results
@@ -560,7 +560,7 @@
 
 ---
 
-### Round 9: British Grand Prix
+### Round 9 – British Grand Prix
 *Date: 1976-07-18*
 
 #### Qualifying Results
@@ -627,7 +627,7 @@
 
 ---
 
-### Round 10: German Grand Prix
+### Round 10 – German Grand Prix
 *Date: 1976-08-01*
 
 #### Qualifying Results
@@ -694,7 +694,7 @@
 
 ---
 
-### Round 11: Austrian Grand Prix
+### Round 11 – Austrian Grand Prix
 *Date: 1976-08-15*
 
 #### Qualifying Results
@@ -759,7 +759,7 @@
 
 ---
 
-### Round 12: Dutch Grand Prix
+### Round 12 – Dutch Grand Prix
 *Date: 1976-08-29*
 
 #### Qualifying Results
@@ -826,7 +826,7 @@
 
 ---
 
-### Round 13: Italian Grand Prix
+### Round 13 – Italian Grand Prix
 *Date: 1976-09-12*
 
 #### Qualifying Results
@@ -899,7 +899,7 @@
 
 ---
 
-### Round 14: Canadian Grand Prix
+### Round 14 – Canadian Grand Prix
 *Date: 1976-10-03*
 
 #### Qualifying Results
@@ -966,7 +966,7 @@
 
 ---
 
-### Round 15: United States Grand Prix
+### Round 15 – United States Grand Prix
 *Date: 1976-10-10*
 
 #### Qualifying Results
@@ -1033,7 +1033,7 @@
 
 ---
 
-### Round 16: Japanese Grand Prix
+### Round 16 – Japanese Grand Prix
 *Date: 1976-10-24*
 
 #### Qualifying Results

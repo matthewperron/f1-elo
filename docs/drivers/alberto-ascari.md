@@ -20,26 +20,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1860
-   *[1955 Round 2 - Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix)*
+   *[1955 Round 2 – Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1482
-   *[1950 Round 5 - Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix)*
+   *[1950 Round 5 – Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1726
-   *[1953 Round 6 - British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
+   *[1953 Round 6 – British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Race Elo**: 1511
-   *[1950 Round 2 - Monaco Grand Prix](../seasons/1950-season-report#round-2-monaco-grand-prix)*
+   *[1950 Round 2 – Monaco Grand Prix](../seasons/1950-season-report#round-2-monaco-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1755
-   *[1953 Round 6 - British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
+   *[1953 Round 6 – British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix)*
 
 📉 **Lowest Global Elo**: 1508
-   *[1950 Round 2 - Monaco Grand Prix](../seasons/1950-season-report#round-2-monaco-grand-prix)*
+   *[1950 Round 2 – Monaco Grand Prix](../seasons/1950-season-report#round-2-monaco-grand-prix)*
 
 
 ## Complete Career Results by Season

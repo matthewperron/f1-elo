@@ -1,10 +1,10 @@
-# 1987 F1 Season - ELO Analysis
+# 1987 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Brazilian Grand Prix](#round-1-brazilian-grand-prix) • [Round 2: San Marino Grand Prix](#round-2-san-marino-grand-prix) • [Round 3: Belgian Grand Prix](#round-3-belgian-grand-prix) • [Round 4: Monaco Grand Prix](#round-4-monaco-grand-prix) • [Round 5: Detroit Grand Prix](#round-5-detroit-grand-prix) • [Round 6: French Grand Prix](#round-6-french-grand-prix) • [Round 7: British Grand Prix](#round-7-british-grand-prix) • [Round 8: German Grand Prix](#round-8-german-grand-prix) • [Round 9: Hungarian Grand Prix](#round-9-hungarian-grand-prix) • [Round 10: Austrian Grand Prix](#round-10-austrian-grand-prix) • [Round 11: Italian Grand Prix](#round-11-italian-grand-prix) • [Round 12: Portuguese Grand Prix](#round-12-portuguese-grand-prix) • [Round 13: Spanish Grand Prix](#round-13-spanish-grand-prix) • [Round 14: Mexican Grand Prix](#round-14-mexican-grand-prix) • [Round 15: Japanese Grand Prix](#round-15-japanese-grand-prix) • [Round 16: Australian Grand Prix](#round-16-australian-grand-prix)
+[Round 1 – Brazilian Grand Prix](#round-1-brazilian-grand-prix) • [Round 2 – San Marino Grand Prix](#round-2-san-marino-grand-prix) • [Round 3 – Belgian Grand Prix](#round-3-belgian-grand-prix) • [Round 4 – Monaco Grand Prix](#round-4-monaco-grand-prix) • [Round 5 – Detroit Grand Prix](#round-5-detroit-grand-prix) • [Round 6 – French Grand Prix](#round-6-french-grand-prix) • [Round 7 – British Grand Prix](#round-7-british-grand-prix) • [Round 8 – German Grand Prix](#round-8-german-grand-prix) • [Round 9 – Hungarian Grand Prix](#round-9-hungarian-grand-prix) • [Round 10 – Austrian Grand Prix](#round-10-austrian-grand-prix) • [Round 11 – Italian Grand Prix](#round-11-italian-grand-prix) • [Round 12 – Portuguese Grand Prix](#round-12-portuguese-grand-prix) • [Round 13 – Spanish Grand Prix](#round-13-spanish-grand-prix) • [Round 14 – Mexican Grand Prix](#round-14-mexican-grand-prix) • [Round 15 – Japanese Grand Prix](#round-15-japanese-grand-prix) • [Round 16 – Australian Grand Prix](#round-16-australian-grand-prix)
 
 📊 **[View Complete F1 1987 Season Results](https://www.formula1.com/en/results.html/1987/races.html)** | **[Wikipedia 1987 F1 Season](https://en.wikipedia.org/wiki/1987_Formula_One_World_Championship)**
 
@@ -45,7 +45,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Brazilian Grand Prix
+### Round 1 – Brazilian Grand Prix
 *Date: 1987-04-12*
 
 #### Qualifying Results
@@ -106,7 +106,7 @@
 
 ---
 
-### Round 2: San Marino Grand Prix
+### Round 2 – San Marino Grand Prix
 *Date: 1987-05-03*
 
 #### Qualifying Results
@@ -175,7 +175,7 @@
 
 ---
 
-### Round 3: Belgian Grand Prix
+### Round 3 – Belgian Grand Prix
 *Date: 1987-05-17*
 
 #### Qualifying Results
@@ -242,7 +242,7 @@
 
 ---
 
-### Round 4: Monaco Grand Prix
+### Round 4 – Monaco Grand Prix
 *Date: 1987-05-31*
 
 #### Qualifying Results
@@ -309,7 +309,7 @@
 
 ---
 
-### Round 5: Detroit Grand Prix
+### Round 5 – Detroit Grand Prix
 *Date: 1987-06-21*
 
 #### Qualifying Results
@@ -376,7 +376,7 @@
 
 ---
 
-### Round 6: French Grand Prix
+### Round 6 – French Grand Prix
 *Date: 1987-07-05*
 
 #### Qualifying Results
@@ -443,7 +443,7 @@
 
 ---
 
-### Round 7: British Grand Prix
+### Round 7 – British Grand Prix
 *Date: 1987-07-12*
 
 #### Qualifying Results
@@ -510,7 +510,7 @@
 
 ---
 
-### Round 8: German Grand Prix
+### Round 8 – German Grand Prix
 *Date: 1987-07-26*
 
 #### Qualifying Results
@@ -577,7 +577,7 @@
 
 ---
 
-### Round 9: Hungarian Grand Prix
+### Round 9 – Hungarian Grand Prix
 *Date: 1987-08-09*
 
 #### Qualifying Results
@@ -644,7 +644,7 @@
 
 ---
 
-### Round 10: Austrian Grand Prix
+### Round 10 – Austrian Grand Prix
 *Date: 1987-08-16*
 
 #### Qualifying Results
@@ -711,7 +711,7 @@
 
 ---
 
-### Round 11: Italian Grand Prix
+### Round 11 – Italian Grand Prix
 *Date: 1987-09-06*
 
 #### Qualifying Results
@@ -778,7 +778,7 @@
 
 ---
 
-### Round 12: Portuguese Grand Prix
+### Round 12 – Portuguese Grand Prix
 *Date: 1987-09-20*
 
 #### Qualifying Results
@@ -845,7 +845,7 @@
 
 ---
 
-### Round 13: Spanish Grand Prix
+### Round 13 – Spanish Grand Prix
 *Date: 1987-09-27*
 
 #### Qualifying Results
@@ -912,7 +912,7 @@
 
 ---
 
-### Round 14: Mexican Grand Prix
+### Round 14 – Mexican Grand Prix
 *Date: 1987-10-18*
 
 #### Qualifying Results
@@ -979,7 +979,7 @@
 
 ---
 
-### Round 15: Japanese Grand Prix
+### Round 15 – Japanese Grand Prix
 *Date: 1987-11-01*
 
 #### Qualifying Results
@@ -1048,7 +1048,7 @@
 
 ---
 
-### Round 16: Australian Grand Prix
+### Round 16 – Australian Grand Prix
 *Date: 1987-11-15*
 
 #### Qualifying Results

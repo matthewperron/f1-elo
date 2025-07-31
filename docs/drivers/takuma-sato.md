@@ -21,26 +21,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1674
-   *[2006 Round 10 - United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
+   *[2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1425
-   *[2007 Round 13 - Italian Grand Prix](../seasons/2007-season-report#round-13-italian-grand-prix)*
+   *[2007 Round 13 – Italian Grand Prix](../seasons/2007-season-report#round-13-italian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1597
-   *[2007 Round 6 - Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)*
+   *[2007 Round 6 – Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1278
-   *[2005 Round 17 - Brazilian Grand Prix](../seasons/2005-season-report#round-17-brazilian-grand-prix)*
+   *[2005 Round 17 – Brazilian Grand Prix](../seasons/2005-season-report#round-17-brazilian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1600
-   *[2007 Round 6 - Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)*
+   *[2007 Round 6 – Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1330
-   *[2005 Round 19 - Chinese Grand Prix](../seasons/2005-season-report#round-19-chinese-grand-prix)*
+   *[2005 Round 19 – Chinese Grand Prix](../seasons/2005-season-report#round-19-chinese-grand-prix)*
 
 
 ## Complete Career Results by Season

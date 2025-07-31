@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1474
-   *[1987 Round 1 - Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix)*
+   *[1987 Round 1 – Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1289
-   *[1988 Round 2 - San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
+   *[1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1465
-   *[1987 Round 9 - Hungarian Grand Prix](../seasons/1987-season-report#round-9-hungarian-grand-prix)*
+   *[1987 Round 9 – Hungarian Grand Prix](../seasons/1987-season-report#round-9-hungarian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1436
-   *[1988 Round 2 - San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
+   *[1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1492
-   *[1987 Round 1 - Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix)*
+   *[1987 Round 1 – Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1392
-   *[1988 Round 2 - San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
+   *[1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)*
 
 
 ## Complete Career Results by Season

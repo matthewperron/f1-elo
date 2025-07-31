@@ -1,10 +1,10 @@
-# 2011 F1 Season - ELO Analysis
+# 2011 F1 Season - Elo Analysis
 
 *Last updated: 2025-07-31*
 
 ## Quick Navigation
 
-**Races**: [Round 1: Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2: Malaysian Grand Prix](#round-2-malaysian-grand-prix) • [Round 3: Chinese Grand Prix](#round-3-chinese-grand-prix) • [Round 4: Turkish Grand Prix](#round-4-turkish-grand-prix) • [Round 5: Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6: Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7: Canadian Grand Prix](#round-7-canadian-grand-prix) • [Round 8: European Grand Prix](#round-8-european-grand-prix) • [Round 9: British Grand Prix](#round-9-british-grand-prix) • [Round 10: German Grand Prix](#round-10-german-grand-prix) • [Round 11: Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12: Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13: Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14: Singapore Grand Prix](#round-14-singapore-grand-prix) • [Round 15: Japanese Grand Prix](#round-15-japanese-grand-prix) • [Round 16: Korean Grand Prix](#round-16-korean-grand-prix) • [Round 17: Indian Grand Prix](#round-17-indian-grand-prix) • [Round 18: Abu Dhabi Grand Prix](#round-18-abu-dhabi-grand-prix) • [Round 19: Brazilian Grand Prix](#round-19-brazilian-grand-prix)
+[Round 1 – Australian Grand Prix](#round-1-australian-grand-prix) • [Round 2 – Malaysian Grand Prix](#round-2-malaysian-grand-prix) • [Round 3 – Chinese Grand Prix](#round-3-chinese-grand-prix) • [Round 4 – Turkish Grand Prix](#round-4-turkish-grand-prix) • [Round 5 – Spanish Grand Prix](#round-5-spanish-grand-prix) • [Round 6 – Monaco Grand Prix](#round-6-monaco-grand-prix) • [Round 7 – Canadian Grand Prix](#round-7-canadian-grand-prix) • [Round 8 – European Grand Prix](#round-8-european-grand-prix) • [Round 9 – British Grand Prix](#round-9-british-grand-prix) • [Round 10 – German Grand Prix](#round-10-german-grand-prix) • [Round 11 – Hungarian Grand Prix](#round-11-hungarian-grand-prix) • [Round 12 – Belgian Grand Prix](#round-12-belgian-grand-prix) • [Round 13 – Italian Grand Prix](#round-13-italian-grand-prix) • [Round 14 – Singapore Grand Prix](#round-14-singapore-grand-prix) • [Round 15 – Japanese Grand Prix](#round-15-japanese-grand-prix) • [Round 16 – Korean Grand Prix](#round-16-korean-grand-prix) • [Round 17 – Indian Grand Prix](#round-17-indian-grand-prix) • [Round 18 – Abu Dhabi Grand Prix](#round-18-abu-dhabi-grand-prix) • [Round 19 – Brazilian Grand Prix](#round-19-brazilian-grand-prix)
 
 📊 **[View Complete F1 2011 Season Results](https://www.formula1.com/en/results.html/2011/races.html)** | **[Wikipedia 2011 F1 Season](https://en.wikipedia.org/wiki/2011_Formula_One_World_Championship)**
 
@@ -45,7 +45,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1: Australian Grand Prix
+### Round 1 – Australian Grand Prix
 *Date: 2011-03-27*
 
 #### Qualifying Results
@@ -104,7 +104,7 @@
 
 ---
 
-### Round 2: Malaysian Grand Prix
+### Round 2 – Malaysian Grand Prix
 *Date: 2011-04-10*
 
 #### Qualifying Results
@@ -167,7 +167,7 @@
 
 ---
 
-### Round 3: Chinese Grand Prix
+### Round 3 – Chinese Grand Prix
 *Date: 2011-04-17*
 
 #### Qualifying Results
@@ -230,7 +230,7 @@
 
 ---
 
-### Round 4: Turkish Grand Prix
+### Round 4 – Turkish Grand Prix
 *Date: 2011-05-08*
 
 #### Qualifying Results
@@ -293,7 +293,7 @@
 
 ---
 
-### Round 5: Spanish Grand Prix
+### Round 5 – Spanish Grand Prix
 *Date: 2011-05-22*
 
 #### Qualifying Results
@@ -356,7 +356,7 @@
 
 ---
 
-### Round 6: Monaco Grand Prix
+### Round 6 – Monaco Grand Prix
 *Date: 2011-05-29*
 
 #### Qualifying Results
@@ -419,7 +419,7 @@
 
 ---
 
-### Round 7: Canadian Grand Prix
+### Round 7 – Canadian Grand Prix
 *Date: 2011-06-12*
 
 #### Qualifying Results
@@ -482,7 +482,7 @@
 
 ---
 
-### Round 8: European Grand Prix
+### Round 8 – European Grand Prix
 *Date: 2011-06-26*
 
 #### Qualifying Results
@@ -545,7 +545,7 @@
 
 ---
 
-### Round 9: British Grand Prix
+### Round 9 – British Grand Prix
 *Date: 2011-07-10*
 
 #### Qualifying Results
@@ -608,7 +608,7 @@
 
 ---
 
-### Round 10: German Grand Prix
+### Round 10 – German Grand Prix
 *Date: 2011-07-24*
 
 #### Qualifying Results
@@ -671,7 +671,7 @@
 
 ---
 
-### Round 11: Hungarian Grand Prix
+### Round 11 – Hungarian Grand Prix
 *Date: 2011-07-31*
 
 #### Qualifying Results
@@ -734,7 +734,7 @@
 
 ---
 
-### Round 12: Belgian Grand Prix
+### Round 12 – Belgian Grand Prix
 *Date: 2011-08-28*
 
 #### Qualifying Results
@@ -797,7 +797,7 @@
 
 ---
 
-### Round 13: Italian Grand Prix
+### Round 13 – Italian Grand Prix
 *Date: 2011-09-11*
 
 #### Qualifying Results
@@ -860,7 +860,7 @@
 
 ---
 
-### Round 14: Singapore Grand Prix
+### Round 14 – Singapore Grand Prix
 *Date: 2011-09-25*
 
 #### Qualifying Results
@@ -923,7 +923,7 @@
 
 ---
 
-### Round 15: Japanese Grand Prix
+### Round 15 – Japanese Grand Prix
 *Date: 2011-10-09*
 
 #### Qualifying Results
@@ -986,7 +986,7 @@
 
 ---
 
-### Round 16: Korean Grand Prix
+### Round 16 – Korean Grand Prix
 *Date: 2011-10-16*
 
 #### Qualifying Results
@@ -1049,7 +1049,7 @@
 
 ---
 
-### Round 17: Indian Grand Prix
+### Round 17 – Indian Grand Prix
 *Date: 2011-10-30*
 
 #### Qualifying Results
@@ -1112,7 +1112,7 @@
 
 ---
 
-### Round 18: Abu Dhabi Grand Prix
+### Round 18 – Abu Dhabi Grand Prix
 *Date: 2011-11-13*
 
 #### Qualifying Results
@@ -1175,7 +1175,7 @@
 
 ---
 
-### Round 19: Brazilian Grand Prix
+### Round 19 – Brazilian Grand Prix
 *Date: 2011-11-27*
 
 #### Qualifying Results

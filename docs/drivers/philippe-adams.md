@@ -15,26 +15,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1480
-   *[1994 Round 11 - Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
+   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1463
-   *[1994 Round 13 - Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
+   *[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1471
-   *[1994 Round 11 - Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
+   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
 
 📉 **Lowest Race Elo**: 1447
-   *[1994 Round 13 - Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
+   *[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1474
-   *[1994 Round 11 - Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
+   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
 
 📉 **Lowest Global Elo**: 1452
-   *[1994 Round 13 - Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
+   *[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
 
 
 ## Complete Career Results by Season

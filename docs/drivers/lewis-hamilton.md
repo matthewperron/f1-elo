@@ -33,26 +33,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 2080
-   *[2021 Round 15 - Russian Grand Prix](../seasons/2021-season-report#round-15-russian-grand-prix)*
+   *[2021 Round 15 – Russian Grand Prix](../seasons/2021-season-report#round-15-russian-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1481
-   *[2007 Round 2 - Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
+   *[2007 Round 2 – Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1897
-   *[2023 Round 21 - Las Vegas Grand Prix](../seasons/2023-season-report#round-21-las-vegas-grand-prix)*
+   *[2023 Round 21 – Las Vegas Grand Prix](../seasons/2023-season-report#round-21-las-vegas-grand-prix)*
 
 📉 **Lowest Race Elo**: 1486
-   *[2007 Round 2 - Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
+   *[2007 Round 2 – Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1902
-   *[2018 Round 21 - Abu Dhabi Grand Prix](../seasons/2018-season-report#round-21-abu-dhabi-grand-prix)*
+   *[2018 Round 21 – Abu Dhabi Grand Prix](../seasons/2018-season-report#round-21-abu-dhabi-grand-prix)*
 
 📉 **Lowest Global Elo**: 1485
-   *[2007 Round 2 - Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
+   *[2007 Round 2 – Malaysian Grand Prix](../seasons/2007-season-report#round-2-malaysian-grand-prix)*
 
 
 ## Complete Career Results by Season

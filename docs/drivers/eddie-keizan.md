@@ -17,26 +17,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1516
-   *[1973 Round 3 - South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
+   *[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1480
-   *[1975 Round 3 - South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
+   *[1975 Round 3 – South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1485
-   *[1974 Round 3 - South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
+   *[1974 Round 3 – South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Race Elo**: 1444
-   *[1975 Round 3 - South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
+   *[1975 Round 3 – South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1505
-   *[1973 Round 3 - South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
+   *[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
 
 📉 **Lowest Global Elo**: 1457
-   *[1975 Round 3 - South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
+   *[1975 Round 3 – South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)*
 
 
 ## Complete Career Results by Season

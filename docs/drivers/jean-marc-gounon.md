@@ -16,26 +16,26 @@
 ### 🏁 Qualifying Performance
 
 🏆 **Peak Qualifying Elo**: 1547
-   *[1993 Round 15 - Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)*
+   *[1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Qualifying Elo**: 1421
-   *[1994 Round 11 - Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
+   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
 
 ### 🏎️ Race Performance
 
 🏆 **Peak Race Elo**: 1504
-   *[1994 Round 13 - Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
+   *[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
 
 📉 **Lowest Race Elo**: 1467
-   *[1994 Round 8 - British Grand Prix](../seasons/1994-season-report#round-8-british-grand-prix)*
+   *[1994 Round 8 – British Grand Prix](../seasons/1994-season-report#round-8-british-grand-prix)*
 
 ### 🌟 Global Performance
 
 🏆 **Peak Global Elo**: 1514
-   *[1993 Round 15 - Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)*
+   *[1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)*
 
 📉 **Lowest Global Elo**: 1453
-   *[1994 Round 11 - Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
+   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
 
 
 ## Complete Career Results by Season
