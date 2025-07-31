@@ -57,14 +57,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 1: South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | 1971-03-06 | qualifying | Brabham | 20 | 1500 | -13 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) |
-| [Round 1: South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | 1971-03-06 | qualifying | Brabham | 20 | 1487 | -12 | 1474 | [Dave Charlton](dave-charlton) |
-| [Round 1: South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | 1971-03-06 | race | Brabham | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) |
-| [Round 1: South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | 1971-03-06 | race | Brabham | DNF | 1500 | N/A | 1500 | [Dave Charlton](dave-charlton) |
-| [Round 1: South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | 1971-03-06 | global | Brabham | Q:20/R:DNF | 1500 | -4 | 1496 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) |
-| [Round 1: South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | 1971-03-06 | global | Brabham | Q:20/R:DNF | 1496 | -4 | 1493 | [Dave Charlton](dave-charlton) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 1: South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | 1971-03-06 | Brabham | Q: 20<br/>R: DNF | 1474 **<span style="color: red;">▼ -12</span>** | N/A | 1493 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)<br/>Q: 19<br/>R: 9 |
 
 ### 1973 Season
 
@@ -88,9 +83,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 3: South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix) | 1973-03-03 | qualifying | Iso Marlboro | 24 | 1474 | -27 | 1447 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) |
-| [Round 3: South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix) | 1973-03-03 | race | Iso Marlboro | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) |
-| [Round 3: South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix) | 1973-03-03 | global | Iso Marlboro | Q:24/R:DNF | 1493 | -8 | 1485 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 3: South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix) | 1973-03-03 | Iso Marlboro | Q: 24<br/>R: DNF | 1447 **<span style="color: red;">▼ -27</span>** | N/A | 1485 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/>Q: 19<br/>R: 10 |
 

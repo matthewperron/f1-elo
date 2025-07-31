@@ -59,15 +59,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | qualifying | BMW | 25 | 1500 | +11 | 1511 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | qualifying | BMW | 25 | 1511 | +10 | 1521 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Günther Bechem](gnther-bechem) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | qualifying | BMW | 25 | 1521 | -11 | 1510 | [Rudolf Krause](rudolf-krause) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | race | BMW | DNF | 1500 | N/A | 1500 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | race | BMW | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Günther Bechem](gnther-bechem) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | race | BMW | DNF | 1500 | N/A | 1500 | [Rudolf Krause](rudolf-krause) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | global | BMW | Q:25/R:DNF | 1500 | +3 | 1503 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | global | BMW | Q:25/R:DNF | 1503 | +3 | 1506 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Günther Bechem](gnther-bechem) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | global | BMW | Q:25/R:DNF | 1506 | -3 | 1503 | [Rudolf Krause](rudolf-krause) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | BMW | Q: 25<br/>R: DNF | 1510 **<span style="color: red;">▼ -11</span>** | N/A | 1503 **<span style="color: red;">▼ -3</span>** | [Ernst Klodwig](ernst-klodwig)<br/>Q: 29<br/>R: 12 |
 

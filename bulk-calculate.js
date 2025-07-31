@@ -600,20 +600,91 @@ async function generateComprehensiveDriverFiles() {
             content += `- **DNFs**: ${dnfStats.dnfCount} out of ${dnfStats.totalRaces} races (${dnfStats.dnfPercentage}%)\n\n`;
             
             content += `#### Detailed Results\n\n`;
-            content += `| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |\n`;
-            content += `|------|------|---------|-------------|----------|--------------|------------|-----------|----------|\n`;
+            content += `| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |\n`;
+            content += `|------|------|-------------|-----------|----------------|----------|------------|----------|\n`;
+            
+            // Group results by race (round) to consolidate sessions
+            const raceGroups = new Map();
             
             seasonResults.forEach(result => {
-                const eloChangeStr = result.eloChange !== null ? (result.eloChange >= 0 ? `+${result.eloChange}` : `${result.eloChange}`) : 'N/A';
+                const raceKey = `${result.round}-${result.raceName}`;
                 
+                if (!raceGroups.has(raceKey)) {
+                    raceGroups.set(raceKey, {
+                        round: result.round,
+                        raceName: result.raceName,
+                        date: result.date,
+                        constructor: result.constructor,
+                        teammate: result.teammate,
+                        qualifying: null,
+                        race: null,
+                        global: null
+                    });
+                }
+                
+                const raceGroup = raceGroups.get(raceKey);
+                raceGroup[result.session] = result;
+            });
+            
+            // Convert map to array and sort by round number
+            const sortedRaceGroups = Array.from(raceGroups.values()).sort((a, b) => a.round - b.round);
+            
+            sortedRaceGroups.forEach(raceGroup => {
                 // Create race link to season report
-                const raceTitle = `Round ${result.round}: ${result.raceName}`;
+                const raceTitle = `Round ${raceGroup.round}: ${raceGroup.raceName}`;
                 const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-                const raceLink = `[${raceTitle}](../seasons/${result.season}-season-report#${raceAnchor})`;
-                const cleanTeammateName = cleanDriverNameForFilename(result.teammate);
-                const teammateLink = `[${result.teammate}](${cleanTeammateName})`
+                const raceLink = `[${raceTitle}](../seasons/${season}-season-report#${raceAnchor})`;
                 
-                content += `| ${raceLink} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${teammateLink} |\n`;
+                // Build positions string with line breaks
+                const qualPos = raceGroup.qualifying?.position || 'N/A';
+                const racePos = raceGroup.race?.position || 'N/A';
+                const positionsStr = `Q: ${qualPos}<br/>R: ${racePos}`;
+                
+                // Format Elo with delta using existing function, or show N/A
+                const formatEloColumn = (sessionData) => {
+                    if (!sessionData || sessionData.eloChange === null) return 'N/A';
+                    return formatEloWithDelta(sessionData.newElo, sessionData.eloChange);
+                };
+                
+                const qualEloStr = formatEloColumn(raceGroup.qualifying);
+                const raceEloStr = formatEloColumn(raceGroup.race);
+                const globalEloStr = formatEloColumn(raceGroup.global);
+                
+                // Format teammate with positions below
+                const cleanTeammateName = cleanDriverNameForFilename(raceGroup.teammate);
+                const teammateLink = `[${raceGroup.teammate}](${cleanTeammateName})`;
+                
+                // Find teammate positions for the same race by looking at teammate's results
+                let teammateQualPos = 'N/A';
+                let teammateRacePos = 'N/A';
+                
+                if (raceGroup.teammate) {
+                    const teammateDriverData = Array.from(allDriverResults.values())
+                        .find(d => d.driverName === raceGroup.teammate);
+                    
+                    if (teammateDriverData) {
+                        const teammateQualResult = teammateDriverData.allResults.find(r => 
+                            r.season === season &&
+                            r.round === raceGroup.round && 
+                            r.session === 'qualifying' &&
+                            r.constructor === raceGroup.constructor
+                        );
+                        
+                        const teammateRaceResult = teammateDriverData.allResults.find(r => 
+                            r.season === season &&
+                            r.round === raceGroup.round && 
+                            r.session === 'race' &&
+                            r.constructor === raceGroup.constructor
+                        );
+                        
+                        teammateQualPos = teammateQualResult?.position || 'N/A';
+                        teammateRacePos = teammateRaceResult?.position || 'N/A';
+                    }
+                }
+                
+                const teammateStr = `${teammateLink}<br/>Q: ${teammateQualPos}<br/>R: ${teammateRacePos}`;
+                
+                content += `| ${raceLink} | ${raceGroup.date} | ${raceGroup.constructor} | ${positionsStr} | ${qualEloStr} | ${raceEloStr} | ${globalEloStr} | ${teammateStr} |\n`;
             });
             
             content += `\n`;
@@ -784,8 +855,8 @@ async function bulkCalculate() {
         
         // Add a delay between seasons to be respectful to API
         if (year < endYear && !result.needsRetry) {
-            console.log(`Waiting 100ms seconds before next season...`);
-            await new Promise(resolve => setTimeout(resolve, 100));
+            console.log(`Waiting 1ms seconds before next season...`);
+            await new Promise(resolve => setTimeout(resolve, 1));
         }
     }
     

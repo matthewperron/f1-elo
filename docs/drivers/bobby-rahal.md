@@ -61,12 +61,8 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | qualifying | Wolf | 20 | 1500 | -17 | 1483 | [Jody Scheckter](jody-scheckter) |
-| [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | race | Wolf | 12 | 1500 | -23 | 1477 | [Jody Scheckter](jody-scheckter) |
-| [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | global | Wolf | Q:20/R:12 | 1500 | -21 | 1479 | [Jody Scheckter](jody-scheckter) |
-| [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | qualifying | Wolf | 20 | 1483 | -15 | 1468 | [Jody Scheckter](jody-scheckter) |
-| [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | race | Wolf | DNF | 1477 | N/A | 1477 | [Jody Scheckter](jody-scheckter) |
-| [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | global | Wolf | Q:20/R:DNF | 1479 | -4 | 1474 | [Jody Scheckter](jody-scheckter) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | Wolf | Q: 20<br/>R: 12 | 1483 **<span style="color: red;">▼ -17</span>** | 1477 **<span style="color: red;">▼ -23</span>** | 1479 **<span style="color: red;">▼ -21</span>** | [Jody Scheckter](jody-scheckter)<br/>Q: 11<br/>R: 3 |
+| [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | Wolf | Q: 20<br/>R: DNF | 1468 **<span style="color: red;">▼ -15</span>** | N/A | 1474 **<span style="color: red;">▼ -4</span>** | [Jody Scheckter](jody-scheckter)<br/>Q: 2<br/>R: 2 |
 

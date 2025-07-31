@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | qualifying | Stebro | 999 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker) |
-| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | race | Stebro | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker) |
-| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | global | Stebro | Q:999/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | Stebro | Q: 999<br/>R: DNF | 1468 **<span style="color: red;">▼ -32</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Peter Broeker](peter-broeker)<br/>Q: 21<br/>R: DNF |
 

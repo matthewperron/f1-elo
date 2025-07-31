@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | 2020-12-06 | qualifying | Williams | 17 | 1500 | -33 | 1467 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) |
-| [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | 2020-12-06 | race | Williams | 16 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) |
-| [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | 2020-12-06 | global | Williams | Q:17/R:16 | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | 2020-12-06 | Williams | Q: 17<br/>R: 16 | 1467 **<span style="color: red;">▼ -33</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi)<br/>Q: 16<br/>R: DNF |
 

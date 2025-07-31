@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | qualifying | Team Lotus | 23 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) |
-| [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | race | Team Lotus | 10 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) |
-| [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | global | Team Lotus | Q:23/R:10 | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | Team Lotus | Q: 23<br/>R: 10 | 1532 **<span style="color: green;">▲ +32</span>** | N/A | 1510 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson)<br/>Q: 25<br/>R: DNF |
 

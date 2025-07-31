@@ -65,14 +65,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 13: Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | 1980-09-28 | qualifying | Tyrrell | 24 | 1500 | -13 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) |
-| [Round 13: Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | 1980-09-28 | qualifying | Tyrrell | 24 | 1487 | -22 | 1464 | [Derek Daly](derek-daly) |
-| [Round 13: Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | 1980-09-28 | race | Tyrrell | 24 | 1500 | -21 | 1479 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) |
-| [Round 13: Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | 1980-09-28 | race | Tyrrell | 24 | 1479 | -16 | 1464 | [Derek Daly](derek-daly) |
-| [Round 13: Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | 1980-09-28 | global | Tyrrell | Q:24/R:24 | 1500 | -19 | 1481 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) |
-| [Round 13: Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | 1980-09-28 | global | Tyrrell | Q:24/R:24 | 1481 | -18 | 1464 | [Derek Daly](derek-daly) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 13: Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | 1980-09-28 | Tyrrell | Q: 24<br/>R: 24 | 1464 **<span style="color: red;">▼ -22</span>** | 1464 **<span style="color: red;">▼ -16</span>** | 1464 **<span style="color: red;">▼ -18</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/>Q: 15<br/>R: 7 |
 
 ### 1984 Season
 
@@ -96,9 +91,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 7: Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix) | 1984-06-17 | qualifying | RAM | 25 | 1464 | +34 | 1498 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
-| [Round 7: Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix) | 1984-06-17 | race | RAM | DNF | 1464 | N/A | 1464 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
-| [Round 7: Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix) | 1984-06-17 | global | RAM | Q:25/R:DNF | 1464 | +10 | 1474 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 7: Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix) | 1984-06-17 | RAM | Q: 25<br/>R: DNF | 1498 **<span style="color: green;">▲ +34</span>** | N/A | 1474 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 26<br/>R: 10 |
 

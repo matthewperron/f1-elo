@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | qualifying | Lotus-BRM | 10 | 1500 | -39 | 1461 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana) |
-| [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | race | Lotus-BRM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana) |
-| [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | global | Lotus-BRM | Q:10/R:DNF | 1500 | -12 | 1488 | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | Lotus-BRM | Q: 10<br/>R: DNF | 1461 **<span style="color: red;">▼ -39</span>** | N/A | 1488 **<span style="color: red;">▼ -12</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇽'; this.style.marginRight='5px';"/> Moisés Solana](moiss-solana)<br/>Q: N/A<br/>R: N/A |
 

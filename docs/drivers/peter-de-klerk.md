@@ -62,11 +62,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | qualifying | Brabham-Repco | 16 | 1500 | +34 | 1534 | [Sam Tingle](sam-tingle) |
-| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | race | Brabham-Repco | DNF | 1500 | N/A | 1500 | [Sam Tingle](sam-tingle) |
-| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | global | Brabham-Repco | Q:16/R:DNF | 1500 | +10 | 1510 | [Sam Tingle](sam-tingle) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | Brabham-Repco | Q: 16<br/>R: DNF | 1534 **<span style="color: green;">▲ +34</span>** | N/A | 1510 **<span style="color: green;">▲ +10</span>** | [Sam Tingle](sam-tingle)<br/>Q: 17<br/>R: DNF |
 
 ### 1970 Season
 
@@ -93,12 +91,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 1: South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | 1970-03-07 | qualifying | Brabham | 21 | 1534 | -9 | 1525 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) |
-| [Round 1: South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | 1970-03-07 | qualifying | Brabham | 21 | 1525 | -17 | 1508 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen](rolf-stommelen) |
-| [Round 1: South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | 1970-03-07 | race | Brabham | 11 | 1500 | -11 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) |
-| [Round 1: South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | 1970-03-07 | race | Brabham | 11 | 1489 | N/A | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen](rolf-stommelen) |
-| [Round 1: South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | 1970-03-07 | global | Brabham | Q:21/R:11 | 1510 | -10 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) |
-| [Round 1: South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | 1970-03-07 | global | Brabham | Q:21/R:11 | 1500 | -5 | 1495 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen](rolf-stommelen) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 1: South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | 1970-03-07 | Brabham | Q: 21<br/>R: 11 | 1508 **<span style="color: red;">▼ -17</span>** | N/A | 1495 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham)<br/>Q: 3<br/>R: 1 |
 

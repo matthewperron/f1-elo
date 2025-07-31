@@ -61,9 +61,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 2: Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix) | 1999-04-11 | qualifying | Minardi | 18 | 1500 | +30 | 1530 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) |
-| [Round 2: Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix) | 1999-04-11 | race | Minardi | 16 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) |
-| [Round 2: Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix) | 1999-04-11 | global | Minardi | Q:18/R:16 | 1500 | -13 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 2: Brazilian Grand Prix](../seasons/1999-season-report#round-2-brazilian-grand-prix) | 1999-04-11 | Minardi | Q: 18<br/>R: 16 | 1530 **<span style="color: green;">▲ +30</span>** | 1468 **<span style="color: red;">▼ -32</span>** | 1487 **<span style="color: red;">▼ -13</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen)<br/>Q: 20<br/>R: 9 |
 

@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 9: British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix) | 1973-07-14 | qualifying | Iso Marlboro | 28 | 1500 | -33 | 1467 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) |
-| [Round 9: British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix) | 1973-07-14 | race | Iso Marlboro | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) |
-| [Round 9: British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix) | 1973-07-14 | global | Iso Marlboro | Q:28/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 9: British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix) | 1973-07-14 | Iso Marlboro | Q: 28<br/>R: DNF | 1467 **<span style="color: red;">▼ -33</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/>Q: 18<br/>R: 9 |
 

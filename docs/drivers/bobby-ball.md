@@ -54,11 +54,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | 1951-05-30 | qualifying | Schroeder | 29 | 1500 | +33 | 1533 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duke Dinsmore](duke-dinsmore) |
-| [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | 1951-05-30 | race | Schroeder | 5 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duke Dinsmore](duke-dinsmore) |
-| [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | 1951-05-30 | global | Schroeder | Q:29/R:5 | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duke Dinsmore](duke-dinsmore) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | 1951-05-30 | Schroeder | Q: 29<br/>R: 5 | 1533 **<span style="color: green;">▲ +33</span>** | N/A | 1510 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duke Dinsmore](duke-dinsmore)<br/>Q: 32<br/>R: DNF |
 
 ### 1952 Season
 
@@ -82,9 +80,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | qualifying | Stevens | 17 | 1533 | -36 | 1497 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Schindler](bill-schindler) |
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | race | Stevens | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Schindler](bill-schindler) |
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | global | Stevens | Q:17/R:DNF | 1510 | -11 | 1499 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Schindler](bill-schindler) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | Stevens | Q: 17<br/>R: DNF | 1497 **<span style="color: red;">▼ -36</span>** | N/A | 1499 **<span style="color: red;">▼ -11</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Schindler](bill-schindler)<br/>Q: 15<br/>R: 14 |
 

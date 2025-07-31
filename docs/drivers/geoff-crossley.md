@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | 1950-05-13 | qualifying | Alta | 17 | 1500 | +32 | 1532 | [Joe Kelly](joe-kelly) |
-| [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | 1950-05-13 | race | Alta | DNF | 1500 | N/A | 1500 | [Joe Kelly](joe-kelly) |
-| [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | 1950-05-13 | global | Alta | Q:17/R:DNF | 1500 | +10 | 1510 | [Joe Kelly](joe-kelly) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | 1950-05-13 | Alta | Q: 17<br/>R: DNF | 1532 **<span style="color: green;">▲ +32</span>** | N/A | 1510 **<span style="color: green;">▲ +10</span>** | [Joe Kelly](joe-kelly)<br/>Q: 19<br/>R: DNF |
 

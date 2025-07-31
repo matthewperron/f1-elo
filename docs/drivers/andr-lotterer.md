@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 12: Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix) | 2014-08-24 | qualifying | Caterham | 21 | 1500 | +25 | 1525 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) |
-| [Round 12: Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix) | 2014-08-24 | race | Caterham | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) |
-| [Round 12: Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix) | 2014-08-24 | global | Caterham | Q:21/R:DNF | 1500 | +8 | 1508 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 12: Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix) | 2014-08-24 | Caterham | Q: 21<br/>R: DNF | 1525 **<span style="color: green;">▲ +25</span>** | N/A | 1508 **<span style="color: green;">▲ +8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson)<br/>Q: 22<br/>R: 17 |
 

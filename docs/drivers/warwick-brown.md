@@ -61,9 +61,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | 1976-10-10 | qualifying | Wolf | 23 | 1500 | +39 | 1539 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) |
-| [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | 1976-10-10 | race | Wolf | 14 | 1500 | +36 | 1536 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) |
-| [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | 1976-10-10 | global | Wolf | Q:23/R:14 | 1500 | +37 | 1537 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 15: United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) | 1976-10-10 | Wolf | Q: 23<br/>R: 14 | 1539 **<span style="color: green;">▲ +39</span>** | 1536 **<span style="color: green;">▲ +36</span>** | 1537 **<span style="color: green;">▲ +37</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario)<br/>Q: N/A<br/>R: N/A |
 

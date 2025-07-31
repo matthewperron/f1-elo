@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 15: United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix) | 1974-10-06 | qualifying | Surtees | 23 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> José Dolhem](jos-dolhem) |
-| [Round 15: United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix) | 1974-10-06 | race | Surtees | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> José Dolhem](jos-dolhem) |
-| [Round 15: United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix) | 1974-10-06 | global | Surtees | Q:23/R:DNF | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> José Dolhem](jos-dolhem) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 15: United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix) | 1974-10-06 | Surtees | Q: 23<br/>R: DNF | 1532 **<span style="color: green;">▲ +32</span>** | N/A | 1510 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> José Dolhem](jos-dolhem)<br/>Q: 26<br/>R: DNF |
 

@@ -61,9 +61,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 3: Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix) | 1952-06-22 | qualifying | Simca | 22 | 1500 | -27 | 1473 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
-| [Round 3: Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix) | 1952-06-22 | race | Simca | 14 | 1500 | -28 | 1472 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
-| [Round 3: Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix) | 1952-06-22 | global | Simca | Q:22/R:14 | 1500 | -28 | 1472 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 3: Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix) | 1952-06-22 | Simca | Q: 22<br/>R: 14 | 1473 **<span style="color: red;">▼ -27</span>** | 1472 **<span style="color: red;">▼ -28</span>** | 1472 **<span style="color: red;">▼ -28</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira)<br/>Q: 18<br/>R: 10 |
 

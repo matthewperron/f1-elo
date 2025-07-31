@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | qualifying | LDS | 18 | 1500 | -33 | 1467 | [Sam Tingle](sam-tingle) |
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | race | LDS | DNF | 1500 | N/A | 1500 | [Sam Tingle](sam-tingle) |
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | global | LDS | Q:18/R:DNF | 1500 | -10 | 1490 | [Sam Tingle](sam-tingle) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | LDS | Q: 18<br/>R: DNF | 1467 **<span style="color: red;">▼ -33</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [Sam Tingle](sam-tingle)<br/>Q: 17<br/>R: DNF |
 

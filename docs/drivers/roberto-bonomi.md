@@ -61,9 +61,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | 1960-02-07 | qualifying | Cooper-Maserati | 17 | 1500 | -27 | 1473 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy](carlos-menditeguy) |
-| [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | 1960-02-07 | race | Cooper-Maserati | 11 | 1500 | -33 | 1467 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy](carlos-menditeguy) |
-| [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | 1960-02-07 | global | Cooper-Maserati | Q:17/R:11 | 1500 | -31 | 1469 | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy](carlos-menditeguy) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 1: Argentine Grand Prix](../seasons/1960-season-report#round-1-argentine-grand-prix) | 1960-02-07 | Cooper-Maserati | Q: 17<br/>R: 11 | 1473 **<span style="color: red;">▼ -27</span>** | 1467 **<span style="color: red;">▼ -33</span>** | 1469 **<span style="color: red;">▼ -31</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Carlos Menditeguy](carlos-menditeguy)<br/>Q: 12<br/>R: 4 |
 

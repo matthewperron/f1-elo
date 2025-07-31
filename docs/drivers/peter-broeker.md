@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | qualifying | Stebro | 21 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Ernie de Vos](ernie-de-vos) |
-| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | race | Stebro | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Ernie de Vos](ernie-de-vos) |
-| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | global | Stebro | Q:21/R:DNF | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Ernie de Vos](ernie-de-vos) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | 1963-10-06 | Stebro | Q: 21<br/>R: DNF | 1532 **<span style="color: green;">▲ +32</span>** | N/A | 1510 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Ernie de Vos](ernie-de-vos)<br/>Q: 999<br/>R: DNF |
 

@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | qualifying | Ferrari | 16 | 1500 | -20 | 1480 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) |
-| [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | race | Ferrari | 8 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) |
-| [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | global | Ferrari | Q:16/R:8 | 1500 | -6 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | 1967-10-22 | Ferrari | Q: 16<br/>R: 8 | 1480 **<span style="color: red;">▼ -20</span>** | N/A | 1494 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon)<br/>Q: 2<br/>R: DNF |
 

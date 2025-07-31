@@ -61,9 +61,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 12: Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix) | 1988-09-11 | qualifying | Williams | 22 | 1500 | -16 | 1484 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) |
-| [Round 12: Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix) | 1988-09-11 | race | Williams | 11 | 1500 | -14 | 1486 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) |
-| [Round 12: Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix) | 1988-09-11 | global | Williams | Q:22/R:11 | 1500 | -15 | 1485 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 12: Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix) | 1988-09-11 | Williams | Q: 22<br/>R: 11 | 1484 **<span style="color: red;">▼ -16</span>** | 1486 **<span style="color: red;">▼ -14</span>** | 1485 **<span style="color: red;">▼ -15</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese)<br/>Q: 10<br/>R: 7 |
 

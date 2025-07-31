@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | qualifying | Maserati | 14 | 1500 | +32 | 1532 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) |
-| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | race | Maserati | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) |
-| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | global | Maserati | Q:14/R:DNF | 1500 | +10 | 1510 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | Maserati | Q: 14<br/>R: DNF | 1532 **<span style="color: green;">▲ +32</span>** | N/A | 1510 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks)<br/>Q: 21<br/>R: DNF |
 

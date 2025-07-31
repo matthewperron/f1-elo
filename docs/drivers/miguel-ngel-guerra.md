@@ -61,9 +61,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | qualifying | Osella | 22 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani) |
-| [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | race | Osella | 24 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani) |
-| [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | global | Osella | Q:22/R:24 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 4: San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) | 1981-05-03 | Osella | Q: 22<br/>R: 24 | 1468 **<span style="color: red;">▼ -32</span>** | 1468 **<span style="color: red;">▼ -32</span>** | 1468 **<span style="color: red;">▼ -32</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Beppe Gabbiani](beppe-gabbiani)<br/>Q: 20<br/>R: 17 |
 

@@ -61,9 +61,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | 1993-09-12 | qualifying | Jordan | 23 | 1500 | -14 | 1486 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) |
-| [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | 1993-09-12 | race | Jordan | 26 | 1500 | -34 | 1466 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) |
-| [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | 1993-09-12 | global | Jordan | Q:23/R:26 | 1500 | -28 | 1472 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | 1993-09-12 | Jordan | Q: 23<br/>R: 26 | 1486 **<span style="color: red;">▼ -14</span>** | 1466 **<span style="color: red;">▼ -34</span>** | 1472 **<span style="color: red;">▼ -28</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello)<br/>Q: 19<br/>R: 25 |
 

@@ -60,17 +60,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | qualifying | BMW | 30 | 1500 | -11 | 1489 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | qualifying | BMW | 30 | 1489 | -10 | 1479 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Marcel Balsa](marcel-balsa) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | qualifying | BMW | 30 | 1479 | -9 | 1470 | [Rudolf Krause](rudolf-krause) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | race | BMW | DNF | 1500 | N/A | 1500 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | race | BMW | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Marcel Balsa](marcel-balsa) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | race | BMW | DNF | 1500 | N/A | 1500 | [Rudolf Krause](rudolf-krause) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | global | BMW | Q:30/R:DNF | 1500 | -3 | 1497 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | global | BMW | Q:30/R:DNF | 1497 | -3 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Marcel Balsa](marcel-balsa) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | global | BMW | Q:30/R:DNF | 1494 | -3 | 1491 | [Rudolf Krause](rudolf-krause) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | BMW | Q: 30<br/>R: DNF | 1470 **<span style="color: red;">▼ -9</span>** | N/A | 1491 **<span style="color: red;">▼ -3</span>** | [Ernst Klodwig](ernst-klodwig)<br/>Q: 29<br/>R: 12 |
 
 ### 1953 Season
 
@@ -97,12 +89,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | qualifying | AFM | 30 | 1470 | -15 | 1455 | [Theo Fitzau](theo-fitzau) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | qualifying | AFM | 30 | 1455 | -15 | 1441 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans von Stuck](hans-von-stuck) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | race | AFM | DNF | 1500 | N/A | 1500 | [Theo Fitzau](theo-fitzau) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | race | AFM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans von Stuck](hans-von-stuck) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | global | AFM | Q:30/R:DNF | 1491 | -4 | 1487 | [Theo Fitzau](theo-fitzau) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | global | AFM | Q:30/R:DNF | 1487 | -4 | 1482 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans von Stuck](hans-von-stuck) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | AFM | Q: 30<br/>R: DNF | 1441 **<span style="color: red;">▼ -15</span>** | N/A | 1482 **<span style="color: red;">▼ -4</span>** | [Theo Fitzau](theo-fitzau)<br/>Q: 21<br/>R: DNF |
 

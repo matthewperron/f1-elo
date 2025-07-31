@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 7: Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix) | 1974-06-09 | qualifying | Shadow | 23 | 1500 | -28 | 1472 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) |
-| [Round 7: Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix) | 1974-06-09 | race | Shadow | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) |
-| [Round 7: Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix) | 1974-06-09 | global | Shadow | Q:23/R:DNF | 1500 | -8 | 1492 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 7: Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix) | 1974-06-09 | Shadow | Q: 23<br/>R: DNF | 1472 **<span style="color: red;">▼ -28</span>** | N/A | 1492 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/>Q: 8<br/>R: 5 |
 

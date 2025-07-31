@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 15: United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix) | 1974-10-06 | qualifying | Surtees | 26 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Helmuth Koinigg](helmuth-koinigg) |
-| [Round 15: United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix) | 1974-10-06 | race | Surtees | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Helmuth Koinigg](helmuth-koinigg) |
-| [Round 15: United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix) | 1974-10-06 | global | Surtees | Q:26/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Helmuth Koinigg](helmuth-koinigg) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 15: United States Grand Prix](../seasons/1974-season-report#round-15-united-states-grand-prix) | 1974-10-06 | Surtees | Q: 26<br/>R: DNF | 1468 **<span style="color: red;">▼ -32</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Helmuth Koinigg](helmuth-koinigg)<br/>Q: 23<br/>R: DNF |
 

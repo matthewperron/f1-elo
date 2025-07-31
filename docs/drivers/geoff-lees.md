@@ -62,11 +62,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 10: German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | 1979-07-29 | qualifying | Tyrrell | 16 | 1500 | -37 | 1463 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi](didier-pironi) |
-| [Round 10: German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | 1979-07-29 | race | Tyrrell | 7 | 1500 | +23 | 1523 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi](didier-pironi) |
-| [Round 10: German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | 1979-07-29 | global | Tyrrell | Q:16/R:7 | 1500 | +5 | 1505 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi](didier-pironi) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 10: German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | 1979-07-29 | Tyrrell | Q: 16<br/>R: 7 | 1463 **<span style="color: red;">▼ -37</span>** | 1523 **<span style="color: green;">▲ +23</span>** | 1505 **<span style="color: green;">▲ +5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi](didier-pironi)<br/>Q: 8<br/>R: 9 |
 
 ### 1982 Season
 
@@ -90,9 +88,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 11: French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix) | 1982-07-25 | qualifying | Team Lotus | 24 | 1463 | -19 | 1444 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](elio-de-angelis) |
-| [Round 11: French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix) | 1982-07-25 | race | Team Lotus | 12 | 1523 | N/A | 1523 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](elio-de-angelis) |
-| [Round 11: French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix) | 1982-07-25 | global | Team Lotus | Q:24/R:12 | 1505 | -6 | 1499 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](elio-de-angelis) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 11: French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix) | 1982-07-25 | Team Lotus | Q: 24<br/>R: 12 | 1444 **<span style="color: red;">▼ -19</span>** | N/A | 1499 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](elio-de-angelis)<br/>Q: 13<br/>R: DNF |
 

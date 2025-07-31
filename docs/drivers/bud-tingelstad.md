@@ -61,9 +61,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | 1960-05-30 | qualifying | Trevis | 28 | 1500 | -36 | 1464 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | 1960-05-30 | race | Trevis | 9 | 1500 | -29 | 1471 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | 1960-05-30 | global | Trevis | Q:28/R:9 | 1500 | -31 | 1469 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | 1960-05-30 | Trevis | Q: 28<br/>R: 9 | 1464 **<span style="color: red;">▼ -36</span>** | 1471 **<span style="color: red;">▼ -29</span>** | 1469 **<span style="color: red;">▼ -31</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson)<br/>Q: 7<br/>R: 6 |
 

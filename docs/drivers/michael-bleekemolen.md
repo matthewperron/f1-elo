@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | qualifying | ATS | 25 | 1500 | -38 | 1462 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) |
-| [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | race | ATS | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) |
-| [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | global | ATS | Q:25/R:DNF | 1500 | -11 | 1489 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | ATS | Q: 25<br/>R: DNF | 1462 **<span style="color: red;">▼ -38</span>** | N/A | 1489 **<span style="color: red;">▼ -11</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/>Q: 15<br/>R: DNF |
 

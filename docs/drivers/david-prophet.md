@@ -57,14 +57,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | qualifying | Brabham | 14 | 1500 | -6 | 1494 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney) |
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | qualifying | Brabham | 14 | 1494 | -7 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) |
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | race | Brabham | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney) |
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | race | Brabham | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) |
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | global | Brabham | Q:14/R:DNF | 1500 | -2 | 1498 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney) |
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | global | Brabham | Q:14/R:DNF | 1498 | -2 | 1496 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | 1963-12-28 | Brabham | Q: 14<br/>R: DNF | 1487 **<span style="color: red;">▼ -7</span>** | N/A | 1496 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney)<br/>Q: 3<br/>R: 2 |
 
 ### 1965 Season
 
@@ -88,9 +83,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 1: South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix) | 1965-01-01 | qualifying | Brabham-Ford | 19 | 1487 | -31 | 1456 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Paul Hawkins](paul-hawkins) |
-| [Round 1: South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix) | 1965-01-01 | race | Brabham-Ford | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Paul Hawkins](paul-hawkins) |
-| [Round 1: South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix) | 1965-01-01 | global | Brabham-Ford | Q:19/R:DNF | 1496 | -9 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Paul Hawkins](paul-hawkins) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 1: South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix) | 1965-01-01 | Brabham-Ford | Q: 19<br/>R: DNF | 1456 **<span style="color: red;">▼ -31</span>** | N/A | 1487 **<span style="color: red;">▼ -9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Paul Hawkins](paul-hawkins)<br/>Q: 16<br/>R: 9 |
 

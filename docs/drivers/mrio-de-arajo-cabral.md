@@ -54,11 +54,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | qualifying | Cooper-Maserati | 15 | 1500 | -22 | 1478 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
-| [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | race | Cooper-Maserati | 9 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
-| [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | global | Cooper-Maserati | Q:15/R:9 | 1500 | -7 | 1493 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | 1960-08-14 | Cooper-Maserati | Q: 15<br/>R: 9 | 1478 **<span style="color: red;">▼ -22</span>** | N/A | 1493 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory)<br/>Q: 11<br/>R: DNF |
 
 ### 1963 Season
 
@@ -88,15 +86,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | qualifying | Cooper-Climax | 20 | 1478 | -10 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
-| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | qualifying | Cooper-Climax | 20 | 1468 | -8 | 1460 | [Tony Maggs](tony-maggs) |
-| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | qualifying | Cooper-Climax | 20 | 1460 | -3 | 1457 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren) |
-| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
-| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [Tony Maggs](tony-maggs) |
-| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | race | Cooper-Climax | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren) |
-| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Cooper-Climax | Q:20/R:DNF | 1493 | -3 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier) |
-| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Cooper-Climax | Q:20/R:DNF | 1490 | -2 | 1488 | [Tony Maggs](tony-maggs) |
-| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | global | Cooper-Climax | Q:20/R:DNF | 1488 | -1 | 1487 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | 1963-08-04 | Cooper-Climax | Q: 20<br/>R: DNF | 1457 **<span style="color: red;">▼ -3</span>** | N/A | 1487 **<span style="color: red;">▼ -1</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier)<br/>Q: 12<br/>R: 6 |
 

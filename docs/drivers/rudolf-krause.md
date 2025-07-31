@@ -68,17 +68,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | qualifying | BMW | 23 | 1500 | +11 | 1511 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | qualifying | BMW | 23 | 1511 | +11 | 1522 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Marcel Balsa](marcel-balsa) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | qualifying | BMW | 23 | 1522 | +9 | 1531 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Günther Bechem](gnther-bechem) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | race | BMW | DNF | 1500 | N/A | 1500 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | race | BMW | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Marcel Balsa](marcel-balsa) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | race | BMW | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Günther Bechem](gnther-bechem) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | global | BMW | Q:23/R:DNF | 1500 | +3 | 1503 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | global | BMW | Q:23/R:DNF | 1503 | +3 | 1507 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Marcel Balsa](marcel-balsa) |
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | global | BMW | Q:23/R:DNF | 1507 | +3 | 1509 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Günther Bechem](gnther-bechem) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | 1952-08-03 | BMW | Q: 23<br/>R: DNF | 1531 **<span style="color: green;">▲ +9</span>** | N/A | 1509 **<span style="color: green;">▲ +3</span>** | [Ernst Klodwig](ernst-klodwig)<br/>Q: 29<br/>R: 12 |
 
 ### 1953 Season
 
@@ -102,9 +94,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | qualifying | BMW | 26 | 1531 | +28 | 1559 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | race | BMW | 14 | 1500 | +32 | 1532 | [Ernst Klodwig](ernst-klodwig) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | global | BMW | Q:26/R:14 | 1509 | +31 | 1540 | [Ernst Klodwig](ernst-klodwig) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | BMW | Q: 26<br/>R: 14 | 1559 **<span style="color: green;">▲ +28</span>** | 1532 **<span style="color: green;">▲ +32</span>** | 1540 **<span style="color: green;">▲ +31</span>** | [Ernst Klodwig](ernst-klodwig)<br/>Q: 32<br/>R: 15 |
 

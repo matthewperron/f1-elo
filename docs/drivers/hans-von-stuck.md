@@ -56,12 +56,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | qualifying | AFM | 23 | 1500 | -15 | 1485 | [Theo Fitzau](theo-fitzau) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | qualifying | AFM | 23 | 1485 | +15 | 1499 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Günther Bechem](gnther-bechem) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | race | AFM | DNF | 1500 | N/A | 1500 | [Theo Fitzau](theo-fitzau) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | race | AFM | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Günther Bechem](gnther-bechem) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | global | AFM | Q:23/R:DNF | 1500 | -4 | 1496 | [Theo Fitzau](theo-fitzau) |
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | global | AFM | Q:23/R:DNF | 1496 | +5 | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Günther Bechem](gnther-bechem) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | AFM | Q: 23<br/>R: DNF | 1499 **<span style="color: green;">▲ +15</span>** | N/A | 1500 **<span style="color: green;">▲ +5</span>** | [Theo Fitzau](theo-fitzau)<br/>Q: 21<br/>R: DNF |
 

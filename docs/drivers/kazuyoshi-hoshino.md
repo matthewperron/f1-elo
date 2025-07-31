@@ -65,14 +65,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | qualifying | Tyrrell | 21 | 1500 | -12 | 1488 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) |
-| [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | qualifying | Tyrrell | 21 | 1488 | -10 | 1477 | [Jody Scheckter](jody-scheckter) |
-| [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | race | Tyrrell | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) |
-| [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | race | Tyrrell | DNF | 1500 | N/A | 1500 | [Jody Scheckter](jody-scheckter) |
-| [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | global | Tyrrell | Q:21/R:DNF | 1500 | -4 | 1496 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) |
-| [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | global | Tyrrell | Q:21/R:DNF | 1496 | -3 | 1493 | [Jody Scheckter](jody-scheckter) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | 1976-10-24 | Tyrrell | Q: 21<br/>R: DNF | 1477 **<span style="color: red;">▼ -10</span>** | N/A | 1493 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler)<br/>Q: 13<br/>R: 2 |
 
 ### 1977 Season
 
@@ -96,9 +91,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 17: Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) | 1977-10-23 | qualifying | Kojima | 11 | 1477 | +32 | 1509 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) |
-| [Round 17: Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) | 1977-10-23 | race | Kojima | 11 | 1500 | +29 | 1529 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) |
-| [Round 17: Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) | 1977-10-23 | global | Kojima | Q:11/R:11 | 1493 | +30 | 1523 | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 17: Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) | 1977-10-23 | Kojima | Q: 11<br/>R: 11 | 1509 **<span style="color: green;">▲ +32</span>** | 1529 **<span style="color: green;">▲ +29</span>** | 1523 **<span style="color: green;">▲ +30</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara)<br/>Q: 19<br/>R: 22 |
 

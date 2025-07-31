@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | 1975-06-08 | qualifying | Williams | 22 | 1500 | -35 | 1465 | [Ian Scheckter](ian-scheckter) |
-| [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | 1975-06-08 | race | Williams | 14 | 1500 | N/A | 1500 | [Ian Scheckter](ian-scheckter) |
-| [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | 1975-06-08 | global | Williams | Q:22/R:14 | 1500 | -10 | 1490 | [Ian Scheckter](ian-scheckter) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | 1975-06-08 | Williams | Q: 22<br/>R: 14 | 1465 **<span style="color: red;">▼ -35</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [Ian Scheckter](ian-scheckter)<br/>Q: N/A<br/>R: N/A |
 

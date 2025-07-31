@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | 1967-08-06 | qualifying | Protos | 25 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) |
-| [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | 1967-08-06 | race | Protos | 14 | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) |
-| [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | 1967-08-06 | global | Protos | Q:25/R:14 | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | 1967-08-06 | Protos | Q: 25<br/>R: 14 | 1468 **<span style="color: red;">▼ -32</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens)<br/>Q: 23<br/>R: DNF |
 

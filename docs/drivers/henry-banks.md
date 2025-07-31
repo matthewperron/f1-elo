@@ -54,11 +54,9 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | qualifying | Maserati | 21 | 1500 | -32 | 1468 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Travis Webb](travis-webb) |
-| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | race | Maserati | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Travis Webb](travis-webb) |
-| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | global | Maserati | Q:21/R:DNF | 1500 | -10 | 1490 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Travis Webb](travis-webb) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | 1950-05-30 | Maserati | Q: 21<br/>R: DNF | 1468 **<span style="color: red;">▼ -32</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Travis Webb](travis-webb)<br/>Q: 14<br/>R: DNF |
 
 ### 1952 Season
 
@@ -85,12 +83,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | qualifying | Lesovsky | 12 | 1468 | -13 | 1455 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter) |
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | qualifying | Lesovsky | 12 | 1455 | +17 | 1472 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Manny Ayulo](manny-ayulo) |
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | race | Lesovsky | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter) |
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | race | Lesovsky | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Manny Ayulo](manny-ayulo) |
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | global | Lesovsky | Q:12/R:DNF | 1490 | -4 | 1486 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter) |
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | global | Lesovsky | Q:12/R:DNF | 1486 | +5 | 1491 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Manny Ayulo](manny-ayulo) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | 1952-05-30 | Lesovsky | Q: 12<br/>R: DNF | 1472 **<span style="color: green;">▲ +17</span>** | N/A | 1491 **<span style="color: green;">▲ +5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/>Q: 6<br/>R: 4 |
 

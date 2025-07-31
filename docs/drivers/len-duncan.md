@@ -53,9 +53,7 @@
 
 #### Detailed Results
 
-| Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
-|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | 1954-05-31 | qualifying | Schroeder | 26 | 1500 | -27 | 1473 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Andy Linden](andy-linden) |
-| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | 1954-05-31 | race | Schroeder | DNF | 1500 | N/A | 1500 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Andy Linden](andy-linden) |
-| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | 1954-05-31 | global | Schroeder | Q:26/R:DNF | 1500 | -8 | 1492 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Andy Linden](andy-linden) |
+| Race | Date | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
+|------|------|-------------|-----------|----------------|----------|------------|----------|
+| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | 1954-05-31 | Schroeder | Q: 26<br/>R: DNF | 1473 **<span style="color: red;">▼ -27</span>** | N/A | 1492 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Andy Linden](andy-linden)<br/>Q: 23<br/>R: DNF |
 
