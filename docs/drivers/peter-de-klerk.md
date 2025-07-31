@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1969 | [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | qualifying | Brabham-Repco | 16 | 1500 | +32 | 1532 | Sam Tingle |
-| 1969 | [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | race | Brabham-Repco | DNF | 1500 | N/A | 1500 | Sam Tingle |
-| 1969 | [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | global | Brabham-Repco | Q:16/R:DNF | 1500 | +10 | 1510 | Sam Tingle |
+| 1969 | [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | qualifying | Brabham-Repco | 16 | 1500 | +32 | 1532 | [Sam Tingle](sam-tingle) |
+| 1969 | [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | race | Brabham-Repco | DNF | 1500 | N/A | 1500 | [Sam Tingle](sam-tingle) |
+| 1969 | [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | 1969-03-01 | global | Brabham-Repco | Q:16/R:DNF | 1500 | +10 | 1510 | [Sam Tingle](sam-tingle) |

@@ -1,5 +1,5 @@
 import { fetchAllSeasonResults, transformRaceData, saveToFile } from './fetch-results.js';
-import { calculateELO, updateHomepageFiles, saveFinalELOs, generateSeasonReport } from './calculate-elo.js';
+import { calculateELO, updateHomepageFiles, saveFinalELOs, generateSeasonReport, cleanDriverNameForFilename } from './calculate-elo.js';
 import fs from 'fs/promises';
 
 /**
@@ -80,14 +80,7 @@ async function generatePeakELOFile() {
         
         peakDrivers.forEach((driver, index) => {
             // Create driver file link (remove flags and clean name for URL)
-            const cleanDriverName = driver.name
-                .replace(/<img[^>]*>/g, '') // Remove entire img tags
-                .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
-                .trim() // Trim whitespace first
-                .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
-                .replace(/\s+/g, '-') // Replace spaces with hyphens
-                .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
-                .toLowerCase();
+            const cleanDriverName = cleanDriverNameForFilename(driver.name);
             
             const driverLink = `[${driver.name}](./drivers/${cleanDriverName})`;
             
@@ -282,14 +275,7 @@ async function generateComprehensiveDriverFiles() {
         if (results.length === 0) continue;
         
         // Clean driver name for filename (remove flags and special characters)
-        const cleanDriverName = driverData.driverName
-            .replace(/<img[^>]*>/g, '') // Remove entire img tags
-            .replace(/🏁|🇦🇷|🇦🇺|🇦🇹|🇧🇪|🇧🇷|🇬🇧|🇨🇦|🇨🇱|🇨🇴|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇭🇺|🇮🇳|🇮🇪|🇮🇹|🇯🇵|🇲🇾|🇲🇽|🇲🇨|🇳🇱|🇳🇿|🇵🇱|🇵🇹|🇷🇺|🇿🇦|🇪🇸|🇸🇪|🇨🇭|🇹🇭|🇺🇸|🇺🇾|🇻🇪/g, '') // Remove flag emojis
-            .trim() // Trim whitespace first
-            .replace(/[^\w\s-]/g, '') // Keep only alphanumeric, spaces, and hyphens
-            .replace(/\s+/g, '-') // Replace spaces with hyphens
-            .replace(/^-+|-+$/g, '') // Remove leading and trailing hyphens
-            .toLowerCase();
+        const cleanDriverName = cleanDriverNameForFilename(driverData.driverName);
         
         let content = `# ${driverData.driverName} - Complete F1 Career Results\n\n`;
         content += `*Last updated: ${new Date().toISOString().split('T')[0]}*\n\n`;
@@ -429,8 +415,10 @@ async function generateComprehensiveDriverFiles() {
             const raceTitle = `Round ${result.round}: ${result.raceName}`;
             const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const raceLink = `[${raceTitle}](../seasons/${result.season}-season-report#${raceAnchor})`;
+            const cleanTeammateName = cleanDriverNameForFilename(result.teammate);
+            const teammateLink = `[${result.teammate}](${cleanTeammateName})`
             
-            content += `| ${result.season} | ${raceLink} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${result.teammate} |\n`;
+            content += `| ${result.season} | ${raceLink} | ${result.date} | ${result.session} | ${result.constructor} | ${result.position} | ${result.startingElo} | ${eloChangeStr} | ${result.newElo} | ${teammateLink} |\n`;
         });
 
         

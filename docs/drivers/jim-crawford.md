@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1975 | [Round 13: Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix) | 1975-09-07 | qualifying | Team Lotus | 25 | 1500 | -12 | 1488 | Ronnie Peterson |
-| 1975 | [Round 13: Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix) | 1975-09-07 | race | Team Lotus | 13 | 1500 | N/A | 1500 | Ronnie Peterson |
-| 1975 | [Round 13: Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix) | 1975-09-07 | global | Team Lotus | Q:25/R:13 | 1500 | -4 | 1496 | Ronnie Peterson |
+| 1975 | [Round 13: Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix) | 1975-09-07 | qualifying | Team Lotus | 25 | 1500 | -12 | 1488 | [Ronnie Peterson](ronnie-peterson) |
+| 1975 | [Round 13: Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix) | 1975-09-07 | race | Team Lotus | 13 | 1500 | N/A | 1500 | [Ronnie Peterson](ronnie-peterson) |
+| 1975 | [Round 13: Italian Grand Prix](../seasons/1975-season-report#round-13-italian-grand-prix) | 1975-09-07 | global | Team Lotus | Q:25/R:13 | 1500 | -4 | 1496 | [Ronnie Peterson](ronnie-peterson) |

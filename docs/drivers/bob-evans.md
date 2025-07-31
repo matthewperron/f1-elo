@@ -33,6 +33,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | qualifying | Team Lotus | 23 | 1500 | +32 | 1532 | Gunnar Nilsson |
-| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | race | Team Lotus | 10 | 1500 | N/A | 1500 | Gunnar Nilsson |
-| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | global | Team Lotus | Q:23/R:10 | 1500 | +10 | 1510 | Gunnar Nilsson |
+| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | qualifying | Team Lotus | 23 | 1500 | +32 | 1532 | [Gunnar Nilsson](gunnar-nilsson) |
+| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | race | Team Lotus | 10 | 1500 | N/A | 1500 | [Gunnar Nilsson](gunnar-nilsson) |
+| 1976 | [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | 1976-03-06 | global | Team Lotus | Q:23/R:10 | 1500 | +10 | 1510 | [Gunnar Nilsson](gunnar-nilsson) |

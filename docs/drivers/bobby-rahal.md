@@ -42,9 +42,9 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | qualifying | Wolf | 20 | 1500 | -26 | 1474 | Jody Scheckter |
-| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | race | Wolf | 12 | 1500 | -27 | 1473 | Jody Scheckter |
-| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | global | Wolf | Q:20/R:12 | 1500 | -27 | 1473 | Jody Scheckter |
-| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | qualifying | Wolf | 20 | 1474 | -21 | 1453 | Jody Scheckter |
-| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | race | Wolf | DNF | 1473 | N/A | 1473 | Jody Scheckter |
-| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | global | Wolf | Q:20/R:DNF | 1473 | -6 | 1467 | Jody Scheckter |
+| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | qualifying | Wolf | 20 | 1500 | -26 | 1474 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | race | Wolf | 12 | 1500 | -27 | 1473 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 15: United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) | 1978-10-01 | global | Wolf | Q:20/R:12 | 1500 | -27 | 1473 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | qualifying | Wolf | 20 | 1474 | -21 | 1453 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | race | Wolf | DNF | 1473 | N/A | 1473 | [Jody Scheckter](jody-scheckter) |
+| 1978 | [Round 16: Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) | 1978-10-08 | global | Wolf | Q:20/R:DNF | 1473 | -6 | 1467 | [Jody Scheckter](jody-scheckter) |

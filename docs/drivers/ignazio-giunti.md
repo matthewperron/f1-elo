@@ -42,9 +42,9 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1970 | [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | qualifying | Ferrari | 8 | 1500 | -30 | 1470 | Jacky Ickx |
-| 1970 | [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | race | Ferrari | 4 | 1500 | +41 | 1541 | Jacky Ickx |
-| 1970 | [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | global | Ferrari | Q:8/R:4 | 1500 | +20 | 1520 | Jacky Ickx |
-| 1970 | [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | qualifying | Ferrari | 11 | 1470 | -22 | 1448 | Jacky Ickx |
-| 1970 | [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | race | Ferrari | 14 | 1541 | N/A | 1541 | Jacky Ickx |
-| 1970 | [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | global | Ferrari | Q:11/R:14 | 1520 | -7 | 1513 | Jacky Ickx |
+| 1970 | [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | qualifying | Ferrari | 8 | 1500 | -30 | 1470 | [Jacky Ickx](jacky-ickx) |
+| 1970 | [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | race | Ferrari | 4 | 1500 | +41 | 1541 | [Jacky Ickx](jacky-ickx) |
+| 1970 | [Round 4: Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) | 1970-06-07 | global | Ferrari | Q:8/R:4 | 1500 | +20 | 1520 | [Jacky Ickx](jacky-ickx) |
+| 1970 | [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | qualifying | Ferrari | 11 | 1470 | -22 | 1448 | [Jacky Ickx](jacky-ickx) |
+| 1970 | [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | race | Ferrari | 14 | 1541 | N/A | 1541 | [Jacky Ickx](jacky-ickx) |
+| 1970 | [Round 6: French Grand Prix](../seasons/1970-season-report#round-6-french-grand-prix) | 1970-07-05 | global | Ferrari | Q:11/R:14 | 1520 | -7 | 1513 | [Jacky Ickx](jacky-ickx) |

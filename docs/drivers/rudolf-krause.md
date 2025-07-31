@@ -42,6 +42,6 @@
 
 | Season | Race | Date | Session | Constructor | Position | Starting ELO | ELO Change | Final ELO | Teammate |
 |--------|------|------|---------|-------------|----------|--------------|------------|-----------|----------|
-| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | qualifying | BMW | 26 | 1500 | +32 | 1532 | Ernst Klodwig |
-| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | race | BMW | 14 | 1500 | +32 | 1532 | Ernst Klodwig |
-| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | global | BMW | Q:26/R:14 | 1500 | +32 | 1532 | Ernst Klodwig |
+| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | qualifying | BMW | 26 | 1500 | +32 | 1532 | [Ernst Klodwig](ernst-klodwig) |
+| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | race | BMW | 14 | 1500 | +32 | 1532 | [Ernst Klodwig](ernst-klodwig) |
+| 1953 | [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | 1953-08-02 | global | BMW | Q:26/R:14 | 1500 | +32 | 1532 | [Ernst Klodwig](ernst-klodwig) |

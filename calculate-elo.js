@@ -907,7 +907,7 @@ async function calculateELOFromData(season = '2025') {
 }
 
 // Export functions
-export { calculateELO, updateHomepageFiles, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles };
+export { calculateELO, updateHomepageFiles, saveFinalELOs, calculateELOFromData, generateSeasonReport, generateDriverFiles, cleanDriverNameForFilename };
 
 // Run if called directly (check if this file is the main module being executed)
 import path from 'path';
