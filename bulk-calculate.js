@@ -185,7 +185,7 @@ async function generatePeakELOFile() {
             // Create anchor link for the specific race (format: round-{number}-{racename})
             const roundNumber = driver.round || 'unknown';
             const raceTitle = `Round ${roundNumber} – ${driver.race}`;
-            const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+            const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s\u2013-]/g, '').replace(/[\s\u2013-]+/g, '-');
             const raceLink = `[${raceTitle}](./seasons/${driver.season}-season-report#${raceAnchor})`;
             tableContent += `| ${index + 1} | ${driverLink} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${raceLink} | ${correctTeammate} | ${correctTeammateElo || 'N/A'} |\n`;
         });
@@ -349,7 +349,7 @@ async function updateIndexWithTop30(peakDriversData) {
                 // Create anchor link for the specific race (format: round-{number}-{racename})
                 const roundNumber = driver.round || 'unknown';
                 const raceTitle = `Round ${roundNumber} – ${driver.race}`;
-                const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+                const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s\u2013-]/g, '').replace(/[\s\u2013-]+/g, '-');
                 const raceLink = `[${raceTitle}](./seasons/${driver.season}-season-report#${raceAnchor})`;
 
                 tableContent += `| ${index + 1} | ${driverLink} | **${driver.peak}** | ${driver.constructor} | ${seasonLink} | ${raceLink} | ${teammateLink} | ${correctTeammateElo || 'N/A'} |\n`;
@@ -592,11 +592,11 @@ async function generateComprehensiveDriverFiles() {
 
             // Create links for peak and low qualifying results
             const qualPeakTitle = `Round ${qualPeakResult.round} – ${qualPeakResult.raceName}`;
-            const qualPeakAnchor = qualPeakTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+            const qualPeakAnchor = qualPeakTitle.toLowerCase().replace(/[^a-z0-9\s\u2013-]/g, '').replace(/[\s\u2013-]+/g, '-');
             const qualPeakLink = `[${qualPeakResult.season} Round ${qualPeakResult.round} – ${qualPeakResult.raceName}](../seasons/${qualPeakResult.season}-season-report#${qualPeakAnchor})`;
 
             const qualLowTitle = `Round ${qualLowResult.round} – ${qualLowResult.raceName}`;
-            const qualLowAnchor = qualLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+            const qualLowAnchor = qualLowTitle.toLowerCase().replace(/[^a-z0-9\s\u2013-]/g, '').replace(/[\s\u2013-]+/g, '-');
             const qualLowLink = `[${qualLowResult.season} Round ${qualLowResult.round} – ${qualLowResult.raceName}](../seasons/${qualLowResult.season}-season-report#${qualLowAnchor})`;
 
             peakQualCell = `<center>**\`${qualPeakResult.newElo}\`**<br/><small>${qualPeakLink}</small></center>`;
@@ -610,11 +610,11 @@ async function generateComprehensiveDriverFiles() {
 
             // Create links for peak and low race results
             const racePeakTitle = `Round ${racePeakResult.round} – ${racePeakResult.raceName}`;
-            const racePeakAnchor = racePeakTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+            const racePeakAnchor = racePeakTitle.toLowerCase().replace(/[^a-z0-9\s\u2013-]/g, '').replace(/[\s\u2013-]+/g, '-');
             const racePeakLink = `[${racePeakResult.season} Round ${racePeakResult.round} – ${racePeakResult.raceName}](../seasons/${racePeakResult.season}-season-report#${racePeakAnchor})`;
 
             const raceLowTitle = `Round ${raceLowResult.round} – ${raceLowResult.raceName}`;
-            const raceLowAnchor = raceLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+            const raceLowAnchor = raceLowTitle.toLowerCase().replace(/[^a-z0-9\s\u2013-]/g, '').replace(/[\s\u2013-]+/g, '-');
             const raceLowLink = `[${raceLowResult.season} Round ${raceLowResult.round} – ${raceLowResult.raceName}](../seasons/${raceLowResult.season}-season-report#${raceLowAnchor})`;
 
             peakRaceCell =  `<center>**\`${racePeakResult.newElo}\`**<br/><small>${racePeakLink}</small></center>`;
@@ -628,11 +628,11 @@ async function generateComprehensiveDriverFiles() {
 
             // Create links for peak and low global results
             const globalPeakTitle = `Round ${globalPeakResult.round} – ${globalPeakResult.raceName}`;
-            const globalPeakAnchor = globalPeakTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+            const globalPeakAnchor = globalPeakTitle.toLowerCase().replace(/[^a-z0-9\s\u2013-]/g, '').replace(/[\s\u2013-]+/g, '-');
             const globalPeakLink = `[${globalPeakResult.season} Round ${globalPeakResult.round} – ${globalPeakResult.raceName}](../seasons/${globalPeakResult.season}-season-report#${globalPeakAnchor})`;
 
             const globalLowTitle = `Round ${globalLowResult.round} – ${globalLowResult.raceName}`;
-            const globalLowAnchor = globalLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
+            const globalLowAnchor = globalLowTitle.toLowerCase().replace(/[^a-z0-9\s\u2013-]/g, '').replace(/[\s\u2013-]+/g, '-');
             const globalLowLink = `[${globalLowResult.season} Round ${globalLowResult.round} – ${globalLowResult.raceName}](../seasons/${globalLowResult.season}-season-report#${globalLowAnchor})`;
 
             peakGlobalCell = `<center>**\`${globalPeakResult.newElo}\`**<br/><small>${globalPeakLink}</small></center>`;
@@ -738,8 +738,8 @@ async function generateComprehensiveDriverFiles() {
                     const raceDNFPercent = totalRaces > 0 ? ((raceDNFs / totalRaces) * 100).toFixed(1) : '0.0';
                     const raceEloImpact = Math.round(stats.raceEloImpact);
                     const raceEloFormatted = raceEloImpact === 0 ? '↔ 0' :
-                        raceEloImpact > 0 ? `<span style="color: green;">▲&nbsp;+${raceEloImpact}</span>` :
-                            `<span style="color: red;">▼&nbsp;${raceEloImpact}</span>`;
+                        raceEloImpact > 0 ? `<span style="color: green;">▲&nbsp;+\`${raceEloImpact}\`</span>` :
+                            `<span style="color: red;">▼&nbsp;\`${raceEloImpact}\`</span>`;
 
                     // Qualifying statistics  
                     const qualWins = stats.qualifying.filter(q => q.type === 'win').length;
@@ -794,9 +794,9 @@ async function generateComprehensiveDriverFiles() {
 
             sortedRaceGroups.forEach(raceGroup => {
                 // Create race link to season report
-                const raceTitle = `Round ${raceGroup.round}: ${raceGroup.raceName}`;
-                const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
-                const raceLink = `[${raceTitle}](../seasons/${season}-season-report#${raceAnchor})`;
+                const raceTitle = `Round ${raceGroup.round} – ${raceGroup.raceName}`;
+                const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s\u2013-]/g, '').replace(/[\s\u2013-]+/g, '-');
+                const raceLink = `[Round ${raceGroup.round}: ${raceGroup.raceName}](../seasons/${season}-season-report#${raceAnchor})`;
 
                 // Build positions string with line breaks
                 const qualPos = raceGroup.qualifying?.position || 'N/A';
