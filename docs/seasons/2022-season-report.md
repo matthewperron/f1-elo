@@ -39,7 +39,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Bahrain Grand Prix
+### Round 1 - Bahrain Grand Prix
 *Date: 2022-03-20*
 
 #### Qualifying Results
@@ -94,7 +94,7 @@
 
 ---
 
-### Round 2 – Saudi Arabian Grand Prix
+### Round 2 - Saudi Arabian Grand Prix
 *Date: 2022-03-27*
 
 #### Qualifying Results
@@ -149,7 +149,7 @@
 
 ---
 
-### Round 3 – Australian Grand Prix
+### Round 3 - Australian Grand Prix
 *Date: 2022-04-10*
 
 #### Qualifying Results
@@ -204,7 +204,7 @@
 
 ---
 
-### Round 4 – Emilia Romagna Grand Prix
+### Round 4 - Emilia Romagna Grand Prix
 *Date: 2022-04-24*
 
 #### Qualifying Results
@@ -259,7 +259,7 @@
 
 ---
 
-### Round 5 – Miami Grand Prix
+### Round 5 - Miami Grand Prix
 *Date: 2022-05-08*
 
 #### Qualifying Results
@@ -314,7 +314,7 @@
 
 ---
 
-### Round 6 – Spanish Grand Prix
+### Round 6 - Spanish Grand Prix
 *Date: 2022-05-22*
 
 #### Qualifying Results
@@ -369,7 +369,7 @@
 
 ---
 
-### Round 7 – Monaco Grand Prix
+### Round 7 - Monaco Grand Prix
 *Date: 2022-05-29*
 
 #### Qualifying Results
@@ -424,7 +424,7 @@
 
 ---
 
-### Round 8 – Azerbaijan Grand Prix
+### Round 8 - Azerbaijan Grand Prix
 *Date: 2022-06-12*
 
 #### Qualifying Results
@@ -479,7 +479,7 @@
 
 ---
 
-### Round 9 – Canadian Grand Prix
+### Round 9 - Canadian Grand Prix
 *Date: 2022-06-19*
 
 #### Qualifying Results
@@ -534,7 +534,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 2022-07-03*
 
 #### Qualifying Results
@@ -589,7 +589,7 @@
 
 ---
 
-### Round 11 – Austrian Grand Prix
+### Round 11 - Austrian Grand Prix
 *Date: 2022-07-10*
 
 #### Qualifying Results
@@ -644,7 +644,7 @@
 
 ---
 
-### Round 12 – French Grand Prix
+### Round 12 - French Grand Prix
 *Date: 2022-07-24*
 
 #### Qualifying Results
@@ -699,7 +699,7 @@
 
 ---
 
-### Round 13 – Hungarian Grand Prix
+### Round 13 - Hungarian Grand Prix
 *Date: 2022-07-31*
 
 #### Qualifying Results
@@ -754,7 +754,7 @@
 
 ---
 
-### Round 14 – Belgian Grand Prix
+### Round 14 - Belgian Grand Prix
 *Date: 2022-08-28*
 
 #### Qualifying Results
@@ -809,7 +809,7 @@
 
 ---
 
-### Round 15 – Dutch Grand Prix
+### Round 15 - Dutch Grand Prix
 *Date: 2022-09-04*
 
 #### Qualifying Results
@@ -864,7 +864,7 @@
 
 ---
 
-### Round 16 – Italian Grand Prix
+### Round 16 - Italian Grand Prix
 *Date: 2022-09-11*
 
 #### Qualifying Results
@@ -919,7 +919,7 @@
 
 ---
 
-### Round 17 – Singapore Grand Prix
+### Round 17 - Singapore Grand Prix
 *Date: 2022-10-02*
 
 #### Qualifying Results
@@ -974,7 +974,7 @@
 
 ---
 
-### Round 18 – Japanese Grand Prix
+### Round 18 - Japanese Grand Prix
 *Date: 2022-10-09*
 
 #### Qualifying Results
@@ -1029,7 +1029,7 @@
 
 ---
 
-### Round 19 – United States Grand Prix
+### Round 19 - United States Grand Prix
 *Date: 2022-10-23*
 
 #### Qualifying Results
@@ -1084,7 +1084,7 @@
 
 ---
 
-### Round 20 – Mexico City Grand Prix
+### Round 20 - Mexico City Grand Prix
 *Date: 2022-10-30*
 
 #### Qualifying Results
@@ -1139,7 +1139,7 @@
 
 ---
 
-### Round 21 – São Paulo Grand Prix
+### Round 21 - São Paulo Grand Prix
 *Date: 2022-11-13*
 
 #### Qualifying Results
@@ -1194,7 +1194,7 @@
 
 ---
 
-### Round 22 – Abu Dhabi Grand Prix
+### Round 22 - Abu Dhabi Grand Prix
 *Date: 2022-11-20*
 
 #### Qualifying Results

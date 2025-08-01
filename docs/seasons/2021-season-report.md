@@ -38,7 +38,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Bahrain Grand Prix
+### Round 1 - Bahrain Grand Prix
 *Date: 2021-03-28*
 
 #### Qualifying Results
@@ -93,7 +93,7 @@
 
 ---
 
-### Round 2 – Emilia Romagna Grand Prix
+### Round 2 - Emilia Romagna Grand Prix
 *Date: 2021-04-18*
 
 #### Qualifying Results
@@ -148,7 +148,7 @@
 
 ---
 
-### Round 3 – Portuguese Grand Prix
+### Round 3 - Portuguese Grand Prix
 *Date: 2021-05-02*
 
 #### Qualifying Results
@@ -203,7 +203,7 @@
 
 ---
 
-### Round 4 – Spanish Grand Prix
+### Round 4 - Spanish Grand Prix
 *Date: 2021-05-09*
 
 #### Qualifying Results
@@ -258,7 +258,7 @@
 
 ---
 
-### Round 5 – Monaco Grand Prix
+### Round 5 - Monaco Grand Prix
 *Date: 2021-05-23*
 
 #### Qualifying Results
@@ -313,7 +313,7 @@
 
 ---
 
-### Round 6 – Azerbaijan Grand Prix
+### Round 6 - Azerbaijan Grand Prix
 *Date: 2021-06-06*
 
 #### Qualifying Results
@@ -368,7 +368,7 @@
 
 ---
 
-### Round 7 – French Grand Prix
+### Round 7 - French Grand Prix
 *Date: 2021-06-20*
 
 #### Qualifying Results
@@ -423,7 +423,7 @@
 
 ---
 
-### Round 8 – Styrian Grand Prix
+### Round 8 - Styrian Grand Prix
 *Date: 2021-06-27*
 
 #### Qualifying Results
@@ -478,7 +478,7 @@
 
 ---
 
-### Round 9 – Austrian Grand Prix
+### Round 9 - Austrian Grand Prix
 *Date: 2021-07-04*
 
 #### Qualifying Results
@@ -533,7 +533,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 2021-07-18*
 
 #### Qualifying Results
@@ -588,7 +588,7 @@
 
 ---
 
-### Round 11 – Hungarian Grand Prix
+### Round 11 - Hungarian Grand Prix
 *Date: 2021-08-01*
 
 #### Qualifying Results
@@ -643,7 +643,7 @@
 
 ---
 
-### Round 12 – Belgian Grand Prix
+### Round 12 - Belgian Grand Prix
 *Date: 2021-08-29*
 
 #### Qualifying Results
@@ -698,7 +698,7 @@
 
 ---
 
-### Round 13 – Dutch Grand Prix
+### Round 13 - Dutch Grand Prix
 *Date: 2021-09-05*
 
 #### Qualifying Results
@@ -753,7 +753,7 @@
 
 ---
 
-### Round 14 – Italian Grand Prix
+### Round 14 - Italian Grand Prix
 *Date: 2021-09-12*
 
 #### Qualifying Results
@@ -808,7 +808,7 @@
 
 ---
 
-### Round 15 – Russian Grand Prix
+### Round 15 - Russian Grand Prix
 *Date: 2021-09-26*
 
 #### Qualifying Results
@@ -863,7 +863,7 @@
 
 ---
 
-### Round 16 – Turkish Grand Prix
+### Round 16 - Turkish Grand Prix
 *Date: 2021-10-10*
 
 #### Qualifying Results
@@ -918,7 +918,7 @@
 
 ---
 
-### Round 17 – United States Grand Prix
+### Round 17 - United States Grand Prix
 *Date: 2021-10-24*
 
 #### Qualifying Results
@@ -973,7 +973,7 @@
 
 ---
 
-### Round 18 – Mexico City Grand Prix
+### Round 18 - Mexico City Grand Prix
 *Date: 2021-11-07*
 
 #### Qualifying Results
@@ -1028,7 +1028,7 @@
 
 ---
 
-### Round 19 – São Paulo Grand Prix
+### Round 19 - São Paulo Grand Prix
 *Date: 2021-11-14*
 
 #### Qualifying Results
@@ -1083,7 +1083,7 @@
 
 ---
 
-### Round 20 – Qatar Grand Prix
+### Round 20 - Qatar Grand Prix
 *Date: 2021-11-21*
 
 #### Qualifying Results
@@ -1138,7 +1138,7 @@
 
 ---
 
-### Round 21 – Saudi Arabian Grand Prix
+### Round 21 - Saudi Arabian Grand Prix
 *Date: 2021-12-05*
 
 #### Qualifying Results
@@ -1193,7 +1193,7 @@
 
 ---
 
-### Round 22 – Abu Dhabi Grand Prix
+### Round 22 - Abu Dhabi Grand Prix
 *Date: 2021-12-12*
 
 #### Qualifying Results

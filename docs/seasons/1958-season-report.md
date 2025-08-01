@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Argentine Grand Prix
+### Round 1 - Argentine Grand Prix
 *Date: 1958-01-19*
 
 #### Qualifying Results
@@ -102,7 +102,7 @@
 
 ---
 
-### Round 2 – Monaco Grand Prix
+### Round 2 - Monaco Grand Prix
 *Date: 1958-05-18*
 
 #### Qualifying Results
@@ -149,7 +149,7 @@
 
 ---
 
-### Round 3 – Dutch Grand Prix
+### Round 3 - Dutch Grand Prix
 *Date: 1958-05-26*
 
 #### Qualifying Results
@@ -200,7 +200,7 @@
 
 ---
 
-### Round 4 – Indianapolis 500
+### Round 4 - Indianapolis 500
 *Date: 1958-05-30*
 
 #### Qualifying Results
@@ -281,7 +281,7 @@
 
 ---
 
-### Round 5 – Belgian Grand Prix
+### Round 5 - Belgian Grand Prix
 *Date: 1958-06-15*
 
 #### Qualifying Results
@@ -334,7 +334,7 @@
 
 ---
 
-### Round 6 – French Grand Prix
+### Round 6 - French Grand Prix
 *Date: 1958-07-06*
 
 #### Qualifying Results
@@ -393,7 +393,7 @@
 
 ---
 
-### Round 7 – British Grand Prix
+### Round 7 - British Grand Prix
 *Date: 1958-07-19*
 
 #### Qualifying Results
@@ -448,7 +448,7 @@
 
 ---
 
-### Round 8 – German Grand Prix
+### Round 8 - German Grand Prix
 *Date: 1958-08-03*
 
 #### Qualifying Results
@@ -515,7 +515,7 @@
 
 ---
 
-### Round 9 – Portuguese Grand Prix
+### Round 9 - Portuguese Grand Prix
 *Date: 1958-08-24*
 
 #### Qualifying Results
@@ -560,7 +560,7 @@
 
 ---
 
-### Round 10 – Italian Grand Prix
+### Round 10 - Italian Grand Prix
 *Date: 1958-09-07*
 
 #### Qualifying Results
@@ -617,7 +617,7 @@
 
 ---
 
-### Round 11 – Moroccan Grand Prix
+### Round 11 - Moroccan Grand Prix
 *Date: 1958-10-19*
 
 #### Qualifying Results

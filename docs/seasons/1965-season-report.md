@@ -56,7 +56,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – South African Grand Prix
+### Round 1 - South African Grand Prix
 *Date: 1965-01-01*
 
 #### Qualifying Results
@@ -117,7 +117,7 @@
 
 ---
 
-### Round 2 – Monaco Grand Prix
+### Round 2 - Monaco Grand Prix
 *Date: 1965-05-30*
 
 #### Qualifying Results
@@ -164,7 +164,7 @@
 
 ---
 
-### Round 3 – Belgian Grand Prix
+### Round 3 - Belgian Grand Prix
 *Date: 1965-06-13*
 
 #### Qualifying Results
@@ -217,7 +217,7 @@
 
 ---
 
-### Round 4 – French Grand Prix
+### Round 4 - French Grand Prix
 *Date: 1965-06-27*
 
 #### Qualifying Results
@@ -266,7 +266,7 @@
 
 ---
 
-### Round 5 – British Grand Prix
+### Round 5 - British Grand Prix
 *Date: 1965-07-10*
 
 #### Qualifying Results
@@ -323,7 +323,7 @@
 
 ---
 
-### Round 6 – Dutch Grand Prix
+### Round 6 - Dutch Grand Prix
 *Date: 1965-07-18*
 
 #### Qualifying Results
@@ -372,7 +372,7 @@
 
 ---
 
-### Round 7 – German Grand Prix
+### Round 7 - German Grand Prix
 *Date: 1965-08-01*
 
 #### Qualifying Results
@@ -425,7 +425,7 @@
 
 ---
 
-### Round 8 – Italian Grand Prix
+### Round 8 - Italian Grand Prix
 *Date: 1965-09-12*
 
 #### Qualifying Results
@@ -486,7 +486,7 @@
 
 ---
 
-### Round 9 – United States Grand Prix
+### Round 9 - United States Grand Prix
 *Date: 1965-10-03*
 
 #### Qualifying Results
@@ -537,7 +537,7 @@
 
 ---
 
-### Round 10 – Mexican Grand Prix
+### Round 10 - Mexican Grand Prix
 *Date: 1965-10-24*
 
 #### Qualifying Results

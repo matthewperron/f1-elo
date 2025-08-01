@@ -41,7 +41,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 1996-03-10*
 
 #### Qualifying Results
@@ -96,7 +96,7 @@
 
 ---
 
-### Round 2 – Brazilian Grand Prix
+### Round 2 - Brazilian Grand Prix
 *Date: 1996-03-31*
 
 #### Qualifying Results
@@ -155,7 +155,7 @@
 
 ---
 
-### Round 3 – Argentine Grand Prix
+### Round 3 - Argentine Grand Prix
 *Date: 1996-04-07*
 
 #### Qualifying Results
@@ -214,7 +214,7 @@
 
 ---
 
-### Round 4 – European Grand Prix
+### Round 4 - European Grand Prix
 *Date: 1996-04-28*
 
 #### Qualifying Results
@@ -269,7 +269,7 @@
 
 ---
 
-### Round 5 – San Marino Grand Prix
+### Round 5 - San Marino Grand Prix
 *Date: 1996-05-05*
 
 #### Qualifying Results
@@ -326,7 +326,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 1996-05-19*
 
 #### Qualifying Results
@@ -385,7 +385,7 @@
 
 ---
 
-### Round 7 – Spanish Grand Prix
+### Round 7 - Spanish Grand Prix
 *Date: 1996-06-02*
 
 #### Qualifying Results
@@ -440,7 +440,7 @@
 
 ---
 
-### Round 8 – Canadian Grand Prix
+### Round 8 - Canadian Grand Prix
 *Date: 1996-06-16*
 
 #### Qualifying Results
@@ -499,7 +499,7 @@
 
 ---
 
-### Round 9 – French Grand Prix
+### Round 9 - French Grand Prix
 *Date: 1996-06-30*
 
 #### Qualifying Results
@@ -558,7 +558,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 1996-07-14*
 
 #### Qualifying Results
@@ -613,7 +613,7 @@
 
 ---
 
-### Round 11 – German Grand Prix
+### Round 11 - German Grand Prix
 *Date: 1996-07-28*
 
 #### Qualifying Results
@@ -666,7 +666,7 @@
 
 ---
 
-### Round 12 – Hungarian Grand Prix
+### Round 12 - Hungarian Grand Prix
 *Date: 1996-08-11*
 
 #### Qualifying Results
@@ -721,7 +721,7 @@
 
 ---
 
-### Round 13 – Belgian Grand Prix
+### Round 13 - Belgian Grand Prix
 *Date: 1996-08-25*
 
 #### Qualifying Results
@@ -774,7 +774,7 @@
 
 ---
 
-### Round 14 – Italian Grand Prix
+### Round 14 - Italian Grand Prix
 *Date: 1996-09-08*
 
 #### Qualifying Results
@@ -829,7 +829,7 @@
 
 ---
 
-### Round 15 – Portuguese Grand Prix
+### Round 15 - Portuguese Grand Prix
 *Date: 1996-09-22*
 
 #### Qualifying Results
@@ -884,7 +884,7 @@
 
 ---
 
-### Round 16 – Japanese Grand Prix
+### Round 16 - Japanese Grand Prix
 *Date: 1996-10-13*
 
 #### Qualifying Results

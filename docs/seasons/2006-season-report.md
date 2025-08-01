@@ -44,7 +44,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Bahrain Grand Prix
+### Round 1 - Bahrain Grand Prix
 *Date: 2006-03-12*
 
 #### Qualifying Results
@@ -103,7 +103,7 @@
 
 ---
 
-### Round 2 – Malaysian Grand Prix
+### Round 2 - Malaysian Grand Prix
 *Date: 2006-03-19*
 
 #### Qualifying Results
@@ -162,7 +162,7 @@
 
 ---
 
-### Round 3 – Australian Grand Prix
+### Round 3 - Australian Grand Prix
 *Date: 2006-04-02*
 
 #### Qualifying Results
@@ -221,7 +221,7 @@
 
 ---
 
-### Round 4 – San Marino Grand Prix
+### Round 4 - San Marino Grand Prix
 *Date: 2006-04-23*
 
 #### Qualifying Results
@@ -280,7 +280,7 @@
 
 ---
 
-### Round 5 – European Grand Prix
+### Round 5 - European Grand Prix
 *Date: 2006-05-07*
 
 #### Qualifying Results
@@ -339,7 +339,7 @@
 
 ---
 
-### Round 6 – Spanish Grand Prix
+### Round 6 - Spanish Grand Prix
 *Date: 2006-05-14*
 
 #### Qualifying Results
@@ -398,7 +398,7 @@
 
 ---
 
-### Round 7 – Monaco Grand Prix
+### Round 7 - Monaco Grand Prix
 *Date: 2006-05-28*
 
 #### Qualifying Results
@@ -457,7 +457,7 @@
 
 ---
 
-### Round 8 – British Grand Prix
+### Round 8 - British Grand Prix
 *Date: 2006-06-11*
 
 #### Qualifying Results
@@ -516,7 +516,7 @@
 
 ---
 
-### Round 9 – Canadian Grand Prix
+### Round 9 - Canadian Grand Prix
 *Date: 2006-06-25*
 
 #### Qualifying Results
@@ -575,7 +575,7 @@
 
 ---
 
-### Round 10 – United States Grand Prix
+### Round 10 - United States Grand Prix
 *Date: 2006-07-02*
 
 #### Qualifying Results
@@ -634,7 +634,7 @@
 
 ---
 
-### Round 11 – French Grand Prix
+### Round 11 - French Grand Prix
 *Date: 2006-07-16*
 
 #### Qualifying Results
@@ -693,7 +693,7 @@
 
 ---
 
-### Round 12 – German Grand Prix
+### Round 12 - German Grand Prix
 *Date: 2006-07-30*
 
 #### Qualifying Results
@@ -752,7 +752,7 @@
 
 ---
 
-### Round 13 – Hungarian Grand Prix
+### Round 13 - Hungarian Grand Prix
 *Date: 2006-08-06*
 
 #### Qualifying Results
@@ -811,7 +811,7 @@
 
 ---
 
-### Round 14 – Turkish Grand Prix
+### Round 14 - Turkish Grand Prix
 *Date: 2006-08-27*
 
 #### Qualifying Results
@@ -870,7 +870,7 @@
 
 ---
 
-### Round 15 – Italian Grand Prix
+### Round 15 - Italian Grand Prix
 *Date: 2006-09-10*
 
 #### Qualifying Results
@@ -929,7 +929,7 @@
 
 ---
 
-### Round 16 – Chinese Grand Prix
+### Round 16 - Chinese Grand Prix
 *Date: 2006-10-01*
 
 #### Qualifying Results
@@ -988,7 +988,7 @@
 
 ---
 
-### Round 17 – Japanese Grand Prix
+### Round 17 - Japanese Grand Prix
 *Date: 2006-10-08*
 
 #### Qualifying Results
@@ -1047,7 +1047,7 @@
 
 ---
 
-### Round 18 – Brazilian Grand Prix
+### Round 18 - Brazilian Grand Prix
 *Date: 2006-10-22*
 
 #### Qualifying Results

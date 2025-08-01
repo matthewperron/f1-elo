@@ -49,7 +49,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – United States Grand Prix West
+### Round 1 - United States Grand Prix West
 *Date: 1981-03-15*
 
 #### Qualifying Results
@@ -112,7 +112,7 @@
 
 ---
 
-### Round 2 – Brazilian Grand Prix
+### Round 2 - Brazilian Grand Prix
 *Date: 1981-03-29*
 
 #### Qualifying Results
@@ -177,7 +177,7 @@
 
 ---
 
-### Round 3 – Argentine Grand Prix
+### Round 3 - Argentine Grand Prix
 *Date: 1981-04-12*
 
 #### Qualifying Results
@@ -240,7 +240,7 @@
 
 ---
 
-### Round 4 – San Marino Grand Prix
+### Round 4 - San Marino Grand Prix
 *Date: 1981-05-03*
 
 #### Qualifying Results
@@ -309,7 +309,7 @@
 
 ---
 
-### Round 5 – Belgian Grand Prix
+### Round 5 - Belgian Grand Prix
 *Date: 1981-05-17*
 
 #### Qualifying Results
@@ -372,7 +372,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 1981-05-31*
 
 #### Qualifying Results
@@ -427,7 +427,7 @@
 
 ---
 
-### Round 7 – Spanish Grand Prix
+### Round 7 - Spanish Grand Prix
 *Date: 1981-06-21*
 
 #### Qualifying Results
@@ -490,7 +490,7 @@
 
 ---
 
-### Round 8 – French Grand Prix
+### Round 8 - French Grand Prix
 *Date: 1981-07-05*
 
 #### Qualifying Results
@@ -553,7 +553,7 @@
 
 ---
 
-### Round 9 – British Grand Prix
+### Round 9 - British Grand Prix
 *Date: 1981-07-18*
 
 #### Qualifying Results
@@ -616,7 +616,7 @@
 
 ---
 
-### Round 10 – German Grand Prix
+### Round 10 - German Grand Prix
 *Date: 1981-08-02*
 
 #### Qualifying Results
@@ -679,7 +679,7 @@
 
 ---
 
-### Round 11 – Austrian Grand Prix
+### Round 11 - Austrian Grand Prix
 *Date: 1981-08-16*
 
 #### Qualifying Results
@@ -742,7 +742,7 @@
 
 ---
 
-### Round 12 – Dutch Grand Prix
+### Round 12 - Dutch Grand Prix
 *Date: 1981-08-30*
 
 #### Qualifying Results
@@ -807,7 +807,7 @@
 
 ---
 
-### Round 13 – Italian Grand Prix
+### Round 13 - Italian Grand Prix
 *Date: 1981-09-13*
 
 #### Qualifying Results
@@ -870,7 +870,7 @@
 
 ---
 
-### Round 14 – Canadian Grand Prix
+### Round 14 - Canadian Grand Prix
 *Date: 1981-09-27*
 
 #### Qualifying Results
@@ -933,7 +933,7 @@
 
 ---
 
-### Round 15 – Caesars Palace Grand Prix
+### Round 15 - Caesars Palace Grand Prix
 *Date: 1981-10-17*
 
 #### Qualifying Results

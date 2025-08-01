@@ -45,7 +45,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Brazilian Grand Prix
+### Round 1 - Brazilian Grand Prix
 *Date: 1987-04-12*
 
 #### Qualifying Results
@@ -106,7 +106,7 @@
 
 ---
 
-### Round 2 – San Marino Grand Prix
+### Round 2 - San Marino Grand Prix
 *Date: 1987-05-03*
 
 #### Qualifying Results
@@ -175,7 +175,7 @@
 
 ---
 
-### Round 3 – Belgian Grand Prix
+### Round 3 - Belgian Grand Prix
 *Date: 1987-05-17*
 
 #### Qualifying Results
@@ -242,7 +242,7 @@
 
 ---
 
-### Round 4 – Monaco Grand Prix
+### Round 4 - Monaco Grand Prix
 *Date: 1987-05-31*
 
 #### Qualifying Results
@@ -309,7 +309,7 @@
 
 ---
 
-### Round 5 – Detroit Grand Prix
+### Round 5 - Detroit Grand Prix
 *Date: 1987-06-21*
 
 #### Qualifying Results
@@ -376,7 +376,7 @@
 
 ---
 
-### Round 6 – French Grand Prix
+### Round 6 - French Grand Prix
 *Date: 1987-07-05*
 
 #### Qualifying Results
@@ -443,7 +443,7 @@
 
 ---
 
-### Round 7 – British Grand Prix
+### Round 7 - British Grand Prix
 *Date: 1987-07-12*
 
 #### Qualifying Results
@@ -510,7 +510,7 @@
 
 ---
 
-### Round 8 – German Grand Prix
+### Round 8 - German Grand Prix
 *Date: 1987-07-26*
 
 #### Qualifying Results
@@ -577,7 +577,7 @@
 
 ---
 
-### Round 9 – Hungarian Grand Prix
+### Round 9 - Hungarian Grand Prix
 *Date: 1987-08-09*
 
 #### Qualifying Results
@@ -644,7 +644,7 @@
 
 ---
 
-### Round 10 – Austrian Grand Prix
+### Round 10 - Austrian Grand Prix
 *Date: 1987-08-16*
 
 #### Qualifying Results
@@ -711,7 +711,7 @@
 
 ---
 
-### Round 11 – Italian Grand Prix
+### Round 11 - Italian Grand Prix
 *Date: 1987-09-06*
 
 #### Qualifying Results
@@ -778,7 +778,7 @@
 
 ---
 
-### Round 12 – Portuguese Grand Prix
+### Round 12 - Portuguese Grand Prix
 *Date: 1987-09-20*
 
 #### Qualifying Results
@@ -845,7 +845,7 @@
 
 ---
 
-### Round 13 – Spanish Grand Prix
+### Round 13 - Spanish Grand Prix
 *Date: 1987-09-27*
 
 #### Qualifying Results
@@ -912,7 +912,7 @@
 
 ---
 
-### Round 14 – Mexican Grand Prix
+### Round 14 - Mexican Grand Prix
 *Date: 1987-10-18*
 
 #### Qualifying Results
@@ -979,7 +979,7 @@
 
 ---
 
-### Round 15 – Japanese Grand Prix
+### Round 15 - Japanese Grand Prix
 *Date: 1987-11-01*
 
 #### Qualifying Results
@@ -1048,7 +1048,7 @@
 
 ---
 
-### Round 16 – Australian Grand Prix
+### Round 16 - Australian Grand Prix
 *Date: 1987-11-15*
 
 #### Qualifying Results

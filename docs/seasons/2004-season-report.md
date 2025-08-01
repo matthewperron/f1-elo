@@ -42,7 +42,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2004-03-07*
 
 #### Qualifying Results
@@ -97,7 +97,7 @@
 
 ---
 
-### Round 2 – Malaysian Grand Prix
+### Round 2 - Malaysian Grand Prix
 *Date: 2004-03-21*
 
 #### Qualifying Results
@@ -152,7 +152,7 @@
 
 ---
 
-### Round 3 – Bahrain Grand Prix
+### Round 3 - Bahrain Grand Prix
 *Date: 2004-04-04*
 
 #### Qualifying Results
@@ -207,7 +207,7 @@
 
 ---
 
-### Round 4 – San Marino Grand Prix
+### Round 4 - San Marino Grand Prix
 *Date: 2004-04-25*
 
 #### Qualifying Results
@@ -262,7 +262,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2004-05-09*
 
 #### Qualifying Results
@@ -317,7 +317,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 2004-05-23*
 
 #### Qualifying Results
@@ -372,7 +372,7 @@
 
 ---
 
-### Round 7 – European Grand Prix
+### Round 7 - European Grand Prix
 *Date: 2004-05-30*
 
 #### Qualifying Results
@@ -427,7 +427,7 @@
 
 ---
 
-### Round 8 – Canadian Grand Prix
+### Round 8 - Canadian Grand Prix
 *Date: 2004-06-13*
 
 #### Qualifying Results
@@ -482,7 +482,7 @@
 
 ---
 
-### Round 9 – United States Grand Prix
+### Round 9 - United States Grand Prix
 *Date: 2004-06-20*
 
 #### Qualifying Results
@@ -537,7 +537,7 @@
 
 ---
 
-### Round 10 – French Grand Prix
+### Round 10 - French Grand Prix
 *Date: 2004-07-04*
 
 #### Qualifying Results
@@ -592,7 +592,7 @@
 
 ---
 
-### Round 11 – British Grand Prix
+### Round 11 - British Grand Prix
 *Date: 2004-07-11*
 
 #### Qualifying Results
@@ -647,7 +647,7 @@
 
 ---
 
-### Round 12 – German Grand Prix
+### Round 12 - German Grand Prix
 *Date: 2004-07-25*
 
 #### Qualifying Results
@@ -702,7 +702,7 @@
 
 ---
 
-### Round 13 – Hungarian Grand Prix
+### Round 13 - Hungarian Grand Prix
 *Date: 2004-08-15*
 
 #### Qualifying Results
@@ -757,7 +757,7 @@
 
 ---
 
-### Round 14 – Belgian Grand Prix
+### Round 14 - Belgian Grand Prix
 *Date: 2004-08-29*
 
 #### Qualifying Results
@@ -812,7 +812,7 @@
 
 ---
 
-### Round 15 – Italian Grand Prix
+### Round 15 - Italian Grand Prix
 *Date: 2004-09-12*
 
 #### Qualifying Results
@@ -867,7 +867,7 @@
 
 ---
 
-### Round 16 – Chinese Grand Prix
+### Round 16 - Chinese Grand Prix
 *Date: 2004-09-26*
 
 #### Qualifying Results
@@ -922,7 +922,7 @@
 
 ---
 
-### Round 17 – Japanese Grand Prix
+### Round 17 - Japanese Grand Prix
 *Date: 2004-10-10*
 
 #### Qualifying Results
@@ -977,7 +977,7 @@
 
 ---
 
-### Round 18 – Brazilian Grand Prix
+### Round 18 - Brazilian Grand Prix
 *Date: 2004-10-24*
 
 #### Qualifying Results

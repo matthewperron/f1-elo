@@ -41,7 +41,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2003-03-09*
 
 #### Qualifying Results
@@ -96,7 +96,7 @@
 
 ---
 
-### Round 2 – Malaysian Grand Prix
+### Round 2 - Malaysian Grand Prix
 *Date: 2003-03-23*
 
 #### Qualifying Results
@@ -151,7 +151,7 @@
 
 ---
 
-### Round 3 – Brazilian Grand Prix
+### Round 3 - Brazilian Grand Prix
 *Date: 2003-04-06*
 
 #### Qualifying Results
@@ -206,7 +206,7 @@
 
 ---
 
-### Round 4 – San Marino Grand Prix
+### Round 4 - San Marino Grand Prix
 *Date: 2003-04-20*
 
 #### Qualifying Results
@@ -261,7 +261,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2003-05-04*
 
 #### Qualifying Results
@@ -316,7 +316,7 @@
 
 ---
 
-### Round 6 – Austrian Grand Prix
+### Round 6 - Austrian Grand Prix
 *Date: 2003-05-18*
 
 #### Qualifying Results
@@ -371,7 +371,7 @@
 
 ---
 
-### Round 7 – Monaco Grand Prix
+### Round 7 - Monaco Grand Prix
 *Date: 2003-06-01*
 
 #### Qualifying Results
@@ -426,7 +426,7 @@
 
 ---
 
-### Round 8 – Canadian Grand Prix
+### Round 8 - Canadian Grand Prix
 *Date: 2003-06-15*
 
 #### Qualifying Results
@@ -481,7 +481,7 @@
 
 ---
 
-### Round 9 – European Grand Prix
+### Round 9 - European Grand Prix
 *Date: 2003-06-29*
 
 #### Qualifying Results
@@ -536,7 +536,7 @@
 
 ---
 
-### Round 10 – French Grand Prix
+### Round 10 - French Grand Prix
 *Date: 2003-07-06*
 
 #### Qualifying Results
@@ -591,7 +591,7 @@
 
 ---
 
-### Round 11 – British Grand Prix
+### Round 11 - British Grand Prix
 *Date: 2003-07-20*
 
 #### Qualifying Results
@@ -646,7 +646,7 @@
 
 ---
 
-### Round 12 – German Grand Prix
+### Round 12 - German Grand Prix
 *Date: 2003-08-03*
 
 #### Qualifying Results
@@ -701,7 +701,7 @@
 
 ---
 
-### Round 13 – Hungarian Grand Prix
+### Round 13 - Hungarian Grand Prix
 *Date: 2003-08-24*
 
 #### Qualifying Results
@@ -756,7 +756,7 @@
 
 ---
 
-### Round 14 – Italian Grand Prix
+### Round 14 - Italian Grand Prix
 *Date: 2003-09-14*
 
 #### Qualifying Results
@@ -811,7 +811,7 @@
 
 ---
 
-### Round 15 – United States Grand Prix
+### Round 15 - United States Grand Prix
 *Date: 2003-09-28*
 
 #### Qualifying Results
@@ -866,7 +866,7 @@
 
 ---
 
-### Round 16 – Japanese Grand Prix
+### Round 16 - Japanese Grand Prix
 *Date: 2003-10-12*
 
 #### Qualifying Results

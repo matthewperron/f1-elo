@@ -47,7 +47,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Brazilian Grand Prix
+### Round 1 - Brazilian Grand Prix
 *Date: 1985-04-07*
 
 #### Qualifying Results
@@ -112,7 +112,7 @@
 
 ---
 
-### Round 2 – Portuguese Grand Prix
+### Round 2 - Portuguese Grand Prix
 *Date: 1985-04-21*
 
 #### Qualifying Results
@@ -179,7 +179,7 @@
 
 ---
 
-### Round 3 – San Marino Grand Prix
+### Round 3 - San Marino Grand Prix
 *Date: 1985-05-05*
 
 #### Qualifying Results
@@ -246,7 +246,7 @@
 
 ---
 
-### Round 4 – Monaco Grand Prix
+### Round 4 - Monaco Grand Prix
 *Date: 1985-05-19*
 
 #### Qualifying Results
@@ -301,7 +301,7 @@
 
 ---
 
-### Round 5 – Canadian Grand Prix
+### Round 5 - Canadian Grand Prix
 *Date: 1985-06-16*
 
 #### Qualifying Results
@@ -366,7 +366,7 @@
 
 ---
 
-### Round 6 – Detroit Grand Prix
+### Round 6 - Detroit Grand Prix
 *Date: 1985-06-23*
 
 #### Qualifying Results
@@ -431,7 +431,7 @@
 
 ---
 
-### Round 7 – French Grand Prix
+### Round 7 - French Grand Prix
 *Date: 1985-07-07*
 
 #### Qualifying Results
@@ -498,7 +498,7 @@
 
 ---
 
-### Round 8 – British Grand Prix
+### Round 8 - British Grand Prix
 *Date: 1985-07-21*
 
 #### Qualifying Results
@@ -565,7 +565,7 @@
 
 ---
 
-### Round 9 – German Grand Prix
+### Round 9 - German Grand Prix
 *Date: 1985-08-04*
 
 #### Qualifying Results
@@ -634,7 +634,7 @@
 
 ---
 
-### Round 10 – Austrian Grand Prix
+### Round 10 - Austrian Grand Prix
 *Date: 1985-08-18*
 
 #### Qualifying Results
@@ -701,7 +701,7 @@
 
 ---
 
-### Round 11 – Dutch Grand Prix
+### Round 11 - Dutch Grand Prix
 *Date: 1985-08-25*
 
 #### Qualifying Results
@@ -768,7 +768,7 @@
 
 ---
 
-### Round 12 – Italian Grand Prix
+### Round 12 - Italian Grand Prix
 *Date: 1985-09-08*
 
 #### Qualifying Results
@@ -835,7 +835,7 @@
 
 ---
 
-### Round 13 – Belgian Grand Prix
+### Round 13 - Belgian Grand Prix
 *Date: 1985-09-15*
 
 #### Qualifying Results
@@ -898,7 +898,7 @@
 
 ---
 
-### Round 14 – European Grand Prix
+### Round 14 - European Grand Prix
 *Date: 1985-10-06*
 
 #### Qualifying Results
@@ -965,7 +965,7 @@
 
 ---
 
-### Round 15 – South African Grand Prix
+### Round 15 - South African Grand Prix
 *Date: 1985-10-19*
 
 #### Qualifying Results
@@ -1022,7 +1022,7 @@
 
 ---
 
-### Round 16 – Australian Grand Prix
+### Round 16 - Australian Grand Prix
 *Date: 1985-11-03*
 
 #### Qualifying Results

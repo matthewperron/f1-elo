@@ -39,7 +39,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2008-03-16*
 
 #### Qualifying Results
@@ -98,7 +98,7 @@
 
 ---
 
-### Round 2 – Malaysian Grand Prix
+### Round 2 - Malaysian Grand Prix
 *Date: 2008-03-23*
 
 #### Qualifying Results
@@ -157,7 +157,7 @@
 
 ---
 
-### Round 3 – Bahrain Grand Prix
+### Round 3 - Bahrain Grand Prix
 *Date: 2008-04-06*
 
 #### Qualifying Results
@@ -216,7 +216,7 @@
 
 ---
 
-### Round 4 – Spanish Grand Prix
+### Round 4 - Spanish Grand Prix
 *Date: 2008-04-27*
 
 #### Qualifying Results
@@ -275,7 +275,7 @@
 
 ---
 
-### Round 5 – Turkish Grand Prix
+### Round 5 - Turkish Grand Prix
 *Date: 2008-05-11*
 
 #### Qualifying Results
@@ -330,7 +330,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 2008-05-25*
 
 #### Qualifying Results
@@ -385,7 +385,7 @@
 
 ---
 
-### Round 7 – Canadian Grand Prix
+### Round 7 - Canadian Grand Prix
 *Date: 2008-06-08*
 
 #### Qualifying Results
@@ -440,7 +440,7 @@
 
 ---
 
-### Round 8 – French Grand Prix
+### Round 8 - French Grand Prix
 *Date: 2008-06-22*
 
 #### Qualifying Results
@@ -495,7 +495,7 @@
 
 ---
 
-### Round 9 – British Grand Prix
+### Round 9 - British Grand Prix
 *Date: 2008-07-06*
 
 #### Qualifying Results
@@ -550,7 +550,7 @@
 
 ---
 
-### Round 10 – German Grand Prix
+### Round 10 - German Grand Prix
 *Date: 2008-07-20*
 
 #### Qualifying Results
@@ -605,7 +605,7 @@
 
 ---
 
-### Round 11 – Hungarian Grand Prix
+### Round 11 - Hungarian Grand Prix
 *Date: 2008-08-03*
 
 #### Qualifying Results
@@ -660,7 +660,7 @@
 
 ---
 
-### Round 12 – European Grand Prix
+### Round 12 - European Grand Prix
 *Date: 2008-08-24*
 
 #### Qualifying Results
@@ -715,7 +715,7 @@
 
 ---
 
-### Round 13 – Belgian Grand Prix
+### Round 13 - Belgian Grand Prix
 *Date: 2008-09-07*
 
 #### Qualifying Results
@@ -770,7 +770,7 @@
 
 ---
 
-### Round 14 – Italian Grand Prix
+### Round 14 - Italian Grand Prix
 *Date: 2008-09-14*
 
 #### Qualifying Results
@@ -825,7 +825,7 @@
 
 ---
 
-### Round 15 – Singapore Grand Prix
+### Round 15 - Singapore Grand Prix
 *Date: 2008-09-28*
 
 #### Qualifying Results
@@ -880,7 +880,7 @@
 
 ---
 
-### Round 16 – Japanese Grand Prix
+### Round 16 - Japanese Grand Prix
 *Date: 2008-10-12*
 
 #### Qualifying Results
@@ -935,7 +935,7 @@
 
 ---
 
-### Round 17 – Chinese Grand Prix
+### Round 17 - Chinese Grand Prix
 *Date: 2008-10-19*
 
 #### Qualifying Results
@@ -990,7 +990,7 @@
 
 ---
 
-### Round 18 – Brazilian Grand Prix
+### Round 18 - Brazilian Grand Prix
 *Date: 2008-11-02*
 
 #### Qualifying Results

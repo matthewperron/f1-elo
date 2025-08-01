@@ -40,7 +40,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2002-03-03*
 
 #### Qualifying Results
@@ -99,7 +99,7 @@
 
 ---
 
-### Round 2 – Malaysian Grand Prix
+### Round 2 - Malaysian Grand Prix
 *Date: 2002-03-17*
 
 #### Qualifying Results
@@ -158,7 +158,7 @@
 
 ---
 
-### Round 3 – Brazilian Grand Prix
+### Round 3 - Brazilian Grand Prix
 *Date: 2002-03-31*
 
 #### Qualifying Results
@@ -217,7 +217,7 @@
 
 ---
 
-### Round 4 – San Marino Grand Prix
+### Round 4 - San Marino Grand Prix
 *Date: 2002-04-14*
 
 #### Qualifying Results
@@ -274,7 +274,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2002-04-28*
 
 #### Qualifying Results
@@ -333,7 +333,7 @@
 
 ---
 
-### Round 6 – Austrian Grand Prix
+### Round 6 - Austrian Grand Prix
 *Date: 2002-05-12*
 
 #### Qualifying Results
@@ -392,7 +392,7 @@
 
 ---
 
-### Round 7 – Monaco Grand Prix
+### Round 7 - Monaco Grand Prix
 *Date: 2002-05-26*
 
 #### Qualifying Results
@@ -451,7 +451,7 @@
 
 ---
 
-### Round 8 – Canadian Grand Prix
+### Round 8 - Canadian Grand Prix
 *Date: 2002-06-09*
 
 #### Qualifying Results
@@ -510,7 +510,7 @@
 
 ---
 
-### Round 9 – European Grand Prix
+### Round 9 - European Grand Prix
 *Date: 2002-06-23*
 
 #### Qualifying Results
@@ -569,7 +569,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 2002-07-07*
 
 #### Qualifying Results
@@ -626,7 +626,7 @@
 
 ---
 
-### Round 11 – French Grand Prix
+### Round 11 - French Grand Prix
 *Date: 2002-07-21*
 
 #### Qualifying Results
@@ -681,7 +681,7 @@
 
 ---
 
-### Round 12 – German Grand Prix
+### Round 12 - German Grand Prix
 *Date: 2002-07-28*
 
 #### Qualifying Results
@@ -738,7 +738,7 @@
 
 ---
 
-### Round 13 – Hungarian Grand Prix
+### Round 13 - Hungarian Grand Prix
 *Date: 2002-08-18*
 
 #### Qualifying Results
@@ -793,7 +793,7 @@
 
 ---
 
-### Round 14 – Belgian Grand Prix
+### Round 14 - Belgian Grand Prix
 *Date: 2002-09-01*
 
 #### Qualifying Results
@@ -848,7 +848,7 @@
 
 ---
 
-### Round 15 – Italian Grand Prix
+### Round 15 - Italian Grand Prix
 *Date: 2002-09-15*
 
 #### Qualifying Results
@@ -903,7 +903,7 @@
 
 ---
 
-### Round 16 – United States Grand Prix
+### Round 16 - United States Grand Prix
 *Date: 2002-09-29*
 
 #### Qualifying Results
@@ -958,7 +958,7 @@
 
 ---
 
-### Round 17 – Japanese Grand Prix
+### Round 17 - Japanese Grand Prix
 *Date: 2002-10-13*
 
 #### Qualifying Results

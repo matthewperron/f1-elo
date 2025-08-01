@@ -40,7 +40,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2013-03-17*
 
 #### Qualifying Results
@@ -99,7 +99,7 @@
 
 ---
 
-### Round 2 – Malaysian Grand Prix
+### Round 2 - Malaysian Grand Prix
 *Date: 2013-03-24*
 
 #### Qualifying Results
@@ -158,7 +158,7 @@
 
 ---
 
-### Round 3 – Chinese Grand Prix
+### Round 3 - Chinese Grand Prix
 *Date: 2013-04-14*
 
 #### Qualifying Results
@@ -217,7 +217,7 @@
 
 ---
 
-### Round 4 – Bahrain Grand Prix
+### Round 4 - Bahrain Grand Prix
 *Date: 2013-04-21*
 
 #### Qualifying Results
@@ -276,7 +276,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2013-05-12*
 
 #### Qualifying Results
@@ -335,7 +335,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 2013-05-26*
 
 #### Qualifying Results
@@ -394,7 +394,7 @@
 
 ---
 
-### Round 7 – Canadian Grand Prix
+### Round 7 - Canadian Grand Prix
 *Date: 2013-06-09*
 
 #### Qualifying Results
@@ -453,7 +453,7 @@
 
 ---
 
-### Round 8 – British Grand Prix
+### Round 8 - British Grand Prix
 *Date: 2013-06-30*
 
 #### Qualifying Results
@@ -512,7 +512,7 @@
 
 ---
 
-### Round 9 – German Grand Prix
+### Round 9 - German Grand Prix
 *Date: 2013-07-07*
 
 #### Qualifying Results
@@ -571,7 +571,7 @@
 
 ---
 
-### Round 10 – Hungarian Grand Prix
+### Round 10 - Hungarian Grand Prix
 *Date: 2013-07-28*
 
 #### Qualifying Results
@@ -630,7 +630,7 @@
 
 ---
 
-### Round 11 – Belgian Grand Prix
+### Round 11 - Belgian Grand Prix
 *Date: 2013-08-25*
 
 #### Qualifying Results
@@ -689,7 +689,7 @@
 
 ---
 
-### Round 12 – Italian Grand Prix
+### Round 12 - Italian Grand Prix
 *Date: 2013-09-08*
 
 #### Qualifying Results
@@ -748,7 +748,7 @@
 
 ---
 
-### Round 13 – Singapore Grand Prix
+### Round 13 - Singapore Grand Prix
 *Date: 2013-09-22*
 
 #### Qualifying Results
@@ -807,7 +807,7 @@
 
 ---
 
-### Round 14 – Korean Grand Prix
+### Round 14 - Korean Grand Prix
 *Date: 2013-10-06*
 
 #### Qualifying Results
@@ -866,7 +866,7 @@
 
 ---
 
-### Round 15 – Japanese Grand Prix
+### Round 15 - Japanese Grand Prix
 *Date: 2013-10-13*
 
 #### Qualifying Results
@@ -925,7 +925,7 @@
 
 ---
 
-### Round 16 – Indian Grand Prix
+### Round 16 - Indian Grand Prix
 *Date: 2013-10-27*
 
 #### Qualifying Results
@@ -984,7 +984,7 @@
 
 ---
 
-### Round 17 – Abu Dhabi Grand Prix
+### Round 17 - Abu Dhabi Grand Prix
 *Date: 2013-11-03*
 
 #### Qualifying Results
@@ -1043,7 +1043,7 @@
 
 ---
 
-### Round 18 – United States Grand Prix
+### Round 18 - United States Grand Prix
 *Date: 2013-11-17*
 
 #### Qualifying Results
@@ -1102,7 +1102,7 @@
 
 ---
 
-### Round 19 – Brazilian Grand Prix
+### Round 19 - Brazilian Grand Prix
 *Date: 2013-11-24*
 
 #### Qualifying Results

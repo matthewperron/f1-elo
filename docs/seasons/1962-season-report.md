@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Dutch Grand Prix
+### Round 1 - Dutch Grand Prix
 *Date: 1962-05-20*
 
 #### Qualifying Results
@@ -126,7 +126,7 @@
 
 ---
 
-### Round 2 – Monaco Grand Prix
+### Round 2 - Monaco Grand Prix
 *Date: 1962-06-03*
 
 #### Qualifying Results
@@ -179,7 +179,7 @@
 
 ---
 
-### Round 3 – Belgian Grand Prix
+### Round 3 - Belgian Grand Prix
 *Date: 1962-06-17*
 
 #### Qualifying Results
@@ -246,7 +246,7 @@
 
 ---
 
-### Round 4 – French Grand Prix
+### Round 4 - French Grand Prix
 *Date: 1962-07-08*
 
 #### Qualifying Results
@@ -305,7 +305,7 @@
 
 ---
 
-### Round 5 – British Grand Prix
+### Round 5 - British Grand Prix
 *Date: 1962-07-21*
 
 #### Qualifying Results
@@ -372,7 +372,7 @@
 
 ---
 
-### Round 6 – German Grand Prix
+### Round 6 - German Grand Prix
 *Date: 1962-08-05*
 
 #### Qualifying Results
@@ -441,7 +441,7 @@
 
 ---
 
-### Round 7 – Italian Grand Prix
+### Round 7 - Italian Grand Prix
 *Date: 1962-09-16*
 
 #### Qualifying Results
@@ -500,7 +500,7 @@
 
 ---
 
-### Round 8 – United States Grand Prix
+### Round 8 - United States Grand Prix
 *Date: 1962-10-07*
 
 #### Qualifying Results
@@ -555,7 +555,7 @@
 
 ---
 
-### Round 9 – South African Grand Prix
+### Round 9 - South African Grand Prix
 *Date: 1962-12-29*
 
 #### Qualifying Results

@@ -51,7 +51,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – South African Grand Prix
+### Round 1 - South African Grand Prix
 *Date: 1982-01-23*
 
 #### Qualifying Results
@@ -118,7 +118,7 @@
 
 ---
 
-### Round 2 – Brazilian Grand Prix
+### Round 2 - Brazilian Grand Prix
 *Date: 1982-03-21*
 
 #### Qualifying Results
@@ -185,7 +185,7 @@
 
 ---
 
-### Round 3 – United States Grand Prix West
+### Round 3 - United States Grand Prix West
 *Date: 1982-04-04*
 
 #### Qualifying Results
@@ -252,7 +252,7 @@
 
 ---
 
-### Round 4 – San Marino Grand Prix
+### Round 4 - San Marino Grand Prix
 *Date: 1982-04-25*
 
 #### Qualifying Results
@@ -295,7 +295,7 @@
 
 ---
 
-### Round 5 – Belgian Grand Prix
+### Round 5 - Belgian Grand Prix
 *Date: 1982-05-09*
 
 #### Qualifying Results
@@ -366,7 +366,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 1982-05-23*
 
 #### Qualifying Results
@@ -421,7 +421,7 @@
 
 ---
 
-### Round 7 – Detroit Grand Prix
+### Round 7 - Detroit Grand Prix
 *Date: 1982-06-06*
 
 #### Qualifying Results
@@ -488,7 +488,7 @@
 
 ---
 
-### Round 8 – Canadian Grand Prix
+### Round 8 - Canadian Grand Prix
 *Date: 1982-06-13*
 
 #### Qualifying Results
@@ -555,7 +555,7 @@
 
 ---
 
-### Round 9 – Dutch Grand Prix
+### Round 9 - Dutch Grand Prix
 *Date: 1982-07-03*
 
 #### Qualifying Results
@@ -622,7 +622,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 1982-07-18*
 
 #### Qualifying Results
@@ -689,7 +689,7 @@
 
 ---
 
-### Round 11 – French Grand Prix
+### Round 11 - French Grand Prix
 *Date: 1982-07-25*
 
 #### Qualifying Results
@@ -756,7 +756,7 @@
 
 ---
 
-### Round 12 – German Grand Prix
+### Round 12 - German Grand Prix
 *Date: 1982-08-08*
 
 #### Qualifying Results
@@ -823,7 +823,7 @@
 
 ---
 
-### Round 13 – Austrian Grand Prix
+### Round 13 - Austrian Grand Prix
 *Date: 1982-08-15*
 
 #### Qualifying Results
@@ -890,7 +890,7 @@
 
 ---
 
-### Round 14 – Swiss Grand Prix
+### Round 14 - Swiss Grand Prix
 *Date: 1982-08-29*
 
 #### Qualifying Results
@@ -957,7 +957,7 @@
 
 ---
 
-### Round 15 – Italian Grand Prix
+### Round 15 - Italian Grand Prix
 *Date: 1982-09-12*
 
 #### Qualifying Results
@@ -1024,7 +1024,7 @@
 
 ---
 
-### Round 16 – Caesars Palace Grand Prix
+### Round 16 - Caesars Palace Grand Prix
 *Date: 1982-09-25*
 
 #### Qualifying Results

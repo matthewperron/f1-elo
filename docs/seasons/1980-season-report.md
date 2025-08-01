@@ -45,7 +45,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Argentine Grand Prix
+### Round 1 - Argentine Grand Prix
 *Date: 1980-01-13*
 
 #### Qualifying Results
@@ -108,7 +108,7 @@
 
 ---
 
-### Round 2 – Brazilian Grand Prix
+### Round 2 - Brazilian Grand Prix
 *Date: 1980-01-27*
 
 #### Qualifying Results
@@ -171,7 +171,7 @@
 
 ---
 
-### Round 3 – South African Grand Prix
+### Round 3 - South African Grand Prix
 *Date: 1980-03-01*
 
 #### Qualifying Results
@@ -238,7 +238,7 @@
 
 ---
 
-### Round 4 – United States Grand Prix West
+### Round 4 - United States Grand Prix West
 *Date: 1980-03-30*
 
 #### Qualifying Results
@@ -301,7 +301,7 @@
 
 ---
 
-### Round 5 – Belgian Grand Prix
+### Round 5 - Belgian Grand Prix
 *Date: 1980-05-04*
 
 #### Qualifying Results
@@ -364,7 +364,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 1980-05-18*
 
 #### Qualifying Results
@@ -419,7 +419,7 @@
 
 ---
 
-### Round 7 – French Grand Prix
+### Round 7 - French Grand Prix
 *Date: 1980-06-29*
 
 #### Qualifying Results
@@ -482,7 +482,7 @@
 
 ---
 
-### Round 8 – British Grand Prix
+### Round 8 - British Grand Prix
 *Date: 1980-07-13*
 
 #### Qualifying Results
@@ -545,7 +545,7 @@
 
 ---
 
-### Round 9 – German Grand Prix
+### Round 9 - German Grand Prix
 *Date: 1980-08-10*
 
 #### Qualifying Results
@@ -608,7 +608,7 @@
 
 ---
 
-### Round 10 – Austrian Grand Prix
+### Round 10 - Austrian Grand Prix
 *Date: 1980-08-17*
 
 #### Qualifying Results
@@ -671,7 +671,7 @@
 
 ---
 
-### Round 11 – Dutch Grand Prix
+### Round 11 - Dutch Grand Prix
 *Date: 1980-08-31*
 
 #### Qualifying Results
@@ -736,7 +736,7 @@
 
 ---
 
-### Round 12 – Italian Grand Prix
+### Round 12 - Italian Grand Prix
 *Date: 1980-09-14*
 
 #### Qualifying Results
@@ -799,7 +799,7 @@
 
 ---
 
-### Round 13 – Canadian Grand Prix
+### Round 13 - Canadian Grand Prix
 *Date: 1980-09-28*
 
 #### Qualifying Results
@@ -862,7 +862,7 @@
 
 ---
 
-### Round 14 – United States Grand Prix
+### Round 14 - United States Grand Prix
 *Date: 1980-10-05*
 
 #### Qualifying Results

@@ -56,7 +56,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Argentine Grand Prix
+### Round 1 - Argentine Grand Prix
 *Date: 1972-01-23*
 
 #### Qualifying Results
@@ -115,7 +115,7 @@
 
 ---
 
-### Round 2 – South African Grand Prix
+### Round 2 - South African Grand Prix
 *Date: 1972-03-04*
 
 #### Qualifying Results
@@ -182,7 +182,7 @@
 
 ---
 
-### Round 3 – Spanish Grand Prix
+### Round 3 - Spanish Grand Prix
 *Date: 1972-05-01*
 
 #### Qualifying Results
@@ -247,7 +247,7 @@
 
 ---
 
-### Round 4 – Monaco Grand Prix
+### Round 4 - Monaco Grand Prix
 *Date: 1972-05-14*
 
 #### Qualifying Results
@@ -312,7 +312,7 @@
 
 ---
 
-### Round 5 – Belgian Grand Prix
+### Round 5 - Belgian Grand Prix
 *Date: 1972-06-04*
 
 #### Qualifying Results
@@ -377,7 +377,7 @@
 
 ---
 
-### Round 6 – French Grand Prix
+### Round 6 - French Grand Prix
 *Date: 1972-07-02*
 
 #### Qualifying Results
@@ -440,7 +440,7 @@
 
 ---
 
-### Round 7 – British Grand Prix
+### Round 7 - British Grand Prix
 *Date: 1972-07-15*
 
 #### Qualifying Results
@@ -507,7 +507,7 @@
 
 ---
 
-### Round 8 – German Grand Prix
+### Round 8 - German Grand Prix
 *Date: 1972-07-30*
 
 #### Qualifying Results
@@ -576,7 +576,7 @@
 
 ---
 
-### Round 9 – Austrian Grand Prix
+### Round 9 - Austrian Grand Prix
 *Date: 1972-08-13*
 
 #### Qualifying Results
@@ -641,7 +641,7 @@
 
 ---
 
-### Round 10 – Italian Grand Prix
+### Round 10 - Italian Grand Prix
 *Date: 1972-09-10*
 
 #### Qualifying Results
@@ -706,7 +706,7 @@
 
 ---
 
-### Round 11 – Canadian Grand Prix
+### Round 11 - Canadian Grand Prix
 *Date: 1972-09-24*
 
 #### Qualifying Results
@@ -769,7 +769,7 @@
 
 ---
 
-### Round 12 – United States Grand Prix
+### Round 12 - United States Grand Prix
 *Date: 1972-10-08*
 
 #### Qualifying Results

@@ -61,7 +61,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Argentine Grand Prix
+### Round 1 - Argentine Grand Prix
 *Date: 1975-01-12*
 
 #### Qualifying Results
@@ -122,7 +122,7 @@
 
 ---
 
-### Round 2 – Brazilian Grand Prix
+### Round 2 - Brazilian Grand Prix
 *Date: 1975-01-26*
 
 #### Qualifying Results
@@ -183,7 +183,7 @@
 
 ---
 
-### Round 3 – South African Grand Prix
+### Round 3 - South African Grand Prix
 *Date: 1975-03-01*
 
 #### Qualifying Results
@@ -250,7 +250,7 @@
 
 ---
 
-### Round 4 – Spanish Grand Prix
+### Round 4 - Spanish Grand Prix
 *Date: 1975-04-27*
 
 #### Qualifying Results
@@ -317,7 +317,7 @@
 
 ---
 
-### Round 5 – Monaco Grand Prix
+### Round 5 - Monaco Grand Prix
 *Date: 1975-05-11*
 
 #### Qualifying Results
@@ -368,7 +368,7 @@
 
 ---
 
-### Round 6 – Belgian Grand Prix
+### Round 6 - Belgian Grand Prix
 *Date: 1975-05-25*
 
 #### Qualifying Results
@@ -431,7 +431,7 @@
 
 ---
 
-### Round 7 – Swedish Grand Prix
+### Round 7 - Swedish Grand Prix
 *Date: 1975-06-08*
 
 #### Qualifying Results
@@ -498,7 +498,7 @@
 
 ---
 
-### Round 8 – Dutch Grand Prix
+### Round 8 - Dutch Grand Prix
 *Date: 1975-06-22*
 
 #### Qualifying Results
@@ -563,7 +563,7 @@
 
 ---
 
-### Round 9 – French Grand Prix
+### Round 9 - French Grand Prix
 *Date: 1975-07-06*
 
 #### Qualifying Results
@@ -630,7 +630,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 1975-07-19*
 
 #### Qualifying Results
@@ -697,7 +697,7 @@
 
 ---
 
-### Round 11 – German Grand Prix
+### Round 11 - German Grand Prix
 *Date: 1975-08-03*
 
 #### Qualifying Results
@@ -762,7 +762,7 @@
 
 ---
 
-### Round 12 – Austrian Grand Prix
+### Round 12 - Austrian Grand Prix
 *Date: 1975-08-17*
 
 #### Qualifying Results
@@ -833,7 +833,7 @@
 
 ---
 
-### Round 13 – Italian Grand Prix
+### Round 13 - Italian Grand Prix
 *Date: 1975-09-07*
 
 #### Qualifying Results
@@ -900,7 +900,7 @@
 
 ---
 
-### Round 14 – United States Grand Prix
+### Round 14 - United States Grand Prix
 *Date: 1975-10-05*
 
 #### Qualifying Results

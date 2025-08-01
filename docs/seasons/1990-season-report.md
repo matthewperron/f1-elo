@@ -51,7 +51,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – United States Grand Prix
+### Round 1 - United States Grand Prix
 *Date: 1990-03-11*
 
 #### Qualifying Results
@@ -120,7 +120,7 @@
 
 ---
 
-### Round 2 – Brazilian Grand Prix
+### Round 2 - Brazilian Grand Prix
 *Date: 1990-03-25*
 
 #### Qualifying Results
@@ -187,7 +187,7 @@
 
 ---
 
-### Round 3 – San Marino Grand Prix
+### Round 3 - San Marino Grand Prix
 *Date: 1990-05-13*
 
 #### Qualifying Results
@@ -256,7 +256,7 @@
 
 ---
 
-### Round 4 – Monaco Grand Prix
+### Round 4 - Monaco Grand Prix
 *Date: 1990-05-27*
 
 #### Qualifying Results
@@ -323,7 +323,7 @@
 
 ---
 
-### Round 5 – Canadian Grand Prix
+### Round 5 - Canadian Grand Prix
 *Date: 1990-06-10*
 
 #### Qualifying Results
@@ -390,7 +390,7 @@
 
 ---
 
-### Round 6 – Mexican Grand Prix
+### Round 6 - Mexican Grand Prix
 *Date: 1990-06-24*
 
 #### Qualifying Results
@@ -459,7 +459,7 @@
 
 ---
 
-### Round 7 – French Grand Prix
+### Round 7 - French Grand Prix
 *Date: 1990-07-08*
 
 #### Qualifying Results
@@ -526,7 +526,7 @@
 
 ---
 
-### Round 8 – British Grand Prix
+### Round 8 - British Grand Prix
 *Date: 1990-07-15*
 
 #### Qualifying Results
@@ -593,7 +593,7 @@
 
 ---
 
-### Round 9 – German Grand Prix
+### Round 9 - German Grand Prix
 *Date: 1990-07-29*
 
 #### Qualifying Results
@@ -660,7 +660,7 @@
 
 ---
 
-### Round 10 – Hungarian Grand Prix
+### Round 10 - Hungarian Grand Prix
 *Date: 1990-08-12*
 
 #### Qualifying Results
@@ -727,7 +727,7 @@
 
 ---
 
-### Round 11 – Belgian Grand Prix
+### Round 11 - Belgian Grand Prix
 *Date: 1990-08-26*
 
 #### Qualifying Results
@@ -794,7 +794,7 @@
 
 ---
 
-### Round 12 – Italian Grand Prix
+### Round 12 - Italian Grand Prix
 *Date: 1990-09-09*
 
 #### Qualifying Results
@@ -861,7 +861,7 @@
 
 ---
 
-### Round 13 – Portuguese Grand Prix
+### Round 13 - Portuguese Grand Prix
 *Date: 1990-09-23*
 
 #### Qualifying Results
@@ -928,7 +928,7 @@
 
 ---
 
-### Round 14 – Spanish Grand Prix
+### Round 14 - Spanish Grand Prix
 *Date: 1990-09-30*
 
 #### Qualifying Results
@@ -995,7 +995,7 @@
 
 ---
 
-### Round 15 – Japanese Grand Prix
+### Round 15 - Japanese Grand Prix
 *Date: 1990-10-21*
 
 #### Qualifying Results
@@ -1062,7 +1062,7 @@
 
 ---
 
-### Round 16 – Australian Grand Prix
+### Round 16 - Australian Grand Prix
 *Date: 1990-11-04*
 
 #### Qualifying Results

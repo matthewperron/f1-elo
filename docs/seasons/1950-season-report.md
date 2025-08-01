@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – British Grand Prix
+### Round 1 - British Grand Prix
 *Date: 1950-05-13*
 
 #### Qualifying Results
@@ -128,7 +128,7 @@
 
 ---
 
-### Round 2 – Monaco Grand Prix
+### Round 2 - Monaco Grand Prix
 *Date: 1950-05-21*
 
 #### Qualifying Results
@@ -185,7 +185,7 @@
 
 ---
 
-### Round 3 – Indianapolis 500
+### Round 3 - Indianapolis 500
 *Date: 1950-05-30*
 
 #### Qualifying Results
@@ -266,7 +266,7 @@
 
 ---
 
-### Round 4 – Swiss Grand Prix
+### Round 4 - Swiss Grand Prix
 *Date: 1950-06-04*
 
 #### Qualifying Results
@@ -317,7 +317,7 @@
 
 ---
 
-### Round 5 – Belgian Grand Prix
+### Round 5 - Belgian Grand Prix
 *Date: 1950-06-18*
 
 #### Qualifying Results
@@ -360,7 +360,7 @@
 
 ---
 
-### Round 6 – French Grand Prix
+### Round 6 - French Grand Prix
 *Date: 1950-07-02*
 
 #### Qualifying Results
@@ -411,7 +411,7 @@
 
 ---
 
-### Round 7 – Italian Grand Prix
+### Round 7 - Italian Grand Prix
 *Date: 1950-09-03*
 
 #### Qualifying Results

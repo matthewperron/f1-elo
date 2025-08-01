@@ -43,7 +43,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Monaco Grand Prix
+### Round 1 - Monaco Grand Prix
 *Date: 1966-05-22*
 
 #### Qualifying Results
@@ -90,7 +90,7 @@
 
 ---
 
-### Round 2 – Belgian Grand Prix
+### Round 2 - Belgian Grand Prix
 *Date: 1966-06-12*
 
 #### Qualifying Results
@@ -141,7 +141,7 @@
 
 ---
 
-### Round 3 – French Grand Prix
+### Round 3 - French Grand Prix
 *Date: 1966-07-03*
 
 #### Qualifying Results
@@ -190,7 +190,7 @@
 
 ---
 
-### Round 4 – British Grand Prix
+### Round 4 - British Grand Prix
 *Date: 1966-07-16*
 
 #### Qualifying Results
@@ -245,7 +245,7 @@
 
 ---
 
-### Round 5 – Dutch Grand Prix
+### Round 5 - Dutch Grand Prix
 *Date: 1966-07-24*
 
 #### Qualifying Results
@@ -294,7 +294,7 @@
 
 ---
 
-### Round 6 – German Grand Prix
+### Round 6 - German Grand Prix
 *Date: 1966-08-07*
 
 #### Qualifying Results
@@ -347,7 +347,7 @@
 
 ---
 
-### Round 7 – Italian Grand Prix
+### Round 7 - Italian Grand Prix
 *Date: 1966-09-04*
 
 #### Qualifying Results
@@ -402,7 +402,7 @@
 
 ---
 
-### Round 8 – United States Grand Prix
+### Round 8 - United States Grand Prix
 *Date: 1966-10-02*
 
 #### Qualifying Results
@@ -455,7 +455,7 @@
 
 ---
 
-### Round 9 – Mexican Grand Prix
+### Round 9 - Mexican Grand Prix
 *Date: 1966-10-23*
 
 #### Qualifying Results

@@ -49,7 +49,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Brazilian Grand Prix
+### Round 1 - Brazilian Grand Prix
 *Date: 1984-03-25*
 
 #### Qualifying Results
@@ -118,7 +118,7 @@
 
 ---
 
-### Round 2 – South African Grand Prix
+### Round 2 - South African Grand Prix
 *Date: 1984-04-07*
 
 #### Qualifying Results
@@ -187,7 +187,7 @@
 
 ---
 
-### Round 3 – Belgian Grand Prix
+### Round 3 - Belgian Grand Prix
 *Date: 1984-04-29*
 
 #### Qualifying Results
@@ -254,7 +254,7 @@
 
 ---
 
-### Round 4 – San Marino Grand Prix
+### Round 4 - San Marino Grand Prix
 *Date: 1984-05-06*
 
 #### Qualifying Results
@@ -321,7 +321,7 @@
 
 ---
 
-### Round 5 – French Grand Prix
+### Round 5 - French Grand Prix
 *Date: 1984-05-20*
 
 #### Qualifying Results
@@ -388,7 +388,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 1984-06-03*
 
 #### Qualifying Results
@@ -443,7 +443,7 @@
 
 ---
 
-### Round 7 – Canadian Grand Prix
+### Round 7 - Canadian Grand Prix
 *Date: 1984-06-17*
 
 #### Qualifying Results
@@ -510,7 +510,7 @@
 
 ---
 
-### Round 8 – Detroit Grand Prix
+### Round 8 - Detroit Grand Prix
 *Date: 1984-06-24*
 
 #### Qualifying Results
@@ -577,7 +577,7 @@
 
 ---
 
-### Round 9 – Dallas Grand Prix
+### Round 9 - Dallas Grand Prix
 *Date: 1984-07-08*
 
 #### Qualifying Results
@@ -642,7 +642,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 1984-07-22*
 
 #### Qualifying Results
@@ -711,7 +711,7 @@
 
 ---
 
-### Round 11 – German Grand Prix
+### Round 11 - German Grand Prix
 *Date: 1984-08-05*
 
 #### Qualifying Results
@@ -778,7 +778,7 @@
 
 ---
 
-### Round 12 – Austrian Grand Prix
+### Round 12 - Austrian Grand Prix
 *Date: 1984-08-19*
 
 #### Qualifying Results
@@ -845,7 +845,7 @@
 
 ---
 
-### Round 13 – Dutch Grand Prix
+### Round 13 - Dutch Grand Prix
 *Date: 1984-08-26*
 
 #### Qualifying Results
@@ -914,7 +914,7 @@
 
 ---
 
-### Round 14 – Italian Grand Prix
+### Round 14 - Italian Grand Prix
 *Date: 1984-09-09*
 
 #### Qualifying Results
@@ -981,7 +981,7 @@
 
 ---
 
-### Round 15 – European Grand Prix
+### Round 15 - European Grand Prix
 *Date: 1984-10-07*
 
 #### Qualifying Results
@@ -1048,7 +1048,7 @@
 
 ---
 
-### Round 16 – Portuguese Grand Prix
+### Round 16 - Portuguese Grand Prix
 *Date: 1984-10-21*
 
 #### Qualifying Results

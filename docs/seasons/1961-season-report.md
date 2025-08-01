@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Monaco Grand Prix
+### Round 1 - Monaco Grand Prix
 *Date: 1961-05-14*
 
 #### Qualifying Results
@@ -116,7 +116,7 @@
 
 ---
 
-### Round 2 – Dutch Grand Prix
+### Round 2 - Dutch Grand Prix
 *Date: 1961-05-22*
 
 #### Qualifying Results
@@ -165,7 +165,7 @@
 
 ---
 
-### Round 3 – Belgian Grand Prix
+### Round 3 - Belgian Grand Prix
 *Date: 1961-06-18*
 
 #### Qualifying Results
@@ -232,7 +232,7 @@
 
 ---
 
-### Round 4 – French Grand Prix
+### Round 4 - French Grand Prix
 *Date: 1961-07-02*
 
 #### Qualifying Results
@@ -309,7 +309,7 @@
 
 ---
 
-### Round 5 – British Grand Prix
+### Round 5 - British Grand Prix
 *Date: 1961-07-15*
 
 #### Qualifying Results
@@ -386,7 +386,7 @@
 
 ---
 
-### Round 6 – German Grand Prix
+### Round 6 - German Grand Prix
 *Date: 1961-08-06*
 
 #### Qualifying Results
@@ -467,7 +467,7 @@
 
 ---
 
-### Round 7 – Italian Grand Prix
+### Round 7 - Italian Grand Prix
 *Date: 1961-09-10*
 
 #### Qualifying Results
@@ -558,7 +558,7 @@
 
 ---
 
-### Round 8 – United States Grand Prix
+### Round 8 - United States Grand Prix
 *Date: 1961-10-08*
 
 #### Qualifying Results

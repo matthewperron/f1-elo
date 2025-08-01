@@ -55,7 +55,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – South African Grand Prix
+### Round 1 - South African Grand Prix
 *Date: 1968-01-01*
 
 #### Qualifying Results
@@ -116,7 +116,7 @@
 
 ---
 
-### Round 2 – Spanish Grand Prix
+### Round 2 - Spanish Grand Prix
 *Date: 1968-05-12*
 
 #### Qualifying Results
@@ -159,7 +159,7 @@
 
 ---
 
-### Round 3 – Monaco Grand Prix
+### Round 3 - Monaco Grand Prix
 *Date: 1968-05-26*
 
 #### Qualifying Results
@@ -206,7 +206,7 @@
 
 ---
 
-### Round 4 – Belgian Grand Prix
+### Round 4 - Belgian Grand Prix
 *Date: 1968-06-09*
 
 #### Qualifying Results
@@ -257,7 +257,7 @@
 
 ---
 
-### Round 5 – Dutch Grand Prix
+### Round 5 - Dutch Grand Prix
 *Date: 1968-06-23*
 
 #### Qualifying Results
@@ -310,7 +310,7 @@
 
 ---
 
-### Round 6 – French Grand Prix
+### Round 6 - French Grand Prix
 *Date: 1968-07-07*
 
 #### Qualifying Results
@@ -359,7 +359,7 @@
 
 ---
 
-### Round 7 – British Grand Prix
+### Round 7 - British Grand Prix
 *Date: 1968-07-20*
 
 #### Qualifying Results
@@ -414,7 +414,7 @@
 
 ---
 
-### Round 8 – German Grand Prix
+### Round 8 - German Grand Prix
 *Date: 1968-08-04*
 
 #### Qualifying Results
@@ -469,7 +469,7 @@
 
 ---
 
-### Round 9 – Italian Grand Prix
+### Round 9 - Italian Grand Prix
 *Date: 1968-09-08*
 
 #### Qualifying Results
@@ -524,7 +524,7 @@
 
 ---
 
-### Round 10 – Canadian Grand Prix
+### Round 10 - Canadian Grand Prix
 *Date: 1968-09-22*
 
 #### Qualifying Results
@@ -581,7 +581,7 @@
 
 ---
 
-### Round 11 – United States Grand Prix
+### Round 11 - United States Grand Prix
 *Date: 1968-10-06*
 
 #### Qualifying Results
@@ -636,7 +636,7 @@
 
 ---
 
-### Round 12 – Mexican Grand Prix
+### Round 12 - Mexican Grand Prix
 *Date: 1968-11-03*
 
 #### Qualifying Results

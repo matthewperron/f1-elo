@@ -60,7 +60,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Argentine Grand Prix
+### Round 1 - Argentine Grand Prix
 *Date: 1977-01-09*
 
 #### Qualifying Results
@@ -117,7 +117,7 @@
 
 ---
 
-### Round 2 – Brazilian Grand Prix
+### Round 2 - Brazilian Grand Prix
 *Date: 1977-01-23*
 
 #### Qualifying Results
@@ -176,7 +176,7 @@
 
 ---
 
-### Round 3 – South African Grand Prix
+### Round 3 - South African Grand Prix
 *Date: 1977-03-05*
 
 #### Qualifying Results
@@ -237,7 +237,7 @@
 
 ---
 
-### Round 4 – United States Grand Prix West
+### Round 4 - United States Grand Prix West
 *Date: 1977-04-03*
 
 #### Qualifying Results
@@ -296,7 +296,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 1977-05-08*
 
 #### Qualifying Results
@@ -361,7 +361,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 1977-05-22*
 
 #### Qualifying Results
@@ -416,7 +416,7 @@
 
 ---
 
-### Round 7 – Belgian Grand Prix
+### Round 7 - Belgian Grand Prix
 *Date: 1977-06-05*
 
 #### Qualifying Results
@@ -483,7 +483,7 @@
 
 ---
 
-### Round 8 – Swedish Grand Prix
+### Round 8 - Swedish Grand Prix
 *Date: 1977-06-19*
 
 #### Qualifying Results
@@ -546,7 +546,7 @@
 
 ---
 
-### Round 9 – French Grand Prix
+### Round 9 - French Grand Prix
 *Date: 1977-07-03*
 
 #### Qualifying Results
@@ -605,7 +605,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 1977-07-16*
 
 #### Qualifying Results
@@ -672,7 +672,7 @@
 
 ---
 
-### Round 11 – German Grand Prix
+### Round 11 - German Grand Prix
 *Date: 1977-07-31*
 
 #### Qualifying Results
@@ -733,7 +733,7 @@
 
 ---
 
-### Round 12 – Austrian Grand Prix
+### Round 12 - Austrian Grand Prix
 *Date: 1977-08-14*
 
 #### Qualifying Results
@@ -800,7 +800,7 @@
 
 ---
 
-### Round 13 – Dutch Grand Prix
+### Round 13 - Dutch Grand Prix
 *Date: 1977-08-28*
 
 #### Qualifying Results
@@ -867,7 +867,7 @@
 
 ---
 
-### Round 14 – Italian Grand Prix
+### Round 14 - Italian Grand Prix
 *Date: 1977-09-11*
 
 #### Qualifying Results
@@ -930,7 +930,7 @@
 
 ---
 
-### Round 15 – United States Grand Prix
+### Round 15 - United States Grand Prix
 *Date: 1977-10-02*
 
 #### Qualifying Results
@@ -997,7 +997,7 @@
 
 ---
 
-### Round 16 – Canadian Grand Prix
+### Round 16 - Canadian Grand Prix
 *Date: 1977-10-09*
 
 #### Qualifying Results
@@ -1064,7 +1064,7 @@
 
 ---
 
-### Round 17 – Japanese Grand Prix
+### Round 17 - Japanese Grand Prix
 *Date: 1977-10-23*
 
 #### Qualifying Results

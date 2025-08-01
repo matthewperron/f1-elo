@@ -45,7 +45,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2011-03-27*
 
 #### Qualifying Results
@@ -104,7 +104,7 @@
 
 ---
 
-### Round 2 – Malaysian Grand Prix
+### Round 2 - Malaysian Grand Prix
 *Date: 2011-04-10*
 
 #### Qualifying Results
@@ -167,7 +167,7 @@
 
 ---
 
-### Round 3 – Chinese Grand Prix
+### Round 3 - Chinese Grand Prix
 *Date: 2011-04-17*
 
 #### Qualifying Results
@@ -230,7 +230,7 @@
 
 ---
 
-### Round 4 – Turkish Grand Prix
+### Round 4 - Turkish Grand Prix
 *Date: 2011-05-08*
 
 #### Qualifying Results
@@ -293,7 +293,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2011-05-22*
 
 #### Qualifying Results
@@ -356,7 +356,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 2011-05-29*
 
 #### Qualifying Results
@@ -419,7 +419,7 @@
 
 ---
 
-### Round 7 – Canadian Grand Prix
+### Round 7 - Canadian Grand Prix
 *Date: 2011-06-12*
 
 #### Qualifying Results
@@ -482,7 +482,7 @@
 
 ---
 
-### Round 8 – European Grand Prix
+### Round 8 - European Grand Prix
 *Date: 2011-06-26*
 
 #### Qualifying Results
@@ -545,7 +545,7 @@
 
 ---
 
-### Round 9 – British Grand Prix
+### Round 9 - British Grand Prix
 *Date: 2011-07-10*
 
 #### Qualifying Results
@@ -608,7 +608,7 @@
 
 ---
 
-### Round 10 – German Grand Prix
+### Round 10 - German Grand Prix
 *Date: 2011-07-24*
 
 #### Qualifying Results
@@ -671,7 +671,7 @@
 
 ---
 
-### Round 11 – Hungarian Grand Prix
+### Round 11 - Hungarian Grand Prix
 *Date: 2011-07-31*
 
 #### Qualifying Results
@@ -734,7 +734,7 @@
 
 ---
 
-### Round 12 – Belgian Grand Prix
+### Round 12 - Belgian Grand Prix
 *Date: 2011-08-28*
 
 #### Qualifying Results
@@ -797,7 +797,7 @@
 
 ---
 
-### Round 13 – Italian Grand Prix
+### Round 13 - Italian Grand Prix
 *Date: 2011-09-11*
 
 #### Qualifying Results
@@ -860,7 +860,7 @@
 
 ---
 
-### Round 14 – Singapore Grand Prix
+### Round 14 - Singapore Grand Prix
 *Date: 2011-09-25*
 
 #### Qualifying Results
@@ -923,7 +923,7 @@
 
 ---
 
-### Round 15 – Japanese Grand Prix
+### Round 15 - Japanese Grand Prix
 *Date: 2011-10-09*
 
 #### Qualifying Results
@@ -986,7 +986,7 @@
 
 ---
 
-### Round 16 – Korean Grand Prix
+### Round 16 - Korean Grand Prix
 *Date: 2011-10-16*
 
 #### Qualifying Results
@@ -1049,7 +1049,7 @@
 
 ---
 
-### Round 17 – Indian Grand Prix
+### Round 17 - Indian Grand Prix
 *Date: 2011-10-30*
 
 #### Qualifying Results
@@ -1112,7 +1112,7 @@
 
 ---
 
-### Round 18 – Abu Dhabi Grand Prix
+### Round 18 - Abu Dhabi Grand Prix
 *Date: 2011-11-13*
 
 #### Qualifying Results
@@ -1175,7 +1175,7 @@
 
 ---
 
-### Round 19 – Brazilian Grand Prix
+### Round 19 - Brazilian Grand Prix
 *Date: 2011-11-27*
 
 #### Qualifying Results

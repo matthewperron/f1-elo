@@ -44,7 +44,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Bahrain Grand Prix
+### Round 1 - Bahrain Grand Prix
 *Date: 2010-03-14*
 
 #### Qualifying Results
@@ -107,7 +107,7 @@
 
 ---
 
-### Round 2 – Australian Grand Prix
+### Round 2 - Australian Grand Prix
 *Date: 2010-03-28*
 
 #### Qualifying Results
@@ -170,7 +170,7 @@
 
 ---
 
-### Round 3 – Malaysian Grand Prix
+### Round 3 - Malaysian Grand Prix
 *Date: 2010-04-04*
 
 #### Qualifying Results
@@ -233,7 +233,7 @@
 
 ---
 
-### Round 4 – Chinese Grand Prix
+### Round 4 - Chinese Grand Prix
 *Date: 2010-04-18*
 
 #### Qualifying Results
@@ -296,7 +296,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2010-05-09*
 
 #### Qualifying Results
@@ -359,7 +359,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 2010-05-16*
 
 #### Qualifying Results
@@ -422,7 +422,7 @@
 
 ---
 
-### Round 7 – Turkish Grand Prix
+### Round 7 - Turkish Grand Prix
 *Date: 2010-05-30*
 
 #### Qualifying Results
@@ -485,7 +485,7 @@
 
 ---
 
-### Round 8 – Canadian Grand Prix
+### Round 8 - Canadian Grand Prix
 *Date: 2010-06-13*
 
 #### Qualifying Results
@@ -548,7 +548,7 @@
 
 ---
 
-### Round 9 – European Grand Prix
+### Round 9 - European Grand Prix
 *Date: 2010-06-27*
 
 #### Qualifying Results
@@ -611,7 +611,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 2010-07-11*
 
 #### Qualifying Results
@@ -674,7 +674,7 @@
 
 ---
 
-### Round 11 – German Grand Prix
+### Round 11 - German Grand Prix
 *Date: 2010-07-25*
 
 #### Qualifying Results
@@ -737,7 +737,7 @@
 
 ---
 
-### Round 12 – Hungarian Grand Prix
+### Round 12 - Hungarian Grand Prix
 *Date: 2010-08-01*
 
 #### Qualifying Results
@@ -800,7 +800,7 @@
 
 ---
 
-### Round 13 – Belgian Grand Prix
+### Round 13 - Belgian Grand Prix
 *Date: 2010-08-29*
 
 #### Qualifying Results
@@ -863,7 +863,7 @@
 
 ---
 
-### Round 14 – Italian Grand Prix
+### Round 14 - Italian Grand Prix
 *Date: 2010-09-12*
 
 #### Qualifying Results
@@ -926,7 +926,7 @@
 
 ---
 
-### Round 15 – Singapore Grand Prix
+### Round 15 - Singapore Grand Prix
 *Date: 2010-09-26*
 
 #### Qualifying Results
@@ -989,7 +989,7 @@
 
 ---
 
-### Round 16 – Japanese Grand Prix
+### Round 16 - Japanese Grand Prix
 *Date: 2010-10-10*
 
 #### Qualifying Results
@@ -1052,7 +1052,7 @@
 
 ---
 
-### Round 17 – Korean Grand Prix
+### Round 17 - Korean Grand Prix
 *Date: 2010-10-24*
 
 #### Qualifying Results
@@ -1115,7 +1115,7 @@
 
 ---
 
-### Round 18 – Brazilian Grand Prix
+### Round 18 - Brazilian Grand Prix
 *Date: 2010-11-07*
 
 #### Qualifying Results
@@ -1178,7 +1178,7 @@
 
 ---
 
-### Round 19 – Abu Dhabi Grand Prix
+### Round 19 - Abu Dhabi Grand Prix
 *Date: 2010-11-14*
 
 #### Qualifying Results

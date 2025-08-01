@@ -688,7 +688,7 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     }
     
     raceEvents.forEach(race => {
-        content += `### Round ${race.round} – ${race.raceName}\n`;
+        content += `### Round ${race.round} - ${race.raceName}\n`;
         content += `*Date: ${race.date}*\n\n`;
         
         // Group changes by type

@@ -42,7 +42,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2012-03-18*
 
 #### Qualifying Results
@@ -101,7 +101,7 @@
 
 ---
 
-### Round 2 – Malaysian Grand Prix
+### Round 2 - Malaysian Grand Prix
 *Date: 2012-03-25*
 
 #### Qualifying Results
@@ -164,7 +164,7 @@
 
 ---
 
-### Round 3 – Chinese Grand Prix
+### Round 3 - Chinese Grand Prix
 *Date: 2012-04-15*
 
 #### Qualifying Results
@@ -227,7 +227,7 @@
 
 ---
 
-### Round 4 – Bahrain Grand Prix
+### Round 4 - Bahrain Grand Prix
 *Date: 2012-04-22*
 
 #### Qualifying Results
@@ -290,7 +290,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2012-05-13*
 
 #### Qualifying Results
@@ -353,7 +353,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 2012-05-27*
 
 #### Qualifying Results
@@ -416,7 +416,7 @@
 
 ---
 
-### Round 7 – Canadian Grand Prix
+### Round 7 - Canadian Grand Prix
 *Date: 2012-06-10*
 
 #### Qualifying Results
@@ -479,7 +479,7 @@
 
 ---
 
-### Round 8 – European Grand Prix
+### Round 8 - European Grand Prix
 *Date: 2012-06-24*
 
 #### Qualifying Results
@@ -542,7 +542,7 @@
 
 ---
 
-### Round 9 – British Grand Prix
+### Round 9 - British Grand Prix
 *Date: 2012-07-08*
 
 #### Qualifying Results
@@ -605,7 +605,7 @@
 
 ---
 
-### Round 10 – German Grand Prix
+### Round 10 - German Grand Prix
 *Date: 2012-07-22*
 
 #### Qualifying Results
@@ -668,7 +668,7 @@
 
 ---
 
-### Round 11 – Hungarian Grand Prix
+### Round 11 - Hungarian Grand Prix
 *Date: 2012-07-29*
 
 #### Qualifying Results
@@ -731,7 +731,7 @@
 
 ---
 
-### Round 12 – Belgian Grand Prix
+### Round 12 - Belgian Grand Prix
 *Date: 2012-09-02*
 
 #### Qualifying Results
@@ -794,7 +794,7 @@
 
 ---
 
-### Round 13 – Italian Grand Prix
+### Round 13 - Italian Grand Prix
 *Date: 2012-09-09*
 
 #### Qualifying Results
@@ -857,7 +857,7 @@
 
 ---
 
-### Round 14 – Singapore Grand Prix
+### Round 14 - Singapore Grand Prix
 *Date: 2012-09-23*
 
 #### Qualifying Results
@@ -920,7 +920,7 @@
 
 ---
 
-### Round 15 – Japanese Grand Prix
+### Round 15 - Japanese Grand Prix
 *Date: 2012-10-07*
 
 #### Qualifying Results
@@ -983,7 +983,7 @@
 
 ---
 
-### Round 16 – Korean Grand Prix
+### Round 16 - Korean Grand Prix
 *Date: 2012-10-14*
 
 #### Qualifying Results
@@ -1046,7 +1046,7 @@
 
 ---
 
-### Round 17 – Indian Grand Prix
+### Round 17 - Indian Grand Prix
 *Date: 2012-10-28*
 
 #### Qualifying Results
@@ -1109,7 +1109,7 @@
 
 ---
 
-### Round 18 – Abu Dhabi Grand Prix
+### Round 18 - Abu Dhabi Grand Prix
 *Date: 2012-11-04*
 
 #### Qualifying Results
@@ -1172,7 +1172,7 @@
 
 ---
 
-### Round 19 – United States Grand Prix
+### Round 19 - United States Grand Prix
 *Date: 2012-11-18*
 
 #### Qualifying Results
@@ -1235,7 +1235,7 @@
 
 ---
 
-### Round 20 – Brazilian Grand Prix
+### Round 20 - Brazilian Grand Prix
 *Date: 2012-11-25*
 
 #### Qualifying Results

@@ -46,7 +46,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – South African Grand Prix
+### Round 1 - South African Grand Prix
 *Date: 1969-03-01*
 
 #### Qualifying Results
@@ -97,7 +97,7 @@
 
 ---
 
-### Round 2 – Spanish Grand Prix
+### Round 2 - Spanish Grand Prix
 *Date: 1969-05-04*
 
 #### Qualifying Results
@@ -140,7 +140,7 @@
 
 ---
 
-### Round 3 – Monaco Grand Prix
+### Round 3 - Monaco Grand Prix
 *Date: 1969-05-18*
 
 #### Qualifying Results
@@ -187,7 +187,7 @@
 
 ---
 
-### Round 4 – Dutch Grand Prix
+### Round 4 - Dutch Grand Prix
 *Date: 1969-06-21*
 
 #### Qualifying Results
@@ -232,7 +232,7 @@
 
 ---
 
-### Round 5 – French Grand Prix
+### Round 5 - French Grand Prix
 *Date: 1969-07-06*
 
 #### Qualifying Results
@@ -273,7 +273,7 @@
 
 ---
 
-### Round 6 – British Grand Prix
+### Round 6 - British Grand Prix
 *Date: 1969-07-19*
 
 #### Qualifying Results
@@ -322,7 +322,7 @@
 
 ---
 
-### Round 7 – German Grand Prix
+### Round 7 - German Grand Prix
 *Date: 1969-08-03*
 
 #### Qualifying Results
@@ -365,7 +365,7 @@
 
 ---
 
-### Round 8 – Italian Grand Prix
+### Round 8 - Italian Grand Prix
 *Date: 1969-09-07*
 
 #### Qualifying Results
@@ -410,7 +410,7 @@
 
 ---
 
-### Round 9 – Canadian Grand Prix
+### Round 9 - Canadian Grand Prix
 *Date: 1969-09-20*
 
 #### Qualifying Results
@@ -465,7 +465,7 @@
 
 ---
 
-### Round 10 – United States Grand Prix
+### Round 10 - United States Grand Prix
 *Date: 1969-10-05*
 
 #### Qualifying Results
@@ -516,7 +516,7 @@
 
 ---
 
-### Round 11 – Mexican Grand Prix
+### Round 11 - Mexican Grand Prix
 *Date: 1969-10-19*
 
 #### Qualifying Results

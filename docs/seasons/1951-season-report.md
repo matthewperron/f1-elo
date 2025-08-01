@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Swiss Grand Prix
+### Round 1 - Swiss Grand Prix
 *Date: 1951-05-27*
 
 #### Qualifying Results
@@ -124,7 +124,7 @@
 
 ---
 
-### Round 2 – Indianapolis 500
+### Round 2 - Indianapolis 500
 *Date: 1951-05-30*
 
 #### Qualifying Results
@@ -205,7 +205,7 @@
 
 ---
 
-### Round 3 – Belgian Grand Prix
+### Round 3 - Belgian Grand Prix
 *Date: 1951-06-17*
 
 #### Qualifying Results
@@ -246,7 +246,7 @@
 
 ---
 
-### Round 4 – French Grand Prix
+### Round 4 - French Grand Prix
 *Date: 1951-07-01*
 
 #### Qualifying Results
@@ -307,7 +307,7 @@
 
 ---
 
-### Round 5 – British Grand Prix
+### Round 5 - British Grand Prix
 *Date: 1951-07-14*
 
 #### Qualifying Results
@@ -362,7 +362,7 @@
 
 ---
 
-### Round 6 – German Grand Prix
+### Round 6 - German Grand Prix
 *Date: 1951-07-29*
 
 #### Qualifying Results
@@ -421,7 +421,7 @@
 
 ---
 
-### Round 7 – Italian Grand Prix
+### Round 7 - Italian Grand Prix
 *Date: 1951-09-16*
 
 #### Qualifying Results
@@ -480,7 +480,7 @@
 
 ---
 
-### Round 8 – Spanish Grand Prix
+### Round 8 - Spanish Grand Prix
 *Date: 1951-10-28*
 
 #### Qualifying Results

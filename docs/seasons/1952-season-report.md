@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Swiss Grand Prix
+### Round 1 - Swiss Grand Prix
 *Date: 1952-05-18*
 
 #### Qualifying Results
@@ -126,7 +126,7 @@
 
 ---
 
-### Round 2 – Indianapolis 500
+### Round 2 - Indianapolis 500
 *Date: 1952-05-30*
 
 #### Qualifying Results
@@ -207,7 +207,7 @@
 
 ---
 
-### Round 3 – Belgian Grand Prix
+### Round 3 - Belgian Grand Prix
 *Date: 1952-06-22*
 
 #### Qualifying Results
@@ -266,7 +266,7 @@
 
 ---
 
-### Round 4 – French Grand Prix
+### Round 4 - French Grand Prix
 *Date: 1952-07-06*
 
 #### Qualifying Results
@@ -321,7 +321,7 @@
 
 ---
 
-### Round 5 – British Grand Prix
+### Round 5 - British Grand Prix
 *Date: 1952-07-19*
 
 #### Qualifying Results
@@ -400,7 +400,7 @@
 
 ---
 
-### Round 6 – German Grand Prix
+### Round 6 - German Grand Prix
 *Date: 1952-08-03*
 
 #### Qualifying Results
@@ -475,7 +475,7 @@
 
 ---
 
-### Round 7 – Dutch Grand Prix
+### Round 7 - Dutch Grand Prix
 *Date: 1952-08-17*
 
 #### Qualifying Results
@@ -528,7 +528,7 @@
 
 ---
 
-### Round 8 – Italian Grand Prix
+### Round 8 - Italian Grand Prix
 *Date: 1952-09-07*
 
 #### Qualifying Results

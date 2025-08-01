@@ -63,7 +63,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Brazilian Grand Prix
+### Round 1 - Brazilian Grand Prix
 *Date: 1994-03-27*
 
 #### Qualifying Results
@@ -130,7 +130,7 @@
 
 ---
 
-### Round 2 – Pacific Grand Prix
+### Round 2 - Pacific Grand Prix
 *Date: 1994-04-17*
 
 #### Qualifying Results
@@ -197,7 +197,7 @@
 
 ---
 
-### Round 3 – San Marino Grand Prix
+### Round 3 - San Marino Grand Prix
 *Date: 1994-05-01*
 
 #### Qualifying Results
@@ -266,7 +266,7 @@
 
 ---
 
-### Round 4 – Monaco Grand Prix
+### Round 4 - Monaco Grand Prix
 *Date: 1994-05-15*
 
 #### Qualifying Results
@@ -333,7 +333,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 1994-05-29*
 
 #### Qualifying Results
@@ -402,7 +402,7 @@
 
 ---
 
-### Round 6 – Canadian Grand Prix
+### Round 6 - Canadian Grand Prix
 *Date: 1994-06-12*
 
 #### Qualifying Results
@@ -469,7 +469,7 @@
 
 ---
 
-### Round 7 – French Grand Prix
+### Round 7 - French Grand Prix
 *Date: 1994-07-03*
 
 #### Qualifying Results
@@ -536,7 +536,7 @@
 
 ---
 
-### Round 8 – British Grand Prix
+### Round 8 - British Grand Prix
 *Date: 1994-07-10*
 
 #### Qualifying Results
@@ -603,7 +603,7 @@
 
 ---
 
-### Round 9 – German Grand Prix
+### Round 9 - German Grand Prix
 *Date: 1994-07-31*
 
 #### Qualifying Results
@@ -670,7 +670,7 @@
 
 ---
 
-### Round 10 – Hungarian Grand Prix
+### Round 10 - Hungarian Grand Prix
 *Date: 1994-08-14*
 
 #### Qualifying Results
@@ -737,7 +737,7 @@
 
 ---
 
-### Round 11 – Belgian Grand Prix
+### Round 11 - Belgian Grand Prix
 *Date: 1994-08-28*
 
 #### Qualifying Results
@@ -804,7 +804,7 @@
 
 ---
 
-### Round 12 – Italian Grand Prix
+### Round 12 - Italian Grand Prix
 *Date: 1994-09-11*
 
 #### Qualifying Results
@@ -871,7 +871,7 @@
 
 ---
 
-### Round 13 – Portuguese Grand Prix
+### Round 13 - Portuguese Grand Prix
 *Date: 1994-09-25*
 
 #### Qualifying Results
@@ -938,7 +938,7 @@
 
 ---
 
-### Round 14 – European Grand Prix
+### Round 14 - European Grand Prix
 *Date: 1994-10-16*
 
 #### Qualifying Results
@@ -1005,7 +1005,7 @@
 
 ---
 
-### Round 15 – Japanese Grand Prix
+### Round 15 - Japanese Grand Prix
 *Date: 1994-11-06*
 
 #### Qualifying Results
@@ -1072,7 +1072,7 @@
 
 ---
 
-### Round 16 – Australian Grand Prix
+### Round 16 - Australian Grand Prix
 *Date: 1994-11-13*
 
 #### Qualifying Results

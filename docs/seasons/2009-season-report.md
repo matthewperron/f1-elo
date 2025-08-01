@@ -42,7 +42,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2009-03-29*
 
 #### Qualifying Results
@@ -97,7 +97,7 @@
 
 ---
 
-### Round 2 – Malaysian Grand Prix
+### Round 2 - Malaysian Grand Prix
 *Date: 2009-04-05*
 
 #### Qualifying Results
@@ -152,7 +152,7 @@
 
 ---
 
-### Round 3 – Chinese Grand Prix
+### Round 3 - Chinese Grand Prix
 *Date: 2009-04-19*
 
 #### Qualifying Results
@@ -207,7 +207,7 @@
 
 ---
 
-### Round 4 – Bahrain Grand Prix
+### Round 4 - Bahrain Grand Prix
 *Date: 2009-04-26*
 
 #### Qualifying Results
@@ -262,7 +262,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2009-05-10*
 
 #### Qualifying Results
@@ -317,7 +317,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 2009-05-24*
 
 #### Qualifying Results
@@ -372,7 +372,7 @@
 
 ---
 
-### Round 7 – Turkish Grand Prix
+### Round 7 - Turkish Grand Prix
 *Date: 2009-06-07*
 
 #### Qualifying Results
@@ -427,7 +427,7 @@
 
 ---
 
-### Round 8 – British Grand Prix
+### Round 8 - British Grand Prix
 *Date: 2009-06-21*
 
 #### Qualifying Results
@@ -482,7 +482,7 @@
 
 ---
 
-### Round 9 – German Grand Prix
+### Round 9 - German Grand Prix
 *Date: 2009-07-12*
 
 #### Qualifying Results
@@ -537,7 +537,7 @@
 
 ---
 
-### Round 10 – Hungarian Grand Prix
+### Round 10 - Hungarian Grand Prix
 *Date: 2009-07-26*
 
 #### Qualifying Results
@@ -592,7 +592,7 @@
 
 ---
 
-### Round 11 – European Grand Prix
+### Round 11 - European Grand Prix
 *Date: 2009-08-23*
 
 #### Qualifying Results
@@ -647,7 +647,7 @@
 
 ---
 
-### Round 12 – Belgian Grand Prix
+### Round 12 - Belgian Grand Prix
 *Date: 2009-08-30*
 
 #### Qualifying Results
@@ -702,7 +702,7 @@
 
 ---
 
-### Round 13 – Italian Grand Prix
+### Round 13 - Italian Grand Prix
 *Date: 2009-09-13*
 
 #### Qualifying Results
@@ -757,7 +757,7 @@
 
 ---
 
-### Round 14 – Singapore Grand Prix
+### Round 14 - Singapore Grand Prix
 *Date: 2009-09-27*
 
 #### Qualifying Results
@@ -812,7 +812,7 @@
 
 ---
 
-### Round 15 – Japanese Grand Prix
+### Round 15 - Japanese Grand Prix
 *Date: 2009-10-04*
 
 #### Qualifying Results
@@ -867,7 +867,7 @@
 
 ---
 
-### Round 16 – Brazilian Grand Prix
+### Round 16 - Brazilian Grand Prix
 *Date: 2009-10-18*
 
 #### Qualifying Results
@@ -922,7 +922,7 @@
 
 ---
 
-### Round 17 – Abu Dhabi Grand Prix
+### Round 17 - Abu Dhabi Grand Prix
 *Date: 2009-11-01*
 
 #### Qualifying Results

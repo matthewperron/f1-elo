@@ -41,7 +41,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2016-03-20*
 
 #### Qualifying Results
@@ -100,7 +100,7 @@
 
 ---
 
-### Round 2 – Bahrain Grand Prix
+### Round 2 - Bahrain Grand Prix
 *Date: 2016-04-03*
 
 #### Qualifying Results
@@ -159,7 +159,7 @@
 
 ---
 
-### Round 3 – Chinese Grand Prix
+### Round 3 - Chinese Grand Prix
 *Date: 2016-04-17*
 
 #### Qualifying Results
@@ -218,7 +218,7 @@
 
 ---
 
-### Round 4 – Russian Grand Prix
+### Round 4 - Russian Grand Prix
 *Date: 2016-05-01*
 
 #### Qualifying Results
@@ -277,7 +277,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2016-05-15*
 
 #### Qualifying Results
@@ -336,7 +336,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 2016-05-29*
 
 #### Qualifying Results
@@ -395,7 +395,7 @@
 
 ---
 
-### Round 7 – Canadian Grand Prix
+### Round 7 - Canadian Grand Prix
 *Date: 2016-06-12*
 
 #### Qualifying Results
@@ -454,7 +454,7 @@
 
 ---
 
-### Round 8 – European Grand Prix
+### Round 8 - European Grand Prix
 *Date: 2016-06-19*
 
 #### Qualifying Results
@@ -513,7 +513,7 @@
 
 ---
 
-### Round 9 – Austrian Grand Prix
+### Round 9 - Austrian Grand Prix
 *Date: 2016-07-03*
 
 #### Qualifying Results
@@ -572,7 +572,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 2016-07-10*
 
 #### Qualifying Results
@@ -631,7 +631,7 @@
 
 ---
 
-### Round 11 – Hungarian Grand Prix
+### Round 11 - Hungarian Grand Prix
 *Date: 2016-07-24*
 
 #### Qualifying Results
@@ -690,7 +690,7 @@
 
 ---
 
-### Round 12 – German Grand Prix
+### Round 12 - German Grand Prix
 *Date: 2016-07-31*
 
 #### Qualifying Results
@@ -749,7 +749,7 @@
 
 ---
 
-### Round 13 – Belgian Grand Prix
+### Round 13 - Belgian Grand Prix
 *Date: 2016-08-28*
 
 #### Qualifying Results
@@ -808,7 +808,7 @@
 
 ---
 
-### Round 14 – Italian Grand Prix
+### Round 14 - Italian Grand Prix
 *Date: 2016-09-04*
 
 #### Qualifying Results
@@ -867,7 +867,7 @@
 
 ---
 
-### Round 15 – Singapore Grand Prix
+### Round 15 - Singapore Grand Prix
 *Date: 2016-09-18*
 
 #### Qualifying Results
@@ -926,7 +926,7 @@
 
 ---
 
-### Round 16 – Malaysian Grand Prix
+### Round 16 - Malaysian Grand Prix
 *Date: 2016-10-02*
 
 #### Qualifying Results
@@ -985,7 +985,7 @@
 
 ---
 
-### Round 17 – Japanese Grand Prix
+### Round 17 - Japanese Grand Prix
 *Date: 2016-10-09*
 
 #### Qualifying Results
@@ -1044,7 +1044,7 @@
 
 ---
 
-### Round 18 – United States Grand Prix
+### Round 18 - United States Grand Prix
 *Date: 2016-10-23*
 
 #### Qualifying Results
@@ -1103,7 +1103,7 @@
 
 ---
 
-### Round 19 – Mexican Grand Prix
+### Round 19 - Mexican Grand Prix
 *Date: 2016-10-30*
 
 #### Qualifying Results
@@ -1162,7 +1162,7 @@
 
 ---
 
-### Round 20 – Brazilian Grand Prix
+### Round 20 - Brazilian Grand Prix
 *Date: 2016-11-13*
 
 #### Qualifying Results
@@ -1221,7 +1221,7 @@
 
 ---
 
-### Round 21 – Abu Dhabi Grand Prix
+### Round 21 - Abu Dhabi Grand Prix
 *Date: 2016-11-27*
 
 #### Qualifying Results

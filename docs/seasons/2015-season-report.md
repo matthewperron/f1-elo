@@ -39,7 +39,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2015-03-15*
 
 #### Qualifying Results
@@ -90,7 +90,7 @@
 
 ---
 
-### Round 2 – Malaysian Grand Prix
+### Round 2 - Malaysian Grand Prix
 *Date: 2015-03-29*
 
 #### Qualifying Results
@@ -145,7 +145,7 @@
 
 ---
 
-### Round 3 – Chinese Grand Prix
+### Round 3 - Chinese Grand Prix
 *Date: 2015-04-12*
 
 #### Qualifying Results
@@ -200,7 +200,7 @@
 
 ---
 
-### Round 4 – Bahrain Grand Prix
+### Round 4 - Bahrain Grand Prix
 *Date: 2015-04-19*
 
 #### Qualifying Results
@@ -255,7 +255,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2015-05-10*
 
 #### Qualifying Results
@@ -310,7 +310,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 2015-05-24*
 
 #### Qualifying Results
@@ -365,7 +365,7 @@
 
 ---
 
-### Round 7 – Canadian Grand Prix
+### Round 7 - Canadian Grand Prix
 *Date: 2015-06-07*
 
 #### Qualifying Results
@@ -420,7 +420,7 @@
 
 ---
 
-### Round 8 – Austrian Grand Prix
+### Round 8 - Austrian Grand Prix
 *Date: 2015-06-21*
 
 #### Qualifying Results
@@ -475,7 +475,7 @@
 
 ---
 
-### Round 9 – British Grand Prix
+### Round 9 - British Grand Prix
 *Date: 2015-07-05*
 
 #### Qualifying Results
@@ -530,7 +530,7 @@
 
 ---
 
-### Round 10 – Hungarian Grand Prix
+### Round 10 - Hungarian Grand Prix
 *Date: 2015-07-26*
 
 #### Qualifying Results
@@ -585,7 +585,7 @@
 
 ---
 
-### Round 11 – Belgian Grand Prix
+### Round 11 - Belgian Grand Prix
 *Date: 2015-08-23*
 
 #### Qualifying Results
@@ -640,7 +640,7 @@
 
 ---
 
-### Round 12 – Italian Grand Prix
+### Round 12 - Italian Grand Prix
 *Date: 2015-09-06*
 
 #### Qualifying Results
@@ -695,7 +695,7 @@
 
 ---
 
-### Round 13 – Singapore Grand Prix
+### Round 13 - Singapore Grand Prix
 *Date: 2015-09-20*
 
 #### Qualifying Results
@@ -750,7 +750,7 @@
 
 ---
 
-### Round 14 – Japanese Grand Prix
+### Round 14 - Japanese Grand Prix
 *Date: 2015-09-27*
 
 #### Qualifying Results
@@ -805,7 +805,7 @@
 
 ---
 
-### Round 15 – Russian Grand Prix
+### Round 15 - Russian Grand Prix
 *Date: 2015-10-11*
 
 #### Qualifying Results
@@ -860,7 +860,7 @@
 
 ---
 
-### Round 16 – United States Grand Prix
+### Round 16 - United States Grand Prix
 *Date: 2015-10-25*
 
 #### Qualifying Results
@@ -915,7 +915,7 @@
 
 ---
 
-### Round 17 – Mexican Grand Prix
+### Round 17 - Mexican Grand Prix
 *Date: 2015-11-01*
 
 #### Qualifying Results
@@ -970,7 +970,7 @@
 
 ---
 
-### Round 18 – Brazilian Grand Prix
+### Round 18 - Brazilian Grand Prix
 *Date: 2015-11-15*
 
 #### Qualifying Results
@@ -1025,7 +1025,7 @@
 
 ---
 
-### Round 19 – Abu Dhabi Grand Prix
+### Round 19 - Abu Dhabi Grand Prix
 *Date: 2015-11-29*
 
 #### Qualifying Results

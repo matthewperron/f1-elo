@@ -50,7 +50,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – United States Grand Prix
+### Round 1 - United States Grand Prix
 *Date: 1991-03-10*
 
 #### Qualifying Results
@@ -117,7 +117,7 @@
 
 ---
 
-### Round 2 – Brazilian Grand Prix
+### Round 2 - Brazilian Grand Prix
 *Date: 1991-03-24*
 
 #### Qualifying Results
@@ -184,7 +184,7 @@
 
 ---
 
-### Round 3 – San Marino Grand Prix
+### Round 3 - San Marino Grand Prix
 *Date: 1991-04-28*
 
 #### Qualifying Results
@@ -251,7 +251,7 @@
 
 ---
 
-### Round 4 – Monaco Grand Prix
+### Round 4 - Monaco Grand Prix
 *Date: 1991-05-12*
 
 #### Qualifying Results
@@ -318,7 +318,7 @@
 
 ---
 
-### Round 5 – Canadian Grand Prix
+### Round 5 - Canadian Grand Prix
 *Date: 1991-06-02*
 
 #### Qualifying Results
@@ -385,7 +385,7 @@
 
 ---
 
-### Round 6 – Mexican Grand Prix
+### Round 6 - Mexican Grand Prix
 *Date: 1991-06-16*
 
 #### Qualifying Results
@@ -452,7 +452,7 @@
 
 ---
 
-### Round 7 – French Grand Prix
+### Round 7 - French Grand Prix
 *Date: 1991-07-07*
 
 #### Qualifying Results
@@ -519,7 +519,7 @@
 
 ---
 
-### Round 8 – British Grand Prix
+### Round 8 - British Grand Prix
 *Date: 1991-07-14*
 
 #### Qualifying Results
@@ -586,7 +586,7 @@
 
 ---
 
-### Round 9 – German Grand Prix
+### Round 9 - German Grand Prix
 *Date: 1991-07-28*
 
 #### Qualifying Results
@@ -653,7 +653,7 @@
 
 ---
 
-### Round 10 – Hungarian Grand Prix
+### Round 10 - Hungarian Grand Prix
 *Date: 1991-08-11*
 
 #### Qualifying Results
@@ -720,7 +720,7 @@
 
 ---
 
-### Round 11 – Belgian Grand Prix
+### Round 11 - Belgian Grand Prix
 *Date: 1991-08-25*
 
 #### Qualifying Results
@@ -787,7 +787,7 @@
 
 ---
 
-### Round 12 – Italian Grand Prix
+### Round 12 - Italian Grand Prix
 *Date: 1991-09-08*
 
 #### Qualifying Results
@@ -854,7 +854,7 @@
 
 ---
 
-### Round 13 – Portuguese Grand Prix
+### Round 13 - Portuguese Grand Prix
 *Date: 1991-09-22*
 
 #### Qualifying Results
@@ -921,7 +921,7 @@
 
 ---
 
-### Round 14 – Spanish Grand Prix
+### Round 14 - Spanish Grand Prix
 *Date: 1991-09-29*
 
 #### Qualifying Results
@@ -988,7 +988,7 @@
 
 ---
 
-### Round 15 – Japanese Grand Prix
+### Round 15 - Japanese Grand Prix
 *Date: 1991-10-20*
 
 #### Qualifying Results
@@ -1055,7 +1055,7 @@
 
 ---
 
-### Round 16 – Australian Grand Prix
+### Round 16 - Australian Grand Prix
 *Date: 1991-11-03*
 
 #### Qualifying Results

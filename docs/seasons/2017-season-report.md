@@ -42,7 +42,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Australian Grand Prix
+### Round 1 - Australian Grand Prix
 *Date: 2017-03-26*
 
 #### Qualifying Results
@@ -97,7 +97,7 @@
 
 ---
 
-### Round 2 – Chinese Grand Prix
+### Round 2 - Chinese Grand Prix
 *Date: 2017-04-09*
 
 #### Qualifying Results
@@ -152,7 +152,7 @@
 
 ---
 
-### Round 3 – Bahrain Grand Prix
+### Round 3 - Bahrain Grand Prix
 *Date: 2017-04-16*
 
 #### Qualifying Results
@@ -207,7 +207,7 @@
 
 ---
 
-### Round 4 – Russian Grand Prix
+### Round 4 - Russian Grand Prix
 *Date: 2017-04-30*
 
 #### Qualifying Results
@@ -262,7 +262,7 @@
 
 ---
 
-### Round 5 – Spanish Grand Prix
+### Round 5 - Spanish Grand Prix
 *Date: 2017-05-14*
 
 #### Qualifying Results
@@ -317,7 +317,7 @@
 
 ---
 
-### Round 6 – Monaco Grand Prix
+### Round 6 - Monaco Grand Prix
 *Date: 2017-05-28*
 
 #### Qualifying Results
@@ -372,7 +372,7 @@
 
 ---
 
-### Round 7 – Canadian Grand Prix
+### Round 7 - Canadian Grand Prix
 *Date: 2017-06-11*
 
 #### Qualifying Results
@@ -427,7 +427,7 @@
 
 ---
 
-### Round 8 – Azerbaijan Grand Prix
+### Round 8 - Azerbaijan Grand Prix
 *Date: 2017-06-25*
 
 #### Qualifying Results
@@ -482,7 +482,7 @@
 
 ---
 
-### Round 9 – Austrian Grand Prix
+### Round 9 - Austrian Grand Prix
 *Date: 2017-07-09*
 
 #### Qualifying Results
@@ -537,7 +537,7 @@
 
 ---
 
-### Round 10 – British Grand Prix
+### Round 10 - British Grand Prix
 *Date: 2017-07-16*
 
 #### Qualifying Results
@@ -592,7 +592,7 @@
 
 ---
 
-### Round 11 – Hungarian Grand Prix
+### Round 11 - Hungarian Grand Prix
 *Date: 2017-07-30*
 
 #### Qualifying Results
@@ -647,7 +647,7 @@
 
 ---
 
-### Round 12 – Belgian Grand Prix
+### Round 12 - Belgian Grand Prix
 *Date: 2017-08-27*
 
 #### Qualifying Results
@@ -702,7 +702,7 @@
 
 ---
 
-### Round 13 – Italian Grand Prix
+### Round 13 - Italian Grand Prix
 *Date: 2017-09-03*
 
 #### Qualifying Results
@@ -757,7 +757,7 @@
 
 ---
 
-### Round 14 – Singapore Grand Prix
+### Round 14 - Singapore Grand Prix
 *Date: 2017-09-17*
 
 #### Qualifying Results
@@ -812,7 +812,7 @@
 
 ---
 
-### Round 15 – Malaysian Grand Prix
+### Round 15 - Malaysian Grand Prix
 *Date: 2017-10-01*
 
 #### Qualifying Results
@@ -867,7 +867,7 @@
 
 ---
 
-### Round 16 – Japanese Grand Prix
+### Round 16 - Japanese Grand Prix
 *Date: 2017-10-08*
 
 #### Qualifying Results
@@ -922,7 +922,7 @@
 
 ---
 
-### Round 17 – United States Grand Prix
+### Round 17 - United States Grand Prix
 *Date: 2017-10-22*
 
 #### Qualifying Results
@@ -977,7 +977,7 @@
 
 ---
 
-### Round 18 – Mexican Grand Prix
+### Round 18 - Mexican Grand Prix
 *Date: 2017-10-29*
 
 #### Qualifying Results
@@ -1032,7 +1032,7 @@
 
 ---
 
-### Round 19 – Brazilian Grand Prix
+### Round 19 - Brazilian Grand Prix
 *Date: 2017-11-12*
 
 #### Qualifying Results
@@ -1087,7 +1087,7 @@
 
 ---
 
-### Round 20 – Abu Dhabi Grand Prix
+### Round 20 - Abu Dhabi Grand Prix
 *Date: 2017-11-26*
 
 #### Qualifying Results

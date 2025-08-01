@@ -50,7 +50,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Monaco Grand Prix
+### Round 1 - Monaco Grand Prix
 *Date: 1964-05-10*
 
 #### Qualifying Results
@@ -105,7 +105,7 @@
 
 ---
 
-### Round 2 – Dutch Grand Prix
+### Round 2 - Dutch Grand Prix
 *Date: 1964-05-24*
 
 #### Qualifying Results
@@ -156,7 +156,7 @@
 
 ---
 
-### Round 3 – Belgian Grand Prix
+### Round 3 - Belgian Grand Prix
 *Date: 1964-06-14*
 
 #### Qualifying Results
@@ -207,7 +207,7 @@
 
 ---
 
-### Round 4 – French Grand Prix
+### Round 4 - French Grand Prix
 *Date: 1964-06-28*
 
 #### Qualifying Results
@@ -256,7 +256,7 @@
 
 ---
 
-### Round 5 – British Grand Prix
+### Round 5 - British Grand Prix
 *Date: 1964-07-11*
 
 #### Qualifying Results
@@ -319,7 +319,7 @@
 
 ---
 
-### Round 6 – German Grand Prix
+### Round 6 - German Grand Prix
 *Date: 1964-08-02*
 
 #### Qualifying Results
@@ -378,7 +378,7 @@
 
 ---
 
-### Round 7 – Austrian Grand Prix
+### Round 7 - Austrian Grand Prix
 *Date: 1964-08-23*
 
 #### Qualifying Results
@@ -433,7 +433,7 @@
 
 ---
 
-### Round 8 – Italian Grand Prix
+### Round 8 - Italian Grand Prix
 *Date: 1964-09-06*
 
 #### Qualifying Results
@@ -488,7 +488,7 @@
 
 ---
 
-### Round 9 – United States Grand Prix
+### Round 9 - United States Grand Prix
 *Date: 1964-10-04*
 
 #### Qualifying Results
@@ -543,7 +543,7 @@
 
 ---
 
-### Round 10 – Mexican Grand Prix
+### Round 10 - Mexican Grand Prix
 *Date: 1964-10-25*
 
 #### Qualifying Results

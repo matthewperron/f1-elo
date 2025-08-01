@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Argentine Grand Prix
+### Round 1 - Argentine Grand Prix
 *Date: 1956-01-22*
 
 #### Qualifying Results
@@ -114,7 +114,7 @@
 
 ---
 
-### Round 2 – Monaco Grand Prix
+### Round 2 - Monaco Grand Prix
 *Date: 1956-05-13*
 
 #### Qualifying Results
@@ -163,7 +163,7 @@
 
 ---
 
-### Round 3 – Indianapolis 500
+### Round 3 - Indianapolis 500
 *Date: 1956-05-30*
 
 #### Qualifying Results
@@ -244,7 +244,7 @@
 
 ---
 
-### Round 4 – Belgian Grand Prix
+### Round 4 - Belgian Grand Prix
 *Date: 1956-06-03*
 
 #### Qualifying Results
@@ -291,7 +291,7 @@
 
 ---
 
-### Round 5 – French Grand Prix
+### Round 5 - French Grand Prix
 *Date: 1956-07-01*
 
 #### Qualifying Results
@@ -346,7 +346,7 @@
 
 ---
 
-### Round 6 – British Grand Prix
+### Round 6 - British Grand Prix
 *Date: 1956-07-14*
 
 #### Qualifying Results
@@ -417,7 +417,7 @@
 
 ---
 
-### Round 7 – German Grand Prix
+### Round 7 - German Grand Prix
 *Date: 1956-08-05*
 
 #### Qualifying Results
@@ -476,7 +476,7 @@
 
 ---
 
-### Round 8 – Italian Grand Prix
+### Round 8 - Italian Grand Prix
 *Date: 1956-09-02*
 
 #### Qualifying Results

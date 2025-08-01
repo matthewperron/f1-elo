@@ -41,7 +41,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Bahrain Grand Prix
+### Round 1 - Bahrain Grand Prix
 *Date: 2024-03-02*
 
 #### Qualifying Results
@@ -96,7 +96,7 @@
 
 ---
 
-### Round 2 – Saudi Arabian Grand Prix
+### Round 2 - Saudi Arabian Grand Prix
 *Date: 2024-03-09*
 
 #### Qualifying Results
@@ -151,7 +151,7 @@
 
 ---
 
-### Round 3 – Australian Grand Prix
+### Round 3 - Australian Grand Prix
 *Date: 2024-03-24*
 
 #### Qualifying Results
@@ -204,7 +204,7 @@
 
 ---
 
-### Round 4 – Japanese Grand Prix
+### Round 4 - Japanese Grand Prix
 *Date: 2024-04-07*
 
 #### Qualifying Results
@@ -259,7 +259,7 @@
 
 ---
 
-### Round 5 – Chinese Grand Prix
+### Round 5 - Chinese Grand Prix
 *Date: 2024-04-21*
 
 #### Qualifying Results
@@ -314,7 +314,7 @@
 
 ---
 
-### Round 6 – Miami Grand Prix
+### Round 6 - Miami Grand Prix
 *Date: 2024-05-05*
 
 #### Qualifying Results
@@ -369,7 +369,7 @@
 
 ---
 
-### Round 7 – Emilia Romagna Grand Prix
+### Round 7 - Emilia Romagna Grand Prix
 *Date: 2024-05-19*
 
 #### Qualifying Results
@@ -424,7 +424,7 @@
 
 ---
 
-### Round 8 – Monaco Grand Prix
+### Round 8 - Monaco Grand Prix
 *Date: 2024-05-26*
 
 #### Qualifying Results
@@ -479,7 +479,7 @@
 
 ---
 
-### Round 9 – Canadian Grand Prix
+### Round 9 - Canadian Grand Prix
 *Date: 2024-06-09*
 
 #### Qualifying Results
@@ -534,7 +534,7 @@
 
 ---
 
-### Round 10 – Spanish Grand Prix
+### Round 10 - Spanish Grand Prix
 *Date: 2024-06-23*
 
 #### Qualifying Results
@@ -589,7 +589,7 @@
 
 ---
 
-### Round 11 – Austrian Grand Prix
+### Round 11 - Austrian Grand Prix
 *Date: 2024-06-30*
 
 #### Qualifying Results
@@ -644,7 +644,7 @@
 
 ---
 
-### Round 12 – British Grand Prix
+### Round 12 - British Grand Prix
 *Date: 2024-07-07*
 
 #### Qualifying Results
@@ -699,7 +699,7 @@
 
 ---
 
-### Round 13 – Hungarian Grand Prix
+### Round 13 - Hungarian Grand Prix
 *Date: 2024-07-21*
 
 #### Qualifying Results
@@ -754,7 +754,7 @@
 
 ---
 
-### Round 14 – Belgian Grand Prix
+### Round 14 - Belgian Grand Prix
 *Date: 2024-07-28*
 
 #### Qualifying Results
@@ -809,7 +809,7 @@
 
 ---
 
-### Round 15 – Dutch Grand Prix
+### Round 15 - Dutch Grand Prix
 *Date: 2024-08-25*
 
 #### Qualifying Results
@@ -864,7 +864,7 @@
 
 ---
 
-### Round 16 – Italian Grand Prix
+### Round 16 - Italian Grand Prix
 *Date: 2024-09-01*
 
 #### Qualifying Results
@@ -919,7 +919,7 @@
 
 ---
 
-### Round 17 – Azerbaijan Grand Prix
+### Round 17 - Azerbaijan Grand Prix
 *Date: 2024-09-15*
 
 #### Qualifying Results
@@ -974,7 +974,7 @@
 
 ---
 
-### Round 18 – Singapore Grand Prix
+### Round 18 - Singapore Grand Prix
 *Date: 2024-09-22*
 
 #### Qualifying Results
@@ -1029,7 +1029,7 @@
 
 ---
 
-### Round 19 – United States Grand Prix
+### Round 19 - United States Grand Prix
 *Date: 2024-10-20*
 
 #### Qualifying Results
@@ -1084,7 +1084,7 @@
 
 ---
 
-### Round 20 – Mexico City Grand Prix
+### Round 20 - Mexico City Grand Prix
 *Date: 2024-10-27*
 
 #### Qualifying Results
@@ -1139,7 +1139,7 @@
 
 ---
 
-### Round 21 – São Paulo Grand Prix
+### Round 21 - São Paulo Grand Prix
 *Date: 2024-11-03*
 
 #### Qualifying Results
@@ -1194,7 +1194,7 @@
 
 ---
 
-### Round 22 – Las Vegas Grand Prix
+### Round 22 - Las Vegas Grand Prix
 *Date: 2024-11-23*
 
 #### Qualifying Results
@@ -1249,7 +1249,7 @@
 
 ---
 
-### Round 23 – Qatar Grand Prix
+### Round 23 - Qatar Grand Prix
 *Date: 2024-12-01*
 
 #### Qualifying Results
@@ -1304,7 +1304,7 @@
 
 ---
 
-### Round 24 – Abu Dhabi Grand Prix
+### Round 24 - Abu Dhabi Grand Prix
 *Date: 2024-12-08*
 
 #### Qualifying Results

@@ -67,7 +67,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Argentine Grand Prix
+### Round 1 - Argentine Grand Prix
 *Date: 1955-01-16*
 
 #### Qualifying Results
@@ -124,7 +124,7 @@
 
 ---
 
-### Round 2 – Monaco Grand Prix
+### Round 2 - Monaco Grand Prix
 *Date: 1955-05-22*
 
 #### Qualifying Results
@@ -185,7 +185,7 @@
 
 ---
 
-### Round 3 – Indianapolis 500
+### Round 3 - Indianapolis 500
 *Date: 1955-05-30*
 
 #### Qualifying Results
@@ -266,7 +266,7 @@
 
 ---
 
-### Round 4 – Belgian Grand Prix
+### Round 4 - Belgian Grand Prix
 *Date: 1955-06-05*
 
 #### Qualifying Results
@@ -315,7 +315,7 @@
 
 ---
 
-### Round 5 – Dutch Grand Prix
+### Round 5 - Dutch Grand Prix
 *Date: 1955-06-19*
 
 #### Qualifying Results
@@ -362,7 +362,7 @@
 
 ---
 
-### Round 6 – British Grand Prix
+### Round 6 - British Grand Prix
 *Date: 1955-07-16*
 
 #### Qualifying Results
@@ -427,7 +427,7 @@
 
 ---
 
-### Round 7 – Italian Grand Prix
+### Round 7 - Italian Grand Prix
 *Date: 1955-09-11*
 
 #### Qualifying Results

@@ -40,7 +40,7 @@
 
 ## Race-by-Race ELO Changes
 
-### Round 1 – Austrian Grand Prix
+### Round 1 - Austrian Grand Prix
 *Date: 2020-07-05*
 
 #### Qualifying Results
@@ -95,7 +95,7 @@
 
 ---
 
-### Round 2 – Styrian Grand Prix
+### Round 2 - Styrian Grand Prix
 *Date: 2020-07-12*
 
 #### Qualifying Results
@@ -150,7 +150,7 @@
 
 ---
 
-### Round 3 – Hungarian Grand Prix
+### Round 3 - Hungarian Grand Prix
 *Date: 2020-07-19*
 
 #### Qualifying Results
@@ -205,7 +205,7 @@
 
 ---
 
-### Round 4 – British Grand Prix
+### Round 4 - British Grand Prix
 *Date: 2020-08-02*
 
 #### Qualifying Results
@@ -260,7 +260,7 @@
 
 ---
 
-### Round 5 – 70th Anniversary Grand Prix
+### Round 5 - 70th Anniversary Grand Prix
 *Date: 2020-08-09*
 
 #### Qualifying Results
@@ -315,7 +315,7 @@
 
 ---
 
-### Round 6 – Spanish Grand Prix
+### Round 6 - Spanish Grand Prix
 *Date: 2020-08-16*
 
 #### Qualifying Results
@@ -370,7 +370,7 @@
 
 ---
 
-### Round 7 – Belgian Grand Prix
+### Round 7 - Belgian Grand Prix
 *Date: 2020-08-30*
 
 #### Qualifying Results
@@ -425,7 +425,7 @@
 
 ---
 
-### Round 8 – Italian Grand Prix
+### Round 8 - Italian Grand Prix
 *Date: 2020-09-06*
 
 #### Qualifying Results
@@ -480,7 +480,7 @@
 
 ---
 
-### Round 9 – Tuscan Grand Prix
+### Round 9 - Tuscan Grand Prix
 *Date: 2020-09-13*
 
 #### Qualifying Results
@@ -535,7 +535,7 @@
 
 ---
 
-### Round 10 – Russian Grand Prix
+### Round 10 - Russian Grand Prix
 *Date: 2020-09-27*
 
 #### Qualifying Results
@@ -590,7 +590,7 @@
 
 ---
 
-### Round 11 – Eifel Grand Prix
+### Round 11 - Eifel Grand Prix
 *Date: 2020-10-11*
 
 #### Qualifying Results
@@ -645,7 +645,7 @@
 
 ---
 
-### Round 12 – Portuguese Grand Prix
+### Round 12 - Portuguese Grand Prix
 *Date: 2020-10-25*
 
 #### Qualifying Results
@@ -700,7 +700,7 @@
 
 ---
 
-### Round 13 – Emilia Romagna Grand Prix
+### Round 13 - Emilia Romagna Grand Prix
 *Date: 2020-11-01*
 
 #### Qualifying Results
@@ -755,7 +755,7 @@
 
 ---
 
-### Round 14 – Turkish Grand Prix
+### Round 14 - Turkish Grand Prix
 *Date: 2020-11-15*
 
 #### Qualifying Results
@@ -810,7 +810,7 @@
 
 ---
 
-### Round 15 – Bahrain Grand Prix
+### Round 15 - Bahrain Grand Prix
 *Date: 2020-11-29*
 
 #### Qualifying Results
@@ -865,7 +865,7 @@
 
 ---
 
-### Round 16 – Sakhir Grand Prix
+### Round 16 - Sakhir Grand Prix
 *Date: 2020-12-06*
 
 #### Qualifying Results
@@ -920,7 +920,7 @@
 
 ---
 
-### Round 17 – Abu Dhabi Grand Prix
+### Round 17 - Abu Dhabi Grand Prix
 *Date: 2020-12-13*
 
 #### Qualifying Results
