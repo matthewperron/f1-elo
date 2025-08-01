@@ -133,12 +133,61 @@ async function generatePeakELOFile() {
 
             const driverLink = `[${driver.name}](./drivers/${cleanDriverName})`;
 
+            // Load race data to get correct teammate info when needed
+            let correctTeammate = driver.teammate;
+            let correctTeammateElo = driver.teammateElo;
+            try {
+                const seasonData = JSON.parse(readFileSync(`data/${driver.season}-race-results.json`, 'utf8'));
+                const raceEvent = seasonData.races.find(race => race.round === driver.round);
+
+                if (raceEvent && raceEvent.results) {
+                    // Find the driver's result using flexible name matching
+                    let driverResult = raceEvent.results.find(r =>
+                        (r.driver.givenName + ' ' + r.driver.familyName) === driver.name ||
+                        driver.name.includes(r.driver.familyName) ||
+                        r.driver.familyName.toLowerCase() === driver.name.split(' ').pop().toLowerCase()
+                    );
+
+                    if (driverResult) {
+                        // Find their teammate (same constructor, different driver)
+                        const teammateResult = raceEvent.results.find(r =>
+                            r.driver.driverId !== driverResult.driver.driverId &&
+                            r.constructor.name === driverResult.constructor.name
+                        );
+
+                        if (teammateResult) {
+                            correctTeammate = teammateResult.driver.givenName + ' ' + teammateResult.driver.familyName;
+
+                            // Find teammate's Elo from the race event data - match the Elo type
+                            if (raceEvent.eloChanges) {
+                                // Convert table type to data type: 'global' -> 'global', 'qualifying' -> 'qualifying', 'race' -> 'race'
+                                const dataEloType = eloType.toLowerCase();
+
+                                const teammateEloChange = raceEvent.eloChanges.find(c =>
+                                    c.driverId === teammateResult.driver.driverId &&
+                                    c.type === dataEloType
+                                );
+
+                                if (teammateEloChange) {
+                                    correctTeammateElo = teammateEloChange.newElo;
+                                } else {
+                                    // Reset to null if we can't find the teammate's Elo for this type
+                                    correctTeammateElo = null;
+                                }
+                            }
+                        }
+                    }
+                }
+            } catch (error) {
+                // If we can't load the data, use the original teammate info
+            }
+
             // Create anchor link for the specific race (format: round-{number}-{racename})
             const roundNumber = driver.round || 'unknown';
             const raceTitle = `Round ${roundNumber} – ${driver.race}`;
             const raceAnchor = raceTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const raceLink = `[${raceTitle}](./seasons/${driver.season}-season-report#${raceAnchor})`;
-            tableContent += `| ${index + 1} | ${driverLink} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${raceLink} | ${driver.teammate} | ${driver.teammateElo || 'N/A'} |\n`;
+            tableContent += `| ${index + 1} | ${driverLink} | **${driver.peak}** | ${driver.constructor} | ${driver.date} | ${driver.season} | ${raceLink} | ${correctTeammate} | ${correctTeammateElo || 'N/A'} |\n`;
         });
 
         return { content: tableContent, drivers: peakDrivers };
