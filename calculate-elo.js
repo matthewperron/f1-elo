@@ -659,12 +659,10 @@ async function generateSeasonReport(driverRatings, raceEvents, season) {
     
     // Add quick navigation to race sections
     content += `## Quick Navigation\n\n`;
-    const raceNavigation = raceEvents.map(race => {
-        // Create anchor that matches what GitHub generates for "Round X – Race Name"
-        const headerText = `Round ${race.round} – ${race.raceName}`;
-        const anchor = headerText.toLowerCase().replace(/[^a-z0-9\s\u2013-]/g, '').replace(/[\s\u2013-]+/g, '-');
-        return `[${headerText}](#${anchor})`;
-    }).join(' • ');
+    const raceNavigation = raceEvents.map(race => 
+        `[Round ${race.round} – ${race.raceName}](#round-${race.round}-${race.raceName.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-')})`
+    ).join(' • ');
+    
     content += `${raceNavigation}\n\n`;
     content += `📊 **[View Complete F1 ${season} Season Results](https://www.formula1.com/en/results.html/${season}/races.html)** | **[Wikipedia ${season} F1 Season](https://en.wikipedia.org/wiki/${season}_Formula_One_World_Championship)**\n\n`;
     
