@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> José Froilán González - Complete F1 Career Results
 
-*Last updated: 2025-07-31*
+*Last updated: 2025-08-01*
 
 ## Season Navigation
 

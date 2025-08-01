@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jack McGrath - Complete F1 Career Results
 
-*Last updated: 2025-07-31*
+*Last updated: 2025-08-01*
 
 ## Season Navigation
 

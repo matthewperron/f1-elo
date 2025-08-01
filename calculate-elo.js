@@ -810,7 +810,7 @@ async function updateHomepageFiles(driverRatings, season, useComprehensiveLinks 
 
 - This table shows the current Elo ratings of drivers currently on the grid for the ${season} season. Some drivers may have peaked earlier in their careers, so this is not a comprehensive list of the best drivers of all time.
 
-- For the all-time best drivers, see: [Best Qualifying Elo](${file.isGithubPages ? 'peak-elo#best-qualifying-elo' : 'docs/peak-elo.md#best-qualifying-elo'}) | [Best Race Elo](${file.isGithubPages ? 'peak-elo#best-race-elo' : 'docs/peak-elo.md#best-race-elo'}) | [Best Global Elo](${file.isGithubPages ? 'peak-elo#best-global-elo' : 'docs/peak-elo.md#best-global-elo'})
+- For the all-time best drivers, see: [Best Qualifying Elo](${file.isGithubPages ? 'peak-elo#best-qualifying-elo' : 'docs/peak-elo.md#best-qualifying-elo'}) • [Best Race Elo](${file.isGithubPages ? 'peak-elo#best-race-elo' : 'docs/peak-elo.md#best-race-elo'}) • [Best Global Elo](${file.isGithubPages ? 'peak-elo#best-global-elo' : 'docs/peak-elo.md#best-global-elo'})
 
 - The Global Elo combines qualifying (30%) and race (70%) Elo changes using a weighted calculation to provide a comprehensive driver rating.
 

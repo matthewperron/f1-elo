@@ -1,6 +1,6 @@
 # 1984 F1 Season - Elo Analysis
 
-*Last updated: 2025-07-31*
+*Last updated: 2025-08-01*
 
 ## Quick Navigation
 

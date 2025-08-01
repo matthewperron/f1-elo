@@ -523,12 +523,23 @@ async function generateComprehensiveDriverFiles() {
         const raceResults = sortedResults.filter(r => r.session === 'race' && r.eloChange !== null);
         const globalResults = sortedResults.filter(r => r.session === 'global' && r.eloChange !== null);
 
-        // Find peaks and lows with details
+        // Add peak and low ELO statistics in table format
+        content += `### 📊 Peak & Lowest Elo Ratings\n\n`;
+        content += `| Stats | Qualifying | Race | Global |\n`;
+        content += `|-------|------------|------|--------|\n`;
+
+        // Initialize cells with default values
+        let peakQualCell = 'N/A';
+        let peakRaceCell = 'N/A';
+        let peakGlobalCell = 'N/A';
+        let lowQualCell = 'N/A';
+        let lowRaceCell = 'N/A';
+        let lowGlobalCell = 'N/A';
+
+        // Populate qualifying cells if data available
         if (qualifyingResults.length > 0) {
             const qualPeakResult = qualifyingResults.reduce((max, r) => r.newElo > max.newElo ? r : max);
             const qualLowResult = qualifyingResults.reduce((min, r) => r.newElo < min.newElo ? r : min);
-            const qualStart = qualifyingResults[0].startingElo;
-            const qualEnd = qualifyingResults[qualifyingResults.length - 1].newElo;
 
             // Create links for peak and low qualifying results
             const qualPeakTitle = `Round ${qualPeakResult.round} – ${qualPeakResult.raceName}`;
@@ -539,18 +550,14 @@ async function generateComprehensiveDriverFiles() {
             const qualLowAnchor = qualLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const qualLowLink = `[${qualLowResult.season} Round ${qualLowResult.round} – ${qualLowResult.raceName}](../seasons/${qualLowResult.season}-season-report#${qualLowAnchor})`;
 
-            content += `### 🏁 Qualifying Performance\n\n`;
-            content += `🏆 **Peak Qualifying Elo**: ${qualPeakResult.newElo}\n`;
-            content += `   *${qualPeakLink}*\n\n`;
-            content += `📉 **Lowest Qualifying Elo**: ${qualLowResult.newElo}\n`;
-            content += `   *${qualLowLink}*\n\n`;
+            peakQualCell = `${qualPeakResult.newElo}<br/>${qualPeakLink}`;
+            lowQualCell = `${qualLowResult.newElo}<br/>${qualLowLink}`;
         }
 
+        // Populate race cells if data available
         if (raceResults.length > 0) {
             const racePeakResult = raceResults.reduce((max, r) => r.newElo > max.newElo ? r : max);
             const raceLowResult = raceResults.reduce((min, r) => r.newElo < min.newElo ? r : min);
-            const raceStart = raceResults[0].startingElo;
-            const raceEnd = raceResults[raceResults.length - 1].newElo;
 
             // Create links for peak and low race results
             const racePeakTitle = `Round ${racePeakResult.round} – ${racePeakResult.raceName}`;
@@ -561,18 +568,14 @@ async function generateComprehensiveDriverFiles() {
             const raceLowAnchor = raceLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const raceLowLink = `[${raceLowResult.season} Round ${raceLowResult.round} – ${raceLowResult.raceName}](../seasons/${raceLowResult.season}-season-report#${raceLowAnchor})`;
 
-            content += `### 🏎️ Race Performance\n\n`;
-            content += `🏆 **Peak Race Elo**: ${racePeakResult.newElo}\n`;
-            content += `   *${racePeakLink}*\n\n`;
-            content += `📉 **Lowest Race Elo**: ${raceLowResult.newElo}\n`;
-            content += `   *${raceLowLink}*\n\n`;
+            peakRaceCell = `${racePeakResult.newElo}<br/>${racePeakLink}`;
+            lowRaceCell = `${raceLowResult.newElo}<br/>${raceLowLink}`;
         }
 
+        // Populate global cells if data available
         if (globalResults.length > 0) {
             const globalPeakResult = globalResults.reduce((max, r) => r.newElo > max.newElo ? r : max);
             const globalLowResult = globalResults.reduce((min, r) => r.newElo < min.newElo ? r : min);
-            const globalStart = globalResults[0].startingElo;
-            const globalEnd = globalResults[globalResults.length - 1].newElo;
 
             // Create links for peak and low global results
             const globalPeakTitle = `Round ${globalPeakResult.round} – ${globalPeakResult.raceName}`;
@@ -583,12 +586,13 @@ async function generateComprehensiveDriverFiles() {
             const globalLowAnchor = globalLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const globalLowLink = `[${globalLowResult.season} Round ${globalLowResult.round} – ${globalLowResult.raceName}](../seasons/${globalLowResult.season}-season-report#${globalLowAnchor})`;
 
-            content += `### 🌟 Global Performance\n\n`;
-            content += `🏆 **Peak Global Elo**: ${globalPeakResult.newElo}\n`;
-            content += `   *${globalPeakLink}*\n\n`;
-            content += `📉 **Lowest Global Elo**: ${globalLowResult.newElo}\n`;
-            content += `   *${globalLowLink}*\n\n`;
+            peakGlobalCell = `${globalPeakResult.newElo}<br/>${globalPeakLink}`;
+            lowGlobalCell = `${globalLowResult.newElo}<br/>${globalLowLink}`;
         }
+
+        // Add the table rows
+        content += `| **Peak** | ${peakQualCell} | ${peakRaceCell} | ${peakGlobalCell} |\n`;
+        content += `| **Lowest** | ${lowQualCell} | ${lowRaceCell} | ${lowGlobalCell} |\n\n`;
 
         content += `\n`;
 

@@ -26,24 +26,24 @@ Race-by-race Elo changes and detailed analysis for each season:
 
 | Decades | Season Reports | Official F1 Results |
 |---------|----------------|-------------------|
-| **2020s** | [2025](seasons/2025-season-report) \| [2024](seasons/2024-season-report) \| [2023](seasons/2023-season-report) \| [2022](seasons/2022-season-report) \| [2021](seasons/2021-season-report) \| [2020](seasons/2020-season-report) | [F1.com 2020s](https://www.formula1.com/en/results.html/2025/races.html) |
-| **2010s** | [2019](seasons/2019-season-report) \| [2018](seasons/2018-season-report) \| [2017](seasons/2017-season-report) \| [2016](seasons/2016-season-report) \| [2015](seasons/2015-season-report) \| [2014](seasons/2014-season-report) \| [2013](seasons/2013-season-report) \| [2012](seasons/2012-season-report) \| [2011](seasons/2011-season-report) \| [2010](seasons/2010-season-report) | [F1.com 2010s](https://www.formula1.com/en/results.html/2019/races.html) |
-| **2000s** | [2009](seasons/2009-season-report) \| [2008](seasons/2008-season-report) \| [2007](seasons/2007-season-report) \| [2006](seasons/2006-season-report) \| [2005](seasons/2005-season-report) \| [2004](seasons/2004-season-report) \| [2003](seasons/2003-season-report) \| [2002](seasons/2002-season-report) \| [2001](seasons/2001-season-report) \| [2000](seasons/2000-season-report) | [F1.com 2000s](https://www.formula1.com/en/results.html/2009/races.html) |
-| **1990s** | [1999](seasons/1999-season-report) \| [1998](seasons/1998-season-report) \| [1997](seasons/1997-season-report) \| [1996](seasons/1996-season-report) \| [1995](seasons/1995-season-report) \| [1994](seasons/1994-season-report) \| [1993](seasons/1993-season-report) \| [1992](seasons/1992-season-report) \| [1991](seasons/1991-season-report) \| [1990](seasons/1990-season-report) | [F1.com 1990s](https://www.formula1.com/en/results.html/1999/races.html) |
-| **1980s** | [1989](seasons/1989-season-report) \| [1988](seasons/1988-season-report) \| [1987](seasons/1987-season-report) \| [1986](seasons/1986-season-report) \| [1985](seasons/1985-season-report) \| [1984](seasons/1984-season-report) \| [1983](seasons/1983-season-report) \| [1982](seasons/1982-season-report) \| [1981](seasons/1981-season-report) \| [1980](seasons/1980-season-report) | [F1.com 1980s](https://www.formula1.com/en/results.html/1989/races.html) |
-| **1970s** | [1979](seasons/1979-season-report) \| [1978](seasons/1978-season-report) \| [1977](seasons/1977-season-report) \| [1976](seasons/1976-season-report) \| [1975](seasons/1975-season-report) \| [1974](seasons/1974-season-report) \| [1973](seasons/1973-season-report) \| [1972](seasons/1972-season-report) \| [1971](seasons/1971-season-report) \| [1970](seasons/1970-season-report) | [F1.com 1970s](https://www.formula1.com/en/results.html/1979/races.html) |
-| **1960s** | [1969](seasons/1969-season-report) \| [1968](seasons/1968-season-report) \| [1967](seasons/1967-season-report) \| [1966](seasons/1966-season-report) \| [1965](seasons/1965-season-report) \| [1964](seasons/1964-season-report) \| [1963](seasons/1963-season-report) \| [1962](seasons/1962-season-report) \| [1961](seasons/1961-season-report) \| [1960](seasons/1960-season-report) | [F1.com 1960s](https://www.formula1.com/en/results.html/1969/races.html) |
-| **1950s** | [1959](seasons/1959-season-report) \| [1958](seasons/1958-season-report) \| [1957](seasons/1957-season-report) \| [1956](seasons/1956-season-report) \| [1955](seasons/1955-season-report) \| [1954](seasons/1954-season-report) \| [1953](seasons/1953-season-report) \| [1952](seasons/1952-season-report) \| [1951](seasons/1951-season-report) \| [1950](seasons/1950-season-report) | [F1.com 1950s](https://www.formula1.com/en/results.html/1959/races.html) |
+| **2020s** | [2025](seasons/2025-season-report) • [2024](seasons/2024-season-report) • [2023](seasons/2023-season-report) • [2022](seasons/2022-season-report) • [2021](seasons/2021-season-report) • [2020](seasons/2020-season-report) | [F1.com 2020s](https://www.formula1.com/en/results.html/2025/races.html) |
+| **2010s** | [2019](seasons/2019-season-report) • [2018](seasons/2018-season-report) • [2017](seasons/2017-season-report) • [2016](seasons/2016-season-report) • [2015](seasons/2015-season-report) • [2014](seasons/2014-season-report) • [2013](seasons/2013-season-report) • [2012](seasons/2012-season-report) • [2011](seasons/2011-season-report) • [2010](seasons/2010-season-report) | [F1.com 2010s](https://www.formula1.com/en/results.html/2019/races.html) |
+| **2000s** | [2009](seasons/2009-season-report) • [2008](seasons/2008-season-report) • [2007](seasons/2007-season-report) • [2006](seasons/2006-season-report) • [2005](seasons/2005-season-report) • [2004](seasons/2004-season-report) • [2003](seasons/2003-season-report) • [2002](seasons/2002-season-report) • [2001](seasons/2001-season-report) • [2000](seasons/2000-season-report) | [F1.com 2000s](https://www.formula1.com/en/results.html/2009/races.html) |
+| **1990s** | [1999](seasons/1999-season-report) • [1998](seasons/1998-season-report) • [1997](seasons/1997-season-report) • [1996](seasons/1996-season-report) • [1995](seasons/1995-season-report) • [1994](seasons/1994-season-report) • [1993](seasons/1993-season-report) • [1992](seasons/1992-season-report) • [1991](seasons/1991-season-report) • [1990](seasons/1990-season-report) | [F1.com 1990s](https://www.formula1.com/en/results.html/1999/races.html) |
+| **1980s** | [1989](seasons/1989-season-report) • [1988](seasons/1988-season-report) • [1987](seasons/1987-season-report) • [1986](seasons/1986-season-report) • [1985](seasons/1985-season-report) • [1984](seasons/1984-season-report) • [1983](seasons/1983-season-report) • [1982](seasons/1982-season-report) • [1981](seasons/1981-season-report) • [1980](seasons/1980-season-report) | [F1.com 1980s](https://www.formula1.com/en/results.html/1989/races.html) |
+| **1970s** | [1979](seasons/1979-season-report) • [1978](seasons/1978-season-report) • [1977](seasons/1977-season-report) • [1976](seasons/1976-season-report) • [1975](seasons/1975-season-report) • [1974](seasons/1974-season-report) • [1973](seasons/1973-season-report) • [1972](seasons/1972-season-report) • [1971](seasons/1971-season-report) • [1970](seasons/1970-season-report) | [F1.com 1970s](https://www.formula1.com/en/results.html/1979/races.html) |
+| **1960s** | [1969](seasons/1969-season-report) • [1968](seasons/1968-season-report) • [1967](seasons/1967-season-report) • [1966](seasons/1966-season-report) • [1965](seasons/1965-season-report) • [1964](seasons/1964-season-report) • [1963](seasons/1963-season-report) • [1962](seasons/1962-season-report) • [1961](seasons/1961-season-report) • [1960](seasons/1960-season-report) | [F1.com 1960s](https://www.formula1.com/en/results.html/1969/races.html) |
+| **1950s** | [1959](seasons/1959-season-report) • [1958](seasons/1958-season-report) • [1957](seasons/1957-season-report) • [1956](seasons/1956-season-report) • [1955](seasons/1955-season-report) • [1954](seasons/1954-season-report) • [1953](seasons/1953-season-report) • [1952](seasons/1952-season-report) • [1951](seasons/1951-season-report) • [1950](seasons/1950-season-report) | [F1.com 1950s](https://www.formula1.com/en/results.html/1959/races.html) |
 
 *Each season report contains the final ELO table plus detailed race-by-race analysis showing how each driver's ELO changed after every qualifying session and race.*
 
 <!-- ELO_RESULTS_START -->
 ### Current Elo Ratings (during the 2025 season)
-*Last updated: 2025-07-31*
+*Last updated: 2025-08-01*
 
 - This table shows the current Elo ratings of drivers currently on the grid for the 2025 season. Some drivers may have peaked earlier in their careers, so this is not a comprehensive list of the best drivers of all time.
 
-- For the all-time best drivers, see: [Best Qualifying Elo](peak-elo#best-qualifying-elo) | [Best Race Elo](peak-elo#best-race-elo) | [Best Global Elo](peak-elo#best-global-elo)
+- For the all-time best drivers, see: [Best Qualifying Elo](peak-elo#best-qualifying-elo) • [Best Race Elo](peak-elo#best-race-elo) • [Best Global Elo](peak-elo#best-global-elo)
 
 - The Global Elo combines qualifying (30%) and race (70%) Elo changes using a weighted calculation to provide a comprehensive driver rating.
 
@@ -198,8 +198,83 @@ Based on peak **Global Elo** ratings (30% qualifying + 70% race performance vs t
 
 
 
-*Based on peak Elo ratings achieved during their F1 careers. Last updated: 2025-07-31*
+*Based on peak Elo ratings achieved during their F1 careers. Last updated: 2025-08-01*
 <!-- TOP30_TABLES_END -->
+
+## Methodology
+
+The Elo calculation follows the classic chess Elo formula, comparing each driver directly with their teammate(s) for each race weekend. Key rules:
+
+1. **Data Source**: Historical race results from `data/YYYY-race-results.json` files (fetched from [Ergast API](https://api.jolpi.ca/ergast/f1/))
+2. **Teammate Comparison**: Only head-to-head comparisons between teammates are considered
+3. **Exclusions**: Races where no teammate participated or either driver had a DNF are excluded from calculations. The DNFs are defined by races where one of the drivers cannot finish the race for mechanical reasons. The valid status are the following: 
+    - Finished
+    - +1 Lap
+    - +2 Laps
+    - +3 Laps
+    - +4 Laps
+    - +5 Laps
+    - +6 Laps
+    - Lapped
+    - Accident
+    - Collision
+    - Spun off
+    - Not classified
+4. **Chronological Processing**: Race history is processed in chronological order to maintain accurate ELO progression
+
+## Elo Formula
+
+The standard chess Elo rating system is used with the following parameters:
+- **Starting Elo**: **`1500`** points (or carried over from previous season)
+- **K-factor**: **`64`** (determines rating change magnitude)
+- **Expected Score**: **`E`** = `1` / (`1` + `10`^((`opponent_elo` - `player_elo`) / `400`))
+- **New Rating**: **`new_elo`** = `old_elo` + `K` × (`actual_score` - `expected_score`)
+
+### How It Works
+
+Each race weekend, teammates are compared head-to-head in three categories:
+
+#### 1. Qualifying Elo
+Compares grid positions between teammates.
+
+**Example**: Charles Leclerc (**`1600`** Elo) vs Lewis Hamilton (**`1500`** Elo) - Ferrari teammates
+- Leclerc qualifies **`P3`**, Hamilton qualifies **`P5`**
+- Expected score for Leclerc: `1/(1+10^((1500-1600)/400))` = **`0.64`**
+- Leclerc **wins** (better grid position): Actual score = **`1`**
+- Leclerc's new Elo: `1600 + 64 × (1 - 0.64)` = **`1623`**
+- Hamilton's new Elo: `1500 + 64 × (0 - 0.36)` = **`1477`**
+
+#### 2. Race Elo  
+Compares finishing positions between teammates.
+
+**Example**: George Russell (**`1550`** Elo) vs Andrea Kimi Antonelli (**`1450`** Elo) - Mercedes teammates
+- Russell finishes **`P2`**, Antonelli finishes **`P4`**
+- Expected score for Russell: `1/(1+10^((1450-1550)/400))` = **0.64**
+- Russell **wins** (better finish): Actual score = `1`
+- Russell's new Elo: `1550 + 64 × (1 - 0.64)` = **1573**
+- Antonelli's new Elo: `1450 + 64 × (0 - 0.36)` = **1427**
+
+#### 3. Global Elo
+Combines **`30%`** of **qualifying** and **`70%`** of **race** Elo changes with weighted calculation.
+
+**Example**: Max Verstappen (**`1700`** Elo) vs Yuki Tsunoda (**`1600`** Elo) - Red Bull teammates
+- **Qualifying**: Verstappen **`P1`**, Tsunoda **`P3`** (Verstappen **wins**)
+  - Expected score for Verstappen: `1/(1+10^((1600-1700)/400))` = **0.64**
+  - Qualifying Elo change for Verstappen: `64 × (1 - 0.64)` = **+23**
+  - Qualifying Elo change for Tsunoda: `64 × (0 - 0.36)` = **-23**
+
+- **Race**: Verstappen **`P2`**, Tsunoda **`P1`** (Tsunoda **wins**)  
+  - Expected score for Verstappen: `1/(1+10^((1600-1700)/400))` = **0.64**
+  - Race Elo change for Verstappen: `64 × (0 - 0.64)` = **-41**
+  - Race Elo change for Tsunoda: `64 × (1 - 0.36)` = **+41**
+
+- **Global Elo Change** (**`30%`** qualifying + **`70%`** race):
+  - Verstappen: `(23 × 0.3) + (-41 × 0.7) = 6.9 - 28.7` = **-22**
+  - Tsunoda: `(-23 × 0.3) + (41 × 0.7) = -6.9 + 28.7` = **+22**
+
+- **Final Global Elo**:
+  - Verstappen: `1700 + (-22)` = **`1678`**
+  - Tsunoda: `1600 + 22` = **`1622`**
 
 ## About This Project
 

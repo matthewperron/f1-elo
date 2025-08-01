@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi - Complete F1 Career Results
 
-*Last updated: 2025-07-31*
+*Last updated: 2025-08-01*
 
 ## Season Navigation
 

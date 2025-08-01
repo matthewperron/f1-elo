@@ -30,15 +30,16 @@ The Elo calculation follows the classic chess Elo formula, comparing each driver
     - Accident
     - Collision
     - Spun off
+    - Not classified
 4. **Chronological Processing**: Race history is processed in chronological order to maintain accurate ELO progression
 
 ## Elo Formula
 
 The standard chess Elo rating system is used with the following parameters:
-- **Starting Elo**: 1500 points (or carried over from previous season)
-- **K-factor**: 64 (determines rating change magnitude)
-- **Expected Score**: E = 1 / (1 + 10^((opponent_elo - player_elo) / 400))
-- **New Rating**: new_elo = old_elo + K × (Actual_Score - Expected_Score)
+- **Starting Elo**: **`1500`** points (or carried over from previous season)
+- **K-factor**: **`64`** (determines rating change magnitude)
+- **Expected Score**: **`E`** = `1` / (`1` + `10`^((`opponent_elo` - `player_elo`) / `400`))
+- **New Rating**: **`new_elo`** = `old_elo` + `K` × (`actual_score` - `expected_score`)
 
 ### How It Works
 
@@ -47,44 +48,44 @@ Each race weekend, teammates are compared head-to-head in three categories:
 #### 1. Qualifying Elo
 Compares grid positions between teammates.
 
-**Example**: Charles Leclerc (1600 Elo) vs Lewis Hamilton (1500 Elo) - Ferrari teammates
-- Leclerc qualifies P3, Hamilton qualifies P5
-- Expected score for Leclerc: 1/(1+10^((1500-1600)/400)) = 0.64
-- Leclerc wins (better grid position): Actual score = 1
-- Leclerc's new Elo: 1600 + 64 × (1 - 0.64) = **1623**
-- Hamilton's new Elo: 1500 + 64 × (0 - 0.36) = **1477**
+**Example**: Charles Leclerc (**`1600`** Elo) vs Lewis Hamilton (**`1500`** Elo) - Ferrari teammates
+- Leclerc qualifies **`P3`**, Hamilton qualifies **`P5`**
+- Expected score for Leclerc: `1/(1+10^((1500-1600)/400))` = **`0.64`**
+- Leclerc **wins** (better grid position): Actual score = **`1`**
+- Leclerc's new Elo: `1600 + 64 × (1 - 0.64)` = **`1623`**
+- Hamilton's new Elo: `1500 + 64 × (0 - 0.36)` = **`1477`**
 
 #### 2. Race Elo  
 Compares finishing positions between teammates.
 
-**Example**: George Russell (1550 Elo) vs Andrea Kimi Antonelli (1450 Elo) - Mercedes teammates
-- Russell finishes P2, Antonelli finishes P4
-- Expected score for Russell: 1/(1+10^((1450-1550)/400)) = 0.64
-- Russell wins (better finish): Actual score = 1
-- Russell's new Elo: 1550 + 64 × (1 - 0.64) = **1573**
-- Antonelli's new Elo: 1450 + 64 × (0 - 0.36) = **1427**
+**Example**: George Russell (**`1550`** Elo) vs Andrea Kimi Antonelli (**`1450`** Elo) - Mercedes teammates
+- Russell finishes **`P2`**, Antonelli finishes **`P4`**
+- Expected score for Russell: `1/(1+10^((1450-1550)/400))` = **0.64**
+- Russell **wins** (better finish): Actual score = `1`
+- Russell's new Elo: `1550 + 64 × (1 - 0.64)` = **1573**
+- Antonelli's new Elo: `1450 + 64 × (0 - 0.36)` = **1427**
 
 #### 3. Global Elo
-Combines qualifying (30%) and race (70%) Elo changes with weighted calculation.
+Combines **`30%`** of **qualifying** and **`70%`** of **race** Elo changes with weighted calculation.
 
-**Example**: Max Verstappen (1700 Elo) vs Yuki Tsunoda (1600 Elo) - Red Bull teammates
-- **Qualifying**: Verstappen P1, Tsunoda P3 (Verstappen wins)
-  - Expected score for Verstappen: 1/(1+10^((1600-1700)/400)) = 0.64
-  - Qualifying Elo change for Verstappen: 64 × (1 - 0.64) = **+23**
-  - Qualifying Elo change for Tsunoda: 64 × (0 - 0.36) = **-23**
+**Example**: Max Verstappen (**`1700`** Elo) vs Yuki Tsunoda (**`1600`** Elo) - Red Bull teammates
+- **Qualifying**: Verstappen **`P1`**, Tsunoda **`P3`** (Verstappen **wins**)
+  - Expected score for Verstappen: `1/(1+10^((1600-1700)/400))` = **0.64**
+  - Qualifying Elo change for Verstappen: `64 × (1 - 0.64)` = **+23**
+  - Qualifying Elo change for Tsunoda: `64 × (0 - 0.36)` = **-23**
 
-- **Race**: Verstappen P2, Tsunoda P1 (Tsunoda wins)  
-  - Expected score for Verstappen: 1/(1+10^((1600-1700)/400)) = 0.64
-  - Race Elo change for Verstappen: 64 × (0 - 0.64) = **-41**
-  - Race Elo change for Tsunoda: 64 × (1 - 0.36) = **+41**
+- **Race**: Verstappen **`P2`**, Tsunoda **`P1`** (Tsunoda **wins**)  
+  - Expected score for Verstappen: `1/(1+10^((1600-1700)/400))` = **0.64**
+  - Race Elo change for Verstappen: `64 × (0 - 0.64)` = **-41**
+  - Race Elo change for Tsunoda: `64 × (1 - 0.36)` = **+41**
 
-- **Global Elo Change** (30% qualifying + 70% race):
-  - Verstappen: (23 × 0.3) + (-41 × 0.7) = 6.9 - 28.7 = **-22**
-  - Tsunoda: (-23 × 0.3) + (41 × 0.7) = -6.9 + 28.7 = **+22**
+- **Global Elo Change** (**`30%`** qualifying + **`70%`** race):
+  - Verstappen: `(23 × 0.3) + (-41 × 0.7) = 6.9 - 28.7` = **-22**
+  - Tsunoda: `(-23 × 0.3) + (41 × 0.7) = -6.9 + 28.7` = **+22**
 
 - **Final Global Elo**:
-  - Verstappen: 1700 + (-22) = **1678**
-  - Tsunoda: 1600 + 22 = **1622**
+  - Verstappen: `1700 + (-22)` = **`1678`**
+  - Tsunoda: `1600 + 22` = **`1622`**
 
 ## Results
 
@@ -92,11 +93,11 @@ The following table shows current Elo ratings for all F1 drivers (updated automa
 
 <!-- ELO_RESULTS_START -->
 ### Current Elo Ratings (during the 2025 season)
-*Last updated: 2025-07-31*
+*Last updated: 2025-08-01*
 
 - This table shows the current Elo ratings of drivers currently on the grid for the 2025 season. Some drivers may have peaked earlier in their careers, so this is not a comprehensive list of the best drivers of all time.
 
-- For the all-time best drivers, see: [Best Qualifying Elo](docs/peak-elo.md#best-qualifying-elo) | [Best Race Elo](docs/peak-elo.md#best-race-elo) | [Best Global Elo](docs/peak-elo.md#best-global-elo)
+- For the all-time best drivers, see: [Best Qualifying Elo](docs/peak-elo.md#best-qualifying-elo) • [Best Race Elo](docs/peak-elo.md#best-race-elo) • [Best Global Elo](docs/peak-elo.md#best-global-elo)
 
 - The Global Elo combines qualifying (30%) and race (70%) Elo changes using a weighted calculation to provide a comprehensive driver rating.
 
