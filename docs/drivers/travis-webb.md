@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1532
-   *[1950 Round 3 – Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)*
-
-📉 **Lowest Qualifying Elo**: 1532
-   *[1950 Round 3 – Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1510
-   *[1950 Round 3 – Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)*
-
-📉 **Lowest Global Elo**: 1510
-   *[1950 Round 3 – Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1532`**<br/><small>[1950 Round 3 – Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)</small></center> | N/A | <center>**`1510`**<br/><small>[1950 Round 3 – Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)</small></center> |
+| **Lowest** | <center>**`1532`**<br/><small>[1950 Round 3 – Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)</small></center> | N/A | <center>**`1510`**<br/><small>[1950 Round 3 – Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1532 **<span style="color: green;">▲ +32</span>** | 1510 **<span style="color: green;">▲ +10</span>** |
+| 1500 ↔ 0 | 1532 **<span style="color: green;">▲&nbsp;`+32`</span>** | 1510 **<span style="color: green;">▲&nbsp;`+10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +32</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
 
 #### DNF Statistics
 
@@ -54,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | Maserati | Q: 14<br/>R: DNF | 1532 **<span style="color: green;">▲ +32</span>** | N/A | 1510 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks)<br/>Q: 21<br/>R: DNF |
+| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | Maserati | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1532 **<span style="color: green;">▲&nbsp;`+32`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Henry Banks](henry-banks)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

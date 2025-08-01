@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1492
-   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1479
-   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1498
-   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
-
-📉 **Lowest Global Elo**: 1494
-   *[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1492`**<br/><small>[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)</small></center> | N/A | <center>**`1498`**<br/><small>[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)</small></center> |
+| **Lowest** | <center>**`1479`**<br/><small>[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)</small></center> | N/A | <center>**`1494`**<br/><small>[1970 Round 12 – United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,15 +30,15 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1479 **<span style="color: red;">▼ -21</span>** | 1494 **<span style="color: red;">▼ -6</span>** |
+| 1500 ↔ 0 | 1479 **<span style="color: red;">▼&nbsp;`-21`</span>** | 1494 **<span style="color: red;">▼&nbsp;`-6`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) (1570)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) (1694)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -8</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) (1694)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen](rolf-stommelen) (1546)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen](rolf-stommelen) (1547)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -13</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen](rolf-stommelen) (1547)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
 
 #### DNF Statistics
 
@@ -57,5 +48,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 12: United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix) | Brabham | Q: 22<br/>R: DNF | 1479 **<span style="color: red;">▼ -13</span>** | N/A | 1494 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham)<br/>Q: 16<br/>R: 10 |
+| [Round 12: United States Grand Prix](../seasons/1970-season-report#round-12-united-states-grand-prix) | Brabham | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1479 **<span style="color: red;">▼&nbsp;`-13`</span>** | N/A | 1494 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

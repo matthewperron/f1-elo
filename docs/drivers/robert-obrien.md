@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1473
-   *[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1473
-   *[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1472
-   *[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
-
-📉 **Lowest Race Elo**: 1472
-   *[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1472
-   *[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
-
-📉 **Lowest Global Elo**: 1472
-   *[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1473`**<br/><small>[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)</small></center> | <center>**`1472`**<br/><small>[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)</small></center> | <center>**`1472`**<br/><small>[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)</small></center> |
+| **Lowest** | <center>**`1473`**<br/><small>[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)</small></center> | <center>**`1472`**<br/><small>[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)</small></center> | <center>**`1472`**<br/><small>[1952 Round 3 – Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1472 **<span style="color: red;">▼ -28</span>** | 1473 **<span style="color: red;">▼ -27</span>** | 1472 **<span style="color: red;">▼ -28</span>** |
+| 1472 **<span style="color: red;">▼&nbsp;`-28`</span>** | 1473 **<span style="color: red;">▼&nbsp;`-27`</span>** | 1472 **<span style="color: red;">▼&nbsp;`-28`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) (1571)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -28</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) (1587)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -27</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) (1571)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-28</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira) (1587)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
 
 #### DNF Statistics
 
@@ -62,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix) | Simca | Q: 22<br/>R: 14 | 1473 **<span style="color: red;">▼ -27</span>** | 1472 **<span style="color: red;">▼ -28</span>** | 1472 **<span style="color: red;">▼ -28</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira)<br/>Q: 18<br/>R: 10 |
+| [Round 3: Belgian Grand Prix](../seasons/1952-season-report#round-3-belgian-grand-prix) | Simca | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1473 **<span style="color: red;">▼&nbsp;`-27`</span>** | 1472 **<span style="color: red;">▼&nbsp;`-28`</span>** | 1472 **<span style="color: red;">▼&nbsp;`-28`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

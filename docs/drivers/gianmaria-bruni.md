@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 5 DNFs out of 18 races (27.8%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1604
-   *[2004 Round 17 – Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1457
-   *[2004 Round 8 – Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1576
-   *[2004 Round 7 – European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix)*
-
-📉 **Lowest Race Elo**: 1490
-   *[2004 Round 18 – Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1561
-   *[2004 Round 5 – Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix)*
-
-📉 **Lowest Global Elo**: 1490
-   *[2004 Round 1 – Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1604`**<br/><small>[2004 Round 17 – Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1576`**<br/><small>[2004 Round 7 – European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix)</small></center> | <center>**`1561`**<br/><small>[2004 Round 5 – Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix)</small></center> |
+| **Lowest** | <center>**`1457`**<br/><small>[2004 Round 8 – Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix)</small></center> | <center>**`1490`**<br/><small>[2004 Round 18 – Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix)</small></center> | <center>**`1490`**<br/><small>[2004 Round 1 – Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1490 **<span style="color: red;">▼ -10</span>** | 1553 **<span style="color: green;">▲ +53</span>** | 1509 **<span style="color: green;">▲ +9</span>** |
+| 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | 1553 **<span style="color: green;">▲&nbsp;`+53`</span>** | 1509 **<span style="color: green;">▲&nbsp;`+9`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Zsolt Baumgartner](zsolt-baumgartner) (1491)**: 6 wins (40.0%) • 4 losses (26.7%) • 5 DNFs (33.3%) • **Elo <span style="color: red;">▼ -10</span>**
-- **Qualifying vs [Zsolt Baumgartner](zsolt-baumgartner) (1422)**: 12 wins (66.7%) • 6 losses (33.3%) • **Elo <span style="color: green;">▲ +54</span>**
+- **Races vs [Zsolt Baumgartner](zsolt-baumgartner) (1491)**: 6 wins (40.0%) • 4 losses (26.7%) • 5 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;-10</span>**
+- **Qualifying vs [Zsolt Baumgartner](zsolt-baumgartner) (1422)**: 12 wins (66.7%) • 6 losses (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`54`</span>**
 
 #### DNF Statistics
 
@@ -62,22 +45,22 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix) | Minardi | Q: 20<br/>R: 17 | 1466 **<span style="color: red;">▼ -34</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 17<br/>R: DNF |
-| [Round 2: Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix) | Minardi | Q: 16<br/>R: 14 | 1502 **<span style="color: green;">▲ +36</span>** | 1530 **<span style="color: green;">▲ +30</span>** | 1522 **<span style="color: green;">▲ +32</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 17<br/>R: 16 |
-| [Round 3: Bahrain Grand Prix](../seasons/2004-season-report#round-3-bahrain-grand-prix) | Minardi | Q: 17<br/>R: 17 | 1531 **<span style="color: green;">▲ +29</span>** | N/A | 1530 **<span style="color: green;">▲ +9</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 20<br/>R: DNF |
-| [Round 4: San Marino Grand Prix](../seasons/2004-season-report#round-4-san-marino-grand-prix) | Minardi | Q: 17<br/>R: DNF | 1555 **<span style="color: green;">▲ +24</span>** | N/A | 1538 **<span style="color: green;">▲ +7</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 19<br/>R: 15 |
-| [Round 5: Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix) | Minardi | Q: 18<br/>R: 19 | 1575 **<span style="color: green;">▲ +20</span>** | 1555 **<span style="color: green;">▲ +25</span>** | 1561 **<span style="color: green;">▲ +24</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 20<br/>R: 20 |
-| [Round 6: Monaco Grand Prix](../seasons/2004-season-report#round-6-monaco-grand-prix) | Minardi | Q: 20<br/>R: DNF | 1528 **<span style="color: red;">▼ -47</span>** | N/A | 1547 **<span style="color: red;">▼ -14</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 19<br/>R: 9 |
-| [Round 7: European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix) | Minardi | Q: 20<br/>R: 14 | 1489 **<span style="color: red;">▼ -39</span>** | 1576 **<span style="color: green;">▲ +21</span>** | 1550 **<span style="color: green;">▲ +3</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 17<br/>R: 15 |
-| [Round 8: Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix) | Minardi | Q: 19<br/>R: DNF | 1457 **<span style="color: red;">▼ -32</span>** | N/A | 1540 **<span style="color: red;">▼ -10</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 18<br/>R: 10 |
-| [Round 9: United States Grand Prix](../seasons/2004-season-report#round-9-united-states-grand-prix) | Minardi | Q: 18<br/>R: 20 | 1494 **<span style="color: green;">▲ +38</span>** | 1529 **<span style="color: red;">▼ -47</span>** | 1519 **<span style="color: red;">▼ -21</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 19<br/>R: 8 |
-| [Round 10: French Grand Prix](../seasons/2004-season-report#round-10-french-grand-prix) | Minardi | Q: 19<br/>R: 18 | 1525 **<span style="color: green;">▲ +31</span>** | 1554 **<span style="color: green;">▲ +25</span>** | 1546 **<span style="color: green;">▲ +27</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 20<br/>R: 19 |
-| [Round 11: British Grand Prix](../seasons/2004-season-report#round-11-british-grand-prix) | Minardi | Q: 18<br/>R: 16 | 1550 **<span style="color: green;">▲ +25</span>** | N/A | 1553 **<span style="color: green;">▲ +8</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 19<br/>R: DNF |
-| [Round 12: German Grand Prix](../seasons/2004-season-report#round-12-german-grand-prix) | Minardi | Q: 19<br/>R: 17 | 1571 **<span style="color: green;">▲ +21</span>** | 1511 **<span style="color: red;">▼ -43</span>** | 1529 **<span style="color: red;">▼ -24</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 20<br/>R: 16 |
-| [Round 13: Hungarian Grand Prix](../seasons/2004-season-report#round-13-hungarian-grand-prix) | Minardi | Q: 19<br/>R: 14 | 1525 **<span style="color: red;">▼ -46</span>** | 1539 **<span style="color: green;">▲ +28</span>** | 1535 **<span style="color: green;">▲ +6</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 18<br/>R: 15 |
-| [Round 14: Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix) | Minardi | Q: 17<br/>R: 19 | 1550 **<span style="color: green;">▲ +25</span>** | 1498 **<span style="color: red;">▼ -41</span>** | 1514 **<span style="color: red;">▼ -21</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 18<br/>R: 15 |
-| [Round 15: Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix) | Minardi | Q: 18<br/>R: DNF | 1571 **<span style="color: green;">▲ +21</span>** | N/A | 1520 **<span style="color: green;">▲ +6</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 19<br/>R: 15 |
-| [Round 16: Chinese Grand Prix](../seasons/2004-season-report#round-16-chinese-grand-prix) | Minardi | Q: 17<br/>R: DNF | 1589 **<span style="color: green;">▲ +18</span>** | N/A | 1526 **<span style="color: green;">▲ +5</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 19<br/>R: 16 |
-| [Round 17: Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix) | Minardi | Q: 18<br/>R: 16 | 1604 **<span style="color: green;">▲ +15</span>** | 1529 **<span style="color: green;">▲ +31</span>** | 1552 **<span style="color: green;">▲ +26</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 20<br/>R: 17 |
-| [Round 18: Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix) | Minardi | Q: 20<br/>R: 17 | 1553 **<span style="color: red;">▼ -51</span>** | 1490 **<span style="color: red;">▼ -39</span>** | 1509 **<span style="color: red;">▼ -43</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/>Q: 19<br/>R: 16 |
+| [Round 1: Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix) | Minardi | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> | 1466 **<span style="color: red;">▼&nbsp;`-34`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 2: Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix) | Minardi | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1502 **<span style="color: green;">▲&nbsp;`+36`</span>** | 1530 **<span style="color: green;">▲&nbsp;`+30`</span>** | 1522 **<span style="color: green;">▲&nbsp;`+32`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> |
+| [Round 3: Bahrain Grand Prix](../seasons/2004-season-report#round-3-bahrain-grand-prix) | Minardi | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> | 1531 **<span style="color: green;">▲&nbsp;`+29`</span>** | N/A | 1530 **<span style="color: green;">▲&nbsp;`+9`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 4: San Marino Grand Prix](../seasons/2004-season-report#round-4-san-marino-grand-prix) | Minardi | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1555 **<span style="color: green;">▲&nbsp;`+24`</span>** | N/A | 1538 **<span style="color: green;">▲&nbsp;`+7`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 5: Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix) | Minardi | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`19`**</small> | 1575 **<span style="color: green;">▲&nbsp;`+20`</span>** | 1555 **<span style="color: green;">▲&nbsp;`+25`</span>** | 1561 **<span style="color: green;">▲&nbsp;`+24`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`20`**</small> |
+| [Round 6: Monaco Grand Prix](../seasons/2004-season-report#round-6-monaco-grand-prix) | Minardi | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1528 **<span style="color: red;">▼&nbsp;`-47`</span>** | N/A | 1547 **<span style="color: red;">▼&nbsp;`-14`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 7: European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix) | Minardi | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1489 **<span style="color: red;">▼&nbsp;`-39`</span>** | 1576 **<span style="color: green;">▲&nbsp;`+21`</span>** | 1550 **<span style="color: green;">▲&nbsp;`+3`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 8: Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix) | Minardi | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1457 **<span style="color: red;">▼&nbsp;`-32`</span>** | N/A | 1540 **<span style="color: red;">▼&nbsp;`-10`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
+| [Round 9: United States Grand Prix](../seasons/2004-season-report#round-9-united-states-grand-prix) | Minardi | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`20`**</small> | 1494 **<span style="color: green;">▲&nbsp;`+38`</span>** | 1529 **<span style="color: red;">▼&nbsp;`-47`</span>** | 1519 **<span style="color: red;">▼&nbsp;`-21`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
+| [Round 10: French Grand Prix](../seasons/2004-season-report#round-10-french-grand-prix) | Minardi | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> | 1525 **<span style="color: green;">▲&nbsp;`+31`</span>** | 1554 **<span style="color: green;">▲&nbsp;`+25`</span>** | 1546 **<span style="color: green;">▲&nbsp;`+27`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`19`**</small> |
+| [Round 11: British Grand Prix](../seasons/2004-season-report#round-11-british-grand-prix) | Minardi | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1550 **<span style="color: green;">▲&nbsp;`+25`</span>** | N/A | 1553 **<span style="color: green;">▲&nbsp;`+8`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 12: German Grand Prix](../seasons/2004-season-report#round-12-german-grand-prix) | Minardi | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> | 1571 **<span style="color: green;">▲&nbsp;`+21`</span>** | 1511 **<span style="color: red;">▼&nbsp;`-43`</span>** | 1529 **<span style="color: red;">▼&nbsp;`-24`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> |
+| [Round 13: Hungarian Grand Prix](../seasons/2004-season-report#round-13-hungarian-grand-prix) | Minardi | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1525 **<span style="color: red;">▼&nbsp;`-46`</span>** | 1539 **<span style="color: green;">▲&nbsp;`+28`</span>** | 1535 **<span style="color: green;">▲&nbsp;`+6`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 14: Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix) | Minardi | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`19`**</small> | 1550 **<span style="color: green;">▲&nbsp;`+25`</span>** | 1498 **<span style="color: red;">▼&nbsp;`-41`</span>** | 1514 **<span style="color: red;">▼&nbsp;`-21`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 15: Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix) | Minardi | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1571 **<span style="color: green;">▲&nbsp;`+21`</span>** | N/A | 1520 **<span style="color: green;">▲&nbsp;`+6`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 16: Chinese Grand Prix](../seasons/2004-season-report#round-16-chinese-grand-prix) | Minardi | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1589 **<span style="color: green;">▲&nbsp;`+18`</span>** | N/A | 1526 **<span style="color: green;">▲&nbsp;`+5`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> |
+| [Round 17: Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix) | Minardi | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1604 **<span style="color: green;">▲&nbsp;`+15`</span>** | 1529 **<span style="color: green;">▲&nbsp;`+31`</span>** | 1552 **<span style="color: green;">▲&nbsp;`+26`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> |
+| [Round 18: Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix) | Minardi | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> | 1553 **<span style="color: red;">▼&nbsp;`-51`</span>** | 1490 **<span style="color: red;">▼&nbsp;`-39`</span>** | 1509 **<span style="color: red;">▼&nbsp;`-43`</span>** | [Zsolt Baumgartner](zsolt-baumgartner)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> |
 

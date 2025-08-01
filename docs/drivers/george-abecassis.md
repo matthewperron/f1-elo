@@ -13,21 +13,12 @@
 
 **DNF Statistics**: 4 DNFs out of 4 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1471
-   *[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1459
-   *[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1491
-   *[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
-
-📉 **Lowest Global Elo**: 1487
-   *[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1471`**<br/><small>[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)</small></center> | N/A | <center>**`1491`**<br/><small>[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)</small></center> |
+| **Lowest** | <center>**`1459`**<br/><small>[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)</small></center> | N/A | <center>**`1487`**<br/><small>[1952 Round 1 – Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -40,12 +31,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1468 **<span style="color: red;">▼ -32</span>** | 1490 **<span style="color: red;">▼ -10</span>** |
+| 1500 ↔ 0 | 1468 **<span style="color: red;">▼&nbsp;`-32`</span>** | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -32</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
 
 #### DNF Statistics
 
@@ -55,7 +46,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Swiss Grand Prix](../seasons/1951-season-report#round-1-swiss-grand-prix) | HWM | Q: 20<br/>R: DNF | 1468 **<span style="color: red;">▼ -32</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss)<br/>Q: 14<br/>R: 8 |
+| [Round 1: Swiss Grand Prix](../seasons/1951-season-report#round-1-swiss-grand-prix) | HWM | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1468 **<span style="color: red;">▼&nbsp;`-32`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
 
 ### 1952 Season
 
@@ -65,18 +56,18 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1461 **<span style="color: red;">▼ -7</span>** | 1488 **<span style="color: red;">▼ -2</span>** |
+| 1500 ↔ 0 | 1461 **<span style="color: red;">▼&nbsp;`-7`</span>** | 1488 **<span style="color: red;">▼&nbsp;`-2`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss) (1542)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -9</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss) (1542)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-9`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin) (1490)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +11</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lance Macklin](lance-macklin) (1490)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`11`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Peter Collins](peter-collins) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Peter Collins](peter-collins) (1512)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -9</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Peter Collins](peter-collins) (1512)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-9`</span>**
 
 #### DNF Statistics
 
@@ -86,5 +77,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | HWM | Q: 10<br/>R: DNF | 1461 **<span style="color: red;">▼ -9</span>** | N/A | 1488 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss)<br/>Q: 9<br/>R: DNF |
+| [Round 1: Swiss Grand Prix](../seasons/1952-season-report#round-1-swiss-grand-prix) | HWM | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1461 **<span style="color: red;">▼&nbsp;`-9`</span>** | N/A | 1488 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss)<br/><small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

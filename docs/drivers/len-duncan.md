@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1473
-   *[1954 Round 2 – Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500)*
-
-📉 **Lowest Qualifying Elo**: 1473
-   *[1954 Round 2 – Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1492
-   *[1954 Round 2 – Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500)*
-
-📉 **Lowest Global Elo**: 1492
-   *[1954 Round 2 – Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1473`**<br/><small>[1954 Round 2 – Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500)</small></center> | N/A | <center>**`1492`**<br/><small>[1954 Round 2 – Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500)</small></center> |
+| **Lowest** | <center>**`1473`**<br/><small>[1954 Round 2 – Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500)</small></center> | N/A | <center>**`1492`**<br/><small>[1954 Round 2 – Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1473 **<span style="color: red;">▼ -27</span>** | 1492 **<span style="color: red;">▼ -8</span>** |
+| 1500 ↔ 0 | 1473 **<span style="color: red;">▼&nbsp;`-27`</span>** | 1492 **<span style="color: red;">▼&nbsp;`-8`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Andy Linden](andy-linden) (1468)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Andy Linden](andy-linden) (1584)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -27</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Andy Linden](andy-linden) (1584)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
 
 #### DNF Statistics
 
@@ -54,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Schroeder | Q: 26<br/>R: DNF | 1473 **<span style="color: red;">▼ -27</span>** | N/A | 1492 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Andy Linden](andy-linden)<br/>Q: 23<br/>R: DNF |
+| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Schroeder | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1473 **<span style="color: red;">▼&nbsp;`-27`</span>** | N/A | 1492 **<span style="color: red;">▼&nbsp;`-8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Andy Linden](andy-linden)<br/><small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

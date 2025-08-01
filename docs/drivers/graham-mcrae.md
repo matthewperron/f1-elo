@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1467
-   *[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1467
-   *[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1490
-   *[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)*
-
-📉 **Lowest Global Elo**: 1490
-   *[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1467`**<br/><small>[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)</small></center> |
+| **Lowest** | <center>**`1467`**<br/><small>[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1973 Round 9 – British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1467 **<span style="color: red;">▼ -33</span>** | 1490 **<span style="color: red;">▼ -10</span>** |
+| 1500 ↔ 0 | 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) (1554)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) (1521)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -33</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) (1521)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
 
 #### DNF Statistics
 
@@ -54,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix) | Iso Marlboro | Q: 28<br/>R: DNF | 1467 **<span style="color: red;">▼ -33</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/>Q: 18<br/>R: 9 |
+| [Round 9: British Grand Prix](../seasons/1973-season-report#round-9-british-grand-prix) | Iso Marlboro | <small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 

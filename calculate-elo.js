@@ -124,7 +124,7 @@ function formatEloWithDelta(finalElo, eloChange) {
     const color = eloChange > 0 ? 'green' : 'red';
     const sign = eloChange > 0 ? '+' : '';
     
-    return `${finalElo} **<span style="color: ${color};">${arrow} ${sign}${eloChange}</span>**`;
+    return `${finalElo} **<span style="color: ${color};">${arrow}&nbsp;${sign}${eloChange}</span>**`;
 }
 
 /**
@@ -631,10 +631,10 @@ function generateSeasonReportELOTable(driverRatings) {
         
         if (eloDelta > 0) {
             // Positive delta - green with up arrow
-            eloDisplay = `<span style="color: green">${driver.globalElo} ▲ ${eloDelta}</span>`;
+            eloDisplay = `<span style="color: green">${driver.globalElo}&nbsp;▲&nbsp;\`${eloDelta}\`</span>`;
         } else if (eloDelta < 0) {
             // Negative delta - red with down arrow
-            eloDisplay = `<span style="color: red">${driver.globalElo} ▼ ${Math.abs(eloDelta)}</span>`;
+            eloDisplay = `<span style="color: red">${driver.globalElo}&nbsp;▼&nbsp;\`${Math.abs(eloDelta)}\`</span>`;
         } else {
             // No change
             eloDisplay = `${driver.globalElo}`;

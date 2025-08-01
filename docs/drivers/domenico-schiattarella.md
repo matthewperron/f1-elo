@@ -13,29 +13,12 @@
 
 **DNF Statistics**: 4 DNFs out of 7 races (57.1%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1480
-   *[1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1387
-   *[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1461
-   *[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
-
-📉 **Lowest Race Elo**: 1461
-   *[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1494
-   *[1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)*
-
-📉 **Lowest Global Elo**: 1439
-   *[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1480`**<br/><small>[1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)</small></center> | <center>**`1461`**<br/><small>[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1494`**<br/><small>[1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)</small></center> |
+| **Lowest** | <center>**`1387`**<br/><small>[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1461`**<br/><small>[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1439`**<br/><small>[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -48,12 +31,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1464 **<span style="color: red;">▼ -36</span>** | 1489 **<span style="color: red;">▼ -11</span>** |
+| 1500 ↔ 0 | 1464 **<span style="color: red;">▼&nbsp;`-36`</span>** | 1489 **<span style="color: red;">▼&nbsp;`-11`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1517)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1688)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -36</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1688)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
 
 #### DNF Statistics
 
@@ -63,8 +46,8 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 14: European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix) | Simtek | Q: 26<br/>R: 19 | 1480 **<span style="color: red;">▼ -20</span>** | N/A | 1494 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 25<br/>R: DNF |
-| [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | Simtek | Q: 26<br/>R: DNF | 1464 **<span style="color: red;">▼ -16</span>** | N/A | 1489 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 24<br/>R: DNF |
+| [Round 14: European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix) | Simtek | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`19`**</small> | 1480 **<span style="color: red;">▼&nbsp;`-20`</span>** | N/A | 1494 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | Simtek | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1464 **<span style="color: red;">▼&nbsp;`-16`</span>** | N/A | 1489 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1995 Season
 
@@ -74,12 +57,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1461 **<span style="color: red;">▼ -39</span>** | 1438 **<span style="color: red;">▼ -26</span>** | 1454 **<span style="color: red;">▼ -35</span>** |
+| 1461 **<span style="color: red;">▼&nbsp;`-39`</span>** | 1438 **<span style="color: red;">▼&nbsp;`-26`</span>** | 1454 **<span style="color: red;">▼&nbsp;`-35`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1460)**: 0 wins (0.0%) • 1 losses (25.0%) • 3 DNFs (75.0%) • **Elo <span style="color: red;">▼ -39</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1573)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo <span style="color: red;">▼ -25</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1460)**: 0 wins (0.0%) • 1 losses (25.0%) • 3 DNFs (75.0%) • **Elo <span style="color: red;">▼&nbsp;-39</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1573)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo <span style="color: red;">▼&nbsp;`-25`</span>**
 
 #### DNF Statistics
 
@@ -89,9 +72,9 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix) | Simtek | Q: 26<br/>R: DNF | 1440 **<span style="color: red;">▼ -24</span>** | N/A | 1482 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)<br/>Q: 24<br/>R: DNF |
-| [Round 2: Argentine Grand Prix](../seasons/1995-season-report#round-2-argentine-grand-prix) | Simtek | Q: 20<br/>R: 9 | 1419 **<span style="color: red;">▼ -20</span>** | N/A | 1476 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)<br/>Q: 14<br/>R: DNF |
-| [Round 3: San Marino Grand Prix](../seasons/1995-season-report#round-3-san-marino-grand-prix) | Simtek | Q: 23<br/>R: DNF | 1402 **<span style="color: red;">▼ -17</span>** | N/A | 1471 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)<br/>Q: 17<br/>R: DNF |
-| [Round 4: Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix) | Simtek | Q: 22<br/>R: 15 | 1387 **<span style="color: red;">▼ -15</span>** | 1461 **<span style="color: red;">▼ -39</span>** | 1439 **<span style="color: red;">▼ -32</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)<br/>Q: 16<br/>R: 12 |
-| [Round 5: Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix) | Simtek | Q: 20<br/>R: DNF | 1438 **<span style="color: green;">▲ +51</span>** | N/A | 1454 **<span style="color: green;">▲ +15</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)<br/>Q: 23<br/>R: DNF |
+| [Round 1: Brazilian Grand Prix](../seasons/1995-season-report#round-1-brazilian-grand-prix) | Simtek | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1440 **<span style="color: red;">▼&nbsp;`-24`</span>** | N/A | 1482 **<span style="color: red;">▼&nbsp;`-7`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)<br/><small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 2: Argentine Grand Prix](../seasons/1995-season-report#round-2-argentine-grand-prix) | Simtek | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1419 **<span style="color: red;">▼&nbsp;`-20`</span>** | N/A | 1476 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 3: San Marino Grand Prix](../seasons/1995-season-report#round-3-san-marino-grand-prix) | Simtek | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1402 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1471 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 4: Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix) | Simtek | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> | 1387 **<span style="color: red;">▼&nbsp;`-15`</span>** | 1461 **<span style="color: red;">▼&nbsp;`-39`</span>** | 1439 **<span style="color: red;">▼&nbsp;`-32`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 5: Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix) | Simtek | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1438 **<span style="color: green;">▲&nbsp;`+51`</span>** | N/A | 1454 **<span style="color: green;">▲&nbsp;`+15`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen)<br/><small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

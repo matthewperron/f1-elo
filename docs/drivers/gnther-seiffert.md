@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1488
-   *[1963 Round 7 – Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1469
-   *[1963 Round 7 – Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1496
-   *[1963 Round 7 – Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
-
-📉 **Lowest Global Elo**: 1491
-   *[1963 Round 7 – Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1488`**<br/><small>[1963 Round 7 – Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)</small></center> | N/A | <center>**`1496`**<br/><small>[1963 Round 7 – Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)</small></center> |
+| **Lowest** | <center>**`1469`**<br/><small>[1963 Round 7 – Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)</small></center> | N/A | <center>**`1491`**<br/><small>[1963 Round 7 – Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,18 +30,18 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1469 **<span style="color: red;">▼ -31</span>** | 1491 **<span style="color: red;">▼ -9</span>** |
+| 1500 ↔ 0 | 1469 **<span style="color: red;">▼&nbsp;`-31`</span>** | 1491 **<span style="color: red;">▼&nbsp;`-9`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall) (1503)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall) (1462)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -12</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall) (1462)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1511)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1539)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -9</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert) (1539)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-9`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) (1503)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) (1498)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -10</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory) (1498)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-10`</span>**
 
 #### DNF Statistics
 
@@ -60,5 +51,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | Lotus-BRM | Q: 999<br/>R: DNF | 1469 **<span style="color: red;">▼ -10</span>** | N/A | 1491 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall)<br/>Q: 17<br/>R: 8 |
+| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | Lotus-BRM | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1469 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Hall](jim-hall)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
 

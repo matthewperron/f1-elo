@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 2 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1465
-   *[1994 Round 2 – Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1437
-   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1464
-   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
-
-📉 **Lowest Race Elo**: 1464
-   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1490
-   *[1994 Round 2 – Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix)*
-
-📉 **Lowest Global Elo**: 1456
-   *[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1465`**<br/><small>[1994 Round 2 – Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix)</small></center> | <center>**`1464`**<br/><small>[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)</small></center> | <center>**`1490`**<br/><small>[1994 Round 2 – Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix)</small></center> |
+| **Lowest** | <center>**`1437`**<br/><small>[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)</small></center> | <center>**`1464`**<br/><small>[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)</small></center> | <center>**`1456`**<br/><small>[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1464 **<span style="color: red;">▼ -36</span>** | 1437 **<span style="color: red;">▼ -63</span>** | 1456 **<span style="color: red;">▼ -44</span>** |
+| 1464 **<span style="color: red;">▼&nbsp;`-36`</span>** | 1437 **<span style="color: red;">▼&nbsp;`-63`</span>** | 1456 **<span style="color: red;">▼&nbsp;`-44`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1487)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -36</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1533)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -63</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1487)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-36</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1533)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
 
 #### DNF Statistics
 
@@ -62,6 +45,6 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix) | Simtek | Q: 26<br/>R: 11 | 1465 **<span style="color: red;">▼ -35</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 25<br/>R: DNF |
-| [Round 3: San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix) | Simtek | Q: 999<br/>R: 26 | 1437 **<span style="color: red;">▼ -28</span>** | 1464 **<span style="color: red;">▼ -36</span>** | 1456 **<span style="color: red;">▼ -34</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 24<br/>R: 18 |
+| [Round 2: Pacific Grand Prix](../seasons/1994-season-report#round-2-pacific-grand-prix) | Simtek | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1465 **<span style="color: red;">▼&nbsp;`-35`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 3: San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix) | Simtek | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`26`**</small> | 1437 **<span style="color: red;">▼&nbsp;`-28`</span>** | 1464 **<span style="color: red;">▼&nbsp;`-36`</span>** | 1456 **<span style="color: red;">▼&nbsp;`-34`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> |
 

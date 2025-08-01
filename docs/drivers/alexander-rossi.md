@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 5 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1562
-   *[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1448
-   *[2015 Round 14 – Japanese Grand Prix](../seasons/2015-season-report#round-14-japanese-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1574
-   *[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)*
-
-📉 **Lowest Race Elo**: 1526
-   *[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1561
-   *[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)*
-
-📉 **Lowest Global Elo**: 1512
-   *[2015 Round 13 – Singapore Grand Prix](../seasons/2015-season-report#round-13-singapore-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1562`**<br/><small>[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)</small></center> | <center>**`1574`**<br/><small>[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)</small></center> | <center>**`1561`**<br/><small>[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)</small></center> |
+| **Lowest** | <center>**`1448`**<br/><small>[2015 Round 14 – Japanese Grand Prix](../seasons/2015-season-report#round-14-japanese-grand-prix)</small></center> | <center>**`1526`**<br/><small>[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)</small></center> | <center>**`1512`**<br/><small>[2015 Round 13 – Singapore Grand Prix](../seasons/2015-season-report#round-13-singapore-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1526 **<span style="color: green;">▲ +26</span>** | 1562 **<span style="color: green;">▲ +62</span>** | 1537 **<span style="color: green;">▲ +37</span>** |
+| 1526 **<span style="color: green;">▲&nbsp;`+26`</span>** | 1562 **<span style="color: green;">▲&nbsp;`+62`</span>** | 1537 **<span style="color: green;">▲&nbsp;`+37`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) (1432)**: 3 wins (75.0%) • 1 losses (25.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +26</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) (1491)**: 3 wins (60.0%) • 2 losses (40.0%) • **Elo <span style="color: green;">▲ +62</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) (1432)**: 3 wins (75.0%) • 1 losses (25.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+26</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) (1491)**: 3 wins (60.0%) • 2 losses (40.0%) • **Elo <span style="color: green;">▲&nbsp;+`62`</span>**
 
 #### DNF Statistics
 
@@ -62,9 +45,9 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 13: Singapore Grand Prix](../seasons/2015-season-report#round-13-singapore-grand-prix) | Manor Marussia | Q: 20<br/>R: 14 | 1471 **<span style="color: red;">▼ -29</span>** | 1530 **<span style="color: green;">▲ +30</span>** | 1512 **<span style="color: green;">▲ +12</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)<br/>Q: 19<br/>R: 15 |
-| [Round 14: Japanese Grand Prix](../seasons/2015-season-report#round-14-japanese-grand-prix) | Manor Marussia | Q: 19<br/>R: 18 | 1448 **<span style="color: red;">▼ -24</span>** | 1555 **<span style="color: green;">▲ +25</span>** | 1523 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)<br/>Q: 18<br/>R: 19 |
-| [Round 16: United States Grand Prix](../seasons/2015-season-report#round-16-united-states-grand-prix) | Manor Marussia | Q: 17<br/>R: 12 | 1493 **<span style="color: green;">▲ +46</span>** | N/A | 1536 **<span style="color: green;">▲ +14</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)<br/>Q: 19<br/>R: DNF |
-| [Round 17: Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix) | Manor Marussia | Q: 16<br/>R: 15 | 1531 **<span style="color: green;">▲ +38</span>** | 1574 **<span style="color: green;">▲ +19</span>** | 1561 **<span style="color: green;">▲ +25</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)<br/>Q: 17<br/>R: 16 |
-| [Round 18: Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix) | Manor Marussia | Q: 17<br/>R: 18 | 1562 **<span style="color: green;">▲ +31</span>** | 1526 **<span style="color: red;">▼ -48</span>** | 1537 **<span style="color: red;">▼ -24</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)<br/>Q: 18<br/>R: 17 |
+| [Round 13: Singapore Grand Prix](../seasons/2015-season-report#round-13-singapore-grand-prix) | Manor Marussia | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1471 **<span style="color: red;">▼&nbsp;`-29`</span>** | 1530 **<span style="color: green;">▲&nbsp;`+30`</span>** | 1512 **<span style="color: green;">▲&nbsp;`+12`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 14: Japanese Grand Prix](../seasons/2015-season-report#round-14-japanese-grand-prix) | Manor Marussia | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> | 1448 **<span style="color: red;">▼&nbsp;`-24`</span>** | 1555 **<span style="color: green;">▲&nbsp;`+25`</span>** | 1523 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`19`**</small> |
+| [Round 16: United States Grand Prix](../seasons/2015-season-report#round-16-united-states-grand-prix) | Manor Marussia | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1493 **<span style="color: green;">▲&nbsp;`+46`</span>** | N/A | 1536 **<span style="color: green;">▲&nbsp;`+14`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 17: Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix) | Manor Marussia | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> | 1531 **<span style="color: green;">▲&nbsp;`+38`</span>** | 1574 **<span style="color: green;">▲&nbsp;`+19`</span>** | 1561 **<span style="color: green;">▲&nbsp;`+25`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> |
+| [Round 18: Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix) | Manor Marussia | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> | 1562 **<span style="color: green;">▲&nbsp;`+31`</span>** | 1526 **<span style="color: red;">▼&nbsp;`-48`</span>** | 1537 **<span style="color: red;">▼&nbsp;`-24`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> |
 

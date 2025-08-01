@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1467
-   *[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1467
-   *[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1490
-   *[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
-
-📉 **Lowest Global Elo**: 1490
-   *[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1467`**<br/><small>[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)</small></center> |
+| **Lowest** | <center>**`1467`**<br/><small>[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1467 **<span style="color: red;">▼ -33</span>** | 1490 **<span style="color: red;">▼ -10</span>** |
+| 1500 ↔ 0 | 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [Sam Tingle](sam-tingle) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Sam Tingle](sam-tingle) (1525)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -33</span>**
+- **Qualifying vs [Sam Tingle](sam-tingle) (1525)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
 
 #### DNF Statistics
 
@@ -54,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | LDS | Q: 18<br/>R: DNF | 1467 **<span style="color: red;">▼ -33</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [Sam Tingle](sam-tingle)<br/>Q: 17<br/>R: DNF |
+| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | LDS | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [Sam Tingle](sam-tingle)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

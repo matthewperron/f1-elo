@@ -13,21 +13,12 @@
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1494
-   *[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1456
-   *[1965 Round 1 – South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1498
-   *[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)*
-
-📉 **Lowest Global Elo**: 1487
-   *[1965 Round 1 – South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1494`**<br/><small>[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)</small></center> | N/A | <center>**`1498`**<br/><small>[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)</small></center> |
+| **Lowest** | <center>**`1456`**<br/><small>[1965 Round 1 – South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix)</small></center> | N/A | <center>**`1487`**<br/><small>[1965 Round 1 – South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -40,15 +31,15 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1487 **<span style="color: red;">▼ -13</span>** | 1496 **<span style="color: red;">▼ -4</span>** |
+| 1500 ↔ 0 | 1487 **<span style="color: red;">▼&nbsp;`-13`</span>** | 1496 **<span style="color: red;">▼&nbsp;`-4`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney) (1642)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney) (1755)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -6</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney) (1755)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -7</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
 
 #### DNF Statistics
 
@@ -58,7 +49,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | Brabham | Q: 14<br/>R: DNF | 1487 **<span style="color: red;">▼ -7</span>** | N/A | 1496 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney)<br/>Q: 3<br/>R: 2 |
+| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | Brabham | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1487 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1496 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1965 Season
 
@@ -68,12 +59,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1456 **<span style="color: red;">▼ -31</span>** | 1487 **<span style="color: red;">▼ -9</span>** |
+| 1500 ↔ 0 | 1456 **<span style="color: red;">▼&nbsp;`-31`</span>** | 1487 **<span style="color: red;">▼&nbsp;`-9`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Paul Hawkins](paul-hawkins) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Paul Hawkins](paul-hawkins) (1531)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -31</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Paul Hawkins](paul-hawkins) (1531)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
 
 #### DNF Statistics
 
@@ -83,5 +74,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix) | Brabham-Ford | Q: 19<br/>R: DNF | 1456 **<span style="color: red;">▼ -31</span>** | N/A | 1487 **<span style="color: red;">▼ -9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Paul Hawkins](paul-hawkins)<br/>Q: 16<br/>R: 9 |
+| [Round 1: South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix) | Brabham-Ford | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1456 **<span style="color: red;">▼&nbsp;`-31`</span>** | N/A | 1487 **<span style="color: red;">▼&nbsp;`-9`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Paul Hawkins](paul-hawkins)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 

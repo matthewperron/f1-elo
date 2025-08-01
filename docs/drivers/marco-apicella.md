@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1486
-   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1486
-   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1467
-   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
-
-📉 **Lowest Race Elo**: 1467
-   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1473
-   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
-
-📉 **Lowest Global Elo**: 1473
-   *[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1486`**<br/><small>[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1467`**<br/><small>[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1473`**<br/><small>[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)</small></center> |
+| **Lowest** | <center>**`1486`**<br/><small>[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1467`**<br/><small>[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1473`**<br/><small>[1993 Round 13 – Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1467 **<span style="color: red;">▼ -33</span>** | 1486 **<span style="color: red;">▼ -14</span>** | 1473 **<span style="color: red;">▼ -27</span>** |
+| 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | 1486 **<span style="color: red;">▼&nbsp;`-14`</span>** | 1473 **<span style="color: red;">▼&nbsp;`-27`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1517)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -33</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1738)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -14</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1517)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-33</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1738)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
 
 #### DNF Statistics
 
@@ -62,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | Jordan | Q: 23<br/>R: 26 | 1486 **<span style="color: red;">▼ -14</span>** | 1467 **<span style="color: red;">▼ -33</span>** | 1473 **<span style="color: red;">▼ -27</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello)<br/>Q: 19<br/>R: 25 |
+| [Round 13: Italian Grand Prix](../seasons/1993-season-report#round-13-italian-grand-prix) | Jordan | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`26`**</small> | 1486 **<span style="color: red;">▼&nbsp;`-14`</span>** | 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | 1473 **<span style="color: red;">▼&nbsp;`-27`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`25`**</small> |
 

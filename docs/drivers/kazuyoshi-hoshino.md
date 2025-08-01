@@ -13,29 +13,12 @@
 
 **DNF Statistics**: 2 DNFs out of 3 races (66.7%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1509
-   *[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1477
-   *[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1529
-   *[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)*
-
-📉 **Lowest Race Elo**: 1529
-   *[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1523
-   *[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)*
-
-📉 **Lowest Global Elo**: 1493
-   *[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1509`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1529`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1523`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> |
+| **Lowest** | <center>**`1477`**<br/><small>[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1529`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1493`**<br/><small>[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -48,15 +31,15 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1477 **<span style="color: red;">▼ -23</span>** | 1493 **<span style="color: red;">▼ -7</span>** |
+| 1500 ↔ 0 | 1477 **<span style="color: red;">▼&nbsp;`-23`</span>** | 1493 **<span style="color: red;">▼&nbsp;`-7`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1484)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1585)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -12</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1585)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
 
 - **Races vs [Jody Scheckter](jody-scheckter) (1547)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Jody Scheckter](jody-scheckter) (1612)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -10</span>**
+- **Qualifying vs [Jody Scheckter](jody-scheckter) (1612)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-10`</span>**
 
 #### DNF Statistics
 
@@ -66,7 +49,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | Tyrrell | Q: 21<br/>R: DNF | 1477 **<span style="color: red;">▼ -10</span>** | N/A | 1493 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler)<br/>Q: 13<br/>R: 2 |
+| [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | Tyrrell | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1477 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1977 Season
 
@@ -76,12 +59,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1529 **<span style="color: green;">▲ +29</span>** | 1509 **<span style="color: green;">▲ +32</span>** | 1523 **<span style="color: green;">▲ +30</span>** |
+| 1529 **<span style="color: green;">▲&nbsp;`+29`</span>** | 1509 **<span style="color: green;">▲&nbsp;`+32`</span>** | 1523 **<span style="color: green;">▲&nbsp;`+30`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) (1443)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +29</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) (1446)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +32</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) (1443)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+29</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) (1446)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
 
 #### DNF Statistics
 
@@ -91,5 +74,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 17: Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) | Kojima | Q: 11<br/>R: 11 | 1509 **<span style="color: green;">▲ +32</span>** | 1529 **<span style="color: green;">▲ +29</span>** | 1523 **<span style="color: green;">▲ +30</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara)<br/>Q: 19<br/>R: 22 |
+| [Round 17: Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) | Kojima | <small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1509 **<span style="color: green;">▲&nbsp;`+32`</span>** | 1529 **<span style="color: green;">▲&nbsp;`+29`</span>** | 1523 **<span style="color: green;">▲&nbsp;`+30`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`22`**</small> |
 

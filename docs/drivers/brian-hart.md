@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1468
-   *[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1468
-   *[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1490
-   *[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
-
-📉 **Lowest Global Elo**: 1490
-   *[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1468`**<br/><small>[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)</small></center> |
+| **Lowest** | <center>**`1468`**<br/><small>[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1468 **<span style="color: red;">▼ -32</span>** | 1490 **<span style="color: red;">▼ -10</span>** |
+| 1500 ↔ 0 | 1468 **<span style="color: red;">▼&nbsp;`-32`</span>** | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -32</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
 
 #### DNF Statistics
 
@@ -54,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | Protos | Q: 25<br/>R: 14 | 1468 **<span style="color: red;">▼ -32</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens)<br/>Q: 23<br/>R: DNF |
+| [Round 7: German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) | Protos | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1468 **<span style="color: red;">▼&nbsp;`-32`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Kurt Ahrens](kurt-ahrens)<br/><small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

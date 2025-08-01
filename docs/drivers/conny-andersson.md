@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 2 DNFs out of 2 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1498
-   *[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1486
-   *[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1499
-   *[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
-
-📉 **Lowest Global Elo**: 1496
-   *[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1498`**<br/><small>[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)</small></center> | N/A | <center>**`1499`**<br/><small>[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)</small></center> |
+| **Lowest** | <center>**`1486`**<br/><small>[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)</small></center> | N/A | <center>**`1496`**<br/><small>[1976 Round 12 – Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,15 +30,15 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1498 **<span style="color: red;">▼ -2</span>** | 1499 **<span style="color: red;">▼ -1</span>** |
+| 1500 ↔ 0 | 1498 **<span style="color: red;">▼&nbsp;`-2`</span>** | 1499 **<span style="color: red;">▼&nbsp;`-1`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) (1513)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) (1547)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -14</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) (1547)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Henri Pescarolo](henri-pescarolo) (1362)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Henri Pescarolo](henri-pescarolo) (1393)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +12</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Henri Pescarolo](henri-pescarolo) (1393)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`12`</span>**
 
 #### DNF Statistics
 
@@ -57,5 +48,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 12: Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix) | Surtees | Q: 18<br/>R: DNF | 1498 **<span style="color: green;">▲ +12</span>** | N/A | 1499 **<span style="color: green;">▲ +4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)<br/>Q: 16<br/>R: 8 |
+| [Round 12: Dutch Grand Prix](../seasons/1976-season-report#round-12-dutch-grand-prix) | Surtees | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1498 **<span style="color: green;">▲&nbsp;`+12`</span>** | N/A | 1499 **<span style="color: green;">▲&nbsp;`+4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
 

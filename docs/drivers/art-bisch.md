@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 4 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1514
-   *[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)*
-
-📉 **Lowest Qualifying Elo**: 1499
-   *[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1492
-   *[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)*
-
-📉 **Lowest Race Elo**: 1484
-   *[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1499
-   *[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)*
-
-📉 **Lowest Global Elo**: 1489
-   *[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1514`**<br/><small>[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)</small></center> | <center>**`1492`**<br/><small>[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)</small></center> | <center>**`1499`**<br/><small>[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)</small></center> |
+| **Lowest** | <center>**`1499`**<br/><small>[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)</small></center> | <center>**`1484`**<br/><small>[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)</small></center> | <center>**`1489`**<br/><small>[1958 Round 4 – Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,21 +30,21 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1484 **<span style="color: red;">▼ -16</span>** | 1499 **<span style="color: red;">▼ -1</span>** | 1489 **<span style="color: red;">▼ -11</span>** |
+| 1484 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1499 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1489 **<span style="color: red;">▼&nbsp;`-11`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Tolan](johnnie-tolan) (1500)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -8</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Tolan](johnnie-tolan) (1456)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +7</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Tolan](johnnie-tolan) (1500)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-8</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Tolan](johnnie-tolan) (1456)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`7`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dempsey Wilson](dempsey-wilson) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dempsey Wilson](dempsey-wilson) (1491)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +7</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dempsey Wilson](dempsey-wilson) (1491)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`7`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Anthony Foyt](anthony-foyt) (1492)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -8</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Anthony Foyt](anthony-foyt) (1507)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -8</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Anthony Foyt](anthony-foyt) (1492)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-8</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Anthony Foyt](anthony-foyt) (1507)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Sachs](eddie-sachs) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Sachs](eddie-sachs) (1538)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -7</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Sachs](eddie-sachs) (1538)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
 
 #### DNF Statistics
 
@@ -71,5 +54,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500) | Kuzma | Q: 28<br/>R: 33 | 1499 **<span style="color: red;">▼ -7</span>** | N/A | 1489 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Tolan](johnnie-tolan)<br/>Q: 30<br/>R: 13 |
+| [Round 4: Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`33`**</small> | 1499 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1489 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Tolan](johnnie-tolan)<br/><small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> |
 

@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 6 DNFs out of 6 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1495
-   *[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1469
-   *[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1499
-   *[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
-
-📉 **Lowest Global Elo**: 1491
-   *[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1495`**<br/><small>[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)</small></center> | N/A | <center>**`1499`**<br/><small>[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)</small></center> |
+| **Lowest** | <center>**`1469`**<br/><small>[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)</small></center> | N/A | <center>**`1491`**<br/><small>[1953 Round 7 – German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,27 +30,27 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1469 **<span style="color: red;">▼ -31</span>** | 1491 **<span style="color: red;">▼ -9</span>** |
+| 1500 ↔ 0 | 1469 **<span style="color: red;">▼&nbsp;`-31`</span>** | 1491 **<span style="color: red;">▼&nbsp;`-9`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans Herrmann](hans-herrmann) (1505)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans Herrmann](hans-herrmann) (1505)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans Herrmann](hans-herrmann) (1505)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-5`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Theo Helfrich](theo-helfrich) (1495)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Theo Helfrich](theo-helfrich) (1484)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Theo Helfrich](theo-helfrich) (1484)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-5`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel) (1495)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel) (1495)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang Seidel](wolfgang-seidel) (1495)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-5`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Willi Heeks](willi-heeks) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Willi Heeks](willi-heeks) (1526)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Willi Heeks](willi-heeks) (1526)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-5`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Erwin Bauer](erwin-bauer) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Erwin Bauer](erwin-bauer) (1495)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Erwin Bauer](erwin-bauer) (1495)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-5`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ernst Loof](ernst-loof) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ernst Loof](ernst-loof) (1495)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Ernst Loof](ernst-loof) (1495)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-5`</span>**
 
 #### DNF Statistics
 
@@ -69,5 +60,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | Veritas | Q: 34<br/>R: DNF | 1469 **<span style="color: red;">▼ -5</span>** | N/A | 1491 **<span style="color: red;">▼ -1</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans Herrmann](hans-herrmann)<br/>Q: 14<br/>R: 9 |
+| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | Veritas | <small>Q:&nbsp;**`34`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1469 **<span style="color: red;">▼&nbsp;`-5`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans Herrmann](hans-herrmann)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 

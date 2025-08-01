@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1525
-   *[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1525
-   *[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1508
-   *[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
-
-📉 **Lowest Global Elo**: 1508
-   *[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1525`**<br/><small>[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)</small></center> | N/A | <center>**`1508`**<br/><small>[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)</small></center> |
+| **Lowest** | <center>**`1525`**<br/><small>[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)</small></center> | N/A | <center>**`1508`**<br/><small>[2014 Round 12 – Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1525 **<span style="color: green;">▲ +25</span>** | 1508 **<span style="color: green;">▲ +8</span>** |
+| 1500 ↔ 0 | 1525 **<span style="color: green;">▲&nbsp;`+25`</span>** | 1508 **<span style="color: green;">▲&nbsp;`+8`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1461)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1393)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +25</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1393)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`25`</span>**
 
 #### DNF Statistics
 
@@ -54,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 12: Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix) | Caterham | Q: 21<br/>R: DNF | 1525 **<span style="color: green;">▲ +25</span>** | N/A | 1508 **<span style="color: green;">▲ +8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson)<br/>Q: 22<br/>R: 17 |
+| [Round 12: Belgian Grand Prix](../seasons/2014-season-report#round-12-belgian-grand-prix) | Caterham | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1525 **<span style="color: green;">▲&nbsp;`+25`</span>** | N/A | 1508 **<span style="color: green;">▲&nbsp;`+8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> |
 

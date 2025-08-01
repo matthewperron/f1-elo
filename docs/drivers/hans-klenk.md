@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 6 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1520
-   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1505
-   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1495
-   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
-
-📉 **Lowest Race Elo**: 1489
-   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1499
-   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
-
-📉 **Lowest Global Elo**: 1496
-   *[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1520`**<br/><small>[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)</small></center> | <center>**`1495`**<br/><small>[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)</small></center> | <center>**`1499`**<br/><small>[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)</small></center> |
+| **Lowest** | <center>**`1505`**<br/><small>[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)</small></center> | <center>**`1489`**<br/><small>[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)</small></center> | <center>**`1496`**<br/><small>[1952 Round 6 – German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,27 +30,27 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1489 **<span style="color: red;">▼ -11</span>** | 1520 **<span style="color: green;">▲ +20</span>** | 1499 **<span style="color: red;">▼ -1</span>** |
+| 1489 **<span style="color: red;">▼&nbsp;`-11`</span>** | 1520 **<span style="color: green;">▲&nbsp;`+20`</span>** | 1499 **<span style="color: red;">▼&nbsp;`-1`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Fritz Riess](fritz-riess) (1505)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -5</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Fritz Riess](fritz-riess) (1505)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +5</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Fritz Riess](fritz-riess) (1505)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Fritz Riess](fritz-riess) (1505)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`5`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Toni Ulmen](toni-ulmen) (1495)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -5</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Toni Ulmen](toni-ulmen) (1495)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +5</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Toni Ulmen](toni-ulmen) (1495)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Toni Ulmen](toni-ulmen) (1495)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`5`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adolf Brudes](adolf-brudes) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adolf Brudes](adolf-brudes) (1495)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adolf Brudes](adolf-brudes) (1495)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`5`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Paul Pietsch](paul-pietsch) (1492)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Paul Pietsch](paul-pietsch) (1473)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -6</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Paul Pietsch](paul-pietsch) (1473)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Theo Helfrich](theo-helfrich) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Theo Helfrich](theo-helfrich) (1495)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Theo Helfrich](theo-helfrich) (1495)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`5`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Josef Peters](josef-peters) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Josef Peters](josef-peters) (1495)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Josef Peters](josef-peters) (1495)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`5`</span>**
 
 #### DNF Statistics
 
@@ -77,5 +60,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | Veritas | Q: 8<br/>R: 11 | 1520 **<span style="color: green;">▲ +5</span>** | N/A | 1499 **<span style="color: green;">▲ +2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Fritz Riess](fritz-riess)<br/>Q: 12<br/>R: 7 |
+| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | Veritas | <small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1520 **<span style="color: green;">▲&nbsp;`+5`</span>** | N/A | 1499 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Fritz Riess](fritz-riess)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
 

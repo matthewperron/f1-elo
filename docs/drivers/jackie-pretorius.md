@@ -13,21 +13,12 @@
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1487
-   *[1971 Round 1 – South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1447
-   *[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1496
-   *[1971 Round 1 – South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix)*
-
-📉 **Lowest Global Elo**: 1485
-   *[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1487`**<br/><small>[1971 Round 1 – South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix)</small></center> | N/A | <center>**`1496`**<br/><small>[1971 Round 1 – South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix)</small></center> |
+| **Lowest** | <center>**`1447`**<br/><small>[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)</small></center> | N/A | <center>**`1485`**<br/><small>[1973 Round 3 – South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -40,15 +31,15 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1474 **<span style="color: red;">▼ -26</span>** | 1493 **<span style="color: red;">▼ -7</span>** |
+| 1500 ↔ 0 | 1474 **<span style="color: red;">▼&nbsp;`-26`</span>** | 1493 **<span style="color: red;">▼&nbsp;`-7`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1541)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1558)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -13</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1558)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
 
 - **Races vs [Dave Charlton](dave-charlton) (1501)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Dave Charlton](dave-charlton) (1570)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -12</span>**
+- **Qualifying vs [Dave Charlton](dave-charlton) (1570)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
 
 #### DNF Statistics
 
@@ -58,7 +49,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | Brabham | Q: 20<br/>R: DNF | 1474 **<span style="color: red;">▼ -12</span>** | N/A | 1493 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)<br/>Q: 19<br/>R: 9 |
+| [Round 1: South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | Brabham | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1474 **<span style="color: red;">▼&nbsp;`-12`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 
 ### 1973 Season
 
@@ -68,12 +59,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1447 **<span style="color: red;">▼ -27</span>** | 1485 **<span style="color: red;">▼ -8</span>** |
+| 1500 ↔ 0 | 1447 **<span style="color: red;">▼&nbsp;`-27`</span>** | 1485 **<span style="color: red;">▼&nbsp;`-8`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) (1554)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) (1551)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -27</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) (1551)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
 
 #### DNF Statistics
 
@@ -83,5 +74,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix) | Iso Marlboro | Q: 24<br/>R: DNF | 1447 **<span style="color: red;">▼ -27</span>** | N/A | 1485 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/>Q: 19<br/>R: 10 |
+| [Round 3: South African Grand Prix](../seasons/1973-season-report#round-3-south-african-grand-prix) | Iso Marlboro | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1447 **<span style="color: red;">▼&nbsp;`-27`</span>** | N/A | 1485 **<span style="color: red;">▼&nbsp;`-8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

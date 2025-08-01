@@ -13,29 +13,12 @@
 
 **DNF Statistics**: 4 DNFs out of 6 races (66.7%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1575
-   *[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1528
-   *[1988 Round 11 – Belgian Grand Prix](../seasons/1988-season-report#round-11-belgian-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1538
-   *[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
-
-📉 **Lowest Race Elo**: 1498
-   *[1990 Round 1 – United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1549
-   *[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
-
-📉 **Lowest Global Elo**: 1509
-   *[1988 Round 4 – Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1575`**<br/><small>[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)</small></center> | <center>**`1538`**<br/><small>[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)</small></center> | <center>**`1549`**<br/><small>[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)</small></center> |
+| **Lowest** | <center>**`1528`**<br/><small>[1988 Round 11 – Belgian Grand Prix](../seasons/1988-season-report#round-11-belgian-grand-prix)</small></center> | <center>**`1498`**<br/><small>[1990 Round 1 – United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix)</small></center> | <center>**`1509`**<br/><small>[1988 Round 4 – Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -48,12 +31,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1538 **<span style="color: green;">▲ +38</span>** | 1553 **<span style="color: green;">▲ +53</span>** | 1543 **<span style="color: green;">▲ +43</span>** |
+| 1538 **<span style="color: green;">▲&nbsp;`+38`</span>** | 1553 **<span style="color: green;">▲&nbsp;`+53`</span>** | 1543 **<span style="color: green;">▲&nbsp;`+43`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1524)**: 1 wins (20.0%) • 0 losses (0.0%) • 4 DNFs (80.0%) • **Elo <span style="color: green;">▲ +38</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1425)**: 4 wins (80.0%) • 1 losses (20.0%) • **Elo <span style="color: green;">▲ +53</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1524)**: 1 wins (20.0%) • 0 losses (0.0%) • 4 DNFs (80.0%) • **Elo <span style="color: green;">▲&nbsp;+38</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1425)**: 4 wins (80.0%) • 1 losses (20.0%) • **Elo <span style="color: green;">▲&nbsp;+`53`</span>**
 
 #### DNF Statistics
 
@@ -63,11 +46,11 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix) | Zakspeed | Q: 15<br/>R: DNF | 1530 **<span style="color: green;">▲ +30</span>** | N/A | 1509 **<span style="color: green;">▲ +9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/>Q: 18<br/>R: 15 |
-| [Round 7: French Grand Prix](../seasons/1988-season-report#round-7-french-grand-prix) | Zakspeed | Q: 21<br/>R: DNF | 1555 **<span style="color: green;">▲ +25</span>** | N/A | 1517 **<span style="color: green;">▲ +8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/>Q: 999<br/>R: DNF |
-| [Round 9: German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix) | Zakspeed | Q: 22<br/>R: 12 | 1575 **<span style="color: green;">▲ +20</span>** | 1538 **<span style="color: green;">▲ +38</span>** | 1549 **<span style="color: green;">▲ +33</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/>Q: 23<br/>R: 14 |
-| [Round 11: Belgian Grand Prix](../seasons/1988-season-report#round-11-belgian-grand-prix) | Zakspeed | Q: 25<br/>R: DNF | 1528 **<span style="color: red;">▼ -47</span>** | N/A | 1535 **<span style="color: red;">▼ -14</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/>Q: 24<br/>R: DNF |
-| [Round 12: Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix) | Zakspeed | Q: 15<br/>R: DNF | 1553 **<span style="color: green;">▲ +25</span>** | N/A | 1543 **<span style="color: green;">▲ +8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/>Q: 16<br/>R: DNF |
+| [Round 4: Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix) | Zakspeed | <small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1530 **<span style="color: green;">▲&nbsp;`+30`</span>** | N/A | 1509 **<span style="color: green;">▲&nbsp;`+9`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 7: French Grand Prix](../seasons/1988-season-report#round-7-french-grand-prix) | Zakspeed | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1555 **<span style="color: green;">▲&nbsp;`+25`</span>** | N/A | 1517 **<span style="color: green;">▲&nbsp;`+8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/><small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 9: German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix) | Zakspeed | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1575 **<span style="color: green;">▲&nbsp;`+20`</span>** | 1538 **<span style="color: green;">▲&nbsp;`+38`</span>** | 1549 **<span style="color: green;">▲&nbsp;`+33`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/><small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> |
+| [Round 11: Belgian Grand Prix](../seasons/1988-season-report#round-11-belgian-grand-prix) | Zakspeed | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1528 **<span style="color: red;">▼&nbsp;`-47`</span>** | N/A | 1535 **<span style="color: red;">▼&nbsp;`-14`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/><small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 12: Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix) | Zakspeed | <small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1553 **<span style="color: green;">▲&nbsp;`+25`</span>** | N/A | 1543 **<span style="color: green;">▲&nbsp;`+8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1990 Season
 
@@ -77,12 +60,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1498 **<span style="color: red;">▼ -40</span>** | 1575 **<span style="color: green;">▲ +22</span>** | 1522 **<span style="color: red;">▼ -21</span>** |
+| 1498 **<span style="color: red;">▼&nbsp;`-40`</span>** | 1575 **<span style="color: green;">▲&nbsp;`+22`</span>** | 1522 **<span style="color: red;">▼&nbsp;`-21`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1494)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -40</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1416)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +22</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1494)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-40</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1416)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`22`</span>**
 
 #### DNF Statistics
 
@@ -92,5 +75,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix) | Arrows | Q: 20<br/>R: 12 | 1575 **<span style="color: green;">▲ +22</span>** | 1498 **<span style="color: red;">▼ -40</span>** | 1522 **<span style="color: red;">▼ -21</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/>Q: 21<br/>R: 10 |
+| [Round 1: United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix) | Arrows | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1575 **<span style="color: green;">▲&nbsp;`+22`</span>** | 1498 **<span style="color: red;">▼&nbsp;`-40`</span>** | 1522 **<span style="color: red;">▼&nbsp;`-21`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

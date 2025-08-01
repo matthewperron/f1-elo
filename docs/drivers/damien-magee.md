@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1465
-   *[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1465
-   *[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1490
-   *[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)*
-
-📉 **Lowest Global Elo**: 1490
-   *[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1465`**<br/><small>[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)</small></center> |
+| **Lowest** | <center>**`1465`**<br/><small>[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1465 **<span style="color: red;">▼ -35</span>** | 1490 **<span style="color: red;">▼ -10</span>** |
+| 1500 ↔ 0 | 1465 **<span style="color: red;">▼&nbsp;`-35`</span>** | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [Ian Scheckter](ian-scheckter) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [Ian Scheckter](ian-scheckter) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -35</span>**
+- **Qualifying vs [Ian Scheckter](ian-scheckter) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
 
 #### DNF Statistics
 
@@ -54,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | Williams | Q: 22<br/>R: 14 | 1465 **<span style="color: red;">▼ -35</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [Ian Scheckter](ian-scheckter)<br/>Q: N/A<br/>R: N/A |
+| [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | Williams | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1465 **<span style="color: red;">▼&nbsp;`-35`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [Ian Scheckter](ian-scheckter)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 

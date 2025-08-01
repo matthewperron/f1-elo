@@ -13,29 +13,12 @@
 
 **DNF Statistics**: 1 DNFs out of 7 races (14.3%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1462
-   *[1992 Round 4 – Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1383
-   *[1992 Round 10 – German Grand Prix](../seasons/1992-season-report#round-10-german-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1489
-   *[1992 Round 11 – Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)*
-
-📉 **Lowest Race Elo**: 1409
-   *[1992 Round 7 – Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1471
-   *[1992 Round 11 – Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)*
-
-📉 **Lowest Global Elo**: 1407
-   *[1992 Round 7 – Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1462`**<br/><small>[1992 Round 4 – Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1489`**<br/><small>[1992 Round 11 – Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)</small></center> | <center>**`1471`**<br/><small>[1992 Round 11 – Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix)</small></center> |
+| **Lowest** | <center>**`1383`**<br/><small>[1992 Round 10 – German Grand Prix](../seasons/1992-season-report#round-10-german-grand-prix)</small></center> | <center>**`1409`**<br/><small>[1992 Round 7 – Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1407`**<br/><small>[1992 Round 7 – Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -48,12 +31,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1489 **<span style="color: red;">▼ -11</span>** | 1429 **<span style="color: red;">▼ -71</span>** | 1471 **<span style="color: red;">▼ -29</span>** |
+| 1489 **<span style="color: red;">▼&nbsp;`-11`</span>** | 1429 **<span style="color: red;">▼&nbsp;`-71`</span>** | 1471 **<span style="color: red;">▼&nbsp;`-29`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger) (1461)**: 2 wins (40.0%) • 3 losses (60.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -12</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger) (1501)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo <span style="color: red;">▼ -70</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger) (1461)**: 2 wins (40.0%) • 3 losses (60.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-12</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger) (1501)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo <span style="color: red;">▼&nbsp;`-70`</span>**
 
 #### DNF Statistics
 
@@ -63,11 +46,11 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix) | March | Q: 23<br/>R: 12 | 1462 **<span style="color: red;">▼ -38</span>** | 1463 **<span style="color: red;">▼ -37</span>** | 1463 **<span style="color: red;">▼ -37</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)<br/>Q: 9<br/>R: 8 |
-| [Round 5: San Marino Grand Prix](../seasons/1992-season-report#round-5-san-marino-grand-prix) | March | Q: 24<br/>R: 13 | 1430 **<span style="color: red;">▼ -31</span>** | 1434 **<span style="color: red;">▼ -30</span>** | 1432 **<span style="color: red;">▼ -30</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)<br/>Q: 12<br/>R: 12 |
-| [Round 7: Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix) | March | Q: 20<br/>R: 14 | 1405 **<span style="color: red;">▼ -26</span>** | 1409 **<span style="color: red;">▼ -25</span>** | 1407 **<span style="color: red;">▼ -25</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)<br/>Q: 12<br/>R: 4 |
-| [Round 10: German Grand Prix](../seasons/1992-season-report#round-10-german-grand-prix) | March | Q: 22<br/>R: 13 | 1383 **<span style="color: red;">▼ -21</span>** | 1453 **<span style="color: green;">▲ +44</span>** | 1432 **<span style="color: green;">▲ +24</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)<br/>Q: 10<br/>R: 16 |
-| [Round 11: Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix) | March | Q: 17<br/>R: 9 | 1429 **<span style="color: green;">▲ +46</span>** | 1489 **<span style="color: green;">▲ +36</span>** | 1471 **<span style="color: green;">▲ +39</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)<br/>Q: 23<br/>R: 20 |
+| [Round 4: Spanish Grand Prix](../seasons/1992-season-report#round-4-spanish-grand-prix) | March | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1462 **<span style="color: red;">▼&nbsp;`-38`</span>** | 1463 **<span style="color: red;">▼&nbsp;`-37`</span>** | 1463 **<span style="color: red;">▼&nbsp;`-37`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)<br/><small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
+| [Round 5: San Marino Grand Prix](../seasons/1992-season-report#round-5-san-marino-grand-prix) | March | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1430 **<span style="color: red;">▼&nbsp;`-31`</span>** | 1434 **<span style="color: red;">▼&nbsp;`-30`</span>** | 1432 **<span style="color: red;">▼&nbsp;`-30`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 7: Canadian Grand Prix](../seasons/1992-season-report#round-7-canadian-grand-prix) | March | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1405 **<span style="color: red;">▼&nbsp;`-26`</span>** | 1409 **<span style="color: red;">▼&nbsp;`-25`</span>** | 1407 **<span style="color: red;">▼&nbsp;`-25`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
+| [Round 10: German Grand Prix](../seasons/1992-season-report#round-10-german-grand-prix) | March | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1383 **<span style="color: red;">▼&nbsp;`-21`</span>** | 1453 **<span style="color: green;">▲&nbsp;`+44`</span>** | 1432 **<span style="color: green;">▲&nbsp;`+24`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> |
+| [Round 11: Hungarian Grand Prix](../seasons/1992-season-report#round-11-hungarian-grand-prix) | March | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1429 **<span style="color: green;">▲&nbsp;`+46`</span>** | 1489 **<span style="color: green;">▲&nbsp;`+36`</span>** | 1471 **<span style="color: green;">▲&nbsp;`+39`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Karl Wendlinger](karl-wendlinger)<br/><small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`20`**</small> |
 
 ### 1994 Season
 
@@ -77,12 +60,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1489 ↔ 0 | 1395 **<span style="color: red;">▼ -34</span>** | 1461 **<span style="color: red;">▼ -10</span>** |
+| 1489 ↔ 0 | 1395 **<span style="color: red;">▼&nbsp;`-34`</span>** | 1461 **<span style="color: red;">▼&nbsp;`-10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot) (1385)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot) (1621)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -34</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot) (1621)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-34`</span>**
 
 #### DNF Statistics
 
@@ -92,6 +75,6 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix) | Pacific | Q: 24<br/>R: DNF | 1411 **<span style="color: red;">▼ -18</span>** | N/A | 1466 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot)<br/>Q: 23<br/>R: DNF |
-| [Round 5: Spanish Grand Prix](../seasons/1994-season-report#round-5-spanish-grand-prix) | Pacific | Q: 26<br/>R: 25 | 1395 **<span style="color: red;">▼ -16</span>** | N/A | 1461 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot)<br/>Q: 25<br/>R: DNF |
+| [Round 4: Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix) | Pacific | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1411 **<span style="color: red;">▼&nbsp;`-18`</span>** | N/A | 1466 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot)<br/><small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 5: Spanish Grand Prix](../seasons/1994-season-report#round-5-spanish-grand-prix) | Pacific | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`25`**</small> | 1395 **<span style="color: red;">▼&nbsp;`-16`</span>** | N/A | 1461 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Bertrand Gachot](bertrand-gachot)<br/><small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

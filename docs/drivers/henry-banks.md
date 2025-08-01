@@ -13,21 +13,12 @@
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1472
-   *[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
-
-📉 **Lowest Qualifying Elo**: 1455
-   *[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1491
-   *[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
-
-📉 **Lowest Global Elo**: 1486
-   *[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1472`**<br/><small>[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)</small></center> | N/A | <center>**`1491`**<br/><small>[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)</small></center> |
+| **Lowest** | <center>**`1455`**<br/><small>[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)</small></center> | N/A | <center>**`1486`**<br/><small>[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -40,12 +31,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1468 **<span style="color: red;">▼ -32</span>** | 1490 **<span style="color: red;">▼ -10</span>** |
+| 1500 ↔ 0 | 1468 **<span style="color: red;">▼&nbsp;`-32`</span>** | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Travis Webb](travis-webb) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Travis Webb](travis-webb) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -32</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Travis Webb](travis-webb) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
 
 #### DNF Statistics
 
@@ -55,7 +46,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | Maserati | Q: 21<br/>R: DNF | 1468 **<span style="color: red;">▼ -32</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Travis Webb](travis-webb)<br/>Q: 14<br/>R: DNF |
+| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | Maserati | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1468 **<span style="color: red;">▼&nbsp;`-32`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Travis Webb](travis-webb)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1952 Season
 
@@ -65,15 +56,15 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1472 **<span style="color: green;">▲ +4</span>** | 1491 **<span style="color: green;">▲ +1</span>** |
+| 1500 ↔ 0 | 1472 **<span style="color: green;">▲&nbsp;`+4`</span>** | 1491 **<span style="color: green;">▲&nbsp;`+1`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter) (1545)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -13</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter) (1545)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Manny Ayulo](manny-ayulo) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Manny Ayulo](manny-ayulo) (1486)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +17</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Manny Ayulo](manny-ayulo) (1486)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`17`</span>**
 
 #### DNF Statistics
 
@@ -83,5 +74,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Lesovsky | Q: 12<br/>R: DNF | 1472 **<span style="color: green;">▲ +17</span>** | N/A | 1491 **<span style="color: green;">▲ +5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/>Q: 6<br/>R: 4 |
+| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Lesovsky | <small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1472 **<span style="color: green;">▲&nbsp;`+17`</span>** | N/A | 1491 **<span style="color: green;">▲&nbsp;`+5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
 

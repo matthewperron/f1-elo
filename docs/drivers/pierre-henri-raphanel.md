@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 1 DNFs out of 1 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1532
-   *[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1532
-   *[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1510
-   *[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
-
-📉 **Lowest Global Elo**: 1510
-   *[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1532`**<br/><small>[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)</small></center> | N/A | <center>**`1510`**<br/><small>[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)</small></center> |
+| **Lowest** | <center>**`1532`**<br/><small>[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)</small></center> | N/A | <center>**`1510`**<br/><small>[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1532 **<span style="color: green;">▲ +32</span>** | 1510 **<span style="color: green;">▲ +10</span>** |
+| 1500 ↔ 0 | 1532 **<span style="color: green;">▲&nbsp;`+32`</span>** | 1510 **<span style="color: green;">▲&nbsp;`+10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +32</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
 
 #### DNF Statistics
 
@@ -54,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix) | Coloni | Q: 18<br/>R: DNF | 1532 **<span style="color: green;">▲ +32</span>** | N/A | 1510 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno)<br/>Q: 25<br/>R: DNF |
+| [Round 3: Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix) | Coloni | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1532 **<span style="color: green;">▲&nbsp;`+32`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno)<br/><small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

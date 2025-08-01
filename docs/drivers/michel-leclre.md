@@ -13,29 +13,12 @@
 
 **DNF Statistics**: 2 DNFs out of 5 races (40.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1489
-   *[1975 Round 14 – United States Grand Prix](../seasons/1975-season-report#round-14-united-states-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1413
-   *[1976 Round 8 – French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1540
-   *[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
-
-📉 **Lowest Race Elo**: 1484
-   *[1976 Round 8 – French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1513
-   *[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)*
-
-📉 **Lowest Global Elo**: 1463
-   *[1976 Round 8 – French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1489`**<br/><small>[1975 Round 14 – United States Grand Prix](../seasons/1975-season-report#round-14-united-states-grand-prix)</small></center> | <center>**`1540`**<br/><small>[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)</small></center> | <center>**`1513`**<br/><small>[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)</small></center> |
+| **Lowest** | <center>**`1413`**<br/><small>[1976 Round 8 – French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)</small></center> | <center>**`1484`**<br/><small>[1976 Round 8 – French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)</small></center> | <center>**`1463`**<br/><small>[1976 Round 8 – French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -48,15 +31,15 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1473 **<span style="color: red;">▼ -27</span>** | 1492 **<span style="color: red;">▼ -8</span>** |
+| 1500 ↔ 0 | 1473 **<span style="color: red;">▼&nbsp;`-27`</span>** | 1492 **<span style="color: red;">▼&nbsp;`-8`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [Jody Scheckter](jody-scheckter) (1505)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Jody Scheckter](jody-scheckter) (1624)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -11</span>**
+- **Qualifying vs [Jody Scheckter](jody-scheckter) (1624)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1460)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1478)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -16</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1478)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-16`</span>**
 
 #### DNF Statistics
 
@@ -66,7 +49,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 14: United States Grand Prix](../seasons/1975-season-report#round-14-united-states-grand-prix) | Tyrrell | Q: 20<br/>R: DNF | 1473 **<span style="color: red;">▼ -16</span>** | N/A | 1492 **<span style="color: red;">▼ -5</span>** | [Jody Scheckter](jody-scheckter)<br/>Q: 10<br/>R: 6 |
+| [Round 14: United States Grand Prix](../seasons/1975-season-report#round-14-united-states-grand-prix) | Tyrrell | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1473 **<span style="color: red;">▼&nbsp;`-16`</span>** | N/A | 1492 **<span style="color: red;">▼&nbsp;`-5`</span>** | [Jody Scheckter](jody-scheckter)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
 
 ### 1976 Season
 
@@ -76,12 +59,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1484 **<span style="color: red;">▼ -16</span>** | 1413 **<span style="color: red;">▼ -60</span>** | 1463 **<span style="color: red;">▼ -29</span>** |
+| 1484 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1413 **<span style="color: red;">▼&nbsp;`-60`</span>** | 1463 **<span style="color: red;">▼&nbsp;`-29`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) (1607)**: 1 wins (33.3%) • 2 losses (66.7%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -16</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) (1625)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼ -61</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) (1607)**: 1 wins (33.3%) • 2 losses (66.7%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-16</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) (1625)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-61`</span>**
 
 #### DNF Statistics
 
@@ -91,7 +74,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | Wolf | Q: 22<br/>R: 13 | 1449 **<span style="color: red;">▼ -24</span>** | 1540 **<span style="color: green;">▲ +40</span>** | 1513 **<span style="color: green;">▲ +21</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/>Q: 19<br/>R: 16 |
-| [Round 4: Spanish Grand Prix](../seasons/1976-season-report#round-4-spanish-grand-prix) | Wolf | Q: 23<br/>R: 10 | 1429 **<span style="color: red;">▼ -20</span>** | 1509 **<span style="color: red;">▼ -31</span>** | 1485 **<span style="color: red;">▼ -28</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/>Q: 21<br/>R: 7 |
-| [Round 8: French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix) | Wolf | Q: 22<br/>R: 13 | 1413 **<span style="color: red;">▼ -17</span>** | 1484 **<span style="color: red;">▼ -25</span>** | 1463 **<span style="color: red;">▼ -23</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/>Q: 19<br/>R: 10 |
+| [Round 2: South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) | Wolf | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1449 **<span style="color: red;">▼&nbsp;`-24`</span>** | 1540 **<span style="color: green;">▲&nbsp;`+40`</span>** | 1513 **<span style="color: green;">▲&nbsp;`+21`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> |
+| [Round 4: Spanish Grand Prix](../seasons/1976-season-report#round-4-spanish-grand-prix) | Wolf | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> | 1429 **<span style="color: red;">▼&nbsp;`-20`</span>** | 1509 **<span style="color: red;">▼&nbsp;`-31`</span>** | 1485 **<span style="color: red;">▼&nbsp;`-28`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
+| [Round 8: French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix) | Wolf | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1413 **<span style="color: red;">▼&nbsp;`-17`</span>** | 1484 **<span style="color: red;">▼&nbsp;`-25`</span>** | 1463 **<span style="color: red;">▼&nbsp;`-23`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

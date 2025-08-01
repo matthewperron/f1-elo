@@ -13,29 +13,12 @@
 
 **DNF Statistics**: 4 DNFs out of 9 races (44.4%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1486
-   *[1990 Round 3 – San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1425
-   *[1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1540
-   *[1990 Round 10 – Hungarian Grand Prix](../seasons/1990-season-report#round-10-hungarian-grand-prix)*
-
-📉 **Lowest Race Elo**: 1504
-   *[1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1522
-   *[1990 Round 3 – San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix)*
-
-📉 **Lowest Global Elo**: 1480
-   *[1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1486`**<br/><small>[1990 Round 3 – San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix)</small></center> | <center>**`1540`**<br/><small>[1990 Round 10 – Hungarian Grand Prix](../seasons/1990-season-report#round-10-hungarian-grand-prix)</small></center> | <center>**`1522`**<br/><small>[1990 Round 3 – San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix)</small></center> |
+| **Lowest** | <center>**`1425`**<br/><small>[1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)</small></center> | <center>**`1504`**<br/><small>[1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)</small></center> | <center>**`1480`**<br/><small>[1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -48,12 +31,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1452 **<span style="color: red;">▼ -48</span>** | 1486 **<span style="color: red;">▼ -14</span>** |
+| 1500 ↔ 0 | 1452 **<span style="color: red;">▼&nbsp;`-48`</span>** | 1486 **<span style="color: red;">▼&nbsp;`-14`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1471)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1358)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -48</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1358)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-48`</span>**
 
 #### DNF Statistics
 
@@ -63,7 +46,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 15: Japanese Grand Prix](../seasons/1989-season-report#round-15-japanese-grand-prix) | Minardi | Q: 19<br/>R: DNF | 1452 **<span style="color: red;">▼ -48</span>** | N/A | 1486 **<span style="color: red;">▼ -14</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala)<br/>Q: 14<br/>R: 25 |
+| [Round 15: Japanese Grand Prix](../seasons/1989-season-report#round-15-japanese-grand-prix) | Minardi | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1452 **<span style="color: red;">▼&nbsp;`-48`</span>** | N/A | 1486 **<span style="color: red;">▼&nbsp;`-14`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`25`**</small> |
 
 ### 1990 Season
 
@@ -73,12 +56,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1506 **<span style="color: green;">▲ +6</span>** | 1425 **<span style="color: red;">▼ -27</span>** | 1482 **<span style="color: red;">▼ -4</span>** |
+| 1506 **<span style="color: green;">▲&nbsp;`+6`</span>** | 1425 **<span style="color: red;">▼&nbsp;`-27`</span>** | 1482 **<span style="color: red;">▼&nbsp;`-4`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1552)**: 2 wins (28.6%) • 2 losses (28.6%) • 3 DNFs (42.9%) • **Elo <span style="color: green;">▲ +6</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1748)**: 1 wins (12.5%) • 7 losses (87.5%) • **Elo <span style="color: red;">▼ -26</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1552)**: 2 wins (28.6%) • 2 losses (28.6%) • 3 DNFs (42.9%) • **Elo <span style="color: green;">▲&nbsp;+6</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1748)**: 1 wins (12.5%) • 7 losses (87.5%) • **Elo <span style="color: red;">▼&nbsp;`-26`</span>**
 
 #### DNF Statistics
 
@@ -88,12 +71,12 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix) | Minardi | Q: 14<br/>R: DNF | 1441 **<span style="color: red;">▼ -11</span>** | N/A | 1483 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/>Q: 2<br/>R: 7 |
-| [Round 2: Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix) | Minardi | Q: 17<br/>R: DNF | 1431 **<span style="color: red;">▼ -10</span>** | N/A | 1480 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/>Q: 8<br/>R: 9 |
-| [Round 3: San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix) | Minardi | Q: 26<br/>R: 11 | 1486 **<span style="color: green;">▲ +55</span>** | 1537 **<span style="color: green;">▲ +37</span>** | 1522 **<span style="color: green;">▲ +42</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/>Q: 999<br/>R: 27 |
-| [Round 4: Monaco Grand Prix](../seasons/1990-season-report#round-4-monaco-grand-prix) | Minardi | Q: 19<br/>R: DNF | 1470 **<span style="color: red;">▼ -15</span>** | N/A | 1518 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/>Q: 8<br/>R: DNF |
-| [Round 6: Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix) | Minardi | Q: 16<br/>R: 14 | 1457 **<span style="color: red;">▼ -13</span>** | 1504 **<span style="color: red;">▼ -34</span>** | 1490 **<span style="color: red;">▼ -28</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/>Q: 7<br/>R: 12 |
-| [Round 8: British Grand Prix](../seasons/1990-season-report#round-8-british-grand-prix) | Minardi | Q: 24<br/>R: 12 | 1445 **<span style="color: red;">▼ -12</span>** | N/A | 1486 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/>Q: 18<br/>R: DNF |
-| [Round 10: Hungarian Grand Prix](../seasons/1990-season-report#round-10-hungarian-grand-prix) | Minardi | Q: 23<br/>R: 15 | 1435 **<span style="color: red;">▼ -11</span>** | 1540 **<span style="color: green;">▲ +37</span>** | 1509 **<span style="color: green;">▲ +23</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/>Q: 14<br/>R: 24 |
-| [Round 11: Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix) | Minardi | Q: 25<br/>R: 26 | 1425 **<span style="color: red;">▼ -9</span>** | 1506 **<span style="color: red;">▼ -34</span>** | 1482 **<span style="color: red;">▼ -26</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/>Q: 16<br/>R: 15 |
+| [Round 1: United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix) | Minardi | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1441 **<span style="color: red;">▼&nbsp;`-11`</span>** | N/A | 1483 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
+| [Round 2: Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix) | Minardi | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1431 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1480 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 3: San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix) | Minardi | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1486 **<span style="color: green;">▲&nbsp;`+55`</span>** | 1537 **<span style="color: green;">▲&nbsp;`+37`</span>** | 1522 **<span style="color: green;">▲&nbsp;`+42`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/><small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`27`**</small> |
+| [Round 4: Monaco Grand Prix](../seasons/1990-season-report#round-4-monaco-grand-prix) | Minardi | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1470 **<span style="color: red;">▼&nbsp;`-15`</span>** | N/A | 1518 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 6: Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix) | Minardi | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1457 **<span style="color: red;">▼&nbsp;`-13`</span>** | 1504 **<span style="color: red;">▼&nbsp;`-34`</span>** | 1490 **<span style="color: red;">▼&nbsp;`-28`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 8: British Grand Prix](../seasons/1990-season-report#round-8-british-grand-prix) | Minardi | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1445 **<span style="color: red;">▼&nbsp;`-12`</span>** | N/A | 1486 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 10: Hungarian Grand Prix](../seasons/1990-season-report#round-10-hungarian-grand-prix) | Minardi | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> | 1435 **<span style="color: red;">▼&nbsp;`-11`</span>** | 1540 **<span style="color: green;">▲&nbsp;`+37`</span>** | 1509 **<span style="color: green;">▲&nbsp;`+23`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`24`**</small> |
+| [Round 11: Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix) | Minardi | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`26`**</small> | 1425 **<span style="color: red;">▼&nbsp;`-9`</span>** | 1506 **<span style="color: red;">▼&nbsp;`-34`</span>** | 1482 **<span style="color: red;">▼&nbsp;`-26`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
 

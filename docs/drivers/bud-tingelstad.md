@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1464
-   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
-
-📉 **Lowest Qualifying Elo**: 1464
-   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1471
-   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
-
-📉 **Lowest Race Elo**: 1471
-   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1469
-   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
-
-📉 **Lowest Global Elo**: 1469
-   *[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1464`**<br/><small>[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)</small></center> | <center>**`1471`**<br/><small>[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)</small></center> | <center>**`1469`**<br/><small>[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)</small></center> |
+| **Lowest** | <center>**`1464`**<br/><small>[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)</small></center> | <center>**`1471`**<br/><small>[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)</small></center> | <center>**`1469`**<br/><small>[1960 Round 3 – Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1471 **<span style="color: red;">▼ -29</span>** | 1464 **<span style="color: red;">▼ -36</span>** | 1469 **<span style="color: red;">▼ -31</span>** |
+| 1471 **<span style="color: red;">▼&nbsp;`-29`</span>** | 1464 **<span style="color: red;">▼&nbsp;`-36`</span>** | 1469 **<span style="color: red;">▼&nbsp;`-31`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) (1563)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -29</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) (1495)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -36</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) (1563)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-29</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson) (1495)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
 
 #### DNF Statistics
 
@@ -62,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Trevis | Q: 28<br/>R: 9 | 1464 **<span style="color: red;">▼ -36</span>** | 1471 **<span style="color: red;">▼ -29</span>** | 1469 **<span style="color: red;">▼ -31</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson)<br/>Q: 7<br/>R: 6 |
+| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Trevis | <small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1464 **<span style="color: red;">▼&nbsp;`-36`</span>** | 1471 **<span style="color: red;">▼&nbsp;`-29`</span>** | 1469 **<span style="color: red;">▼&nbsp;`-31`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Johnson](eddie-johnson)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
 

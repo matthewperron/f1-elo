@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1480
-   *[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1480
-   *[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1494
-   *[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
-
-📉 **Lowest Global Elo**: 1494
-   *[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1480`**<br/><small>[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)</small></center> | N/A | <center>**`1494`**<br/><small>[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)</small></center> |
+| **Lowest** | <center>**`1480`**<br/><small>[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)</small></center> | N/A | <center>**`1494`**<br/><small>[1967 Round 11 – Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1480 **<span style="color: red;">▼ -20</span>** | 1494 **<span style="color: red;">▼ -6</span>** |
+| 1500 ↔ 0 | 1480 **<span style="color: red;">▼&nbsp;`-20`</span>** | 1494 **<span style="color: red;">▼&nbsp;`-6`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) (1551)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) (1654)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -20</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) (1654)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-20`</span>**
 
 #### DNF Statistics
 
@@ -54,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | Ferrari | Q: 16<br/>R: 8 | 1480 **<span style="color: red;">▼ -20</span>** | N/A | 1494 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon)<br/>Q: 2<br/>R: DNF |
+| [Round 11: Mexican Grand Prix](../seasons/1967-season-report#round-11-mexican-grand-prix) | Ferrari | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1480 **<span style="color: red;">▼&nbsp;`-20`</span>** | N/A | 1494 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

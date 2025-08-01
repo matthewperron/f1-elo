@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 3 DNFs out of 4 races (75.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1464
-   *[2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1391
-   *[2006 Round 4 – San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1450
-   *[2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)*
-
-📉 **Lowest Race Elo**: 1450
-   *[2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1489
-   *[2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)*
-
-📉 **Lowest Global Elo**: 1432
-   *[2006 Round 4 – San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1464`**<br/><small>[2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)</small></center> | <center>**`1450`**<br/><small>[2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)</small></center> | <center>**`1489`**<br/><small>[2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)</small></center> |
+| **Lowest** | <center>**`1391`**<br/><small>[2006 Round 4 – San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1450`**<br/><small>[2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)</small></center> | <center>**`1432`**<br/><small>[2006 Round 4 – San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1450 **<span style="color: red;">▼ -50</span>** | 1391 **<span style="color: red;">▼ -109</span>** | 1432 **<span style="color: red;">▼ -68</span>** |
+| 1450 **<span style="color: red;">▼&nbsp;`-50`</span>** | 1391 **<span style="color: red;">▼&nbsp;`-109`</span>** | 1432 **<span style="color: red;">▼&nbsp;`-68`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1328)**: 0 wins (0.0%) • 1 losses (25.0%) • 3 DNFs (75.0%) • **Elo <span style="color: red;">▼ -50</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1567)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼ -109</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1328)**: 0 wins (0.0%) • 1 losses (25.0%) • 3 DNFs (75.0%) • **Elo <span style="color: red;">▼&nbsp;-50</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1567)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-109`</span>**
 
 #### DNF Statistics
 
@@ -62,8 +45,8 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix) | Super Aguri | Q: 21<br/>R: DNF | 1464 **<span style="color: red;">▼ -36</span>** | N/A | 1489 **<span style="color: red;">▼ -11</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)<br/>Q: 20<br/>R: 18 |
-| [Round 2: Malaysian Grand Prix](../seasons/2006-season-report#round-2-malaysian-grand-prix) | Super Aguri | Q: 18<br/>R: DNF | 1435 **<span style="color: red;">▼ -29</span>** | N/A | 1481 **<span style="color: red;">▼ -9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)<br/>Q: 17<br/>R: 14 |
-| [Round 3: Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix) | Super Aguri | Q: 22<br/>R: 13 | 1411 **<span style="color: red;">▼ -24</span>** | 1450 **<span style="color: red;">▼ -50</span>** | 1438 **<span style="color: red;">▼ -42</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)<br/>Q: 21<br/>R: 12 |
-| [Round 4: San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix) | Super Aguri | Q: 22<br/>R: DNF | 1391 **<span style="color: red;">▼ -20</span>** | N/A | 1432 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)<br/>Q: 21<br/>R: 18 |
+| [Round 1: Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix) | Super Aguri | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1464 **<span style="color: red;">▼&nbsp;`-36`</span>** | N/A | 1489 **<span style="color: red;">▼&nbsp;`-11`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> |
+| [Round 2: Malaysian Grand Prix](../seasons/2006-season-report#round-2-malaysian-grand-prix) | Super Aguri | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1435 **<span style="color: red;">▼&nbsp;`-29`</span>** | N/A | 1481 **<span style="color: red;">▼&nbsp;`-9`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> |
+| [Round 3: Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix) | Super Aguri | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1411 **<span style="color: red;">▼&nbsp;`-24`</span>** | 1450 **<span style="color: red;">▼&nbsp;`-50`</span>** | 1438 **<span style="color: red;">▼&nbsp;`-42`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 4: San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix) | Super Aguri | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1391 **<span style="color: red;">▼&nbsp;`-20`</span>** | N/A | 1432 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> |
 

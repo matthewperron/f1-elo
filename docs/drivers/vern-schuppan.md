@@ -13,29 +13,12 @@
 
 **DNF Statistics**: 1 DNFs out of 4 races (25.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1474
-   *[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1445
-   *[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1473
-   *[1977 Round 10 – British Grand Prix](../seasons/1977-season-report#round-10-british-grand-prix)*
-
-📉 **Lowest Race Elo**: 1431
-   *[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1492
-   *[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)*
-
-📉 **Lowest Global Elo**: 1435
-   *[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1474`**<br/><small>[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)</small></center> | <center>**`1473`**<br/><small>[1977 Round 10 – British Grand Prix](../seasons/1977-season-report#round-10-british-grand-prix)</small></center> | <center>**`1492`**<br/><small>[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)</small></center> |
+| **Lowest** | <center>**`1445`**<br/><small>[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)</small></center> | <center>**`1431`**<br/><small>[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)</small></center> | <center>**`1435`**<br/><small>[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -48,12 +31,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1474 **<span style="color: red;">▼ -26</span>** | 1492 **<span style="color: red;">▼ -8</span>** |
+| 1500 ↔ 0 | 1474 **<span style="color: red;">▼&nbsp;`-26`</span>** | 1492 **<span style="color: red;">▼&nbsp;`-8`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Tony Brise](tony-brise) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Tony Brise](tony-brise) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -26</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Tony Brise](tony-brise) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-26`</span>**
 
 #### DNF Statistics
 
@@ -63,7 +46,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | Embassy Hill | Q: 26<br/>R: DNF | 1474 **<span style="color: red;">▼ -26</span>** | N/A | 1492 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Tony Brise](tony-brise)<br/>Q: N/A<br/>R: N/A |
+| [Round 7: Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) | Embassy Hill | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1474 **<span style="color: red;">▼&nbsp;`-26`</span>** | N/A | 1492 **<span style="color: red;">▼&nbsp;`-8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Tony Brise](tony-brise)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 
 ### 1977 Season
 
@@ -73,12 +56,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1431 **<span style="color: red;">▼ -69</span>** | 1445 **<span style="color: red;">▼ -29</span>** | 1435 **<span style="color: red;">▼ -57</span>** |
+| 1431 **<span style="color: red;">▼&nbsp;`-69`</span>** | 1445 **<span style="color: red;">▼&nbsp;`-29`</span>** | 1435 **<span style="color: red;">▼&nbsp;`-57`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1620)**: 0 wins (0.0%) • 3 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -69</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1780)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼ -30</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1620)**: 0 wins (0.0%) • 3 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-69</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1780)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
 
 #### DNF Statistics
 
@@ -88,7 +71,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: British Grand Prix](../seasons/1977-season-report#round-10-british-grand-prix) | Surtees | Q: 23<br/>R: 12 | 1463 **<span style="color: red;">▼ -11</span>** | 1473 **<span style="color: red;">▼ -27</span>** | 1470 **<span style="color: red;">▼ -22</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla)<br/>Q: 8<br/>R: 8 |
-| [Round 11: German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix) | Surtees | Q: 19<br/>R: 7 | 1453 **<span style="color: red;">▼ -10</span>** | 1450 **<span style="color: red;">▼ -23</span>** | 1451 **<span style="color: red;">▼ -19</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla)<br/>Q: 10<br/>R: 5 |
-| [Round 12: Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix) | Surtees | Q: 25<br/>R: 16 | 1445 **<span style="color: red;">▼ -9</span>** | 1431 **<span style="color: red;">▼ -19</span>** | 1435 **<span style="color: red;">▼ -16</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla)<br/>Q: 13<br/>R: 15 |
+| [Round 10: British Grand Prix](../seasons/1977-season-report#round-10-british-grand-prix) | Surtees | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1463 **<span style="color: red;">▼&nbsp;`-11`</span>** | 1473 **<span style="color: red;">▼&nbsp;`-27`</span>** | 1470 **<span style="color: red;">▼&nbsp;`-22`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
+| [Round 11: German Grand Prix](../seasons/1977-season-report#round-11-german-grand-prix) | Surtees | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1453 **<span style="color: red;">▼&nbsp;`-10`</span>** | 1450 **<span style="color: red;">▼&nbsp;`-23`</span>** | 1451 **<span style="color: red;">▼&nbsp;`-19`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
+| [Round 12: Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix) | Surtees | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1445 **<span style="color: red;">▼&nbsp;`-9`</span>** | 1431 **<span style="color: red;">▼&nbsp;`-19`</span>** | 1435 **<span style="color: red;">▼&nbsp;`-16`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
 

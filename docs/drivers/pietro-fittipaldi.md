@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 2 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1509
-   *[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1470
-   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1478
-   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
-
-📉 **Lowest Race Elo**: 1459
-   *[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1476
-   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
-
-📉 **Lowest Global Elo**: 1474
-   *[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1509`**<br/><small>[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)</small></center> | <center>**`1478`**<br/><small>[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)</small></center> | <center>**`1476`**<br/><small>[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)</small></center> |
+| **Lowest** | <center>**`1470`**<br/><small>[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)</small></center> | <center>**`1459`**<br/><small>[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)</small></center> | <center>**`1474`**<br/><small>[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1459 **<span style="color: red;">▼ -41</span>** | 1509 **<span style="color: green;">▲ +9</span>** | 1474 **<span style="color: red;">▼ -26</span>** |
+| 1459 **<span style="color: red;">▼&nbsp;`-41`</span>** | 1509 **<span style="color: green;">▲&nbsp;`+9`</span>** | 1474 **<span style="color: red;">▼&nbsp;`-26`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1651)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -41</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1511)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲ +9</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1651)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-41</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1511)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`9`</span>**
 
 #### DNF Statistics
 
@@ -62,6 +45,6 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | Haas F1 Team | Q: 20<br/>R: 17 | 1470 **<span style="color: red;">▼ -30</span>** | 1478 **<span style="color: red;">▼ -22</span>** | 1476 **<span style="color: red;">▼ -24</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)<br/>Q: 15<br/>R: 15 |
-| [Round 17: Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix) | Haas F1 Team | Q: 17<br/>R: 19 | 1509 **<span style="color: green;">▲ +39</span>** | 1459 **<span style="color: red;">▼ -19</span>** | 1474 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)<br/>Q: 20<br/>R: 18 |
+| [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | Haas F1 Team | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> | 1470 **<span style="color: red;">▼&nbsp;`-30`</span>** | 1478 **<span style="color: red;">▼&nbsp;`-22`</span>** | 1476 **<span style="color: red;">▼&nbsp;`-24`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 17: Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix) | Haas F1 Team | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`19`**</small> | 1509 **<span style="color: green;">▲&nbsp;`+39`</span>** | 1459 **<span style="color: red;">▼&nbsp;`-19`</span>** | 1474 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> |
 

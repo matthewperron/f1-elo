@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 2 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1480
-   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1463
-   *[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1471
-   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
-
-📉 **Lowest Race Elo**: 1447
-   *[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1474
-   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
-
-📉 **Lowest Global Elo**: 1452
-   *[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1480`**<br/><small>[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)</small></center> | <center>**`1471`**<br/><small>[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)</small></center> | <center>**`1474`**<br/><small>[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)</small></center> |
+| **Lowest** | <center>**`1463`**<br/><small>[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)</small></center> | <center>**`1447`**<br/><small>[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)</small></center> | <center>**`1452`**<br/><small>[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1447 **<span style="color: red;">▼ -53</span>** | 1463 **<span style="color: red;">▼ -37</span>** | 1452 **<span style="color: red;">▼ -48</span>** |
+| 1447 **<span style="color: red;">▼&nbsp;`-53`</span>** | 1463 **<span style="color: red;">▼&nbsp;`-37`</span>** | 1452 **<span style="color: red;">▼&nbsp;`-48`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) (1586)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -53</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) (1683)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -36</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) (1586)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-53</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) (1683)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
 
 #### DNF Statistics
 
@@ -62,6 +45,6 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 11: Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix) | Team Lotus | Q: 26<br/>R: 21 | 1480 **<span style="color: red;">▼ -20</span>** | 1471 **<span style="color: red;">▼ -29</span>** | 1474 **<span style="color: red;">▼ -26</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert)<br/>Q: 20<br/>R: 12 |
-| [Round 13: Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix) | Team Lotus | Q: 25<br/>R: 16 | 1463 **<span style="color: red;">▼ -16</span>** | 1447 **<span style="color: red;">▼ -24</span>** | 1452 **<span style="color: red;">▼ -22</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert)<br/>Q: 20<br/>R: 11 |
+| [Round 11: Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix) | Team Lotus | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`21`**</small> | 1480 **<span style="color: red;">▼&nbsp;`-20`</span>** | 1471 **<span style="color: red;">▼&nbsp;`-29`</span>** | 1474 **<span style="color: red;">▼&nbsp;`-26`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 13: Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix) | Team Lotus | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1463 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1447 **<span style="color: red;">▼&nbsp;`-24`</span>** | 1452 **<span style="color: red;">▼&nbsp;`-22`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> |
 

@@ -13,29 +13,12 @@
 
 **DNF Statistics**: 4 DNFs out of 9 races (44.4%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1547
-   *[1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1421
-   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1504
-   *[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)*
-
-📉 **Lowest Race Elo**: 1467
-   *[1994 Round 8 – British Grand Prix](../seasons/1994-season-report#round-8-british-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1514
-   *[1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)*
-
-📉 **Lowest Global Elo**: 1453
-   *[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1547`**<br/><small>[1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)</small></center> | <center>**`1504`**<br/><small>[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)</small></center> | <center>**`1514`**<br/><small>[1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)</small></center> |
+| **Lowest** | <center>**`1421`**<br/><small>[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)</small></center> | <center>**`1467`**<br/><small>[1994 Round 8 – British Grand Prix](../seasons/1994-season-report#round-8-british-grand-prix)</small></center> | <center>**`1453`**<br/><small>[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -48,12 +31,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1523 **<span style="color: green;">▲ +23</span>** | 1507 **<span style="color: green;">▲ +7</span>** |
+| 1500 ↔ 0 | 1523 **<span style="color: green;">▲&nbsp;`+23`</span>** | 1507 **<span style="color: green;">▲&nbsp;`+7`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1486)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1658)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲ +23</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1658)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`23`</span>**
 
 #### DNF Statistics
 
@@ -63,8 +46,8 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 15: Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix) | Minardi | Q: 13<br/>R: DNF | 1547 **<span style="color: green;">▲ +47</span>** | N/A | 1514 **<span style="color: green;">▲ +14</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/>Q: 22<br/>R: 10 |
-| [Round 16: Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix) | Minardi | Q: 22<br/>R: 17 | 1523 **<span style="color: red;">▼ -24</span>** | N/A | 1507 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/>Q: 16<br/>R: DNF |
+| [Round 15: Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix) | Minardi | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1547 **<span style="color: green;">▲&nbsp;`+47`</span>** | N/A | 1514 **<span style="color: green;">▲&nbsp;`+14`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
+| [Round 16: Australian Grand Prix](../seasons/1993-season-report#round-16-australian-grand-prix) | Minardi | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> | 1523 **<span style="color: red;">▼&nbsp;`-24`</span>** | N/A | 1507 **<span style="color: red;">▼&nbsp;`-7`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1994 Season
 
@@ -74,12 +57,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1504 **<span style="color: green;">▲ +4</span>** | 1452 **<span style="color: red;">▼ -71</span>** | 1489 **<span style="color: red;">▼ -18</span>** |
+| 1504 **<span style="color: green;">▲&nbsp;`+4`</span>** | 1452 **<span style="color: red;">▼&nbsp;`-71`</span>** | 1489 **<span style="color: red;">▼&nbsp;`-18`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1484)**: 1 wins (20.0%) • 1 losses (20.0%) • 3 DNFs (60.0%) • **Elo <span style="color: green;">▲ +4</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1633)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo <span style="color: red;">▼ -71</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1484)**: 1 wins (20.0%) • 1 losses (20.0%) • 3 DNFs (60.0%) • **Elo <span style="color: green;">▲&nbsp;+4</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1633)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo <span style="color: red;">▼&nbsp;`-71`</span>**
 
 #### DNF Statistics
 
@@ -89,11 +72,11 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: French Grand Prix](../seasons/1994-season-report#round-7-french-grand-prix) | Simtek | Q: 26<br/>R: 9 | 1495 **<span style="color: red;">▼ -28</span>** | N/A | 1499 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 24<br/>R: DNF |
-| [Round 8: British Grand Prix](../seasons/1994-season-report#round-8-british-grand-prix) | Simtek | Q: 26<br/>R: 16 | 1471 **<span style="color: red;">▼ -23</span>** | 1467 **<span style="color: red;">▼ -33</span>** | 1469 **<span style="color: red;">▼ -30</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 25<br/>R: 15 |
-| [Round 9: German Grand Prix](../seasons/1994-season-report#round-9-german-grand-prix) | Simtek | Q: 26<br/>R: DNF | 1452 **<span style="color: red;">▼ -20</span>** | N/A | 1463 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 25<br/>R: DNF |
-| [Round 10: Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix) | Simtek | Q: 26<br/>R: DNF | 1435 **<span style="color: red;">▼ -17</span>** | N/A | 1458 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 23<br/>R: 11 |
-| [Round 11: Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix) | Simtek | Q: 25<br/>R: 11 | 1421 **<span style="color: red;">▼ -14</span>** | N/A | 1453 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 21<br/>R: DNF |
-| [Round 12: Italian Grand Prix](../seasons/1994-season-report#round-12-italian-grand-prix) | Simtek | Q: 25<br/>R: DNF | 1472 **<span style="color: green;">▲ +51</span>** | N/A | 1469 **<span style="color: green;">▲ +15</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 26<br/>R: DNF |
-| [Round 13: Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix) | Simtek | Q: 26<br/>R: 15 | 1452 **<span style="color: red;">▼ -20</span>** | 1504 **<span style="color: green;">▲ +37</span>** | 1489 **<span style="color: green;">▲ +20</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/>Q: 24<br/>R: 22 |
+| [Round 7: French Grand Prix](../seasons/1994-season-report#round-7-french-grand-prix) | Simtek | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1495 **<span style="color: red;">▼&nbsp;`-28`</span>** | N/A | 1499 **<span style="color: red;">▼&nbsp;`-8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 8: British Grand Prix](../seasons/1994-season-report#round-8-british-grand-prix) | Simtek | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1471 **<span style="color: red;">▼&nbsp;`-23`</span>** | 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | 1469 **<span style="color: red;">▼&nbsp;`-30`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 9: German Grand Prix](../seasons/1994-season-report#round-9-german-grand-prix) | Simtek | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1452 **<span style="color: red;">▼&nbsp;`-20`</span>** | N/A | 1463 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 10: Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix) | Simtek | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1435 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1458 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> |
+| [Round 11: Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix) | Simtek | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1421 **<span style="color: red;">▼&nbsp;`-14`</span>** | N/A | 1453 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 12: Italian Grand Prix](../seasons/1994-season-report#round-12-italian-grand-prix) | Simtek | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1472 **<span style="color: green;">▲&nbsp;`+51`</span>** | N/A | 1469 **<span style="color: green;">▲&nbsp;`+15`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 13: Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix) | Simtek | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> | 1452 **<span style="color: red;">▼&nbsp;`-20`</span>** | 1504 **<span style="color: green;">▲&nbsp;`+37`</span>** | 1489 **<span style="color: green;">▲&nbsp;`+20`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham)<br/><small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`22`**</small> |
 

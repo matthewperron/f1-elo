@@ -12,29 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 5 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1511
-   *[1952 Round 5 – British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1478
-   *[1952 Round 8 – Italian Grand Prix](../seasons/1952-season-report#round-8-italian-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1531
-   *[1952 Round 5 – British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix)*
-
-📉 **Lowest Race Elo**: 1511
-   *[1952 Round 5 – British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1525
-   *[1952 Round 5 – British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix)*
-
-📉 **Lowest Global Elo**: 1511
-   *[1952 Round 5 – British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1511`**<br/><small>[1952 Round 5 – British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix)</small></center> | <center>**`1531`**<br/><small>[1952 Round 5 – British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix)</small></center> | <center>**`1525`**<br/><small>[1952 Round 5 – British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix)</small></center> |
+| **Lowest** | <center>**`1478`**<br/><small>[1952 Round 8 – Italian Grand Prix](../seasons/1952-season-report#round-8-italian-grand-prix)</small></center> | <center>**`1511`**<br/><small>[1952 Round 5 – British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix)</small></center> | <center>**`1511`**<br/><small>[1952 Round 5 – British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -47,21 +30,21 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1531 **<span style="color: green;">▲ +31</span>** | 1478 **<span style="color: red;">▼ -22</span>** | 1515 **<span style="color: green;">▲ +15</span>** |
+| 1531 **<span style="color: green;">▲&nbsp;`+31`</span>** | 1478 **<span style="color: red;">▼&nbsp;`-22`</span>** | 1515 **<span style="color: green;">▲&nbsp;`+15`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Thompson](eric-thompson) (1489)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +11</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Thompson](eric-thompson) (1489)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +11</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Thompson](eric-thompson) (1489)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+11</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Thompson](eric-thompson) (1489)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`11`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ken Downing](ken-downing) (1490)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +10</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ken Downing](ken-downing) (1511)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -11</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ken Downing](ken-downing) (1490)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+10</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Ken Downing](ken-downing) (1511)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Kenneth McAlpine](kenneth-mcalpine) (1469)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲ +10</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Kenneth McAlpine](kenneth-mcalpine) (1486)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: red;">▼ -6</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Kenneth McAlpine](kenneth-mcalpine) (1469)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+10</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Kenneth McAlpine](kenneth-mcalpine) (1486)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -15</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
 
 #### DNF Statistics
 
@@ -71,6 +54,6 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 5: British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix) | Connaught | Q: 8<br/>R: 4 | 1510 **<span style="color: green;">▲ +11</span>** | 1531 **<span style="color: green;">▲ +10</span>** | 1525 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Thompson](eric-thompson)<br/>Q: 9<br/>R: 5 |
-| [Round 8: Italian Grand Prix](../seasons/1952-season-report#round-8-italian-grand-prix) | Connaught | Q: 19<br/>R: 12 | 1478 **<span style="color: red;">▼ -17</span>** | N/A | 1515 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss)<br/>Q: N/A<br/>R: N/A |
+| [Round 5: British Grand Prix](../seasons/1952-season-report#round-5-british-grand-prix) | Connaught | <small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> | 1510 **<span style="color: green;">▲&nbsp;`+11`</span>** | 1531 **<span style="color: green;">▲&nbsp;`+10`</span>** | 1525 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Eric Thompson](eric-thompson)<br/><small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
+| [Round 8: Italian Grand Prix](../seasons/1952-season-report#round-8-italian-grand-prix) | Connaught | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1478 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1515 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 

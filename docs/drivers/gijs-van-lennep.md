@@ -14,29 +14,12 @@
 
 **DNF Statistics**: 1 DNFs out of 6 races (16.7%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1494
-   *[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1390
-   *[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1560
-   *[1973 Round 12 – Austrian Grand Prix](../seasons/1973-season-report#round-12-austrian-grand-prix)*
-
-📉 **Lowest Race Elo**: 1491
-   *[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1521
-   *[1973 Round 12 – Austrian Grand Prix](../seasons/1973-season-report#round-12-austrian-grand-prix)*
-
-📉 **Lowest Global Elo**: 1488
-   *[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1494`**<br/><small>[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)</small></center> | <center>**`1560`**<br/><small>[1973 Round 12 – Austrian Grand Prix](../seasons/1973-season-report#round-12-austrian-grand-prix)</small></center> | <center>**`1521`**<br/><small>[1973 Round 12 – Austrian Grand Prix](../seasons/1973-season-report#round-12-austrian-grand-prix)</small></center> |
+| **Lowest** | <center>**`1390`**<br/><small>[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)</small></center> | <center>**`1491`**<br/><small>[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)</small></center> | <center>**`1488`**<br/><small>[1971 Round 4 – Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -49,15 +32,15 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1491 **<span style="color: red;">▼ -9</span>** | 1482 **<span style="color: red;">▼ -18</span>** | 1488 **<span style="color: red;">▼ -12</span>** |
+| 1491 **<span style="color: red;">▼&nbsp;`-9`</span>** | 1482 **<span style="color: red;">▼&nbsp;`-18`</span>** | 1488 **<span style="color: red;">▼&nbsp;`-12`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees) (1683)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -9</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees) (1767)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -6</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees) (1683)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-9</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees) (1767)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen](rolf-stommelen) (1576)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen](rolf-stommelen) (1571)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -13</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Rolf Stommelen](rolf-stommelen) (1571)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
 
 #### DNF Statistics
 
@@ -67,7 +50,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix) | Surtees | Q: 21<br/>R: 8 | 1482 **<span style="color: red;">▼ -13</span>** | N/A | 1488 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees)<br/>Q: 7<br/>R: 5 |
+| [Round 4: Dutch Grand Prix](../seasons/1971-season-report#round-4-dutch-grand-prix) | Surtees | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1482 **<span style="color: red;">▼&nbsp;`-13`</span>** | N/A | 1488 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
 
 ### 1973 Season
 
@@ -77,12 +60,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1560 **<span style="color: green;">▲ +69</span>** | 1411 **<span style="color: red;">▼ -71</span>** | 1515 **<span style="color: green;">▲ +27</span>** |
+| 1560 **<span style="color: green;">▲&nbsp;`+69`</span>** | 1411 **<span style="color: red;">▼&nbsp;`-71`</span>** | 1515 **<span style="color: green;">▲&nbsp;`+27`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) (1485)**: 2 wins (66.7%) • 0 losses (0.0%) • 1 DNFs (33.3%) • **Elo <span style="color: green;">▲ +69</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) (1592)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼ -71</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) (1485)**: 2 wins (66.7%) • 0 losses (0.0%) • 1 DNFs (33.3%) • **Elo <span style="color: green;">▲&nbsp;+69</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley) (1592)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-71`</span>**
 
 #### DNF Statistics
 
@@ -92,9 +75,9 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: Dutch Grand Prix](../seasons/1973-season-report#round-10-dutch-grand-prix) | Iso Marlboro | Q: 20<br/>R: 6 | 1454 **<span style="color: red;">▼ -28</span>** | 1529 **<span style="color: green;">▲ +38</span>** | 1506 **<span style="color: green;">▲ +18</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/>Q: 15<br/>R: 9 |
-| [Round 12: Austrian Grand Prix](../seasons/1973-season-report#round-12-austrian-grand-prix) | Iso Marlboro | Q: 23<br/>R: 9 | 1430 **<span style="color: red;">▼ -23</span>** | 1560 **<span style="color: green;">▲ +31</span>** | 1521 **<span style="color: green;">▲ +15</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/>Q: 21<br/>R: 12 |
-| [Round 13: Italian Grand Prix](../seasons/1973-season-report#round-13-italian-grand-prix) | Iso Marlboro | Q: 23<br/>R: DNF | 1411 **<span style="color: red;">▼ -20</span>** | N/A | 1515 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/>Q: 20<br/>R: 16 |
+| [Round 10: Dutch Grand Prix](../seasons/1973-season-report#round-10-dutch-grand-prix) | Iso Marlboro | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> | 1454 **<span style="color: red;">▼&nbsp;`-28`</span>** | 1529 **<span style="color: green;">▲&nbsp;`+38`</span>** | 1506 **<span style="color: green;">▲&nbsp;`+18`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 12: Austrian Grand Prix](../seasons/1973-season-report#round-12-austrian-grand-prix) | Iso Marlboro | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1430 **<span style="color: red;">▼&nbsp;`-23`</span>** | 1560 **<span style="color: green;">▲&nbsp;`+31`</span>** | 1521 **<span style="color: green;">▲&nbsp;`+15`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 13: Italian Grand Prix](../seasons/1973-season-report#round-13-italian-grand-prix) | Iso Marlboro | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1411 **<span style="color: red;">▼&nbsp;`-20`</span>** | N/A | 1515 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> |
 
 ### 1974 Season
 
@@ -104,12 +87,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1560 ↔ 0 | 1390 **<span style="color: red;">▼ -21</span>** | 1509 **<span style="color: red;">▼ -6</span>** |
+| 1560 ↔ 0 | 1390 **<span style="color: red;">▼&nbsp;`-21`</span>** | 1509 **<span style="color: red;">▼&nbsp;`-6`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) (1520)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) (1552)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -21</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) (1552)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-21`</span>**
 
 #### DNF Statistics
 
@@ -119,5 +102,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 5: Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix) | Iso Marlboro | Q: 30<br/>R: 14 | 1390 **<span style="color: red;">▼ -21</span>** | N/A | 1509 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario)<br/>Q: 6<br/>R: DNF |
+| [Round 5: Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix) | Iso Marlboro | <small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1390 **<span style="color: red;">▼&nbsp;`-21`</span>** | N/A | 1509 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

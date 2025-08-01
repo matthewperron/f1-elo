@@ -13,21 +13,12 @@
 
 **DNF Statistics**: 10 DNFs out of 10 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1545
-   *[1954 Round 9 – Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1488
-   *[1954 Round 4 – French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1514
-   *[1954 Round 9 – Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)*
-
-📉 **Lowest Global Elo**: 1496
-   *[1954 Round 4 – French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1545`**<br/><small>[1954 Round 9 – Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)</small></center> | N/A | <center>**`1514`**<br/><small>[1954 Round 9 – Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix)</small></center> |
+| **Lowest** | <center>**`1488`**<br/><small>[1954 Round 4 – French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)</small></center> | N/A | <center>**`1496`**<br/><small>[1954 Round 4 – French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -40,18 +31,18 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1545 **<span style="color: green;">▲ +45</span>** | 1514 **<span style="color: green;">▲ +14</span>** |
+| 1500 ↔ 0 | 1545 **<span style="color: green;">▲&nbsp;`+45`</span>** | 1514 **<span style="color: green;">▲&nbsp;`+14`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) (1517)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) (1505)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲ +23</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra) (1505)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`23`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Paul Frère](paul-frre) (1523)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Paul Frère](paul-frre) (1519)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +12</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Paul Frère](paul-frre) (1519)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`12`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Georges Berger](georges-berger) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Georges Berger](georges-berger) (1488)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +10</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Georges Berger](georges-berger) (1488)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`10`</span>**
 
 #### DNF Statistics
 
@@ -61,8 +52,8 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | Gordini | Q: 18<br/>R: DNF | 1510 **<span style="color: green;">▲ +10</span>** | N/A | 1503 **<span style="color: green;">▲ +3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra)<br/>Q: 17<br/>R: 6 |
-| [Round 9: Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix) | Gordini | Q: 16<br/>R: DNF | 1545 **<span style="color: green;">▲ +35</span>** | N/A | 1514 **<span style="color: green;">▲ +11</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra)<br/>Q: 18<br/>R: DNF |
+| [Round 4: French Grand Prix](../seasons/1954-season-report#round-4-french-grand-prix) | Gordini | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1510 **<span style="color: green;">▲&nbsp;`+10`</span>** | N/A | 1503 **<span style="color: green;">▲&nbsp;`+3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
+| [Round 9: Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix) | Gordini | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1545 **<span style="color: green;">▲&nbsp;`+35`</span>** | N/A | 1514 **<span style="color: green;">▲&nbsp;`+11`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1955 Season
 
@@ -72,21 +63,21 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1509 **<span style="color: red;">▼ -36</span>** | 1503 **<span style="color: red;">▼ -11</span>** |
+| 1500 ↔ 0 | 1509 **<span style="color: red;">▼&nbsp;`-36`</span>** | 1503 **<span style="color: red;">▼&nbsp;`-11`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Élie Bayol](lie-bayol) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Élie Bayol](lie-bayol) (1595)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -14</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Élie Bayol](lie-bayol) (1595)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) (1519)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) (1510)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -37</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) (1510)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-37`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos) (1491)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: red;">▼ -3</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos) (1491)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-3`</span>**
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Lucas](jean-lucas) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Lucas](jean-lucas) (1484)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +16</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Lucas](jean-lucas) (1484)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`16`</span>**
 
 #### DNF Statistics
 
@@ -96,7 +87,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix) | Gordini | Q: 20<br/>R: DNF | 1511 **<span style="color: red;">▼ -20</span>** | N/A | 1504 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Élie Bayol](lie-bayol)<br/>Q: 16<br/>R: DNF |
-| [Round 5: Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix) | Gordini | Q: 12<br/>R: DNF | 1510 **<span style="color: red;">▼ -17</span>** | N/A | 1503 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos)<br/>Q: 14<br/>R: DNF |
-| [Round 7: Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix) | Gordini | Q: 19<br/>R: DNF | 1509 **<span style="color: green;">▲ +16</span>** | N/A | 1503 **<span style="color: green;">▲ +5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos)<br/>Q: 18<br/>R: DNF |
+| [Round 2: Monaco Grand Prix](../seasons/1955-season-report#round-2-monaco-grand-prix) | Gordini | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1511 **<span style="color: red;">▼&nbsp;`-20`</span>** | N/A | 1504 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Élie Bayol](lie-bayol)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 5: Dutch Grand Prix](../seasons/1955-season-report#round-5-dutch-grand-prix) | Gordini | <small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1510 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1503 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 7: Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix) | Gordini | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1509 **<span style="color: green;">▲&nbsp;`+16`</span>** | N/A | 1503 **<span style="color: green;">▲&nbsp;`+5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Hernando da Silva Ramos](hernando-da-silva-ramos)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

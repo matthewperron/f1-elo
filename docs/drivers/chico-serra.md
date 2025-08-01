@@ -13,29 +13,12 @@
 
 **DNF Statistics**: 4 DNFs out of 10 races (40.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1490
-   *[1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)*
-
-📉 **Lowest Qualifying Elo**: 1388
-   *[1983 Round 5 – Monaco Grand Prix](../seasons/1983-season-report#round-5-monaco-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1508
-   *[1981 Round 7 – Spanish Grand Prix](../seasons/1981-season-report#round-7-spanish-grand-prix)*
-
-📉 **Lowest Race Elo**: 1460
-   *[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1497
-   *[1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)*
-
-📉 **Lowest Global Elo**: 1443
-   *[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1490`**<br/><small>[1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)</small></center> | <center>**`1508`**<br/><small>[1981 Round 7 – Spanish Grand Prix](../seasons/1981-season-report#round-7-spanish-grand-prix)</small></center> | <center>**`1497`**<br/><small>[1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)</small></center> |
+| **Lowest** | <center>**`1388`**<br/><small>[1983 Round 5 – Monaco Grand Prix](../seasons/1983-season-report#round-5-monaco-grand-prix)</small></center> | <center>**`1460`**<br/><small>[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1443`**<br/><small>[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -48,12 +31,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1508 **<span style="color: green;">▲ +8</span>** | 1450 **<span style="color: red;">▼ -50</span>** | 1491 **<span style="color: red;">▼ -9</span>** |
+| 1508 **<span style="color: green;">▲&nbsp;`+8`</span>** | 1450 **<span style="color: red;">▼&nbsp;`-50`</span>** | 1491 **<span style="color: red;">▼&nbsp;`-9`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) (1504)**: 1 wins (20.0%) • 1 losses (20.0%) • 3 DNFs (60.0%) • **Elo <span style="color: green;">▲ +8</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) (1837)**: 0 wins (0.0%) • 6 losses (100.0%) • **Elo <span style="color: red;">▼ -49</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) (1504)**: 1 wins (20.0%) • 1 losses (20.0%) • 3 DNFs (60.0%) • **Elo <span style="color: green;">▲&nbsp;+8</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) (1837)**: 0 wins (0.0%) • 6 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
 
 #### DNF Statistics
 
@@ -63,12 +46,12 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west) | Fittipaldi | Q: 18<br/>R: 7 | 1490 **<span style="color: red;">▼ -10</span>** | N/A | 1497 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/>Q: 16<br/>R: DNF |
-| [Round 2: Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) | Fittipaldi | Q: 22<br/>R: 24 | 1480 **<span style="color: red;">▼ -9</span>** | 1469 **<span style="color: red;">▼ -31</span>** | 1473 **<span style="color: red;">▼ -24</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/>Q: 12<br/>R: 9 |
-| [Round 3: Argentine Grand Prix](../seasons/1981-season-report#round-3-argentine-grand-prix) | Fittipaldi | Q: 20<br/>R: DNF | 1472 **<span style="color: red;">▼ -8</span>** | N/A | 1470 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/>Q: 8<br/>R: DNF |
-| [Round 5: Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) | Fittipaldi | Q: 20<br/>R: DNF | 1464 **<span style="color: red;">▼ -8</span>** | N/A | 1468 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/>Q: 11<br/>R: DNF |
-| [Round 7: Spanish Grand Prix](../seasons/1981-season-report#round-7-spanish-grand-prix) | Fittipaldi | Q: 21<br/>R: 11 | 1457 **<span style="color: red;">▼ -7</span>** | 1508 **<span style="color: green;">▲ +39</span>** | 1493 **<span style="color: green;">▲ +25</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/>Q: 15<br/>R: 12 |
-| [Round 8: French Grand Prix](../seasons/1981-season-report#round-8-french-grand-prix) | Fittipaldi | Q: 24<br/>R: DNF | 1450 **<span style="color: red;">▼ -7</span>** | N/A | 1491 **<span style="color: red;">▼ -2</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/>Q: 17<br/>R: DNF |
+| [Round 1: United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west) | Fittipaldi | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1497 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 2: Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) | Fittipaldi | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`24`**</small> | 1480 **<span style="color: red;">▼&nbsp;`-9`</span>** | 1469 **<span style="color: red;">▼&nbsp;`-31`</span>** | 1473 **<span style="color: red;">▼&nbsp;`-24`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 3: Argentine Grand Prix](../seasons/1981-season-report#round-3-argentine-grand-prix) | Fittipaldi | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1472 **<span style="color: red;">▼&nbsp;`-8`</span>** | N/A | 1470 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 5: Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) | Fittipaldi | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1464 **<span style="color: red;">▼&nbsp;`-8`</span>** | N/A | 1468 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/><small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 7: Spanish Grand Prix](../seasons/1981-season-report#round-7-spanish-grand-prix) | Fittipaldi | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1457 **<span style="color: red;">▼&nbsp;`-7`</span>** | 1508 **<span style="color: green;">▲&nbsp;`+39`</span>** | 1493 **<span style="color: green;">▲&nbsp;`+25`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 8: French Grand Prix](../seasons/1981-season-report#round-8-french-grand-prix) | Fittipaldi | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1450 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1983 Season
 
@@ -78,12 +61,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1505 **<span style="color: red;">▼ -3</span>** | 1388 **<span style="color: red;">▼ -62</span>** | 1471 **<span style="color: red;">▼ -20</span>** |
+| 1505 **<span style="color: red;">▼&nbsp;`-3`</span>** | 1388 **<span style="color: red;">▼&nbsp;`-62`</span>** | 1471 **<span style="color: red;">▼&nbsp;`-20`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) (1572)**: 1 wins (25.0%) • 2 losses (50.0%) • 1 DNFs (25.0%) • **Elo <span style="color: red;">▼ -2</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) (1656)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼ -62</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) (1572)**: 1 wins (25.0%) • 2 losses (50.0%) • 1 DNFs (25.0%) • **Elo <span style="color: red;">▼&nbsp;-2</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) (1656)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-62`</span>**
 
 #### DNF Statistics
 
@@ -93,8 +76,8 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix) | Arrows | Q: 23<br/>R: 8 | 1432 **<span style="color: red;">▼ -18</span>** | 1482 **<span style="color: red;">▼ -26</span>** | 1467 **<span style="color: red;">▼ -24</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer)<br/>Q: 20<br/>R: 5 |
-| [Round 3: French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix) | Arrows | Q: 26<br/>R: DNF | 1416 **<span style="color: red;">▼ -17</span>** | N/A | 1462 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer)<br/>Q: 21<br/>R: 10 |
-| [Round 4: San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix) | Arrows | Q: 20<br/>R: 8 | 1401 **<span style="color: red;">▼ -14</span>** | 1460 **<span style="color: red;">▼ -22</span>** | 1443 **<span style="color: red;">▼ -20</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer)<br/>Q: 12<br/>R: 6 |
-| [Round 5: Monaco Grand Prix](../seasons/1983-season-report#round-5-monaco-grand-prix) | Arrows | Q: 15<br/>R: 7 | 1388 **<span style="color: red;">▼ -13</span>** | 1505 **<span style="color: green;">▲ +46</span>** | 1471 **<span style="color: green;">▲ +28</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer)<br/>Q: 12<br/>R: 10 |
+| [Round 1: Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix) | Arrows | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1432 **<span style="color: red;">▼&nbsp;`-18`</span>** | 1482 **<span style="color: red;">▼&nbsp;`-26`</span>** | 1467 **<span style="color: red;">▼&nbsp;`-24`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
+| [Round 3: French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix) | Arrows | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1416 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1462 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
+| [Round 4: San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix) | Arrows | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1401 **<span style="color: red;">▼&nbsp;`-14`</span>** | 1460 **<span style="color: red;">▼&nbsp;`-22`</span>** | 1443 **<span style="color: red;">▼&nbsp;`-20`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
+| [Round 5: Monaco Grand Prix](../seasons/1983-season-report#round-5-monaco-grand-prix) | Arrows | <small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1388 **<span style="color: red;">▼&nbsp;`-13`</span>** | 1505 **<span style="color: green;">▲&nbsp;`+46`</span>** | 1471 **<span style="color: green;">▲&nbsp;`+28`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

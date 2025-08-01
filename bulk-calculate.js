@@ -362,7 +362,7 @@ function formatEloWithDelta(finalElo, eloChange) {
     const color = eloChange > 0 ? 'green' : 'red';
     const sign = eloChange > 0 ? '+' : '';
 
-    return `${finalElo} **<span style="color: ${color};">${arrow} ${sign}${eloChange}</span>**`;
+    return `${finalElo} **<span style="color: ${color};">${arrow}&nbsp;\`${sign}${eloChange}\`</span>**`;
 }
 
 /**
@@ -525,7 +525,7 @@ async function generateComprehensiveDriverFiles() {
 
         // Add peak and low ELO statistics in table format
         content += `### 📊 Peak & Lowest Elo Ratings\n\n`;
-        content += `| Stats | Qualifying | Race | Global |\n`;
+        content += `| &nbsp; | Qualifying | Race | Global |\n`;
         content += `|-------|------------|------|--------|\n`;
 
         // Initialize cells with default values
@@ -550,8 +550,8 @@ async function generateComprehensiveDriverFiles() {
             const qualLowAnchor = qualLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const qualLowLink = `[${qualLowResult.season} Round ${qualLowResult.round} – ${qualLowResult.raceName}](../seasons/${qualLowResult.season}-season-report#${qualLowAnchor})`;
 
-            peakQualCell = `${qualPeakResult.newElo}<br/>${qualPeakLink}`;
-            lowQualCell = `${qualLowResult.newElo}<br/>${qualLowLink}`;
+            peakQualCell = `<center>**\`${qualPeakResult.newElo}\`**<br/><small>${qualPeakLink}</small></center>`;
+            lowQualCell = `<center>**\`${qualLowResult.newElo}\`**<br/><small>${qualLowLink}</small></center>`;
         }
 
         // Populate race cells if data available
@@ -568,8 +568,8 @@ async function generateComprehensiveDriverFiles() {
             const raceLowAnchor = raceLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const raceLowLink = `[${raceLowResult.season} Round ${raceLowResult.round} – ${raceLowResult.raceName}](../seasons/${raceLowResult.season}-season-report#${raceLowAnchor})`;
 
-            peakRaceCell = `${racePeakResult.newElo}<br/>${racePeakLink}`;
-            lowRaceCell = `${raceLowResult.newElo}<br/>${raceLowLink}`;
+            peakRaceCell =  `<center>**\`${racePeakResult.newElo}\`**<br/><small>${racePeakLink}</small></center>`;
+            lowRaceCell =  `<center>**\`${raceLowResult.newElo}\`**<br/><small>${raceLowLink}</small></center>`;
         }
 
         // Populate global cells if data available
@@ -586,8 +586,8 @@ async function generateComprehensiveDriverFiles() {
             const globalLowAnchor = globalLowTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-');
             const globalLowLink = `[${globalLowResult.season} Round ${globalLowResult.round} – ${globalLowResult.raceName}](../seasons/${globalLowResult.season}-season-report#${globalLowAnchor})`;
 
-            peakGlobalCell = `${globalPeakResult.newElo}<br/>${globalPeakLink}`;
-            lowGlobalCell = `${globalLowResult.newElo}<br/>${globalLowLink}`;
+            peakGlobalCell = `<center>**\`${globalPeakResult.newElo}\`**<br/><small>${globalPeakLink}</small></center>`;
+            lowGlobalCell = `<center>**\`${globalLowResult.newElo}\`**<br/><small>${globalLowLink}</small></center>`;
         }
 
         // Add the table rows
@@ -689,8 +689,8 @@ async function generateComprehensiveDriverFiles() {
                     const raceDNFPercent = totalRaces > 0 ? ((raceDNFs / totalRaces) * 100).toFixed(1) : '0.0';
                     const raceEloImpact = Math.round(stats.raceEloImpact);
                     const raceEloFormatted = raceEloImpact === 0 ? '↔ 0' :
-                        raceEloImpact > 0 ? `<span style="color: green;">▲ +${raceEloImpact}</span>` :
-                            `<span style="color: red;">▼ ${raceEloImpact}</span>`;
+                        raceEloImpact > 0 ? `<span style="color: green;">▲&nbsp;+${raceEloImpact}</span>` :
+                            `<span style="color: red;">▼&nbsp;${raceEloImpact}</span>`;
 
                     // Qualifying statistics  
                     const qualWins = stats.qualifying.filter(q => q.type === 'win').length;
@@ -701,8 +701,8 @@ async function generateComprehensiveDriverFiles() {
                     const qualLossPercent = totalQual > 0 ? ((qualLosses / totalQual) * 100).toFixed(1) : '0.0';
                     const qualEloImpact = Math.round(stats.qualEloImpact);
                     const qualEloFormatted = qualEloImpact === 0 ? '↔ 0' :
-                        qualEloImpact > 0 ? `<span style="color: green;">▲ +${qualEloImpact}</span>` :
-                            `<span style="color: red;">▼ ${qualEloImpact}</span>`;
+                        qualEloImpact > 0 ? `<span style="color: green;">▲&nbsp;+\`${qualEloImpact}\`</span>` :
+                            `<span style="color: red;">▼&nbsp;\`${qualEloImpact}\`</span>`;
 
                     content += `- **Races vs ${teammateLink} (${teammateRaceElo})**: ${raceWins} wins (${raceWinPercent}%) • ${raceLosses} losses (${raceLossPercent}%) • ${raceDNFs} DNFs (${raceDNFPercent}%) • **Elo ${raceEloFormatted}**\n`;
                     content += `- **Qualifying vs ${teammateLink} (${teammateQualElo})**: ${qualWins} wins (${qualWinPercent}%) • ${qualLosses} losses (${qualLossPercent}%) • **Elo ${qualEloFormatted}**\n\n`;
@@ -752,7 +752,7 @@ async function generateComprehensiveDriverFiles() {
                 // Build positions string with line breaks
                 const qualPos = raceGroup.qualifying?.position || 'N/A';
                 const racePos = raceGroup.race?.position || 'N/A';
-                const positionsStr = `Q: ${qualPos}<br/>R: ${racePos}`;
+                const positionsStr = `<small>Q:&nbsp;**\`${qualPos}\`**&nbsp;•&nbsp;R:&nbsp;**\`${racePos}\`**</small>`;
 
                 // Format Elo with delta using existing function, or show N/A
                 const formatEloColumn = (sessionData) => {
@@ -796,7 +796,7 @@ async function generateComprehensiveDriverFiles() {
                     }
                 }
 
-                const teammateStr = `${teammateLink}<br/>Q: ${teammateQualPos}<br/>R: ${teammateRacePos}`;
+                const teammateStr = `${teammateLink}<br/><small>Q:&nbsp;**\`${teammateQualPos}\`**&nbsp;•&nbsp;R:&nbsp;**\`${teammateRacePos}\`**</small>`;
 
                 content += `| ${raceLink} | ${raceGroup.constructor} | ${positionsStr} | ${qualEloStr} | ${raceEloStr} | ${globalEloStr} | ${teammateStr} |\n`;
             });

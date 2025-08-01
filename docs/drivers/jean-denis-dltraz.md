@@ -13,21 +13,12 @@
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1465
-   *[1994 Round 16 – Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1426
-   *[1995 Round 14 – European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1490
-   *[1994 Round 16 – Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)*
-
-📉 **Lowest Global Elo**: 1478
-   *[1995 Round 14 – European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1465`**<br/><small>[1994 Round 16 – Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1994 Round 16 – Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix)</small></center> |
+| **Lowest** | <center>**`1426`**<br/><small>[1995 Round 14 – European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)</small></center> | N/A | <center>**`1478`**<br/><small>[1995 Round 14 – European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -40,12 +31,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1465 **<span style="color: red;">▼ -35</span>** | 1490 **<span style="color: red;">▼ -10</span>** |
+| 1500 ↔ 0 | 1465 **<span style="color: red;">▼&nbsp;`-35`</span>** | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda) (1484)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda) (1501)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -35</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda) (1501)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
 
 #### DNF Statistics
 
@@ -55,7 +46,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | Larrousse | Q: 25<br/>R: DNF | 1465 **<span style="color: red;">▼ -35</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda)<br/>Q: 23<br/>R: DNF |
+| [Round 16: Australian Grand Prix](../seasons/1994-season-report#round-16-australian-grand-prix) | Larrousse | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1465 **<span style="color: red;">▼&nbsp;`-35`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Hideki Noda](hideki-noda)<br/><small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1995 Season
 
@@ -65,12 +56,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1426 **<span style="color: red;">▼ -39</span>** | 1478 **<span style="color: red;">▼ -12</span>** |
+| 1500 ↔ 0 | 1426 **<span style="color: red;">▼&nbsp;`-39`</span>** | 1478 **<span style="color: red;">▼&nbsp;`-12`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) (1474)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) (1629)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼ -39</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini) (1629)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
 
 #### DNF Statistics
 
@@ -80,6 +71,6 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 13: Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) | Pacific | Q: 24<br/>R: DNF | 1444 **<span style="color: red;">▼ -21</span>** | N/A | 1484 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini)<br/>Q: 21<br/>R: DNF |
-| [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | Pacific | Q: 24<br/>R: DNF | 1426 **<span style="color: red;">▼ -18</span>** | N/A | 1478 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini)<br/>Q: 20<br/>R: DNF |
+| [Round 13: Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) | Pacific | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1444 **<span style="color: red;">▼&nbsp;`-21`</span>** | N/A | 1484 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 14: European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) | Pacific | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1426 **<span style="color: red;">▼&nbsp;`-18`</span>** | N/A | 1478 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Montermini](andrea-montermini)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

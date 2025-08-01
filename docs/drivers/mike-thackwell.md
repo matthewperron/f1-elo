@@ -13,29 +13,12 @@
 
 **DNF Statistics**: 1 DNFs out of 3 races (33.3%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1498
-   *[1984 Round 7 – Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1464
-   *[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1479
-   *[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
-
-📉 **Lowest Race Elo**: 1464
-   *[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1481
-   *[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
-
-📉 **Lowest Global Elo**: 1464
-   *[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1498`**<br/><small>[1984 Round 7 – Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1479`**<br/><small>[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)</small></center> | <center>**`1481`**<br/><small>[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)</small></center> |
+| **Lowest** | <center>**`1464`**<br/><small>[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)</small></center> | <center>**`1464`**<br/><small>[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)</small></center> | <center>**`1464`**<br/><small>[1980 Round 13 – Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -48,15 +31,15 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1464 **<span style="color: red;">▼ -36</span>** | 1464 **<span style="color: red;">▼ -36</span>** | 1464 **<span style="color: red;">▼ -36</span>** |
+| 1464 **<span style="color: red;">▼&nbsp;`-36`</span>** | 1464 **<span style="color: red;">▼&nbsp;`-36`</span>** | 1464 **<span style="color: red;">▼&nbsp;`-36`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1396)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -21</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1560)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -13</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1396)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-21</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1560)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
 
-- **Races vs [Derek Daly](derek-daly) (1485)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -16</span>**
-- **Qualifying vs [Derek Daly](derek-daly) (1341)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -22</span>**
+- **Races vs [Derek Daly](derek-daly) (1485)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-16</span>**
+- **Qualifying vs [Derek Daly](derek-daly) (1341)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-22`</span>**
 
 #### DNF Statistics
 
@@ -66,7 +49,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 13: Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | Tyrrell | Q: 24<br/>R: 24 | 1464 **<span style="color: red;">▼ -22</span>** | 1464 **<span style="color: red;">▼ -16</span>** | 1464 **<span style="color: red;">▼ -18</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/>Q: 15<br/>R: 7 |
+| [Round 13: Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | Tyrrell | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`24`**</small> | 1464 **<span style="color: red;">▼&nbsp;`-22`</span>** | 1464 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1464 **<span style="color: red;">▼&nbsp;`-18`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
 
 ### 1984 Season
 
@@ -76,12 +59,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1464 ↔ 0 | 1498 **<span style="color: green;">▲ +34</span>** | 1474 **<span style="color: green;">▲ +10</span>** |
+| 1464 ↔ 0 | 1498 **<span style="color: green;">▲&nbsp;`+34`</span>** | 1474 **<span style="color: green;">▲&nbsp;`+10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1455)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲ +34</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1455)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`34`</span>**
 
 #### DNF Statistics
 
@@ -91,5 +74,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix) | RAM | Q: 25<br/>R: DNF | 1498 **<span style="color: green;">▲ +34</span>** | N/A | 1474 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 26<br/>R: 10 |
+| [Round 7: Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix) | RAM | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1498 **<span style="color: green;">▲&nbsp;`+34`</span>** | N/A | 1474 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

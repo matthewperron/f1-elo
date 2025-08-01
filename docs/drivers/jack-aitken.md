@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 0 DNFs out of 1 races (0.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1467
-   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1467
-   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1490
-   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
-
-📉 **Lowest Global Elo**: 1490
-   *[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1467`**<br/><small>[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)</small></center> |
+| **Lowest** | <center>**`1467`**<br/><small>[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1467 **<span style="color: red;">▼ -33</span>** | 1490 **<span style="color: red;">▼ -10</span>** |
+| 1500 ↔ 0 | 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1554)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1523)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -33</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1523)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
 
 #### DNF Statistics
 
@@ -54,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | Williams | Q: 17<br/>R: 16 | 1467 **<span style="color: red;">▼ -33</span>** | N/A | 1490 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi)<br/>Q: 16<br/>R: DNF |
+| [Round 16: Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) | Williams | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

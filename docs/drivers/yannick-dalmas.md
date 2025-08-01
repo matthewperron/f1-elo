@@ -16,29 +16,12 @@
 
 **DNF Statistics**: 6 DNFs out of 20 races (30.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1526
-   *[1987 Round 14 – Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1313
-   *[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)*
-
-### 🏎️ Race Performance
-
-🏆 **Peak Race Elo**: 1593
-   *[1988 Round 14 – Spanish Grand Prix](../seasons/1988-season-report#round-14-spanish-grand-prix)*
-
-📉 **Lowest Race Elo**: 1462
-   *[1987 Round 14 – Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1527
-   *[1988 Round 14 – Spanish Grand Prix](../seasons/1988-season-report#round-14-spanish-grand-prix)*
-
-📉 **Lowest Global Elo**: 1473
-   *[1988 Round 1 – Brazilian Grand Prix](../seasons/1988-season-report#round-1-brazilian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1526`**<br/><small>[1987 Round 14 – Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix)</small></center> | <center>**`1593`**<br/><small>[1988 Round 14 – Spanish Grand Prix](../seasons/1988-season-report#round-14-spanish-grand-prix)</small></center> | <center>**`1527`**<br/><small>[1988 Round 14 – Spanish Grand Prix](../seasons/1988-season-report#round-14-spanish-grand-prix)</small></center> |
+| **Lowest** | <center>**`1313`**<br/><small>[1988 Round 9 – German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix)</small></center> | <center>**`1462`**<br/><small>[1987 Round 14 – Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix)</small></center> | <center>**`1473`**<br/><small>[1988 Round 1 – Brazilian Grand Prix](../seasons/1988-season-report#round-1-brazilian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -51,12 +34,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1495 **<span style="color: red;">▼ -5</span>** | 1449 **<span style="color: red;">▼ -51</span>** | 1481 **<span style="color: red;">▼ -19</span>** |
+| 1495 **<span style="color: red;">▼&nbsp;`-5`</span>** | 1449 **<span style="color: red;">▼&nbsp;`-51`</span>** | 1481 **<span style="color: red;">▼&nbsp;`-19`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1442)**: 1 wins (50.0%) • 1 losses (50.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -5</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1488)**: 1 wins (33.3%) • 2 losses (66.7%) • **Elo <span style="color: red;">▼ -51</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1442)**: 1 wins (50.0%) • 1 losses (50.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-5</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1488)**: 1 wins (33.3%) • 2 losses (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-51`</span>**
 
 #### DNF Statistics
 
@@ -66,9 +49,9 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 14: Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix) | Larrousse | Q: 23<br/>R: 9 | 1526 **<span style="color: green;">▲ +26</span>** | 1462 **<span style="color: red;">▼ -38</span>** | 1481 **<span style="color: red;">▼ -19</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 24<br/>R: 6 |
-| [Round 15: Japanese Grand Prix](../seasons/1987-season-report#round-15-japanese-grand-prix) | Larrousse | Q: 22<br/>R: 14 | 1484 **<span style="color: red;">▼ -42</span>** | 1495 **<span style="color: green;">▲ +33</span>** | 1492 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 18<br/>R: 26 |
-| [Round 16: Australian Grand Prix](../seasons/1987-season-report#round-16-australian-grand-prix) | Larrousse | Q: 21<br/>R: 5 | 1449 **<span style="color: red;">▼ -35</span>** | N/A | 1481 **<span style="color: red;">▼ -10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 17<br/>R: DNF |
+| [Round 14: Mexican Grand Prix](../seasons/1987-season-report#round-14-mexican-grand-prix) | Larrousse | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1526 **<span style="color: green;">▲&nbsp;`+26`</span>** | 1462 **<span style="color: red;">▼&nbsp;`-38`</span>** | 1481 **<span style="color: red;">▼&nbsp;`-19`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
+| [Round 15: Japanese Grand Prix](../seasons/1987-season-report#round-15-japanese-grand-prix) | Larrousse | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1484 **<span style="color: red;">▼&nbsp;`-42`</span>** | 1495 **<span style="color: green;">▲&nbsp;`+33`</span>** | 1492 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`26`**</small> |
+| [Round 16: Australian Grand Prix](../seasons/1987-season-report#round-16-australian-grand-prix) | Larrousse | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1449 **<span style="color: red;">▼&nbsp;`-35`</span>** | N/A | 1481 **<span style="color: red;">▼&nbsp;`-10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1988 Season
 
@@ -78,12 +61,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1593 **<span style="color: green;">▲ +98</span>** | 1373 **<span style="color: red;">▼ -76</span>** | 1527 **<span style="color: green;">▲ +46</span>** |
+| 1593 **<span style="color: green;">▲&nbsp;`+98`</span>** | 1373 **<span style="color: red;">▼&nbsp;`-76`</span>** | 1527 **<span style="color: green;">▲&nbsp;`+46`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1344)**: 5 wins (50.0%) • 0 losses (0.0%) • 5 DNFs (50.0%) • **Elo <span style="color: green;">▲ +98</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1564)**: 2 wins (15.4%) • 11 losses (84.6%) • **Elo <span style="color: red;">▼ -76</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1344)**: 5 wins (50.0%) • 0 losses (0.0%) • 5 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+98</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1564)**: 2 wins (15.4%) • 11 losses (84.6%) • **Elo <span style="color: red;">▼&nbsp;`-76`</span>**
 
 #### DNF Statistics
 
@@ -93,19 +76,19 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Brazilian Grand Prix](../seasons/1988-season-report#round-1-brazilian-grand-prix) | Larrousse | Q: 17<br/>R: DNF | 1421 **<span style="color: red;">▼ -28</span>** | N/A | 1473 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 16<br/>R: DNF |
-| [Round 2: San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix) | Larrousse | Q: 19<br/>R: 12 | 1397 **<span style="color: red;">▼ -23</span>** | 1522 **<span style="color: green;">▲ +27</span>** | 1485 **<span style="color: green;">▲ +12</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 15<br/>R: 17 |
-| [Round 3: Monaco Grand Prix](../seasons/1988-season-report#round-3-monaco-grand-prix) | Larrousse | Q: 21<br/>R: 7 | 1378 **<span style="color: red;">▼ -20</span>** | 1545 **<span style="color: green;">▲ +22</span>** | 1494 **<span style="color: green;">▲ +9</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 13<br/>R: 12 |
-| [Round 4: Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix) | Larrousse | Q: 22<br/>R: 9 | 1361 **<span style="color: red;">▼ -17</span>** | N/A | 1489 **<span style="color: red;">▼ -5</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 13<br/>R: DNF |
-| [Round 6: Detroit Grand Prix](../seasons/1988-season-report#round-6-detroit-grand-prix) | Larrousse | Q: 24<br/>R: 7 | 1347 **<span style="color: red;">▼ -14</span>** | N/A | 1485 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 14<br/>R: DNF |
-| [Round 7: French Grand Prix](../seasons/1988-season-report#round-7-french-grand-prix) | Larrousse | Q: 19<br/>R: 13 | 1334 **<span style="color: red;">▼ -13</span>** | N/A | 1481 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 18<br/>R: DNF |
-| [Round 8: British Grand Prix](../seasons/1988-season-report#round-8-british-grand-prix) | Larrousse | Q: 23<br/>R: 13 | 1323 **<span style="color: red;">▼ -11</span>** | 1563 **<span style="color: green;">▲ +19</span>** | 1491 **<span style="color: green;">▲ +10</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 22<br/>R: 14 |
-| [Round 9: German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix) | Larrousse | Q: 21<br/>R: DNF | 1313 **<span style="color: red;">▼ -10</span>** | N/A | 1488 **<span style="color: red;">▼ -3</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 20<br/>R: 25 |
-| [Round 10: Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix) | Larrousse | Q: 17<br/>R: 9 | 1368 **<span style="color: green;">▲ +55</span>** | 1579 **<span style="color: green;">▲ +16</span>** | 1516 **<span style="color: green;">▲ +28</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 20<br/>R: 12 |
-| [Round 11: Belgian Grand Prix](../seasons/1988-season-report#round-11-belgian-grand-prix) | Larrousse | Q: 23<br/>R: DNF | 1352 **<span style="color: red;">▼ -15</span>** | N/A | 1511 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 16<br/>R: 9 |
-| [Round 12: Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix) | Larrousse | Q: 25<br/>R: DNF | 1339 **<span style="color: red;">▼ -13</span>** | N/A | 1507 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 20<br/>R: DNF |
-| [Round 13: Portuguese Grand Prix](../seasons/1988-season-report#round-13-portuguese-grand-prix) | Larrousse | Q: 15<br/>R: DNF | 1391 **<span style="color: green;">▲ +52</span>** | N/A | 1523 **<span style="color: green;">▲ +16</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 20<br/>R: DNF |
-| [Round 14: Spanish Grand Prix](../seasons/1988-season-report#round-14-spanish-grand-prix) | Larrousse | Q: 16<br/>R: 11 | 1373 **<span style="color: red;">▼ -19</span>** | 1593 **<span style="color: green;">▲ +14</span>** | 1527 **<span style="color: green;">▲ +4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 12<br/>R: 14 |
+| [Round 1: Brazilian Grand Prix](../seasons/1988-season-report#round-1-brazilian-grand-prix) | Larrousse | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1421 **<span style="color: red;">▼&nbsp;`-28`</span>** | N/A | 1473 **<span style="color: red;">▼&nbsp;`-8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 2: San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix) | Larrousse | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1397 **<span style="color: red;">▼&nbsp;`-23`</span>** | 1522 **<span style="color: green;">▲&nbsp;`+27`</span>** | 1485 **<span style="color: green;">▲&nbsp;`+12`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> |
+| [Round 3: Monaco Grand Prix](../seasons/1988-season-report#round-3-monaco-grand-prix) | Larrousse | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1378 **<span style="color: red;">▼&nbsp;`-20`</span>** | 1545 **<span style="color: green;">▲&nbsp;`+22`</span>** | 1494 **<span style="color: green;">▲&nbsp;`+9`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 4: Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix) | Larrousse | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1361 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1489 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 6: Detroit Grand Prix](../seasons/1988-season-report#round-6-detroit-grand-prix) | Larrousse | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1347 **<span style="color: red;">▼&nbsp;`-14`</span>** | N/A | 1485 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 7: French Grand Prix](../seasons/1988-season-report#round-7-french-grand-prix) | Larrousse | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1334 **<span style="color: red;">▼&nbsp;`-13`</span>** | N/A | 1481 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 8: British Grand Prix](../seasons/1988-season-report#round-8-british-grand-prix) | Larrousse | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1323 **<span style="color: red;">▼&nbsp;`-11`</span>** | 1563 **<span style="color: green;">▲&nbsp;`+19`</span>** | 1491 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> |
+| [Round 9: German Grand Prix](../seasons/1988-season-report#round-9-german-grand-prix) | Larrousse | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1313 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1488 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`25`**</small> |
+| [Round 10: Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix) | Larrousse | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1368 **<span style="color: green;">▲&nbsp;`+55`</span>** | 1579 **<span style="color: green;">▲&nbsp;`+16`</span>** | 1516 **<span style="color: green;">▲&nbsp;`+28`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 11: Belgian Grand Prix](../seasons/1988-season-report#round-11-belgian-grand-prix) | Larrousse | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1352 **<span style="color: red;">▼&nbsp;`-15`</span>** | N/A | 1511 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 12: Italian Grand Prix](../seasons/1988-season-report#round-12-italian-grand-prix) | Larrousse | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1339 **<span style="color: red;">▼&nbsp;`-13`</span>** | N/A | 1507 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 13: Portuguese Grand Prix](../seasons/1988-season-report#round-13-portuguese-grand-prix) | Larrousse | <small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1391 **<span style="color: green;">▲&nbsp;`+52`</span>** | N/A | 1523 **<span style="color: green;">▲&nbsp;`+16`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 14: Spanish Grand Prix](../seasons/1988-season-report#round-14-spanish-grand-prix) | Larrousse | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1373 **<span style="color: red;">▼&nbsp;`-19`</span>** | 1593 **<span style="color: green;">▲&nbsp;`+14`</span>** | 1527 **<span style="color: green;">▲&nbsp;`+4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> |
 
 ### 1989 Season
 
@@ -115,12 +98,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1593 ↔ 0 | 1359 **<span style="color: red;">▼ -14</span>** | 1523 **<span style="color: red;">▼ -4</span>** |
+| 1593 ↔ 0 | 1359 **<span style="color: red;">▼&nbsp;`-14`</span>** | 1523 **<span style="color: red;">▼&nbsp;`-4`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1389)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1605)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -14</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1605)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
 
 #### DNF Statistics
 
@@ -130,7 +113,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix) | Larrousse | Q: 26<br/>R: DNF | 1359 **<span style="color: red;">▼ -14</span>** | N/A | 1523 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/>Q: 20<br/>R: DNF |
+| [Round 2: San Marino Grand Prix](../seasons/1989-season-report#round-2-san-marino-grand-prix) | Larrousse | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1359 **<span style="color: red;">▼&nbsp;`-14`</span>** | N/A | 1523 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1990 Season
 
@@ -140,12 +123,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1593 ↔ 0 | 1337 **<span style="color: red;">▼ -22</span>** | 1516 **<span style="color: red;">▼ -7</span>** |
+| 1593 ↔ 0 | 1337 **<span style="color: red;">▼&nbsp;`-22`</span>** | 1516 **<span style="color: red;">▼&nbsp;`-7`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gabriele Tarquini](gabriele-tarquini) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gabriele Tarquini](gabriele-tarquini) (1488)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼ -22</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gabriele Tarquini](gabriele-tarquini) (1488)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-22`</span>**
 
 #### DNF Statistics
 
@@ -155,7 +138,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 14: Spanish Grand Prix](../seasons/1990-season-report#round-14-spanish-grand-prix) | AGS | Q: 23<br/>R: 9 | 1337 **<span style="color: red;">▼ -22</span>** | N/A | 1516 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gabriele Tarquini](gabriele-tarquini)<br/>Q: 22<br/>R: DNF |
+| [Round 14: Spanish Grand Prix](../seasons/1990-season-report#round-14-spanish-grand-prix) | AGS | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1337 **<span style="color: red;">▼&nbsp;`-22`</span>** | N/A | 1516 **<span style="color: red;">▼&nbsp;`-7`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gabriele Tarquini](gabriele-tarquini)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1994 Season
 
@@ -165,12 +148,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1567 **<span style="color: red;">▼ -26</span>** | 1381 **<span style="color: green;">▲ +44</span>** | 1511 **<span style="color: red;">▼ -5</span>** |
+| 1567 **<span style="color: red;">▼&nbsp;`-26`</span>** | 1381 **<span style="color: green;">▲&nbsp;`+44`</span>** | 1511 **<span style="color: red;">▼&nbsp;`-5`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1686)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼ -26</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1654)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲ +45</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1686)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-26</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1654)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`45`</span>**
 
 #### DNF Statistics
 
@@ -180,6 +163,6 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 12: Italian Grand Prix](../seasons/1994-season-report#round-12-italian-grand-prix) | Larrousse | Q: 23<br/>R: 21 | 1394 **<span style="color: green;">▲ +57</span>** | 1567 **<span style="color: red;">▼ -26</span>** | 1515 **<span style="color: red;">▼ -1</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas)<br/>Q: 24<br/>R: 8 |
-| [Round 13: Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix) | Larrousse | Q: 23<br/>R: 14 | 1381 **<span style="color: red;">▼ -12</span>** | N/A | 1511 **<span style="color: red;">▼ -4</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas)<br/>Q: 22<br/>R: DNF |
+| [Round 12: Italian Grand Prix](../seasons/1994-season-report#round-12-italian-grand-prix) | Larrousse | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`21`**</small> | 1394 **<span style="color: green;">▲&nbsp;`+57`</span>** | 1567 **<span style="color: red;">▼&nbsp;`-26`</span>** | 1515 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas)<br/><small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
+| [Round 13: Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix) | Larrousse | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1381 **<span style="color: red;">▼&nbsp;`-12`</span>** | N/A | 1511 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

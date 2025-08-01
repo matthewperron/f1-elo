@@ -12,21 +12,12 @@
 
 **DNF Statistics**: 3 DNFs out of 3 races (100.0%)
 
-### 🏁 Qualifying Performance
+### 📊 Peak & Lowest Elo Ratings
 
-🏆 **Peak Qualifying Elo**: 1472
-   *[1982 Round 4 – San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix)*
-
-📉 **Lowest Qualifying Elo**: 1429
-   *[1982 Round 8 – Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
-
-### 🌟 Global Performance
-
-🏆 **Peak Global Elo**: 1492
-   *[1982 Round 4 – San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix)*
-
-📉 **Lowest Global Elo**: 1479
-   *[1982 Round 8 – Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)*
+| &nbsp; | Qualifying | Race | Global |
+|-------|------------|------|--------|
+| **Peak** | <center>**`1472`**<br/><small>[1982 Round 4 – San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix)</small></center> | N/A | <center>**`1492`**<br/><small>[1982 Round 4 – San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix)</small></center> |
+| **Lowest** | <center>**`1429`**<br/><small>[1982 Round 8 – Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)</small></center> | N/A | <center>**`1479`**<br/><small>[1982 Round 8 – Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix)</small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +30,12 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1500 ↔ 0 | 1429 **<span style="color: red;">▼ -71</span>** | 1479 **<span style="color: red;">▼ -21</span>** |
+| 1500 ↔ 0 | 1429 **<span style="color: red;">▼&nbsp;`-71`</span>** | 1479 **<span style="color: red;">▼&nbsp;`-21`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1435)**: 0 wins (0.0%) • 0 losses (0.0%) • 3 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1612)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼ -70</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1612)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-70`</span>**
 
 #### DNF Statistics
 
@@ -54,7 +45,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix) | Osella | Q: 13<br/>R: DNF | 1472 **<span style="color: red;">▼ -28</span>** | N/A | 1492 **<span style="color: red;">▼ -8</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/>Q: 9<br/>R: 4 |
-| [Round 7: Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix) | Osella | Q: 23<br/>R: DNF | 1449 **<span style="color: red;">▼ -23</span>** | N/A | 1485 **<span style="color: red;">▼ -7</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/>Q: 22<br/>R: DNF |
-| [Round 8: Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix) | Osella | Q: 23<br/>R: DNF | 1429 **<span style="color: red;">▼ -19</span>** | N/A | 1479 **<span style="color: red;">▼ -6</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/>Q: 18<br/>R: DNF |
+| [Round 4: San Marino Grand Prix](../seasons/1982-season-report#round-4-san-marino-grand-prix) | Osella | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1472 **<span style="color: red;">▼&nbsp;`-28`</span>** | N/A | 1492 **<span style="color: red;">▼&nbsp;`-8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/><small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
+| [Round 7: Detroit Grand Prix](../seasons/1982-season-report#round-7-detroit-grand-prix) | Osella | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1449 **<span style="color: red;">▼&nbsp;`-23`</span>** | N/A | 1485 **<span style="color: red;">▼&nbsp;`-7`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 8: Canadian Grand Prix](../seasons/1982-season-report#round-8-canadian-grand-prix) | Osella | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1429 **<span style="color: red;">▼&nbsp;`-19`</span>** | N/A | 1479 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
