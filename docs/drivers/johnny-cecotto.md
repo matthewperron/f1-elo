@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1537`**<br/><small>[1983 Round 3 – French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix)</small></center> | <center>**`1580`**<br/><small>[1983 Round 13 – Italian Grand Prix](../seasons/1983-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1540`**<br/><small>[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)</small></center> |
-| **Lowest** | <center>**`1342`**<br/><small>[1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)</small></center> | <center>**`1509`**<br/><small>[1984 Round 7 – Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1459`**<br/><small>[1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)</small></center> |
+| **Peak** | <center> 1537 <br/><small> [1983 Round 3 – French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix) </small></center> | <center> 1580 <br/><small> [1983 Round 13 – Italian Grand Prix](../seasons/1983-season-report#round-13-italian-grand-prix) </small></center> | <center> 1540  <br/><small> [1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix) </small></center> |
+| **Lowest** | <center> 1342 <br/><small> [1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix) </small></center> | <center> 1509 <br/><small> [1984 Round 7 – Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1459 <br/><small> [1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Roberto Guerrero](roberto-guerrero) (1420)**: 3 wins (60.0%) • 0 losses (0.0%) • 2 DNFs (40.0%) • **Elo <span style="color: green;">▲&nbsp;+`80`</span>**
-- **Qualifying vs [Roberto Guerrero](roberto-guerrero) (1561)**: 3 wins (33.3%) • 6 losses (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-61`</span>**
+- **Races vs [Roberto Guerrero](roberto-guerrero) `1420`**: **`3`** wins <small>`60.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`2`** DNFs <small>`40.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+80`</span>**
+- **Qualifying vs [Roberto Guerrero](roberto-guerrero) `1561`**: **`3`** wins <small>`33.3%`</small> • **`6`** losses <small>`66.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-61`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 9 races (22.2%)
+- **DNFs**: `2` out of `9` races <small>`22.2%`</small>
 
 #### Detailed Results
 
@@ -68,12 +68,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1571)**: 0 wins (0.0%) • 2 losses (28.6%) • 5 DNFs (71.4%) • **Elo <span style="color: red;">▼&nbsp;`-71`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1597)**: 1 wins (12.5%) • 7 losses (87.5%) • **Elo <span style="color: red;">▼&nbsp;`-98`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) `1571`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`28.6%`</small> • **`5`** DNFs <small>`71.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-71`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) `1597`**: **`1`** wins <small>`12.5%`</small> • **`7`** losses <small>`87.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-98`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 8 races (62.5%)
+- **DNFs**: `5` out of `8` races <small>`62.5%`</small>
 
 #### Detailed Results
 

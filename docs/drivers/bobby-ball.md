@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1533`**<br/><small>[1951 Round 2 – Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)</small></center> | N/A | <center>**`1510`**<br/><small>[1951 Round 2 – Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500)</small></center> |
-| **Lowest** | <center>**`1497`**<br/><small>[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)</small></center> | N/A | <center>**`1499`**<br/><small>[1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500)</small></center> |
+| **Peak** | <center> 1533 <br/><small> [1951 Round 2 – Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) </small></center> | N/A | <center> 1510  <br/><small> [1951 Round 2 – Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) </small></center> |
+| **Lowest** | <center> 1497 <br/><small> [1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) </small></center> | N/A | <center> 1499 <br/><small> [1952 Round 2 – Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duke Dinsmore](duke-dinsmore) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duke Dinsmore](duke-dinsmore) (1479)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`33`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duke Dinsmore](duke-dinsmore) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duke Dinsmore](duke-dinsmore) `1479`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+33`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -60,12 +60,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Schindler](bill-schindler) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Schindler](bill-schindler) (1522)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Schindler](bill-schindler) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Schindler](bill-schindler) `1522`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 1 races (100.0%)
+- **DNFs**: `1` out of `1` races <small>`100.0%`</small>
 
 #### Detailed Results
 

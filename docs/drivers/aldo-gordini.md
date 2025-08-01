@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1531`**<br/><small>[1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)</small></center> | N/A | <center>**`1509`**<br/><small>[1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)</small></center> |
-| **Lowest** | <center>**`1509`**<br/><small>[1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)</small></center> | N/A | <center>**`1503`**<br/><small>[1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix)</small></center> |
+| **Peak** | <center> 1531 <br/><small> [1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix) </small></center> | N/A | <center> 1509  <br/><small> [1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix) </small></center> |
+| **Lowest** | <center> 1509 <br/><small> [1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix) </small></center> | N/A | <center> 1503 <br/><small> [1951 Round 4 – French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,18 +34,18 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Maurice Trintignant](maurice-trintignant) (1468)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Maurice Trintignant](maurice-trintignant) (1433)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`9`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Maurice Trintignant](maurice-trintignant) `1468`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Maurice Trintignant](maurice-trintignant) `1433`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+9`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> André Simon](andr-simon) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> André Simon](andr-simon) (1490)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`10`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> André Simon](andr-simon) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> André Simon](andr-simon) `1490`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+10`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) (1532)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) (1546)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`12`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) `1532`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Robert Manzon](robert-manzon) `1546`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+12`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 3 races (100.0%)
+- **DNFs**: `3` out of `3` races <small>`100.0%`</small>
 
 #### Detailed Results
 

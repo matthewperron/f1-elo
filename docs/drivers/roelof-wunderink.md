@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1486`**<br/><small>[1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)</small></center> | <center>**`1478`**<br/><small>[1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)</small></center> | <center>**`1480`**<br/><small>[1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1486`**<br/><small>[1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)</small></center> | <center>**`1478`**<br/><small>[1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)</small></center> | <center>**`1480`**<br/><small>[1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix)</small></center> |
+| **Peak** | <center> 1486 <br/><small> [1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) </small></center> | <center> 1478 <br/><small> [1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) </small></center> | <center> 1480  <br/><small> [1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) </small></center> |
+| **Lowest** | <center> 1486 <br/><small> [1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) </small></center> | <center> 1478 <br/><small> [1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) </small></center> | <center> 1480 <br/><small> [1975 Round 12 – Austrian Grand Prix](../seasons/1975-season-report#round-12-austrian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) (1636)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-22`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) (1729)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) `1636`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-22`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Chris Amon](chris-amon) `1729`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 

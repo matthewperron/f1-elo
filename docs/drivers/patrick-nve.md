@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1545`**<br/><small>[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)</small></center> | <center>**`1542`**<br/><small>[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)</small></center> | <center>**`1543`**<br/><small>[1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1469`**<br/><small>[1977 Round 15 – United States Grand Prix](../seasons/1977-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1475`**<br/><small>[1977 Round 5 – Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1488`**<br/><small>[1977 Round 5 – Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix)</small></center> |
+| **Peak** | <center> 1545 <br/><small> [1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix) </small></center> | <center> 1542 <br/><small> [1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix) </small></center> | <center> 1543  <br/><small> [1977 Round 12 – Austrian Grand Prix](../seasons/1977-season-report#round-12-austrian-grand-prix) </small></center> |
+| **Lowest** | <center> 1469 <br/><small> [1977 Round 15 – United States Grand Prix](../seasons/1977-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1475 <br/><small> [1977 Round 5 – Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1488 <br/><small> [1977 Round 5 – Spanish Grand Prix](../seasons/1977-season-report#round-5-spanish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Loris Kessel](loris-kessel) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Loris Kessel](loris-kessel) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Loris Kessel](loris-kessel) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Loris Kessel](loris-kessel) `1468`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+32`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 1 races (100.0%)
+- **DNFs**: `1` out of `1` races <small>`100.0%`</small>
 
 #### Detailed Results
 
@@ -60,24 +60,24 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](brett-lunger) (1433)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](brett-lunger) (1361)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`6`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](brett-lunger) `1433`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Brett Lunger](brett-lunger) `1361`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+6`</span>**
 
-- **Races vs [Ian Scheckter](ian-scheckter) (1407)**: 4 wins (66.7%) • 1 losses (16.7%) • 1 DNFs (16.7%) • **Elo <span style="color: green;">▲&nbsp;+`42`</span>**
-- **Qualifying vs [Ian Scheckter](ian-scheckter) (1527)**: 2 wins (25.0%) • 6 losses (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-40`</span>**
+- **Races vs [Ian Scheckter](ian-scheckter) `1407`**: **`4`** wins <small>`66.7%`</small> • **`1`** losses <small>`16.7%`</small> • **`1`** DNFs <small>`16.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+42`</span>**
+- **Qualifying vs [Ian Scheckter](ian-scheckter) `1527`**: **`2`** wins <small>`25.0%`</small> • **`6`** losses <small>`75.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-40`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) (1523)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`12`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) (1633)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) `1523`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+12`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) `1633`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Boy Lunger](boy-lunger) (1489)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`11`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Boy Lunger](boy-lunger) (1454)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`9`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Boy Lunger](boy-lunger) `1489`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+11`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Boy Lunger](boy-lunger) `1454`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+9`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro](alex-ribeiro) (1512)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro](alex-ribeiro) (1419)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-5`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro](alex-ribeiro) `1512`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Alex Ribeiro](alex-ribeiro) `1419`**: **`1`** wins <small>`50.0%`</small> • **`1`** losses <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-5`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 15 races (13.3%)
+- **DNFs**: `2` out of `15` races <small>`13.3%`</small>
 
 #### Detailed Results
 

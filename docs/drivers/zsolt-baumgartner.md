@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1518`**<br/><small>[2004 Round 8 – Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix)</small></center> | <center>**`1491`**<br/><small>[2004 Round 18 – Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix)</small></center> | <center>**`1496`**<br/><small>[2003 Round 13 – Hungarian Grand Prix](../seasons/2003-season-report#round-13-hungarian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1371`**<br/><small>[2004 Round 17 – Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1405`**<br/><small>[2004 Round 7 – European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix)</small></center> | <center>**`1418`**<br/><small>[2004 Round 5 – Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix)</small></center> |
+| **Peak** | <center> 1518 <br/><small> [2004 Round 8 – Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix) </small></center> | <center> 1491 <br/><small> [2004 Round 18 – Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix) </small></center> | <center> 1496  <br/><small> [2003 Round 13 – Hungarian Grand Prix](../seasons/2003-season-report#round-13-hungarian-grand-prix) </small></center> |
+| **Lowest** | <center> 1371 <br/><small> [2004 Round 17 – Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1405 <br/><small> [2004 Round 7 – European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix) </small></center> | <center> 1418 <br/><small> [2004 Round 5 – Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1670)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1760)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-25`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1670`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1760`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-25`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 2 races (50.0%)
+- **DNFs**: `1` out of `2` races <small>`50.0%`</small>
 
 #### Detailed Results
 
@@ -61,12 +61,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianmaria Bruni](gianmaria-bruni) (1490)**: 4 wins (30.8%) • 6 losses (46.2%) • 3 DNFs (23.1%) • **Elo <span style="color: green;">▲&nbsp;+`10`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianmaria Bruni](gianmaria-bruni) (1553)**: 6 wins (33.3%) • 12 losses (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-54`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianmaria Bruni](gianmaria-bruni) `1490`**: **`4`** wins <small>`30.8%`</small> • **`6`** losses <small>`46.2%`</small> • **`3`** DNFs <small>`23.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+10`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianmaria Bruni](gianmaria-bruni) `1553`**: **`6`** wins <small>`33.3%`</small> • **`12`** losses <small>`66.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-54`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 18 races (16.7%)
+- **DNFs**: `3` out of `18` races <small>`16.7%`</small>
 
 #### Detailed Results
 

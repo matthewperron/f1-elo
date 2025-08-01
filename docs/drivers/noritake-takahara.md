@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1478`**<br/><small>[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1472`**<br/><small>[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1474`**<br/><small>[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)</small></center> |
-| **Lowest** | <center>**`1446`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1443`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1444`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> |
+| **Peak** | <center> 1478 <br/><small> [1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) </small></center> | <center> 1472 <br/><small> [1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) </small></center> | <center> 1474  <br/><small> [1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) </small></center> |
+| **Lowest** | <center> 1446 <br/><small> [1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1443 <br/><small> [1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1444 <br/><small> [1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) (1567)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) (1632)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-22`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) `1567`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Alan Jones](alan-jones) `1632`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-22`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -60,12 +60,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kazuyoshi Hoshino](kazuyoshi-hoshino) (1529)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kazuyoshi Hoshino](kazuyoshi-hoshino) (1509)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kazuyoshi Hoshino](kazuyoshi-hoshino) `1529`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kazuyoshi Hoshino](kazuyoshi-hoshino) `1509`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 

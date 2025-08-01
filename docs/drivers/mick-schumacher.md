@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1671`**<br/><small>[2021 Round 22 – Abu Dhabi Grand Prix](../seasons/2021-season-report#round-22-abu-dhabi-grand-prix)</small></center> | <center>**`1673`**<br/><small>[2022 Round 13 – Hungarian Grand Prix](../seasons/2022-season-report#round-13-hungarian-grand-prix)</small></center> | <center>**`1630`**<br/><small>[2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)</small></center> |
-| **Lowest** | <center>**`1472`**<br/><small>[2022 Round 11 – Austrian Grand Prix](../seasons/2022-season-report#round-11-austrian-grand-prix)</small></center> | <center>**`1498`**<br/><small>[2022 Round 1 – Bahrain Grand Prix](../seasons/2022-season-report#round-1-bahrain-grand-prix)</small></center> | <center>**`1525`**<br/><small>[2022 Round 2 – Saudi Arabian Grand Prix](../seasons/2022-season-report#round-2-saudi-arabian-grand-prix)</small></center> |
+| **Peak** | <center> 1671 <br/><small> [2021 Round 22 – Abu Dhabi Grand Prix](../seasons/2021-season-report#round-22-abu-dhabi-grand-prix) </small></center> | <center> 1673 <br/><small> [2022 Round 13 – Hungarian Grand Prix](../seasons/2022-season-report#round-13-hungarian-grand-prix) </small></center> | <center> 1630  <br/><small> [2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix) </small></center> |
+| **Lowest** | <center> 1472 <br/><small> [2022 Round 11 – Austrian Grand Prix](../seasons/2022-season-report#round-11-austrian-grand-prix) </small></center> | <center> 1498 <br/><small> [2022 Round 1 – Bahrain Grand Prix](../seasons/2022-season-report#round-1-bahrain-grand-prix) </small></center> | <center> 1525 <br/><small> [2022 Round 2 – Saudi Arabian Grand Prix](../seasons/2022-season-report#round-2-saudi-arabian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Nikita Mazepin](nikita-mazepin) (1482)**: 13 wins (68.4%) • 5 losses (26.3%) • 1 DNFs (5.3%) • **Elo <span style="color: green;">▲&nbsp;+`19`</span>**
-- **Qualifying vs [Nikita Mazepin](nikita-mazepin) (1329)**: 19 wins (86.4%) • 3 losses (13.6%) • **Elo <span style="color: green;">▲&nbsp;+`170`</span>**
+- **Races vs [Nikita Mazepin](nikita-mazepin) `1482`**: **`13`** wins <small>`68.4%`</small> • **`5`** losses <small>`26.3%`</small> • **`1`** DNFs <small>`5.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+19`</span>**
+- **Qualifying vs [Nikita Mazepin](nikita-mazepin) `1329`**: **`19`** wins <small>`86.4%`</small> • **`3`** losses <small>`13.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+170`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 22 races (4.5%)
+- **DNFs**: `1` out of `22` races <small>`4.5%`</small>
 
 #### Detailed Results
 
@@ -81,12 +81,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1522)**: 11 wins (57.9%) • 6 losses (31.6%) • 2 DNFs (10.5%) • **Elo <span style="color: green;">▲&nbsp;+`128`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1603)**: 7 wins (31.8%) • 15 losses (68.2%) • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) `1522`**: **`11`** wins <small>`57.9%`</small> • **`6`** losses <small>`31.6%`</small> • **`2`** DNFs <small>`10.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+128`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) `1603`**: **`7`** wins <small>`31.8%`</small> • **`15`** losses <small>`68.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 22 races (9.1%)
+- **DNFs**: `2` out of `22` races <small>`9.1%`</small>
 
 #### Detailed Results
 

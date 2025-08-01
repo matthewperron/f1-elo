@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1491`**<br/><small>[1986 Round 1 – Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)</small></center> | <center>**`1482`**<br/><small>[1986 Round 1 – Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)</small></center> | <center>**`1485`**<br/><small>[1986 Round 1 – Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1411`**<br/><small>[1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)</small></center> | <center>**`1430`**<br/><small>[1986 Round 11 – Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)</small></center> | <center>**`1424`**<br/><small>[1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)</small></center> |
+| **Peak** | <center> 1491 <br/><small> [1986 Round 1 – Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix) </small></center> | <center> 1482 <br/><small> [1986 Round 1 – Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix) </small></center> | <center> 1485  <br/><small> [1986 Round 1 – Brazilian Grand Prix](../seasons/1986-season-report#round-1-brazilian-grand-prix) </small></center> |
+| **Lowest** | <center> 1411 <br/><small> [1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix) </small></center> | <center> 1430 <br/><small> [1986 Round 11 – Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix) </small></center> | <center> 1424 <br/><small> [1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1731)**: 0 wins (0.0%) • 5 losses (41.7%) • 7 DNFs (58.3%) • **Elo <span style="color: red;">▼&nbsp;`-71`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1896)**: 0 wins (0.0%) • 15 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-89`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) `1731`**: **`0`** wins <small>`0.0%`</small> • **`5`** losses <small>`41.7%`</small> • **`7`** DNFs <small>`58.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-71`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) `1896`**: **`0`** wins <small>`0.0%`</small> • **`15`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-89`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 15 races (46.7%)
+- **DNFs**: `7` out of `15` races <small>`46.7%`</small>
 
 #### Detailed Results
 

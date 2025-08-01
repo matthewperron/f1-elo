@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1487`**<br/><small>[2006 Round 2 – Malaysian Grand Prix](../seasons/2006-season-report#round-2-malaysian-grand-prix)</small></center> | <center>**`1591`**<br/><small>[2007 Round 5 – Monaco Grand Prix](../seasons/2007-season-report#round-5-monaco-grand-prix)</small></center> | <center>**`1531`**<br/><small>[2007 Round 10 – European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix)</small></center> |
-| **Lowest** | <center>**`1317`**<br/><small>[2006 Round 9 – Canadian Grand Prix](../seasons/2006-season-report#round-9-canadian-grand-prix)</small></center> | <center>**`1449`**<br/><small>[2006 Round 8 – British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)</small></center> | <center>**`1413`**<br/><small>[2006 Round 8 – British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)</small></center> |
+| **Peak** | <center> 1487 <br/><small> [2006 Round 2 – Malaysian Grand Prix](../seasons/2006-season-report#round-2-malaysian-grand-prix) </small></center> | <center> 1591 <br/><small> [2007 Round 5 – Monaco Grand Prix](../seasons/2007-season-report#round-5-monaco-grand-prix) </small></center> | <center> 1531  <br/><small> [2007 Round 10 – European Grand Prix](../seasons/2007-season-report#round-10-european-grand-prix) </small></center> |
+| **Lowest** | <center> 1317 <br/><small> [2006 Round 9 – Canadian Grand Prix](../seasons/2006-season-report#round-9-canadian-grand-prix) </small></center> | <center> 1449 <br/><small> [2006 Round 8 – British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix) </small></center> | <center> 1413 <br/><small> [2006 Round 8 – British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1454)**: 8 wins (44.4%) • 7 losses (38.9%) • 3 DNFs (16.7%) • **Elo <span style="color: green;">▲&nbsp;+`46`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1477)**: 6 wins (33.3%) • 12 losses (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-93`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) `1454`**: **`8`** wins <small>`44.4%`</small> • **`7`** losses <small>`38.9%`</small> • **`3`** DNFs <small>`16.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+46`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) `1477`**: **`6`** wins <small>`33.3%`</small> • **`12`** losses <small>`66.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-93`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 18 races (16.7%)
+- **DNFs**: `3` out of `18` races <small>`16.7%`</small>
 
 #### Detailed Results
 
@@ -77,12 +77,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1434)**: 3 wins (42.9%) • 1 losses (14.3%) • 3 DNFs (42.9%) • **Elo <span style="color: green;">▲&nbsp;+`21`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1435)**: 4 wins (40.0%) • 6 losses (60.0%) • **Elo <span style="color: green;">▲&nbsp;+`41`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) `1434`**: **`3`** wins <small>`42.9%`</small> • **`1`** losses <small>`14.3%`</small> • **`3`** DNFs <small>`42.9%`</small> • **Elo <span style="color: green;">▲&nbsp;`+21`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) `1435`**: **`4`** wins <small>`40.0%`</small> • **`6`** losses <small>`60.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+41`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 10 races (30.0%)
+- **DNFs**: `3` out of `10` races <small>`30.0%`</small>
 
 #### Detailed Results
 

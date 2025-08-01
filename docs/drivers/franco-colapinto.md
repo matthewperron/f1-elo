@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1538`**<br/><small>[2024 Round 17 – Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix)</small></center> | <center>**`1546`**<br/><small>[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)</small></center> | <center>**`1530`**<br/><small>[2024 Round 19 – United States Grand Prix](../seasons/2024-season-report#round-19-united-states-grand-prix)</small></center> |
-| **Lowest** | <center>**`1412`**<br/><small>[2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix)</small></center> | <center>**`1485`**<br/><small>[2024 Round 17 – Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix)</small></center> | <center>**`1474`**<br/><small>[2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix)</small></center> |
+| **Peak** | <center> 1538 <br/><small> [2024 Round 17 – Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix) </small></center> | <center> 1546 <br/><small> [2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix) </small></center> | <center> 1530  <br/><small> [2024 Round 19 – United States Grand Prix](../seasons/2024-season-report#round-19-united-states-grand-prix) </small></center> |
+| **Lowest** | <center> 1412 <br/><small> [2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix) </small></center> | <center> 1485 <br/><small> [2024 Round 17 – Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix) </small></center> | <center> 1474 <br/><small> [2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1797)**: 1 wins (16.7%) • 2 losses (33.3%) • 3 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`42`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1778)**: 1 wins (11.1%) • 8 losses (88.9%) • **Elo <span style="color: red;">▼&nbsp;`-53`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) `1797`**: **`1`** wins <small>`16.7%`</small> • **`2`** losses <small>`33.3%`</small> • **`3`** DNFs <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+42`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) `1778`**: **`1`** wins <small>`11.1%`</small> • **`8`** losses <small>`88.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-53`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 9 races (33.3%)
+- **DNFs**: `3` out of `9` races <small>`33.3%`</small>
 
 #### Detailed Results
 
@@ -68,12 +68,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1677)**: 1 wins (16.7%) • 4 losses (66.7%) • 1 DNFs (16.7%) • **Elo <span style="color: red;">▼&nbsp;`-40`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1709)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) `1677`**: **`1`** wins <small>`16.7%`</small> • **`4`** losses <small>`66.7%`</small> • **`1`** DNFs <small>`16.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-40`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) `1709`**: **`1`** wins <small>`14.3%`</small> • **`6`** losses <small>`85.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 7 races (14.3%)
+- **DNFs**: `1` out of `7` races <small>`14.3%`</small>
 
 #### Detailed Results
 

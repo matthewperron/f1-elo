@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1481`**<br/><small>[1972 Round 1 – Argentine Grand Prix](../seasons/1972-season-report#round-1-argentine-grand-prix)</small></center> | <center>**`1487`**<br/><small>[1972 Round 2 – South African Grand Prix](../seasons/1972-season-report#round-2-south-african-grand-prix)</small></center> | <center>**`1494`**<br/><small>[1972 Round 1 – Argentine Grand Prix](../seasons/1972-season-report#round-1-argentine-grand-prix)</small></center> |
-| **Lowest** | <center>**`1408`**<br/><small>[1972 Round 7 – British Grand Prix](../seasons/1972-season-report#round-7-british-grand-prix)</small></center> | <center>**`1427`**<br/><small>[1972 Round 5 – Belgian Grand Prix](../seasons/1972-season-report#round-5-belgian-grand-prix)</small></center> | <center>**`1421`**<br/><small>[1972 Round 7 – British Grand Prix](../seasons/1972-season-report#round-7-british-grand-prix)</small></center> |
+| **Peak** | <center> 1481 <br/><small> [1972 Round 1 – Argentine Grand Prix](../seasons/1972-season-report#round-1-argentine-grand-prix) </small></center> | <center> 1487 <br/><small> [1972 Round 2 – South African Grand Prix](../seasons/1972-season-report#round-2-south-african-grand-prix) </small></center> | <center> 1494  <br/><small> [1972 Round 1 – Argentine Grand Prix](../seasons/1972-season-report#round-1-argentine-grand-prix) </small></center> |
+| **Lowest** | <center> 1408 <br/><small> [1972 Round 7 – British Grand Prix](../seasons/1972-season-report#round-7-british-grand-prix) </small></center> | <center> 1427 <br/><small> [1972 Round 5 – Belgian Grand Prix](../seasons/1972-season-report#round-5-belgian-grand-prix) </small></center> | <center> 1421 <br/><small> [1972 Round 7 – British Grand Prix](../seasons/1972-season-report#round-7-british-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,18 +34,18 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) (1639)**: 0 wins (0.0%) • 4 losses (40.0%) • 6 DNFs (60.0%) • **Elo <span style="color: red;">▼&nbsp;`-74`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) (1784)**: 0 wins (0.0%) • 10 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-96`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) `1639`**: **`0`** wins <small>`0.0%`</small> • **`4`** losses <small>`40.0%`</small> • **`6`** DNFs <small>`60.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-74`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Emerson Fittipaldi](emerson-fittipaldi) `1784`**: **`0`** wins <small>`0.0%`</small> • **`10`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-96`</span>**
 
-- **Races vs [Dave Charlton](dave-charlton) (1501)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Dave Charlton](dave-charlton) (1510)**: 2 wins (66.7%) • 1 losses (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`29`</span>**
+- **Races vs [Dave Charlton](dave-charlton) `1501`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`2`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [Dave Charlton](dave-charlton) `1510`**: **`2`** wins <small>`66.7%`</small> • **`1`** losses <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+29`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Reine Wisell](reine-wisell) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Reine Wisell](reine-wisell) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Reine Wisell](reine-wisell) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Reine Wisell](reine-wisell) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 9 out of 14 races (64.3%)
+- **DNFs**: `9` out of `14` races <small>`64.3%`</small>
 
 #### Detailed Results
 

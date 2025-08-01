@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1497`**<br/><small>[2023 Round 15 – Singapore Grand Prix](../seasons/2023-season-report#round-15-singapore-grand-prix)</small></center> | <center>**`1568`**<br/><small>[2023 Round 16 – Japanese Grand Prix](../seasons/2023-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1538`**<br/><small>[2023 Round 16 – Japanese Grand Prix](../seasons/2023-season-report#round-16-japanese-grand-prix)</small></center> |
-| **Lowest** | <center>**`1305`**<br/><small>[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)</small></center> | <center>**`1344`**<br/><small>[2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix)</small></center> | <center>**`1334`**<br/><small>[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)</small></center> |
+| **Peak** | <center> 1497 <br/><small> [2023 Round 15 – Singapore Grand Prix](../seasons/2023-season-report#round-15-singapore-grand-prix) </small></center> | <center> 1568 <br/><small> [2023 Round 16 – Japanese Grand Prix](../seasons/2023-season-report#round-16-japanese-grand-prix) </small></center> | <center> 1538  <br/><small> [2023 Round 16 – Japanese Grand Prix](../seasons/2023-season-report#round-16-japanese-grand-prix) </small></center> |
+| **Lowest** | <center> 1305 <br/><small> [2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix) </small></center> | <center> 1344 <br/><small> [2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix) </small></center> | <center> 1334 <br/><small> [2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1529)**: 2 wins (66.7%) • 1 losses (33.3%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`28`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1610)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo <span style="color: red;">▼&nbsp;`-51`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) `1529`**: **`2`** wins <small>`66.7%`</small> • **`1`** losses <small>`33.3%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+28`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) `1610`**: **`1`** wins <small>`20.0%`</small> • **`4`** losses <small>`80.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-51`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 5 races (0.0%)
+- **DNFs**: `0` out of `5` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -65,12 +65,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1606)**: 1 wins (20.0%) • 4 losses (80.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-85`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1693)**: 0 wins (0.0%) • 6 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-79`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) `1606`**: **`1`** wins <small>`20.0%`</small> • **`4`** losses <small>`80.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-85`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) `1693`**: **`0`** wins <small>`0.0%`</small> • **`6`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-79`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 6 races (0.0%)
+- **DNFs**: `0` out of `6` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -95,15 +95,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (2010)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-2`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1859)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) `2010`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-2`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) `1859`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar) (N/A)**: 2 wins (18.2%) • 6 losses (54.5%) • 3 DNFs (27.3%) • **Elo <span style="color: green;">▲&nbsp;+`7`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar) (N/A)**: 2 wins (18.2%) • 9 losses (81.8%) • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar) `N/A`**: **`2`** wins <small>`18.2%`</small> • **`6`** losses <small>`54.5%`</small> • **`3`** DNFs <small>`27.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+7`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar) `N/A`**: **`2`** wins <small>`18.2%`</small> • **`9`** losses <small>`81.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 13 races (30.8%)
+- **DNFs**: `4` out of `13` races <small>`30.8%`</small>
 
 #### Detailed Results
 

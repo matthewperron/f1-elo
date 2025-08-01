@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1529`**<br/><small>[2015 Round 2 – Malaysian Grand Prix](../seasons/2015-season-report#round-2-malaysian-grand-prix)</small></center> | <center>**`1561`**<br/><small>[2015 Round 11 – Belgian Grand Prix](../seasons/2015-season-report#round-11-belgian-grand-prix)</small></center> | <center>**`1531`**<br/><small>[2015 Round 11 – Belgian Grand Prix](../seasons/2015-season-report#round-11-belgian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1388`**<br/><small>[2015 Round 19 – Abu Dhabi Grand Prix](../seasons/2015-season-report#round-19-abu-dhabi-grand-prix)</small></center> | <center>**`1420`**<br/><small>[2015 Round 5 – Spanish Grand Prix](../seasons/2015-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1423`**<br/><small>[2015 Round 5 – Spanish Grand Prix](../seasons/2015-season-report#round-5-spanish-grand-prix)</small></center> |
+| **Peak** | <center> 1529 <br/><small> [2015 Round 2 – Malaysian Grand Prix](../seasons/2015-season-report#round-2-malaysian-grand-prix) </small></center> | <center> 1561 <br/><small> [2015 Round 11 – Belgian Grand Prix](../seasons/2015-season-report#round-11-belgian-grand-prix) </small></center> | <center> 1531  <br/><small> [2015 Round 11 – Belgian Grand Prix](../seasons/2015-season-report#round-11-belgian-grand-prix) </small></center> |
+| **Lowest** | <center> 1388 <br/><small> [2015 Round 19 – Abu Dhabi Grand Prix](../seasons/2015-season-report#round-19-abu-dhabi-grand-prix) </small></center> | <center> 1420 <br/><small> [2015 Round 5 – Spanish Grand Prix](../seasons/2015-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1423 <br/><small> [2015 Round 5 – Spanish Grand Prix](../seasons/2015-season-report#round-5-spanish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) (1474)**: 5 wins (45.5%) • 5 losses (45.5%) • 1 DNFs (9.1%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) (1516)**: 4 wins (30.8%) • 9 losses (69.2%) • **Elo <span style="color: red;">▼&nbsp;`-112`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) `1474`**: **`5`** wins <small>`45.5%`</small> • **`5`** losses <small>`45.5%`</small> • **`1`** DNFs <small>`9.1%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) `1516`**: **`4`** wins <small>`30.8%`</small> • **`9`** losses <small>`69.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-112`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 13 races (7.7%)
+- **DNFs**: `1` out of `13` races <small>`7.7%`</small>
 
 #### Detailed Results
 

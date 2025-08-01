@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1508`**<br/><small>[1976 Round 4 – Spanish Grand Prix](../seasons/1976-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1567`**<br/><small>[1976 Round 11 – Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix)</small></center> | <center>**`1535`**<br/><small>[1976 Round 13 – Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1319`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1459`**<br/><small>[1977 Round 15 – United States Grand Prix](../seasons/1977-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1418`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> |
+| **Peak** | <center> 1508 <br/><small> [1976 Round 4 – Spanish Grand Prix](../seasons/1976-season-report#round-4-spanish-grand-prix) </small></center> | <center> 1567 <br/><small> [1976 Round 11 – Austrian Grand Prix](../seasons/1976-season-report#round-11-austrian-grand-prix) </small></center> | <center> 1535  <br/><small> [1976 Round 13 – Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix) </small></center> |
+| **Lowest** | <center> 1319 <br/><small> [1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1459 <br/><small> [1977 Round 15 – United States Grand Prix](../seasons/1977-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1418 <br/><small> [1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,15 +35,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Evans](bob-evans) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Evans](bob-evans) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Evans](bob-evans) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Evans](bob-evans) `1532`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) (1564)**: 3 wins (33.3%) • 3 losses (33.3%) • 3 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-9`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) (1616)**: 3 wins (25.0%) • 9 losses (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-56`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) `1564`**: **`3`** wins <small>`33.3%`</small> • **`3`** losses <small>`33.3%`</small> • **`3`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-9`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) `1616`**: **`3`** wins <small>`25.0%`</small> • **`9`** losses <small>`75.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-56`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 13 races (30.8%)
+- **DNFs**: `4` out of `13` races <small>`30.8%`</small>
 
 #### Detailed Results
 
@@ -75,12 +75,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) (1596)**: 2 wins (15.4%) • 4 losses (30.8%) • 7 DNFs (53.8%) • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) (1709)**: 1 wins (5.9%) • 16 losses (94.1%) • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) `1596`**: **`2`** wins <small>`15.4%`</small> • **`4`** losses <small>`30.8%`</small> • **`7`** DNFs <small>`53.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Mario Andretti](mario-andretti) `1709`**: **`1`** wins <small>`5.9%`</small> • **`16`** losses <small>`94.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 17 races (41.2%)
+- **DNFs**: `7` out of `17` races <small>`41.2%`</small>
 
 #### Detailed Results
 

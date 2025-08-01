@@ -21,8 +21,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1742`**<br/><small>[2011 Round 14 – Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)</small></center> | <center>**`1677`**<br/><small>[2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)</small></center> | <center>**`1689`**<br/><small>[2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1387`**<br/><small>[2008 Round 6 – Monaco Grand Prix](../seasons/2008-season-report#round-6-monaco-grand-prix)</small></center> | <center>**`1444`**<br/><small>[2008 Round 5 – Turkish Grand Prix](../seasons/2008-season-report#round-5-turkish-grand-prix)</small></center> | <center>**`1429`**<br/><small>[2008 Round 5 – Turkish Grand Prix](../seasons/2008-season-report#round-5-turkish-grand-prix)</small></center> |
+| **Peak** | <center> 1742 <br/><small> [2011 Round 14 – Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix) </small></center> | <center> 1677 <br/><small> [2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix) </small></center> | <center> 1689  <br/><small> [2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix) </small></center> |
+| **Lowest** | <center> 1387 <br/><small> [2008 Round 6 – Monaco Grand Prix](../seasons/2008-season-report#round-6-monaco-grand-prix) </small></center> | <center> 1444 <br/><small> [2008 Round 5 – Turkish Grand Prix](../seasons/2008-season-report#round-5-turkish-grand-prix) </small></center> | <center> 1429 <br/><small> [2008 Round 5 – Turkish Grand Prix](../seasons/2008-season-report#round-5-turkish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +39,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1747)**: 1 wins (33.3%) • 2 losses (66.7%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`16`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1691)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-64`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1747`**: **`1`** wins <small>`33.3%`</small> • **`2`** losses <small>`66.7%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+16`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1691`**: **`0`** wins <small>`0.0%`</small> • **`4`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-64`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 4 races (0.0%)
+- **DNFs**: `0` out of `4` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -67,12 +67,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1498)**: 7 wins (43.8%) • 7 losses (43.8%) • 2 DNFs (12.5%) • **Elo <span style="color: green;">▲&nbsp;+`123`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1696)**: 4 wins (22.2%) • 14 losses (77.8%) • **Elo <span style="color: green;">▲&nbsp;+`25`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) `1498`**: **`7`** wins <small>`43.8%`</small> • **`7`** losses <small>`43.8%`</small> • **`2`** DNFs <small>`12.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+123`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) `1696`**: **`4`** wins <small>`22.2%`</small> • **`14`** losses <small>`77.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+25`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 18 races (11.1%)
+- **DNFs**: `2` out of `18` races <small>`11.1%`</small>
 
 #### Detailed Results
 
@@ -109,12 +109,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1502)**: 8 wins (57.1%) • 5 losses (35.7%) • 1 DNFs (7.1%) • **Elo <span style="color: red;">▼&nbsp;`-4`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1669)**: 4 wins (26.7%) • 11 losses (73.3%) • **Elo <span style="color: green;">▲&nbsp;+`28`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) `1502`**: **`8`** wins <small>`57.1%`</small> • **`5`** losses <small>`35.7%`</small> • **`1`** DNFs <small>`7.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-4`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) `1669`**: **`4`** wins <small>`26.7%`</small> • **`11`** losses <small>`73.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+28`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 15 races (6.7%)
+- **DNFs**: `1` out of `15` races <small>`6.7%`</small>
 
 #### Detailed Results
 
@@ -148,12 +148,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Lucas di Grassi](lucas-di-grassi) (1500)**: 5 wins (33.3%) • 3 losses (20.0%) • 7 DNFs (46.7%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Lucas di Grassi](lucas-di-grassi) (1380)**: 16 wins (84.2%) • 3 losses (15.8%) • **Elo <span style="color: green;">▲&nbsp;+`119`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Lucas di Grassi](lucas-di-grassi) `1500`**: **`5`** wins <small>`33.3%`</small> • **`3`** losses <small>`20.0%`</small> • **`7`** DNFs <small>`46.7%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Lucas di Grassi](lucas-di-grassi) `1380`**: **`16`** wins <small>`84.2%`</small> • **`3`** losses <small>`15.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+119`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 19 races (36.8%)
+- **DNFs**: `7` out of `19` races <small>`36.8%`</small>
 
 #### Detailed Results
 
@@ -191,12 +191,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jérôme d'Ambrosio](jrme-dambrosio) (1543)**: 8 wins (47.1%) • 5 losses (29.4%) • 4 DNFs (23.5%) • **Elo <span style="color: red;">▼&nbsp;`-43`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jérôme d'Ambrosio](jrme-dambrosio) (1498)**: 15 wins (78.9%) • 4 losses (21.1%) • **Elo <span style="color: green;">▲&nbsp;+`2`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jérôme d'Ambrosio](jrme-dambrosio) `1543`**: **`8`** wins <small>`47.1%`</small> • **`5`** losses <small>`29.4%`</small> • **`4`** DNFs <small>`23.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-43`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jérôme d'Ambrosio](jrme-dambrosio) `1498`**: **`15`** wins <small>`78.9%`</small> • **`4`** losses <small>`21.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+2`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 19 races (21.1%)
+- **DNFs**: `4` out of `19` races <small>`21.1%`</small>
 
 #### Detailed Results
 
@@ -234,12 +234,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic) (1537)**: 8 wins (53.3%) • 5 losses (33.3%) • 2 DNFs (13.3%) • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic) (1450)**: 14 wins (70.0%) • 6 losses (30.0%) • **Elo <span style="color: green;">▲&nbsp;+`50`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic) `1537`**: **`8`** wins <small>`53.3%`</small> • **`5`** losses <small>`33.3%`</small> • **`2`** DNFs <small>`13.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic) `1450`**: **`14`** wins <small>`70.0%`</small> • **`6`** losses <small>`30.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+50`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 20 races (10.0%)
+- **DNFs**: `2` out of `20` races <small>`10.0%`</small>
 
 #### Detailed Results
 

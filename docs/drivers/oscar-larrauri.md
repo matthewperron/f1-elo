@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1531`**<br/><small>[1988 Round 4 – Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)</small></center> | N/A | <center>**`1509`**<br/><small>[1988 Round 4 – Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix)</small></center> |
-| **Lowest** | <center>**`1390`**<br/><small>[1988 Round 16 – Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)</small></center> | N/A | <center>**`1467`**<br/><small>[1988 Round 16 – Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix)</small></center> |
+| **Peak** | <center> 1531 <br/><small> [1988 Round 4 – Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix) </small></center> | N/A | <center> 1509  <br/><small> [1988 Round 4 – Mexican Grand Prix](../seasons/1988-season-report#round-4-mexican-grand-prix) </small></center> |
+| **Lowest** | <center> 1390 <br/><small> [1988 Round 16 – Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix) </small></center> | N/A | <center> 1467 <br/><small> [1988 Round 16 – Australian Grand Prix](../seasons/1988-season-report#round-16-australian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 6 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) (1583)**: 2 wins (25.0%) • 6 losses (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-110`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`6`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) `1583`**: **`2`** wins <small>`25.0%`</small> • **`6`** losses <small>`75.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-110`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 8 races (75.0%)
+- **DNFs**: `6` out of `8` races <small>`75.0%`</small>
 
 #### Detailed Results
 

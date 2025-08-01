@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1469`**<br/><small>[1987 Round 11 – Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix)</small></center> | N/A | <center>**`1491`**<br/><small>[1987 Round 11 – Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1444`**<br/><small>[1987 Round 12 – Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix)</small></center> | N/A | <center>**`1483`**<br/><small>[1987 Round 12 – Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix)</small></center> |
+| **Peak** | <center> 1469 <br/><small> [1987 Round 11 – Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix) </small></center> | N/A | <center> 1491  <br/><small> [1987 Round 11 – Italian Grand Prix](../seasons/1987-season-report#round-11-italian-grand-prix) </small></center> |
+| **Lowest** | <center> 1444 <br/><small> [1987 Round 12 – Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix) </small></center> | N/A | <center> 1483 <br/><small> [1987 Round 12 – Portuguese Grand Prix](../seasons/1987-season-report#round-12-portuguese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alex Caffi](alex-caffi) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alex Caffi](alex-caffi) (1571)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-56`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alex Caffi](alex-caffi) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`2`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alex Caffi](alex-caffi) `1571`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-56`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 2 races (100.0%)
+- **DNFs**: `2` out of `2` races <small>`100.0%`</small>
 
 #### Detailed Results
 

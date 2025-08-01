@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1635`**<br/><small>[1991 Round 5 – Canadian Grand Prix](../seasons/1991-season-report#round-5-canadian-grand-prix)</small></center> | <center>**`1526`**<br/><small>[1991 Round 8 – British Grand Prix](../seasons/1991-season-report#round-8-british-grand-prix)</small></center> | <center>**`1554`**<br/><small>[1991 Round 10 – Hungarian Grand Prix](../seasons/1991-season-report#round-10-hungarian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1428`**<br/><small>[1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)</small></center> | <center>**`1417`**<br/><small>[1990 Round 12 – Italian Grand Prix](../seasons/1990-season-report#round-12-italian-grand-prix)</small></center> | <center>**`1444`**<br/><small>[1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)</small></center> |
+| **Peak** | <center> 1635 <br/><small> [1991 Round 5 – Canadian Grand Prix](../seasons/1991-season-report#round-5-canadian-grand-prix) </small></center> | <center> 1526 <br/><small> [1991 Round 8 – British Grand Prix](../seasons/1991-season-report#round-8-british-grand-prix) </small></center> | <center> 1554  <br/><small> [1991 Round 10 – Hungarian Grand Prix](../seasons/1991-season-report#round-10-hungarian-grand-prix) </small></center> |
+| **Lowest** | <center> 1428 <br/><small> [1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix) </small></center> | <center> 1417 <br/><small> [1990 Round 12 – Italian Grand Prix](../seasons/1990-season-report#round-12-italian-grand-prix) </small></center> | <center> 1444 <br/><small> [1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini) (1608)**: 1 wins (14.3%) • 4 losses (57.1%) • 2 DNFs (28.6%) • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini) (1757)**: 1 wins (10.0%) • 9 losses (90.0%) • **Elo <span style="color: red;">▼&nbsp;`-38`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini) `1608`**: **`1`** wins <small>`14.3%`</small> • **`4`** losses <small>`57.1%`</small> • **`2`** DNFs <small>`28.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini) `1757`**: **`1`** wins <small>`10.0%`</small> • **`9`** losses <small>`90.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-38`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 10 races (20.0%)
+- **DNFs**: `2` out of `10` races <small>`20.0%`</small>
 
 #### Detailed Results
 
@@ -70,12 +70,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1451)**: 1 wins (11.1%) • 1 losses (11.1%) • 7 DNFs (77.8%) • **Elo <span style="color: green;">▲&nbsp;+`8`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1473)**: 8 wins (61.5%) • 5 losses (38.5%) • **Elo <span style="color: green;">▲&nbsp;+`109`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) `1451`**: **`1`** wins <small>`11.1%`</small> • **`1`** losses <small>`11.1%`</small> • **`7`** DNFs <small>`77.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+8`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) `1473`**: **`8`** wins <small>`61.5%`</small> • **`5`** losses <small>`38.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+109`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 13 races (53.8%)
+- **DNFs**: `7` out of `13` races <small>`53.8%`</small>
 
 #### Detailed Results
 
@@ -107,12 +107,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (1490)**: 3 wins (37.5%) • 2 losses (25.0%) • 3 DNFs (37.5%) • **Elo <span style="color: green;">▲&nbsp;+`40`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (1482)**: 9 wins (69.2%) • 4 losses (30.8%) • **Elo <span style="color: red;">▼&nbsp;`-43`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) `1490`**: **`3`** wins <small>`37.5%`</small> • **`2`** losses <small>`25.0%`</small> • **`3`** DNFs <small>`37.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+40`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) `1482`**: **`9`** wins <small>`69.2%`</small> • **`4`** losses <small>`30.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-43`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 13 races (23.1%)
+- **DNFs**: `3` out of `13` races <small>`23.1%`</small>
 
 #### Detailed Results
 

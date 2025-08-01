@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1461`**<br/><small>[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)</small></center> | <center>**`1468`**<br/><small>[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)</small></center> | <center>**`1466`**<br/><small>[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)</small></center> |
-| **Lowest** | <center>**`1332`**<br/><small>[1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1374`**<br/><small>[1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1361`**<br/><small>[1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)</small></center> |
+| **Peak** | <center> 1461 <br/><small> [1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix) </small></center> | <center> 1468 <br/><small> [1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix) </small></center> | <center> 1466  <br/><small> [1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix) </small></center> |
+| **Lowest** | <center> 1332 <br/><small> [1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1374 <br/><small> [1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1361 <br/><small> [1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mark Blundell](mark-blundell) (1534)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mark Blundell](mark-blundell) (1458)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mark Blundell](mark-blundell) `1534`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Mark Blundell](mark-blundell) `1458`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -61,12 +61,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1540)**: 0 wins (0.0%) • 2 losses (20.0%) • 8 DNFs (80.0%) • **Elo <span style="color: red;">▼&nbsp;`-56`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1649)**: 2 wins (11.8%) • 15 losses (88.2%) • **Elo <span style="color: red;">▼&nbsp;`-67`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) `1540`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`20.0%`</small> • **`8`** DNFs <small>`80.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-56`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) `1649`**: **`2`** wins <small>`11.8%`</small> • **`15`** losses <small>`88.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-67`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 8 out of 17 races (47.1%)
+- **DNFs**: `8` out of `17` races <small>`47.1%`</small>
 
 #### Detailed Results
 
@@ -102,12 +102,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1578)**: 0 wins (0.0%) • 2 losses (40.0%) • 3 DNFs (60.0%) • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1713)**: 0 wins (0.0%) • 7 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-64`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) `1578`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`40.0%`</small> • **`3`** DNFs <small>`60.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) `1713`**: **`0`** wins <small>`0.0%`</small> • **`7`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-64`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 7 races (42.9%)
+- **DNFs**: `3` out of `7` races <small>`42.9%`</small>
 
 #### Detailed Results
 

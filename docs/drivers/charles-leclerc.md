@@ -23,8 +23,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1883`**<br/><small>[2020 Round 13 – Emilia Romagna Grand Prix](../seasons/2020-season-report#round-13-emilia-romagna-grand-prix)</small></center> | <center>**`1805`**<br/><small>[2025 Round 11 – Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix)</small></center> | <center>**`1787`**<br/><small>[2025 Round 11 – Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1454`**<br/><small>[2018 Round 2 – Bahrain Grand Prix](../seasons/2018-season-report#round-2-bahrain-grand-prix)</small></center> | <center>**`1445`**<br/><small>[2018 Round 3 – Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)</small></center> | <center>**`1462`**<br/><small>[2018 Round 3 – Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix)</small></center> |
+| **Peak** | <center> 1883 <br/><small> [2020 Round 13 – Emilia Romagna Grand Prix](../seasons/2020-season-report#round-13-emilia-romagna-grand-prix) </small></center> | <center> 1805 <br/><small> [2025 Round 11 – Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix) </small></center> | <center> 1787  <br/><small> [2025 Round 11 – Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix) </small></center> |
+| **Lowest** | <center> 1454 <br/><small> [2018 Round 2 – Bahrain Grand Prix](../seasons/2018-season-report#round-2-bahrain-grand-prix) </small></center> | <center> 1445 <br/><small> [2018 Round 3 – Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix) </small></center> | <center> 1462 <br/><small> [2018 Round 3 – Chinese Grand Prix](../seasons/2018-season-report#round-3-chinese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -41,12 +41,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1433)**: 10 wins (52.6%) • 6 losses (31.6%) • 3 DNFs (15.8%) • **Elo <span style="color: green;">▲&nbsp;+`87`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1410)**: 17 wins (81.0%) • 4 losses (19.0%) • **Elo <span style="color: green;">▲&nbsp;+`168`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) `1433`**: **`10`** wins <small>`52.6%`</small> • **`6`** losses <small>`31.6%`</small> • **`3`** DNFs <small>`15.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+87`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) `1410`**: **`17`** wins <small>`81.0%`</small> • **`4`** losses <small>`19.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+168`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 21 races (14.3%)
+- **DNFs**: `3` out of `21` races <small>`14.3%`</small>
 
 #### Detailed Results
 
@@ -86,12 +86,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1631)**: 7 wins (36.8%) • 12 losses (63.2%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1680)**: 12 wins (57.1%) • 9 losses (42.9%) • **Elo <span style="color: green;">▲&nbsp;+`89`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) `1631`**: **`7`** wins <small>`36.8%`</small> • **`12`** losses <small>`63.2%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) `1680`**: **`12`** wins <small>`57.1%`</small> • **`9`** losses <small>`42.9%`</small> • **Elo <span style="color: green;">▲&nbsp;`+89`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 21 races (0.0%)
+- **DNFs**: `0` out of `21` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -131,12 +131,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1526)**: 11 wins (68.8%) • 4 losses (25.0%) • 1 DNFs (6.3%) • **Elo <span style="color: green;">▲&nbsp;+`104`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1620)**: 13 wins (76.5%) • 4 losses (23.5%) • **Elo <span style="color: green;">▲&nbsp;+`59`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) `1526`**: **`11`** wins <small>`68.8%`</small> • **`4`** losses <small>`25.0%`</small> • **`1`** DNFs <small>`6.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+104`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) `1620`**: **`13`** wins <small>`76.5%`</small> • **`4`** losses <small>`23.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+59`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 17 races (5.9%)
+- **DNFs**: `1` out of `17` races <small>`5.9%`</small>
 
 #### Detailed Results
 
@@ -172,12 +172,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1566)**: 14 wins (63.6%) • 7 losses (31.8%) • 1 DNFs (4.5%) • **Elo <span style="color: red;">▼&nbsp;`-17`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1681)**: 14 wins (63.6%) • 8 losses (36.4%) • **Elo <span style="color: red;">▼&nbsp;`-163`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1566`**: **`14`** wins <small>`63.6%`</small> • **`7`** losses <small>`31.8%`</small> • **`1`** DNFs <small>`4.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-17`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1681`**: **`14`** wins <small>`63.6%`</small> • **`8`** losses <small>`36.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-163`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 22 races (4.5%)
+- **DNFs**: `1` out of `22` races <small>`4.5%`</small>
 
 #### Detailed Results
 
@@ -218,12 +218,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1574)**: 11 wins (52.4%) • 8 losses (38.1%) • 2 DNFs (9.5%) • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1602)**: 16 wins (72.7%) • 6 losses (27.3%) • **Elo <span style="color: green;">▲&nbsp;+`78`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1574`**: **`11`** wins <small>`52.4%`</small> • **`8`** losses <small>`38.1%`</small> • **`2`** DNFs <small>`9.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1602`**: **`16`** wins <small>`72.7%`</small> • **`6`** losses <small>`27.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+78`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 22 races (9.1%)
+- **DNFs**: `2` out of `22` races <small>`9.1%`</small>
 
 #### Detailed Results
 
@@ -264,12 +264,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1503)**: 10 wins (50.0%) • 5 losses (25.0%) • 5 DNFs (25.0%) • **Elo <span style="color: green;">▲&nbsp;+`71`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1537)**: 14 wins (63.6%) • 8 losses (36.4%) • **Elo <span style="color: green;">▲&nbsp;+`66`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1503`**: **`10`** wins <small>`50.0%`</small> • **`5`** losses <small>`25.0%`</small> • **`5`** DNFs <small>`25.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+71`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1537`**: **`14`** wins <small>`63.6%`</small> • **`8`** losses <small>`36.4%`</small> • **Elo <span style="color: green;">▲&nbsp;`+66`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 22 races (22.7%)
+- **DNFs**: `5` out of `22` races <small>`22.7%`</small>
 
 #### Detailed Results
 
@@ -310,15 +310,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1589)**: 13 wins (59.1%) • 8 losses (36.4%) • 1 DNFs (4.5%) • **Elo <span style="color: red;">▼&nbsp;`-86`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1672)**: 14 wins (60.9%) • 9 losses (39.1%) • **Elo <span style="color: red;">▼&nbsp;`-136`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1589`**: **`13`** wins <small>`59.1%`</small> • **`8`** losses <small>`36.4%`</small> • **`1`** DNFs <small>`4.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-86`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1672`**: **`14`** wins <small>`60.9%`</small> • **`9`** losses <small>`39.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-136`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman](oliver-bearman) (1481)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`19`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman](oliver-bearman) (1491)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`9`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman](oliver-bearman) `1481`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+19`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Oliver Bearman](oliver-bearman) `1491`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+9`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 24 races (4.2%)
+- **DNFs**: `1` out of `24` races <small>`4.2%`</small>
 
 #### Detailed Results
 
@@ -361,12 +361,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1594)**: 10 wins (76.9%) • 2 losses (15.4%) • 1 DNFs (7.7%) • **Elo <span style="color: green;">▲&nbsp;+`138`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1657)**: 9 wins (69.2%) • 4 losses (30.8%) • **Elo <span style="color: green;">▲&nbsp;+`67`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) `1594`**: **`10`** wins <small>`76.9%`</small> • **`2`** losses <small>`15.4%`</small> • **`1`** DNFs <small>`7.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+138`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) `1657`**: **`9`** wins <small>`69.2%`</small> • **`4`** losses <small>`30.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+67`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 13 races (7.7%)
+- **DNFs**: `1` out of `13` races <small>`7.7%`</small>
 
 #### Detailed Results
 

@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1490`**<br/><small>[1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)</small></center> | <center>**`1480`**<br/><small>[1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)</small></center> | <center>**`1483`**<br/><small>[1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1462`**<br/><small>[1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)</small></center> | <center>**`1452`**<br/><small>[1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)</small></center> | <center>**`1455`**<br/><small>[1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix)</small></center> |
+| **Peak** | <center> 1490 <br/><small> [1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix) </small></center> | <center> 1480 <br/><small> [1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix) </small></center> | <center> 1483  <br/><small> [1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix) </small></center> |
+| **Lowest** | <center> 1462 <br/><small> [1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix) </small></center> | <center> 1452 <br/><small> [1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix) </small></center> | <center> 1455 <br/><small> [1977 Round 7 – Belgian Grand Prix](../seasons/1977-season-report#round-7-belgian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) (1653)**: 0 wins (0.0%) • 1 losses (33.3%) • 2 DNFs (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-20`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) (1821)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) `1653`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`33.3%`</small> • **`2`** DNFs <small>`66.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-20`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Carlos Pace](carlos-pace) `1821`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 3 races (66.7%)
+- **DNFs**: `2` out of `3` races <small>`66.7%`</small>
 
 #### Detailed Results
 
@@ -62,12 +62,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1551)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) (1751)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) `1551`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vittorio Brambilla](vittorio-brambilla) `1751`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 

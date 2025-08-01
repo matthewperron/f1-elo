@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1540`**<br/><small>[2025 Round 6 – Miami Grand Prix](../seasons/2025-season-report#round-6-miami-grand-prix)</small></center> | <center>**`1491`**<br/><small>[2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1493`**<br/><small>[2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1480`**<br/><small>[2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)</small></center> | <center>**`1438`**<br/><small>[2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)</small></center> | <center>**`1457`**<br/><small>[2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)</small></center> |
+| **Peak** | <center> 1540 <br/><small> [2025 Round 6 – Miami Grand Prix](../seasons/2025-season-report#round-6-miami-grand-prix) </small></center> | <center> 1491 <br/><small> [2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix) </small></center> | <center> 1493  <br/><small> [2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix) </small></center> |
+| **Lowest** | <center> 1480 <br/><small> [2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix) </small></center> | <center> 1438 <br/><small> [2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) </small></center> | <center> 1457 <br/><small> [2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) (1872)**: 0 wins (0.0%) • 9 losses (69.2%) • 4 DNFs (30.8%) • **Elo <span style="color: red;">▼&nbsp;`-61`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) (1953)**: 1 wins (7.7%) • 12 losses (92.3%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) `1872`**: **`0`** wins <small>`0.0%`</small> • **`9`** losses <small>`69.2%`</small> • **`4`** DNFs <small>`30.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-61`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) `1953`**: **`1`** wins <small>`7.7%`</small> • **`12`** losses <small>`92.3%`</small> • **Elo ↔ 0**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 13 races (30.8%)
+- **DNFs**: `4` out of `13` races <small>`30.8%`</small>
 
 #### Detailed Results
 

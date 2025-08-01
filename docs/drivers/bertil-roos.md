@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1472`**<br/><small>[1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)</small></center> | N/A | <center>**`1492`**<br/><small>[1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)</small></center> |
-| **Lowest** | <center>**`1472`**<br/><small>[1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)</small></center> | N/A | <center>**`1492`**<br/><small>[1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix)</small></center> |
+| **Peak** | <center> 1472 <br/><small> [1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix) </small></center> | N/A | <center> 1492  <br/><small> [1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix) </small></center> |
+| **Lowest** | <center> 1472 <br/><small> [1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix) </small></center> | N/A | <center> 1492 <br/><small> [1974 Round 7 – Swedish Grand Prix](../seasons/1974-season-report#round-7-swedish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1450)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1568)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) `1450`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) `1568`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 1 races (100.0%)
+- **DNFs**: `1` out of `1` races <small>`100.0%`</small>
 
 #### Detailed Results
 

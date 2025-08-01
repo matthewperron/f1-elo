@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1557`**<br/><small>[2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)</small></center> | <center>**`1510`**<br/><small>[2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)</small></center> | <center>**`1523`**<br/><small>[2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)</small></center> |
-| **Lowest** | <center>**`1424`**<br/><small>[2013 Round 4 – Bahrain Grand Prix](../seasons/2013-season-report#round-4-bahrain-grand-prix)</small></center> | <center>**`1373`**<br/><small>[2013 Round 9 – German Grand Prix](../seasons/2013-season-report#round-9-german-grand-prix)</small></center> | <center>**`1398`**<br/><small>[2013 Round 8 – British Grand Prix](../seasons/2013-season-report#round-8-british-grand-prix)</small></center> |
+| **Peak** | <center> 1557 <br/><small> [2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix) </small></center> | <center> 1510 <br/><small> [2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix) </small></center> | <center> 1523  <br/><small> [2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix) </small></center> |
+| **Lowest** | <center> 1424 <br/><small> [2013 Round 4 – Bahrain Grand Prix](../seasons/2013-season-report#round-4-bahrain-grand-prix) </small></center> | <center> 1373 <br/><small> [2013 Round 9 – German Grand Prix](../seasons/2013-season-report#round-9-german-grand-prix) </small></center> | <center> 1398 <br/><small> [2013 Round 8 – British Grand Prix](../seasons/2013-season-report#round-8-british-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic) (1527)**: 4 wins (26.7%) • 10 losses (66.7%) • 1 DNFs (6.7%) • **Elo <span style="color: green;">▲&nbsp;+`8`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic) (1439)**: 10 wins (52.6%) • 9 losses (47.4%) • **Elo <span style="color: green;">▲&nbsp;+`11`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic) `1527`**: **`4`** wins <small>`26.7%`</small> • **`10`** losses <small>`66.7%`</small> • **`1`** DNFs <small>`6.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+8`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Charles Pic](charles-pic) `1439`**: **`10`** wins <small>`52.6%`</small> • **`9`** losses <small>`47.4%`</small> • **Elo <span style="color: green;">▲&nbsp;`+11`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 19 races (5.3%)
+- **DNFs**: `1` out of `19` races <small>`5.3%`</small>
 
 #### Detailed Results
 

@@ -22,8 +22,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1897`**<br/><small>[2023 Round 11 – Hungarian Grand Prix](../seasons/2023-season-report#round-11-hungarian-grand-prix)</small></center> | <center>**`1766`**<br/><small>[2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)</small></center> | <center>**`1785`**<br/><small>[2022 Round 19 – United States Grand Prix](../seasons/2022-season-report#round-19-united-states-grand-prix)</small></center> |
-| **Lowest** | <center>**`1455`**<br/><small>[2019 Round 19 – United States Grand Prix](../seasons/2019-season-report#round-19-united-states-grand-prix)</small></center> | <center>**`1430`**<br/><small>[2019 Round 8 – French Grand Prix](../seasons/2019-season-report#round-8-french-grand-prix)</small></center> | <center>**`1458`**<br/><small>[2019 Round 18 – Mexican Grand Prix](../seasons/2019-season-report#round-18-mexican-grand-prix)</small></center> |
+| **Peak** | <center> 1897 <br/><small> [2023 Round 11 – Hungarian Grand Prix](../seasons/2023-season-report#round-11-hungarian-grand-prix) </small></center> | <center> 1766 <br/><small> [2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix) </small></center> | <center> 1785  <br/><small> [2022 Round 19 – United States Grand Prix](../seasons/2022-season-report#round-19-united-states-grand-prix) </small></center> |
+| **Lowest** | <center> 1455 <br/><small> [2019 Round 19 – United States Grand Prix](../seasons/2019-season-report#round-19-united-states-grand-prix) </small></center> | <center> 1430 <br/><small> [2019 Round 8 – French Grand Prix](../seasons/2019-season-report#round-8-french-grand-prix) </small></center> | <center> 1458 <br/><small> [2019 Round 18 – Mexican Grand Prix](../seasons/2019-season-report#round-18-mexican-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -40,12 +40,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1573)**: 5 wins (26.3%) • 10 losses (52.6%) • 4 DNFs (21.1%) • **Elo <span style="color: green;">▲&nbsp;+`21`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1562)**: 11 wins (52.4%) • 10 losses (47.6%) • **Elo <span style="color: green;">▲&nbsp;+`43`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1573`**: **`5`** wins <small>`26.3%`</small> • **`10`** losses <small>`52.6%`</small> • **`4`** DNFs <small>`21.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+21`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1562`**: **`11`** wins <small>`52.4%`</small> • **`10`** losses <small>`47.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+43`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 21 races (19.0%)
+- **DNFs**: `4` out of `21` races <small>`19.0%`</small>
 
 #### Detailed Results
 
@@ -85,12 +85,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1549)**: 8 wins (50.0%) • 7 losses (43.8%) • 1 DNFs (6.3%) • **Elo <span style="color: green;">▲&nbsp;+`25`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1517)**: 9 wins (52.9%) • 8 losses (47.1%) • **Elo <span style="color: green;">▲&nbsp;+`44`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1549`**: **`8`** wins <small>`50.0%`</small> • **`7`** losses <small>`43.8%`</small> • **`1`** DNFs <small>`6.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+25`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1517`**: **`9`** wins <small>`52.9%`</small> • **`8`** losses <small>`47.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+44`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 17 races (5.9%)
+- **DNFs**: `1` out of `17` races <small>`5.9%`</small>
 
 #### Detailed Results
 
@@ -126,12 +126,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1564)**: 14 wins (66.7%) • 7 losses (33.3%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`94`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1615)**: 14 wins (63.6%) • 8 losses (36.4%) • **Elo <span style="color: green;">▲&nbsp;+`195`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) `1564`**: **`14`** wins <small>`66.7%`</small> • **`7`** losses <small>`33.3%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+94`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) `1615`**: **`14`** wins <small>`63.6%`</small> • **`8`** losses <small>`36.4%`</small> • **Elo <span style="color: green;">▲&nbsp;`+195`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 22 races (0.0%)
+- **DNFs**: `0` out of `22` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -172,12 +172,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1484)**: 14 wins (70.0%) • 5 losses (25.0%) • 1 DNFs (5.0%) • **Elo <span style="color: green;">▲&nbsp;+`78`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1522)**: 19 wins (86.4%) • 3 losses (13.6%) • **Elo <span style="color: green;">▲&nbsp;+`92`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) `1484`**: **`14`** wins <small>`70.0%`</small> • **`5`** losses <small>`25.0%`</small> • **`1`** DNFs <small>`5.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+78`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) `1522`**: **`19`** wins <small>`86.4%`</small> • **`3`** losses <small>`13.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+92`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 22 races (4.5%)
+- **DNFs**: `1` out of `22` races <small>`4.5%`</small>
 
 #### Detailed Results
 
@@ -218,12 +218,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) (1471)**: 14 wins (73.7%) • 4 losses (21.1%) • 1 DNFs (5.3%) • **Elo <span style="color: green;">▲&nbsp;+`30`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) (1667)**: 15 wins (68.2%) • 7 losses (31.8%) • **Elo <span style="color: red;">▼&nbsp;`-165`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) `1471`**: **`14`** wins <small>`73.7%`</small> • **`4`** losses <small>`21.1%`</small> • **`1`** DNFs <small>`5.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+30`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) `1667`**: **`15`** wins <small>`68.2%`</small> • **`7`** losses <small>`31.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-165`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 22 races (4.5%)
+- **DNFs**: `1` out of `22` races <small>`4.5%`</small>
 
 #### Detailed Results
 
@@ -264,12 +264,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) (1534)**: 16 wins (66.7%) • 8 losses (33.3%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) (1504)**: 21 wins (87.5%) • 3 losses (12.5%) • **Elo <span style="color: green;">▲&nbsp;+`161`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) `1534`**: **`16`** wins <small>`66.7%`</small> • **`8`** losses <small>`33.3%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) `1504`**: **`21`** wins <small>`87.5%`</small> • **`3`** losses <small>`12.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+161`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 24 races (0.0%)
+- **DNFs**: `0` out of `24` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -312,12 +312,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) (1597)**: 6 wins (46.2%) • 6 losses (46.2%) • 1 DNFs (7.7%) • **Elo <span style="color: red;">▼&nbsp;`-65`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) (1675)**: 6 wins (46.2%) • 7 losses (53.8%) • **Elo <span style="color: red;">▼&nbsp;`-170`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) `1597`**: **`6`** wins <small>`46.2%`</small> • **`6`** losses <small>`46.2%`</small> • **`1`** DNFs <small>`7.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-65`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri](oscar-piastri) `1675`**: **`6`** wins <small>`46.2%`</small> • **`7`** losses <small>`53.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-170`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 13 races (7.7%)
+- **DNFs**: `1` out of `13` races <small>`7.7%`</small>
 
 #### Detailed Results
 

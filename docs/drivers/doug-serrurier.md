@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1467`**<br/><small>[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)</small></center> |
-| **Lowest** | <center>**`1467`**<br/><small>[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix)</small></center> |
+| **Peak** | <center> 1467 <br/><small> [1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) </small></center> | N/A | <center> 1490  <br/><small> [1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) </small></center> |
+| **Lowest** | <center> 1467 <br/><small> [1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) </small></center> | N/A | <center> 1490 <br/><small> [1963 Round 10 – South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Sam Tingle](sam-tingle) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Sam Tingle](sam-tingle) (1525)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
+- **Races vs [Sam Tingle](sam-tingle) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [Sam Tingle](sam-tingle) `1525`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 1 races (100.0%)
+- **DNFs**: `1` out of `1` races <small>`100.0%`</small>
 
 #### Detailed Results
 

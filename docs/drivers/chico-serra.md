@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1490`**<br/><small>[1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)</small></center> | <center>**`1508`**<br/><small>[1981 Round 7 – Spanish Grand Prix](../seasons/1981-season-report#round-7-spanish-grand-prix)</small></center> | <center>**`1497`**<br/><small>[1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west)</small></center> |
-| **Lowest** | <center>**`1388`**<br/><small>[1983 Round 5 – Monaco Grand Prix](../seasons/1983-season-report#round-5-monaco-grand-prix)</small></center> | <center>**`1460`**<br/><small>[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1443`**<br/><small>[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)</small></center> |
+| **Peak** | <center> 1490 <br/><small> [1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west) </small></center> | <center> 1508 <br/><small> [1981 Round 7 – Spanish Grand Prix](../seasons/1981-season-report#round-7-spanish-grand-prix) </small></center> | <center> 1497  <br/><small> [1981 Round 1 – United States Grand Prix West](../seasons/1981-season-report#round-1-united-states-grand-prix-west) </small></center> |
+| **Lowest** | <center> 1388 <br/><small> [1983 Round 5 – Monaco Grand Prix](../seasons/1983-season-report#round-5-monaco-grand-prix) </small></center> | <center> 1460 <br/><small> [1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix) </small></center> | <center> 1443 <br/><small> [1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) (1504)**: 1 wins (20.0%) • 1 losses (20.0%) • 3 DNFs (60.0%) • **Elo <span style="color: green;">▲&nbsp;+`8`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) (1837)**: 0 wins (0.0%) • 6 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) `1504`**: **`1`** wins <small>`20.0%`</small> • **`1`** losses <small>`20.0%`</small> • **`3`** DNFs <small>`60.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+8`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Keke Rosberg](keke-rosberg) `1837`**: **`0`** wins <small>`0.0%`</small> • **`6`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 6 races (50.0%)
+- **DNFs**: `3` out of `6` races <small>`50.0%`</small>
 
 #### Detailed Results
 
@@ -65,12 +65,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) (1572)**: 1 wins (25.0%) • 2 losses (50.0%) • 1 DNFs (25.0%) • **Elo <span style="color: red;">▼&nbsp;`-2`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) (1656)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-62`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) `1572`**: **`1`** wins <small>`25.0%`</small> • **`2`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`25.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-2`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Marc Surer](marc-surer) `1656`**: **`0`** wins <small>`0.0%`</small> • **`4`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-62`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 4 races (25.0%)
+- **DNFs**: `1` out of `4` races <small>`25.0%`</small>
 
 #### Detailed Results
 

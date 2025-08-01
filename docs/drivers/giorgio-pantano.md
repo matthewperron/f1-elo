@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1573`**<br/><small>[2004 Round 12 – German Grand Prix](../seasons/2004-season-report#round-12-german-grand-prix)</small></center> | <center>**`1483`**<br/><small>[2004 Round 3 – Bahrain Grand Prix](../seasons/2004-season-report#round-3-bahrain-grand-prix)</small></center> | <center>**`1509`**<br/><small>[2004 Round 4 – San Marino Grand Prix](../seasons/2004-season-report#round-4-san-marino-grand-prix)</small></center> |
-| **Lowest** | <center>**`1471`**<br/><small>[2004 Round 2 – Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix)</small></center> | <center>**`1416`**<br/><small>[2004 Round 15 – Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix)</small></center> | <center>**`1456`**<br/><small>[2004 Round 14 – Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix)</small></center> |
+| **Peak** | <center> 1573 <br/><small> [2004 Round 12 – German Grand Prix](../seasons/2004-season-report#round-12-german-grand-prix) </small></center> | <center> 1483 <br/><small> [2004 Round 3 – Bahrain Grand Prix](../seasons/2004-season-report#round-3-bahrain-grand-prix) </small></center> | <center> 1509  <br/><small> [2004 Round 4 – San Marino Grand Prix](../seasons/2004-season-report#round-4-san-marino-grand-prix) </small></center> |
+| **Lowest** | <center> 1471 <br/><small> [2004 Round 2 – Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix) </small></center> | <center> 1416 <br/><small> [2004 Round 15 – Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix) </small></center> | <center> 1456 <br/><small> [2004 Round 14 – Belgian Grand Prix](../seasons/2004-season-report#round-14-belgian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1714)**: 0 wins (0.0%) • 6 losses (60.0%) • 4 DNFs (40.0%) • **Elo <span style="color: red;">▼&nbsp;`-85`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1643)**: 5 wins (35.7%) • 9 losses (64.3%) • **Elo <span style="color: green;">▲&nbsp;+`73`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1714`**: **`0`** wins <small>`0.0%`</small> • **`6`** losses <small>`60.0%`</small> • **`4`** DNFs <small>`40.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-85`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1643`**: **`5`** wins <small>`35.7%`</small> • **`9`** losses <small>`64.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+73`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 14 races (28.6%)
+- **DNFs**: `4` out of `14` races <small>`28.6%`</small>
 
 #### Detailed Results
 

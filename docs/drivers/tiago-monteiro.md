@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1600`**<br/><small>[2006 Round 14 – Turkish Grand Prix](../seasons/2006-season-report#round-14-turkish-grand-prix)</small></center> | <center>**`1610`**<br/><small>[2006 Round 5 – European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)</small></center> | <center>**`1597`**<br/><small>[2006 Round 13 – Hungarian Grand Prix](../seasons/2006-season-report#round-13-hungarian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1431`**<br/><small>[2005 Round 5 – Spanish Grand Prix](../seasons/2005-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1420`**<br/><small>[2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1431`**<br/><small>[2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)</small></center> |
+| **Peak** | <center> 1600 <br/><small> [2006 Round 14 – Turkish Grand Prix](../seasons/2006-season-report#round-14-turkish-grand-prix) </small></center> | <center> 1610 <br/><small> [2006 Round 5 – European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix) </small></center> | <center> 1597  <br/><small> [2006 Round 13 – Hungarian Grand Prix](../seasons/2006-season-report#round-13-hungarian-grand-prix) </small></center> |
+| **Lowest** | <center> 1431 <br/><small> [2005 Round 5 – Spanish Grand Prix](../seasons/2005-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1420 <br/><small> [2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix) </small></center> | <center> 1431 <br/><small> [2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Narain Karthikeyan](narain-karthikeyan) (1423)**: 8 wins (53.3%) • 6 losses (40.0%) • 1 DNFs (6.7%) • **Elo <span style="color: green;">▲&nbsp;+`76`</span>**
-- **Qualifying vs [Narain Karthikeyan](narain-karthikeyan) (1504)**: 9 wins (47.4%) • 10 losses (52.6%) • **Elo <span style="color: red;">▼&nbsp;`-3`</span>**
+- **Races vs [Narain Karthikeyan](narain-karthikeyan) `1423`**: **`8`** wins <small>`53.3%`</small> • **`6`** losses <small>`40.0%`</small> • **`1`** DNFs <small>`6.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+76`</span>**
+- **Qualifying vs [Narain Karthikeyan](narain-karthikeyan) `1504`**: **`9`** wins <small>`47.4%`</small> • **`10`** losses <small>`52.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-3`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 19 races (5.3%)
+- **DNFs**: `1` out of `19` races <small>`5.3%`</small>
 
 #### Detailed Results
 
@@ -78,12 +78,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1627)**: 4 wins (28.6%) • 6 losses (42.9%) • 4 DNFs (28.6%) • **Elo <span style="color: red;">▼&nbsp;`-66`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1575)**: 8 wins (44.4%) • 10 losses (55.6%) • **Elo <span style="color: green;">▲&nbsp;+`20`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) `1627`**: **`4`** wins <small>`28.6%`</small> • **`6`** losses <small>`42.9%`</small> • **`4`** DNFs <small>`28.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-66`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) `1575`**: **`8`** wins <small>`44.4%`</small> • **`10`** losses <small>`55.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+20`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 18 races (22.2%)
+- **DNFs**: `4` out of `18` races <small>`22.2%`</small>
 
 #### Detailed Results
 

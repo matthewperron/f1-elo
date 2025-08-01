@@ -23,8 +23,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1793`**<br/><small>[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)</small></center> | <center>**`1617`**<br/><small>[1995 Round 8 – British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix)</small></center> | <center>**`1639`**<br/><small>[1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)</small></center> |
-| **Lowest** | <center>**`1489`**<br/><small>[1988 Round 10 – Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix)</small></center> | <center>**`1391`**<br/><small>[1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)</small></center> | <center>**`1448`**<br/><small>[1993 Round 10 – German Grand Prix](../seasons/1993-season-report#round-10-german-grand-prix)</small></center> |
+| **Peak** | <center> 1793 <br/><small> [1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix) </small></center> | <center> 1617 <br/><small> [1995 Round 8 – British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix) </small></center> | <center> 1639  <br/><small> [1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix) </small></center> |
+| **Lowest** | <center> 1489 <br/><small> [1988 Round 10 – Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix) </small></center> | <center> 1391 <br/><small> [1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix) </small></center> | <center> 1448 <br/><small> [1993 Round 10 – German Grand Prix](../seasons/1993-season-report#round-10-german-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -41,12 +41,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1495)**: 2 wins (33.3%) • 1 losses (16.7%) • 3 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`34`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1412)**: 7 wins (77.8%) • 2 losses (22.2%) • **Elo <span style="color: green;">▲&nbsp;+`119`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) `1495`**: **`2`** wins <small>`33.3%`</small> • **`1`** losses <small>`16.7%`</small> • **`3`** DNFs <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+34`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) `1412`**: **`7`** wins <small>`77.8%`</small> • **`2`** losses <small>`22.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+119`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 9 races (33.3%)
+- **DNFs**: `3` out of `9` races <small>`33.3%`</small>
 
 #### Detailed Results
 
@@ -74,12 +74,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1471)**: 4 wins (36.4%) • 2 losses (18.2%) • 5 DNFs (45.5%) • **Elo <span style="color: green;">▲&nbsp;+`24`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1310)**: 11 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`102`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) `1471`**: **`4`** wins <small>`36.4%`</small> • **`2`** losses <small>`18.2%`</small> • **`5`** DNFs <small>`45.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+24`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) `1310`**: **`11`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+102`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 11 races (45.5%)
+- **DNFs**: `5` out of `11` races <small>`45.5%`</small>
 
 #### Detailed Results
 
@@ -109,15 +109,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla](paolo-barilla) (1506)**: 2 wins (33.3%) • 2 losses (33.3%) • 2 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla](paolo-barilla) (1425)**: 7 wins (87.5%) • 1 losses (12.5%) • **Elo <span style="color: green;">▲&nbsp;+`26`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla](paolo-barilla) `1506`**: **`2`** wins <small>`33.3%`</small> • **`2`** losses <small>`33.3%`</small> • **`2`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla](paolo-barilla) `1425`**: **`7`** wins <small>`87.5%`</small> • **`1`** losses <small>`12.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+26`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`27`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) (N/A)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`21`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) `N/A`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+27`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) `N/A`**: **`2`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+21`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 10 races (20.0%)
+- **DNFs**: `2` out of `10` races <small>`20.0%`</small>
 
 #### Detailed Results
 
@@ -146,15 +146,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) (1456)**: 5 wins (38.5%) • 3 losses (23.1%) • 5 DNFs (38.5%) • **Elo <span style="color: green;">▲&nbsp;+`18`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) (1536)**: 9 wins (60.0%) • 6 losses (40.0%) • **Elo <span style="color: red;">▼&nbsp;`-85`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) `1456`**: **`5`** wins <small>`38.5%`</small> • **`3`** losses <small>`23.1%`</small> • **`5`** DNFs <small>`38.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+18`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) `1536`**: **`9`** wins <small>`60.0%`</small> • **`6`** losses <small>`40.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-85`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`18`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) `N/A`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+18`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 16 races (31.3%)
+- **DNFs**: `5` out of `16` races <small>`31.3%`</small>
 
 #### Detailed Results
 
@@ -189,12 +189,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (1615)**: 2 wins (16.7%) • 6 losses (50.0%) • 4 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-126`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (1576)**: 7 wins (46.7%) • 8 losses (53.3%) • **Elo <span style="color: red;">▼&nbsp;`-95`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) `1615`**: **`2`** wins <small>`16.7%`</small> • **`6`** losses <small>`50.0%`</small> • **`4`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-126`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) `1576`**: **`7`** wins <small>`46.7%`</small> • **`8`** losses <small>`53.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-95`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 15 races (26.7%)
+- **DNFs**: `4` out of `15` races <small>`26.7%`</small>
 
 #### Detailed Results
 
@@ -228,15 +228,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) (1538)**: 2 wins (40.0%) • 2 losses (40.0%) • 1 DNFs (20.0%) • **Elo <span style="color: green;">▲&nbsp;+`64`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) (1541)**: 4 wins (66.7%) • 2 losses (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`74`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) `1538`**: **`2`** wins <small>`40.0%`</small> • **`2`** losses <small>`40.0%`</small> • **`1`** DNFs <small>`20.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+64`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) `1541`**: **`4`** wins <small>`66.7%`</small> • **`2`** losses <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+74`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Marc Gounon](jean-marc-gounon) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Marc Gounon](jean-marc-gounon) (1523)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-23`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Marc Gounon](jean-marc-gounon) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Marc Gounon](jean-marc-gounon) `1523`**: **`1`** wins <small>`50.0%`</small> • **`1`** losses <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-23`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 8 races (25.0%)
+- **DNFs**: `2` out of `8` races <small>`25.0%`</small>
 
 #### Detailed Results
 
@@ -263,12 +263,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1477)**: 5 wins (55.6%) • 4 losses (44.4%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`58`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1498)**: 13 wins (81.3%) • 3 losses (18.8%) • **Elo <span style="color: green;">▲&nbsp;+`78`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) `1477`**: **`5`** wins <small>`55.6%`</small> • **`4`** losses <small>`44.4%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+58`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) `1498`**: **`13`** wins <small>`81.3%`</small> • **`3`** losses <small>`18.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+78`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 16 races (0.0%)
+- **DNFs**: `0` out of `16` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -303,12 +303,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer](luca-badoer) (1441)**: 3 wins (42.9%) • 0 losses (0.0%) • 4 DNFs (57.1%) • **Elo <span style="color: green;">▲&nbsp;+`73`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer](luca-badoer) (1590)**: 5 wins (55.6%) • 4 losses (44.4%) • **Elo <span style="color: red;">▼&nbsp;`-104`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer](luca-badoer) `1441`**: **`3`** wins <small>`42.9%`</small> • **`0`** losses <small>`0.0%`</small> • **`4`** DNFs <small>`57.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+73`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luca Badoer](luca-badoer) `1590`**: **`5`** wins <small>`55.6%`</small> • **`4`** losses <small>`44.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-104`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 9 races (44.4%)
+- **DNFs**: `4` out of `9` races <small>`44.4%`</small>
 
 #### Detailed Results
 

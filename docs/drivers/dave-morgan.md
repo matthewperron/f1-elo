@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1468`**<br/><small>[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)</small></center> | <center>**`1465`**<br/><small>[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)</small></center> | <center>**`1466`**<br/><small>[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)</small></center> |
-| **Lowest** | <center>**`1468`**<br/><small>[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)</small></center> | <center>**`1465`**<br/><small>[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)</small></center> | <center>**`1466`**<br/><small>[1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix)</small></center> |
+| **Peak** | <center> 1468 <br/><small> [1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix) </small></center> | <center> 1465 <br/><small> [1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix) </small></center> | <center> 1466  <br/><small> [1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix) </small></center> |
+| **Lowest** | <center> 1468 <br/><small> [1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix) </small></center> | <center> 1465 <br/><small> [1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix) </small></center> | <center> 1466 <br/><small> [1975 Round 10 – British Grand Prix](../seasons/1975-season-report#round-10-british-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](john-watson) (1506)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](john-watson) (1527)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](john-watson) `1506`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Watson](john-watson) `1527`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 

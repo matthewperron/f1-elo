@@ -20,8 +20,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1661`**<br/><small>[1992 Round 15 – Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)</small></center> | <center>**`1607`**<br/><small>[1990 Round 16 – Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)</small></center> | <center>**`1610`**<br/><small>[1990 Round 16 – Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1503`**<br/><small>[1997 Round 5 – Monaco Grand Prix](../seasons/1997-season-report#round-5-monaco-grand-prix)</small></center> | <center>**`1471`**<br/><small>[1990 Round 7 – French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix)</small></center> | <center>**`1487`**<br/><small>[1997 Round 4 – San Marino Grand Prix](../seasons/1997-season-report#round-4-san-marino-grand-prix)</small></center> |
+| **Peak** | <center> 1661 <br/><small> [1992 Round 15 – Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix) </small></center> | <center> 1607 <br/><small> [1990 Round 16 – Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix) </small></center> | <center> 1610  <br/><small> [1990 Round 16 – Australian Grand Prix](../seasons/1990-season-report#round-16-australian-grand-prix) </small></center> |
+| **Lowest** | <center> 1503 <br/><small> [1997 Round 5 – Monaco Grand Prix](../seasons/1997-season-report#round-5-monaco-grand-prix) </small></center> | <center> 1471 <br/><small> [1990 Round 7 – French Grand Prix](../seasons/1990-season-report#round-7-french-grand-prix) </small></center> | <center> 1487 <br/><small> [1997 Round 4 – San Marino Grand Prix](../seasons/1997-season-report#round-4-san-marino-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -38,12 +38,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1524)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1379)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`46`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1524`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`2`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1379`**: **`2`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+46`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 2 races (100.0%)
+- **DNFs**: `2` out of `2` races <small>`100.0%`</small>
 
 #### Detailed Results
 
@@ -64,12 +64,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1324)**: 9 wins (69.2%) • 2 losses (15.4%) • 2 DNFs (15.4%) • **Elo <span style="color: green;">▲&nbsp;+`107`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) (1640)**: 6 wins (40.0%) • 9 losses (60.0%) • **Elo <span style="color: green;">▲&nbsp;+`69`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) `1324`**: **`9`** wins <small>`69.2%`</small> • **`2`** losses <small>`15.4%`</small> • **`2`** DNFs <small>`15.4%`</small> • **Elo <span style="color: green;">▲&nbsp;`+107`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot) `1640`**: **`6`** wins <small>`40.0%`</small> • **`9`** losses <small>`60.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+69`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 15 races (13.3%)
+- **DNFs**: `2` out of `15` races <small>`13.3%`</small>
 
 #### Detailed Results
 
@@ -103,12 +103,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1642)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1756)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`20`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) `1642`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) `1756`**: **`1`** wins <small>`50.0%`</small> • **`1`** losses <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+20`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 2 races (0.0%)
+- **DNFs**: `0` out of `2` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -129,12 +129,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](gerhard-berger) (1631)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](gerhard-berger) (1820)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](gerhard-berger) `1631`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Gerhard Berger](gerhard-berger) `1820`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 2 races (0.0%)
+- **DNFs**: `0` out of `2` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -155,12 +155,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) (1494)**: 2 wins (50.0%) • 2 losses (50.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) (1756)**: 0 wins (0.0%) • 5 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-98`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) `1494`**: **`2`** wins <small>`50.0%`</small> • **`2`** losses <small>`50.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) `1756`**: **`0`** wins <small>`0.0%`</small> • **`5`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-98`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 5 races (0.0%)
+- **DNFs**: `0` out of `5` races <small>`0.0%`</small>
 
 #### Detailed Results
 

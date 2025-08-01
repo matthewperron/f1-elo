@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1538`**<br/><small>[1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)</small></center> | <center>**`1521`**<br/><small>[1995 Round 8 – British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix)</small></center> | <center>**`1526`**<br/><small>[1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)</small></center> |
-| **Lowest** | <center>**`1437`**<br/><small>[1995 Round 13 – Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix)</small></center> | <center>**`1475`**<br/><small>[1995 Round 11 – Belgian Grand Prix](../seasons/1995-season-report#round-11-belgian-grand-prix)</small></center> | <center>**`1467`**<br/><small>[1995 Round 11 – Belgian Grand Prix](../seasons/1995-season-report#round-11-belgian-grand-prix)</small></center> |
+| **Peak** | <center> 1538 <br/><small> [1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix) </small></center> | <center> 1521 <br/><small> [1995 Round 8 – British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix) </small></center> | <center> 1526  <br/><small> [1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix) </small></center> |
+| **Lowest** | <center> 1437 <br/><small> [1995 Round 13 – Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) </small></center> | <center> 1475 <br/><small> [1995 Round 11 – Belgian Grand Prix](../seasons/1995-season-report#round-11-belgian-grand-prix) </small></center> | <center> 1467 <br/><small> [1995 Round 11 – Belgian Grand Prix](../seasons/1995-season-report#round-11-belgian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue](taki-inoue) (1376)**: 2 wins (33.3%) • 1 losses (16.7%) • 3 DNFs (50.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue](taki-inoue) (1401)**: 4 wins (57.1%) • 3 losses (42.9%) • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue](taki-inoue) `1376`**: **`2`** wins <small>`33.3%`</small> • **`1`** losses <small>`16.7%`</small> • **`3`** DNFs <small>`50.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Taki Inoue](taki-inoue) `1401`**: **`4`** wins <small>`57.1%`</small> • **`3`** losses <small>`42.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 7 races (42.9%)
+- **DNFs**: `3` out of `7` races <small>`42.9%`</small>
 
 #### Detailed Results
 

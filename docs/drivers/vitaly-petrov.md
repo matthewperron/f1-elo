@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1671`**<br/><small>[2012 Round 20 – Brazilian Grand Prix](../seasons/2012-season-report#round-20-brazilian-grand-prix)</small></center> | <center>**`1647`**<br/><small>[2012 Round 4 – Bahrain Grand Prix](../seasons/2012-season-report#round-4-bahrain-grand-prix)</small></center> | <center>**`1647`**<br/><small>[2012 Round 20 – Brazilian Grand Prix](../seasons/2012-season-report#round-20-brazilian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1372`**<br/><small>[2010 Round 11 – German Grand Prix](../seasons/2010-season-report#round-11-german-grand-prix)</small></center> | <center>**`1341`**<br/><small>[2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)</small></center> | <center>**`1356`**<br/><small>[2010 Round 18 – Brazilian Grand Prix](../seasons/2010-season-report#round-18-brazilian-grand-prix)</small></center> |
+| **Peak** | <center> 1671 <br/><small> [2012 Round 20 – Brazilian Grand Prix](../seasons/2012-season-report#round-20-brazilian-grand-prix) </small></center> | <center> 1647 <br/><small> [2012 Round 4 – Bahrain Grand Prix](../seasons/2012-season-report#round-4-bahrain-grand-prix) </small></center> | <center> 1647  <br/><small> [2012 Round 20 – Brazilian Grand Prix](../seasons/2012-season-report#round-20-brazilian-grand-prix) </small></center> |
+| **Lowest** | <center> 1372 <br/><small> [2010 Round 11 – German Grand Prix](../seasons/2010-season-report#round-11-german-grand-prix) </small></center> | <center> 1341 <br/><small> [2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix) </small></center> | <center> 1356 <br/><small> [2010 Round 18 – Brazilian Grand Prix](../seasons/2010-season-report#round-18-brazilian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1740)**: 0 wins (0.0%) • 13 losses (81.3%) • 3 DNFs (18.8%) • **Elo <span style="color: red;">▼&nbsp;`-159`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1696)**: 2 wins (10.5%) • 17 losses (89.5%) • **Elo <span style="color: red;">▼&nbsp;`-66`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) `1740`**: **`0`** wins <small>`0.0%`</small> • **`13`** losses <small>`81.3%`</small> • **`3`** DNFs <small>`18.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-159`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) `1696`**: **`2`** wins <small>`10.5%`</small> • **`17`** losses <small>`89.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-66`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 19 races (15.8%)
+- **DNFs**: `3` out of `19` races <small>`15.8%`</small>
 
 #### Detailed Results
 
@@ -79,15 +79,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1518)**: 4 wins (40.0%) • 6 losses (60.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`78`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1349)**: 8 wins (72.7%) • 3 losses (27.3%) • **Elo <span style="color: green;">▲&nbsp;+`83`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1518`**: **`4`** wins <small>`40.0%`</small> • **`6`** losses <small>`60.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+78`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1349`**: **`8`** wins <small>`72.7%`</small> • **`3`** losses <small>`27.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+83`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1457)**: 5 wins (62.5%) • 3 losses (37.5%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`128`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1561)**: 3 wins (37.5%) • 5 losses (62.5%) • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) `1457`**: **`5`** wins <small>`62.5%`</small> • **`3`** losses <small>`37.5%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+128`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) `1561`**: **`3`** wins <small>`37.5%`</small> • **`5`** losses <small>`62.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 19 races (0.0%)
+- **DNFs**: `0` out of `19` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -125,12 +125,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) (1545)**: 10 wins (50.0%) • 7 losses (35.0%) • 3 DNFs (15.0%) • **Elo <span style="color: green;">▲&nbsp;+`91`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) (1610)**: 8 wins (40.0%) • 12 losses (60.0%) • **Elo <span style="color: green;">▲&nbsp;+`179`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) `1545`**: **`10`** wins <small>`50.0%`</small> • **`7`** losses <small>`35.0%`</small> • **`3`** DNFs <small>`15.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+91`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) `1610`**: **`8`** wins <small>`40.0%`</small> • **`12`** losses <small>`60.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+179`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 20 races (15.0%)
+- **DNFs**: `3` out of `20` races <small>`15.0%`</small>
 
 #### Detailed Results
 

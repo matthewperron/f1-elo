@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1480`**<br/><small>[1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)</small></center> | <center>**`1461`**<br/><small>[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1494`**<br/><small>[1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix)</small></center> |
-| **Lowest** | <center>**`1387`**<br/><small>[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1461`**<br/><small>[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1439`**<br/><small>[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)</small></center> |
+| **Peak** | <center> 1480 <br/><small> [1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix) </small></center> | <center> 1461 <br/><small> [1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix) </small></center> | <center> 1494  <br/><small> [1994 Round 14 – European Grand Prix](../seasons/1994-season-report#round-14-european-grand-prix) </small></center> |
+| **Lowest** | <center> 1387 <br/><small> [1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix) </small></center> | <center> 1461 <br/><small> [1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix) </small></center> | <center> 1439 <br/><small> [1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1517)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1688)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) `1517`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) `1688`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 2 races (50.0%)
+- **DNFs**: `1` out of `2` races <small>`50.0%`</small>
 
 #### Detailed Results
 
@@ -61,12 +61,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1460)**: 0 wins (0.0%) • 1 losses (25.0%) • 3 DNFs (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1573)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo <span style="color: red;">▼&nbsp;`-25`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) `1460`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`25.0%`</small> • **`3`** DNFs <small>`75.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) `1573`**: **`1`** wins <small>`20.0%`</small> • **`4`** losses <small>`80.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-25`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 5 races (60.0%)
+- **DNFs**: `3` out of `5` races <small>`60.0%`</small>
 
 #### Detailed Results
 

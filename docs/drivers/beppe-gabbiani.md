@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1561`**<br/><small>[1981 Round 5 – Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix)</small></center> | <center>**`1532`**<br/><small>[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1541`**<br/><small>[1981 Round 5 – Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1532`**<br/><small>[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1532`**<br/><small>[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1532`**<br/><small>[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)</small></center> |
+| **Peak** | <center> 1561 <br/><small> [1981 Round 5 – Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) </small></center> | <center> 1532 <br/><small> [1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) </small></center> | <center> 1541  <br/><small> [1981 Round 5 – Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) </small></center> |
+| **Lowest** | <center> 1532 <br/><small> [1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) </small></center> | <center> 1532 <br/><small> [1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) </small></center> | <center> 1532 <br/><small> [1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,15 +34,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Miguel Ángel Guerra](miguel-ngel-guerra) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Miguel Ángel Guerra](miguel-ngel-guerra) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Miguel Ángel Guerra](miguel-ngel-guerra) `1468`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+32`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Miguel Ángel Guerra](miguel-ngel-guerra) `1468`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+32`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1471)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`29`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1471`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+29`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 2 races (50.0%)
+- **DNFs**: `1` out of `2` races <small>`50.0%`</small>
 
 #### Detailed Results
 

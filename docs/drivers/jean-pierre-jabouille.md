@@ -19,8 +19,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1607`**<br/><small>[1979 Round 6 – Belgian Grand Prix](../seasons/1979-season-report#round-6-belgian-grand-prix)</small></center> | <center>**`1554`**<br/><small>[1980 Round 10 – Austrian Grand Prix](../seasons/1980-season-report#round-10-austrian-grand-prix)</small></center> | <center>**`1554`**<br/><small>[1979 Round 10 – German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix)</small></center> |
-| **Lowest** | <center>**`1444`**<br/><small>[1981 Round 7 – Spanish Grand Prix](../seasons/1981-season-report#round-7-spanish-grand-prix)</small></center> | <center>**`1467`**<br/><small>[1975 Round 9 – French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)</small></center> | <center>**`1468`**<br/><small>[1975 Round 9 – French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix)</small></center> |
+| **Peak** | <center> 1607 <br/><small> [1979 Round 6 – Belgian Grand Prix](../seasons/1979-season-report#round-6-belgian-grand-prix) </small></center> | <center> 1554 <br/><small> [1980 Round 10 – Austrian Grand Prix](../seasons/1980-season-report#round-10-austrian-grand-prix) </small></center> | <center> 1554  <br/><small> [1979 Round 10 – German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) </small></center> |
+| **Lowest** | <center> 1444 <br/><small> [1981 Round 7 – Spanish Grand Prix](../seasons/1981-season-report#round-7-spanish-grand-prix) </small></center> | <center> 1467 <br/><small> [1975 Round 9 – French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix) </small></center> | <center> 1468 <br/><small> [1975 Round 9 – French Grand Prix](../seasons/1975-season-report#round-9-french-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -37,15 +37,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1416)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-20`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1446)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-18`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) `1416`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-20`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) `1446`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-18`</span>**
 
-- **Races vs [Jody Scheckter](jody-scheckter) (1531)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
-- **Qualifying vs [Jody Scheckter](jody-scheckter) (1592)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
+- **Races vs [Jody Scheckter](jody-scheckter) `1531`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
+- **Qualifying vs [Jody Scheckter](jody-scheckter) `1592`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 2 races (0.0%)
+- **DNFs**: `0` out of `2` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -65,12 +65,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) (1436)**: 2 wins (14.3%) • 0 losses (0.0%) • 12 DNFs (85.7%) • **Elo <span style="color: green;">▲&nbsp;+`64`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) (1454)**: 11 wins (73.3%) • 4 losses (26.7%) • **Elo <span style="color: green;">▲&nbsp;+`47`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) `1436`**: **`2`** wins <small>`14.3%`</small> • **`0`** losses <small>`0.0%`</small> • **`12`** DNFs <small>`85.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+64`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) `1454`**: **`11`** wins <small>`73.3%`</small> • **`4`** losses <small>`26.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+47`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 12 out of 15 races (80.0%)
+- **DNFs**: `12` out of `15` races <small>`80.0%`</small>
 
 #### Detailed Results
 
@@ -104,12 +104,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) (1413)**: 1 wins (7.7%) • 0 losses (0.0%) • 12 DNFs (92.3%) • **Elo <span style="color: green;">▲&nbsp;+`23`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) (1478)**: 8 wins (61.5%) • 5 losses (38.5%) • **Elo <span style="color: red;">▼&nbsp;`-23`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) `1413`**: **`1`** wins <small>`7.7%`</small> • **`0`** losses <small>`0.0%`</small> • **`12`** DNFs <small>`92.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+23`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) `1478`**: **`8`** wins <small>`61.5%`</small> • **`5`** losses <small>`38.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-23`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 12 out of 13 races (92.3%)
+- **DNFs**: `12` out of `13` races <small>`92.3%`</small>
 
 #### Detailed Results
 
@@ -141,12 +141,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) (1586)**: 0 wins (0.0%) • 0 losses (0.0%) • 2 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) (1695)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) `1586`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`2`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jacques Laffite](jacques-laffite) `1695`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 3 races (66.7%)
+- **DNFs**: `2` out of `3` races <small>`66.7%`</small>
 
 #### Detailed Results
 

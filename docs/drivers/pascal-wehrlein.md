@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1715`**<br/><small>[2017 Round 6 – Monaco Grand Prix](../seasons/2017-season-report#round-6-monaco-grand-prix)</small></center> | <center>**`1639`**<br/><small>[2016 Round 9 – Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix)</small></center> | <center>**`1615`**<br/><small>[2016 Round 16 – Malaysian Grand Prix](../seasons/2016-season-report#round-16-malaysian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1501`**<br/><small>[2016 Round 10 – British Grand Prix](../seasons/2016-season-report#round-10-british-grand-prix)</small></center> | <center>**`1472`**<br/><small>[2017 Round 7 – Canadian Grand Prix](../seasons/2017-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1510`**<br/><small>[2016 Round 1 – Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)</small></center> |
+| **Peak** | <center> 1715 <br/><small> [2017 Round 6 – Monaco Grand Prix](../seasons/2017-season-report#round-6-monaco-grand-prix) </small></center> | <center> 1639 <br/><small> [2016 Round 9 – Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix) </small></center> | <center> 1615  <br/><small> [2016 Round 16 – Malaysian Grand Prix](../seasons/2016-season-report#round-16-malaysian-grand-prix) </small></center> |
+| **Lowest** | <center> 1501 <br/><small> [2016 Round 10 – British Grand Prix](../seasons/2016-season-report#round-10-british-grand-prix) </small></center> | <center> 1472 <br/><small> [2017 Round 7 – Canadian Grand Prix](../seasons/2017-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1510 <br/><small> [2016 Round 1 – Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,15 +35,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Rio Haryanto](rio-haryanto) (1382)**: 9 wins (81.8%) • 1 losses (9.1%) • 1 DNFs (9.1%) • **Elo <span style="color: green;">▲&nbsp;+`119`</span>**
-- **Qualifying vs [Rio Haryanto](rio-haryanto) (1441)**: 8 wins (66.7%) • 4 losses (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`60`</span>**
+- **Races vs [Rio Haryanto](rio-haryanto) `1382`**: **`9`** wins <small>`81.8%`</small> • **`1`** losses <small>`9.1%`</small> • **`1`** DNFs <small>`9.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+119`</span>**
+- **Qualifying vs [Rio Haryanto](rio-haryanto) `1441`**: **`8`** wins <small>`66.7%`</small> • **`4`** losses <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+60`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1610)**: 3 wins (33.3%) • 5 losses (55.6%) • 1 DNFs (11.1%) • **Elo <span style="color: red;">▼&nbsp;`-109`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1428)**: 7 wins (77.8%) • 2 losses (22.2%) • **Elo <span style="color: green;">▲&nbsp;+`73`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) `1610`**: **`3`** wins <small>`33.3%`</small> • **`5`** losses <small>`55.6%`</small> • **`1`** DNFs <small>`11.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-109`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) `1428`**: **`7`** wins <small>`77.8%`</small> • **`2`** losses <small>`22.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+73`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 21 races (9.5%)
+- **DNFs**: `2` out of `21` races <small>`9.5%`</small>
 
 #### Detailed Results
 
@@ -83,12 +83,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1520)**: 8 wins (53.3%) • 7 losses (46.7%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`56`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1578)**: 11 wins (61.1%) • 7 losses (38.9%) • **Elo <span style="color: red;">▼&nbsp;`-3`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) `1520`**: **`8`** wins <small>`53.3%`</small> • **`7`** losses <small>`46.7%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+56`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) `1578`**: **`11`** wins <small>`61.1%`</small> • **`7`** losses <small>`38.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-3`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 18 races (0.0%)
+- **DNFs**: `0` out of `18` races <small>`0.0%`</small>
 
 #### Detailed Results
 

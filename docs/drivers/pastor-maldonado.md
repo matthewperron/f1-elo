@@ -20,8 +20,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1755`**<br/><small>[2012 Round 19 – United States Grand Prix](../seasons/2012-season-report#round-19-united-states-grand-prix)</small></center> | <center>**`1670`**<br/><small>[2014 Round 14 – Singapore Grand Prix](../seasons/2014-season-report#round-14-singapore-grand-prix)</small></center> | <center>**`1631`**<br/><small>[2014 Round 14 – Singapore Grand Prix](../seasons/2014-season-report#round-14-singapore-grand-prix)</small></center> |
-| **Lowest** | <center>**`1478`**<br/><small>[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)</small></center> | <center>**`1430`**<br/><small>[2012 Round 13 – Italian Grand Prix](../seasons/2012-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1475`**<br/><small>[2011 Round 4 – Turkish Grand Prix](../seasons/2011-season-report#round-4-turkish-grand-prix)</small></center> |
+| **Peak** | <center> 1755 <br/><small> [2012 Round 19 – United States Grand Prix](../seasons/2012-season-report#round-19-united-states-grand-prix) </small></center> | <center> 1670 <br/><small> [2014 Round 14 – Singapore Grand Prix](../seasons/2014-season-report#round-14-singapore-grand-prix) </small></center> | <center> 1631  <br/><small> [2014 Round 14 – Singapore Grand Prix](../seasons/2014-season-report#round-14-singapore-grand-prix) </small></center> |
+| **Lowest** | <center> 1478 <br/><small> [2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix) </small></center> | <center> 1430 <br/><small> [2012 Round 13 – Italian Grand Prix](../seasons/2012-season-report#round-13-italian-grand-prix) </small></center> | <center> 1475 <br/><small> [2011 Round 4 – Turkish Grand Prix](../seasons/2011-season-report#round-4-turkish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -38,12 +38,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1550)**: 5 wins (27.8%) • 7 losses (38.9%) • 6 DNFs (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`53`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) (1672)**: 9 wins (47.4%) • 10 losses (52.6%) • **Elo <span style="color: green;">▲&nbsp;+`149`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) `1550`**: **`5`** wins <small>`27.8%`</small> • **`7`** losses <small>`38.9%`</small> • **`6`** DNFs <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+53`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Rubens Barrichello](rubens-barrichello) `1672`**: **`9`** wins <small>`47.4%`</small> • **`10`** losses <small>`52.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+149`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 19 races (31.6%)
+- **DNFs**: `6` out of `19` races <small>`31.6%`</small>
 
 #### Detailed Results
 
@@ -81,12 +81,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1440)**: 9 wins (45.0%) • 8 losses (40.0%) • 3 DNFs (15.0%) • **Elo <span style="color: green;">▲&nbsp;+`17`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1507)**: 15 wins (75.0%) • 5 losses (25.0%) • **Elo <span style="color: green;">▲&nbsp;+`54`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) `1440`**: **`9`** wins <small>`45.0%`</small> • **`8`** losses <small>`40.0%`</small> • **`3`** DNFs <small>`15.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+17`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) `1507`**: **`15`** wins <small>`75.0%`</small> • **`5`** losses <small>`25.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+54`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 20 races (15.0%)
+- **DNFs**: `3` out of `20` races <small>`15.0%`</small>
 
 #### Detailed Results
 
@@ -125,12 +125,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1470)**: 10 wins (55.6%) • 7 losses (38.9%) • 1 DNFs (5.6%) • **Elo <span style="color: green;">▲&nbsp;+`31`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1677)**: 7 wins (36.8%) • 12 losses (63.2%) • **Elo <span style="color: red;">▼&nbsp;`-175`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) `1470`**: **`10`** wins <small>`55.6%`</small> • **`7`** losses <small>`38.9%`</small> • **`1`** DNFs <small>`5.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+31`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) `1677`**: **`7`** wins <small>`36.8%`</small> • **`12`** losses <small>`63.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-175`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 19 races (5.3%)
+- **DNFs**: `1` out of `19` races <small>`5.3%`</small>
 
 #### Detailed Results
 
@@ -168,12 +168,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) (1608)**: 5 wins (31.3%) • 5 losses (31.3%) • 6 DNFs (37.5%) • **Elo <span style="color: green;">▲&nbsp;+`31`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) (1704)**: 5 wins (26.3%) • 14 losses (73.7%) • **Elo <span style="color: green;">▲&nbsp;+`73`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) `1608`**: **`5`** wins <small>`31.3%`</small> • **`5`** losses <small>`31.3%`</small> • **`6`** DNFs <small>`37.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+31`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) `1704`**: **`5`** wins <small>`26.3%`</small> • **`14`** losses <small>`73.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+73`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 19 races (31.6%)
+- **DNFs**: `6` out of `19` races <small>`31.6%`</small>
 
 #### Detailed Results
 
@@ -211,12 +211,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) (1731)**: 2 wins (13.3%) • 9 losses (60.0%) • 4 DNFs (26.7%) • **Elo <span style="color: red;">▼&nbsp;`-122`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) (1766)**: 3 wins (15.8%) • 16 losses (84.2%) • **Elo <span style="color: red;">▼&nbsp;`-61`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) `1731`**: **`2`** wins <small>`13.3%`</small> • **`9`** losses <small>`60.0%`</small> • **`4`** DNFs <small>`26.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-122`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Romain Grosjean](romain-grosjean) `1766`**: **`3`** wins <small>`15.8%`</small> • **`16`** losses <small>`84.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-61`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 19 races (21.1%)
+- **DNFs**: `4` out of `19` races <small>`21.1%`</small>
 
 #### Detailed Results
 

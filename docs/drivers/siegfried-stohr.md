@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1486`**<br/><small>[1981 Round 2 – Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)</small></center> | <center>**`1467`**<br/><small>[1981 Round 2 – Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)</small></center> | <center>**`1473`**<br/><small>[1981 Round 2 – Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1415`**<br/><small>[1981 Round 12 – Dutch Grand Prix](../seasons/1981-season-report#round-12-dutch-grand-prix)</small></center> | <center>**`1419`**<br/><small>[1981 Round 5 – Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix)</small></center> | <center>**`1417`**<br/><small>[1981 Round 12 – Dutch Grand Prix](../seasons/1981-season-report#round-12-dutch-grand-prix)</small></center> |
+| **Peak** | <center> 1486 <br/><small> [1981 Round 2 – Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) </small></center> | <center> 1467 <br/><small> [1981 Round 2 – Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) </small></center> | <center> 1473  <br/><small> [1981 Round 2 – Brazilian Grand Prix](../seasons/1981-season-report#round-2-brazilian-grand-prix) </small></center> |
+| **Lowest** | <center> 1415 <br/><small> [1981 Round 12 – Dutch Grand Prix](../seasons/1981-season-report#round-12-dutch-grand-prix) </small></center> | <center> 1419 <br/><small> [1981 Round 5 – Belgian Grand Prix](../seasons/1981-season-report#round-5-belgian-grand-prix) </small></center> | <center> 1417 <br/><small> [1981 Round 12 – Dutch Grand Prix](../seasons/1981-season-report#round-12-dutch-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1575)**: 0 wins (0.0%) • 3 losses (50.0%) • 3 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-82`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) (1806)**: 0 wins (0.0%) • 9 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-85`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) `1575`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`50.0%`</small> • **`3`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-82`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Riccardo Patrese](riccardo-patrese) `1806`**: **`0`** wins <small>`0.0%`</small> • **`9`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-85`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 9 races (33.3%)
+- **DNFs**: `3` out of `9` races <small>`33.3%`</small>
 
 #### Detailed Results
 

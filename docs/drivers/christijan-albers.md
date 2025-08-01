@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1654`**<br/><small>[2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)</small></center> | <center>**`1627`**<br/><small>[2006 Round 18 – Brazilian Grand Prix](../seasons/2006-season-report#round-18-brazilian-grand-prix)</small></center> | <center>**`1613`**<br/><small>[2005 Round 14 – Turkish Grand Prix](../seasons/2005-season-report#round-14-turkish-grand-prix)</small></center> |
-| **Lowest** | <center>**`1436`**<br/><small>[2007 Round 7 – United States Grand Prix](../seasons/2007-season-report#round-7-united-states-grand-prix)</small></center> | <center>**`1494`**<br/><small>[2005 Round 3 – Bahrain Grand Prix](../seasons/2005-season-report#round-3-bahrain-grand-prix)</small></center> | <center>**`1490`**<br/><small>[2005 Round 1 – Australian Grand Prix](../seasons/2005-season-report#round-1-australian-grand-prix)</small></center> |
+| **Peak** | <center> 1654 <br/><small> [2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix) </small></center> | <center> 1627 <br/><small> [2006 Round 18 – Brazilian Grand Prix](../seasons/2006-season-report#round-18-brazilian-grand-prix) </small></center> | <center> 1613  <br/><small> [2005 Round 14 – Turkish Grand Prix](../seasons/2005-season-report#round-14-turkish-grand-prix) </small></center> |
+| **Lowest** | <center> 1436 <br/><small> [2007 Round 7 – United States Grand Prix](../seasons/2007-season-report#round-7-united-states-grand-prix) </small></center> | <center> 1494 <br/><small> [2005 Round 3 – Bahrain Grand Prix](../seasons/2005-season-report#round-3-bahrain-grand-prix) </small></center> | <center> 1490 <br/><small> [2005 Round 1 – Australian Grand Prix](../seasons/2005-season-report#round-1-australian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,15 +36,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Patrick Friesacher](patrick-friesacher) (1405)**: 5 wins (50.0%) • 1 losses (10.0%) • 4 DNFs (40.0%) • **Elo <span style="color: green;">▲&nbsp;+`95`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Patrick Friesacher](patrick-friesacher) (1472)**: 6 wins (54.5%) • 5 losses (45.5%) • **Elo <span style="color: green;">▲&nbsp;+`27`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Patrick Friesacher](patrick-friesacher) `1405`**: **`5`** wins <small>`50.0%`</small> • **`1`** losses <small>`10.0%`</small> • **`4`** DNFs <small>`40.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+95`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Patrick Friesacher](patrick-friesacher) `1472`**: **`6`** wins <small>`54.5%`</small> • **`5`** losses <small>`45.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+27`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Robert Doornbos](robert-doornbos) (1535)**: 2 wins (28.6%) • 2 losses (28.6%) • 3 DNFs (42.9%) • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Robert Doornbos](robert-doornbos) (1433)**: 6 wins (75.0%) • 2 losses (25.0%) • **Elo <span style="color: green;">▲&nbsp;+`67`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Robert Doornbos](robert-doornbos) `1535`**: **`2`** wins <small>`28.6%`</small> • **`2`** losses <small>`28.6%`</small> • **`3`** DNFs <small>`42.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Robert Doornbos](robert-doornbos) `1433`**: **`6`** wins <small>`75.0%`</small> • **`2`** losses <small>`25.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+67`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 19 races (36.8%)
+- **DNFs**: `7` out of `19` races <small>`36.8%`</small>
 
 #### Detailed Results
 
@@ -82,12 +82,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Tiago Monteiro](tiago-monteiro) (1510)**: 6 wins (40.0%) • 4 losses (26.7%) • 5 DNFs (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`66`</span>**
-- **Qualifying vs [Tiago Monteiro](tiago-monteiro) (1516)**: 10 wins (55.6%) • 8 losses (44.4%) • **Elo <span style="color: red;">▼&nbsp;`-20`</span>**
+- **Races vs [Tiago Monteiro](tiago-monteiro) `1510`**: **`6`** wins <small>`40.0%`</small> • **`4`** losses <small>`26.7%`</small> • **`5`** DNFs <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+66`</span>**
+- **Qualifying vs [Tiago Monteiro](tiago-monteiro) `1516`**: **`10`** wins <small>`55.6%`</small> • **`8`** losses <small>`44.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-20`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 18 races (27.8%)
+- **DNFs**: `5` out of `18` races <small>`27.8%`</small>
 
 #### Detailed Results
 
@@ -124,12 +124,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1589)**: 1 wins (12.5%) • 3 losses (37.5%) • 4 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-89`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1613)**: 2 wins (22.2%) • 7 losses (77.8%) • **Elo <span style="color: red;">▼&nbsp;`-114`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) `1589`**: **`1`** wins <small>`12.5%`</small> • **`3`** losses <small>`37.5%`</small> • **`4`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-89`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) `1613`**: **`2`** wins <small>`22.2%`</small> • **`7`** losses <small>`77.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-114`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 9 races (44.4%)
+- **DNFs**: `4` out of `9` races <small>`44.4%`</small>
 
 #### Detailed Results
 

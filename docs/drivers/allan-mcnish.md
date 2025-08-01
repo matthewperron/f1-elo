@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1479`**<br/><small>[2002 Round 1 – Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1572`**<br/><small>[2002 Round 13 – Hungarian Grand Prix](../seasons/2002-season-report#round-13-hungarian-grand-prix)</small></center> | <center>**`1525`**<br/><small>[2002 Round 13 – Hungarian Grand Prix](../seasons/2002-season-report#round-13-hungarian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1372`**<br/><small>[2002 Round 11 – French Grand Prix](../seasons/2002-season-report#round-11-french-grand-prix)</small></center> | <center>**`1483`**<br/><small>[2002 Round 1 – Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1482`**<br/><small>[2002 Round 1 – Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix)</small></center> |
+| **Peak** | <center> 1479 <br/><small> [2002 Round 1 – Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix) </small></center> | <center> 1572 <br/><small> [2002 Round 13 – Hungarian Grand Prix](../seasons/2002-season-report#round-13-hungarian-grand-prix) </small></center> | <center> 1525  <br/><small> [2002 Round 13 – Hungarian Grand Prix](../seasons/2002-season-report#round-13-hungarian-grand-prix) </small></center> |
+| **Lowest** | <center> 1372 <br/><small> [2002 Round 11 – French Grand Prix](../seasons/2002-season-report#round-11-french-grand-prix) </small></center> | <center> 1483 <br/><small> [2002 Round 1 – Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix) </small></center> | <center> 1482 <br/><small> [2002 Round 1 – Australian Grand Prix](../seasons/2002-season-report#round-1-australian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1657)**: 3 wins (21.4%) • 5 losses (35.7%) • 6 DNFs (42.9%) • **Elo <span style="color: green;">▲&nbsp;+`18`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1688)**: 2 wins (11.8%) • 15 losses (88.2%) • **Elo <span style="color: red;">▼&nbsp;`-58`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) `1657`**: **`3`** wins <small>`21.4%`</small> • **`5`** losses <small>`35.7%`</small> • **`6`** DNFs <small>`42.9%`</small> • **Elo <span style="color: green;">▲&nbsp;`+18`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) `1688`**: **`2`** wins <small>`11.8%`</small> • **`15`** losses <small>`88.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-58`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 17 races (35.3%)
+- **DNFs**: `6` out of `17` races <small>`35.3%`</small>
 
 #### Detailed Results
 

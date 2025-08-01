@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1478`**<br/><small>[1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)</small></center> | <center>**`1547`**<br/><small>[1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)</small></center> | <center>**`1526`**<br/><small>[1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1420`**<br/><small>[1970 Round 10 – Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)</small></center> | <center>**`1517`**<br/><small>[1970 Round 9 – Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix)</small></center> | <center>**`1488`**<br/><small>[1970 Round 10 – Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix)</small></center> |
+| **Peak** | <center> 1478 <br/><small> [1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) </small></center> | <center> 1547 <br/><small> [1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) </small></center> | <center> 1526  <br/><small> [1970 Round 4 – Belgian Grand Prix](../seasons/1970-season-report#round-4-belgian-grand-prix) </small></center> |
+| **Lowest** | <center> 1420 <br/><small> [1970 Round 10 – Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) </small></center> | <center> 1517 <br/><small> [1970 Round 9 – Austrian Grand Prix](../seasons/1970-season-report#round-9-austrian-grand-prix) </small></center> | <center> 1488 <br/><small> [1970 Round 10 – Italian Grand Prix](../seasons/1970-season-report#round-10-italian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,15 +34,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) (1669)**: 1 wins (33.3%) • 1 losses (33.3%) • 1 DNFs (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`36`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) (1694)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) `1669`**: **`1`** wins <small>`33.3%`</small> • **`1`** losses <small>`33.3%`</small> • **`1`** DNFs <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+36`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Jacky Ickx](jacky-ickx) `1694`**: **`0`** wins <small>`0.0%`</small> • **`4`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) (1490)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) (1484)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) `1490`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Clay Regazzoni](clay-regazzoni) `1484`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 6 races (33.3%)
+- **DNFs**: `2` out of `6` races <small>`33.3%`</small>
 
 #### Detailed Results
 

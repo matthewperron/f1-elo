@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1579`**<br/><small>[2015 Round 6 – Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)</small></center> | <center>**`1625`**<br/><small>[2015 Round 6 – Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)</small></center> | <center>**`1611`**<br/><small>[2015 Round 6 – Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix)</small></center> |
-| **Lowest** | <center>**`1374`**<br/><small>[2016 Round 3 – Chinese Grand Prix](../seasons/2016-season-report#round-3-chinese-grand-prix)</small></center> | <center>**`1391`**<br/><small>[2016 Round 7 – Canadian Grand Prix](../seasons/2016-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1402`**<br/><small>[2016 Round 6 – Monaco Grand Prix](../seasons/2016-season-report#round-6-monaco-grand-prix)</small></center> |
+| **Peak** | <center> 1579 <br/><small> [2015 Round 6 – Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix) </small></center> | <center> 1625 <br/><small> [2015 Round 6 – Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix) </small></center> | <center> 1611  <br/><small> [2015 Round 6 – Monaco Grand Prix](../seasons/2015-season-report#round-6-monaco-grand-prix) </small></center> |
+| **Lowest** | <center> 1374 <br/><small> [2016 Round 3 – Chinese Grand Prix](../seasons/2016-season-report#round-3-chinese-grand-prix) </small></center> | <center> 1391 <br/><small> [2016 Round 7 – Canadian Grand Prix](../seasons/2016-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1402 <br/><small> [2016 Round 6 – Monaco Grand Prix](../seasons/2016-season-report#round-6-monaco-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1475)**: 10 wins (55.6%) • 5 losses (27.8%) • 3 DNFs (16.7%) • **Elo <span style="color: green;">▲&nbsp;+`19`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1514)**: 9 wins (47.4%) • 10 losses (52.6%) • **Elo <span style="color: red;">▼&nbsp;`-61`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) `1475`**: **`10`** wins <small>`55.6%`</small> • **`5`** losses <small>`27.8%`</small> • **`3`** DNFs <small>`16.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+19`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) `1514`**: **`9`** wins <small>`47.4%`</small> • **`10`** losses <small>`52.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-61`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 19 races (15.8%)
+- **DNFs**: `3` out of `19` races <small>`15.8%`</small>
 
 #### Detailed Results
 
@@ -78,12 +78,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1549)**: 5 wins (27.8%) • 10 losses (55.6%) • 3 DNFs (16.7%) • **Elo <span style="color: red;">▼&nbsp;`-73`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) (1522)**: 9 wins (42.9%) • 12 losses (57.1%) • **Elo <span style="color: red;">▼&nbsp;`-9`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) `1549`**: **`5`** wins <small>`27.8%`</small> • **`10`** losses <small>`55.6%`</small> • **`3`** DNFs <small>`16.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-73`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Marcus Ericsson](marcus-ericsson) `1522`**: **`9`** wins <small>`42.9%`</small> • **`12`** losses <small>`57.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-9`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 21 races (14.3%)
+- **DNFs**: `3` out of `21` races <small>`14.3%`</small>
 
 #### Detailed Results
 

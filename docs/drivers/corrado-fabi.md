@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1506`**<br/><small>[1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)</small></center> | <center>**`1577`**<br/><small>[1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)</small></center> | <center>**`1556`**<br/><small>[1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix)</small></center> |
-| **Lowest** | <center>**`1414`**<br/><small>[1983 Round 13 – Italian Grand Prix](../seasons/1983-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1532`**<br/><small>[1983 Round 11 – Austrian Grand Prix](../seasons/1983-season-report#round-11-austrian-grand-prix)</small></center> | <center>**`1490`**<br/><small>[1983 Round 7 – Detroit Grand Prix](../seasons/1983-season-report#round-7-detroit-grand-prix)</small></center> |
+| **Peak** | <center> 1506 <br/><small> [1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix) </small></center> | <center> 1577 <br/><small> [1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix) </small></center> | <center> 1556  <br/><small> [1984 Round 9 – Dallas Grand Prix](../seasons/1984-season-report#round-9-dallas-grand-prix) </small></center> |
+| **Lowest** | <center> 1414 <br/><small> [1983 Round 13 – Italian Grand Prix](../seasons/1983-season-report#round-13-italian-grand-prix) </small></center> | <center> 1532 <br/><small> [1983 Round 11 – Austrian Grand Prix](../seasons/1983-season-report#round-11-austrian-grand-prix) </small></center> | <center> 1490 <br/><small> [1983 Round 7 – Detroit Grand Prix](../seasons/1983-season-report#round-7-detroit-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1468)**: 1 wins (25.0%) • 0 losses (0.0%) • 3 DNFs (75.0%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1513)**: 1 wins (25.0%) • 3 losses (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1468`**: **`1`** wins <small>`25.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`3`** DNFs <small>`75.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+32`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1513`**: **`1`** wins <small>`25.0%`</small> • **`3`** losses <small>`75.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 4 races (75.0%)
+- **DNFs**: `3` out of `4` races <small>`75.0%`</small>
 
 #### Detailed Results
 
@@ -63,12 +63,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1637)**: 1 wins (33.3%) • 0 losses (0.0%) • 2 DNFs (66.7%) • **Elo <span style="color: green;">▲&nbsp;+`45`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1823)**: 1 wins (33.3%) • 2 losses (66.7%) • **Elo <span style="color: green;">▲&nbsp;+`48`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) `1637`**: **`1`** wins <small>`33.3%`</small> • **`0`** losses <small>`0.0%`</small> • **`2`** DNFs <small>`66.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+45`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) `1823`**: **`1`** wins <small>`33.3%`</small> • **`2`** losses <small>`66.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+48`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 3 races (66.7%)
+- **DNFs**: `2` out of `3` races <small>`66.7%`</small>
 
 #### Detailed Results
 

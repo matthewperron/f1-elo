@@ -19,8 +19,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1598`**<br/><small>[1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1482`**<br/><small>[1990 Round 15 – Japanese Grand Prix](../seasons/1990-season-report#round-15-japanese-grand-prix)</small></center> | <center>**`1490`**<br/><small>[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)</small></center> |
-| **Lowest** | <center>**`1429`**<br/><small>[1995 Round 16 – Japanese Grand Prix](../seasons/1995-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1389`**<br/><small>[1995 Round 12 – Italian Grand Prix](../seasons/1995-season-report#round-12-italian-grand-prix)</small></center> | <center>**`1416`**<br/><small>[1995 Round 14 – European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix)</small></center> |
+| **Peak** | <center> 1598 <br/><small> [1995 Round 4 – Spanish Grand Prix](../seasons/1995-season-report#round-4-spanish-grand-prix) </small></center> | <center> 1482 <br/><small> [1990 Round 15 – Japanese Grand Prix](../seasons/1990-season-report#round-15-japanese-grand-prix) </small></center> | <center> 1490  <br/><small> [1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix) </small></center> |
+| **Lowest** | <center> 1429 <br/><small> [1995 Round 16 – Japanese Grand Prix](../seasons/1995-season-report#round-16-japanese-grand-prix) </small></center> | <center> 1389 <br/><small> [1995 Round 12 – Italian Grand Prix](../seasons/1995-season-report#round-12-italian-grand-prix) </small></center> | <center> 1416 <br/><small> [1995 Round 14 – European Grand Prix](../seasons/1995-season-report#round-14-european-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -37,12 +37,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre-Henri Raphanel](pierre-henri-raphanel) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre-Henri Raphanel](pierre-henri-raphanel) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre-Henri Raphanel](pierre-henri-raphanel) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre-Henri Raphanel](pierre-henri-raphanel) `1532`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 1 races (100.0%)
+- **DNFs**: `1` out of `1` races <small>`100.0%`</small>
 
 #### Detailed Results
 
@@ -62,12 +62,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1697)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1844)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) `1697`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) `1844`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 2 races (0.0%)
+- **DNFs**: `0` out of `2` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -88,18 +88,18 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1733)**: 0 wins (0.0%) • 3 losses (42.9%) • 4 DNFs (57.1%) • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) (1776)**: 3 wins (27.3%) • 8 losses (72.7%) • **Elo <span style="color: green;">▲&nbsp;+`68`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) `1733`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`42.9%`</small> • **`4`** DNFs <small>`57.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Nelson Piquet](nelson-piquet) `1776`**: **`3`** wins <small>`27.3%`</small> • **`8`** losses <small>`72.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+68`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (N/A)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (N/A)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-4`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) `N/A`**: **`1`** wins <small>`50.0%`</small> • **`1`** losses <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-4`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`49`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-18`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) `N/A`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+49`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-18`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 14 races (28.6%)
+- **DNFs**: `4` out of `14` races <small>`28.6%`</small>
 
 #### Detailed Results
 
@@ -132,12 +132,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz](pedro-diniz) (1530)**: 2 wins (12.5%) • 5 losses (31.3%) • 9 DNFs (56.3%) • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz](pedro-diniz) (1527)**: 9 wins (52.9%) • 8 losses (47.1%) • **Elo <span style="color: red;">▼&nbsp;`-26`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz](pedro-diniz) `1530`**: **`2`** wins <small>`12.5%`</small> • **`5`** losses <small>`31.3%`</small> • **`9`** DNFs <small>`56.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Pedro Diniz](pedro-diniz) `1527`**: **`9`** wins <small>`52.9%`</small> • **`8`** losses <small>`47.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-26`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 9 out of 17 races (52.9%)
+- **DNFs**: `9` out of `17` races <small>`52.9%`</small>
 
 #### Detailed Results
 

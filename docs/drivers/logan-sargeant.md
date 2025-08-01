@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1478`**<br/><small>[2023 Round 1 – Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)</small></center> | <center>**`1482`**<br/><small>[2023 Round 1 – Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)</small></center> | <center>**`1481`**<br/><small>[2023 Round 1 – Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix)</small></center> |
-| **Lowest** | <center>**`1285`**<br/><small>[2024 Round 9 – Canadian Grand Prix](../seasons/2024-season-report#round-9-canadian-grand-prix)</small></center> | <center>**`1323`**<br/><small>[2024 Round 15 – Dutch Grand Prix](../seasons/2024-season-report#round-15-dutch-grand-prix)</small></center> | <center>**`1325`**<br/><small>[2024 Round 9 – Canadian Grand Prix](../seasons/2024-season-report#round-9-canadian-grand-prix)</small></center> |
+| **Peak** | <center> 1478 <br/><small> [2023 Round 1 – Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix) </small></center> | <center> 1482 <br/><small> [2023 Round 1 – Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix) </small></center> | <center> 1481  <br/><small> [2023 Round 1 – Bahrain Grand Prix](../seasons/2023-season-report#round-1-bahrain-grand-prix) </small></center> |
+| **Lowest** | <center> 1285 <br/><small> [2024 Round 9 – Canadian Grand Prix](../seasons/2024-season-report#round-9-canadian-grand-prix) </small></center> | <center> 1323 <br/><small> [2024 Round 15 – Dutch Grand Prix](../seasons/2024-season-report#round-15-dutch-grand-prix) </small></center> | <center> 1325 <br/><small> [2024 Round 9 – Canadian Grand Prix](../seasons/2024-season-report#round-9-canadian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1800)**: 0 wins (0.0%) • 15 losses (78.9%) • 4 DNFs (21.1%) • **Elo <span style="color: red;">▼&nbsp;`-140`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1799)**: 0 wins (0.0%) • 22 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-189`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) `1800`**: **`0`** wins <small>`0.0%`</small> • **`15`** losses <small>`78.9%`</small> • **`4`** DNFs <small>`21.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-140`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) `1799`**: **`0`** wins <small>`0.0%`</small> • **`22`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-189`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 22 races (18.2%)
+- **DNFs**: `4` out of `22` races <small>`18.2%`</small>
 
 #### Detailed Results
 
@@ -81,12 +81,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1839)**: 0 wins (0.0%) • 10 losses (83.3%) • 2 DNFs (16.7%) • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) (1723)**: 2 wins (14.3%) • 12 losses (85.7%) • **Elo <span style="color: green;">▲&nbsp;+`76`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) `1839`**: **`0`** wins <small>`0.0%`</small> • **`10`** losses <small>`83.3%`</small> • **`2`** DNFs <small>`16.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Alexander Albon](alexander-albon) `1723`**: **`2`** wins <small>`14.3%`</small> • **`12`** losses <small>`85.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+76`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 14 races (14.3%)
+- **DNFs**: `2` out of `14` races <small>`14.3%`</small>
 
 #### Detailed Results
 

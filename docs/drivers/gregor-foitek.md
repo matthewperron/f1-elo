@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1573`**<br/><small>[1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)</small></center> | <center>**`1471`**<br/><small>[1990 Round 1 – United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix)</small></center> | <center>**`1502`**<br/><small>[1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)</small></center> |
-| **Lowest** | <center>**`1466`**<br/><small>[1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix)</small></center> | <center>**`1441`**<br/><small>[1990 Round 9 – German Grand Prix](../seasons/1990-season-report#round-9-german-grand-prix)</small></center> | <center>**`1468`**<br/><small>[1990 Round 9 – German Grand Prix](../seasons/1990-season-report#round-9-german-grand-prix)</small></center> |
+| **Peak** | <center> 1573 <br/><small> [1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix) </small></center> | <center> 1471 <br/><small> [1990 Round 1 – United States Grand Prix](../seasons/1990-season-report#round-1-united-states-grand-prix) </small></center> | <center> 1502  <br/><small> [1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix) </small></center> |
+| **Lowest** | <center> 1466 <br/><small> [1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix) </small></center> | <center> 1441 <br/><small> [1990 Round 9 – German Grand Prix](../seasons/1990-season-report#round-9-german-grand-prix) </small></center> | <center> 1468 <br/><small> [1990 Round 9 – German Grand Prix](../seasons/1990-season-report#round-9-german-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,15 +34,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) (1557)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) (1691)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-34`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) `1557`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Stefano Modena](stefano-modena) `1691`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-34`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (N/A)**: 0 wins (0.0%) • 1 losses (33.3%) • 2 DNFs (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) (N/A)**: 4 wins (80.0%) • 1 losses (20.0%) • **Elo <span style="color: green;">▲&nbsp;+`61`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`33.3%`</small> • **`2`** DNFs <small>`66.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Jyrki Järvilehto](jyrki-jrvilehto) `N/A`**: **`4`** wins <small>`80.0%`</small> • **`1`** losses <small>`20.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+61`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 7 races (42.9%)
+- **DNFs**: `3` out of `7` races <small>`42.9%`</small>
 
 #### Detailed Results
 

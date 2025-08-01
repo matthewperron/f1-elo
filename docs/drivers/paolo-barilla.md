@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1486`**<br/><small>[1990 Round 3 – San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix)</small></center> | <center>**`1540`**<br/><small>[1990 Round 10 – Hungarian Grand Prix](../seasons/1990-season-report#round-10-hungarian-grand-prix)</small></center> | <center>**`1522`**<br/><small>[1990 Round 3 – San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix)</small></center> |
-| **Lowest** | <center>**`1425`**<br/><small>[1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)</small></center> | <center>**`1504`**<br/><small>[1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)</small></center> | <center>**`1480`**<br/><small>[1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix)</small></center> |
+| **Peak** | <center> 1486 <br/><small> [1990 Round 3 – San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix) </small></center> | <center> 1540 <br/><small> [1990 Round 10 – Hungarian Grand Prix](../seasons/1990-season-report#round-10-hungarian-grand-prix) </small></center> | <center> 1522  <br/><small> [1990 Round 3 – San Marino Grand Prix](../seasons/1990-season-report#round-3-san-marino-grand-prix) </small></center> |
+| **Lowest** | <center> 1425 <br/><small> [1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix) </small></center> | <center> 1504 <br/><small> [1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix) </small></center> | <center> 1480 <br/><small> [1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1471)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1358)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-48`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) `1471`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) `1358`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-48`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 1 races (100.0%)
+- **DNFs**: `1` out of `1` races <small>`100.0%`</small>
 
 #### Detailed Results
 
@@ -60,12 +60,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1552)**: 2 wins (28.6%) • 2 losses (28.6%) • 3 DNFs (42.9%) • **Elo <span style="color: green;">▲&nbsp;+`6`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1748)**: 1 wins (12.5%) • 7 losses (87.5%) • **Elo <span style="color: red;">▼&nbsp;`-26`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) `1552`**: **`2`** wins <small>`28.6%`</small> • **`2`** losses <small>`28.6%`</small> • **`3`** DNFs <small>`42.9%`</small> • **Elo <span style="color: green;">▲&nbsp;`+6`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) `1748`**: **`1`** wins <small>`12.5%`</small> • **`7`** losses <small>`87.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-26`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 8 races (37.5%)
+- **DNFs**: `3` out of `8` races <small>`37.5%`</small>
 
 #### Detailed Results
 

@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1624`**<br/><small>[1990 Round 4 – Monaco Grand Prix](../seasons/1990-season-report#round-4-monaco-grand-prix)</small></center> | <center>**`1472`**<br/><small>[1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix)</small></center> | <center>**`1507`**<br/><small>[1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1522`**<br/><small>[1989 Round 7 – French Grand Prix](../seasons/1989-season-report#round-7-french-grand-prix)</small></center> | <center>**`1394`**<br/><small>[1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)</small></center> | <center>**`1434`**<br/><small>[1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix)</small></center> |
+| **Peak** | <center> 1624 <br/><small> [1990 Round 4 – Monaco Grand Prix](../seasons/1990-season-report#round-4-monaco-grand-prix) </small></center> | <center> 1472 <br/><small> [1990 Round 6 – Mexican Grand Prix](../seasons/1990-season-report#round-6-mexican-grand-prix) </small></center> | <center> 1507  <br/><small> [1990 Round 2 – Brazilian Grand Prix](../seasons/1990-season-report#round-2-brazilian-grand-prix) </small></center> |
+| **Lowest** | <center> 1522 <br/><small> [1989 Round 7 – French Grand Prix](../seasons/1989-season-report#round-7-french-grand-prix) </small></center> | <center> 1394 <br/><small> [1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix) </small></center> | <center> 1434 <br/><small> [1990 Round 11 – Belgian Grand Prix](../seasons/1990-season-report#round-11-belgian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever) (1476)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-38`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever) (1363)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`22`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever) `1476`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-38`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Cheever](eddie-cheever) `1363`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+22`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -60,12 +60,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1556)**: 1 wins (7.7%) • 4 losses (30.8%) • 8 DNFs (61.5%) • **Elo <span style="color: red;">▼&nbsp;`-68`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) (1667)**: 6 wins (42.9%) • 8 losses (57.1%) • **Elo <span style="color: green;">▲&nbsp;+`65`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) `1556`**: **`1`** wins <small>`7.7%`</small> • **`4`** losses <small>`30.8%`</small> • **`8`** DNFs <small>`61.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-68`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Derek Warwick](derek-warwick) `1667`**: **`6`** wins <small>`42.9%`</small> • **`8`** losses <small>`57.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+65`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 8 out of 14 races (57.1%)
+- **DNFs**: `8` out of `14` races <small>`57.1%`</small>
 
 #### Detailed Results
 

@@ -21,8 +21,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1661`**<br/><small>[1998 Round 4 – San Marino Grand Prix](../seasons/1998-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1592`**<br/><small>[1998 Round 10 – Austrian Grand Prix](../seasons/1998-season-report#round-10-austrian-grand-prix)</small></center> | <center>**`1587`**<br/><small>[1998 Round 5 – Spanish Grand Prix](../seasons/1998-season-report#round-5-spanish-grand-prix)</small></center> |
-| **Lowest** | <center>**`1375`**<br/><small>[2007 Round 16 – Chinese Grand Prix](../seasons/2007-season-report#round-16-chinese-grand-prix)</small></center> | <center>**`1364`**<br/><small>[1999 Round 14 – European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)</small></center> | <center>**`1394`**<br/><small>[2000 Round 9 – French Grand Prix](../seasons/2000-season-report#round-9-french-grand-prix)</small></center> |
+| **Peak** | <center> 1661 <br/><small> [1998 Round 4 – San Marino Grand Prix](../seasons/1998-season-report#round-4-san-marino-grand-prix) </small></center> | <center> 1592 <br/><small> [1998 Round 10 – Austrian Grand Prix](../seasons/1998-season-report#round-10-austrian-grand-prix) </small></center> | <center> 1587  <br/><small> [1998 Round 5 – Spanish Grand Prix](../seasons/1998-season-report#round-5-spanish-grand-prix) </small></center> |
+| **Lowest** | <center> 1375 <br/><small> [2007 Round 16 – Chinese Grand Prix](../seasons/2007-season-report#round-16-chinese-grand-prix) </small></center> | <center> 1364 <br/><small> [1999 Round 14 – European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix) </small></center> | <center> 1394 <br/><small> [2000 Round 9 – French Grand Prix](../seasons/2000-season-report#round-9-french-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +39,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1700)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1786)**: 2 wins (66.7%) • 1 losses (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`106`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) `1700`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`66.7%`</small> • **`1`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) `1786`**: **`2`** wins <small>`66.7%`</small> • **`1`** losses <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+106`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 3 races (33.3%)
+- **DNFs**: `1` out of `3` races <small>`33.3%`</small>
 
 #### Detailed Results
 
@@ -66,12 +66,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1595)**: 6 wins (40.0%) • 6 losses (40.0%) • 3 DNFs (20.0%) • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1621)**: 6 wins (37.5%) • 10 losses (62.5%) • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1595`**: **`6`** wins <small>`40.0%`</small> • **`6`** losses <small>`40.0%`</small> • **`3`** DNFs <small>`20.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1621`**: **`6`** wins <small>`37.5%`</small> • **`10`** losses <small>`62.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 16 races (18.8%)
+- **DNFs**: `3` out of `16` races <small>`18.8%`</small>
 
 #### Detailed Results
 
@@ -106,12 +106,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1635)**: 1 wins (9.1%) • 7 losses (63.6%) • 3 DNFs (27.3%) • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1672)**: 3 wins (18.8%) • 13 losses (81.3%) • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1635`**: **`1`** wins <small>`9.1%`</small> • **`7`** losses <small>`63.6%`</small> • **`3`** DNFs <small>`27.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-39`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1672`**: **`3`** wins <small>`18.8%`</small> • **`13`** losses <small>`81.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 16 races (18.8%)
+- **DNFs**: `3` out of `16` races <small>`18.8%`</small>
 
 #### Detailed Results
 
@@ -146,12 +146,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1557)**: 4 wins (28.6%) • 8 losses (57.1%) • 2 DNFs (14.3%) • **Elo <span style="color: green;">▲&nbsp;+`78`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1630)**: 4 wins (23.5%) • 13 losses (76.5%) • **Elo <span style="color: green;">▲&nbsp;+`42`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1557`**: **`4`** wins <small>`28.6%`</small> • **`8`** losses <small>`57.1%`</small> • **`2`** DNFs <small>`14.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+78`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1630`**: **`4`** wins <small>`23.5%`</small> • **`13`** losses <small>`76.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+42`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 17 races (11.8%)
+- **DNFs**: `2` out of `17` races <small>`11.8%`</small>
 
 #### Detailed Results
 
@@ -187,12 +187,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1686)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1635)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) `1686`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) `1635`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -212,12 +212,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1555)**: 4 wins (30.8%) • 8 losses (61.5%) • 1 DNFs (7.7%) • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1732)**: 1 wins (6.3%) • 15 losses (93.8%) • **Elo <span style="color: red;">▼&nbsp;`-154`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) `1555`**: **`4`** wins <small>`30.8%`</small> • **`8`** losses <small>`61.5%`</small> • **`1`** DNFs <small>`7.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) `1732`**: **`1`** wins <small>`6.3%`</small> • **`15`** losses <small>`93.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-154`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 16 races (6.3%)
+- **DNFs**: `1` out of `16` races <small>`6.3%`</small>
 
 #### Detailed Results
 

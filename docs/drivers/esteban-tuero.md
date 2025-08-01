@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1521`**<br/><small>[1998 Round 1 – Australian Grand Prix](../seasons/1998-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1461`**<br/><small>[1998 Round 3 – Argentine Grand Prix](../seasons/1998-season-report#round-3-argentine-grand-prix)</small></center> | <center>**`1506`**<br/><small>[1998 Round 1 – Australian Grand Prix](../seasons/1998-season-report#round-1-australian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1319`**<br/><small>[1998 Round 16 – Japanese Grand Prix](../seasons/1998-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1364`**<br/><small>[1998 Round 10 – Austrian Grand Prix](../seasons/1998-season-report#round-10-austrian-grand-prix)</small></center> | <center>**`1350`**<br/><small>[1998 Round 16 – Japanese Grand Prix](../seasons/1998-season-report#round-16-japanese-grand-prix)</small></center> |
+| **Peak** | <center> 1521 <br/><small> [1998 Round 1 – Australian Grand Prix](../seasons/1998-season-report#round-1-australian-grand-prix) </small></center> | <center> 1461 <br/><small> [1998 Round 3 – Argentine Grand Prix](../seasons/1998-season-report#round-3-argentine-grand-prix) </small></center> | <center> 1506  <br/><small> [1998 Round 1 – Australian Grand Prix](../seasons/1998-season-report#round-1-australian-grand-prix) </small></center> |
+| **Lowest** | <center> 1319 <br/><small> [1998 Round 16 – Japanese Grand Prix](../seasons/1998-season-report#round-16-japanese-grand-prix) </small></center> | <center> 1364 <br/><small> [1998 Round 10 – Austrian Grand Prix](../seasons/1998-season-report#round-10-austrian-grand-prix) </small></center> | <center> 1350 <br/><small> [1998 Round 16 – Japanese Grand Prix](../seasons/1998-season-report#round-16-japanese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano](shinji-nakano) (1561)**: 0 wins (0.0%) • 5 losses (41.7%) • 7 DNFs (58.3%) • **Elo <span style="color: red;">▼&nbsp;`-137`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano](shinji-nakano) (1555)**: 5 wins (31.3%) • 11 losses (68.8%) • **Elo <span style="color: red;">▼&nbsp;`-181`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano](shinji-nakano) `1561`**: **`0`** wins <small>`0.0%`</small> • **`5`** losses <small>`41.7%`</small> • **`7`** DNFs <small>`58.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-137`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Shinji Nakano](shinji-nakano) `1555`**: **`5`** wins <small>`31.3%`</small> • **`11`** losses <small>`68.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-181`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 16 races (43.8%)
+- **DNFs**: `7` out of `16` races <small>`43.8%`</small>
 
 #### Detailed Results
 

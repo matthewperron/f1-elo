@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1531`**<br/><small>[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1465`**<br/><small>[1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)</small></center> | <center>**`1509`**<br/><small>[1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix)</small></center> |
-| **Lowest** | <center>**`1438`**<br/><small>[1982 Round 3 – United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west)</small></center> | <center>**`1437`**<br/><small>[1982 Round 2 – Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix)</small></center> | <center>**`1437`**<br/><small>[1982 Round 3 – United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west)</small></center> |
+| **Peak** | <center> 1531 <br/><small> [1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) </small></center> | <center> 1465 <br/><small> [1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix) </small></center> | <center> 1509  <br/><small> [1981 Round 4 – San Marino Grand Prix](../seasons/1981-season-report#round-4-san-marino-grand-prix) </small></center> |
+| **Lowest** | <center> 1438 <br/><small> [1982 Round 3 – United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west) </small></center> | <center> 1437 <br/><small> [1982 Round 2 – Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix) </small></center> | <center> 1437 <br/><small> [1982 Round 3 – United States Grand Prix West](../seasons/1982-season-report#round-3-united-states-grand-prix-west) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) (1548)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) (1463)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`31`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) `1548`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jan Lammers](jan-lammers) `1463`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+31`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -60,12 +60,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1532)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1567)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) `1532`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`66.7%`</small> • **`1`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) `1567`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 3 races (33.3%)
+- **DNFs**: `1` out of `3` races <small>`33.3%`</small>
 
 #### Detailed Results
 

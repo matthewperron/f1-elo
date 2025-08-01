@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1483`**<br/><small>[1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1476`**<br/><small>[1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1478`**<br/><small>[1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)</small></center> |
-| **Lowest** | <center>**`1468`**<br/><small>[1978 Round 16 – Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)</small></center> | <center>**`1476`**<br/><small>[1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1474`**<br/><small>[1978 Round 16 – Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix)</small></center> |
+| **Peak** | <center> 1483 <br/><small> [1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1476 <br/><small> [1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1478  <br/><small> [1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) </small></center> |
+| **Lowest** | <center> 1468 <br/><small> [1978 Round 16 – Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) </small></center> | <center> 1476 <br/><small> [1978 Round 15 – United States Grand Prix](../seasons/1978-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1474 <br/><small> [1978 Round 16 – Canadian Grand Prix](../seasons/1978-season-report#round-16-canadian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Jody Scheckter](jody-scheckter) (1616)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
-- **Qualifying vs [Jody Scheckter](jody-scheckter) (1707)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
+- **Races vs [Jody Scheckter](jody-scheckter) `1616`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
+- **Qualifying vs [Jody Scheckter](jody-scheckter) `1707`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 2 races (50.0%)
+- **DNFs**: `1` out of `2` races <small>`50.0%`</small>
 
 #### Detailed Results
 

@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1520`**<br/><small>[2023 Round 8 – Canadian Grand Prix](../seasons/2023-season-report#round-8-canadian-grand-prix)</small></center> | <center>**`1520`**<br/><small>[2022 Round 16 – Italian Grand Prix](../seasons/2022-season-report#round-16-italian-grand-prix)</small></center> | <center>**`1519`**<br/><small>[2022 Round 16 – Italian Grand Prix](../seasons/2022-season-report#round-16-italian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1415`**<br/><small>[2023 Round 4 – Azerbaijan Grand Prix](../seasons/2023-season-report#round-4-azerbaijan-grand-prix)</small></center> | <center>**`1412`**<br/><small>[2023 Round 5 – Miami Grand Prix](../seasons/2023-season-report#round-5-miami-grand-prix)</small></center> | <center>**`1426`**<br/><small>[2023 Round 4 – Azerbaijan Grand Prix](../seasons/2023-season-report#round-4-azerbaijan-grand-prix)</small></center> |
+| **Peak** | <center> 1520 <br/><small> [2023 Round 8 – Canadian Grand Prix](../seasons/2023-season-report#round-8-canadian-grand-prix) </small></center> | <center> 1520 <br/><small> [2022 Round 16 – Italian Grand Prix](../seasons/2022-season-report#round-16-italian-grand-prix) </small></center> | <center> 1519  <br/><small> [2022 Round 16 – Italian Grand Prix](../seasons/2022-season-report#round-16-italian-grand-prix) </small></center> |
+| **Lowest** | <center> 1415 <br/><small> [2023 Round 4 – Azerbaijan Grand Prix](../seasons/2023-season-report#round-4-azerbaijan-grand-prix) </small></center> | <center> 1412 <br/><small> [2023 Round 5 – Miami Grand Prix](../seasons/2023-season-report#round-5-miami-grand-prix) </small></center> | <center> 1426 <br/><small> [2023 Round 4 – Azerbaijan Grand Prix](../seasons/2023-season-report#round-4-azerbaijan-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1344)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`20`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1324)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`18`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) `1344`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+20`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) `1324`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+18`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -60,12 +60,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1565)**: 2 wins (20.0%) • 7 losses (70.0%) • 1 DNFs (10.0%) • **Elo <span style="color: red;">▼&nbsp;`-84`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1560)**: 3 wins (30.0%) • 7 losses (70.0%) • **Elo <span style="color: red;">▼&nbsp;`-60`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) `1565`**: **`2`** wins <small>`20.0%`</small> • **`7`** losses <small>`70.0%`</small> • **`1`** DNFs <small>`10.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-84`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) `1560`**: **`3`** wins <small>`30.0%`</small> • **`7`** losses <small>`70.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-60`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 10 races (10.0%)
+- **DNFs**: `1` out of `10` races <small>`10.0%`</small>
 
 #### Detailed Results
 

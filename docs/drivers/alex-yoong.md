@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1474`**<br/><small>[2001 Round 15 – Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)</small></center> | <center>**`1473`**<br/><small>[2001 Round 15 – Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)</small></center> | <center>**`1473`**<br/><small>[2001 Round 15 – Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1280`**<br/><small>[2002 Round 17 – Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1340`**<br/><small>[2002 Round 17 – Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1321`**<br/><small>[2002 Round 17 – Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix)</small></center> |
+| **Peak** | <center> 1474 <br/><small> [2001 Round 15 – Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix) </small></center> | <center> 1473 <br/><small> [2001 Round 15 – Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix) </small></center> | <center> 1473  <br/><small> [2001 Round 15 – Italian Grand Prix](../seasons/2001-season-report#round-15-italian-grand-prix) </small></center> |
+| **Lowest** | <center> 1280 <br/><small> [2002 Round 17 – Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1340 <br/><small> [2002 Round 17 – Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1321 <br/><small> [2002 Round 17 – Japanese Grand Prix](../seasons/2002-season-report#round-17-japanese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1603)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1636)**: 0 wins (0.0%) • 3 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-65`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1603`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`66.7%`</small> • **`1`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1636`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-65`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 3 races (33.3%)
+- **DNFs**: `1` out of `3` races <small>`33.3%`</small>
 
 #### Detailed Results
 
@@ -62,12 +62,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) (1634)**: 0 wins (0.0%) • 6 losses (54.5%) • 5 DNFs (45.5%) • **Elo <span style="color: red;">▼&nbsp;`-111`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) (1692)**: 0 wins (0.0%) • 12 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-157`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) `1634`**: **`0`** wins <small>`0.0%`</small> • **`6`** losses <small>`54.5%`</small> • **`5`** DNFs <small>`45.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-111`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) `1692`**: **`0`** wins <small>`0.0%`</small> • **`12`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-157`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 12 races (41.7%)
+- **DNFs**: `5` out of `12` races <small>`41.7%`</small>
 
 #### Detailed Results
 

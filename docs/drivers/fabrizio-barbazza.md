@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1463`**<br/><small>[1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)</small></center> | <center>**`1495`**<br/><small>[1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)</small></center> | <center>**`1469`**<br/><small>[1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)</small></center> |
-| **Lowest** | <center>**`1330`**<br/><small>[1993 Round 8 – French Grand Prix](../seasons/1993-season-report#round-8-french-grand-prix)</small></center> | <center>**`1446`**<br/><small>[1993 Round 6 – Monaco Grand Prix](../seasons/1993-season-report#round-6-monaco-grand-prix)</small></center> | <center>**`1411`**<br/><small>[1993 Round 8 – French Grand Prix](../seasons/1993-season-report#round-8-french-grand-prix)</small></center> |
+| **Peak** | <center> 1463 <br/><small> [1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix) </small></center> | <center> 1495 <br/><small> [1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix) </small></center> | <center> 1469  <br/><small> [1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix) </small></center> |
+| **Lowest** | <center> 1330 <br/><small> [1993 Round 8 – French Grand Prix](../seasons/1993-season-report#round-8-french-grand-prix) </small></center> | <center> 1446 <br/><small> [1993 Round 6 – Monaco Grand Prix](../seasons/1993-season-report#round-6-monaco-grand-prix) </small></center> | <center> 1411 <br/><small> [1993 Round 8 – French Grand Prix](../seasons/1993-season-report#round-8-french-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) (1602)**: 1 wins (14.3%) • 4 losses (57.1%) • 2 DNFs (28.6%) • **Elo <span style="color: red;">▼&nbsp;`-55`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) (1614)**: 0 wins (0.0%) • 8 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-170`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) `1602`**: **`1`** wins <small>`14.3%`</small> • **`4`** losses <small>`57.1%`</small> • **`2`** DNFs <small>`28.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-55`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Christian Fittipaldi](christian-fittipaldi) `1614`**: **`0`** wins <small>`0.0%`</small> • **`8`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-170`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 8 races (25.0%)
+- **DNFs**: `2` out of `8` races <small>`25.0%`</small>
 
 #### Detailed Results
 

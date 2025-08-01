@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1712`**<br/><small>[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)</small></center> | <center>**`1650`**<br/><small>[2025 Round 6 – Miami Grand Prix](../seasons/2025-season-report#round-6-miami-grand-prix)</small></center> | <center>**`1645`**<br/><small>[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1481`**<br/><small>[2023 Round 11 – Hungarian Grand Prix](../seasons/2023-season-report#round-11-hungarian-grand-prix)</small></center> | <center>**`1451`**<br/><small>[2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)</small></center> | <center>**`1486`**<br/><small>[2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)</small></center> |
+| **Peak** | <center> 1712 <br/><small> [2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix) </small></center> | <center> 1650 <br/><small> [2025 Round 6 – Miami Grand Prix](../seasons/2025-season-report#round-6-miami-grand-prix) </small></center> | <center> 1645  <br/><small> [2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix) </small></center> |
+| **Lowest** | <center> 1481 <br/><small> [2023 Round 11 – Hungarian Grand Prix](../seasons/2023-season-report#round-11-hungarian-grand-prix) </small></center> | <center> 1451 <br/><small> [2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix) </small></center> | <center> 1486 <br/><small> [2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1746)**: 4 wins (19.0%) • 14 losses (66.7%) • 3 DNFs (14.3%) • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1711)**: 7 wins (31.8%) • 15 losses (68.2%) • **Elo <span style="color: green;">▲&nbsp;+`165`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) `1746`**: **`4`** wins <small>`19.0%`</small> • **`14`** losses <small>`66.7%`</small> • **`3`** DNFs <small>`14.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) `1711`**: **`7`** wins <small>`31.8%`</small> • **`15`** losses <small>`68.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+165`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 22 races (13.6%)
+- **DNFs**: `3` out of `22` races <small>`13.6%`</small>
 
 #### Detailed Results
 
@@ -82,12 +82,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1683)**: 8 wins (33.3%) • 16 losses (66.7%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`63`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1874)**: 3 wins (12.5%) • 21 losses (87.5%) • **Elo <span style="color: red;">▼&nbsp;`-161`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) `1683`**: **`8`** wins <small>`33.3%`</small> • **`16`** losses <small>`66.7%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+63`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) `1874`**: **`3`** wins <small>`12.5%`</small> • **`21`** losses <small>`87.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-161`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 24 races (0.0%)
+- **DNFs**: `0` out of `24` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -130,12 +130,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1620)**: 6 wins (50.0%) • 6 losses (50.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`65`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) (1703)**: 7 wins (53.8%) • 6 losses (46.2%) • **Elo <span style="color: green;">▲&nbsp;+`170`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) `1620`**: **`6`** wins <small>`50.0%`</small> • **`6`** losses <small>`50.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+65`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) `1703`**: **`7`** wins <small>`53.8%`</small> • **`6`** losses <small>`46.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+170`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 13 races (0.0%)
+- **DNFs**: `0` out of `13` races <small>`0.0%`</small>
 
 #### Detailed Results
 

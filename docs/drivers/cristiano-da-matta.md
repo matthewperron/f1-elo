@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1628`**<br/><small>[2004 Round 11 – British Grand Prix](../seasons/2004-season-report#round-11-british-grand-prix)</small></center> | <center>**`1604`**<br/><small>[2004 Round 2 – Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix)</small></center> | <center>**`1603`**<br/><small>[2004 Round 2 – Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1435`**<br/><small>[2003 Round 6 – Austrian Grand Prix](../seasons/2003-season-report#round-6-austrian-grand-prix)</small></center> | <center>**`1475`**<br/><small>[2003 Round 10 – French Grand Prix](../seasons/2003-season-report#round-10-french-grand-prix)</small></center> | <center>**`1470`**<br/><small>[2003 Round 10 – French Grand Prix](../seasons/2003-season-report#round-10-french-grand-prix)</small></center> |
+| **Peak** | <center> 1628 <br/><small> [2004 Round 11 – British Grand Prix](../seasons/2004-season-report#round-11-british-grand-prix) </small></center> | <center> 1604 <br/><small> [2004 Round 2 – Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix) </small></center> | <center> 1603  <br/><small> [2004 Round 2 – Malaysian Grand Prix](../seasons/2004-season-report#round-2-malaysian-grand-prix) </small></center> |
+| **Lowest** | <center> 1435 <br/><small> [2003 Round 6 – Austrian Grand Prix](../seasons/2003-season-report#round-6-austrian-grand-prix) </small></center> | <center> 1475 <br/><small> [2003 Round 10 – French Grand Prix](../seasons/2003-season-report#round-10-french-grand-prix) </small></center> | <center> 1470 <br/><small> [2003 Round 10 – French Grand Prix](../seasons/2003-season-report#round-10-french-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1490)**: 5 wins (45.5%) • 4 losses (36.4%) • 2 DNFs (18.2%) • **Elo <span style="color: green;">▲&nbsp;+`56`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1705)**: 3 wins (18.8%) • 13 losses (81.3%) • **Elo <span style="color: green;">▲&nbsp;+`13`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) `1490`**: **`5`** wins <small>`45.5%`</small> • **`4`** losses <small>`36.4%`</small> • **`2`** DNFs <small>`18.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+56`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) `1705`**: **`3`** wins <small>`18.8%`</small> • **`13`** losses <small>`81.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+13`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 16 races (12.5%)
+- **DNFs**: `2` out of `16` races <small>`12.5%`</small>
 
 #### Detailed Results
 
@@ -75,12 +75,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1470)**: 5 wins (45.5%) • 3 losses (27.3%) • 3 DNFs (27.3%) • **Elo <span style="color: green;">▲&nbsp;+`21`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1627)**: 6 wins (50.0%) • 6 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`80`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) `1470`**: **`5`** wins <small>`45.5%`</small> • **`3`** losses <small>`27.3%`</small> • **`3`** DNFs <small>`27.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+21`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) `1627`**: **`6`** wins <small>`50.0%`</small> • **`6`** losses <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+80`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 12 races (25.0%)
+- **DNFs**: `3` out of `12` races <small>`25.0%`</small>
 
 #### Detailed Results
 

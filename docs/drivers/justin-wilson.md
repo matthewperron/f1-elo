@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1521`**<br/><small>[2003 Round 1 – Australian Grand Prix](../seasons/2003-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1590`**<br/><small>[2003 Round 15 – United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1525`**<br/><small>[2003 Round 15 – United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)</small></center> |
-| **Lowest** | <center>**`1370`**<br/><small>[2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1475`**<br/><small>[2003 Round 3 – Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)</small></center> | <center>**`1463`**<br/><small>[2003 Round 3 – Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)</small></center> |
+| **Peak** | <center> 1521 <br/><small> [2003 Round 1 – Australian Grand Prix](../seasons/2003-season-report#round-1-australian-grand-prix) </small></center> | <center> 1590 <br/><small> [2003 Round 15 – United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1525  <br/><small> [2003 Round 15 – United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix) </small></center> |
+| **Lowest** | <center> 1370 <br/><small> [2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix) </small></center> | <center> 1475 <br/><small> [2003 Round 3 – Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix) </small></center> | <center> 1463 <br/><small> [2003 Round 3 – Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,15 +34,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1535)**: 3 wins (30.0%) • 2 losses (20.0%) • 5 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`43`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1456)**: 5 wins (45.5%) • 6 losses (54.5%) • **Elo <span style="color: red;">▼&nbsp;`-81`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) `1535`**: **`3`** wins <small>`30.0%`</small> • **`2`** losses <small>`20.0%`</small> • **`5`** DNFs <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+43`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) `1456`**: **`5`** wins <small>`45.5%`</small> • **`6`** losses <small>`54.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-81`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) (N/A)**: 1 wins (20.0%) • 1 losses (20.0%) • 3 DNFs (60.0%) • **Elo <span style="color: green;">▲&nbsp;+`21`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) (N/A)**: 0 wins (0.0%) • 5 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-50`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) `N/A`**: **`1`** wins <small>`20.0%`</small> • **`1`** losses <small>`20.0%`</small> • **`3`** DNFs <small>`60.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+21`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`5`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-50`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 8 out of 16 races (50.0%)
+- **DNFs**: `8` out of `16` races <small>`50.0%`</small>
 
 #### Detailed Results
 

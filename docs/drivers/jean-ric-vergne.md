@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1496`**<br/><small>[2013 Round 7 – Canadian Grand Prix](../seasons/2013-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1592`**<br/><small>[2012 Round 5 – Spanish Grand Prix](../seasons/2012-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1552`**<br/><small>[2012 Round 5 – Spanish Grand Prix](../seasons/2012-season-report#round-5-spanish-grand-prix)</small></center> |
-| **Lowest** | <center>**`1344`**<br/><small>[2014 Round 16 – Russian Grand Prix](../seasons/2014-season-report#round-16-russian-grand-prix)</small></center> | <center>**`1411`**<br/><small>[2014 Round 13 – Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1409`**<br/><small>[2014 Round 10 – German Grand Prix](../seasons/2014-season-report#round-10-german-grand-prix)</small></center> |
+| **Peak** | <center> 1496 <br/><small> [2013 Round 7 – Canadian Grand Prix](../seasons/2013-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1592 <br/><small> [2012 Round 5 – Spanish Grand Prix](../seasons/2012-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1552  <br/><small> [2012 Round 5 – Spanish Grand Prix](../seasons/2012-season-report#round-5-spanish-grand-prix) </small></center> |
+| **Lowest** | <center> 1344 <br/><small> [2014 Round 16 – Russian Grand Prix](../seasons/2014-season-report#round-16-russian-grand-prix) </small></center> | <center> 1411 <br/><small> [2014 Round 13 – Italian Grand Prix](../seasons/2014-season-report#round-13-italian-grand-prix) </small></center> | <center> 1409 <br/><small> [2014 Round 10 – German Grand Prix](../seasons/2014-season-report#round-10-german-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1550)**: 7 wins (36.8%) • 10 losses (52.6%) • 2 DNFs (10.5%) • **Elo <span style="color: red;">▼&nbsp;`-22`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1584)**: 5 wins (25.0%) • 15 losses (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-57`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) `1550`**: **`7`** wins <small>`36.8%`</small> • **`10`** losses <small>`52.6%`</small> • **`2`** DNFs <small>`10.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-22`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) `1584`**: **`5`** wins <small>`25.0%`</small> • **`15`** losses <small>`75.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-57`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 20 races (10.0%)
+- **DNFs**: `2` out of `20` races <small>`10.0%`</small>
 
 #### Detailed Results
 
@@ -80,12 +80,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1576)**: 6 wins (35.3%) • 7 losses (41.2%) • 4 DNFs (23.5%) • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1677)**: 4 wins (21.1%) • 15 losses (78.9%) • **Elo <span style="color: red;">▼&nbsp;`-93`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) `1576`**: **`6`** wins <small>`35.3%`</small> • **`7`** losses <small>`41.2%`</small> • **`4`** DNFs <small>`23.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) `1677`**: **`4`** wins <small>`21.1%`</small> • **`15`** losses <small>`78.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-93`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 19 races (21.1%)
+- **DNFs**: `4` out of `19` races <small>`21.1%`</small>
 
 #### Detailed Results
 
@@ -123,12 +123,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Daniil Kvyat](daniil-kvyat) (1451)**: 6 wins (37.5%) • 5 losses (31.3%) • 5 DNFs (31.3%) • **Elo <span style="color: green;">▲&nbsp;+`48`</span>**
-- **Qualifying vs [Daniil Kvyat](daniil-kvyat) (1455)**: 9 wins (47.4%) • 10 losses (52.6%) • **Elo <span style="color: green;">▲&nbsp;+`46`</span>**
+- **Races vs [Daniil Kvyat](daniil-kvyat) `1451`**: **`6`** wins <small>`37.5%`</small> • **`5`** losses <small>`31.3%`</small> • **`5`** DNFs <small>`31.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+48`</span>**
+- **Qualifying vs [Daniil Kvyat](daniil-kvyat) `1455`**: **`9`** wins <small>`47.4%`</small> • **`10`** losses <small>`52.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+46`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 19 races (26.3%)
+- **DNFs**: `5` out of `19` races <small>`26.3%`</small>
 
 #### Detailed Results
 

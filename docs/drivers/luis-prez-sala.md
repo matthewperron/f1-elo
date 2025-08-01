@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1542`**<br/><small>[1988 Round 10 – Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix)</small></center> | <center>**`1531`**<br/><small>[1989 Round 6 – Canadian Grand Prix](../seasons/1989-season-report#round-6-canadian-grand-prix)</small></center> | <center>**`1534`**<br/><small>[1988 Round 10 – Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1310`**<br/><small>[1989 Round 14 – Spanish Grand Prix](../seasons/1989-season-report#round-14-spanish-grand-prix)</small></center> | <center>**`1424`**<br/><small>[1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)</small></center> | <center>**`1391`**<br/><small>[1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix)</small></center> |
+| **Peak** | <center> 1542 <br/><small> [1988 Round 10 – Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix) </small></center> | <center> 1531 <br/><small> [1989 Round 6 – Canadian Grand Prix](../seasons/1989-season-report#round-6-canadian-grand-prix) </small></center> | <center> 1534  <br/><small> [1988 Round 10 – Hungarian Grand Prix](../seasons/1988-season-report#round-10-hungarian-grand-prix) </small></center> |
+| **Lowest** | <center> 1310 <br/><small> [1989 Round 14 – Spanish Grand Prix](../seasons/1989-season-report#round-14-spanish-grand-prix) </small></center> | <center> 1424 <br/><small> [1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix) </small></center> | <center> 1391 <br/><small> [1989 Round 13 – Portuguese Grand Prix](../seasons/1989-season-report#round-13-portuguese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,15 +35,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Adrián Campos](adrin-campos) (1439)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`29`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Adrián Campos](adrin-campos) (1289)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`31`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Adrián Campos](adrin-campos) `1439`**: **`1`** wins <small>`50.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+29`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Adrián Campos](adrin-campos) `1289`**: **`2`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+31`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1534)**: 1 wins (14.3%) • 2 losses (28.6%) • 4 DNFs (57.1%) • **Elo <span style="color: red;">▼&nbsp;`-34`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1619)**: 2 wins (22.2%) • 7 losses (77.8%) • **Elo <span style="color: red;">▼&nbsp;`-119`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) `1534`**: **`1`** wins <small>`14.3%`</small> • **`2`** losses <small>`28.6%`</small> • **`4`** DNFs <small>`57.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-34`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) `1619`**: **`2`** wins <small>`22.2%`</small> • **`7`** losses <small>`77.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-119`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 11 races (45.5%)
+- **DNFs**: `5` out of `11` races <small>`45.5%`</small>
 
 #### Detailed Results
 
@@ -73,15 +73,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1558)**: 2 wins (25.0%) • 4 losses (50.0%) • 2 DNFs (25.0%) • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1721)**: 0 wins (0.0%) • 11 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-102`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) `1558`**: **`2`** wins <small>`25.0%`</small> • **`4`** losses <small>`50.0%`</small> • **`2`** DNFs <small>`25.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) `1721`**: **`0`** wins <small>`0.0%`</small> • **`11`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-102`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla](paolo-barilla) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla](paolo-barilla) (1452)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`48`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla](paolo-barilla) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Paolo Barilla](paolo-barilla) `1452`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+48`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 12 races (16.7%)
+- **DNFs**: `2` out of `12` races <small>`16.7%`</small>
 
 #### Detailed Results
 

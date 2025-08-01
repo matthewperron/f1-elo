@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1467`**<br/><small>[2010 Round 1 – Bahrain Grand Prix](../seasons/2010-season-report#round-1-bahrain-grand-prix)</small></center> | <center>**`1554`**<br/><small>[2010 Round 13 – Belgian Grand Prix](../seasons/2010-season-report#round-13-belgian-grand-prix)</small></center> | <center>**`1506`**<br/><small>[2010 Round 3 – Malaysian Grand Prix](../seasons/2010-season-report#round-3-malaysian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1346`**<br/><small>[2010 Round 8 – Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix)</small></center> | <center>**`1494`**<br/><small>[2010 Round 7 – Turkish Grand Prix](../seasons/2010-season-report#round-7-turkish-grand-prix)</small></center> | <center>**`1449`**<br/><small>[2010 Round 8 – Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix)</small></center> |
+| **Peak** | <center> 1467 <br/><small> [2010 Round 1 – Bahrain Grand Prix](../seasons/2010-season-report#round-1-bahrain-grand-prix) </small></center> | <center> 1554 <br/><small> [2010 Round 13 – Belgian Grand Prix](../seasons/2010-season-report#round-13-belgian-grand-prix) </small></center> | <center> 1506  <br/><small> [2010 Round 3 – Malaysian Grand Prix](../seasons/2010-season-report#round-3-malaysian-grand-prix) </small></center> |
+| **Lowest** | <center> 1346 <br/><small> [2010 Round 8 – Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix) </small></center> | <center> 1494 <br/><small> [2010 Round 7 – Turkish Grand Prix](../seasons/2010-season-report#round-7-turkish-grand-prix) </small></center> | <center> 1449 <br/><small> [2010 Round 8 – Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1636)**: 3 wins (18.8%) • 5 losses (31.3%) • 8 DNFs (50.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1609)**: 3 wins (15.8%) • 16 losses (84.2%) • **Elo <span style="color: red;">▼&nbsp;`-119`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) `1636`**: **`3`** wins <small>`18.8%`</small> • **`5`** losses <small>`31.3%`</small> • **`8`** DNFs <small>`50.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) `1609`**: **`3`** wins <small>`15.8%`</small> • **`16`** losses <small>`84.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-119`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 8 out of 19 races (42.1%)
+- **DNFs**: `8` out of `19` races <small>`42.1%`</small>
 
 #### Detailed Results
 

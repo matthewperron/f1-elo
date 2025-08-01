@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1474`**<br/><small>[1986 Round 7 – Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix)</small></center> | <center>**`1468`**<br/><small>[1986 Round 9 – British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)</small></center> | <center>**`1492`**<br/><small>[1986 Round 7 – Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix)</small></center> |
-| **Lowest** | <center>**`1365`**<br/><small>[1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)</small></center> | <center>**`1468`**<br/><small>[1986 Round 9 – British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix)</small></center> | <center>**`1437`**<br/><small>[1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix)</small></center> |
+| **Peak** | <center> 1474 <br/><small> [1986 Round 7 – Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix) </small></center> | <center> 1468 <br/><small> [1986 Round 9 – British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix) </small></center> | <center> 1492  <br/><small> [1986 Round 7 – Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix) </small></center> |
+| **Lowest** | <center> 1365 <br/><small> [1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix) </small></center> | <center> 1468 <br/><small> [1986 Round 9 – British Grand Prix](../seasons/1986-season-report#round-9-british-grand-prix) </small></center> | <center> 1437 <br/><small> [1986 Round 16 – Australian Grand Prix](../seasons/1986-season-report#round-16-australian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1535)**: 0 wins (0.0%) • 1 losses (14.3%) • 6 DNFs (85.7%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1714)**: 0 wins (0.0%) • 9 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-135`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1535`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`14.3%`</small> • **`6`** DNFs <small>`85.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1714`**: **`0`** wins <small>`0.0%`</small> • **`9`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-135`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 9 races (66.7%)
+- **DNFs**: `6` out of `9` races <small>`66.7%`</small>
 
 #### Detailed Results
 

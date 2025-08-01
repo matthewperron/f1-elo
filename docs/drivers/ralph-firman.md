@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1487`**<br/><small>[2003 Round 5 – Spanish Grand Prix](../seasons/2003-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1533`**<br/><small>[2003 Round 9 – European Grand Prix](../seasons/2003-season-report#round-9-european-grand-prix)</small></center> | <center>**`1502`**<br/><small>[2003 Round 9 – European Grand Prix](../seasons/2003-season-report#round-9-european-grand-prix)</small></center> |
-| **Lowest** | <center>**`1392`**<br/><small>[2003 Round 15 – United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1484`**<br/><small>[2003 Round 7 – Monaco Grand Prix](../seasons/2003-season-report#round-7-monaco-grand-prix)</small></center> | <center>**`1471`**<br/><small>[2003 Round 8 – Canadian Grand Prix](../seasons/2003-season-report#round-8-canadian-grand-prix)</small></center> |
+| **Peak** | <center> 1487 <br/><small> [2003 Round 5 – Spanish Grand Prix](../seasons/2003-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1533 <br/><small> [2003 Round 9 – European Grand Prix](../seasons/2003-season-report#round-9-european-grand-prix) </small></center> | <center> 1502  <br/><small> [2003 Round 9 – European Grand Prix](../seasons/2003-season-report#round-9-european-grand-prix) </small></center> |
+| **Lowest** | <center> 1392 <br/><small> [2003 Round 15 – United States Grand Prix](../seasons/2003-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1484 <br/><small> [2003 Round 7 – Monaco Grand Prix](../seasons/2003-season-report#round-7-monaco-grand-prix) </small></center> | <center> 1471 <br/><small> [2003 Round 8 – Canadian Grand Prix](../seasons/2003-season-report#round-8-canadian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1690)**: 1 wins (16.7%) • 2 losses (33.3%) • 3 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`14`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1710)**: 2 wins (14.3%) • 12 losses (85.7%) • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1690`**: **`1`** wins <small>`16.7%`</small> • **`2`** losses <small>`33.3%`</small> • **`3`** DNFs <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+14`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1710`**: **`2`** wins <small>`14.3%`</small> • **`12`** losses <small>`85.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 14 races (21.4%)
+- **DNFs**: `3` out of `14` races <small>`21.4%`</small>
 
 #### Detailed Results
 

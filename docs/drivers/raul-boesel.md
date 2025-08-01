@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1550`**<br/><small>[1982 Round 2 – Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix)</small></center> | <center>**`1472`**<br/><small>[1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)</small></center> | <center>**`1489`**<br/><small>[1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix)</small></center> |
-| **Lowest** | <center>**`1413`**<br/><small>[1983 Round 8 – Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)</small></center> | <center>**`1381`**<br/><small>[1982 Round 16 – Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix)</small></center> | <center>**`1412`**<br/><small>[1983 Round 15 – South African Grand Prix](../seasons/1983-season-report#round-15-south-african-grand-prix)</small></center> |
+| **Peak** | <center> 1550 <br/><small> [1982 Round 2 – Brazilian Grand Prix](../seasons/1982-season-report#round-2-brazilian-grand-prix) </small></center> | <center> 1472 <br/><small> [1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix) </small></center> | <center> 1489  <br/><small> [1982 Round 1 – South African Grand Prix](../seasons/1982-season-report#round-1-south-african-grand-prix) </small></center> |
+| **Lowest** | <center> 1413 <br/><small> [1983 Round 8 – Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix) </small></center> | <center> 1381 <br/><small> [1982 Round 16 – Caesars Palace Grand Prix](../seasons/1982-season-report#round-16-caesars-palace-grand-prix) </small></center> | <center> 1412 <br/><small> [1983 Round 15 – South African Grand Prix](../seasons/1983-season-report#round-15-south-african-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,15 +35,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](jochen-mass) (1632)**: 0 wins (0.0%) • 4 losses (66.7%) • 2 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-86`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](jochen-mass) (1407)**: 5 wins (71.4%) • 2 losses (28.6%) • **Elo <span style="color: green;">▲&nbsp;+`43`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](jochen-mass) `1632`**: **`0`** wins <small>`0.0%`</small> • **`4`** losses <small>`66.7%`</small> • **`2`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-86`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Jochen Mass](jochen-mass) `1407`**: **`5`** wins <small>`71.4%`</small> • **`2`** losses <small>`28.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+43`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Rupert Keegan](rupert-keegan) (1436)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Rupert Keegan](rupert-keegan) (1476)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Rupert Keegan](rupert-keegan) `1436`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Rupert Keegan](rupert-keegan) `1476`**: **`1`** wins <small>`50.0%`</small> • **`1`** losses <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 9 races (33.3%)
+- **DNFs**: `3` out of `9` races <small>`33.3%`</small>
 
 #### Detailed Results
 
@@ -71,12 +71,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1407)**: 2 wins (25.0%) • 1 losses (12.5%) • 5 DNFs (62.5%) • **Elo <span style="color: green;">▲&nbsp;+`28`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1729)**: 1 wins (7.7%) • 12 losses (92.3%) • **Elo <span style="color: red;">▼&nbsp;`-117`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) `1407`**: **`2`** wins <small>`25.0%`</small> • **`1`** losses <small>`12.5%`</small> • **`5`** DNFs <small>`62.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+28`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) `1729`**: **`1`** wins <small>`7.7%`</small> • **`12`** losses <small>`92.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-117`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 13 races (38.5%)
+- **DNFs**: `5` out of `13` races <small>`38.5%`</small>
 
 #### Detailed Results
 

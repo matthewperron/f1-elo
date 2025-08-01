@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1552`**<br/><small>[2004 Round 13 – Hungarian Grand Prix](../seasons/2004-season-report#round-13-hungarian-grand-prix)</small></center> | <center>**`1480`**<br/><small>[2003 Round 3 – Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix)</small></center> | <center>**`1510`**<br/><small>[2003 Round 2 – Malaysian Grand Prix](../seasons/2003-season-report#round-2-malaysian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1461`**<br/><small>[2005 Round 19 – Chinese Grand Prix](../seasons/2005-season-report#round-19-chinese-grand-prix)</small></center> | <center>**`1385`**<br/><small>[2004 Round 15 – Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix)</small></center> | <center>**`1424`**<br/><small>[2004 Round 15 – Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix)</small></center> |
+| **Peak** | <center> 1552 <br/><small> [2004 Round 13 – Hungarian Grand Prix](../seasons/2004-season-report#round-13-hungarian-grand-prix) </small></center> | <center> 1480 <br/><small> [2003 Round 3 – Brazilian Grand Prix](../seasons/2003-season-report#round-3-brazilian-grand-prix) </small></center> | <center> 1510  <br/><small> [2003 Round 2 – Malaysian Grand Prix](../seasons/2003-season-report#round-2-malaysian-grand-prix) </small></center> |
+| **Lowest** | <center> 1461 <br/><small> [2005 Round 19 – Chinese Grand Prix](../seasons/2005-season-report#round-19-chinese-grand-prix) </small></center> | <center> 1385 <br/><small> [2004 Round 15 – Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix) </small></center> | <center> 1424 <br/><small> [2004 Round 15 – Italian Grand Prix](../seasons/2004-season-report#round-15-italian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) (1711)**: 0 wins (0.0%) • 5 losses (55.6%) • 4 DNFs (44.4%) • **Elo <span style="color: red;">▼&nbsp;`-76`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) (1675)**: 3 wins (27.3%) • 8 losses (72.7%) • **Elo <span style="color: green;">▲&nbsp;+`17`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) `1711`**: **`0`** wins <small>`0.0%`</small> • **`5`** losses <small>`55.6%`</small> • **`4`** DNFs <small>`44.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-76`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) `1675`**: **`3`** wins <small>`27.3%`</small> • **`8`** losses <small>`72.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+17`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 11 races (36.4%)
+- **DNFs**: `4` out of `11` races <small>`36.4%`</small>
 
 #### Detailed Results
 
@@ -71,12 +71,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1677)**: 0 wins (0.0%) • 3 losses (75.0%) • 1 DNFs (25.0%) • **Elo <span style="color: red;">▼&nbsp;`-38`</span>**
-- **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1717)**: 1 wins (25.0%) • 3 losses (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-5`</span>**
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) `1677`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`75.0%`</small> • **`1`** DNFs <small>`25.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-38`</span>**
+- **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) `1717`**: **`1`** wins <small>`25.0%`</small> • **`3`** losses <small>`75.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-5`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 4 races (25.0%)
+- **DNFs**: `1` out of `4` races <small>`25.0%`</small>
 
 #### Detailed Results
 
@@ -99,12 +99,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) (1662)**: 1 wins (25.0%) • 2 losses (50.0%) • 1 DNFs (25.0%) • **Elo <span style="color: green;">▲&nbsp;+`24`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) (1806)**: 0 wins (0.0%) • 5 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-51`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) `1662`**: **`1`** wins <small>`25.0%`</small> • **`2`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`25.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+24`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Mark Webber](mark-webber) `1806`**: **`0`** wins <small>`0.0%`</small> • **`5`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-51`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 5 races (20.0%)
+- **DNFs**: `1` out of `5` races <small>`20.0%`</small>
 
 #### Detailed Results
 

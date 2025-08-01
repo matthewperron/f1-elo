@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1484`**<br/><small>[2010 Round 3 – Malaysian Grand Prix](../seasons/2010-season-report#round-3-malaysian-grand-prix)</small></center> | <center>**`1550`**<br/><small>[2010 Round 10 – British Grand Prix](../seasons/2010-season-report#round-10-british-grand-prix)</small></center> | <center>**`1522`**<br/><small>[2010 Round 10 – British Grand Prix](../seasons/2010-season-report#round-10-british-grand-prix)</small></center> |
-| **Lowest** | <center>**`1380`**<br/><small>[2010 Round 8 – Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix)</small></center> | <center>**`1494`**<br/><small>[2010 Round 4 – Chinese Grand Prix](../seasons/2010-season-report#round-4-chinese-grand-prix)</small></center> | <center>**`1460`**<br/><small>[2010 Round 8 – Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix)</small></center> |
+| **Peak** | <center> 1484 <br/><small> [2010 Round 3 – Malaysian Grand Prix](../seasons/2010-season-report#round-3-malaysian-grand-prix) </small></center> | <center> 1550 <br/><small> [2010 Round 10 – British Grand Prix](../seasons/2010-season-report#round-10-british-grand-prix) </small></center> | <center> 1522  <br/><small> [2010 Round 10 – British Grand Prix](../seasons/2010-season-report#round-10-british-grand-prix) </small></center> |
+| **Lowest** | <center> 1380 <br/><small> [2010 Round 8 – Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix) </small></center> | <center> 1494 <br/><small> [2010 Round 4 – Chinese Grand Prix](../seasons/2010-season-report#round-4-chinese-grand-prix) </small></center> | <center> 1460 <br/><small> [2010 Round 8 – Canadian Grand Prix](../seasons/2010-season-report#round-8-canadian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,15 +35,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1473)**: 2 wins (40.0%) • 1 losses (20.0%) • 2 DNFs (40.0%) • **Elo <span style="color: green;">▲&nbsp;+`27`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1569)**: 2 wins (22.2%) • 7 losses (77.8%) • **Elo <span style="color: red;">▼&nbsp;`-70`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) `1473`**: **`2`** wins <small>`40.0%`</small> • **`1`** losses <small>`20.0%`</small> • **`2`** DNFs <small>`40.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+27`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) `1569`**: **`2`** wins <small>`22.2%`</small> • **`7`** losses <small>`77.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-70`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) (1399)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`23`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) (1363)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`28`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) `1399`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+23`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) `1363`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+28`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 10 races (20.0%)
+- **DNFs**: `2` out of `10` races <small>`20.0%`</small>
 
 #### Detailed Results
 
@@ -72,12 +72,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) (1541)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) (1732)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) `1541`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-36`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Heikki Kovalainen](heikki-kovalainen) `1732`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 

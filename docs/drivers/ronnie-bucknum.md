@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1540`**<br/><small>[1965 Round 2 – Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)</small></center> | <center>**`1469`**<br/><small>[1965 Round 10 – Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix)</small></center> | <center>**`1512`**<br/><small>[1965 Round 2 – Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix)</small></center> |
-| **Lowest** | <center>**`1435`**<br/><small>[1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)</small></center> | <center>**`1444`**<br/><small>[1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)</small></center> | <center>**`1441`**<br/><small>[1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix)</small></center> |
+| **Peak** | <center> 1540 <br/><small> [1965 Round 2 – Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix) </small></center> | <center> 1469 <br/><small> [1965 Round 10 – Mexican Grand Prix](../seasons/1965-season-report#round-10-mexican-grand-prix) </small></center> | <center> 1512  <br/><small> [1965 Round 2 – Monaco Grand Prix](../seasons/1965-season-report#round-2-monaco-grand-prix) </small></center> |
+| **Lowest** | <center> 1435 <br/><small> [1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix) </small></center> | <center> 1444 <br/><small> [1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix) </small></center> | <center> 1441 <br/><small> [1966 Round 9 – Mexican Grand Prix](../seasons/1966-season-report#round-9-mexican-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) (1539)**: 0 wins (0.0%) • 1 losses (16.7%) • 5 DNFs (83.3%) • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) (1611)**: 2 wins (33.3%) • 4 losses (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) `1539`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`16.7%`</small> • **`5`** DNFs <small>`83.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) `1611`**: **`2`** wins <small>`33.3%`</small> • **`4`** losses <small>`66.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 6 races (83.3%)
+- **DNFs**: `5` out of `6` races <small>`83.3%`</small>
 
 #### Detailed Results
 
@@ -65,12 +65,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) (N/A)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-25`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) (N/A)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-37`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-25`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Richie Ginther](richie-ginther) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-37`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 2 races (50.0%)
+- **DNFs**: `1` out of `2` races <small>`50.0%`</small>
 
 #### Detailed Results
 

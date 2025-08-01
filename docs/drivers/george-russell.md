@@ -22,8 +22,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1974`**<br/><small>[2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)</small></center> | <center>**`1889`**<br/><small>[2022 Round 8 – Azerbaijan Grand Prix](../seasons/2022-season-report#round-8-azerbaijan-grand-prix)</small></center> | <center>**`1893`**<br/><small>[2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1548`**<br/><small>[2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1551`**<br/><small>[2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1550`**<br/><small>[2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix)</small></center> |
+| **Peak** | <center> 1974 <br/><small> [2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix) </small></center> | <center> 1889 <br/><small> [2022 Round 8 – Azerbaijan Grand Prix](../seasons/2022-season-report#round-8-azerbaijan-grand-prix) </small></center> | <center> 1893  <br/><small> [2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) </small></center> |
+| **Lowest** | <center> 1548 <br/><small> [2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix) </small></center> | <center> 1551 <br/><small> [2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix) </small></center> | <center> 1550 <br/><small> [2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -40,12 +40,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1493)**: 16 wins (80.0%) • 3 losses (15.0%) • 1 DNFs (5.0%) • **Elo <span style="color: green;">▲&nbsp;+`247`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) (1417)**: 18 wins (85.7%) • 3 losses (14.3%) • **Elo <span style="color: green;">▲&nbsp;+`279`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) `1493`**: **`16`** wins <small>`80.0%`</small> • **`3`** losses <small>`15.0%`</small> • **`1`** DNFs <small>`5.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+247`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Poland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇵🇱'; this.style.marginRight='5px';"/> Robert Kubica](robert-kubica) `1417`**: **`18`** wins <small>`85.7%`</small> • **`3`** losses <small>`14.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+279`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 21 races (4.8%)
+- **DNFs**: `1` out of `21` races <small>`4.8%`</small>
 
 #### Detailed Results
 
@@ -85,15 +85,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1531)**: 10 wins (62.5%) • 4 losses (25.0%) • 2 DNFs (12.5%) • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1510)**: 14 wins (87.5%) • 2 losses (12.5%) • **Elo <span style="color: green;">▲&nbsp;+`24`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) `1531`**: **`10`** wins <small>`62.5%`</small> • **`4`** losses <small>`25.0%`</small> • **`2`** DNFs <small>`12.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) `1510`**: **`14`** wins <small>`87.5%`</small> • **`2`** losses <small>`12.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+24`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-46`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-46`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 17 races (11.8%)
+- **DNFs**: `2` out of `17` races <small>`11.8%`</small>
 
 #### Detailed Results
 
@@ -129,12 +129,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1476)**: 14 wins (70.0%) • 2 losses (10.0%) • 4 DNFs (20.0%) • **Elo <span style="color: green;">▲&nbsp;+`54`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1609)**: 17 wins (77.3%) • 5 losses (22.7%) • **Elo <span style="color: red;">▼&nbsp;`-99`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) `1476`**: **`14`** wins <small>`70.0%`</small> • **`2`** losses <small>`10.0%`</small> • **`4`** DNFs <small>`20.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+54`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) `1609`**: **`17`** wins <small>`77.3%`</small> • **`5`** losses <small>`22.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-99`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 22 races (18.2%)
+- **DNFs**: `4` out of `22` races <small>`18.2%`</small>
 
 #### Detailed Results
 
@@ -175,12 +175,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1803)**: 11 wins (52.4%) • 10 losses (47.6%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`10`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1872)**: 10 wins (45.5%) • 12 losses (54.5%) • **Elo <span style="color: green;">▲&nbsp;+`132`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) `1803`**: **`11`** wins <small>`52.4%`</small> • **`10`** losses <small>`47.6%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+10`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) `1872`**: **`10`** wins <small>`45.5%`</small> • **`12`** losses <small>`54.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+132`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 22 races (0.0%)
+- **DNFs**: `0` out of `22` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -221,12 +221,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1846)**: 5 wins (25.0%) • 12 losses (60.0%) • 3 DNFs (15.0%) • **Elo <span style="color: red;">▼&nbsp;`-44`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1823)**: 11 wins (50.0%) • 11 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`49`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) `1846`**: **`5`** wins <small>`25.0%`</small> • **`12`** losses <small>`60.0%`</small> • **`3`** DNFs <small>`15.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-44`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) `1823`**: **`11`** wins <small>`50.0%`</small> • **`11`** losses <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+49`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 22 races (13.6%)
+- **DNFs**: `3` out of `22` races <small>`13.6%`</small>
 
 #### Detailed Results
 
@@ -267,12 +267,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1731)**: 13 wins (56.5%) • 7 losses (30.4%) • 3 DNFs (13.0%) • **Elo <span style="color: green;">▲&nbsp;+`113`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) (1724)**: 18 wins (75.0%) • 6 losses (25.0%) • **Elo <span style="color: green;">▲&nbsp;+`99`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) `1731`**: **`13`** wins <small>`56.5%`</small> • **`7`** losses <small>`30.4%`</small> • **`3`** DNFs <small>`13.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+113`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lewis Hamilton](lewis-hamilton) `1724`**: **`18`** wins <small>`75.0%`</small> • **`6`** losses <small>`25.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+99`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 24 races (12.5%)
+- **DNFs**: `3` out of `24` races <small>`12.5%`</small>
 
 #### Detailed Results
 
@@ -315,12 +315,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli) (1438)**: 9 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`61`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli) (1501)**: 12 wins (92.3%) • 1 losses (7.7%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli) `1438`**: **`9`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+61`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli) `1501`**: **`12`** wins <small>`92.3%`</small> • **`1`** losses <small>`7.7%`</small> • **Elo ↔ 0**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 13 races (0.0%)
+- **DNFs**: `0` out of `13` races <small>`0.0%`</small>
 
 #### Detailed Results
 

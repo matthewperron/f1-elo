@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1538`**<br/><small>[2005 Round 7 – European Grand Prix](../seasons/2005-season-report#round-7-european-grand-prix)</small></center> | <center>**`1506`**<br/><small>[2005 Round 3 – Bahrain Grand Prix](../seasons/2005-season-report#round-3-bahrain-grand-prix)</small></center> | <center>**`1510`**<br/><small>[2005 Round 1 – Australian Grand Prix](../seasons/2005-season-report#round-1-australian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1463`**<br/><small>[2005 Round 3 – Bahrain Grand Prix](../seasons/2005-season-report#round-3-bahrain-grand-prix)</small></center> | <center>**`1405`**<br/><small>[2005 Round 11 – British Grand Prix](../seasons/2005-season-report#round-11-british-grand-prix)</small></center> | <center>**`1425`**<br/><small>[2005 Round 11 – British Grand Prix](../seasons/2005-season-report#round-11-british-grand-prix)</small></center> |
+| **Peak** | <center> 1538 <br/><small> [2005 Round 7 – European Grand Prix](../seasons/2005-season-report#round-7-european-grand-prix) </small></center> | <center> 1506 <br/><small> [2005 Round 3 – Bahrain Grand Prix](../seasons/2005-season-report#round-3-bahrain-grand-prix) </small></center> | <center> 1510  <br/><small> [2005 Round 1 – Australian Grand Prix](../seasons/2005-season-report#round-1-australian-grand-prix) </small></center> |
+| **Lowest** | <center> 1463 <br/><small> [2005 Round 3 – Bahrain Grand Prix](../seasons/2005-season-report#round-3-bahrain-grand-prix) </small></center> | <center> 1405 <br/><small> [2005 Round 11 – British Grand Prix](../seasons/2005-season-report#round-11-british-grand-prix) </small></center> | <center> 1425 <br/><small> [2005 Round 11 – British Grand Prix](../seasons/2005-season-report#round-11-british-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1595)**: 1 wins (11.1%) • 5 losses (55.6%) • 3 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-95`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1528)**: 5 wins (45.5%) • 6 losses (54.5%) • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) `1595`**: **`1`** wins <small>`11.1%`</small> • **`5`** losses <small>`55.6%`</small> • **`3`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-95`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) `1528`**: **`5`** wins <small>`45.5%`</small> • **`6`** losses <small>`54.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 11 races (27.3%)
+- **DNFs**: `3` out of `11` races <small>`27.3%`</small>
 
 #### Detailed Results
 

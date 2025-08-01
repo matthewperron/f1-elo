@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1591`**<br/><small>[2025 Round 11 – Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix)</small></center> | <center>**`1528`**<br/><small>[2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix)</small></center> | <center>**`1537`**<br/><small>[2024 Round 21 – São Paulo Grand Prix](../seasons/2024-season-report#round-21-so-paulo-grand-prix)</small></center> |
-| **Lowest** | <center>**`1477`**<br/><small>[2025 Round 8 – Monaco Grand Prix](../seasons/2025-season-report#round-8-monaco-grand-prix)</small></center> | <center>**`1437`**<br/><small>[2025 Round 11 – Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix)</small></center> | <center>**`1482`**<br/><small>[2025 Round 2 – Chinese Grand Prix](../seasons/2025-season-report#round-2-chinese-grand-prix)</small></center> |
+| **Peak** | <center> 1591 <br/><small> [2025 Round 11 – Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix) </small></center> | <center> 1528 <br/><small> [2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix) </small></center> | <center> 1537  <br/><small> [2024 Round 21 – São Paulo Grand Prix](../seasons/2024-season-report#round-21-so-paulo-grand-prix) </small></center> |
+| **Lowest** | <center> 1477 <br/><small> [2025 Round 8 – Monaco Grand Prix](../seasons/2025-season-report#round-8-monaco-grand-prix) </small></center> | <center> 1437 <br/><small> [2025 Round 11 – Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix) </small></center> | <center> 1482 <br/><small> [2025 Round 2 – Chinese Grand Prix](../seasons/2025-season-report#round-2-chinese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,15 +35,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc](charles-leclerc) (1673)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc](charles-leclerc) (1818)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-9`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc](charles-leclerc) `1673`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Charles Leclerc](charles-leclerc) `1818`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-9`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`38`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) (N/A)**: 2 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`89`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) `N/A`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+38`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Hülkenberg](nico-hlkenberg) `N/A`**: **`2`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+89`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 3 races (0.0%)
+- **DNFs**: `0` out of `3` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -65,12 +65,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1555)**: 4 wins (33.3%) • 7 losses (58.3%) • 1 DNFs (8.3%) • **Elo <span style="color: green;">▲&nbsp;+`9`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) (1588)**: 5 wins (38.5%) • 8 losses (61.5%) • **Elo <span style="color: red;">▼&nbsp;`-59`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) `1555`**: **`4`** wins <small>`33.3%`</small> • **`7`** losses <small>`58.3%`</small> • **`1`** DNFs <small>`8.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+9`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Esteban Ocon](esteban-ocon) `1588`**: **`5`** wins <small>`38.5%`</small> • **`8`** losses <small>`61.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-59`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 13 races (7.7%)
+- **DNFs**: `1` out of `13` races <small>`7.7%`</small>
 
 #### Detailed Results
 

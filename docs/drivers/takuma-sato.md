@@ -22,8 +22,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1674`**<br/><small>[2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)</small></center> | <center>**`1597`**<br/><small>[2007 Round 6 – Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)</small></center> | <center>**`1600`**<br/><small>[2007 Round 6 – Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1425`**<br/><small>[2007 Round 13 – Italian Grand Prix](../seasons/2007-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1278`**<br/><small>[2005 Round 17 – Brazilian Grand Prix](../seasons/2005-season-report#round-17-brazilian-grand-prix)</small></center> | <center>**`1330`**<br/><small>[2005 Round 19 – Chinese Grand Prix](../seasons/2005-season-report#round-19-chinese-grand-prix)</small></center> |
+| **Peak** | <center> 1674 <br/><small> [2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix) </small></center> | <center> 1597 <br/><small> [2007 Round 6 – Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix) </small></center> | <center> 1600  <br/><small> [2007 Round 6 – Canadian Grand Prix](../seasons/2007-season-report#round-6-canadian-grand-prix) </small></center> |
+| **Lowest** | <center> 1425 <br/><small> [2007 Round 13 – Italian Grand Prix](../seasons/2007-season-report#round-13-italian-grand-prix) </small></center> | <center> 1278 <br/><small> [2005 Round 17 – Brazilian Grand Prix](../seasons/2005-season-report#round-17-brazilian-grand-prix) </small></center> | <center> 1330 <br/><small> [2005 Round 19 – Chinese Grand Prix](../seasons/2005-season-report#round-19-chinese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -40,12 +40,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1684)**: 2 wins (18.2%) • 6 losses (54.5%) • 3 DNFs (27.3%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1634)**: 5 wins (29.4%) • 12 losses (70.6%) • **Elo <span style="color: green;">▲&nbsp;+`6`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1684`**: **`2`** wins <small>`18.2%`</small> • **`6`** losses <small>`54.5%`</small> • **`3`** DNFs <small>`27.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) `1634`**: **`5`** wins <small>`29.4%`</small> • **`12`** losses <small>`70.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+6`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 17 races (17.6%)
+- **DNFs**: `3` out of `17` races <small>`17.6%`</small>
 
 #### Detailed Results
 
@@ -81,12 +81,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1565)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-26`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1776)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) `1565`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-26`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) `1776`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -106,12 +106,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1666)**: 1 wins (6.3%) • 10 losses (62.5%) • 5 DNFs (31.3%) • **Elo <span style="color: red;">▼&nbsp;`-100`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1657)**: 8 wins (44.4%) • 10 losses (55.6%) • **Elo <span style="color: green;">▲&nbsp;+`117`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) `1666`**: **`1`** wins <small>`6.3%`</small> • **`10`** losses <small>`62.5%`</small> • **`5`** DNFs <small>`31.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-100`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) `1657`**: **`8`** wins <small>`44.4%`</small> • **`10`** losses <small>`55.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+117`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 18 races (27.8%)
+- **DNFs**: `5` out of `18` races <small>`27.8%`</small>
 
 #### Detailed Results
 
@@ -148,12 +148,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1729)**: 0 wins (0.0%) • 10 losses (62.5%) • 6 DNFs (37.5%) • **Elo <span style="color: red;">▼&nbsp;`-64`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1829)**: 1 wins (6.3%) • 15 losses (93.8%) • **Elo <span style="color: red;">▼&nbsp;`-158`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) `1729`**: **`0`** wins <small>`0.0%`</small> • **`10`** losses <small>`62.5%`</small> • **`6`** DNFs <small>`37.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-64`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) `1829`**: **`1`** wins <small>`6.3%`</small> • **`15`** losses <small>`93.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-158`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 16 races (37.5%)
+- **DNFs**: `6` out of `16` races <small>`37.5%`</small>
 
 #### Detailed Results
 
@@ -188,18 +188,18 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuji Ide](yuji-ide) (1450)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`50`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuji Ide](yuji-ide) (1391)**: 4 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`109`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuji Ide](yuji-ide) `1450`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+50`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuji Ide](yuji-ide) `1391`**: **`4`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+109`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Franck Montagny](franck-montagny) (1414)**: 2 wins (40.0%) • 0 losses (0.0%) • 3 DNFs (60.0%) • **Elo <span style="color: green;">▲&nbsp;+`86`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Franck Montagny](franck-montagny) (1447)**: 6 wins (85.7%) • 1 losses (14.3%) • **Elo <span style="color: green;">▲&nbsp;+`54`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Franck Montagny](franck-montagny) `1414`**: **`2`** wins <small>`40.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`3`** DNFs <small>`60.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+86`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Franck Montagny](franck-montagny) `1447`**: **`6`** wins <small>`85.7%`</small> • **`1`** losses <small>`14.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+54`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) (1428)**: 2 wins (40.0%) • 0 losses (0.0%) • 3 DNFs (60.0%) • **Elo <span style="color: green;">▲&nbsp;+`73`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) (1482)**: 5 wins (71.4%) • 2 losses (28.6%) • **Elo <span style="color: green;">▲&nbsp;+`17`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) `1428`**: **`2`** wins <small>`40.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`3`** DNFs <small>`60.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+73`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) `1482`**: **`5`** wins <small>`71.4%`</small> • **`2`** losses <small>`28.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+17`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 18 races (33.3%)
+- **DNFs**: `6` out of `18` races <small>`33.3%`</small>
 
 #### Detailed Results
 
@@ -236,12 +236,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson](anthony-davidson) (1415)**: 9 wins (64.3%) • 3 losses (21.4%) • 2 DNFs (14.3%) • **Elo <span style="color: green;">▲&nbsp;+`61`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson](anthony-davidson) (1599)**: 6 wins (35.3%) • 11 losses (64.7%) • **Elo <span style="color: red;">▼&nbsp;`-151`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson](anthony-davidson) `1415`**: **`9`** wins <small>`64.3%`</small> • **`3`** losses <small>`21.4%`</small> • **`2`** DNFs <small>`14.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+61`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson](anthony-davidson) `1599`**: **`6`** wins <small>`35.3%`</small> • **`11`** losses <small>`64.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-151`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 17 races (11.8%)
+- **DNFs**: `2` out of `17` races <small>`11.8%`</small>
 
 #### Detailed Results
 
@@ -277,12 +277,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson](anthony-davidson) (1495)**: 0 wins (0.0%) • 2 losses (66.7%) • 1 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-80`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson](anthony-davidson) (1588)**: 2 wins (50.0%) • 2 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`12`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson](anthony-davidson) `1495`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`66.7%`</small> • **`1`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-80`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Anthony Davidson](anthony-davidson) `1588`**: **`2`** wins <small>`50.0%`</small> • **`2`** losses <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+12`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 4 races (25.0%)
+- **DNFs**: `1` out of `4` races <small>`25.0%`</small>
 
 #### Detailed Results
 

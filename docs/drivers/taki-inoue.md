@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1481`**<br/><small>[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)</small></center> | <center>**`1467`**<br/><small>[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)</small></center> | <center>**`1471`**<br/><small>[1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix)</small></center> |
-| **Lowest** | <center>**`1332`**<br/><small>[1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)</small></center> | <center>**`1355`**<br/><small>[1995 Round 8 – British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix)</small></center> | <center>**`1349`**<br/><small>[1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix)</small></center> |
+| **Peak** | <center> 1481 <br/><small> [1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix) </small></center> | <center> 1467 <br/><small> [1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix) </small></center> | <center> 1471  <br/><small> [1994 Round 15 – Japanese Grand Prix](../seasons/1994-season-report#round-15-japanese-grand-prix) </small></center> |
+| **Lowest** | <center> 1332 <br/><small> [1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix) </small></center> | <center> 1355 <br/><small> [1995 Round 8 – British Grand Prix](../seasons/1995-season-report#round-8-british-grand-prix) </small></center> | <center> 1349 <br/><small> [1995 Round 9 – German Grand Prix](../seasons/1995-season-report#round-9-german-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1517)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1672)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) `1517`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) `1672`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -60,15 +60,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) (1493)**: 1 wins (11.1%) • 4 losses (44.4%) • 4 DNFs (44.4%) • **Elo <span style="color: red;">▼&nbsp;`-74`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) (1706)**: 0 wins (0.0%) • 10 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-141`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) `1493`**: **`1`** wins <small>`11.1%`</small> • **`4`** losses <small>`44.4%`</small> • **`4`** DNFs <small>`44.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-74`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gianni Morbidelli](gianni-morbidelli) `1706`**: **`0`** wins <small>`0.0%`</small> • **`10`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-141`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Massimiliano Papis](massimiliano-papis) (1500)**: 1 wins (16.7%) • 2 losses (33.3%) • 3 DNFs (50.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Massimiliano Papis](massimiliano-papis) (1469)**: 3 wins (42.9%) • 4 losses (57.1%) • **Elo <span style="color: green;">▲&nbsp;+`31`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Massimiliano Papis](massimiliano-papis) `1500`**: **`1`** wins <small>`16.7%`</small> • **`2`** losses <small>`33.3%`</small> • **`3`** DNFs <small>`50.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Massimiliano Papis](massimiliano-papis) `1469`**: **`3`** wins <small>`42.9%`</small> • **`4`** losses <small>`57.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+31`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 17 races (41.2%)
+- **DNFs**: `7` out of `17` races <small>`41.2%`</small>
 
 #### Detailed Results
 

@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1509`**<br/><small>[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)</small></center> | <center>**`1478`**<br/><small>[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)</small></center> | <center>**`1476`**<br/><small>[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)</small></center> |
-| **Lowest** | <center>**`1470`**<br/><small>[2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix)</small></center> | <center>**`1459`**<br/><small>[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)</small></center> | <center>**`1474`**<br/><small>[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)</small></center> |
+| **Peak** | <center> 1509 <br/><small> [2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix) </small></center> | <center> 1478 <br/><small> [2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) </small></center> | <center> 1476  <br/><small> [2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) </small></center> |
+| **Lowest** | <center> 1470 <br/><small> [2020 Round 16 – Sakhir Grand Prix](../seasons/2020-season-report#round-16-sakhir-grand-prix) </small></center> | <center> 1459 <br/><small> [2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix) </small></center> | <center> 1474 <br/><small> [2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1651)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1511)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`9`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) `1651`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) `1511`**: **`1`** wins <small>`50.0%`</small> • **`1`** losses <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+9`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 2 races (0.0%)
+- **DNFs**: `0` out of `2` races <small>`0.0%`</small>
 
 #### Detailed Results
 

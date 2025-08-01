@@ -19,8 +19,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1717`**<br/><small>[1977 Round 3 – South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)</small></center> | <center>**`1619`**<br/><small>[1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix)</small></center> | <center>**`1651`**<br/><small>[1977 Round 3 – South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix)</small></center> |
-| **Lowest** | <center>**`1431`**<br/><small>[1975 Round 3 – South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix)</small></center> | <center>**`1408`**<br/><small>[1975 Round 4 – Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1430`**<br/><small>[1975 Round 4 – Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix)</small></center> |
+| **Peak** | <center> 1717 <br/><small> [1977 Round 3 – South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix) </small></center> | <center> 1619 <br/><small> [1976 Round 14 – Canadian Grand Prix](../seasons/1976-season-report#round-14-canadian-grand-prix) </small></center> | <center> 1651  <br/><small> [1977 Round 3 – South African Grand Prix](../seasons/1977-season-report#round-3-south-african-grand-prix) </small></center> |
+| **Lowest** | <center> 1431 <br/><small> [1975 Round 3 – South African Grand Prix](../seasons/1975-season-report#round-3-south-african-grand-prix) </small></center> | <center> 1408 <br/><small> [1975 Round 4 – Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix) </small></center> | <center> 1430 <br/><small> [1975 Round 4 – Spanish Grand Prix](../seasons/1975-season-report#round-4-spanish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -37,12 +37,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1518)**: 1 wins (20.0%) • 3 losses (60.0%) • 1 DNFs (20.0%) • **Elo <span style="color: red;">▼&nbsp;`-68`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1575)**: 4 wins (50.0%) • 4 losses (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) `1518`**: **`1`** wins <small>`20.0%`</small> • **`3`** losses <small>`60.0%`</small> • **`1`** DNFs <small>`20.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-68`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) `1575`**: **`4`** wins <small>`50.0%`</small> • **`4`** losses <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 8 races (12.5%)
+- **DNFs**: `1` out of `8` races <small>`12.5%`</small>
 
 #### Detailed Results
 
@@ -69,12 +69,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1497)**: 2 wins (33.3%) • 2 losses (33.3%) • 2 DNFs (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`22`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1608)**: 4 wins (33.3%) • 8 losses (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) `1497`**: **`2`** wins <small>`33.3%`</small> • **`2`** losses <small>`33.3%`</small> • **`2`** DNFs <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+22`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) `1608`**: **`4`** wins <small>`33.3%`</small> • **`8`** losses <small>`66.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 12 races (16.7%)
+- **DNFs**: `2` out of `12` races <small>`16.7%`</small>
 
 #### Detailed Results
 
@@ -105,12 +105,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1331)**: 9 wins (64.3%) • 1 losses (7.1%) • 4 DNFs (28.6%) • **Elo <span style="color: green;">▲&nbsp;+`166`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) (1391)**: 12 wins (75.0%) • 4 losses (25.0%) • **Elo <span style="color: green;">▲&nbsp;+`218`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) `1331`**: **`9`** wins <small>`64.3%`</small> • **`1`** losses <small>`7.1%`</small> • **`4`** DNFs <small>`28.6%`</small> • **Elo <span style="color: green;">▲&nbsp;`+166`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier) `1391`**: **`12`** wins <small>`75.0%`</small> • **`4`** losses <small>`25.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+218`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 16 races (25.0%)
+- **DNFs**: `4` out of `16` races <small>`25.0%`</small>
 
 #### Detailed Results
 
@@ -145,12 +145,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Renzo Zorzi](renzo-zorzi) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Renzo Zorzi](renzo-zorzi) (1435)**: 3 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`40`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Renzo Zorzi](renzo-zorzi) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Renzo Zorzi](renzo-zorzi) `1435`**: **`3`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+40`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 3 races (33.3%)
+- **DNFs**: `1` out of `3` races <small>`33.3%`</small>
 
 #### Detailed Results
 

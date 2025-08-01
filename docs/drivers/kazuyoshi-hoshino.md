@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1509`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1529`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1523`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> |
-| **Lowest** | <center>**`1477`**<br/><small>[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1529`**<br/><small>[1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1493`**<br/><small>[1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix)</small></center> |
+| **Peak** | <center> 1509 <br/><small> [1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1529 <br/><small> [1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1523  <br/><small> [1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) </small></center> |
+| **Lowest** | <center> 1477 <br/><small> [1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) </small></center> | <center> 1529 <br/><small> [1977 Round 17 – Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1493 <br/><small> [1976 Round 16 – Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,15 +35,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1484)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) (1585)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) `1484`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler) `1585`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
 
-- **Races vs [Jody Scheckter](jody-scheckter) (1547)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [Jody Scheckter](jody-scheckter) (1612)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-10`</span>**
+- **Races vs [Jody Scheckter](jody-scheckter) `1547`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [Jody Scheckter](jody-scheckter) `1612`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-10`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 2 races (100.0%)
+- **DNFs**: `2` out of `2` races <small>`100.0%`</small>
 
 #### Detailed Results
 
@@ -63,12 +63,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) (1443)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`29`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) (1446)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) `1443`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+29`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara) `1446`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+32`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 

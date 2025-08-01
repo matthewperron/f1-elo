@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1464`**<br/><small>[2003 Round 12 – German Grand Prix](../seasons/2003-season-report#round-12-german-grand-prix)</small></center> | <center>**`1471`**<br/><small>[2003 Round 13 – Hungarian Grand Prix](../seasons/2003-season-report#round-13-hungarian-grand-prix)</small></center> | <center>**`1489`**<br/><small>[2003 Round 12 – German Grand Prix](../seasons/2003-season-report#round-12-german-grand-prix)</small></center> |
-| **Lowest** | <center>**`1373`**<br/><small>[2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1428`**<br/><small>[2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1411`**<br/><small>[2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix)</small></center> |
+| **Peak** | <center> 1464 <br/><small> [2003 Round 12 – German Grand Prix](../seasons/2003-season-report#round-12-german-grand-prix) </small></center> | <center> 1471 <br/><small> [2003 Round 13 – Hungarian Grand Prix](../seasons/2003-season-report#round-13-hungarian-grand-prix) </small></center> | <center> 1489  <br/><small> [2003 Round 12 – German Grand Prix](../seasons/2003-season-report#round-12-german-grand-prix) </small></center> |
+| **Lowest** | <center> 1373 <br/><small> [2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix) </small></center> | <center> 1428 <br/><small> [2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix) </small></center> | <center> 1411 <br/><small> [2003 Round 16 – Japanese Grand Prix](../seasons/2003-season-report#round-16-japanese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1607)**: 0 wins (0.0%) • 3 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-73`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1583)**: 0 wins (0.0%) • 5 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-126`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) `1607`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-73`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) `1583`**: **`0`** wins <small>`0.0%`</small> • **`5`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-126`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 5 races (0.0%)
+- **DNFs**: `0` out of `5` races <small>`0.0%`</small>
 
 #### Detailed Results
 

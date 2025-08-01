@@ -19,8 +19,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1642`**<br/><small>[1993 Round 5 – Spanish Grand Prix](../seasons/1993-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1615`**<br/><small>[1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)</small></center> | <center>**`1618`**<br/><small>[1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix)</small></center> |
-| **Lowest** | <center>**`1308`**<br/><small>[1994 Round 10 – Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)</small></center> | <center>**`1430`**<br/><small>[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)</small></center> | <center>**`1422`**<br/><small>[1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix)</small></center> |
+| **Peak** | <center> 1642 <br/><small> [1993 Round 5 – Spanish Grand Prix](../seasons/1993-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1615 <br/><small> [1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix) </small></center> | <center> 1618  <br/><small> [1993 Round 3 – European Grand Prix](../seasons/1993-season-report#round-3-european-grand-prix) </small></center> |
+| **Lowest** | <center> 1308 <br/><small> [1994 Round 10 – Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix) </small></center> | <center> 1430 <br/><small> [1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix) </small></center> | <center> 1422 <br/><small> [1994 Round 3 – San Marino Grand Prix](../seasons/1994-season-report#round-3-san-marino-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -37,12 +37,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) (1434)**: 3 wins (30.0%) • 1 losses (10.0%) • 6 DNFs (60.0%) • **Elo <span style="color: green;">▲&nbsp;+`50`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) (1540)**: 7 wins (58.3%) • 5 losses (41.7%) • **Elo <span style="color: green;">▲&nbsp;+`83`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) `1434`**: **`3`** wins <small>`30.0%`</small> • **`1`** losses <small>`10.0%`</small> • **`6`** DNFs <small>`60.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+50`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) `1540`**: **`7`** wins <small>`58.3%`</small> • **`5`** losses <small>`41.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+83`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 12 races (50.0%)
+- **DNFs**: `6` out of `12` races <small>`50.0%`</small>
 
 #### Detailed Results
 
@@ -73,12 +73,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) (1554)**: 6 wins (42.9%) • 8 losses (57.1%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-75`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) (1533)**: 8 wins (50.0%) • 8 losses (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-153`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) `1554`**: **`6`** wins <small>`42.9%`</small> • **`8`** losses <small>`57.1%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-75`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) `1533`**: **`8`** wins <small>`50.0%`</small> • **`8`** losses <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-153`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 16 races (0.0%)
+- **DNFs**: `0` out of `16` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -113,12 +113,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) (1510)**: 4 wins (33.3%) • 4 losses (33.3%) • 4 DNFs (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`40`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) (1459)**: 5 wins (31.3%) • 11 losses (68.8%) • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) `1510`**: **`4`** wins <small>`33.3%`</small> • **`4`** losses <small>`33.3%`</small> • **`4`** DNFs <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+40`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) `1459`**: **`5`** wins <small>`31.3%`</small> • **`11`** losses <small>`68.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 16 races (25.0%)
+- **DNFs**: `4` out of `16` races <small>`25.0%`</small>
 
 #### Detailed Results
 
@@ -153,15 +153,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](mika-hkkinen) (1744)**: 1 wins (10.0%) • 5 losses (50.0%) • 4 DNFs (40.0%) • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](mika-hkkinen) (1780)**: 2 wins (14.3%) • 12 losses (85.7%) • **Elo <span style="color: green;">▲&nbsp;+`65`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](mika-hkkinen) `1744`**: **`1`** wins <small>`10.0%`</small> • **`5`** losses <small>`50.0%`</small> • **`4`** DNFs <small>`40.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-30`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Häkkinen](mika-hkkinen) `1780`**: **`2`** wins <small>`14.3%`</small> • **`12`** losses <small>`85.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+65`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Jan Magnussen](jan-magnussen) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Jan Magnussen](jan-magnussen) (1461)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`39`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Jan Magnussen](jan-magnussen) `1468`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+32`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Jan Magnussen](jan-magnussen) `1461`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+39`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 15 races (26.7%)
+- **DNFs**: `4` out of `15` races <small>`26.7%`</small>
 
 #### Detailed Results
 

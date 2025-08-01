@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1546`**<br/><small>[1986 Round 11 – Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)</small></center> | <center>**`1542`**<br/><small>[1986 Round 8 – French Grand Prix](../seasons/1986-season-report#round-8-french-grand-prix)</small></center> | <center>**`1522`**<br/><small>[1986 Round 11 – Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1416`**<br/><small>[1986 Round 7 – Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix)</small></center> | <center>**`1422`**<br/><small>[1987 Round 2 – San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix)</small></center> | <center>**`1422`**<br/><small>[1987 Round 10 – Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix)</small></center> |
+| **Peak** | <center> 1546 <br/><small> [1986 Round 11 – Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix) </small></center> | <center> 1542 <br/><small> [1986 Round 8 – French Grand Prix](../seasons/1986-season-report#round-8-french-grand-prix) </small></center> | <center> 1522  <br/><small> [1986 Round 11 – Hungarian Grand Prix](../seasons/1986-season-report#round-11-hungarian-grand-prix) </small></center> |
+| **Lowest** | <center> 1416 <br/><small> [1986 Round 7 – Detroit Grand Prix](../seasons/1986-season-report#round-7-detroit-grand-prix) </small></center> | <center> 1422 <br/><small> [1987 Round 2 – San Marino Grand Prix](../seasons/1987-season-report#round-2-san-marino-grand-prix) </small></center> | <center> 1422 <br/><small> [1987 Round 10 – Austrian Grand Prix](../seasons/1987-season-report#round-10-austrian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,15 +35,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1503)**: 0 wins (0.0%) • 0 losses (0.0%) • 5 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1561)**: 1 wins (20.0%) • 4 losses (80.0%) • **Elo <span style="color: red;">▼&nbsp;`-72`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1503`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`5`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1561`**: **`1`** wins <small>`20.0%`</small> • **`4`** losses <small>`80.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-72`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) (N/A)**: 1 wins (11.1%) • 4 losses (44.4%) • 4 DNFs (44.4%) • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) (N/A)**: 4 wins (40.0%) • 6 losses (60.0%) • **Elo <span style="color: green;">▲&nbsp;+`68`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) `N/A`**: **`1`** wins <small>`11.1%`</small> • **`4`** losses <small>`44.4%`</small> • **`4`** DNFs <small>`44.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇪'; this.style.marginRight='5px';"/> Thierry Boutsen](thierry-boutsen) `N/A`**: **`4`** wins <small>`40.0%`</small> • **`6`** losses <small>`60.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+68`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 9 out of 15 races (60.0%)
+- **DNFs**: `9` out of `15` races <small>`60.0%`</small>
 
 #### Detailed Results
 
@@ -77,12 +77,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) (1512)**: 0 wins (0.0%) • 1 losses (11.1%) • 8 DNFs (88.9%) • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) (1735)**: 3 wins (18.8%) • 13 losses (81.3%) • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) `1512`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`11.1%`</small> • **`8`** DNFs <small>`88.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Martin Brundle](martin-brundle) `1735`**: **`3`** wins <small>`18.8%`</small> • **`13`** losses <small>`81.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 8 out of 16 races (50.0%)
+- **DNFs**: `8` out of `16` races <small>`50.0%`</small>
 
 #### Detailed Results
 

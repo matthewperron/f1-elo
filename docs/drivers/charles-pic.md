@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1578`**<br/><small>[2012 Round 11 – Hungarian Grand Prix](../seasons/2012-season-report#round-11-hungarian-grand-prix)</small></center> | <center>**`1664`**<br/><small>[2013 Round 9 – German Grand Prix](../seasons/2013-season-report#round-9-german-grand-prix)</small></center> | <center>**`1612`**<br/><small>[2013 Round 8 – British Grand Prix](../seasons/2013-season-report#round-8-british-grand-prix)</small></center> |
-| **Lowest** | <center>**`1393`**<br/><small>[2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix)</small></center> | <center>**`1425`**<br/><small>[2012 Round 9 – British Grand Prix](../seasons/2012-season-report#round-9-british-grand-prix)</small></center> | <center>**`1440`**<br/><small>[2012 Round 3 – Chinese Grand Prix](../seasons/2012-season-report#round-3-chinese-grand-prix)</small></center> |
+| **Peak** | <center> 1578 <br/><small> [2012 Round 11 – Hungarian Grand Prix](../seasons/2012-season-report#round-11-hungarian-grand-prix) </small></center> | <center> 1664 <br/><small> [2013 Round 9 – German Grand Prix](../seasons/2013-season-report#round-9-german-grand-prix) </small></center> | <center> 1612  <br/><small> [2013 Round 8 – British Grand Prix](../seasons/2013-season-report#round-8-british-grand-prix) </small></center> |
+| **Lowest** | <center> 1393 <br/><small> [2013 Round 18 – United States Grand Prix](../seasons/2013-season-report#round-18-united-states-grand-prix) </small></center> | <center> 1425 <br/><small> [2012 Round 9 – British Grand Prix](../seasons/2012-season-report#round-9-british-grand-prix) </small></center> | <center> 1440 <br/><small> [2012 Round 3 – Chinese Grand Prix](../seasons/2012-season-report#round-3-chinese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1556)**: 5 wins (27.8%) • 8 losses (44.4%) • 5 DNFs (27.8%) • **Elo <span style="color: green;">▲&nbsp;+`36`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1661)**: 6 wins (30.0%) • 14 losses (70.0%) • **Elo <span style="color: red;">▼&nbsp;`-50`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) `1556`**: **`5`** wins <small>`27.8%`</small> • **`8`** losses <small>`44.4%`</small> • **`5`** DNFs <small>`27.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+36`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) `1661`**: **`6`** wins <small>`30.0%`</small> • **`14`** losses <small>`70.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-50`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 20 races (25.0%)
+- **DNFs**: `5` out of `20` races <small>`25.0%`</small>
 
 #### Detailed Results
 
@@ -79,12 +79,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Giedo van der Garde](giedo-van-der-garde) (1510)**: 10 wins (55.6%) • 4 losses (22.2%) • 4 DNFs (22.2%) • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Giedo van der Garde](giedo-van-der-garde) (1511)**: 9 wins (47.4%) • 10 losses (52.6%) • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Giedo van der Garde](giedo-van-der-garde) `1510`**: **`10`** wins <small>`55.6%`</small> • **`4`** losses <small>`22.2%`</small> • **`4`** DNFs <small>`22.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Giedo van der Garde](giedo-van-der-garde) `1511`**: **`9`** wins <small>`47.4%`</small> • **`10`** losses <small>`52.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 19 races (21.1%)
+- **DNFs**: `4` out of `19` races <small>`21.1%`</small>
 
 #### Detailed Results
 

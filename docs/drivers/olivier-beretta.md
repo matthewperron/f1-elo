@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1479`**<br/><small>[1994 Round 1 – Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)</small></center> | <center>**`1528`**<br/><small>[1994 Round 4 – Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix)</small></center> | <center>**`1499`**<br/><small>[1994 Round 4 – Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix)</small></center> |
-| **Lowest** | <center>**`1375`**<br/><small>[1994 Round 10 – Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)</small></center> | <center>**`1481`**<br/><small>[1994 Round 1 – Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix)</small></center> | <center>**`1451`**<br/><small>[1994 Round 10 – Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix)</small></center> |
+| **Peak** | <center> 1479 <br/><small> [1994 Round 1 – Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix) </small></center> | <center> 1528 <br/><small> [1994 Round 4 – Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix) </small></center> | <center> 1499  <br/><small> [1994 Round 4 – Monaco Grand Prix](../seasons/1994-season-report#round-4-monaco-grand-prix) </small></center> |
+| **Lowest** | <center> 1375 <br/><small> [1994 Round 10 – Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix) </small></center> | <center> 1481 <br/><small> [1994 Round 1 – Brazilian Grand Prix](../seasons/1994-season-report#round-1-brazilian-grand-prix) </small></center> | <center> 1451 <br/><small> [1994 Round 10 – Hungarian Grand Prix](../seasons/1994-season-report#round-10-hungarian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1660)**: 1 wins (11.1%) • 3 losses (33.3%) • 5 DNFs (55.6%) • **Elo <span style="color: red;">▼&nbsp;`-16`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) (1744)**: 0 wins (0.0%) • 10 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-126`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) `1660`**: **`1`** wins <small>`11.1%`</small> • **`3`** losses <small>`33.3%`</small> • **`5`** DNFs <small>`55.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-16`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Érik Comas](rik-comas) `1744`**: **`0`** wins <small>`0.0%`</small> • **`10`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-126`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 10 races (50.0%)
+- **DNFs**: `5` out of `10` races <small>`50.0%`</small>
 
 #### Detailed Results
 

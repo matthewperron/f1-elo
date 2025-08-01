@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1531`**<br/><small>[2006 Round 16 – Chinese Grand Prix](../seasons/2006-season-report#round-16-chinese-grand-prix)</small></center> | <center>**`1460`**<br/><small>[2006 Round 17 – Japanese Grand Prix](../seasons/2006-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1510`**<br/><small>[2006 Round 16 – Chinese Grand Prix](../seasons/2006-season-report#round-16-chinese-grand-prix)</small></center> |
-| **Lowest** | <center>**`1301`**<br/><small>[2010 Round 16 – Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix)</small></center> | <center>**`1335`**<br/><small>[2010 Round 17 – Korean Grand Prix](../seasons/2010-season-report#round-17-korean-grand-prix)</small></center> | <center>**`1337`**<br/><small>[2010 Round 16 – Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix)</small></center> |
+| **Peak** | <center> 1531 <br/><small> [2006 Round 16 – Chinese Grand Prix](../seasons/2006-season-report#round-16-chinese-grand-prix) </small></center> | <center> 1460 <br/><small> [2006 Round 17 – Japanese Grand Prix](../seasons/2006-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1510  <br/><small> [2006 Round 16 – Chinese Grand Prix](../seasons/2006-season-report#round-16-chinese-grand-prix) </small></center> |
+| **Lowest** | <center> 1301 <br/><small> [2010 Round 16 – Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix) </small></center> | <center> 1335 <br/><small> [2010 Round 17 – Korean Grand Prix](../seasons/2010-season-report#round-17-korean-grand-prix) </small></center> | <center> 1337 <br/><small> [2010 Round 16 – Japanese Grand Prix](../seasons/2010-season-report#round-16-japanese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1486)**: 0 wins (0.0%) • 2 losses (40.0%) • 3 DNFs (60.0%) • **Elo <span style="color: red;">▼&nbsp;`-73`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1638)**: 2 wins (28.6%) • 5 losses (71.4%) • **Elo <span style="color: red;">▼&nbsp;`-17`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) `1486`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`40.0%`</small> • **`3`** DNFs <small>`60.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-73`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) `1638`**: **`2`** wins <small>`28.6%`</small> • **`5`** losses <small>`71.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-17`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 7 races (42.9%)
+- **DNFs**: `3` out of `7` races <small>`42.9%`</small>
 
 #### Detailed Results
 
@@ -67,12 +67,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1595)**: 1 wins (20.0%) • 4 losses (80.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) (1725)**: 0 wins (0.0%) • 7 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-91`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) `1595`**: **`1`** wins <small>`20.0%`</small> • **`4`** losses <small>`80.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Adrian Sutil](adrian-sutil) `1725`**: **`0`** wins <small>`0.0%`</small> • **`7`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-91`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 7 races (0.0%)
+- **DNFs**: `0` out of `7` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -98,15 +98,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Karun Chandhok](karun-chandhok) (1550)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-23`</span>**
-- **Qualifying vs [Karun Chandhok](karun-chandhok) (1459)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
+- **Races vs [Karun Chandhok](karun-chandhok) `1550`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-23`</span>**
+- **Qualifying vs [Karun Chandhok](karun-chandhok) `1459`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1537)**: 0 wins (0.0%) • 3 losses (75.0%) • 1 DNFs (25.0%) • **Elo <span style="color: red;">▼&nbsp;`-64`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) (1532)**: 1 wins (16.7%) • 5 losses (83.3%) • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) `1537`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`75.0%`</small> • **`1`** DNFs <small>`25.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-64`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Bruno Senna](bruno-senna) `1532`**: **`1`** wins <small>`16.7%`</small> • **`5`** losses <small>`83.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 7 races (14.3%)
+- **DNFs**: `1` out of `7` races <small>`14.3%`</small>
 
 #### Detailed Results
 

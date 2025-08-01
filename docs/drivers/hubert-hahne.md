@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1531`**<br/><small>[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)</small></center> | N/A | <center>**`1509`**<br/><small>[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)</small></center> |
-| **Lowest** | <center>**`1531`**<br/><small>[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)</small></center> | N/A | <center>**`1509`**<br/><small>[1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix)</small></center> |
+| **Peak** | <center> 1531 <br/><small> [1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) </small></center> | N/A | <center> 1509  <br/><small> [1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) </small></center> |
+| **Lowest** | <center> 1531 <br/><small> [1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) </small></center> | N/A | <center> 1509 <br/><small> [1967 Round 7 – German Grand Prix](../seasons/1967-season-report#round-7-german-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Hobbs](david-hobbs) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Hobbs](david-hobbs) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`31`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Hobbs](david-hobbs) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Hobbs](david-hobbs) `N/A`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+31`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 1 races (100.0%)
+- **DNFs**: `1` out of `1` races <small>`100.0%`</small>
 
 #### Detailed Results
 

@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1464`**<br/><small>[2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)</small></center> | <center>**`1450`**<br/><small>[2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)</small></center> | <center>**`1489`**<br/><small>[2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix)</small></center> |
-| **Lowest** | <center>**`1391`**<br/><small>[2006 Round 4 – San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1450`**<br/><small>[2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix)</small></center> | <center>**`1432`**<br/><small>[2006 Round 4 – San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix)</small></center> |
+| **Peak** | <center> 1464 <br/><small> [2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix) </small></center> | <center> 1450 <br/><small> [2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix) </small></center> | <center> 1489  <br/><small> [2006 Round 1 – Bahrain Grand Prix](../seasons/2006-season-report#round-1-bahrain-grand-prix) </small></center> |
+| **Lowest** | <center> 1391 <br/><small> [2006 Round 4 – San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix) </small></center> | <center> 1450 <br/><small> [2006 Round 3 – Australian Grand Prix](../seasons/2006-season-report#round-3-australian-grand-prix) </small></center> | <center> 1432 <br/><small> [2006 Round 4 – San Marino Grand Prix](../seasons/2006-season-report#round-4-san-marino-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1328)**: 0 wins (0.0%) • 1 losses (25.0%) • 3 DNFs (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-50`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1567)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-109`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) `1328`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`25.0%`</small> • **`3`** DNFs <small>`75.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-50`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) `1567`**: **`0`** wins <small>`0.0%`</small> • **`4`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-109`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 4 races (75.0%)
+- **DNFs**: `3` out of `4` races <small>`75.0%`</small>
 
 #### Detailed Results
 

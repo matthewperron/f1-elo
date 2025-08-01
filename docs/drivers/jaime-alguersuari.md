@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1590`**<br/><small>[2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)</small></center> | <center>**`1553`**<br/><small>[2010 Round 4 – Chinese Grand Prix](../seasons/2010-season-report#round-4-chinese-grand-prix)</small></center> | <center>**`1561`**<br/><small>[2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)</small></center> |
-| **Lowest** | <center>**`1347`**<br/><small>[2010 Round 10 – British Grand Prix](../seasons/2010-season-report#round-10-british-grand-prix)</small></center> | <center>**`1399`**<br/><small>[2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)</small></center> | <center>**`1415`**<br/><small>[2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)</small></center> |
+| **Peak** | <center> 1590 <br/><small> [2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix) </small></center> | <center> 1553 <br/><small> [2010 Round 4 – Chinese Grand Prix](../seasons/2010-season-report#round-4-chinese-grand-prix) </small></center> | <center> 1561  <br/><small> [2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix) </small></center> |
+| **Lowest** | <center> 1347 <br/><small> [2010 Round 10 – British Grand Prix](../seasons/2010-season-report#round-10-british-grand-prix) </small></center> | <center> 1399 <br/><small> [2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix) </small></center> | <center> 1415 <br/><small> [2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1521)**: 1 wins (16.7%) • 2 losses (33.3%) • 3 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1617)**: 1 wins (12.5%) • 7 losses (87.5%) • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) `1521`**: **`1`** wins <small>`16.7%`</small> • **`2`** losses <small>`33.3%`</small> • **`3`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) `1617`**: **`1`** wins <small>`12.5%`</small> • **`7`** losses <small>`87.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 8 races (37.5%)
+- **DNFs**: `3` out of `8` races <small>`37.5%`</small>
 
 #### Detailed Results
 
@@ -68,12 +68,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1432)**: 9 wins (52.9%) • 6 losses (35.3%) • 2 DNFs (11.8%) • **Elo <span style="color: green;">▲&nbsp;+`88`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1434)**: 8 wins (42.1%) • 11 losses (57.9%) • **Elo <span style="color: green;">▲&nbsp;+`185`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) `1432`**: **`9`** wins <small>`52.9%`</small> • **`6`** losses <small>`35.3%`</small> • **`2`** DNFs <small>`11.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+88`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) `1434`**: **`8`** wins <small>`42.1%`</small> • **`11`** losses <small>`57.9%`</small> • **Elo <span style="color: green;">▲&nbsp;`+185`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 19 races (10.5%)
+- **DNFs**: `2` out of `19` races <small>`10.5%`</small>
 
 #### Detailed Results
 
@@ -111,12 +111,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1429)**: 7 wins (46.7%) • 7 losses (46.7%) • 1 DNFs (6.7%) • **Elo <span style="color: green;">▲&nbsp;+`3`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1534)**: 7 wins (36.8%) • 12 losses (63.2%) • **Elo <span style="color: red;">▼&nbsp;`-100`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) `1429`**: **`7`** wins <small>`46.7%`</small> • **`7`** losses <small>`46.7%`</small> • **`1`** DNFs <small>`6.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+3`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) `1534`**: **`7`** wins <small>`36.8%`</small> • **`12`** losses <small>`63.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-100`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 19 races (5.3%)
+- **DNFs**: `1` out of `19` races <small>`5.3%`</small>
 
 #### Detailed Results
 

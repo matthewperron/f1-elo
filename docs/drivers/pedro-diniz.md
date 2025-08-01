@@ -21,8 +21,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1581`**<br/><small>[1999 Round 14 – European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix)</small></center> | <center>**`1659`**<br/><small>[1999 Round 8 – British Grand Prix](../seasons/1999-season-report#round-8-british-grand-prix)</small></center> | <center>**`1617`**<br/><small>[1999 Round 9 – Austrian Grand Prix](../seasons/1999-season-report#round-9-austrian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1299`**<br/><small>[1997 Round 7 – Canadian Grand Prix](../seasons/1997-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1384`**<br/><small>[2000 Round 14 – Italian Grand Prix](../seasons/2000-season-report#round-14-italian-grand-prix)</small></center> | <center>**`1407`**<br/><small>[2000 Round 14 – Italian Grand Prix](../seasons/2000-season-report#round-14-italian-grand-prix)</small></center> |
+| **Peak** | <center> 1581 <br/><small> [1999 Round 14 – European Grand Prix](../seasons/1999-season-report#round-14-european-grand-prix) </small></center> | <center> 1659 <br/><small> [1999 Round 8 – British Grand Prix](../seasons/1999-season-report#round-8-british-grand-prix) </small></center> | <center> 1617  <br/><small> [1999 Round 9 – Austrian Grand Prix](../seasons/1999-season-report#round-9-austrian-grand-prix) </small></center> |
+| **Lowest** | <center> 1299 <br/><small> [1997 Round 7 – Canadian Grand Prix](../seasons/1997-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1384 <br/><small> [2000 Round 14 – Italian Grand Prix](../seasons/2000-season-report#round-14-italian-grand-prix) </small></center> | <center> 1407 <br/><small> [2000 Round 14 – Italian Grand Prix](../seasons/2000-season-report#round-14-italian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,12 +39,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (1409)**: 5 wins (38.5%) • 2 losses (15.4%) • 6 DNFs (46.2%) • **Elo <span style="color: green;">▲&nbsp;+`30`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) (1473)**: 8 wins (47.1%) • 9 losses (52.9%) • **Elo <span style="color: green;">▲&nbsp;+`26`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) `1409`**: **`5`** wins <small>`38.5%`</small> • **`2`** losses <small>`15.4%`</small> • **`6`** DNFs <small>`46.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+30`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Roberto Moreno](roberto-moreno) `1473`**: **`8`** wins <small>`47.1%`</small> • **`9`** losses <small>`52.9%`</small> • **Elo <span style="color: green;">▲&nbsp;`+26`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 17 races (35.3%)
+- **DNFs**: `6` out of `17` races <small>`35.3%`</small>
 
 #### Detailed Results
 
@@ -80,12 +80,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1619)**: 3 wins (20.0%) • 5 losses (33.3%) • 7 DNFs (46.7%) • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) (1689)**: 1 wins (6.3%) • 15 losses (93.8%) • **Elo <span style="color: red;">▼&nbsp;`-173`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) `1619`**: **`3`** wins <small>`20.0%`</small> • **`5`** losses <small>`33.3%`</small> • **`7`** DNFs <small>`46.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Olivier Panis](olivier-panis) `1689`**: **`1`** wins <small>`6.3%`</small> • **`15`** losses <small>`93.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-173`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 16 races (43.8%)
+- **DNFs**: `7` out of `16` races <small>`43.8%`</small>
 
 #### Detailed Results
 
@@ -120,12 +120,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill) (1545)**: 3 wins (20.0%) • 5 losses (33.3%) • 7 DNFs (46.7%) • **Elo <span style="color: red;">▼&nbsp;`-34`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill) (1613)**: 3 wins (17.6%) • 14 losses (82.4%) • **Elo <span style="color: green;">▲&nbsp;+`33`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill) `1545`**: **`3`** wins <small>`20.0%`</small> • **`5`** losses <small>`33.3%`</small> • **`7`** DNFs <small>`46.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-34`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill) `1613`**: **`3`** wins <small>`17.6%`</small> • **`14`** losses <small>`82.4%`</small> • **Elo <span style="color: green;">▲&nbsp;`+33`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 17 races (41.2%)
+- **DNFs**: `7` out of `17` races <small>`41.2%`</small>
 
 #### Detailed Results
 
@@ -161,12 +161,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1624)**: 3 wins (25.0%) • 2 losses (16.7%) • 7 DNFs (58.3%) • **Elo <span style="color: green;">▲&nbsp;+`116`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1600)**: 5 wins (31.3%) • 11 losses (68.8%) • **Elo <span style="color: green;">▲&nbsp;+`53`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) `1624`**: **`3`** wins <small>`25.0%`</small> • **`2`** losses <small>`16.7%`</small> • **`7`** DNFs <small>`58.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+116`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) `1600`**: **`5`** wins <small>`31.3%`</small> • **`11`** losses <small>`68.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+53`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 16 races (43.8%)
+- **DNFs**: `7` out of `16` races <small>`43.8%`</small>
 
 #### Detailed Results
 
@@ -201,12 +201,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1770)**: 2 wins (16.7%) • 6 losses (50.0%) • 4 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-50`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1787)**: 4 wins (25.0%) • 12 losses (75.0%) • **Elo <span style="color: green;">▲&nbsp;+`110`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) `1770`**: **`2`** wins <small>`16.7%`</small> • **`6`** losses <small>`50.0%`</small> • **`4`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-50`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) `1787`**: **`4`** wins <small>`25.0%`</small> • **`12`** losses <small>`75.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+110`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 16 races (25.0%)
+- **DNFs**: `4` out of `16` races <small>`25.0%`</small>
 
 #### Detailed Results
 
@@ -241,12 +241,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1676)**: 1 wins (6.7%) • 11 losses (73.3%) • 3 DNFs (20.0%) • **Elo <span style="color: red;">▼&nbsp;`-134`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) (1629)**: 5 wins (29.4%) • 12 losses (70.6%) • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) `1676`**: **`1`** wins <small>`6.7%`</small> • **`11`** losses <small>`73.3%`</small> • **`3`** DNFs <small>`20.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-134`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Mika Salo](mika-salo) `1629`**: **`5`** wins <small>`29.4%`</small> • **`12`** losses <small>`70.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 17 races (17.6%)
+- **DNFs**: `3` out of `17` races <small>`17.6%`</small>
 
 #### Detailed Results
 

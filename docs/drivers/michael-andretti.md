@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1499`**<br/><small>[1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)</small></center> | <center>**`1485`**<br/><small>[1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)</small></center> | <center>**`1489`**<br/><small>[1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix)</small></center> |
-| **Lowest** | <center>**`1491`**<br/><small>[1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)</small></center> | <center>**`1419`**<br/><small>[1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)</small></center> | <center>**`1440`**<br/><small>[1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix)</small></center> |
+| **Peak** | <center> 1499 <br/><small> [1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix) </small></center> | <center> 1485 <br/><small> [1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix) </small></center> | <center> 1489  <br/><small> [1993 Round 1 – South African Grand Prix](../seasons/1993-season-report#round-1-south-african-grand-prix) </small></center> |
+| **Lowest** | <center> 1491 <br/><small> [1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix) </small></center> | <center> 1419 <br/><small> [1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix) </small></center> | <center> 1440 <br/><small> [1993 Round 12 – Belgian Grand Prix](../seasons/1993-season-report#round-12-belgian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1736)**: 1 wins (10.0%) • 8 losses (80.0%) • 1 DNFs (10.0%) • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (2280)**: 0 wins (0.0%) • 13 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) `1736`**: **`1`** wins <small>`10.0%`</small> • **`8`** losses <small>`80.0%`</small> • **`1`** DNFs <small>`10.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) `2280`**: **`0`** wins <small>`0.0%`</small> • **`13`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 13 races (7.7%)
+- **DNFs**: `1` out of `13` races <small>`7.7%`</small>
 
 #### Detailed Results
 

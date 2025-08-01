@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1487`**<br/><small>[1984 Round 12 – Austrian Grand Prix](../seasons/1984-season-report#round-12-austrian-grand-prix)</small></center> | <center>**`1465`**<br/><small>[1984 Round 10 – British Grand Prix](../seasons/1984-season-report#round-10-british-grand-prix)</small></center> | <center>**`1472`**<br/><small>[1984 Round 12 – Austrian Grand Prix](../seasons/1984-season-report#round-12-austrian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1399`**<br/><small>[1984 Round 16 – Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix)</small></center> | <center>**`1465`**<br/><small>[1984 Round 10 – British Grand Prix](../seasons/1984-season-report#round-10-british-grand-prix)</small></center> | <center>**`1445`**<br/><small>[1984 Round 16 – Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix)</small></center> |
+| **Peak** | <center> 1487 <br/><small> [1984 Round 12 – Austrian Grand Prix](../seasons/1984-season-report#round-12-austrian-grand-prix) </small></center> | <center> 1465 <br/><small> [1984 Round 10 – British Grand Prix](../seasons/1984-season-report#round-10-british-grand-prix) </small></center> | <center> 1472  <br/><small> [1984 Round 12 – Austrian Grand Prix](../seasons/1984-season-report#round-12-austrian-grand-prix) </small></center> |
+| **Lowest** | <center> 1399 <br/><small> [1984 Round 16 – Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix) </small></center> | <center> 1465 <br/><small> [1984 Round 10 – British Grand Prix](../seasons/1984-season-report#round-10-british-grand-prix) </small></center> | <center> 1445 <br/><small> [1984 Round 16 – Portuguese Grand Prix](../seasons/1984-season-report#round-16-portuguese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1503)**: 0 wins (0.0%) • 1 losses (20.0%) • 4 DNFs (80.0%) • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) (1614)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo <span style="color: red;">▼&nbsp;`-101`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1503`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`20.0%`</small> • **`4`** DNFs <small>`80.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piercarlo Ghinzani](piercarlo-ghinzani) `1614`**: **`1`** wins <small>`14.3%`</small> • **`6`** losses <small>`85.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-101`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 7 races (57.1%)
+- **DNFs**: `4` out of `7` races <small>`57.1%`</small>
 
 #### Detailed Results
 

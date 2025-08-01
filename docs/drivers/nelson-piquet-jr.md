@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1475`**<br/><small>[2008 Round 1 – Australian Grand Prix](../seasons/2008-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1589`**<br/><small>[2008 Round 12 – European Grand Prix](../seasons/2008-season-report#round-12-european-grand-prix)</small></center> | <center>**`1515`**<br/><small>[2008 Round 12 – European Grand Prix](../seasons/2008-season-report#round-12-european-grand-prix)</small></center> |
-| **Lowest** | <center>**`1283`**<br/><small>[2009 Round 8 – British Grand Prix](../seasons/2009-season-report#round-8-british-grand-prix)</small></center> | <center>**`1432`**<br/><small>[2009 Round 7 – Turkish Grand Prix](../seasons/2009-season-report#round-7-turkish-grand-prix)</small></center> | <center>**`1388`**<br/><small>[2009 Round 7 – Turkish Grand Prix](../seasons/2009-season-report#round-7-turkish-grand-prix)</small></center> |
+| **Peak** | <center> 1475 <br/><small> [2008 Round 1 – Australian Grand Prix](../seasons/2008-season-report#round-1-australian-grand-prix) </small></center> | <center> 1589 <br/><small> [2008 Round 12 – European Grand Prix](../seasons/2008-season-report#round-12-european-grand-prix) </small></center> | <center> 1515  <br/><small> [2008 Round 12 – European Grand Prix](../seasons/2008-season-report#round-12-european-grand-prix) </small></center> |
+| **Lowest** | <center> 1283 <br/><small> [2009 Round 8 – British Grand Prix](../seasons/2009-season-report#round-8-british-grand-prix) </small></center> | <center> 1432 <br/><small> [2009 Round 7 – Turkish Grand Prix](../seasons/2009-season-report#round-7-turkish-grand-prix) </small></center> | <center> 1388 <br/><small> [2009 Round 7 – Turkish Grand Prix](../seasons/2009-season-report#round-7-turkish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1775)**: 3 wins (17.6%) • 11 losses (64.7%) • 3 DNFs (17.6%) • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1763)**: 0 wins (0.0%) • 18 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-187`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1775`**: **`3`** wins <small>`17.6%`</small> • **`11`** losses <small>`64.7%`</small> • **`3`** DNFs <small>`17.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1763`**: **`0`** wins <small>`0.0%`</small> • **`18`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-187`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 18 races (16.7%)
+- **DNFs**: `3` out of `18` races <small>`16.7%`</small>
 
 #### Detailed Results
 
@@ -77,12 +77,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1783)**: 1 wins (11.1%) • 8 losses (88.9%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1739)**: 1 wins (10.0%) • 9 losses (90.0%) • **Elo <span style="color: green;">▲&nbsp;+`25`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1783`**: **`1`** wins <small>`11.1%`</small> • **`8`** losses <small>`88.9%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1739`**: **`1`** wins <small>`10.0%`</small> • **`9`** losses <small>`90.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+25`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 10 races (0.0%)
+- **DNFs**: `0` out of `10` races <small>`0.0%`</small>
 
 #### Detailed Results
 

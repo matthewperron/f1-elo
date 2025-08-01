@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1490`**<br/><small>[1995 Round 5 – Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)</small></center> | <center>**`1482`**<br/><small>[1995 Round 5 – Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)</small></center> | <center>**`1484`**<br/><small>[1995 Round 5 – Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix)</small></center> |
-| **Lowest** | <center>**`1426`**<br/><small>[1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix)</small></center> | <center>**`1420`**<br/><small>[1995 Round 13 – Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix)</small></center> | <center>**`1424`**<br/><small>[1995 Round 13 – Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix)</small></center> |
+| **Peak** | <center> 1490 <br/><small> [1995 Round 5 – Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix) </small></center> | <center> 1482 <br/><small> [1995 Round 5 – Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix) </small></center> | <center> 1484  <br/><small> [1995 Round 5 – Monaco Grand Prix](../seasons/1995-season-report#round-5-monaco-grand-prix) </small></center> |
+| **Lowest** | <center> 1426 <br/><small> [1995 Round 15 – Pacific Grand Prix](../seasons/1995-season-report#round-15-pacific-grand-prix) </small></center> | <center> 1420 <br/><small> [1995 Round 13 – Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) </small></center> | <center> 1424 <br/><small> [1995 Round 13 – Portuguese Grand Prix](../seasons/1995-season-report#round-13-portuguese-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1699)**: 1 wins (11.1%) • 7 losses (77.8%) • 1 DNFs (11.1%) • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1873)**: 0 wins (0.0%) • 11 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-74`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) `1699`**: **`1`** wins <small>`11.1%`</small> • **`7`** losses <small>`77.8%`</small> • **`1`** DNFs <small>`11.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) `1873`**: **`0`** wins <small>`0.0%`</small> • **`11`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-74`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 11 races (9.1%)
+- **DNFs**: `1` out of `11` races <small>`9.1%`</small>
 
 #### Detailed Results
 

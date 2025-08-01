@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1573`**<br/><small>[2008 Round 9 – British Grand Prix](../seasons/2008-season-report#round-9-british-grand-prix)</small></center> | <center>**`1530`**<br/><small>[2008 Round 11 – Hungarian Grand Prix](../seasons/2008-season-report#round-11-hungarian-grand-prix)</small></center> | <center>**`1537`**<br/><small>[2008 Round 9 – British Grand Prix](../seasons/2008-season-report#round-9-british-grand-prix)</small></center> |
-| **Lowest** | <center>**`1455`**<br/><small>[2008 Round 3 – Bahrain Grand Prix](../seasons/2008-season-report#round-3-bahrain-grand-prix)</small></center> | <center>**`1346`**<br/><small>[2009 Round 12 – Belgian Grand Prix](../seasons/2009-season-report#round-12-belgian-grand-prix)</small></center> | <center>**`1393`**<br/><small>[2009 Round 12 – Belgian Grand Prix](../seasons/2009-season-report#round-12-belgian-grand-prix)</small></center> |
+| **Peak** | <center> 1573 <br/><small> [2008 Round 9 – British Grand Prix](../seasons/2008-season-report#round-9-british-grand-prix) </small></center> | <center> 1530 <br/><small> [2008 Round 11 – Hungarian Grand Prix](../seasons/2008-season-report#round-11-hungarian-grand-prix) </small></center> | <center> 1537  <br/><small> [2008 Round 9 – British Grand Prix](../seasons/2008-season-report#round-9-british-grand-prix) </small></center> |
+| **Lowest** | <center> 1455 <br/><small> [2008 Round 3 – Bahrain Grand Prix](../seasons/2008-season-report#round-3-bahrain-grand-prix) </small></center> | <center> 1346 <br/><small> [2009 Round 12 – Belgian Grand Prix](../seasons/2009-season-report#round-12-belgian-grand-prix) </small></center> | <center> 1393 <br/><small> [2009 Round 12 – Belgian Grand Prix](../seasons/2009-season-report#round-12-belgian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1582)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1745)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) `1582`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) `1745`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-13`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -61,12 +61,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1579)**: 6 wins (35.3%) • 11 losses (64.7%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`4`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1673)**: 5 wins (27.8%) • 13 losses (72.2%) • **Elo <span style="color: green;">▲&nbsp;+`71`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) `1579`**: **`6`** wins <small>`35.3%`</small> • **`11`** losses <small>`64.7%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+4`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) `1673`**: **`5`** wins <small>`27.8%`</small> • **`13`** losses <small>`72.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+71`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 18 races (0.0%)
+- **DNFs**: `0` out of `18` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -103,12 +103,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1636)**: 2 wins (12.5%) • 12 losses (75.0%) • 2 DNFs (12.5%) • **Elo <span style="color: red;">▼&nbsp;`-56`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) (1745)**: 3 wins (17.6%) • 14 losses (82.4%) • **Elo <span style="color: red;">▼&nbsp;`-73`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) `1636`**: **`2`** wins <small>`12.5%`</small> • **`12`** losses <small>`75.0%`</small> • **`2`** DNFs <small>`12.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-56`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nico Rosberg](nico-rosberg) `1745`**: **`3`** wins <small>`17.6%`</small> • **`14`** losses <small>`82.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-73`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 17 races (11.8%)
+- **DNFs**: `2` out of `17` races <small>`11.8%`</small>
 
 #### Detailed Results
 

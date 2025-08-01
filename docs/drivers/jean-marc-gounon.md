@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1547`**<br/><small>[1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)</small></center> | <center>**`1504`**<br/><small>[1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix)</small></center> | <center>**`1514`**<br/><small>[1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix)</small></center> |
-| **Lowest** | <center>**`1421`**<br/><small>[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)</small></center> | <center>**`1467`**<br/><small>[1994 Round 8 – British Grand Prix](../seasons/1994-season-report#round-8-british-grand-prix)</small></center> | <center>**`1453`**<br/><small>[1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix)</small></center> |
+| **Peak** | <center> 1547 <br/><small> [1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix) </small></center> | <center> 1504 <br/><small> [1994 Round 13 – Portuguese Grand Prix](../seasons/1994-season-report#round-13-portuguese-grand-prix) </small></center> | <center> 1514  <br/><small> [1993 Round 15 – Japanese Grand Prix](../seasons/1993-season-report#round-15-japanese-grand-prix) </small></center> |
+| **Lowest** | <center> 1421 <br/><small> [1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix) </small></center> | <center> 1467 <br/><small> [1994 Round 8 – British Grand Prix](../seasons/1994-season-report#round-8-british-grand-prix) </small></center> | <center> 1453 <br/><small> [1994 Round 11 – Belgian Grand Prix](../seasons/1994-season-report#round-11-belgian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1486)**: 0 wins (0.0%) • 0 losses (0.0%) • 1 DNFs (100.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) (1658)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`23`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) `1486`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`100.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Pierluigi Martini](pierluigi-martini) `1658`**: **`1`** wins <small>`50.0%`</small> • **`1`** losses <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+23`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 2 races (50.0%)
+- **DNFs**: `1` out of `2` races <small>`50.0%`</small>
 
 #### Detailed Results
 
@@ -61,12 +61,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1484)**: 1 wins (20.0%) • 1 losses (20.0%) • 3 DNFs (60.0%) • **Elo <span style="color: green;">▲&nbsp;+`4`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) (1633)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo <span style="color: red;">▼&nbsp;`-71`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) `1484`**: **`1`** wins <small>`20.0%`</small> • **`1`** losses <small>`20.0%`</small> • **`3`** DNFs <small>`60.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+4`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> David Brabham](david-brabham) `1633`**: **`1`** wins <small>`14.3%`</small> • **`6`** losses <small>`85.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-71`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 7 races (42.9%)
+- **DNFs**: `3` out of `7` races <small>`42.9%`</small>
 
 #### Detailed Results
 

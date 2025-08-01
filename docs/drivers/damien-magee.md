@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1465`**<br/><small>[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)</small></center> |
-| **Lowest** | <center>**`1465`**<br/><small>[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)</small></center> | N/A | <center>**`1490`**<br/><small>[1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix)</small></center> |
+| **Peak** | <center> 1465 <br/><small> [1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) </small></center> | N/A | <center> 1490  <br/><small> [1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) </small></center> |
+| **Lowest** | <center> 1465 <br/><small> [1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) </small></center> | N/A | <center> 1490 <br/><small> [1975 Round 7 – Swedish Grand Prix](../seasons/1975-season-report#round-7-swedish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Ian Scheckter](ian-scheckter) (N/A)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [Ian Scheckter](ian-scheckter) (N/A)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
+- **Races vs [Ian Scheckter](ian-scheckter) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [Ian Scheckter](ian-scheckter) `N/A`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 

@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1562`**<br/><small>[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)</small></center> | <center>**`1574`**<br/><small>[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)</small></center> | <center>**`1561`**<br/><small>[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)</small></center> |
-| **Lowest** | <center>**`1448`**<br/><small>[2015 Round 14 – Japanese Grand Prix](../seasons/2015-season-report#round-14-japanese-grand-prix)</small></center> | <center>**`1526`**<br/><small>[2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix)</small></center> | <center>**`1512`**<br/><small>[2015 Round 13 – Singapore Grand Prix](../seasons/2015-season-report#round-13-singapore-grand-prix)</small></center> |
+| **Peak** | <center> 1562 <br/><small> [2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix) </small></center> | <center> 1574 <br/><small> [2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix) </small></center> | <center> 1561  <br/><small> [2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix) </small></center> |
+| **Lowest** | <center> 1448 <br/><small> [2015 Round 14 – Japanese Grand Prix](../seasons/2015-season-report#round-14-japanese-grand-prix) </small></center> | <center> 1526 <br/><small> [2015 Round 18 – Brazilian Grand Prix](../seasons/2015-season-report#round-18-brazilian-grand-prix) </small></center> | <center> 1512 <br/><small> [2015 Round 13 – Singapore Grand Prix](../seasons/2015-season-report#round-13-singapore-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) (1432)**: 3 wins (75.0%) • 1 losses (25.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`26`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) (1491)**: 3 wins (60.0%) • 2 losses (40.0%) • **Elo <span style="color: green;">▲&nbsp;+`62`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) `1432`**: **`3`** wins <small>`75.0%`</small> • **`1`** losses <small>`25.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+26`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Will Stevens](will-stevens) `1491`**: **`3`** wins <small>`60.0%`</small> • **`2`** losses <small>`40.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+62`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 5 races (0.0%)
+- **DNFs**: `0` out of `5` races <small>`0.0%`</small>
 
 #### Detailed Results
 

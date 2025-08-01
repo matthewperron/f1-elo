@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1474`**<br/><small>[2006 Round 5 – European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)</small></center> | <center>**`1453`**<br/><small>[2006 Round 8 – British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix)</small></center> | <center>**`1492`**<br/><small>[2006 Round 5 – European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix)</small></center> |
-| **Lowest** | <center>**`1394`**<br/><small>[2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)</small></center> | <center>**`1414`**<br/><small>[2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)</small></center> | <center>**`1408`**<br/><small>[2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix)</small></center> |
+| **Peak** | <center> 1474 <br/><small> [2006 Round 5 – European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix) </small></center> | <center> 1453 <br/><small> [2006 Round 8 – British Grand Prix](../seasons/2006-season-report#round-8-british-grand-prix) </small></center> | <center> 1492  <br/><small> [2006 Round 5 – European Grand Prix](../seasons/2006-season-report#round-5-european-grand-prix) </small></center> |
+| **Lowest** | <center> 1394 <br/><small> [2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix) </small></center> | <center> 1414 <br/><small> [2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix) </small></center> | <center> 1408 <br/><small> [2006 Round 10 – United States Grand Prix](../seasons/2006-season-report#round-10-united-states-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1414)**: 0 wins (0.0%) • 2 losses (40.0%) • 3 DNFs (60.0%) • **Elo <span style="color: red;">▼&nbsp;`-86`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) (1620)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo <span style="color: red;">▼&nbsp;`-54`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) `1414`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`40.0%`</small> • **`3`** DNFs <small>`60.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-86`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Takuma Sato](takuma-sato) `1620`**: **`1`** wins <small>`14.3%`</small> • **`6`** losses <small>`85.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-54`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 7 races (42.9%)
+- **DNFs**: `3` out of `7` races <small>`42.9%`</small>
 
 #### Detailed Results
 

@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1501`**<br/><small>[1996 Round 3 – Argentine Grand Prix](../seasons/1996-season-report#round-3-argentine-grand-prix)</small></center> | <center>**`1488`**<br/><small>[1997 Round 9 – British Grand Prix](../seasons/1997-season-report#round-9-british-grand-prix)</small></center> | <center>**`1477`**<br/><small>[1997 Round 10 – German Grand Prix](../seasons/1997-season-report#round-10-german-grand-prix)</small></center> |
-| **Lowest** | <center>**`1268`**<br/><small>[2001 Round 14 – Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)</small></center> | <center>**`1410`**<br/><small>[1997 Round 12 – Belgian Grand Prix](../seasons/1997-season-report#round-12-belgian-grand-prix)</small></center> | <center>**`1375`**<br/><small>[2001 Round 14 – Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix)</small></center> |
+| **Peak** | <center> 1501 <br/><small> [1996 Round 3 – Argentine Grand Prix](../seasons/1996-season-report#round-3-argentine-grand-prix) </small></center> | <center> 1488 <br/><small> [1997 Round 9 – British Grand Prix](../seasons/1997-season-report#round-9-british-grand-prix) </small></center> | <center> 1477  <br/><small> [1997 Round 10 – German Grand Prix](../seasons/1997-season-report#round-10-german-grand-prix) </small></center> |
+| **Lowest** | <center> 1268 <br/><small> [2001 Round 14 – Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix) </small></center> | <center> 1410 <br/><small> [1997 Round 12 – Belgian Grand Prix](../seasons/1997-season-report#round-12-belgian-grand-prix) </small></center> | <center> 1375 <br/><small> [2001 Round 14 – Belgian Grand Prix](../seasons/2001-season-report#round-14-belgian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Pedro Lamy](pedro-lamy) (1475)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-38`</span>**
-- **Qualifying vs [Pedro Lamy](pedro-lamy) (1470)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`1`</span>**
+- **Races vs [Pedro Lamy](pedro-lamy) `1475`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-38`</span>**
+- **Qualifying vs [Pedro Lamy](pedro-lamy) `1470`**: **`1`** wins <small>`50.0%`</small> • **`1`** losses <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+1`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 2 races (0.0%)
+- **DNFs**: `0` out of `2` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -62,12 +62,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) (1381)**: 3 wins (30.0%) • 2 losses (20.0%) • 5 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`12`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) (1508)**: 2 wins (20.0%) • 8 losses (80.0%) • **Elo <span style="color: red;">▼&nbsp;`-162`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) `1381`**: **`3`** wins <small>`30.0%`</small> • **`2`** losses <small>`20.0%`</small> • **`5`** DNFs <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+12`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Ukyo Katayama](ukyo-katayama) `1508`**: **`2`** wins <small>`20.0%`</small> • **`8`** losses <small>`80.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-162`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 10 races (50.0%)
+- **DNFs**: `5` out of `10` races <small>`50.0%`</small>
 
 #### Detailed Results
 
@@ -96,12 +96,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1554)**: 0 wins (0.0%) • 2 losses (22.2%) • 7 DNFs (77.8%) • **Elo <span style="color: red;">▼&nbsp;`-54`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) (1571)**: 2 wins (15.4%) • 11 losses (84.6%) • **Elo <span style="color: red;">▼&nbsp;`-70`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1554`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`22.2%`</small> • **`7`** DNFs <small>`77.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-54`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1571`**: **`2`** wins <small>`15.4%`</small> • **`11`** losses <small>`84.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-70`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 13 races (53.8%)
+- **DNFs**: `7` out of `13` races <small>`53.8%`</small>
 
 #### Detailed Results
 

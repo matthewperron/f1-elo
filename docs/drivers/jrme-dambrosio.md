@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1507`**<br/><small>[2011 Round 3 – Chinese Grand Prix](../seasons/2011-season-report#round-3-chinese-grand-prix)</small></center> | <center>**`1551`**<br/><small>[2011 Round 14 – Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)</small></center> | <center>**`1529`**<br/><small>[2011 Round 19 – Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1367`**<br/><small>[2011 Round 14 – Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix)</small></center> | <center>**`1459`**<br/><small>[2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)</small></center> | <center>**`1439`**<br/><small>[2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix)</small></center> |
+| **Peak** | <center> 1507 <br/><small> [2011 Round 3 – Chinese Grand Prix](../seasons/2011-season-report#round-3-chinese-grand-prix) </small></center> | <center> 1551 <br/><small> [2011 Round 14 – Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix) </small></center> | <center> 1529  <br/><small> [2011 Round 19 – Brazilian Grand Prix](../seasons/2011-season-report#round-19-brazilian-grand-prix) </small></center> |
+| **Lowest** | <center> 1367 <br/><small> [2011 Round 14 – Singapore Grand Prix](../seasons/2011-season-report#round-14-singapore-grand-prix) </small></center> | <center> 1459 <br/><small> [2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix) </small></center> | <center> 1439 <br/><small> [2011 Round 11 – Hungarian Grand Prix](../seasons/2011-season-report#round-11-hungarian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1593)**: 5 wins (33.3%) • 8 losses (53.3%) • 2 DNFs (13.3%) • **Elo <span style="color: green;">▲&nbsp;+`43`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1611)**: 4 wins (21.1%) • 15 losses (78.9%) • **Elo <span style="color: red;">▼&nbsp;`-2`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) `1593`**: **`5`** wins <small>`33.3%`</small> • **`8`** losses <small>`53.3%`</small> • **`2`** DNFs <small>`13.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+43`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) `1611`**: **`4`** wins <small>`21.1%`</small> • **`15`** losses <small>`78.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-2`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 19 races (10.5%)
+- **DNFs**: `2` out of `19` races <small>`10.5%`</small>
 
 #### Detailed Results
 
@@ -78,12 +78,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1762)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) (1729)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) `1762`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Kimi Räikkönen](kimi-rikknen) `1729`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-14`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 

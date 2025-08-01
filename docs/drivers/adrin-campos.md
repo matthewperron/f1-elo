@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1474`**<br/><small>[1987 Round 1 – Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix)</small></center> | <center>**`1468`**<br/><small>[1987 Round 9 – Hungarian Grand Prix](../seasons/1987-season-report#round-9-hungarian-grand-prix)</small></center> | <center>**`1492`**<br/><small>[1987 Round 1 – Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1289`**<br/><small>[1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)</small></center> | <center>**`1439`**<br/><small>[1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)</small></center> | <center>**`1394`**<br/><small>[1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix)</small></center> |
+| **Peak** | <center> 1474 <br/><small> [1987 Round 1 – Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix) </small></center> | <center> 1468 <br/><small> [1987 Round 9 – Hungarian Grand Prix](../seasons/1987-season-report#round-9-hungarian-grand-prix) </small></center> | <center> 1492  <br/><small> [1987 Round 1 – Brazilian Grand Prix](../seasons/1987-season-report#round-1-brazilian-grand-prix) </small></center> |
+| **Lowest** | <center> 1289 <br/><small> [1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix) </small></center> | <center> 1439 <br/><small> [1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix) </small></center> | <center> 1394 <br/><small> [1988 Round 2 – San Marino Grand Prix](../seasons/1988-season-report#round-2-san-marino-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini) (1528)**: 0 wins (0.0%) • 1 losses (7.7%) • 12 DNFs (92.3%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini) (1749)**: 0 wins (0.0%) • 16 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-180`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini) `1528`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`7.7%`</small> • **`12`** DNFs <small>`92.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Nannini](alessandro-nannini) `1749`**: **`0`** wins <small>`0.0%`</small> • **`16`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-180`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 12 out of 16 races (75.0%)
+- **DNFs**: `12` out of `16` races <small>`75.0%`</small>
 
 #### Detailed Results
 
@@ -75,12 +75,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1529)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) (1531)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) `1529`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-29`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Luis Pérez-Sala](luis-prez-sala) `1531`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 2 races (50.0%)
+- **DNFs**: `1` out of `2` races <small>`50.0%`</small>
 
 #### Detailed Results
 

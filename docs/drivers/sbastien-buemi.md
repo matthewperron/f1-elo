@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1677`**<br/><small>[2010 Round 10 – British Grand Prix](../seasons/2010-season-report#round-10-british-grand-prix)</small></center> | <center>**`1581`**<br/><small>[2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)</small></center> | <center>**`1579`**<br/><small>[2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix)</small></center> |
-| **Lowest** | <center>**`1434`**<br/><small>[2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)</small></center> | <center>**`1427`**<br/><small>[2009 Round 6 – Monaco Grand Prix](../seasons/2009-season-report#round-6-monaco-grand-prix)</small></center> | <center>**`1433`**<br/><small>[2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)</small></center> |
+| **Peak** | <center> 1677 <br/><small> [2010 Round 10 – British Grand Prix](../seasons/2010-season-report#round-10-british-grand-prix) </small></center> | <center> 1581 <br/><small> [2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix) </small></center> | <center> 1579  <br/><small> [2011 Round 6 – Monaco Grand Prix](../seasons/2011-season-report#round-6-monaco-grand-prix) </small></center> |
+| **Lowest** | <center> 1434 <br/><small> [2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix) </small></center> | <center> 1427 <br/><small> [2009 Round 6 – Monaco Grand Prix](../seasons/2009-season-report#round-6-monaco-grand-prix) </small></center> | <center> 1433 <br/><small> [2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,15 +36,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Sébastien Bourdais](sbastien-bourdais) (1341)**: 5 wins (62.5%) • 3 losses (37.5%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Sébastien Bourdais](sbastien-bourdais) (1327)**: 7 wins (77.8%) • 2 losses (22.2%) • **Elo <span style="color: green;">▲&nbsp;+`25`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Sébastien Bourdais](sbastien-bourdais) `1341`**: **`5`** wins <small>`62.5%`</small> • **`3`** losses <small>`37.5%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Sébastien Bourdais](sbastien-bourdais) `1327`**: **`7`** wins <small>`77.8%`</small> • **`2`** losses <small>`22.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+25`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1459)**: 2 wins (33.3%) • 1 losses (16.7%) • 3 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`41`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1407)**: 7 wins (87.5%) • 1 losses (12.5%) • **Elo <span style="color: green;">▲&nbsp;+`92`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) `1459`**: **`2`** wins <small>`33.3%`</small> • **`1`** losses <small>`16.7%`</small> • **`3`** DNFs <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+41`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) `1407`**: **`7`** wins <small>`87.5%`</small> • **`1`** losses <small>`12.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+92`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 17 races (17.6%)
+- **DNFs**: `3` out of `17` races <small>`17.6%`</small>
 
 #### Detailed Results
 
@@ -80,12 +80,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1548)**: 6 wins (35.3%) • 9 losses (52.9%) • 2 DNFs (11.8%) • **Elo <span style="color: red;">▼&nbsp;`-88`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1590)**: 11 wins (57.9%) • 8 losses (42.1%) • **Elo <span style="color: red;">▼&nbsp;`-185`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) `1548`**: **`6`** wins <small>`35.3%`</small> • **`9`** losses <small>`52.9%`</small> • **`2`** DNFs <small>`11.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-88`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) `1590`**: **`11`** wins <small>`57.9%`</small> • **`8`** losses <small>`42.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-185`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 19 races (10.5%)
+- **DNFs**: `2` out of `19` races <small>`10.5%`</small>
 
 #### Detailed Results
 
@@ -123,12 +123,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1551)**: 7 wins (38.9%) • 7 losses (38.9%) • 4 DNFs (22.2%) • **Elo <span style="color: red;">▼&nbsp;`-3`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) (1490)**: 12 wins (63.2%) • 7 losses (36.8%) • **Elo <span style="color: green;">▲&nbsp;+`100`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) `1551`**: **`7`** wins <small>`38.9%`</small> • **`7`** losses <small>`38.9%`</small> • **`4`** DNFs <small>`22.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-3`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Jaime Alguersuari](jaime-alguersuari) `1490`**: **`12`** wins <small>`63.2%`</small> • **`7`** losses <small>`36.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+100`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 19 races (21.1%)
+- **DNFs**: `4` out of `19` races <small>`21.1%`</small>
 
 #### Detailed Results
 

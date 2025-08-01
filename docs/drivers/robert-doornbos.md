@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1513`**<br/><small>[2005 Round 16 – Belgian Grand Prix](../seasons/2005-season-report#round-16-belgian-grand-prix)</small></center> | <center>**`1535`**<br/><small>[2005 Round 18 – Japanese Grand Prix](../seasons/2005-season-report#round-18-japanese-grand-prix)</small></center> | <center>**`1512`**<br/><small>[2005 Round 18 – Japanese Grand Prix](../seasons/2005-season-report#round-18-japanese-grand-prix)</small></center> |
-| **Lowest** | <center>**`1426`**<br/><small>[2005 Round 14 – Turkish Grand Prix](../seasons/2005-season-report#round-14-turkish-grand-prix)</small></center> | <center>**`1477`**<br/><small>[2005 Round 12 – German Grand Prix](../seasons/2005-season-report#round-12-german-grand-prix)</small></center> | <center>**`1462`**<br/><small>[2005 Round 14 – Turkish Grand Prix](../seasons/2005-season-report#round-14-turkish-grand-prix)</small></center> |
+| **Peak** | <center> 1513 <br/><small> [2005 Round 16 – Belgian Grand Prix](../seasons/2005-season-report#round-16-belgian-grand-prix) </small></center> | <center> 1535 <br/><small> [2005 Round 18 – Japanese Grand Prix](../seasons/2005-season-report#round-18-japanese-grand-prix) </small></center> | <center> 1512  <br/><small> [2005 Round 18 – Japanese Grand Prix](../seasons/2005-season-report#round-18-japanese-grand-prix) </small></center> |
+| **Lowest** | <center> 1426 <br/><small> [2005 Round 14 – Turkish Grand Prix](../seasons/2005-season-report#round-14-turkish-grand-prix) </small></center> | <center> 1477 <br/><small> [2005 Round 12 – German Grand Prix](../seasons/2005-season-report#round-12-german-grand-prix) </small></center> | <center> 1462 <br/><small> [2005 Round 14 – Turkish Grand Prix](../seasons/2005-season-report#round-14-turkish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1560)**: 2 wins (28.6%) • 2 losses (28.6%) • 3 DNFs (42.9%) • **Elo <span style="color: green;">▲&nbsp;+`36`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1595)**: 2 wins (25.0%) • 6 losses (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-67`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) `1560`**: **`2`** wins <small>`28.6%`</small> • **`2`** losses <small>`28.6%`</small> • **`3`** DNFs <small>`42.9%`</small> • **Elo <span style="color: green;">▲&nbsp;`+36`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) `1595`**: **`2`** wins <small>`25.0%`</small> • **`6`** losses <small>`75.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-67`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 8 races (37.5%)
+- **DNFs**: `3` out of `8` races <small>`37.5%`</small>
 
 #### Detailed Results
 
@@ -67,12 +67,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](david-coulthard) (1553)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](david-coulthard) (1579)**: 1 wins (33.3%) • 2 losses (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](david-coulthard) `1553`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> David Coulthard](david-coulthard) `1579`**: **`1`** wins <small>`33.3%`</small> • **`2`** losses <small>`66.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 3 races (0.0%)
+- **DNFs**: `0` out of `3` races <small>`0.0%`</small>
 
 #### Detailed Results
 

@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1499`**<br/><small>[2016 Round 10 – British Grand Prix](../seasons/2016-season-report#round-10-british-grand-prix)</small></center> | <center>**`1468`**<br/><small>[2016 Round 2 – Bahrain Grand Prix](../seasons/2016-season-report#round-2-bahrain-grand-prix)</small></center> | <center>**`1490`**<br/><small>[2016 Round 1 – Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1431`**<br/><small>[2016 Round 5 – Spanish Grand Prix](../seasons/2016-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1361`**<br/><small>[2016 Round 9 – Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix)</small></center> | <center>**`1390`**<br/><small>[2016 Round 9 – Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix)</small></center> |
+| **Peak** | <center> 1499 <br/><small> [2016 Round 10 – British Grand Prix](../seasons/2016-season-report#round-10-british-grand-prix) </small></center> | <center> 1468 <br/><small> [2016 Round 2 – Bahrain Grand Prix](../seasons/2016-season-report#round-2-bahrain-grand-prix) </small></center> | <center> 1490  <br/><small> [2016 Round 1 – Australian Grand Prix](../seasons/2016-season-report#round-1-australian-grand-prix) </small></center> |
+| **Lowest** | <center> 1431 <br/><small> [2016 Round 5 – Spanish Grand Prix](../seasons/2016-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1361 <br/><small> [2016 Round 9 – Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix) </small></center> | <center> 1390 <br/><small> [2016 Round 9 – Austrian Grand Prix](../seasons/2016-season-report#round-9-austrian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein) (1618)**: 1 wins (9.1%) • 9 losses (81.8%) • 1 DNFs (9.1%) • **Elo <span style="color: red;">▼&nbsp;`-119`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein) (1559)**: 4 wins (33.3%) • 8 losses (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-60`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein) `1618`**: **`1`** wins <small>`9.1%`</small> • **`9`** losses <small>`81.8%`</small> • **`1`** DNFs <small>`9.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-119`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Pascal Wehrlein](pascal-wehrlein) `1559`**: **`4`** wins <small>`33.3%`</small> • **`8`** losses <small>`66.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-60`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 12 races (8.3%)
+- **DNFs**: `1` out of `12` races <small>`8.3%`</small>
 
 #### Detailed Results
 

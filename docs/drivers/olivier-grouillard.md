@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1671`**<br/><small>[1989 Round 16 – Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)</small></center> | <center>**`1625`**<br/><small>[1992 Round 9 – British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)</small></center> | <center>**`1609`**<br/><small>[1989 Round 16 – Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1488`**<br/><small>[1992 Round 9 – British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix)</small></center> | <center>**`1532`**<br/><small>[1992 Round 15 – Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix)</small></center> | <center>**`1515`**<br/><small>[1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix)</small></center> |
+| **Peak** | <center> 1671 <br/><small> [1989 Round 16 – Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix) </small></center> | <center> 1625 <br/><small> [1992 Round 9 – British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix) </small></center> | <center> 1609  <br/><small> [1989 Round 16 – Australian Grand Prix](../seasons/1989-season-report#round-16-australian-grand-prix) </small></center> |
+| **Lowest** | <center> 1488 <br/><small> [1992 Round 9 – British Grand Prix](../seasons/1992-season-report#round-9-british-grand-prix) </small></center> | <center> 1532 <br/><small> [1992 Round 15 – Japanese Grand Prix](../seasons/1992-season-report#round-15-japanese-grand-prix) </small></center> | <center> 1515 <br/><small> [1989 Round 3 – Monaco Grand Prix](../seasons/1989-season-report#round-3-monaco-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) (1431)**: 3 wins (50.0%) • 0 losses (0.0%) • 3 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`82`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) (1545)**: 6 wins (85.7%) • 1 losses (14.3%) • **Elo <span style="color: green;">▲&nbsp;+`171`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) `1431`**: **`3`** wins <small>`50.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`3`** DNFs <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+82`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> René Arnoux](ren-arnoux) `1545`**: **`6`** wins <small>`85.7%`</small> • **`1`** losses <small>`14.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+171`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 7 races (42.9%)
+- **DNFs**: `3` out of `7` races <small>`42.9%`</small>
 
 #### Detailed Results
 
@@ -66,12 +66,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1659)**: 2 wins (15.4%) • 4 losses (30.8%) • 7 DNFs (53.8%) • **Elo <span style="color: red;">▼&nbsp;`-51`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) (1764)**: 2 wins (12.5%) • 14 losses (87.5%) • **Elo <span style="color: red;">▼&nbsp;`-156`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) `1659`**: **`2`** wins <small>`15.4%`</small> • **`4`** losses <small>`30.8%`</small> • **`7`** DNFs <small>`53.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-51`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Cesaris](andrea-de-cesaris) `1764`**: **`2`** wins <small>`12.5%`</small> • **`14`** losses <small>`87.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-156`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 16 races (43.8%)
+- **DNFs**: `7` out of `16` races <small>`43.8%`</small>
 
 #### Detailed Results
 

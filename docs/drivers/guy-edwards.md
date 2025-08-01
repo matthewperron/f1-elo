@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1524`**<br/><small>[1976 Round 8 – French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix)</small></center> | <center>**`1462`**<br/><small>[1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix)</small></center> | <center>**`1496`**<br/><small>[1974 Round 2 – Brazilian Grand Prix](../seasons/1974-season-report#round-2-brazilian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1429`**<br/><small>[1976 Round 13 – Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1363`**<br/><small>[1976 Round 9 – British Grand Prix](../seasons/1976-season-report#round-9-british-grand-prix)</small></center> | <center>**`1400`**<br/><small>[1976 Round 9 – British Grand Prix](../seasons/1976-season-report#round-9-british-grand-prix)</small></center> |
+| **Peak** | <center> 1524 <br/><small> [1976 Round 8 – French Grand Prix](../seasons/1976-season-report#round-8-french-grand-prix) </small></center> | <center> 1462 <br/><small> [1974 Round 5 – Belgian Grand Prix](../seasons/1974-season-report#round-5-belgian-grand-prix) </small></center> | <center> 1496  <br/><small> [1974 Round 2 – Brazilian Grand Prix](../seasons/1974-season-report#round-2-brazilian-grand-prix) </small></center> |
+| **Lowest** | <center> 1429 <br/><small> [1976 Round 13 – Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix) </small></center> | <center> 1363 <br/><small> [1976 Round 9 – British Grand Prix](../seasons/1976-season-report#round-9-british-grand-prix) </small></center> | <center> 1400 <br/><small> [1976 Round 9 – British Grand Prix](../seasons/1976-season-report#round-9-british-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1547)**: 0 wins (0.0%) • 4 losses (66.7%) • 2 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-116`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) (1396)**: 4 wins (57.1%) • 3 losses (42.9%) • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) `1547`**: **`0`** wins <small>`0.0%`</small> • **`4`** losses <small>`66.7%`</small> • **`2`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-116`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill) `1396`**: **`4`** wins <small>`57.1%`</small> • **`3`** losses <small>`42.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-6`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 7 races (28.6%)
+- **DNFs**: `2` out of `7` races <small>`28.6%`</small>
 
 #### Detailed Results
 
@@ -66,12 +66,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl) (1409)**: 2 wins (50.0%) • 1 losses (25.0%) • 1 DNFs (25.0%) • **Elo <span style="color: green;">▲&nbsp;+`60`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl) (1524)**: 2 wins (40.0%) • 3 losses (60.0%) • **Elo <span style="color: red;">▼&nbsp;`-21`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl) `1409`**: **`2`** wins <small>`50.0%`</small> • **`1`** losses <small>`25.0%`</small> • **`1`** DNFs <small>`25.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+60`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Harald Ertl](harald-ertl) `1524`**: **`2`** wins <small>`40.0%`</small> • **`3`** losses <small>`60.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-21`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 5 races (20.0%)
+- **DNFs**: `1` out of `5` races <small>`20.0%`</small>
 
 #### Detailed Results
 

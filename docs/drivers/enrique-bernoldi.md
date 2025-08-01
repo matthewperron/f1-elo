@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1538`**<br/><small>[2001 Round 6 – Austrian Grand Prix](../seasons/2001-season-report#round-6-austrian-grand-prix)</small></center> | <center>**`1515`**<br/><small>[2002 Round 9 – European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix)</small></center> | <center>**`1500`**<br/><small>[2002 Round 9 – European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix)</small></center> |
-| **Lowest** | <center>**`1416`**<br/><small>[2001 Round 11 – British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix)</small></center> | <center>**`1416`**<br/><small>[2001 Round 11 – British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix)</small></center> | <center>**`1416`**<br/><small>[2001 Round 11 – British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix)</small></center> |
+| **Peak** | <center> 1538 <br/><small> [2001 Round 6 – Austrian Grand Prix](../seasons/2001-season-report#round-6-austrian-grand-prix) </small></center> | <center> 1515 <br/><small> [2002 Round 9 – European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix) </small></center> | <center> 1500  <br/><small> [2002 Round 9 – European Grand Prix](../seasons/2002-season-report#round-9-european-grand-prix) </small></center> |
+| **Lowest** | <center> 1416 <br/><small> [2001 Round 11 – British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix) </small></center> | <center> 1416 <br/><small> [2001 Round 11 – British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix) </small></center> | <center> 1416 <br/><small> [2001 Round 11 – British Grand Prix](../seasons/2001-season-report#round-11-british-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1579)**: 2 wins (13.3%) • 6 losses (40.0%) • 7 DNFs (46.7%) • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1375)**: 10 wins (58.8%) • 7 losses (41.2%) • **Elo <span style="color: green;">▲&nbsp;+`31`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) `1579`**: **`2`** wins <small>`13.3%`</small> • **`6`** losses <small>`40.0%`</small> • **`7`** DNFs <small>`46.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) `1375`**: **`10`** wins <small>`58.8%`</small> • **`7`** losses <small>`41.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+31`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 17 races (41.2%)
+- **DNFs**: `7` out of `17` races <small>`41.2%`</small>
 
 #### Detailed Results
 
@@ -76,12 +76,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1746)**: 1 wins (9.1%) • 2 losses (18.2%) • 8 DNFs (72.7%) • **Elo <span style="color: green;">▲&nbsp;+`39`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) (1725)**: 1 wins (9.1%) • 10 losses (90.9%) • **Elo <span style="color: red;">▼&nbsp;`-90`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) `1746`**: **`1`** wins <small>`9.1%`</small> • **`2`** losses <small>`18.2%`</small> • **`8`** DNFs <small>`72.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+39`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Heinz-Harald Frentzen](heinz-harald-frentzen) `1725`**: **`1`** wins <small>`9.1%`</small> • **`10`** losses <small>`90.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-90`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 8 out of 11 races (72.7%)
+- **DNFs**: `8` out of `11` races <small>`72.7%`</small>
 
 #### Detailed Results
 

@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1527`**<br/><small>[2017 Round 19 – Brazilian Grand Prix](../seasons/2017-season-report#round-19-brazilian-grand-prix)</small></center> | <center>**`1531`**<br/><small>[2018 Round 11 – German Grand Prix](../seasons/2018-season-report#round-11-german-grand-prix)</small></center> | <center>**`1508`**<br/><small>[2018 Round 1 – Australian Grand Prix](../seasons/2018-season-report#round-1-australian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1317`**<br/><small>[2018 Round 16 – Russian Grand Prix](../seasons/2018-season-report#round-16-russian-grand-prix)</small></center> | <center>**`1418`**<br/><small>[2018 Round 17 – Japanese Grand Prix](../seasons/2018-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1403`**<br/><small>[2018 Round 16 – Russian Grand Prix](../seasons/2018-season-report#round-16-russian-grand-prix)</small></center> |
+| **Peak** | <center> 1527 <br/><small> [2017 Round 19 – Brazilian Grand Prix](../seasons/2017-season-report#round-19-brazilian-grand-prix) </small></center> | <center> 1531 <br/><small> [2018 Round 11 – German Grand Prix](../seasons/2018-season-report#round-11-german-grand-prix) </small></center> | <center> 1508  <br/><small> [2018 Round 1 – Australian Grand Prix](../seasons/2018-season-report#round-1-australian-grand-prix) </small></center> |
+| **Lowest** | <center> 1317 <br/><small> [2018 Round 16 – Russian Grand Prix](../seasons/2018-season-report#round-16-russian-grand-prix) </small></center> | <center> 1418 <br/><small> [2018 Round 17 – Japanese Grand Prix](../seasons/2018-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1403 <br/><small> [2018 Round 16 – Russian Grand Prix](../seasons/2018-season-report#round-16-russian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,15 +35,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Daniil Kvyat](daniil-kvyat) (1498)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
-- **Qualifying vs [Daniil Kvyat](daniil-kvyat) (1469)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-38`</span>**
+- **Races vs [Daniil Kvyat](daniil-kvyat) `1498`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
+- **Qualifying vs [Daniil Kvyat](daniil-kvyat) `1469`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-38`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1503)**: 1 wins (33.3%) • 0 losses (0.0%) • 2 DNFs (66.7%) • **Elo <span style="color: green;">▲&nbsp;+`39`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1478)**: 2 wins (66.7%) • 1 losses (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`25`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) `1503`**: **`1`** wins <small>`33.3%`</small> • **`0`** losses <small>`0.0%`</small> • **`2`** DNFs <small>`66.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+39`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) `1478`**: **`2`** wins <small>`66.7%`</small> • **`1`** losses <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+25`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 4 races (50.0%)
+- **DNFs**: `2` out of `4` races <small>`50.0%`</small>
 
 #### Detailed Results
 
@@ -66,12 +66,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1524)**: 6 wins (31.6%) • 9 losses (47.4%) • 4 DNFs (21.1%) • **Elo <span style="color: red;">▼&nbsp;`-21`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) (1527)**: 6 wins (28.6%) • 15 losses (71.4%) • **Elo <span style="color: red;">▼&nbsp;`-46`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) `1524`**: **`6`** wins <small>`31.6%`</small> • **`9`** losses <small>`47.4%`</small> • **`4`** DNFs <small>`21.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-21`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Pierre Gasly](pierre-gasly) `1527`**: **`6`** wins <small>`28.6%`</small> • **`15`** losses <small>`71.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-46`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 21 races (19.0%)
+- **DNFs**: `4` out of `21` races <small>`19.0%`</small>
 
 #### Detailed Results
 

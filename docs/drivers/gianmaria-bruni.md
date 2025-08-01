@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1604`**<br/><small>[2004 Round 17 – Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix)</small></center> | <center>**`1576`**<br/><small>[2004 Round 7 – European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix)</small></center> | <center>**`1561`**<br/><small>[2004 Round 5 – Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix)</small></center> |
-| **Lowest** | <center>**`1457`**<br/><small>[2004 Round 8 – Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix)</small></center> | <center>**`1490`**<br/><small>[2004 Round 18 – Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix)</small></center> | <center>**`1490`**<br/><small>[2004 Round 1 – Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix)</small></center> |
+| **Peak** | <center> 1604 <br/><small> [2004 Round 17 – Japanese Grand Prix](../seasons/2004-season-report#round-17-japanese-grand-prix) </small></center> | <center> 1576 <br/><small> [2004 Round 7 – European Grand Prix](../seasons/2004-season-report#round-7-european-grand-prix) </small></center> | <center> 1561  <br/><small> [2004 Round 5 – Spanish Grand Prix](../seasons/2004-season-report#round-5-spanish-grand-prix) </small></center> |
+| **Lowest** | <center> 1457 <br/><small> [2004 Round 8 – Canadian Grand Prix](../seasons/2004-season-report#round-8-canadian-grand-prix) </small></center> | <center> 1490 <br/><small> [2004 Round 18 – Brazilian Grand Prix](../seasons/2004-season-report#round-18-brazilian-grand-prix) </small></center> | <center> 1490 <br/><small> [2004 Round 1 – Australian Grand Prix](../seasons/2004-season-report#round-1-australian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Zsolt Baumgartner](zsolt-baumgartner) (1491)**: 6 wins (40.0%) • 4 losses (26.7%) • 5 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-10`</span>**
-- **Qualifying vs [Zsolt Baumgartner](zsolt-baumgartner) (1422)**: 12 wins (66.7%) • 6 losses (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`54`</span>**
+- **Races vs [Zsolt Baumgartner](zsolt-baumgartner) `1491`**: **`6`** wins <small>`40.0%`</small> • **`4`** losses <small>`26.7%`</small> • **`5`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-10`</span>**
+- **Qualifying vs [Zsolt Baumgartner](zsolt-baumgartner) `1422`**: **`12`** wins <small>`66.7%`</small> • **`6`** losses <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+54`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 18 races (27.8%)
+- **DNFs**: `5` out of `18` races <small>`27.8%`</small>
 
 #### Detailed Results
 

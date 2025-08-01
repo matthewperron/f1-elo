@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1520`**<br/><small>[2014 Round 7 – Canadian Grand Prix](../seasons/2014-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1471`**<br/><small>[2013 Round 16 – Indian Grand Prix](../seasons/2013-season-report#round-16-indian-grand-prix)</small></center> | <center>**`1468`**<br/><small>[2013 Round 1 – Australian Grand Prix](../seasons/2013-season-report#round-1-australian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1309`**<br/><small>[2013 Round 13 – Singapore Grand Prix](../seasons/2013-season-report#round-13-singapore-grand-prix)</small></center> | <center>**`1332`**<br/><small>[2013 Round 12 – Italian Grand Prix](../seasons/2013-season-report#round-12-italian-grand-prix)</small></center> | <center>**`1325`**<br/><small>[2013 Round 12 – Italian Grand Prix](../seasons/2013-season-report#round-12-italian-grand-prix)</small></center> |
+| **Peak** | <center> 1520 <br/><small> [2014 Round 7 – Canadian Grand Prix](../seasons/2014-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1471 <br/><small> [2013 Round 16 – Indian Grand Prix](../seasons/2013-season-report#round-16-indian-grand-prix) </small></center> | <center> 1468  <br/><small> [2013 Round 1 – Australian Grand Prix](../seasons/2013-season-report#round-1-australian-grand-prix) </small></center> |
+| **Lowest** | <center> 1309 <br/><small> [2013 Round 13 – Singapore Grand Prix](../seasons/2013-season-report#round-13-singapore-grand-prix) </small></center> | <center> 1332 <br/><small> [2013 Round 12 – Italian Grand Prix](../seasons/2013-season-report#round-12-italian-grand-prix) </small></center> | <center> 1325 <br/><small> [2013 Round 12 – Italian Grand Prix](../seasons/2013-season-report#round-12-italian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1597)**: 3 wins (17.6%) • 14 losses (82.4%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-99`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1593)**: 3 wins (15.8%) • 16 losses (84.2%) • **Elo <span style="color: red;">▼&nbsp;`-93`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) `1597`**: **`3`** wins <small>`17.6%`</small> • **`14`** losses <small>`82.4%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-99`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) `1593`**: **`3`** wins <small>`15.8%`</small> • **`16`** losses <small>`84.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-93`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 19 races (0.0%)
+- **DNFs**: `0` out of `19` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -78,12 +78,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1596)**: 3 wins (25.0%) • 9 losses (75.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) (1644)**: 4 wins (26.7%) • 11 losses (73.3%) • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) `1596`**: **`3`** wins <small>`25.0%`</small> • **`9`** losses <small>`75.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jules Bianchi](jules-bianchi) `1644`**: **`4`** wins <small>`26.7%`</small> • **`11`** losses <small>`73.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 15 races (0.0%)
+- **DNFs**: `0` out of `15` races <small>`0.0%`</small>
 
 #### Detailed Results
 

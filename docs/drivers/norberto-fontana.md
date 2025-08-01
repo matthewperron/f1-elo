@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1491`**<br/><small>[1997 Round 8 – French Grand Prix](../seasons/1997-season-report#round-8-french-grand-prix)</small></center> | <center>**`1514`**<br/><small>[1997 Round 10 – German Grand Prix](../seasons/1997-season-report#round-10-german-grand-prix)</small></center> | <center>**`1503`**<br/><small>[1997 Round 10 – German Grand Prix](../seasons/1997-season-report#round-10-german-grand-prix)</small></center> |
-| **Lowest** | <center>**`1469`**<br/><small>[1997 Round 17 – European Grand Prix](../seasons/1997-season-report#round-17-european-grand-prix)</small></center> | <center>**`1473`**<br/><small>[1997 Round 8 – French Grand Prix](../seasons/1997-season-report#round-8-french-grand-prix)</small></center> | <center>**`1476`**<br/><small>[1997 Round 9 – British Grand Prix](../seasons/1997-season-report#round-9-british-grand-prix)</small></center> |
+| **Peak** | <center> 1491 <br/><small> [1997 Round 8 – French Grand Prix](../seasons/1997-season-report#round-8-french-grand-prix) </small></center> | <center> 1514 <br/><small> [1997 Round 10 – German Grand Prix](../seasons/1997-season-report#round-10-german-grand-prix) </small></center> | <center> 1503  <br/><small> [1997 Round 10 – German Grand Prix](../seasons/1997-season-report#round-10-german-grand-prix) </small></center> |
+| **Lowest** | <center> 1469 <br/><small> [1997 Round 17 – European Grand Prix](../seasons/1997-season-report#round-17-european-grand-prix) </small></center> | <center> 1473 <br/><small> [1997 Round 8 – French Grand Prix](../seasons/1997-season-report#round-8-french-grand-prix) </small></center> | <center> 1476 <br/><small> [1997 Round 9 – British Grand Prix](../seasons/1997-season-report#round-9-british-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) (1592)**: 1 wins (33.3%) • 2 losses (66.7%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) (1912)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) `1592`**: **`1`** wins <small>`33.3%`</small> • **`2`** losses <small>`66.7%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-12`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Johnny Herbert](johnny-herbert) `1912`**: **`0`** wins <small>`0.0%`</small> • **`4`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 4 races (0.0%)
+- **DNFs**: `0` out of `4` races <small>`0.0%`</small>
 
 #### Detailed Results
 

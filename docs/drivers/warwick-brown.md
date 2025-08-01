@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1539`**<br/><small>[1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1537`**<br/><small>[1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1538`**<br/><small>[1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix)</small></center> |
-| **Lowest** | <center>**`1539`**<br/><small>[1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1537`**<br/><small>[1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix)</small></center> | <center>**`1538`**<br/><small>[1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix)</small></center> |
+| **Peak** | <center> 1539 <br/><small> [1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1537 <br/><small> [1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1538  <br/><small> [1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) </small></center> |
+| **Lowest** | <center> 1539 <br/><small> [1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1537 <br/><small> [1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) </small></center> | <center> 1538 <br/><small> [1976 Round 15 – United States Grand Prix](../seasons/1976-season-report#round-15-united-states-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`37`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) (N/A)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`39`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) `N/A`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+37`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Arturo Merzario](arturo-merzario) `N/A`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+39`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 

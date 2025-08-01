@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1593`**<br/><small>[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)</small></center> | <center>**`1638`**<br/><small>[2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix)</small></center> | <center>**`1623`**<br/><small>[2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1484`**<br/><small>[2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1536`**<br/><small>[2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix)</small></center> | <center>**`1495`**<br/><small>[2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix)</small></center> |
+| **Peak** | <center> 1593 <br/><small> [2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix) </small></center> | <center> 1638 <br/><small> [2025 Round 9 – Spanish Grand Prix](../seasons/2025-season-report#round-9-spanish-grand-prix) </small></center> | <center> 1623  <br/><small> [2025 Round 10 – Canadian Grand Prix](../seasons/2025-season-report#round-10-canadian-grand-prix) </small></center> |
+| **Lowest** | <center> 1484 <br/><small> [2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix) </small></center> | <center> 1536 <br/><small> [2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) </small></center> | <center> 1495 <br/><small> [2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,15 +34,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1565)**: 1 wins (50.0%) • 0 losses (0.0%) • 1 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`41`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) (1659)**: 1 wins (50.0%) • 1 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`34`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) `1565`**: **`1`** wins <small>`50.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+41`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Yuki Tsunoda](yuki-tsunoda) `1659`**: **`1`** wins <small>`50.0%`</small> • **`1`** losses <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+34`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson) (N/A)**: 6 wins (66.7%) • 2 losses (22.2%) • 1 DNFs (11.1%) • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson) (N/A)**: 9 wins (81.8%) • 2 losses (18.2%) • **Elo <span style="color: green;">▲&nbsp;+`35`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson) `N/A`**: **`6`** wins <small>`66.7%`</small> • **`2`** losses <small>`22.2%`</small> • **`1`** DNFs <small>`11.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson](liam-lawson) `N/A`**: **`9`** wins <small>`81.8%`</small> • **`2`** losses <small>`18.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+35`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 13 races (15.4%)
+- **DNFs**: `2` out of `13` races <small>`15.4%`</small>
 
 #### Detailed Results
 

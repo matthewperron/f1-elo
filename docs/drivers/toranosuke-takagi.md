@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1566`**<br/><small>[1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1562`**<br/><small>[1998 Round 14 – Italian Grand Prix](../seasons/1998-season-report#round-14-italian-grand-prix)</small></center> | <center>**`1549`**<br/><small>[1998 Round 15 – Luxembourg Grand Prix](../seasons/1998-season-report#round-15-luxembourg-grand-prix)</small></center> |
-| **Lowest** | <center>**`1475`**<br/><small>[1999 Round 3 – San Marino Grand Prix](../seasons/1999-season-report#round-3-san-marino-grand-prix)</small></center> | <center>**`1494`**<br/><small>[1999 Round 5 – Spanish Grand Prix](../seasons/1999-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1489`**<br/><small>[1999 Round 11 – Hungarian Grand Prix](../seasons/1999-season-report#round-11-hungarian-grand-prix)</small></center> |
+| **Peak** | <center> 1566 <br/><small> [1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1562 <br/><small> [1998 Round 14 – Italian Grand Prix](../seasons/1998-season-report#round-14-italian-grand-prix) </small></center> | <center> 1549  <br/><small> [1998 Round 15 – Luxembourg Grand Prix](../seasons/1998-season-report#round-15-luxembourg-grand-prix) </small></center> |
+| **Lowest** | <center> 1475 <br/><small> [1999 Round 3 – San Marino Grand Prix](../seasons/1999-season-report#round-3-san-marino-grand-prix) </small></center> | <center> 1494 <br/><small> [1999 Round 5 – Spanish Grand Prix](../seasons/1999-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1489 <br/><small> [1999 Round 11 – Hungarian Grand Prix](../seasons/1999-season-report#round-11-hungarian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Rosset](ricardo-rosset) (1417)**: 4 wins (44.4%) • 1 losses (11.1%) • 4 DNFs (44.4%) • **Elo <span style="color: green;">▲&nbsp;+`63`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Rosset](ricardo-rosset) (1307)**: 9 wins (81.8%) • 2 losses (18.2%) • **Elo <span style="color: green;">▲&nbsp;+`15`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Rosset](ricardo-rosset) `1417`**: **`4`** wins <small>`44.4%`</small> • **`1`** losses <small>`11.1%`</small> • **`4`** DNFs <small>`44.4%`</small> • **Elo <span style="color: green;">▲&nbsp;`+63`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ricardo Rosset](ricardo-rosset) `1307`**: **`9`** wins <small>`81.8%`</small> • **`2`** losses <small>`18.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+15`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 11 races (36.4%)
+- **DNFs**: `4` out of `11` races <small>`36.4%`</small>
 
 #### Detailed Results
 
@@ -70,12 +70,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1568)**: 0 wins (0.0%) • 2 losses (16.7%) • 10 DNFs (83.3%) • **Elo <span style="color: red;">▼&nbsp;`-69`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1494)**: 8 wins (50.0%) • 8 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`5`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) `1568`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`16.7%`</small> • **`10`** DNFs <small>`83.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-69`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) `1494`**: **`8`** wins <small>`50.0%`</small> • **`8`** losses <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+5`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 10 out of 16 races (62.5%)
+- **DNFs**: `10` out of `16` races <small>`62.5%`</small>
 
 #### Detailed Results
 

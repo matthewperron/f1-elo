@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1518`**<br/><small>[1983 Round 14 – European Grand Prix](../seasons/1983-season-report#round-14-european-grand-prix)</small></center> | <center>**`1631`**<br/><small>[1983 Round 6 – Belgian Grand Prix](../seasons/1983-season-report#round-6-belgian-grand-prix)</small></center> | <center>**`1574`**<br/><small>[1983 Round 6 – Belgian Grand Prix](../seasons/1983-season-report#round-6-belgian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1404`**<br/><small>[1983 Round 12 – Dutch Grand Prix](../seasons/1983-season-report#round-12-dutch-grand-prix)</small></center> | <center>**`1543`**<br/><small>[1983 Round 2 – United States Grand Prix West](../seasons/1983-season-report#round-2-united-states-grand-prix-west)</small></center> | <center>**`1496`**<br/><small>[1983 Round 1 – Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)</small></center> |
+| **Peak** | <center> 1518 <br/><small> [1983 Round 14 – European Grand Prix](../seasons/1983-season-report#round-14-european-grand-prix) </small></center> | <center> 1631 <br/><small> [1983 Round 6 – Belgian Grand Prix](../seasons/1983-season-report#round-6-belgian-grand-prix) </small></center> | <center> 1574  <br/><small> [1983 Round 6 – Belgian Grand Prix](../seasons/1983-season-report#round-6-belgian-grand-prix) </small></center> |
+| **Lowest** | <center> 1404 <br/><small> [1983 Round 12 – Dutch Grand Prix](../seasons/1983-season-report#round-12-dutch-grand-prix) </small></center> | <center> 1543 <br/><small> [1983 Round 2 – United States Grand Prix West](../seasons/1983-season-report#round-2-united-states-grand-prix-west) </small></center> | <center> 1496 <br/><small> [1983 Round 1 – Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1573)**: 4 wins (33.3%) • 2 losses (16.7%) • 6 DNFs (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`50`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) (1737)**: 2 wins (13.3%) • 13 losses (86.7%) • **Elo <span style="color: green;">▲&nbsp;+`4`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) `1573`**: **`4`** wins <small>`33.3%`</small> • **`2`** losses <small>`16.7%`</small> • **`6`** DNFs <small>`50.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+50`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Michele Alboreto](michele-alboreto) `1737`**: **`2`** wins <small>`13.3%`</small> • **`13`** losses <small>`86.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+4`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 6 out of 15 races (40.0%)
+- **DNFs**: `6` out of `15` races <small>`40.0%`</small>
 
 #### Detailed Results
 

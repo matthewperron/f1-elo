@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1701`**<br/><small>[2023 Round 3 – Australian Grand Prix](../seasons/2023-season-report#round-3-australian-grand-prix)</small></center> | <center>**`1558`**<br/><small>[2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix)</small></center> | <center>**`1588`**<br/><small>[2023 Round 3 – Australian Grand Prix](../seasons/2023-season-report#round-3-australian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1439`**<br/><small>[2024 Round 21 – São Paulo Grand Prix](../seasons/2024-season-report#round-21-so-paulo-grand-prix)</small></center> | <center>**`1377`**<br/><small>[2022 Round 12 – French Grand Prix](../seasons/2022-season-report#round-12-french-grand-prix)</small></center> | <center>**`1425`**<br/><small>[2022 Round 7 – Monaco Grand Prix](../seasons/2022-season-report#round-7-monaco-grand-prix)</small></center> |
+| **Peak** | <center> 1701 <br/><small> [2023 Round 3 – Australian Grand Prix](../seasons/2023-season-report#round-3-australian-grand-prix) </small></center> | <center> 1558 <br/><small> [2024 Round 7 – Emilia Romagna Grand Prix](../seasons/2024-season-report#round-7-emilia-romagna-grand-prix) </small></center> | <center> 1588  <br/><small> [2023 Round 3 – Australian Grand Prix](../seasons/2023-season-report#round-3-australian-grand-prix) </small></center> |
+| **Lowest** | <center> 1439 <br/><small> [2024 Round 21 – São Paulo Grand Prix](../seasons/2024-season-report#round-21-so-paulo-grand-prix) </small></center> | <center> 1377 <br/><small> [2022 Round 12 – French Grand Prix](../seasons/2022-season-report#round-12-french-grand-prix) </small></center> | <center> 1425 <br/><small> [2022 Round 7 – Monaco Grand Prix](../seasons/2022-season-report#round-7-monaco-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1564)**: 4 wins (22.2%) • 11 losses (61.1%) • 3 DNFs (16.7%) • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1637)**: 9 wins (40.9%) • 13 losses (59.1%) • **Elo <span style="color: green;">▲&nbsp;+`173`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) `1564`**: **`4`** wins <small>`22.2%`</small> • **`11`** losses <small>`61.1%`</small> • **`3`** DNFs <small>`16.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) `1637`**: **`9`** wins <small>`40.9%`</small> • **`13`** losses <small>`59.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+173`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 22 races (13.6%)
+- **DNFs**: `3` out of `22` races <small>`13.6%`</small>
 
 #### Detailed Results
 
@@ -82,12 +82,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1524)**: 7 wins (35.0%) • 11 losses (55.0%) • 2 DNFs (10.0%) • **Elo <span style="color: green;">▲&nbsp;+`39`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1774)**: 7 wins (31.8%) • 15 losses (68.2%) • **Elo <span style="color: red;">▼&nbsp;`-136`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) `1524`**: **`7`** wins <small>`35.0%`</small> • **`11`** losses <small>`55.0%`</small> • **`2`** DNFs <small>`10.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+39`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) `1774`**: **`7`** wins <small>`31.8%`</small> • **`15`** losses <small>`68.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-136`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 22 races (9.1%)
+- **DNFs**: `2` out of `22` races <small>`9.1%`</small>
 
 #### Detailed Results
 
@@ -128,12 +128,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1528)**: 8 wins (36.4%) • 12 losses (54.5%) • 2 DNFs (9.1%) • **Elo <span style="color: red;">▼&nbsp;`-4`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1771)**: 3 wins (12.5%) • 21 losses (87.5%) • **Elo <span style="color: green;">▲&nbsp;+`5`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) `1528`**: **`8`** wins <small>`36.4%`</small> • **`12`** losses <small>`54.5%`</small> • **`2`** DNFs <small>`9.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-4`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) `1771`**: **`3`** wins <small>`12.5%`</small> • **`21`** losses <small>`87.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+5`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 24 races (8.3%)
+- **DNFs**: `2` out of `24` races <small>`8.3%`</small>
 
 #### Detailed Results
 

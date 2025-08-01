@@ -22,8 +22,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1758`**<br/><small>[2010 Round 11 – German Grand Prix](../seasons/2010-season-report#round-11-german-grand-prix)</small></center> | <center>**`1740`**<br/><small>[2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix)</small></center> | <center>**`1740`**<br/><small>[2010 Round 18 – Brazilian Grand Prix](../seasons/2010-season-report#round-18-brazilian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1382`**<br/><small>[2021 Round 14 – Italian Grand Prix](../seasons/2021-season-report#round-14-italian-grand-prix)</small></center> | <center>**`1448`**<br/><small>[2021 Round 14 – Italian Grand Prix](../seasons/2021-season-report#round-14-italian-grand-prix)</small></center> | <center>**`1429`**<br/><small>[2021 Round 14 – Italian Grand Prix](../seasons/2021-season-report#round-14-italian-grand-prix)</small></center> |
+| **Peak** | <center> 1758 <br/><small> [2010 Round 11 – German Grand Prix](../seasons/2010-season-report#round-11-german-grand-prix) </small></center> | <center> 1740 <br/><small> [2010 Round 19 – Abu Dhabi Grand Prix](../seasons/2010-season-report#round-19-abu-dhabi-grand-prix) </small></center> | <center> 1740  <br/><small> [2010 Round 18 – Brazilian Grand Prix](../seasons/2010-season-report#round-18-brazilian-grand-prix) </small></center> |
+| **Lowest** | <center> 1382 <br/><small> [2021 Round 14 – Italian Grand Prix](../seasons/2021-season-report#round-14-italian-grand-prix) </small></center> | <center> 1448 <br/><small> [2021 Round 14 – Italian Grand Prix](../seasons/2021-season-report#round-14-italian-grand-prix) </small></center> | <center> 1429 <br/><small> [2021 Round 14 – Italian Grand Prix](../seasons/2021-season-report#round-14-italian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -40,12 +40,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1626)**: 3 wins (50.0%) • 2 losses (33.3%) • 1 DNFs (16.7%) • **Elo <span style="color: green;">▲&nbsp;+`81`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1677)**: 1 wins (16.7%) • 5 losses (83.3%) • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1626`**: **`3`** wins <small>`50.0%`</small> • **`2`** losses <small>`33.3%`</small> • **`1`** DNFs <small>`16.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+81`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1677`**: **`1`** wins <small>`16.7%`</small> • **`5`** losses <small>`83.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 6 races (16.7%)
+- **DNFs**: `1` out of `6` races <small>`16.7%`</small>
 
 #### Detailed Results
 
@@ -70,12 +70,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1659)**: 4 wins (28.6%) • 8 losses (57.1%) • 2 DNFs (14.3%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1695)**: 4 wins (25.0%) • 12 losses (75.0%) • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1659`**: **`4`** wins <small>`28.6%`</small> • **`8`** losses <small>`57.1%`</small> • **`2`** DNFs <small>`14.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1695`**: **`4`** wins <small>`25.0%`</small> • **`12`** losses <small>`75.0%`</small> • **Elo ↔ 0**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 16 races (12.5%)
+- **DNFs**: `2` out of `16` races <small>`12.5%`</small>
 
 #### Detailed Results
 
@@ -110,12 +110,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1632)**: 11 wins (61.1%) • 7 losses (38.9%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`25`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1574)**: 13 wins (72.2%) • 5 losses (27.8%) • **Elo <span style="color: green;">▲&nbsp;+`120`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1632`**: **`11`** wins <small>`61.1%`</small> • **`7`** losses <small>`38.9%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+25`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1574`**: **`13`** wins <small>`72.2%`</small> • **`5`** losses <small>`27.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+120`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 18 races (0.0%)
+- **DNFs**: `0` out of `18` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -152,12 +152,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1625)**: 6 wins (37.5%) • 7 losses (43.8%) • 3 DNFs (18.8%) • **Elo <span style="color: green;">▲&nbsp;+`7`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) (1501)**: 11 wins (64.7%) • 6 losses (35.3%) • **Elo <span style="color: green;">▲&nbsp;+`73`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1625`**: **`6`** wins <small>`37.5%`</small> • **`7`** losses <small>`43.8%`</small> • **`3`** DNFs <small>`18.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+7`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Nick Heidfeld](nick-heidfeld) `1501`**: **`11`** wins <small>`64.7%`</small> • **`6`** losses <small>`35.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+73`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 17 races (17.6%)
+- **DNFs**: `3` out of `17` races <small>`17.6%`</small>
 
 #### Detailed Results
 
@@ -193,12 +193,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Vitaly Petrov](vitaly-petrov) (1341)**: 13 wins (81.3%) • 0 losses (0.0%) • 3 DNFs (18.8%) • **Elo <span style="color: green;">▲&nbsp;+`159`</span>**
-- **Qualifying vs [Vitaly Petrov](vitaly-petrov) (1434)**: 17 wins (89.5%) • 2 losses (10.5%) • **Elo <span style="color: green;">▲&nbsp;+`66`</span>**
+- **Races vs [Vitaly Petrov](vitaly-petrov) `1341`**: **`13`** wins <small>`81.3%`</small> • **`0`** losses <small>`0.0%`</small> • **`3`** DNFs <small>`18.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+159`</span>**
+- **Qualifying vs [Vitaly Petrov](vitaly-petrov) `1434`**: **`17`** wins <small>`89.5%`</small> • **`2`** losses <small>`10.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+66`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 19 races (15.8%)
+- **DNFs**: `3` out of `19` races <small>`15.8%`</small>
 
 #### Detailed Results
 
@@ -236,12 +236,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) (1747)**: 3 wins (14.3%) • 16 losses (76.2%) • 2 DNFs (9.5%) • **Elo <span style="color: red;">▼&nbsp;`-247`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) (1779)**: 3 wins (14.3%) • 18 losses (85.7%) • **Elo <span style="color: red;">▼&nbsp;`-279`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) `1747`**: **`3`** wins <small>`14.3%`</small> • **`16`** losses <small>`76.2%`</small> • **`2`** DNFs <small>`9.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-247`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) `1779`**: **`3`** wins <small>`14.3%`</small> • **`18`** losses <small>`85.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-279`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 21 races (9.5%)
+- **DNFs**: `2` out of `21` races <small>`9.5%`</small>
 
 #### Detailed Results
 
@@ -281,12 +281,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi](antonio-giovinazzi) (1622)**: 0 wins (0.0%) • 2 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-44`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi](antonio-giovinazzi) (1602)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi](antonio-giovinazzi) `1622`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-44`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Antonio Giovinazzi](antonio-giovinazzi) `1602`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 2 races (0.0%)
+- **DNFs**: `0` out of `2` races <small>`0.0%`</small>
 
 #### Detailed Results
 

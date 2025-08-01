@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1606`**<br/><small>[2015 Round 15 – Russian Grand Prix](../seasons/2015-season-report#round-15-russian-grand-prix)</small></center> | <center>**`1580`**<br/><small>[2015 Round 5 – Spanish Grand Prix](../seasons/2015-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1567`**<br/><small>[2015 Round 5 – Spanish Grand Prix](../seasons/2015-season-report#round-5-spanish-grand-prix)</small></center> |
-| **Lowest** | <center>**`1438`**<br/><small>[2015 Round 2 – Malaysian Grand Prix](../seasons/2015-season-report#round-2-malaysian-grand-prix)</small></center> | <center>**`1384`**<br/><small>[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)</small></center> | <center>**`1426`**<br/><small>[2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix)</small></center> |
+| **Peak** | <center> 1606 <br/><small> [2015 Round 15 – Russian Grand Prix](../seasons/2015-season-report#round-15-russian-grand-prix) </small></center> | <center> 1580 <br/><small> [2015 Round 5 – Spanish Grand Prix](../seasons/2015-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1567  <br/><small> [2015 Round 5 – Spanish Grand Prix](../seasons/2015-season-report#round-5-spanish-grand-prix) </small></center> |
+| **Lowest** | <center> 1438 <br/><small> [2015 Round 2 – Malaysian Grand Prix](../seasons/2015-season-report#round-2-malaysian-grand-prix) </small></center> | <center> 1384 <br/><small> [2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix) </small></center> | <center> 1426 <br/><small> [2015 Round 17 – Mexican Grand Prix](../seasons/2015-season-report#round-17-mexican-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kamui Kobayashi](kamui-kobayashi) (1606)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kamui Kobayashi](kamui-kobayashi) (1522)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kamui Kobayashi](kamui-kobayashi) `1606`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Kamui Kobayashi](kamui-kobayashi) `1522`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-33`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -60,15 +60,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Roberto Merhi](roberto-merhi) (1500)**: 5 wins (41.7%) • 5 losses (41.7%) • 2 DNFs (16.7%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Roberto Merhi](roberto-merhi) (1388)**: 9 wins (69.2%) • 4 losses (30.8%) • **Elo <span style="color: green;">▲&nbsp;+`112`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Roberto Merhi](roberto-merhi) `1500`**: **`5`** wins <small>`41.7%`</small> • **`5`** losses <small>`41.7%`</small> • **`2`** DNFs <small>`16.7%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Roberto Merhi](roberto-merhi) `1388`**: **`9`** wins <small>`69.2%`</small> • **`4`** losses <small>`30.8%`</small> • **Elo <span style="color: green;">▲&nbsp;`+112`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Alexander Rossi](alexander-rossi) (1526)**: 1 wins (20.0%) • 3 losses (60.0%) • 1 DNFs (20.0%) • **Elo <span style="color: red;">▼&nbsp;`-26`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Alexander Rossi](alexander-rossi) (1562)**: 2 wins (40.0%) • 3 losses (60.0%) • **Elo <span style="color: red;">▼&nbsp;`-62`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Alexander Rossi](alexander-rossi) `1526`**: **`1`** wins <small>`20.0%`</small> • **`3`** losses <small>`60.0%`</small> • **`1`** DNFs <small>`20.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-26`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Alexander Rossi](alexander-rossi) `1562`**: **`2`** wins <small>`40.0%`</small> • **`3`** losses <small>`60.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-62`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 18 races (16.7%)
+- **DNFs**: `3` out of `18` races <small>`16.7%`</small>
 
 #### Detailed Results
 

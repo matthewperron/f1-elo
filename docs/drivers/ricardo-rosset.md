@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1475`**<br/><small>[1996 Round 1 – Australian Grand Prix](../seasons/1996-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1564`**<br/><small>[1996 Round 13 – Belgian Grand Prix](../seasons/1996-season-report#round-13-belgian-grand-prix)</small></center> | <center>**`1496`**<br/><small>[1996 Round 13 – Belgian Grand Prix](../seasons/1996-season-report#round-13-belgian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1256`**<br/><small>[1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1417`**<br/><small>[1998 Round 14 – Italian Grand Prix](../seasons/1998-season-report#round-14-italian-grand-prix)</small></center> | <center>**`1383`**<br/><small>[1998 Round 15 – Luxembourg Grand Prix](../seasons/1998-season-report#round-15-luxembourg-grand-prix)</small></center> |
+| **Peak** | <center> 1475 <br/><small> [1996 Round 1 – Australian Grand Prix](../seasons/1996-season-report#round-1-australian-grand-prix) </small></center> | <center> 1564 <br/><small> [1996 Round 13 – Belgian Grand Prix](../seasons/1996-season-report#round-13-belgian-grand-prix) </small></center> | <center> 1496  <br/><small> [1996 Round 13 – Belgian Grand Prix](../seasons/1996-season-report#round-13-belgian-grand-prix) </small></center> |
+| **Lowest** | <center> 1256 <br/><small> [1998 Round 7 – Canadian Grand Prix](../seasons/1998-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1417 <br/><small> [1998 Round 14 – Italian Grand Prix](../seasons/1998-season-report#round-14-italian-grand-prix) </small></center> | <center> 1383 <br/><small> [1998 Round 15 – Luxembourg Grand Prix](../seasons/1998-season-report#round-15-luxembourg-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1481)**: 4 wins (40.0%) • 3 losses (30.0%) • 3 DNFs (30.0%) • **Elo <span style="color: red;">▼&nbsp;`-21`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) (1751)**: 0 wins (0.0%) • 16 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-179`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) `1481`**: **`4`** wins <small>`40.0%`</small> • **`3`** losses <small>`30.0%`</small> • **`3`** DNFs <small>`30.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-21`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Jos Verstappen](jos-verstappen) `1751`**: **`0`** wins <small>`0.0%`</small> • **`16`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-179`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 16 races (18.8%)
+- **DNFs**: `3` out of `16` races <small>`18.8%`</small>
 
 #### Detailed Results
 
@@ -75,12 +75,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi](toranosuke-takagi) (1562)**: 1 wins (10.0%) • 4 losses (40.0%) • 5 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi](toranosuke-takagi) (1515)**: 2 wins (18.2%) • 9 losses (81.8%) • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi](toranosuke-takagi) `1562`**: **`1`** wins <small>`10.0%`</small> • **`4`** losses <small>`40.0%`</small> • **`5`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-63`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Toranosuke Takagi](toranosuke-takagi) `1515`**: **`2`** wins <small>`18.2%`</small> • **`9`** losses <small>`81.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 11 races (45.5%)
+- **DNFs**: `5` out of `11` races <small>`45.5%`</small>
 
 #### Detailed Results
 

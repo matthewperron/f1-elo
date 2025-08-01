@@ -18,8 +18,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1569`**<br/><small>[2005 Round 5 – Spanish Grand Prix](../seasons/2005-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1580`**<br/><small>[2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1570`**<br/><small>[2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix)</small></center> |
-| **Lowest** | <center>**`1213`**<br/><small>[2012 Round 12 – Belgian Grand Prix](../seasons/2012-season-report#round-12-belgian-grand-prix)</small></center> | <center>**`1272`**<br/><small>[2012 Round 14 – Singapore Grand Prix](../seasons/2012-season-report#round-14-singapore-grand-prix)</small></center> | <center>**`1277`**<br/><small>[2012 Round 12 – Belgian Grand Prix](../seasons/2012-season-report#round-12-belgian-grand-prix)</small></center> |
+| **Peak** | <center> 1569 <br/><small> [2005 Round 5 – Spanish Grand Prix](../seasons/2005-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1580 <br/><small> [2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix) </small></center> | <center> 1570  <br/><small> [2005 Round 4 – San Marino Grand Prix](../seasons/2005-season-report#round-4-san-marino-grand-prix) </small></center> |
+| **Lowest** | <center> 1213 <br/><small> [2012 Round 12 – Belgian Grand Prix](../seasons/2012-season-report#round-12-belgian-grand-prix) </small></center> | <center> 1272 <br/><small> [2012 Round 14 – Singapore Grand Prix](../seasons/2012-season-report#round-14-singapore-grand-prix) </small></center> | <center> 1277 <br/><small> [2012 Round 12 – Belgian Grand Prix](../seasons/2012-season-report#round-12-belgian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -36,12 +36,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Tiago Monteiro](tiago-monteiro) (1577)**: 6 wins (33.3%) • 8 losses (44.4%) • 4 DNFs (22.2%) • **Elo <span style="color: red;">▼&nbsp;`-76`</span>**
-- **Qualifying vs [Tiago Monteiro](tiago-monteiro) (1496)**: 10 wins (52.6%) • 9 losses (47.4%) • **Elo <span style="color: green;">▲&nbsp;+`3`</span>**
+- **Races vs [Tiago Monteiro](tiago-monteiro) `1577`**: **`6`** wins <small>`33.3%`</small> • **`8`** losses <small>`44.4%`</small> • **`4`** DNFs <small>`22.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-76`</span>**
+- **Qualifying vs [Tiago Monteiro](tiago-monteiro) `1496`**: **`10`** wins <small>`52.6%`</small> • **`9`** losses <small>`47.4%`</small> • **Elo <span style="color: green;">▲&nbsp;`+3`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 19 races (21.1%)
+- **DNFs**: `4` out of `19` races <small>`21.1%`</small>
 
 #### Detailed Results
 
@@ -79,15 +79,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1485)**: 1 wins (16.7%) • 4 losses (66.7%) • 1 DNFs (16.7%) • **Elo <span style="color: red;">▼&nbsp;`-83`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) (1527)**: 1 wins (14.3%) • 6 losses (85.7%) • **Elo <span style="color: red;">▼&nbsp;`-131`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) `1485`**: **`1`** wins <small>`16.7%`</small> • **`4`** losses <small>`66.7%`</small> • **`1`** DNFs <small>`16.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-83`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Vitantonio Liuzzi](vitantonio-liuzzi) `1527`**: **`1`** wins <small>`14.3%`</small> • **`6`** losses <small>`85.7%`</small> • **Elo <span style="color: red;">▼&nbsp;`-131`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1527)**: 1 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`51`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) (1539)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) `1527`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+51`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Daniel Ricciardo](daniel-ricciardo) `1539`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 8 races (12.5%)
+- **DNFs**: `1` out of `8` races <small>`12.5%`</small>
 
 #### Detailed Results
 
@@ -114,12 +114,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1525)**: 3 wins (16.7%) • 11 losses (61.1%) • 4 DNFs (22.2%) • **Elo <span style="color: red;">▼&nbsp;`-114`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) (1495)**: 3 wins (15.8%) • 16 losses (84.2%) • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) `1525`**: **`3`** wins <small>`16.7%`</small> • **`11`** losses <small>`61.1%`</small> • **`4`** DNFs <small>`22.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-114`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Pedro de la Rosa](pedro-de-la-rosa) `1495`**: **`3`** wins <small>`15.8%`</small> • **`16`** losses <small>`84.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-49`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 19 races (21.1%)
+- **DNFs**: `4` out of `19` races <small>`21.1%`</small>
 
 #### Detailed Results
 

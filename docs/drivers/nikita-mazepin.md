@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1468`**<br/><small>[2021 Round 1 – Bahrain Grand Prix](../seasons/2021-season-report#round-1-bahrain-grand-prix)</small></center> | <center>**`1482`**<br/><small>[2021 Round 21 – Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix)</small></center> | <center>**`1468`**<br/><small>[2021 Round 1 – Bahrain Grand Prix](../seasons/2021-season-report#round-1-bahrain-grand-prix)</small></center> |
-| **Lowest** | <center>**`1329`**<br/><small>[2021 Round 22 – Abu Dhabi Grand Prix](../seasons/2021-season-report#round-22-abu-dhabi-grand-prix)</small></center> | <center>**`1365`**<br/><small>[2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)</small></center> | <center>**`1370`**<br/><small>[2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix)</small></center> |
+| **Peak** | <center> 1468 <br/><small> [2021 Round 1 – Bahrain Grand Prix](../seasons/2021-season-report#round-1-bahrain-grand-prix) </small></center> | <center> 1482 <br/><small> [2021 Round 21 – Saudi Arabian Grand Prix](../seasons/2021-season-report#round-21-saudi-arabian-grand-prix) </small></center> | <center> 1468  <br/><small> [2021 Round 1 – Bahrain Grand Prix](../seasons/2021-season-report#round-1-bahrain-grand-prix) </small></center> |
+| **Lowest** | <center> 1329 <br/><small> [2021 Round 22 – Abu Dhabi Grand Prix](../seasons/2021-season-report#round-22-abu-dhabi-grand-prix) </small></center> | <center> 1365 <br/><small> [2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix) </small></center> | <center> 1370 <br/><small> [2021 Round 17 – United States Grand Prix](../seasons/2021-season-report#round-17-united-states-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher) (1518)**: 5 wins (23.8%) • 13 losses (61.9%) • 3 DNFs (14.3%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher) (1671)**: 3 wins (13.6%) • 19 losses (86.4%) • **Elo <span style="color: red;">▼&nbsp;`-170`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher) `1518`**: **`5`** wins <small>`23.8%`</small> • **`13`** losses <small>`61.9%`</small> • **`3`** DNFs <small>`14.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher) `1671`**: **`3`** wins <small>`13.6%`</small> • **`19`** losses <small>`86.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-170`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 22 races (13.6%)
+- **DNFs**: `3` out of `22` races <small>`13.6%`</small>
 
 #### Detailed Results
 

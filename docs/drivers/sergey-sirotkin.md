@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1532`**<br/><small>[2018 Round 21 – Abu Dhabi Grand Prix](../seasons/2018-season-report#round-21-abu-dhabi-grand-prix)</small></center> | <center>**`1522`**<br/><small>[2018 Round 13 – Belgian Grand Prix](../seasons/2018-season-report#round-13-belgian-grand-prix)</small></center> | <center>**`1519`**<br/><small>[2018 Round 13 – Belgian Grand Prix](../seasons/2018-season-report#round-13-belgian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1448`**<br/><small>[2018 Round 5 – Spanish Grand Prix](../seasons/2018-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1384`**<br/><small>[2018 Round 5 – Spanish Grand Prix](../seasons/2018-season-report#round-5-spanish-grand-prix)</small></center> | <center>**`1404`**<br/><small>[2018 Round 5 – Spanish Grand Prix](../seasons/2018-season-report#round-5-spanish-grand-prix)</small></center> |
+| **Peak** | <center> 1532 <br/><small> [2018 Round 21 – Abu Dhabi Grand Prix](../seasons/2018-season-report#round-21-abu-dhabi-grand-prix) </small></center> | <center> 1522 <br/><small> [2018 Round 13 – Belgian Grand Prix](../seasons/2018-season-report#round-13-belgian-grand-prix) </small></center> | <center> 1519  <br/><small> [2018 Round 13 – Belgian Grand Prix](../seasons/2018-season-report#round-13-belgian-grand-prix) </small></center> |
+| **Lowest** | <center> 1448 <br/><small> [2018 Round 5 – Spanish Grand Prix](../seasons/2018-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1384 <br/><small> [2018 Round 5 – Spanish Grand Prix](../seasons/2018-season-report#round-5-spanish-grand-prix) </small></center> | <center> 1404 <br/><small> [2018 Round 5 – Spanish Grand Prix](../seasons/2018-season-report#round-5-spanish-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) (1480)**: 8 wins (40.0%) • 10 losses (50.0%) • 2 DNFs (10.0%) • **Elo <span style="color: red;">▼&nbsp;`-45`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) (1411)**: 12 wins (57.1%) • 9 losses (42.9%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) `1480`**: **`8`** wins <small>`40.0%`</small> • **`10`** losses <small>`50.0%`</small> • **`2`** DNFs <small>`10.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-45`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) `1411`**: **`12`** wins <small>`57.1%`</small> • **`9`** losses <small>`42.9%`</small> • **Elo <span style="color: green;">▲&nbsp;`+32`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 21 races (9.5%)
+- **DNFs**: `2` out of `21` races <small>`9.5%`</small>
 
 #### Detailed Results
 

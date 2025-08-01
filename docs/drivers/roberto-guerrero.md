@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1581`**<br/><small>[1983 Round 8 – Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix)</small></center> | <center>**`1468`**<br/><small>[1983 Round 1 – Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)</small></center> | <center>**`1487`**<br/><small>[1983 Round 1 – Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix)</small></center> |
-| **Lowest** | <center>**`1463`**<br/><small>[1983 Round 3 – French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix)</small></center> | <center>**`1420`**<br/><small>[1983 Round 13 – Italian Grand Prix](../seasons/1983-season-report#round-13-italian-grand-prix)</small></center> | <center>**`1460`**<br/><small>[1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix)</small></center> |
+| **Peak** | <center> 1581 <br/><small> [1983 Round 8 – Canadian Grand Prix](../seasons/1983-season-report#round-8-canadian-grand-prix) </small></center> | <center> 1468 <br/><small> [1983 Round 1 – Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix) </small></center> | <center> 1487  <br/><small> [1983 Round 1 – Brazilian Grand Prix](../seasons/1983-season-report#round-1-brazilian-grand-prix) </small></center> |
+| **Lowest** | <center> 1463 <br/><small> [1983 Round 3 – French Grand Prix](../seasons/1983-season-report#round-3-french-grand-prix) </small></center> | <center> 1420 <br/><small> [1983 Round 13 – Italian Grand Prix](../seasons/1983-season-report#round-13-italian-grand-prix) </small></center> | <center> 1460 <br/><small> [1983 Round 4 – San Marino Grand Prix](../seasons/1983-season-report#round-4-san-marino-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Johnny Cecotto](johnny-cecotto) (1580)**: 0 wins (0.0%) • 3 losses (37.5%) • 5 DNFs (62.5%) • **Elo <span style="color: red;">▼&nbsp;`-80`</span>**
-- **Qualifying vs [Johnny Cecotto](johnny-cecotto) (1439)**: 6 wins (66.7%) • 3 losses (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`61`</span>**
+- **Races vs [Johnny Cecotto](johnny-cecotto) `1580`**: **`0`** wins <small>`0.0%`</small> • **`3`** losses <small>`37.5%`</small> • **`5`** DNFs <small>`62.5%`</small> • **Elo <span style="color: red;">▼&nbsp;`-80`</span>**
+- **Qualifying vs [Johnny Cecotto](johnny-cecotto) `1439`**: **`6`** wins <small>`66.7%`</small> • **`3`** losses <small>`33.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+61`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 5 out of 9 races (55.6%)
+- **DNFs**: `5` out of `9` races <small>`55.6%`</small>
 
 #### Detailed Results
 

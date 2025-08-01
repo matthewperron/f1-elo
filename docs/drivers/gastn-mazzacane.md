@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1494`**<br/><small>[2000 Round 3 – San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)</small></center> | <center>**`1531`**<br/><small>[2000 Round 3 – San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)</small></center> | <center>**`1520`**<br/><small>[2000 Round 3 – San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix)</small></center> |
-| **Lowest** | <center>**`1362`**<br/><small>[2001 Round 4 – San Marino Grand Prix](../seasons/2001-season-report#round-4-san-marino-grand-prix)</small></center> | <center>**`1390`**<br/><small>[2001 Round 2 – Malaysian Grand Prix](../seasons/2001-season-report#round-2-malaysian-grand-prix)</small></center> | <center>**`1381`**<br/><small>[2001 Round 4 – San Marino Grand Prix](../seasons/2001-season-report#round-4-san-marino-grand-prix)</small></center> |
+| **Peak** | <center> 1494 <br/><small> [2000 Round 3 – San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix) </small></center> | <center> 1531 <br/><small> [2000 Round 3 – San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix) </small></center> | <center> 1520  <br/><small> [2000 Round 3 – San Marino Grand Prix](../seasons/2000-season-report#round-3-san-marino-grand-prix) </small></center> |
+| **Lowest** | <center> 1362 <br/><small> [2001 Round 4 – San Marino Grand Prix](../seasons/2001-season-report#round-4-san-marino-grand-prix) </small></center> | <center> 1390 <br/><small> [2001 Round 2 – Malaysian Grand Prix](../seasons/2001-season-report#round-2-malaysian-grand-prix) </small></center> | <center> 1381 <br/><small> [2001 Round 4 – San Marino Grand Prix](../seasons/2001-season-report#round-4-san-marino-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) (1592)**: 2 wins (16.7%) • 6 losses (50.0%) • 4 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-101`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) (1639)**: 3 wins (17.6%) • 14 losses (82.4%) • **Elo <span style="color: red;">▼&nbsp;`-95`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) `1592`**: **`2`** wins <small>`16.7%`</small> • **`6`** losses <small>`50.0%`</small> • **`4`** DNFs <small>`33.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-101`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Marc Gené](marc-gen) `1639`**: **`3`** wins <small>`17.6%`</small> • **`14`** losses <small>`82.4%`</small> • **Elo <span style="color: red;">▼&nbsp;`-95`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 17 races (23.5%)
+- **DNFs**: `4` out of `17` races <small>`23.5%`</small>
 
 #### Detailed Results
 
@@ -76,12 +76,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1702)**: 0 wins (0.0%) • 1 losses (25.0%) • 3 DNFs (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-10`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) (1691)**: 0 wins (0.0%) • 4 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-43`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) `1702`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`25.0%`</small> • **`3`** DNFs <small>`75.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-10`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Alesi](jean-alesi) `1691`**: **`0`** wins <small>`0.0%`</small> • **`4`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-43`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 4 races (75.0%)
+- **DNFs**: `3` out of `4` races <small>`75.0%`</small>
 
 #### Detailed Results
 

@@ -21,8 +21,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1836`**<br/><small>[2025 Round 3 – Japanese Grand Prix](../seasons/2025-season-report#round-3-japanese-grand-prix)</small></center> | <center>**`1854`**<br/><small>[2024 Round 17 – Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix)</small></center> | <center>**`1831`**<br/><small>[2025 Round 3 – Japanese Grand Prix](../seasons/2025-season-report#round-3-japanese-grand-prix)</small></center> |
-| **Lowest** | <center>**`1354`**<br/><small>[2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix)</small></center> | <center>**`1424`**<br/><small>[2019 Round 11 – German Grand Prix](../seasons/2019-season-report#round-11-german-grand-prix)</small></center> | <center>**`1428`**<br/><small>[2019 Round 11 – German Grand Prix](../seasons/2019-season-report#round-11-german-grand-prix)</small></center> |
+| **Peak** | <center> 1836 <br/><small> [2025 Round 3 – Japanese Grand Prix](../seasons/2025-season-report#round-3-japanese-grand-prix) </small></center> | <center> 1854 <br/><small> [2024 Round 17 – Azerbaijan Grand Prix](../seasons/2024-season-report#round-17-azerbaijan-grand-prix) </small></center> | <center> 1831  <br/><small> [2025 Round 3 – Japanese Grand Prix](../seasons/2025-season-report#round-3-japanese-grand-prix) </small></center> |
+| **Lowest** | <center> 1354 <br/><small> [2020 Round 17 – Abu Dhabi Grand Prix](../seasons/2020-season-report#round-17-abu-dhabi-grand-prix) </small></center> | <center> 1424 <br/><small> [2019 Round 11 – German Grand Prix](../seasons/2019-season-report#round-11-german-grand-prix) </small></center> | <center> 1428 <br/><small> [2019 Round 11 – German Grand Prix](../seasons/2019-season-report#round-11-german-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -39,15 +39,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Daniil Kvyat](daniil-kvyat) (1529)**: 5 wins (41.7%) • 7 losses (58.3%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
-- **Qualifying vs [Daniil Kvyat](daniil-kvyat) (1493)**: 5 wins (41.7%) • 7 losses (58.3%) • **Elo <span style="color: red;">▼&nbsp;`-23`</span>**
+- **Races vs [Daniil Kvyat](daniil-kvyat) `1529`**: **`5`** wins <small>`41.7%`</small> • **`7`** losses <small>`58.3%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
+- **Qualifying vs [Daniil Kvyat](daniil-kvyat) `1493`**: **`5`** wins <small>`41.7%`</small> • **`7`** losses <small>`58.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-23`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 3 wins (37.5%) • 5 losses (62.5%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`49`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (N/A)**: 1 wins (11.1%) • 8 losses (88.9%) • **Elo <span style="color: red;">▼&nbsp;`-37`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) `N/A`**: **`3`** wins <small>`37.5%`</small> • **`5`** losses <small>`62.5%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+49`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) `N/A`**: **`1`** wins <small>`11.1%`</small> • **`8`** losses <small>`88.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-37`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 21 races (0.0%)
+- **DNFs**: `0` out of `21` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -87,12 +87,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1746)**: 2 wins (13.3%) • 11 losses (73.3%) • 2 DNFs (13.3%) • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) (1869)**: 0 wins (0.0%) • 17 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-84`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) `1746`**: **`2`** wins <small>`13.3%`</small> • **`11`** losses <small>`73.3%`</small> • **`2`** DNFs <small>`13.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) `1869`**: **`0`** wins <small>`0.0%`</small> • **`17`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-84`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 17 races (11.8%)
+- **DNFs**: `2` out of `17` races <small>`11.8%`</small>
 
 #### Detailed Results
 
@@ -128,12 +128,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1298)**: 16 wins (80.0%) • 2 losses (10.0%) • 2 DNFs (10.0%) • **Elo <span style="color: green;">▲&nbsp;+`159`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) (1334)**: 18 wins (85.7%) • 3 losses (14.3%) • **Elo <span style="color: green;">▲&nbsp;+`258`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) `1298`**: **`16`** wins <small>`80.0%`</small> • **`2`** losses <small>`10.0%`</small> • **`2`** DNFs <small>`10.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+159`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Nicholas Latifi](nicholas-latifi) `1334`**: **`18`** wins <small>`85.7%`</small> • **`3`** losses <small>`14.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+258`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 21 races (9.5%)
+- **DNFs**: `2` out of `21` races <small>`9.5%`</small>
 
 #### Detailed Results
 
@@ -173,12 +173,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) (1362)**: 15 wins (78.9%) • 0 losses (0.0%) • 4 DNFs (21.1%) • **Elo <span style="color: green;">▲&nbsp;+`140`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) (1311)**: 22 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`189`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) `1362`**: **`15`** wins <small>`78.9%`</small> • **`0`** losses <small>`0.0%`</small> • **`4`** DNFs <small>`21.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+140`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) `1311`**: **`22`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+189`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 4 out of 22 races (18.2%)
+- **DNFs**: `4` out of `22` races <small>`18.2%`</small>
 
 #### Detailed Results
 
@@ -219,15 +219,15 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) (1323)**: 10 wins (76.9%) • 0 losses (0.0%) • 3 DNFs (23.1%) • **Elo <span style="color: green;">▲&nbsp;+`39`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) (1387)**: 12 wins (85.7%) • 2 losses (14.3%) • **Elo <span style="color: red;">▼&nbsp;`-76`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) `1323`**: **`10`** wins <small>`76.9%`</small> • **`0`** losses <small>`0.0%`</small> • **`3`** DNFs <small>`23.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+39`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Logan Sargeant](logan-sargeant) `1387`**: **`12`** wins <small>`85.7%`</small> • **`2`** losses <small>`14.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-76`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto) (1542)**: 2 wins (28.6%) • 1 losses (14.3%) • 4 DNFs (57.1%) • **Elo <span style="color: red;">▼&nbsp;`-42`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto) (1446)**: 8 wins (88.9%) • 1 losses (11.1%) • **Elo <span style="color: green;">▲&nbsp;+`53`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto) `1542`**: **`2`** wins <small>`28.6%`</small> • **`1`** losses <small>`14.3%`</small> • **`4`** DNFs <small>`57.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-42`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Franco Colapinto](franco-colapinto) `1446`**: **`8`** wins <small>`88.9%`</small> • **`1`** losses <small>`11.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+53`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 7 out of 23 races (30.4%)
+- **DNFs**: `7` out of `23` races <small>`30.4%`</small>
 
 #### Detailed Results
 
@@ -269,12 +269,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1543)**: 7 wins (63.6%) • 1 losses (9.1%) • 3 DNFs (27.3%) • **Elo <span style="color: green;">▲&nbsp;+`47`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) (1667)**: 8 wins (61.5%) • 5 losses (38.5%) • **Elo <span style="color: green;">▲&nbsp;+`4`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1543`**: **`7`** wins <small>`63.6%`</small> • **`1`** losses <small>`9.1%`</small> • **`3`** DNFs <small>`27.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+47`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Carlos Sainz](carlos-sainz) `1667`**: **`8`** wins <small>`61.5%`</small> • **`5`** losses <small>`38.5%`</small> • **Elo <span style="color: green;">▲&nbsp;`+4`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 3 out of 13 races (23.1%)
+- **DNFs**: `3` out of `13` races <small>`23.1%`</small>
 
 #### Detailed Results
 

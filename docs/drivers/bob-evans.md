@@ -16,8 +16,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1532`**<br/><small>[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)</small></center> | N/A | <center>**`1510`**<br/><small>[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)</small></center> |
-| **Lowest** | <center>**`1532`**<br/><small>[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)</small></center> | N/A | <center>**`1510`**<br/><small>[1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix)</small></center> |
+| **Peak** | <center> 1532 <br/><small> [1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) </small></center> | N/A | <center> 1510  <br/><small> [1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) </small></center> |
+| **Lowest** | <center> 1532 <br/><small> [1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) </small></center> | N/A | <center> 1510 <br/><small> [1976 Round 2 – South African Grand Prix](../seasons/1976-season-report#round-2-south-african-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -34,12 +34,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) (1500)**: 0 wins (0.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo ↔ 0**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) (1468)**: 1 wins (100.0%) • 0 losses (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`32`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) `1500`**: **`0`** wins <small>`0.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo ↔ 0**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Gunnar Nilsson](gunnar-nilsson) `1468`**: **`1`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+32`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 0 out of 1 races (0.0%)
+- **DNFs**: `0` out of `1` races <small>`0.0%`</small>
 
 #### Detailed Results
 

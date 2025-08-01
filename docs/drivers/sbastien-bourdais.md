@@ -17,8 +17,8 @@
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center>**`1535`**<br/><small>[2008 Round 7 – Canadian Grand Prix](../seasons/2008-season-report#round-7-canadian-grand-prix)</small></center> | <center>**`1527`**<br/><small>[2008 Round 4 – Spanish Grand Prix](../seasons/2008-season-report#round-4-spanish-grand-prix)</small></center> | <center>**`1522`**<br/><small>[2008 Round 4 – Spanish Grand Prix](../seasons/2008-season-report#round-4-spanish-grand-prix)</small></center> |
-| **Lowest** | <center>**`1292`**<br/><small>[2009 Round 7 – Turkish Grand Prix](../seasons/2009-season-report#round-7-turkish-grand-prix)</small></center> | <center>**`1304`**<br/><small>[2009 Round 1 – Australian Grand Prix](../seasons/2009-season-report#round-1-australian-grand-prix)</small></center> | <center>**`1311`**<br/><small>[2009 Round 1 – Australian Grand Prix](../seasons/2009-season-report#round-1-australian-grand-prix)</small></center> |
+| **Peak** | <center> 1535 <br/><small> [2008 Round 7 – Canadian Grand Prix](../seasons/2008-season-report#round-7-canadian-grand-prix) </small></center> | <center> 1527 <br/><small> [2008 Round 4 – Spanish Grand Prix](../seasons/2008-season-report#round-4-spanish-grand-prix) </small></center> | <center> 1522  <br/><small> [2008 Round 4 – Spanish Grand Prix](../seasons/2008-season-report#round-4-spanish-grand-prix) </small></center> |
+| **Lowest** | <center> 1292 <br/><small> [2009 Round 7 – Turkish Grand Prix](../seasons/2009-season-report#round-7-turkish-grand-prix) </small></center> | <center> 1304 <br/><small> [2009 Round 1 – Australian Grand Prix](../seasons/2009-season-report#round-1-australian-grand-prix) </small></center> | <center> 1311 <br/><small> [2009 Round 1 – Australian Grand Prix](../seasons/2009-season-report#round-1-australian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -35,12 +35,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1627)**: 2 wins (13.3%) • 11 losses (73.3%) • 2 DNFs (13.3%) • **Elo <span style="color: red;">▼&nbsp;`-179`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) (1617)**: 5 wins (27.8%) • 13 losses (72.2%) • **Elo <span style="color: red;">▼&nbsp;`-151`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) `1627`**: **`2`** wins <small>`13.3%`</small> • **`11`** losses <small>`73.3%`</small> • **`2`** DNFs <small>`13.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-179`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Sebastian Vettel](sebastian-vettel) `1617`**: **`5`** wins <small>`27.8%`</small> • **`13`** losses <small>`72.2%`</small> • **Elo <span style="color: red;">▼&nbsp;`-151`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 2 out of 18 races (11.1%)
+- **DNFs**: `2` out of `18` races <small>`11.1%`</small>
 
 #### Detailed Results
 
@@ -77,12 +77,12 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1480)**: 3 wins (33.3%) • 5 losses (55.6%) • 1 DNFs (11.1%) • **Elo <span style="color: green;">▲&nbsp;+`19`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) (1524)**: 2 wins (22.2%) • 7 losses (77.8%) • **Elo <span style="color: red;">▼&nbsp;`-25`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) `1480`**: **`3`** wins <small>`33.3%`</small> • **`5`** losses <small>`55.6%`</small> • **`1`** DNFs <small>`11.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+19`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Sébastien Buemi](sbastien-buemi) `1524`**: **`2`** wins <small>`22.2%`</small> • **`7`** losses <small>`77.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-25`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: 1 out of 9 races (11.1%)
+- **DNFs**: `1` out of `9` races <small>`11.1%`</small>
 
 #### Detailed Results
 
