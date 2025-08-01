@@ -36,7 +36,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1564)**: 4 wins (22.2%) • 11 losses (61.1%) • 3 DNFs (16.7%) • **Elo <span style="color: red;">▼&nbsp;-15</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1564)**: 4 wins (22.2%) • 11 losses (61.1%) • 3 DNFs (16.7%) • **Elo <span style="color: red;">▼&nbsp;`-15`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1637)**: 9 wins (40.9%) • 13 losses (59.1%) • **Elo <span style="color: green;">▲&nbsp;+`173`</span>**
 
 #### DNF Statistics
@@ -82,7 +82,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1524)**: 7 wins (35.0%) • 11 losses (55.0%) • 2 DNFs (10.0%) • **Elo <span style="color: green;">▲&nbsp;+39</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1524)**: 7 wins (35.0%) • 11 losses (55.0%) • 2 DNFs (10.0%) • **Elo <span style="color: green;">▲&nbsp;+`39`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1774)**: 7 wins (31.8%) • 15 losses (68.2%) • **Elo <span style="color: red;">▼&nbsp;`-136`</span>**
 
 #### DNF Statistics
@@ -128,7 +128,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1528)**: 8 wins (36.4%) • 12 losses (54.5%) • 2 DNFs (9.1%) • **Elo <span style="color: red;">▼&nbsp;-4</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1528)**: 8 wins (36.4%) • 12 losses (54.5%) • 2 DNFs (9.1%) • **Elo <span style="color: red;">▼&nbsp;`-4`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇮'; this.style.marginRight='5px';"/> Valtteri Bottas](valtteri-bottas) (1771)**: 3 wins (12.5%) • 21 losses (87.5%) • **Elo <span style="color: green;">▲&nbsp;+`5`</span>**
 
 #### DNF Statistics

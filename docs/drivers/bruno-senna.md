@@ -36,13 +36,13 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Karun Chandhok](karun-chandhok) (1527)**: 1 wins (12.5%) • 2 losses (25.0%) • 5 DNFs (62.5%) • **Elo <span style="color: red;">▼&nbsp;-27</span>**
+- **Races vs [Karun Chandhok](karun-chandhok) (1527)**: 1 wins (12.5%) • 2 losses (25.0%) • 5 DNFs (62.5%) • **Elo <span style="color: red;">▼&nbsp;`-27`</span>**
 - **Qualifying vs [Karun Chandhok](karun-chandhok) (1431)**: 7 wins (77.8%) • 2 losses (22.2%) • **Elo <span style="color: green;">▲&nbsp;+`70`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) (1335)**: 3 wins (60.0%) • 0 losses (0.0%) • 2 DNFs (40.0%) • **Elo <span style="color: green;">▲&nbsp;+64</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) (1335)**: 3 wins (60.0%) • 0 losses (0.0%) • 2 DNFs (40.0%) • **Elo <span style="color: green;">▲&nbsp;+`64`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Sakon Yamamoto](sakon-yamamoto) (1355)**: 5 wins (83.3%) • 1 losses (16.7%) • **Elo <span style="color: green;">▲&nbsp;+`8`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Christian Klien](christian-klien) (1426)**: 2 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+48</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Christian Klien](christian-klien) (1426)**: 2 wins (100.0%) • 0 losses (0.0%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`48`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Christian Klien](christian-klien) (1509)**: 1 wins (33.3%) • 2 losses (66.7%) • **Elo <span style="color: red;">▼&nbsp;`-43`</span>**
 
 #### DNF Statistics
@@ -84,7 +84,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Vitaly Petrov](vitaly-petrov) (1548)**: 3 wins (37.5%) • 5 losses (62.5%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-128</span>**
+- **Races vs [Vitaly Petrov](vitaly-petrov) (1548)**: 3 wins (37.5%) • 5 losses (62.5%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-128`</span>**
 - **Qualifying vs [Vitaly Petrov](vitaly-petrov) (1489)**: 5 wins (62.5%) • 3 losses (37.5%) • **Elo <span style="color: green;">▲&nbsp;+`27`</span>**
 
 #### DNF Statistics
@@ -116,7 +116,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Pastor Maldonado](pastor-maldonado) (1571)**: 8 wins (42.1%) • 9 losses (47.4%) • 2 DNFs (10.5%) • **Elo <span style="color: red;">▼&nbsp;-17</span>**
+- **Races vs [Pastor Maldonado](pastor-maldonado) (1571)**: 8 wins (42.1%) • 9 losses (47.4%) • 2 DNFs (10.5%) • **Elo <span style="color: red;">▼&nbsp;`-17`</span>**
 - **Qualifying vs [Pastor Maldonado](pastor-maldonado) (1701)**: 5 wins (25.0%) • 15 losses (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-54`</span>**
 
 #### DNF Statistics

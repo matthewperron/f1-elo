@@ -34,7 +34,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1731)**: 0 wins (0.0%) • 5 losses (41.7%) • 7 DNFs (58.3%) • **Elo <span style="color: red;">▼&nbsp;-71</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1731)**: 0 wins (0.0%) • 5 losses (41.7%) • 7 DNFs (58.3%) • **Elo <span style="color: red;">▼&nbsp;`-71`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇧🇷'; this.style.marginRight='5px';"/> Ayrton Senna](ayrton-senna) (1896)**: 0 wins (0.0%) • 15 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-89`</span>**
 
 #### DNF Statistics

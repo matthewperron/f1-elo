@@ -66,7 +66,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Rudolf Krause](rudolf-krause) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-32</span>**
+- **Races vs [Rudolf Krause](rudolf-krause) (1532)**: 0 wins (0.0%) • 1 losses (100.0%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
 - **Qualifying vs [Rudolf Krause](rudolf-krause) (1559)**: 0 wins (0.0%) • 1 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-28`</span>**
 
 #### DNF Statistics

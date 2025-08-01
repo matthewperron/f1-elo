@@ -35,7 +35,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Nikita Mazepin](nikita-mazepin) (1482)**: 13 wins (68.4%) • 5 losses (26.3%) • 1 DNFs (5.3%) • **Elo <span style="color: green;">▲&nbsp;+19</span>**
+- **Races vs [Nikita Mazepin](nikita-mazepin) (1482)**: 13 wins (68.4%) • 5 losses (26.3%) • 1 DNFs (5.3%) • **Elo <span style="color: green;">▲&nbsp;+`19`</span>**
 - **Qualifying vs [Nikita Mazepin](nikita-mazepin) (1329)**: 19 wins (86.4%) • 3 losses (13.6%) • **Elo <span style="color: green;">▲&nbsp;+`170`</span>**
 
 #### DNF Statistics
@@ -81,7 +81,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1522)**: 11 wins (57.9%) • 6 losses (31.6%) • 2 DNFs (10.5%) • **Elo <span style="color: green;">▲&nbsp;+128</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1522)**: 11 wins (57.9%) • 6 losses (31.6%) • 2 DNFs (10.5%) • **Elo <span style="color: green;">▲&nbsp;+`128`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇰'; this.style.marginRight='5px';"/> Kevin Magnussen](kevin-magnussen) (1603)**: 7 wins (31.8%) • 15 losses (68.2%) • **Elo <span style="color: red;">▼&nbsp;`-92`</span>**
 
 #### DNF Statistics

@@ -34,7 +34,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Jody Scheckter](jody-scheckter) (1616)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;-24</span>**
+- **Races vs [Jody Scheckter](jody-scheckter) (1616)**: 0 wins (0.0%) • 1 losses (50.0%) • 1 DNFs (50.0%) • **Elo <span style="color: red;">▼&nbsp;`-24`</span>**
 - **Qualifying vs [Jody Scheckter](jody-scheckter) (1707)**: 0 wins (0.0%) • 2 losses (100.0%) • **Elo <span style="color: red;">▼&nbsp;`-32`</span>**
 
 #### DNF Statistics

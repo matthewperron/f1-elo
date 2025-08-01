@@ -34,7 +34,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher) (1518)**: 5 wins (23.8%) • 13 losses (61.9%) • 3 DNFs (14.3%) • **Elo <span style="color: red;">▼&nbsp;-19</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher) (1518)**: 5 wins (23.8%) • 13 losses (61.9%) • 3 DNFs (14.3%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Mick Schumacher](mick-schumacher) (1671)**: 3 wins (13.6%) • 19 losses (86.4%) • **Elo <span style="color: red;">▼&nbsp;`-170`</span>**
 
 #### DNF Statistics

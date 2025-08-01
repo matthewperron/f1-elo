@@ -35,7 +35,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1556)**: 5 wins (27.8%) • 8 losses (44.4%) • 5 DNFs (27.8%) • **Elo <span style="color: green;">▲&nbsp;+36</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1556)**: 5 wins (27.8%) • 8 losses (44.4%) • 5 DNFs (27.8%) • **Elo <span style="color: green;">▲&nbsp;+`36`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Timo Glock](timo-glock) (1661)**: 6 wins (30.0%) • 14 losses (70.0%) • **Elo <span style="color: red;">▼&nbsp;`-50`</span>**
 
 #### DNF Statistics
@@ -79,7 +79,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Giedo van der Garde](giedo-van-der-garde) (1510)**: 10 wins (55.6%) • 4 losses (22.2%) • 4 DNFs (22.2%) • **Elo <span style="color: red;">▼&nbsp;-8</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Giedo van der Garde](giedo-van-der-garde) (1510)**: 10 wins (55.6%) • 4 losses (22.2%) • 4 DNFs (22.2%) • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Giedo van der Garde](giedo-van-der-garde) (1511)**: 9 wins (47.4%) • 10 losses (52.6%) • **Elo <span style="color: red;">▼&nbsp;`-11`</span>**
 
 #### DNF Statistics

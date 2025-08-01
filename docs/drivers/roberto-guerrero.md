@@ -34,7 +34,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Johnny Cecotto](johnny-cecotto) (1580)**: 0 wins (0.0%) • 3 losses (37.5%) • 5 DNFs (62.5%) • **Elo <span style="color: red;">▼&nbsp;-80</span>**
+- **Races vs [Johnny Cecotto](johnny-cecotto) (1580)**: 0 wins (0.0%) • 3 losses (37.5%) • 5 DNFs (62.5%) • **Elo <span style="color: red;">▼&nbsp;`-80`</span>**
 - **Qualifying vs [Johnny Cecotto](johnny-cecotto) (1439)**: 6 wins (66.7%) • 3 losses (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`61`</span>**
 
 #### DNF Statistics

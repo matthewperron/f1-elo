@@ -35,7 +35,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Narain Karthikeyan](narain-karthikeyan) (1423)**: 8 wins (53.3%) • 6 losses (40.0%) • 1 DNFs (6.7%) • **Elo <span style="color: green;">▲&nbsp;+76</span>**
+- **Races vs [Narain Karthikeyan](narain-karthikeyan) (1423)**: 8 wins (53.3%) • 6 losses (40.0%) • 1 DNFs (6.7%) • **Elo <span style="color: green;">▲&nbsp;+`76`</span>**
 - **Qualifying vs [Narain Karthikeyan](narain-karthikeyan) (1504)**: 9 wins (47.4%) • 10 losses (52.6%) • **Elo <span style="color: red;">▼&nbsp;`-3`</span>**
 
 #### DNF Statistics
@@ -78,7 +78,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1627)**: 4 wins (28.6%) • 6 losses (42.9%) • 4 DNFs (28.6%) • **Elo <span style="color: red;">▼&nbsp;-66</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1627)**: 4 wins (28.6%) • 6 losses (42.9%) • 4 DNFs (28.6%) • **Elo <span style="color: red;">▼&nbsp;`-66`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Christijan Albers](christijan-albers) (1575)**: 8 wins (44.4%) • 10 losses (55.6%) • **Elo <span style="color: green;">▲&nbsp;+`20`</span>**
 
 #### DNF Statistics

@@ -44,7 +44,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1588)**: 5 wins (29.4%) • 7 losses (41.2%) • 5 DNFs (29.4%) • **Elo <span style="color: red;">▼&nbsp;-77</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1588)**: 5 wins (29.4%) • 7 losses (41.2%) • 5 DNFs (29.4%) • **Elo <span style="color: red;">▼&nbsp;`-77`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Giancarlo Fisichella](giancarlo-fisichella) (1582)**: 7 wins (41.2%) • 10 losses (58.8%) • **Elo <span style="color: green;">▲&nbsp;+`2`</span>**
 
 #### DNF Statistics
@@ -85,7 +85,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill) (1517)**: 3 wins (25.0%) • 4 losses (33.3%) • 5 DNFs (41.7%) • **Elo <span style="color: green;">▲&nbsp;+27</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill) (1517)**: 3 wins (25.0%) • 4 losses (33.3%) • 5 DNFs (41.7%) • **Elo <span style="color: green;">▲&nbsp;+`27`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Damon Hill](damon-hill) (1491)**: 10 wins (62.5%) • 6 losses (37.5%) • **Elo <span style="color: green;">▲&nbsp;+`122`</span>**
 
 #### DNF Statistics
@@ -125,7 +125,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi) (1359)**: 5 wins (62.5%) • 2 losses (25.0%) • 1 DNFs (12.5%) • **Elo <span style="color: green;">▲&nbsp;+23</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi) (1359)**: 5 wins (62.5%) • 2 losses (25.0%) • 1 DNFs (12.5%) • **Elo <span style="color: green;">▲&nbsp;+`23`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Alessandro Zanardi](alessandro-zanardi) (1542)**: 10 wins (62.5%) • 6 losses (37.5%) • **Elo <span style="color: red;">▼&nbsp;`-31`</span>**
 
 #### DNF Statistics
@@ -165,7 +165,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1453)**: 6 wins (46.2%) • 3 losses (23.1%) • 4 DNFs (30.8%) • **Elo <span style="color: green;">▲&nbsp;+46</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1453)**: 6 wins (46.2%) • 3 losses (23.1%) • 4 DNFs (30.8%) • **Elo <span style="color: green;">▲&nbsp;+`46`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jenson Button](jenson-button) (1519)**: 11 wins (64.7%) • 6 losses (35.3%) • **Elo <span style="color: red;">▼&nbsp;`-18`</span>**
 
 #### DNF Statistics
@@ -206,7 +206,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1526)**: 4 wins (36.4%) • 3 losses (27.3%) • 4 DNFs (36.4%) • **Elo <span style="color: red;">▼&nbsp;-25</span>**
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1526)**: 4 wins (36.4%) • 3 losses (27.3%) • 4 DNFs (36.4%) • **Elo <span style="color: red;">▼&nbsp;`-25`</span>**
 - **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1553)**: 11 wins (64.7%) • 6 losses (35.3%) • **Elo <span style="color: red;">▼&nbsp;`-53`</span>**
 
 #### DNF Statistics
@@ -247,7 +247,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1578)**: 5 wins (31.3%) • 7 losses (43.8%) • 4 DNFs (25.0%) • **Elo <span style="color: red;">▼&nbsp;-52</span>**
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1578)**: 5 wins (31.3%) • 7 losses (43.8%) • 4 DNFs (25.0%) • **Elo <span style="color: red;">▼&nbsp;`-52`</span>**
 - **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1537)**: 8 wins (47.1%) • 9 losses (52.9%) • **Elo <span style="color: green;">▲&nbsp;+`18`</span>**
 
 #### DNF Statistics
@@ -288,7 +288,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1613)**: 6 wins (46.2%) • 7 losses (53.8%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;-1</span>**
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1613)**: 6 wins (46.2%) • 7 losses (53.8%) • 0 DNFs (0.0%) • **Elo <span style="color: red;">▼&nbsp;`-1`</span>**
 - **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1577)**: 9 wins (60.0%) • 6 losses (40.0%) • **Elo <span style="color: green;">▲&nbsp;+`7`</span>**
 
 #### DNF Statistics
@@ -327,7 +327,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1661)**: 3 wins (27.3%) • 4 losses (36.4%) • 4 DNFs (36.4%) • **Elo <span style="color: green;">▲&nbsp;+44</span>**
+- **Races vs [Juan Pablo Montoya](juan-pablo-montoya) (1661)**: 3 wins (27.3%) • 4 losses (36.4%) • 4 DNFs (36.4%) • **Elo <span style="color: green;">▲&nbsp;+`44`</span>**
 - **Qualifying vs [Juan Pablo Montoya](juan-pablo-montoya) (1645)**: 3 wins (25.0%) • 9 losses (75.0%) • **Elo <span style="color: red;">▼&nbsp;`-19`</span>**
 
 #### DNF Statistics
@@ -363,7 +363,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1509)**: 8 wins (47.1%) • 9 losses (52.9%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+167</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1509)**: 8 wins (47.1%) • 9 losses (52.9%) • 0 DNFs (0.0%) • **Elo <span style="color: green;">▲&nbsp;+`167`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1665)**: 4 wins (22.2%) • 14 losses (77.8%) • **Elo <span style="color: green;">▲&nbsp;+`59`</span>**
 
 #### DNF Statistics
@@ -405,7 +405,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1604)**: 4 wins (28.6%) • 4 losses (28.6%) • 6 DNFs (42.9%) • **Elo <span style="color: red;">▼&nbsp;-95</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1604)**: 4 wins (28.6%) • 4 losses (28.6%) • 6 DNFs (42.9%) • **Elo <span style="color: red;">▼&nbsp;`-95`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1625)**: 9 wins (50.0%) • 9 losses (50.0%) • **Elo <span style="color: green;">▲&nbsp;+`38`</span>**
 
 #### DNF Statistics
@@ -447,7 +447,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1622)**: 6 wins (35.3%) • 8 losses (47.1%) • 3 DNFs (17.6%) • **Elo <span style="color: red;">▼&nbsp;-18</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1622)**: 6 wins (35.3%) • 8 losses (47.1%) • 3 DNFs (17.6%) • **Elo <span style="color: red;">▼&nbsp;`-18`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Jarno Trulli](jarno-trulli) (1721)**: 3 wins (17.6%) • 14 losses (82.4%) • **Elo <span style="color: red;">▼&nbsp;`-97`</span>**
 
 #### DNF Statistics

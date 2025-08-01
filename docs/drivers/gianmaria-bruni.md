@@ -34,7 +34,7 @@
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [Zsolt Baumgartner](zsolt-baumgartner) (1491)**: 6 wins (40.0%) • 4 losses (26.7%) • 5 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;-10</span>**
+- **Races vs [Zsolt Baumgartner](zsolt-baumgartner) (1491)**: 6 wins (40.0%) • 4 losses (26.7%) • 5 DNFs (33.3%) • **Elo <span style="color: red;">▼&nbsp;`-10`</span>**
 - **Qualifying vs [Zsolt Baumgartner](zsolt-baumgartner) (1422)**: 12 wins (66.7%) • 6 losses (33.3%) • **Elo <span style="color: green;">▲&nbsp;+`54`</span>**
 
 #### DNF Statistics
