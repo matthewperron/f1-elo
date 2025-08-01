@@ -52,7 +52,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | BMW | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1531 **<span style="color: green;">▲&nbsp;`+9`</span>** | N/A | 1509 **<span style="color: green;">▲&nbsp;`+3`</span>** | [Ernst Klodwig](ernst-klodwig)<br/><small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | BMW | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1531 **<span style="color: green;">▲&nbsp;`+9`</span>** | N/A | 1509 **<span style="color: green;">▲&nbsp;`+3`</span>** | [Ernst Klodwig](ernst-klodwig)<br/><small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
 
 ### 1953 Season
 
@@ -77,5 +77,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | BMW | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1559 **<span style="color: green;">▲&nbsp;`+28`</span>** | 1532 **<span style="color: green;">▲&nbsp;`+32`</span>** | 1540 **<span style="color: green;">▲&nbsp;`+31`</span>** | [Ernst Klodwig](ernst-klodwig)<br/><small>Q:&nbsp;**`32`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | BMW | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1559 **<span style="color: green;">▲&nbsp;`+28`</span>** | 1532 **<span style="color: green;">▲&nbsp;`+32`</span>** | 1540 **<span style="color: green;">▲&nbsp;`+31`</span>** | [Ernst Klodwig](ernst-klodwig)<br/><small>Q:&nbsp;**`32`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
 

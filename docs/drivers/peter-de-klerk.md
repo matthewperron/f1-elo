@@ -46,7 +46,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | Brabham-Repco | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1534 **<span style="color: green;">▲&nbsp;`+34`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+10`</span>** | [Sam Tingle](sam-tingle)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 1 - South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | Brabham-Repco | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1534 **<span style="color: green;">▲&nbsp;`+34`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+10`</span>** | [Sam Tingle](sam-tingle)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1970 Season
 
@@ -74,5 +74,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | Brabham | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1508 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1495 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 1 - South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | Brabham | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1508 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1495 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Jack Brabham](jack-brabham)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 

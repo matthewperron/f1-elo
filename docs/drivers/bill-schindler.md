@@ -88,7 +88,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1486 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1496 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lee Wallard](lee-wallard)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1486 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1496 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lee Wallard](lee-wallard)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1952 Season
 
@@ -113,5 +113,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Stevens | <small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1522 **<span style="color: green;">▲&nbsp;`+36`</span>** | N/A | 1507 **<span style="color: green;">▲&nbsp;`+11`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Stevens | <small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1522 **<span style="color: green;">▲&nbsp;`+36`</span>** | N/A | 1507 **<span style="color: green;">▲&nbsp;`+11`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bobby Ball](bobby-ball)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

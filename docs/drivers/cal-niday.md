@@ -98,7 +98,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1473 **<span style="color: red;">▼&nbsp;`-2`</span>** | N/A | 1492 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1473 **<span style="color: red;">▼&nbsp;`-2`</span>** | N/A | 1492 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1954 Season
 
@@ -123,7 +123,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Stevens | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> | 1507 **<span style="color: green;">▲&nbsp;`+34`</span>** | N/A | 1502 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ed Elisian](ed-elisian)<br/><small>Q:&nbsp;**`31`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Stevens | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> | 1507 **<span style="color: green;">▲&nbsp;`+34`</span>** | N/A | 1502 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Ed Elisian](ed-elisian)<br/><small>Q:&nbsp;**`31`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1955 Season
 
@@ -205,5 +205,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1517 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1490 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1496 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Sweikert](bob-sweikert)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1517 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1490 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1496 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Sweikert](bob-sweikert)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 

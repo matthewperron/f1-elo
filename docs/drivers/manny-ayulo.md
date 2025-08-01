@@ -50,7 +50,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Lesovsky | <small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1469 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Lesovsky | <small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1469 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
 
 ### 1953 Season
 
@@ -84,7 +84,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1502 **<span style="color: green;">▲&nbsp;`+8`</span>** | N/A | 1501 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Tony Bettenhausen](tony-bettenhausen)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1502 **<span style="color: green;">▲&nbsp;`+8`</span>** | N/A | 1501 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Tony Bettenhausen](tony-bettenhausen)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 
 ### 1954 Season
 
@@ -112,5 +112,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1470 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1469 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1470 **<span style="color: red;">▼&nbsp;`-16`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jimmy Bryan](jimmy-bryan)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1470 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1469 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1470 **<span style="color: red;">▼&nbsp;`-16`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jimmy Bryan](jimmy-bryan)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 

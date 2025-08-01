@@ -55,7 +55,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: Italian Grand Prix](../seasons/1958-season-report#round-10-italian-grand-prix) | Maserati | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1481 **<span style="color: red;">▼&nbsp;`-5`</span>** | N/A | 1494 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Carroll Shelby](carroll-shelby)<br/><small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
+| [Round 10 - Italian Grand Prix](../seasons/1958-season-report#round-10-italian-grand-prix) | Maserati | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1481 **<span style="color: red;">▼&nbsp;`-5`</span>** | N/A | 1494 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Carroll Shelby](carroll-shelby)<br/><small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
 
 ### 1960 Season
 
@@ -80,5 +80,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | Cooper-Castellotti | <small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> | 1516 **<span style="color: green;">▲&nbsp;`+35`</span>** | N/A | 1505 **<span style="color: green;">▲&nbsp;`+11`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gino Munaron](gino-munaron)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
+| [Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | Cooper-Castellotti | <small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> | 1516 **<span style="color: green;">▲&nbsp;`+35`</span>** | N/A | 1505 **<span style="color: green;">▲&nbsp;`+11`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Gino Munaron](gino-munaron)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 

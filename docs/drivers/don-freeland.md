@@ -107,7 +107,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1957-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1493 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1498 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Paul Russo](paul-russo)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1957-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1493 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1498 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Paul Russo](paul-russo)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
 
 ### 1959 Season
 
@@ -162,7 +162,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1485 **<span style="color: green;">▲&nbsp;`+3`</span>** | N/A | 1496 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1485 **<span style="color: green;">▲&nbsp;`+3`</span>** | N/A | 1496 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
 
 ### 1960 Season
 
@@ -205,5 +205,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1516 **<span style="color: green;">▲&nbsp;`+4`</span>** | N/A | 1505 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Christie](bob-christie)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1516 **<span style="color: green;">▲&nbsp;`+4`</span>** | N/A | 1505 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Christie](bob-christie)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

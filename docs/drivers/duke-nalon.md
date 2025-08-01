@@ -89,7 +89,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1530 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1509 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lee Wallard](lee-wallard)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1530 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1509 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lee Wallard](lee-wallard)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1952 Season
 
@@ -171,7 +171,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1549 **<span style="color: red;">▼&nbsp;`-2`</span>** | N/A | 1513 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Rathmann](jim-rathmann)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1549 **<span style="color: red;">▼&nbsp;`-2`</span>** | N/A | 1513 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Rathmann](jim-rathmann)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1953 Season
 
@@ -247,5 +247,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1524 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1494 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1524 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1494 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 

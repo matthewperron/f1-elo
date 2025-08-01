@@ -55,7 +55,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | ERA | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1516 **<span style="color: green;">▲&nbsp;`+8`</span>** | N/A | 1505 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Gerard](bob-gerard)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
+| [Round 1 - British Grand Prix](../seasons/1950-season-report#round-1-british-grand-prix) | ERA | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1516 **<span style="color: green;">▲&nbsp;`+8`</span>** | N/A | 1505 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Bob Gerard](bob-gerard)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
 
 ### 1953 Season
 
@@ -89,5 +89,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix) | Connaught | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1546 **<span style="color: green;">▲&nbsp;`+6`</span>** | N/A | 1514 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 6 - British Grand Prix](../seasons/1953-season-report#round-6-british-grand-prix) | Connaught | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1546 **<span style="color: green;">▲&nbsp;`+6`</span>** | N/A | 1514 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇹🇭'; this.style.marginRight='5px';"/> Prince Bira](prince-bira)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

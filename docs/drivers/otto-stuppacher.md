@@ -51,5 +51,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 13: Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix) | Tyrrell | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1472 **<span style="color: red;">▼&nbsp;`-12`</span>** | N/A | 1492 **<span style="color: red;">▼&nbsp;`-4`</span>** | [Jody Scheckter](jody-scheckter)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
+| [Round 13 - Italian Grand Prix](../seasons/1976-season-report#round-13-italian-grand-prix) | Tyrrell | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1472 **<span style="color: red;">▼&nbsp;`-12`</span>** | N/A | 1492 **<span style="color: red;">▼&nbsp;`-4`</span>** | [Jody Scheckter](jody-scheckter)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
 

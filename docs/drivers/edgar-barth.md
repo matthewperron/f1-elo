@@ -52,7 +52,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix) | Porsche | <small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1533 **<span style="color: green;">▲&nbsp;`+17`</span>** | N/A | 1521 **<span style="color: green;">▲&nbsp;`+5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Carel Godin de Beaufort](carel-godin-de-beaufort)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix) | Porsche | <small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1533 **<span style="color: green;">▲&nbsp;`+17`</span>** | N/A | 1521 **<span style="color: green;">▲&nbsp;`+5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Carel Godin de Beaufort](carel-godin-de-beaufort)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> |
 
 ### 1958 Season
 
@@ -77,7 +77,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 8: German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix) | Porsche | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> | 1559 **<span style="color: green;">▲&nbsp;`+26`</span>** | N/A | 1529 **<span style="color: green;">▲&nbsp;`+8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Carel Godin de Beaufort](carel-godin-de-beaufort)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 8 - German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix) | Porsche | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> | 1559 **<span style="color: green;">▲&nbsp;`+26`</span>** | N/A | 1529 **<span style="color: green;">▲&nbsp;`+8`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Carel Godin de Beaufort](carel-godin-de-beaufort)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1960 Season
 
@@ -102,7 +102,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | Porsche | <small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1516 **<span style="color: red;">▼&nbsp;`-43`</span>** | 1482 **<span style="color: red;">▼&nbsp;`-34`</span>** | 1492 **<span style="color: red;">▼&nbsp;`-37`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans Herrmann](hans-herrmann)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
+| [Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | Porsche | <small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1516 **<span style="color: red;">▼&nbsp;`-43`</span>** | 1482 **<span style="color: red;">▼&nbsp;`-34`</span>** | 1492 **<span style="color: red;">▼&nbsp;`-37`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans Herrmann](hans-herrmann)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
 
 ### 1961 Season
 
@@ -136,8 +136,8 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1961-season-report#round-6-german-grand-prix) | Porsche | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1485 **<span style="color: red;">▼&nbsp;`-4`</span>** | N/A | 1483 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
-| [Round 7: Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix) | Porsche | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1459 **<span style="color: red;">▼&nbsp;`-5`</span>** | N/A | 1475 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1961-season-report#round-6-german-grand-prix) | Porsche | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1485 **<span style="color: red;">▼&nbsp;`-4`</span>** | N/A | 1483 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
+| [Round 7 - Italian Grand Prix](../seasons/1961-season-report#round-7-italian-grand-prix) | Porsche | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1459 **<span style="color: red;">▼&nbsp;`-5`</span>** | N/A | 1475 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Dan Gurney](dan-gurney)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1964 Season
 
@@ -165,5 +165,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1964-season-report#round-6-german-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1446 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1471 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1964-season-report#round-6-german-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1446 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1471 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

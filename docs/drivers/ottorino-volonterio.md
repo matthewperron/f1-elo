@@ -71,7 +71,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix) | Maserati | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1469 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1491 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luigi Musso](luigi-musso)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 9 - Spanish Grand Prix](../seasons/1954-season-report#round-9-spanish-grand-prix) | Maserati | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1469 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1491 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Luigi Musso](luigi-musso)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1956 Season
 
@@ -129,7 +129,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: German Grand Prix](../seasons/1956-season-report#round-7-german-grand-prix) | Maserati | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1459 **<span style="color: green;">▲&nbsp;`+3`</span>** | N/A | 1482 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 7 - German Grand Prix](../seasons/1956-season-report#round-7-german-grand-prix) | Maserati | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1459 **<span style="color: green;">▲&nbsp;`+3`</span>** | N/A | 1482 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Stirling Moss](stirling-moss)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1957 Season
 
@@ -178,5 +178,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 8: Italian Grand Prix](../seasons/1957-season-report#round-8-italian-grand-prix) | Maserati | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1448 **<span style="color: green;">▲&nbsp;`+3`</span>** | N/A | 1478 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Juan Fangio](juan-fangio)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 8 - Italian Grand Prix](../seasons/1957-season-report#round-8-italian-grand-prix) | Maserati | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1448 **<span style="color: green;">▲&nbsp;`+3`</span>** | N/A | 1478 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Juan Fangio](juan-fangio)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 

@@ -109,7 +109,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1509 **<span style="color: red;">▼&nbsp;`-2`</span>** | N/A | 1515 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Sam Hanks](sam-hanks)<br/><small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1509 **<span style="color: red;">▼&nbsp;`-2`</span>** | N/A | 1515 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Sam Hanks](sam-hanks)<br/><small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
 
 ### 1953 Season
 
@@ -188,7 +188,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1469 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1492 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1469 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1492 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1954 Season
 
@@ -264,7 +264,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`28`**</small> | 1451 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1486 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1469 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`28`**</small> | 1451 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1486 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1469 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1956 Season
 
@@ -352,7 +352,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1486 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1481 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Sam Hanks](sam-hanks)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1486 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1481 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Sam Hanks](sam-hanks)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1957 Season
 
@@ -377,7 +377,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1957-season-report#round-3-indianapolis-500) | Epperly | <small>Q:&nbsp;**`32`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1457 **<span style="color: red;">▼&nbsp;`-29`</span>** | 1458 **<span style="color: red;">▼&nbsp;`-28`</span>** | 1453 **<span style="color: red;">▼&nbsp;`-28`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Sam Hanks](sam-hanks)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1957-season-report#round-3-indianapolis-500) | Epperly | <small>Q:&nbsp;**`32`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1457 **<span style="color: red;">▼&nbsp;`-29`</span>** | 1458 **<span style="color: red;">▼&nbsp;`-28`</span>** | 1453 **<span style="color: red;">▼&nbsp;`-28`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Sam Hanks](sam-hanks)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1958 Season
 
@@ -408,7 +408,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500) | Epperly | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1452 **<span style="color: red;">▼&nbsp;`-9`</span>** | 1433 **<span style="color: red;">▼&nbsp;`-9`</span>** | 1434 **<span style="color: red;">▼&nbsp;`-9`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jimmy Bryan](jimmy-bryan)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 4 - Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500) | Epperly | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1452 **<span style="color: red;">▼&nbsp;`-9`</span>** | 1433 **<span style="color: red;">▼&nbsp;`-9`</span>** | 1434 **<span style="color: red;">▼&nbsp;`-9`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jimmy Bryan](jimmy-bryan)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1959 Season
 
@@ -439,7 +439,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Watson | <small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1486 **<span style="color: green;">▲&nbsp;`+13`</span>** | N/A | 1446 **<span style="color: green;">▲&nbsp;`+4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Rodger Ward](rodger-ward)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Watson | <small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1486 **<span style="color: green;">▲&nbsp;`+13`</span>** | N/A | 1446 **<span style="color: green;">▲&nbsp;`+4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Rodger Ward](rodger-ward)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1960 Season
 
@@ -482,5 +482,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Watson | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> | 1517 **<span style="color: green;">▲&nbsp;`+5`</span>** | N/A | 1466 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Rodger Ward](rodger-ward)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Watson | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> | 1517 **<span style="color: green;">▲&nbsp;`+5`</span>** | N/A | 1466 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Rodger Ward](rodger-ward)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 

@@ -97,7 +97,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`33`**</small> | 1500 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1480 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`33`**</small> | 1500 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1480 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1960 Season
 
@@ -122,5 +122,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`31`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1477 **<span style="color: red;">▼&nbsp;`-23`</span>** | 1449 **<span style="color: red;">▼&nbsp;`-28`</span>** | 1454 **<span style="color: red;">▼&nbsp;`-26`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`27`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`31`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1477 **<span style="color: red;">▼&nbsp;`-23`</span>** | 1449 **<span style="color: red;">▼&nbsp;`-28`</span>** | 1454 **<span style="color: red;">▼&nbsp;`-26`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`27`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
 

@@ -45,5 +45,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | LDS | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [Sam Tingle](sam-tingle)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 10 - South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | LDS | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1467 **<span style="color: red;">▼&nbsp;`-33`</span>** | N/A | 1490 **<span style="color: red;">▼&nbsp;`-10`</span>** | [Sam Tingle](sam-tingle)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

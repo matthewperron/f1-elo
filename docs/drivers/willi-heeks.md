@@ -46,7 +46,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | AFM | <small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1532 **<span style="color: green;">▲&nbsp;`+32`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Helmut Niedermayr](helmut-niedermayr)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | AFM | <small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1532 **<span style="color: green;">▲&nbsp;`+32`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Helmut Niedermayr](helmut-niedermayr)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 
 ### 1953 Season
 
@@ -86,5 +86,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | Veritas | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1550 **<span style="color: green;">▲&nbsp;`+4`</span>** | N/A | 1515 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans Herrmann](hans-herrmann)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | Veritas | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1550 **<span style="color: green;">▲&nbsp;`+4`</span>** | N/A | 1515 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Hans Herrmann](hans-herrmann)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 

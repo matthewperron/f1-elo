@@ -76,7 +76,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1530 **<span style="color: green;">▲&nbsp;`+3`</span>** | N/A | 1509 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1530 **<span style="color: green;">▲&nbsp;`+3`</span>** | N/A | 1509 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
 
 ### 1960 Season
 
@@ -101,5 +101,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Meskowski | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1561 **<span style="color: green;">▲&nbsp;`+31`</span>** | 1468 **<span style="color: red;">▼&nbsp;`-32`</span>** | 1496 **<span style="color: red;">▼&nbsp;`-13`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Veith](bob-veith)<br/><small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Meskowski | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1561 **<span style="color: green;">▲&nbsp;`+31`</span>** | 1468 **<span style="color: red;">▼&nbsp;`-32`</span>** | 1496 **<span style="color: red;">▼&nbsp;`-13`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Veith](bob-veith)<br/><small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
 

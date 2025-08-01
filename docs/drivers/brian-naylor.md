@@ -59,7 +59,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix) | Cooper | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1521 **<span style="color: green;">▲&nbsp;`+6`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Tony Marsh](tony-marsh)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1957-season-report#round-6-german-grand-prix) | Cooper | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> | 1521 **<span style="color: green;">▲&nbsp;`+6`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Tony Marsh](tony-marsh)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> |
 
 ### 1958 Season
 
@@ -108,7 +108,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 8: German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix) | Cooper | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1489 **<span style="color: red;">▼&nbsp;`-3`</span>** | N/A | 1500 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Roy Salvadori](roy-salvadori)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 8 - German Grand Prix](../seasons/1958-season-report#round-8-german-grand-prix) | Cooper | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1489 **<span style="color: red;">▼&nbsp;`-3`</span>** | N/A | 1500 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Roy Salvadori](roy-salvadori)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1960 Season
 
@@ -139,5 +139,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: United States Grand Prix](../seasons/1960-season-report#round-10-united-states-grand-prix) | Cooper-Maserati | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1501 **<span style="color: green;">▲&nbsp;`+10`</span>** | N/A | 1504 **<span style="color: green;">▲&nbsp;`+3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang von Trips](wolfgang-von-trips)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
+| [Round 10 - United States Grand Prix](../seasons/1960-season-report#round-10-united-states-grand-prix) | Cooper-Maserati | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1501 **<span style="color: green;">▲&nbsp;`+10`</span>** | N/A | 1504 **<span style="color: green;">▲&nbsp;`+3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Wolfgang von Trips](wolfgang-von-trips)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 

@@ -54,7 +54,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1957-season-report#round-3-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1532 **<span style="color: green;">▲&nbsp;`+9`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jimmy Bryan](jimmy-bryan)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1957-season-report#round-3-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1532 **<span style="color: green;">▲&nbsp;`+9`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jimmy Bryan](jimmy-bryan)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
 
 ### 1958 Season
 
@@ -88,7 +88,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1543 **<span style="color: green;">▲&nbsp;`+7`</span>** | N/A | 1513 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Tolan](johnnie-tolan)<br/><small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> |
+| [Round 4 - Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1543 **<span style="color: green;">▲&nbsp;`+7`</span>** | N/A | 1513 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Tolan](johnnie-tolan)<br/><small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> |
 
 ### 1959 Season
 
@@ -122,7 +122,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> | 1570 **<span style="color: green;">▲&nbsp;`+5`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Anthony Foyt](anthony-foyt)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> | 1570 **<span style="color: green;">▲&nbsp;`+5`</span>** | N/A | 1510 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Anthony Foyt](anthony-foyt)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 
 ### 1960 Season
 
@@ -147,5 +147,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Ewing | <small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1594 **<span style="color: green;">▲&nbsp;`+24`</span>** | N/A | 1517 **<span style="color: green;">▲&nbsp;`+7`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Al Herman](al-herman)<br/><small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Ewing | <small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1594 **<span style="color: green;">▲&nbsp;`+24`</span>** | N/A | 1517 **<span style="color: green;">▲&nbsp;`+7`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Al Herman](al-herman)<br/><small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

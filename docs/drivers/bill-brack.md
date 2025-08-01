@@ -53,7 +53,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix) | Lotus-Ford | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1479 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1494 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)<br/><small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
+| [Round 10 - Canadian Grand Prix](../seasons/1968-season-report#round-10-canadian-grand-prix) | Lotus-Ford | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1479 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1494 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)<br/><small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
 
 ### 1969 Season
 
@@ -81,7 +81,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: Canadian Grand Prix](../seasons/1969-season-report#round-9-canadian-grand-prix) | BRM | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1462 **<span style="color: red;">▼&nbsp;`-14`</span>** | N/A | 1489 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 9 - Canadian Grand Prix](../seasons/1969-season-report#round-9-canadian-grand-prix) | BRM | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1462 **<span style="color: red;">▼&nbsp;`-14`</span>** | N/A | 1489 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Surtees](john-surtees)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1972 Season
 
@@ -112,5 +112,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 11: Canadian Grand Prix](../seasons/1972-season-report#round-11-canadian-grand-prix) | BRM | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`22`**</small> | 1436 **<span style="color: red;">▼&nbsp;`-8`</span>** | N/A | 1474 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
+| [Round 11 - Canadian Grand Prix](../seasons/1972-season-report#round-11-canadian-grand-prix) | BRM | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`22`**</small> | 1436 **<span style="color: red;">▼&nbsp;`-8`</span>** | N/A | 1474 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Howden Ganley](howden-ganley)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

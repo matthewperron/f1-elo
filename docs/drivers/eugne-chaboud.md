@@ -61,7 +61,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 5: Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix) | Talbot-Lago | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1479 **<span style="color: red;">▼&nbsp;`-4`</span>** | N/A | 1494 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Louis Rosier](louis-rosier)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
+| [Round 5 - Belgian Grand Prix](../seasons/1950-season-report#round-5-belgian-grand-prix) | Talbot-Lago | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1479 **<span style="color: red;">▼&nbsp;`-4`</span>** | N/A | 1494 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Louis Rosier](louis-rosier)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
 
 ### 1951 Season
 
@@ -101,5 +101,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix) | Talbot-Lago | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1460 **<span style="color: red;">▼&nbsp;`-4`</span>** | N/A | 1488 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Louis Chiron](louis-chiron)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
+| [Round 4 - French Grand Prix](../seasons/1951-season-report#round-4-french-grand-prix) | Talbot-Lago | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1460 **<span style="color: red;">▼&nbsp;`-4`</span>** | N/A | 1488 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg" alt="Monaco" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇲🇨'; this.style.marginRight='5px';"/> Louis Chiron](louis-chiron)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 

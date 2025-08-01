@@ -46,7 +46,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | Tyrrell | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1463 **<span style="color: red;">▼&nbsp;`-37`</span>** | 1523 **<span style="color: green;">▲&nbsp;`+23`</span>** | 1505 **<span style="color: green;">▲&nbsp;`+5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi](didier-pironi)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 10 - German Grand Prix](../seasons/1979-season-report#round-10-german-grand-prix) | Tyrrell | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1463 **<span style="color: red;">▼&nbsp;`-37`</span>** | 1523 **<span style="color: green;">▲&nbsp;`+23`</span>** | 1505 **<span style="color: green;">▲&nbsp;`+5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Didier Pironi](didier-pironi)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 
 ### 1982 Season
 
@@ -71,5 +71,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 11: French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix) | Team Lotus | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1444 **<span style="color: red;">▼&nbsp;`-19`</span>** | N/A | 1499 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](elio-de-angelis)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 11 - French Grand Prix](../seasons/1982-season-report#round-11-french-grand-prix) | Team Lotus | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1444 **<span style="color: red;">▼&nbsp;`-19`</span>** | N/A | 1499 **<span style="color: red;">▼&nbsp;`-6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Elio de Angelis](elio-de-angelis)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

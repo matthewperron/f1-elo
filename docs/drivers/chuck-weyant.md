@@ -104,7 +104,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1480 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1494 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1488 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Sweikert](bob-sweikert)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1480 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1494 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1488 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Sweikert](bob-sweikert)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1957 Season
 
@@ -135,7 +135,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1957-season-report#round-3-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1453 **<span style="color: red;">▼&nbsp;`-9`</span>** | N/A | 1466 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jimmy Bryan](jimmy-bryan)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1957-season-report#round-3-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1453 **<span style="color: red;">▼&nbsp;`-9`</span>** | N/A | 1466 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jimmy Bryan](jimmy-bryan)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
 
 ### 1959 Season
 
@@ -190,5 +190,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`28`**</small> | 1432 **<span style="color: red;">▼&nbsp;`-2`</span>** | 1464 **<span style="color: green;">▲&nbsp;`+3`</span>** | 1452 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`28`**</small> | 1432 **<span style="color: red;">▼&nbsp;`-2`</span>** | 1464 **<span style="color: green;">▲&nbsp;`+3`</span>** | 1452 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Duane Carter](duane-carter)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
 

@@ -69,5 +69,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix) | Maserati | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1474 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1493 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 1 - Argentine Grand Prix](../seasons/1956-season-report#round-1-argentine-grand-prix) | Maserati | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1474 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1493 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 

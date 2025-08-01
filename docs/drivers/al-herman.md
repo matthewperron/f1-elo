@@ -104,7 +104,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1498 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1506 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1506 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Sweikert](bob-sweikert)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1498 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1506 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1506 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Sweikert](bob-sweikert)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1956 Season
 
@@ -192,7 +192,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`27`**&nbsp;•&nbsp;R:&nbsp;**`28`**</small> | 1476 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1496 **<span style="color: green;">▲&nbsp;`+1`</span>** | 1494 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Sam Hanks](sam-hanks)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`27`**&nbsp;•&nbsp;R:&nbsp;**`28`**</small> | 1476 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1496 **<span style="color: green;">▲&nbsp;`+1`</span>** | 1494 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Sam Hanks](sam-hanks)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1960 Season
 
@@ -217,5 +217,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Ewing | <small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1452 **<span style="color: red;">▼&nbsp;`-24`</span>** | N/A | 1487 **<span style="color: red;">▼&nbsp;`-7`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Sachs](eddie-sachs)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Ewing | <small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1452 **<span style="color: red;">▼&nbsp;`-24`</span>** | N/A | 1487 **<span style="color: red;">▼&nbsp;`-7`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Eddie Sachs](eddie-sachs)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

@@ -55,7 +55,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`32`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1469 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Tolan](johnnie-tolan)<br/><small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> |
+| [Round 4 - Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`32`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1469 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Tolan](johnnie-tolan)<br/><small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> |
 
 ### 1960 Season
 
@@ -98,5 +98,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`33`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1441 **<span style="color: red;">▼&nbsp;`-4`</span>** | N/A | 1483 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Christie](bob-christie)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`33`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1441 **<span style="color: red;">▼&nbsp;`-4`</span>** | N/A | 1483 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Christie](bob-christie)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

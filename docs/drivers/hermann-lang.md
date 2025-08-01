@@ -58,7 +58,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 8: Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | Maserati | <small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1483 **<span style="color: red;">▼&nbsp;`-3`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Felice Bonetto](felice-bonetto)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
+| [Round 8 - Swiss Grand Prix](../seasons/1953-season-report#round-8-swiss-grand-prix) | Maserati | <small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1483 **<span style="color: red;">▼&nbsp;`-3`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Felice Bonetto](felice-bonetto)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
 
 ### 1954 Season
 
@@ -89,5 +89,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1954-season-report#round-6-german-grand-prix) | Mercedes | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1481 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1479 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Juan Fangio](juan-fangio)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1954-season-report#round-6-german-grand-prix) | Mercedes | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1481 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1479 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇷'; this.style.marginRight='5px';"/> Juan Fangio](juan-fangio)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 

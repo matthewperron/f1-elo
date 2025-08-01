@@ -88,7 +88,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1514 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1504 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lee Wallard](lee-wallard)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1951-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1514 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1504 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Lee Wallard](lee-wallard)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1954 Season
 
@@ -164,5 +164,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1522 **<span style="color: green;">▲&nbsp;`+1`</span>** | 1514 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1522 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1522 **<span style="color: green;">▲&nbsp;`+1`</span>** | 1514 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1522 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 

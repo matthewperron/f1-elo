@@ -62,7 +62,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 8: United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> | 1498 **<span style="color: red;">▼&nbsp;`-3`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
+| [Round 8 - United States Grand Prix](../seasons/1961-season-report#round-8-united-states-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> | 1498 **<span style="color: red;">▼&nbsp;`-3`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
 
 ### 1963 Season
 
@@ -93,7 +93,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 8: United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | Lotus-Climax | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1477 **<span style="color: red;">▼&nbsp;`-8`</span>** | N/A | 1487 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jim Clark](jim-clark)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
+| [Round 8 - United States Grand Prix](../seasons/1963-season-report#round-8-united-states-grand-prix) | Lotus-Climax | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1477 **<span style="color: red;">▼&nbsp;`-8`</span>** | N/A | 1487 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jim Clark](jim-clark)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
 
 ### 1964 Season
 
@@ -121,5 +121,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: United States Grand Prix](../seasons/1964-season-report#round-9-united-states-grand-prix) | Lotus-Climax | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1464 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1483 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jim Clark](jim-clark)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 9 - United States Grand Prix](../seasons/1964-season-report#round-9-united-states-grand-prix) | Lotus-Climax | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1464 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1483 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jim Clark](jim-clark)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

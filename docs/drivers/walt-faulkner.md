@@ -83,7 +83,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1530 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1508 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Parsons](johnnie-parsons)<br/><small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1950-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1530 **<span style="color: green;">▲&nbsp;`+2`</span>** | N/A | 1508 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnnie Parsons](johnnie-parsons)<br/><small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1953 Season
 
@@ -159,7 +159,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1530 **<span style="color: green;">▲&nbsp;`+1`</span>** | N/A | 1509 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1530 **<span style="color: green;">▲&nbsp;`+1`</span>** | N/A | 1509 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1955 Season
 
@@ -241,5 +241,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1543 **<span style="color: red;">▼&nbsp;`-2`</span>** | 1512 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1521 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Sweikert](bob-sweikert)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1543 **<span style="color: red;">▼&nbsp;`-2`</span>** | 1512 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1521 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bob Sweikert](bob-sweikert)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 

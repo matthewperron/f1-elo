@@ -65,7 +65,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix) | Lotus-Climax | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1492 **<span style="color: green;">▲&nbsp;`+5`</span>** | N/A | 1498 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
+| [Round 9 - South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix) | Lotus-Climax | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1492 **<span style="color: green;">▲&nbsp;`+5`</span>** | N/A | 1498 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Innes Ireland](innes-ireland)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
 
 ### 1963 Season
 
@@ -90,7 +90,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | LDS | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1525 **<span style="color: green;">▲&nbsp;`+33`</span>** | N/A | 1508 **<span style="color: green;">▲&nbsp;`+10`</span>** | [Doug Serrurier](doug-serrurier)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 10 - South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | LDS | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1525 **<span style="color: green;">▲&nbsp;`+33`</span>** | N/A | 1508 **<span style="color: green;">▲&nbsp;`+10`</span>** | [Doug Serrurier](doug-serrurier)<br/><small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1969 Season
 
@@ -115,5 +115,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | Brabham-Repco | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1491 **<span style="color: red;">▼&nbsp;`-34`</span>** | N/A | 1498 **<span style="color: red;">▼&nbsp;`-10`</span>** | [Peter de Klerk](peter-de-klerk)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 1 - South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | Brabham-Repco | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1491 **<span style="color: red;">▼&nbsp;`-34`</span>** | N/A | 1498 **<span style="color: red;">▼&nbsp;`-10`</span>** | [Peter de Klerk](peter-de-klerk)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 

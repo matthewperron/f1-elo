@@ -49,7 +49,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 5: British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix) | Brabham-BRM | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> | 1471 **<span style="color: red;">▼&nbsp;`-14`</span>** | N/A | 1480 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
+| [Round 5 - British Grand Prix](../seasons/1964-season-report#round-5-british-grand-prix) | Brabham-BRM | <small>Q:&nbsp;**`23`**&nbsp;•&nbsp;R:&nbsp;**`18`**</small> | 1471 **<span style="color: red;">▼&nbsp;`-14`</span>** | N/A | 1480 **<span style="color: red;">▼&nbsp;`-4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇭'; this.style.marginRight='5px';"/> Jo Siffert](jo-siffert)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 
 ### 1965 Season
 
@@ -77,5 +77,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 5: British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix) | Brabham-BRM | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1448 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1473 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Frank Gardner](frank-gardner)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
+| [Round 5 - British Grand Prix](../seasons/1965-season-report#round-5-british-grand-prix) | Brabham-BRM | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1448 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1473 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Frank Gardner](frank-gardner)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
 

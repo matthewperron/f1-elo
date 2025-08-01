@@ -49,7 +49,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 13: Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | Tyrrell | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`24`**</small> | 1464 **<span style="color: red;">▼&nbsp;`-22`</span>** | 1464 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1464 **<span style="color: red;">▼&nbsp;`-18`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
+| [Round 13 - Canadian Grand Prix](../seasons/1980-season-report#round-13-canadian-grand-prix) | Tyrrell | <small>Q:&nbsp;**`24`**&nbsp;•&nbsp;R:&nbsp;**`24`**</small> | 1464 **<span style="color: red;">▼&nbsp;`-22`</span>** | 1464 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1464 **<span style="color: red;">▼&nbsp;`-18`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean-Pierre Jarier](jean-pierre-jarier)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
 
 ### 1984 Season
 
@@ -74,5 +74,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix) | RAM | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1498 **<span style="color: green;">▲&nbsp;`+34`</span>** | N/A | 1474 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
+| [Round 7 - Canadian Grand Prix](../seasons/1984-season-report#round-7-canadian-grand-prix) | RAM | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1498 **<span style="color: green;">▲&nbsp;`+34`</span>** | N/A | 1474 **<span style="color: green;">▲&nbsp;`+10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Philippe Alliot](philippe-alliot)<br/><small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

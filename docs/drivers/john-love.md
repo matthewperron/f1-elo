@@ -55,7 +55,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1476 **<span style="color: red;">▼&nbsp;`-17`</span>** | 1474 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1474 **<span style="color: red;">▼&nbsp;`-16`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 9 - South African Grand Prix](../seasons/1962-season-report#round-9-south-african-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1476 **<span style="color: red;">▼&nbsp;`-17`</span>** | 1474 **<span style="color: red;">▼&nbsp;`-16`</span>** | 1474 **<span style="color: red;">▼&nbsp;`-16`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1963 Season
 
@@ -86,7 +86,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 10: South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1455 **<span style="color: red;">▼&nbsp;`-8`</span>** | 1450 **<span style="color: red;">▼&nbsp;`-9`</span>** | 1452 **<span style="color: red;">▼&nbsp;`-9`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)<br/><small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
+| [Round 10 - South African Grand Prix](../seasons/1963-season-report#round-10-south-african-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1455 **<span style="color: red;">▼&nbsp;`-8`</span>** | 1450 **<span style="color: red;">▼&nbsp;`-9`</span>** | 1452 **<span style="color: red;">▼&nbsp;`-9`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)<br/><small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
 
 ### 1965 Season
 
@@ -117,7 +117,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1455 **<span style="color: green;">▲&nbsp;`+12`</span>** | N/A | 1452 **<span style="color: green;">▲&nbsp;`+4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
+| [Round 1 - South African Grand Prix](../seasons/1965-season-report#round-1-south-african-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`18`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1455 **<span style="color: green;">▲&nbsp;`+12`</span>** | N/A | 1452 **<span style="color: green;">▲&nbsp;`+4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Bruce McLaren](bruce-mclaren)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
 
 ### 1968 Season
 
@@ -148,7 +148,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1968-season-report#round-1-south-african-grand-prix) | Brabham-Repco | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1441 **<span style="color: red;">▼&nbsp;`-8`</span>** | N/A | 1442 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
+| [Round 1 - South African Grand Prix](../seasons/1968-season-report#round-1-south-african-grand-prix) | Brabham-Repco | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1441 **<span style="color: red;">▼&nbsp;`-8`</span>** | N/A | 1442 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇹'; this.style.marginRight='5px';"/> Jochen Rindt](jochen-rindt)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
 
 ### 1969 Season
 
@@ -182,7 +182,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | Lotus-Ford | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1445 **<span style="color: red;">▼&nbsp;`-6`</span>** | N/A | 1443 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 1 - South African Grand Prix](../seasons/1969-season-report#round-1-south-african-grand-prix) | Lotus-Ford | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1445 **<span style="color: red;">▼&nbsp;`-6`</span>** | N/A | 1443 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Graham Hill](graham-hill)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1970 Season
 
@@ -216,7 +216,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | Team Lotus | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1430 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1432 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Miles](john-miles)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
+| [Round 1 - South African Grand Prix](../seasons/1970-season-report#round-1-south-african-grand-prix) | Team Lotus | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1430 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1432 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> John Miles](john-miles)<br/><small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
 
 ### 1971 Season
 
@@ -247,7 +247,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 1: South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | March-Ford | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1425 **<span style="color: green;">▲&nbsp;`+13`</span>** | N/A | 1431 **<span style="color: green;">▲&nbsp;`+4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Ronnie Peterson](ronnie-peterson)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
+| [Round 1 - South African Grand Prix](../seasons/1971-season-report#round-1-south-african-grand-prix) | March-Ford | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1425 **<span style="color: green;">▲&nbsp;`+13`</span>** | N/A | 1431 **<span style="color: green;">▲&nbsp;`+4`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Ronnie Peterson](ronnie-peterson)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 
 ### 1972 Season
 
@@ -278,5 +278,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: South African Grand Prix](../seasons/1972-season-report#round-2-south-african-grand-prix) | Surtees | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1403 **<span style="color: red;">▼&nbsp;`-5`</span>** | N/A | 1433 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Adamich](andrea-de-adamich)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`19`**</small> |
+| [Round 2 - South African Grand Prix](../seasons/1972-season-report#round-2-south-african-grand-prix) | Surtees | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1403 **<span style="color: red;">▼&nbsp;`-5`</span>** | N/A | 1433 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea de Adamich](andrea-de-adamich)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`19`**</small> |
 

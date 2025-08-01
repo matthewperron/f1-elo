@@ -46,7 +46,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 8: Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | Cooper-Maserati | <small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1478 **<span style="color: red;">▼&nbsp;`-22`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-7`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory)<br/><small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 8 - Portuguese Grand Prix](../seasons/1960-season-report#round-8-portuguese-grand-prix) | Cooper-Maserati | <small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1478 **<span style="color: red;">▼&nbsp;`-22`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-7`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Masten Gregory](masten-gregory)<br/><small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1963 Season
 
@@ -77,5 +77,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1457 **<span style="color: red;">▼&nbsp;`-3`</span>** | N/A | 1487 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1963-season-report#round-6-german-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1457 **<span style="color: red;">▼&nbsp;`-3`</span>** | N/A | 1487 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇸🇪'; this.style.marginRight='5px';"/> Jo Bonnier](jo-bonnier)<br/><small>Q:&nbsp;**`12`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> |
 

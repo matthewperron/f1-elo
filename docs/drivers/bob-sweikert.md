@@ -106,7 +106,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`32`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1473 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1491 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Rathmann](jim-rathmann)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1952-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`32`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1473 **<span style="color: red;">▼&nbsp;`-1`</span>** | N/A | 1491 ↔ 0 | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Rathmann](jim-rathmann)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1953 Season
 
@@ -140,7 +140,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1443 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1482 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Tony Bettenhausen](tony-bettenhausen)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1953-season-report#round-2-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1443 **<span style="color: red;">▼&nbsp;`-7`</span>** | N/A | 1482 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Tony Bettenhausen](tony-bettenhausen)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 
 ### 1954 Season
 
@@ -216,7 +216,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1470 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1499 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1486 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1954-season-report#round-2-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1470 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1499 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1486 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Bill Vukovich](bill-vukovich)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 
 ### 1955 Season
 
@@ -298,7 +298,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> | 1474 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1521 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1506 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Paul Russo](paul-russo)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1955-season-report#round-3-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`14`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> | 1474 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1521 **<span style="color: green;">▲&nbsp;`+2`</span>** | 1506 **<span style="color: green;">▲&nbsp;`+1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Paul Russo](paul-russo)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1956 Season
 
@@ -335,5 +335,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> | 1507 **<span style="color: green;">▲&nbsp;`+6`</span>** | 1545 **<span style="color: green;">▲&nbsp;`+6`</span>** | 1533 **<span style="color: green;">▲&nbsp;`+6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Gene Hartley](gene-hartley)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1956-season-report#round-3-indianapolis-500) | Kuzma | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> | 1507 **<span style="color: green;">▲&nbsp;`+6`</span>** | 1545 **<span style="color: green;">▲&nbsp;`+6`</span>** | 1533 **<span style="color: green;">▲&nbsp;`+6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Gene Hartley](gene-hartley)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> |
 

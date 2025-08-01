@@ -52,7 +52,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1470 **<span style="color: red;">▼&nbsp;`-9`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Drogo](piero-drogo)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
+| [Round 9 - Italian Grand Prix](../seasons/1960-season-report#round-9-italian-grand-prix) | Cooper-Climax | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1470 **<span style="color: red;">▼&nbsp;`-9`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Piero Drogo](piero-drogo)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
 
 ### 1966 Season
 
@@ -83,5 +83,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | BRM | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1453 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1486 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart](jackie-stewart)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
+| [Round 2 - Belgian Grand Prix](../seasons/1966-season-report#round-2-belgian-grand-prix) | BRM | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1453 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1486 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Jackie Stewart](jackie-stewart)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> |
 

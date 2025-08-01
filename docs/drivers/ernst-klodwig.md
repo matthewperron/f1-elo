@@ -52,7 +52,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | BMW | <small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1490 **<span style="color: red;">▼&nbsp;`-11`</span>** | N/A | 1497 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Marcel Balsa](marcel-balsa)<br/><small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | BMW | <small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> | 1490 **<span style="color: red;">▼&nbsp;`-11`</span>** | N/A | 1497 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Marcel Balsa](marcel-balsa)<br/><small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1953 Season
 
@@ -77,5 +77,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | BMW | <small>Q:&nbsp;**`32`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> | 1462 **<span style="color: red;">▼&nbsp;`-28`</span>** | 1468 **<span style="color: red;">▼&nbsp;`-32`</span>** | 1466 **<span style="color: red;">▼&nbsp;`-31`</span>** | [Rudolf Krause](rudolf-krause)<br/><small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> |
+| [Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | BMW | <small>Q:&nbsp;**`32`**&nbsp;•&nbsp;R:&nbsp;**`15`**</small> | 1462 **<span style="color: red;">▼&nbsp;`-28`</span>** | 1468 **<span style="color: red;">▼&nbsp;`-32`</span>** | 1466 **<span style="color: red;">▼&nbsp;`-31`</span>** | [Rudolf Krause](rudolf-krause)<br/><small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> |
 

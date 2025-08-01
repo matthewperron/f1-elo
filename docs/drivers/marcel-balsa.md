@@ -51,5 +51,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | BMW | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1510 **<span style="color: red;">▼&nbsp;`-11`</span>** | N/A | 1503 **<span style="color: red;">▼&nbsp;`-3`</span>** | [Ernst Klodwig](ernst-klodwig)<br/><small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | BMW | <small>Q:&nbsp;**`25`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1510 **<span style="color: red;">▼&nbsp;`-11`</span>** | N/A | 1503 **<span style="color: red;">▼&nbsp;`-3`</span>** | [Ernst Klodwig](ernst-klodwig)<br/><small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
 

@@ -51,5 +51,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix) | Team Lotus | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1479 **<span style="color: red;">▼&nbsp;`-2`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-1`</span>** | [Ian Scheckter](ian-scheckter)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> |
+| [Round 3 - South African Grand Prix](../seasons/1974-season-report#round-3-south-african-grand-prix) | Team Lotus | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1479 **<span style="color: red;">▼&nbsp;`-2`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-1`</span>** | [Ian Scheckter](ian-scheckter)<br/><small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`13`**</small> |
 

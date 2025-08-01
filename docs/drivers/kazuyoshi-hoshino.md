@@ -49,7 +49,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 16: Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | Tyrrell | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1477 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 16 - Japanese Grand Prix](../seasons/1976-season-report#round-16-japanese-grand-prix) | Tyrrell | <small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1477 **<span style="color: red;">▼&nbsp;`-10`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-3`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Patrick Depailler](patrick-depailler)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
 
 ### 1977 Season
 
@@ -74,5 +74,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 17: Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) | Kojima | <small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1509 **<span style="color: green;">▲&nbsp;`+32`</span>** | 1529 **<span style="color: green;">▲&nbsp;`+29`</span>** | 1523 **<span style="color: green;">▲&nbsp;`+30`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`22`**</small> |
+| [Round 17 - Japanese Grand Prix](../seasons/1977-season-report#round-17-japanese-grand-prix) | Kojima | <small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`11`**</small> | 1509 **<span style="color: green;">▲&nbsp;`+32`</span>** | 1529 **<span style="color: green;">▲&nbsp;`+29`</span>** | 1523 **<span style="color: green;">▲&nbsp;`+30`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇯🇵'; this.style.marginRight='5px';"/> Noritake Takahara](noritake-takahara)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`22`**</small> |
 

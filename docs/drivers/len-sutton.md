@@ -89,7 +89,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`27`**&nbsp;•&nbsp;R:&nbsp;**`32`**</small> | 1477 **<span style="color: red;">▼&nbsp;`-2`</span>** | 1479 **<span style="color: red;">▼&nbsp;`-2`</span>** | 1479 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnny Boyd](johnny-boyd)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
+| [Round 4 - Indianapolis 500](../seasons/1958-season-report#round-4-indianapolis-500) | Kurtis Kraft | <small>Q:&nbsp;**`27`**&nbsp;•&nbsp;R:&nbsp;**`32`**</small> | 1477 **<span style="color: red;">▼&nbsp;`-2`</span>** | 1479 **<span style="color: red;">▼&nbsp;`-2`</span>** | 1479 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnny Boyd](johnny-boyd)<br/><small>Q:&nbsp;**`8`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
 
 ### 1959 Season
 
@@ -114,7 +114,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 2: Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Lesovsky | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`32`**</small> | 1447 **<span style="color: red;">▼&nbsp;`-30`</span>** | 1449 **<span style="color: red;">▼&nbsp;`-30`</span>** | 1449 **<span style="color: red;">▼&nbsp;`-30`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnny Thomson](johnny-thomson)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
+| [Round 2 - Indianapolis 500](../seasons/1959-season-report#round-2-indianapolis-500) | Lesovsky | <small>Q:&nbsp;**`22`**&nbsp;•&nbsp;R:&nbsp;**`32`**</small> | 1447 **<span style="color: red;">▼&nbsp;`-30`</span>** | 1449 **<span style="color: red;">▼&nbsp;`-30`</span>** | 1449 **<span style="color: red;">▼&nbsp;`-30`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Johnny Thomson](johnny-thomson)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
 
 ### 1960 Season
 
@@ -157,5 +157,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 3: Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Watson | <small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1456 **<span style="color: red;">▼&nbsp;`-3`</span>** | N/A | 1451 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Rathmann](jim-rathmann)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
+| [Round 3 - Indianapolis 500](../seasons/1960-season-report#round-3-indianapolis-500) | Watson | <small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1456 **<span style="color: red;">▼&nbsp;`-3`</span>** | N/A | 1451 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇺🇸'; this.style.marginRight='5px';"/> Jim Rathmann](jim-rathmann)<br/><small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 

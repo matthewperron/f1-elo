@@ -52,7 +52,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 6: German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | BMW | <small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1470 **<span style="color: red;">▼&nbsp;`-9`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-3`</span>** | [Ernst Klodwig](ernst-klodwig)<br/><small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
+| [Round 6 - German Grand Prix](../seasons/1952-season-report#round-6-german-grand-prix) | BMW | <small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1470 **<span style="color: red;">▼&nbsp;`-9`</span>** | N/A | 1491 **<span style="color: red;">▼&nbsp;`-3`</span>** | [Ernst Klodwig](ernst-klodwig)<br/><small>Q:&nbsp;**`29`**&nbsp;•&nbsp;R:&nbsp;**`12`**</small> |
 
 ### 1953 Season
 
@@ -80,5 +80,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | AFM | <small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1441 **<span style="color: red;">▼&nbsp;`-15`</span>** | N/A | 1482 **<span style="color: red;">▼&nbsp;`-4`</span>** | [Theo Fitzau](theo-fitzau)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 7 - German Grand Prix](../seasons/1953-season-report#round-7-german-grand-prix) | AFM | <small>Q:&nbsp;**`30`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1441 **<span style="color: red;">▼&nbsp;`-15`</span>** | N/A | 1482 **<span style="color: red;">▼&nbsp;`-4`</span>** | [Theo Fitzau](theo-fitzau)<br/><small>Q:&nbsp;**`21`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 

@@ -49,7 +49,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 9: Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix) | HWM | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1538 **<span style="color: green;">▲&nbsp;`+19`</span>** | N/A | 1511 **<span style="color: green;">▲&nbsp;`+6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Yves Cabantous](yves-cabantous)<br/><small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 9 - Italian Grand Prix](../seasons/1953-season-report#round-9-italian-grand-prix) | HWM | <small>Q:&nbsp;**`26`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1538 **<span style="color: green;">▲&nbsp;`+19`</span>** | N/A | 1511 **<span style="color: green;">▲&nbsp;`+6`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Yves Cabantous](yves-cabantous)<br/><small>Q:&nbsp;**`28`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
 ### 1955 Season
 
@@ -89,5 +89,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix) | Maserati | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1515 **<span style="color: red;">▼&nbsp;`-6`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
+| [Round 7 - Italian Grand Prix](../seasons/1955-season-report#round-7-italian-grand-prix) | Maserati | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1515 **<span style="color: red;">▼&nbsp;`-6`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Jean Behra](jean-behra)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`4`**</small> |
 

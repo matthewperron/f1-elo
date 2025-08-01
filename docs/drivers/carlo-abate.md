@@ -58,7 +58,7 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 4: French Grand Prix](../seasons/1962-season-report#round-4-french-grand-prix) | Lotus-Climax | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1478 **<span style="color: red;">▼&nbsp;`-4`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Maurice Trintignant](maurice-trintignant)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
+| [Round 4 - French Grand Prix](../seasons/1962-season-report#round-4-french-grand-prix) | Lotus-Climax | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1478 **<span style="color: red;">▼&nbsp;`-4`</span>** | N/A | 1493 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Maurice Trintignant](maurice-trintignant)<br/><small>Q:&nbsp;**`13`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
 
 ### 1963 Season
 
@@ -83,5 +83,5 @@
 
 | Race | Constructor | Positions | Qualifying Elo | Race Elo | Global Elo | Teammate |
 |------|-------------|-----------|----------------|----------|------------|----------|
-| [Round 7: Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | Porsche | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1516 **<span style="color: green;">▲&nbsp;`+38`</span>** | N/A | 1504 **<span style="color: green;">▲&nbsp;`+11`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Gerhard Mitter](gerhard-mitter)<br/><small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
+| [Round 7 - Italian Grand Prix](../seasons/1963-season-report#round-7-italian-grand-prix) | Porsche | <small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1516 **<span style="color: green;">▲&nbsp;`+38`</span>** | N/A | 1504 **<span style="color: green;">▲&nbsp;`+11`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Gerhard Mitter](gerhard-mitter)<br/><small>Q:&nbsp;**`999`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 
