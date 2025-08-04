@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso - Complete F1 Career Results
 
-*Last updated: 2025-08-01*
+*Last updated: 2025-08-04*
 
 ## Season Navigation
 
@@ -29,9 +29,9 @@
 
 ## Career Statistics
 
-**Total Race Events**: 415 (1245 individual Elo calculations)
+**Total Race Events**: 416 (1248 individual Elo calculations)
 
-**DNF Statistics**: 64 DNFs out of 415 races (15.4%)
+**DNF Statistics**: 64 DNFs out of 416 races (15.4%)
 
 ### 📊 Peak & Lowest Elo Ratings
 
@@ -967,16 +967,16 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1711 **<span style="color: red;">▼&nbsp;`-58`</span>** | 1767 **<span style="color: red;">▼&nbsp;`-7`</span>** | 1727 **<span style="color: red;">▼&nbsp;`-43`</span>** |
+| 1727 **<span style="color: red;">▼&nbsp;`-42`</span>** | 1774 ↔ 0 | 1741 **<span style="color: red;">▼&nbsp;`-29`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) `1530`**: **`7`** wins <small>`58.3%`</small> • **`2`** losses <small>`16.7%`</small> • **`3`** DNFs <small>`25.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-58`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) `1398`**: **`11`** wins <small>`91.7%`</small> • **`1`** losses <small>`8.3%`</small> • **Elo <span style="color: red;">▼&nbsp;`-7`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) `1514`**: **`8`** wins <small>`61.5%`</small> • **`2`** losses <small>`15.4%`</small> • **`3`** DNFs <small>`23.1%`</small> • **Elo <span style="color: red;">▼&nbsp;`-41`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll) `1391`**: **`12`** wins <small>`92.3%`</small> • **`1`** losses <small>`7.7%`</small> • **Elo ↔ 0**
 
 #### DNF Statistics
 
-- **DNFs**: `3` out of `12` races <small>`25.0%`</small>
+- **DNFs**: `3` out of `13` races <small>`23.1%`</small>
 
 #### Detailed Results
 
@@ -994,4 +994,5 @@
 | [Round 11 - Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix) | Aston Martin | <small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1824 **<span style="color: green;">▲&nbsp;`+4`</span>** | 1823 **<span style="color: green;">▲&nbsp;`+6`</span>** | 1822 **<span style="color: green;">▲&nbsp;`+5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> |
 | [Round 12 - British Grand Prix](../seasons/2025-season-report#round-12-british-grand-prix) | Aston Martin | <small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> | 1827 **<span style="color: green;">▲&nbsp;`+4`</span>** | 1765 **<span style="color: red;">▼&nbsp;`-58`</span>** | 1783 **<span style="color: red;">▼&nbsp;`-39`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll)<br/><small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
 | [Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) | Aston Martin | <small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> | 1767 **<span style="color: red;">▼&nbsp;`-60`</span>** | 1711 **<span style="color: red;">▼&nbsp;`-54`</span>** | 1727 **<span style="color: red;">▼&nbsp;`-56`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll)<br/><small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> |
+| [Round 14 - Hungarian Grand Prix](../seasons/2025-season-report#round-14-hungarian-grand-prix) | Aston Martin | <small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1774 **<span style="color: green;">▲&nbsp;`+7`</span>** | 1727 **<span style="color: green;">▲&nbsp;`+17`</span>** | 1741 **<span style="color: green;">▲&nbsp;`+14`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll](lance-stroll)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
 

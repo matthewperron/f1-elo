@@ -1,6 +1,6 @@
 # 2014 F1 Season - Elo Analysis
 
-*Last updated: 2025-08-01*
+*Last updated: 2025-08-04*
 
 ## Quick Navigation
 

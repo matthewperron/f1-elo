@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇩🇪'; this.style.marginRight='5px';"/> Günther Seiffert - Complete F1 Career Results
 
-*Last updated: 2025-08-01*
+*Last updated: 2025-08-04*
 
 ## Season Navigation
 

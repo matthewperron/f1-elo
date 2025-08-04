@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli - Complete F1 Career Results
 
-*Last updated: 2025-08-01*
+*Last updated: 2025-08-04*
 
 ## Season Navigation
 
@@ -8,16 +8,16 @@
 
 ## Career Statistics
 
-**Total Race Events**: 13 (39 individual Elo calculations)
+**Total Race Events**: 14 (42 individual Elo calculations)
 
-**DNF Statistics**: 4 DNFs out of 13 races (30.8%)
+**DNF Statistics**: 4 DNFs out of 14 races (28.6%)
 
 ### 📊 Peak & Lowest Elo Ratings
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
 | **Peak** | <center> 1540 <br/><small> [2025 Round 6 – Miami Grand Prix](../seasons/2025-season-report#round-6-miami-grand-prix) </small></center> | <center> 1491 <br/><small> [2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix) </small></center> | <center> 1493  <br/><small> [2025 Round 1 – Australian Grand Prix](../seasons/2025-season-report#round-1-australian-grand-prix) </small></center> |
-| **Lowest** | <center> 1480 <br/><small> [2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix) </small></center> | <center> 1438 <br/><small> [2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) </small></center> | <center> 1457 <br/><small> [2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) </small></center> |
+| **Lowest** | <center> 1480 <br/><small> [2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix) </small></center> | <center> 1433 <br/><small> [2025 Round 14 – Hungarian Grand Prix](../seasons/2025-season-report#round-14-hungarian-grand-prix) </small></center> | <center> 1453 <br/><small> [2025 Round 14 – Hungarian Grand Prix](../seasons/2025-season-report#round-14-hungarian-grand-prix) </small></center> |
 
 
 ## Complete Career Results by Season
@@ -30,16 +30,16 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1438 **<span style="color: red;">▼&nbsp;`-62`</span>** | 1501 **<span style="color: green;">▲&nbsp;`+1`</span>** | 1457 **<span style="color: red;">▼&nbsp;`-43`</span>** |
+| 1433 **<span style="color: red;">▼&nbsp;`-67`</span>** | 1497 **<span style="color: red;">▼&nbsp;`-3`</span>** | 1453 **<span style="color: red;">▼&nbsp;`-47`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) `1872`**: **`0`** wins <small>`0.0%`</small> • **`9`** losses <small>`69.2%`</small> • **`4`** DNFs <small>`30.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-61`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) `1953`**: **`1`** wins <small>`7.7%`</small> • **`12`** losses <small>`92.3%`</small> • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) `1877`**: **`0`** wins <small>`0.0%`</small> • **`10`** losses <small>`71.4%`</small> • **`4`** DNFs <small>`28.6%`</small> • **Elo <span style="color: red;">▼&nbsp;`-66`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell) `1957`**: **`1`** wins <small>`7.1%`</small> • **`13`** losses <small>`92.9%`</small> • **Elo <span style="color: red;">▼&nbsp;`-4`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: `4` out of `13` races <small>`30.8%`</small>
+- **DNFs**: `4` out of `14` races <small>`28.6%`</small>
 
 #### Detailed Results
 
@@ -58,4 +58,5 @@
 | [Round 11 - Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix) | Mercedes | <small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1511 **<span style="color: red;">▼&nbsp;`-5`</span>** | N/A | 1464 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell)<br/><small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
 | [Round 12 - British Grand Prix](../seasons/2025-season-report#round-12-british-grand-prix) | Mercedes | <small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1506 **<span style="color: red;">▼&nbsp;`-5`</span>** | N/A | 1462 **<span style="color: red;">▼&nbsp;`-1`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 | [Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) | Mercedes | <small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> | 1501 **<span style="color: red;">▼&nbsp;`-5`</span>** | 1438 **<span style="color: red;">▼&nbsp;`-5`</span>** | 1457 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell)<br/><small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
+| [Round 14 - Hungarian Grand Prix](../seasons/2025-season-report#round-14-hungarian-grand-prix) | Mercedes | <small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> | 1497 **<span style="color: red;">▼&nbsp;`-4`</span>** | 1433 **<span style="color: red;">▼&nbsp;`-5`</span>** | 1453 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell](george-russell)<br/><small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> |
 

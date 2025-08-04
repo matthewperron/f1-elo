@@ -1,6 +1,6 @@
 # Ernst Klodwig - Complete F1 Career Results
 
-*Last updated: 2025-08-01*
+*Last updated: 2025-08-04*
 
 ## Season Navigation
 

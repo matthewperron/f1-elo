@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" alt="Canada" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇨🇦'; this.style.marginRight='5px';"/> Lance Stroll - Complete F1 Career Results
 
-*Last updated: 2025-08-01*
+*Last updated: 2025-08-04*
 
 ## Season Navigation
 
@@ -16,9 +16,9 @@
 
 ## Career Statistics
 
-**Total Race Events**: 180 (540 individual Elo calculations)
+**Total Race Events**: 181 (543 individual Elo calculations)
 
-**DNF Statistics**: 18 DNFs out of 180 races (10.0%)
+**DNF Statistics**: 18 DNFs out of 181 races (9.9%)
 
 ### 📊 Peak & Lowest Elo Ratings
 
@@ -407,16 +407,16 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1530 **<span style="color: green;">▲&nbsp;`+58`</span>** | 1398 **<span style="color: green;">▲&nbsp;`+7`</span>** | 1490 **<span style="color: green;">▲&nbsp;`+43`</span>** |
+| 1514 **<span style="color: green;">▲&nbsp;`+42`</span>** | 1391 ↔ 0 | 1476 **<span style="color: green;">▲&nbsp;`+29`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1711`**: **`2`** wins <small>`22.2%`</small> • **`7`** losses <small>`77.8%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+58`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1767`**: **`1`** wins <small>`8.3%`</small> • **`11`** losses <small>`91.7%`</small> • **Elo <span style="color: green;">▲&nbsp;`+7`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1727`**: **`2`** wins <small>`20.0%`</small> • **`8`** losses <small>`80.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+41`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso) `1774`**: **`1`** wins <small>`7.7%`</small> • **`12`** losses <small>`92.3%`</small> • **Elo ↔ 0**
 
 #### DNF Statistics
 
-- **DNFs**: `0` out of `12` races <small>`0.0%`</small>
+- **DNFs**: `0` out of `13` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -434,4 +434,5 @@
 | [Round 11 - Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix) | Aston Martin | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1341 **<span style="color: red;">▼&nbsp;`-4`</span>** | 1418 **<span style="color: red;">▼&nbsp;`-6`</span>** | 1395 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)<br/><small>Q:&nbsp;**`11`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> |
 | [Round 12 - British Grand Prix](../seasons/2025-season-report#round-12-british-grand-prix) | Aston Martin | <small>Q:&nbsp;**`17`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1338 **<span style="color: red;">▼&nbsp;`-4`</span>** | 1476 **<span style="color: green;">▲&nbsp;`+58`</span>** | 1434 **<span style="color: green;">▲&nbsp;`+39`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)<br/><small>Q:&nbsp;**`7`**&nbsp;•&nbsp;R:&nbsp;**`9`**</small> |
 | [Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) | Aston Martin | <small>Q:&nbsp;**`16`**&nbsp;•&nbsp;R:&nbsp;**`14`**</small> | 1398 **<span style="color: green;">▲&nbsp;`+60`</span>** | 1530 **<span style="color: green;">▲&nbsp;`+54`</span>** | 1490 **<span style="color: green;">▲&nbsp;`+56`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)<br/><small>Q:&nbsp;**`20`**&nbsp;•&nbsp;R:&nbsp;**`17`**</small> |
+| [Round 14 - Hungarian Grand Prix](../seasons/2025-season-report#round-14-hungarian-grand-prix) | Aston Martin | <small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`7`**</small> | 1391 **<span style="color: red;">▼&nbsp;`-7`</span>** | 1514 **<span style="color: red;">▼&nbsp;`-17`</span>** | 1476 **<span style="color: red;">▼&nbsp;`-14`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spain" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇪🇸'; this.style.marginRight='5px';"/> Fernando Alonso](fernando-alonso)<br/><small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> |
 

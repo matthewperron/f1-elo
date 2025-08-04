@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇿'; this.style.marginRight='5px';"/> Liam Lawson - Complete F1 Career Results
 
-*Last updated: 2025-08-01*
+*Last updated: 2025-08-04*
 
 ## Season Navigation
 
@@ -10,9 +10,9 @@
 
 ## Career Statistics
 
-**Total Race Events**: 24 (72 individual Elo calculations)
+**Total Race Events**: 25 (75 individual Elo calculations)
 
-**DNF Statistics**: 4 DNFs out of 24 races (16.7%)
+**DNF Statistics**: 4 DNFs out of 25 races (16.0%)
 
 ### 📊 Peak & Lowest Elo Ratings
 
@@ -91,19 +91,19 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1446 **<span style="color: green;">▲&nbsp;`+3`</span>** | 1328 **<span style="color: red;">▼&nbsp;`-43`</span>** | 1412 **<span style="color: red;">▼&nbsp;`-9`</span>** |
+| 1486 **<span style="color: green;">▲&nbsp;`+43`</span>** | 1379 **<span style="color: green;">▲&nbsp;`+8`</span>** | 1455 **<span style="color: green;">▲&nbsp;`+34`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
 - **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) `2010`**: **`0`** wins <small>`0.0%`</small> • **`1`** losses <small>`50.0%`</small> • **`1`** DNFs <small>`50.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-2`</span>**
 - **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇳🇱'; this.style.marginRight='5px';"/> Max Verstappen](max-verstappen) `1859`**: **`0`** wins <small>`0.0%`</small> • **`2`** losses <small>`100.0%`</small> • **Elo <span style="color: red;">▼&nbsp;`-8`</span>**
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar) `N/A`**: **`2`** wins <small>`18.2%`</small> • **`6`** losses <small>`54.5%`</small> • **`3`** DNFs <small>`27.3%`</small> • **Elo <span style="color: green;">▲&nbsp;`+7`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar) `N/A`**: **`2`** wins <small>`18.2%`</small> • **`9`** losses <small>`81.8%`</small> • **Elo <span style="color: red;">▼&nbsp;`-35`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar) `N/A`**: **`3`** wins <small>`25.0%`</small> • **`6`** losses <small>`50.0%`</small> • **`3`** DNFs <small>`25.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+47`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar) `N/A`**: **`3`** wins <small>`25.0%`</small> • **`9`** losses <small>`75.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+16`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: `4` out of `13` races <small>`30.8%`</small>
+- **DNFs**: `4` out of `14` races <small>`28.6%`</small>
 
 #### Detailed Results
 
@@ -122,4 +122,5 @@
 | [Round 11 - Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix) | Red Bull | <small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`6`**</small> | 1359 **<span style="color: green;">▲&nbsp;`+54`</span>** | 1398 **<span style="color: green;">▲&nbsp;`+54`</span>** | 1388 **<span style="color: green;">▲&nbsp;`+54`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 | [Round 12 - British Grand Prix](../seasons/2025-season-report#round-12-british-grand-prix) | Red Bull | <small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> | 1342 **<span style="color: red;">▼&nbsp;`-17`</span>** | N/A | 1383 **<span style="color: red;">▼&nbsp;`-5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 | [Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) | Red Bull | <small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1328 **<span style="color: red;">▼&nbsp;`-15`</span>** | 1446 **<span style="color: green;">▲&nbsp;`+48`</span>** | 1412 **<span style="color: green;">▲&nbsp;`+29`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
+| [Round 14 - Hungarian Grand Prix](../seasons/2025-season-report#round-14-hungarian-grand-prix) | Red Bull | <small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`8`**</small> | 1379 **<span style="color: green;">▲&nbsp;`+51`</span>** | 1486 **<span style="color: green;">▲&nbsp;`+40`</span>** | 1455 **<span style="color: green;">▲&nbsp;`+43`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇫🇷'; this.style.marginRight='5px';"/> Isack Hadjar](isack-hadjar)<br/><small>Q:&nbsp;**`N/A`**&nbsp;•&nbsp;R:&nbsp;**`N/A`**</small> |
 

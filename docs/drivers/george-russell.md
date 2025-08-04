@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> George Russell - Complete F1 Career Results
 
-*Last updated: 2025-08-01*
+*Last updated: 2025-08-04*
 
 ## Season Navigation
 
@@ -14,15 +14,15 @@
 
 ## Career Statistics
 
-**Total Race Events**: 141 (423 individual Elo calculations)
+**Total Race Events**: 142 (426 individual Elo calculations)
 
-**DNF Statistics**: 13 DNFs out of 141 races (9.2%)
+**DNF Statistics**: 13 DNFs out of 142 races (9.2%)
 
 ### 📊 Peak & Lowest Elo Ratings
 
 | &nbsp; | Qualifying | Race | Global |
 |-------|------------|------|--------|
-| **Peak** | <center> 1974 <br/><small> [2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix) </small></center> | <center> 1889 <br/><small> [2022 Round 8 – Azerbaijan Grand Prix](../seasons/2022-season-report#round-8-azerbaijan-grand-prix) </small></center> | <center> 1893  <br/><small> [2025 Round 13 – Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) </small></center> |
+| **Peak** | <center> 1974 <br/><small> [2025 Round 5 – Saudi Arabian Grand Prix](../seasons/2025-season-report#round-5-saudi-arabian-grand-prix) </small></center> | <center> 1889 <br/><small> [2022 Round 8 – Azerbaijan Grand Prix](../seasons/2022-season-report#round-8-azerbaijan-grand-prix) </small></center> | <center> 1897  <br/><small> [2025 Round 14 – Hungarian Grand Prix](../seasons/2025-season-report#round-14-hungarian-grand-prix) </small></center> |
 | **Lowest** | <center> 1548 <br/><small> [2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix) </small></center> | <center> 1551 <br/><small> [2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix) </small></center> | <center> 1550 <br/><small> [2019 Round 1 – Australian Grand Prix](../seasons/2019-season-report#round-1-australian-grand-prix) </small></center> |
 
 
@@ -311,16 +311,16 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1872 **<span style="color: green;">▲&nbsp;`+62`</span>** | 1953 **<span style="color: red;">▼&nbsp;`-1`</span>** | 1893 **<span style="color: green;">▲&nbsp;`+43`</span>** |
+| 1877 **<span style="color: green;">▲&nbsp;`+67`</span>** | 1957 **<span style="color: green;">▲&nbsp;`+3`</span>** | 1897 **<span style="color: green;">▲&nbsp;`+47`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli) `1438`**: **`9`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+61`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli) `1501`**: **`12`** wins <small>`92.3%`</small> • **`1`** losses <small>`7.7%`</small> • **Elo ↔ 0**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli) `1433`**: **`10`** wins <small>`100.0%`</small> • **`0`** losses <small>`0.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+66`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli) `1497`**: **`13`** wins <small>`92.9%`</small> • **`1`** losses <small>`7.1%`</small> • **Elo <span style="color: green;">▲&nbsp;`+4`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: `0` out of `13` races <small>`0.0%`</small>
+- **DNFs**: `0` out of `14` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -339,4 +339,5 @@
 | [Round 11 - Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix) | Mercedes | <small>Q:&nbsp;**`5`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1943 **<span style="color: green;">▲&nbsp;`+5`</span>** | N/A | 1886 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli)<br/><small>Q:&nbsp;**`9`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 | [Round 12 - British Grand Prix](../seasons/2025-season-report#round-12-british-grand-prix) | Mercedes | <small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> | 1948 **<span style="color: green;">▲&nbsp;`+5`</span>** | N/A | 1888 **<span style="color: green;">▲&nbsp;`+2`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli)<br/><small>Q:&nbsp;**`10`**&nbsp;•&nbsp;R:&nbsp;**`DNF`**</small> |
 | [Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) | Mercedes | <small>Q:&nbsp;**`6`**&nbsp;•&nbsp;R:&nbsp;**`5`**</small> | 1953 **<span style="color: green;">▲&nbsp;`+5`</span>** | 1872 **<span style="color: green;">▲&nbsp;`+5`</span>** | 1893 **<span style="color: green;">▲&nbsp;`+5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli)<br/><small>Q:&nbsp;**`19`**&nbsp;•&nbsp;R:&nbsp;**`16`**</small> |
+| [Round 14 - Hungarian Grand Prix](../seasons/2025-season-report#round-14-hungarian-grand-prix) | Mercedes | <small>Q:&nbsp;**`4`**&nbsp;•&nbsp;R:&nbsp;**`3`**</small> | 1957 **<span style="color: green;">▲&nbsp;`+4`</span>** | 1877 **<span style="color: green;">▲&nbsp;`+5`</span>** | 1897 **<span style="color: green;">▲&nbsp;`+5`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italy" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇮🇹'; this.style.marginRight='5px';"/> Andrea Kimi Antonelli](andrea-kimi-antonelli)<br/><small>Q:&nbsp;**`15`**&nbsp;•&nbsp;R:&nbsp;**`10`**</small> |
 

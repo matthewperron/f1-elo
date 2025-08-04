@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇦🇺'; this.style.marginRight='5px';"/> Oscar Piastri - Complete F1 Career Results
 
-*Last updated: 2025-08-01*
+*Last updated: 2025-08-04*
 
 ## Season Navigation
 
@@ -10,9 +10,9 @@
 
 ## Career Statistics
 
-**Total Race Events**: 59 (177 individual Elo calculations)
+**Total Race Events**: 60 (180 individual Elo calculations)
 
-**DNF Statistics**: 3 DNFs out of 59 races (5.1%)
+**DNF Statistics**: 3 DNFs out of 60 races (5.0%)
 
 ### 📊 Peak & Lowest Elo Ratings
 
@@ -126,16 +126,16 @@
 
 | Race | Qualifying | Global |
 |------|------------|--------|
-| 1597 **<span style="color: green;">▲&nbsp;`+63`</span>** | 1675 **<span style="color: green;">▲&nbsp;`+171`</span>** | 1621 **<span style="color: green;">▲&nbsp;`+97`</span>** |
+| 1567 **<span style="color: green;">▲&nbsp;`+33`</span>** | 1709 **<span style="color: green;">▲&nbsp;`+205`</span>** | 1610 **<span style="color: green;">▲&nbsp;`+86`</span>** |
 
 #### Teammate Head-to-Head Statistics
 
-- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) `1620`**: **`6`** wins <small>`50.0%`</small> • **`6`** losses <small>`50.0%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+65`</span>**
-- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) `1703`**: **`7`** wins <small>`53.8%`</small> • **`6`** losses <small>`46.2%`</small> • **Elo <span style="color: green;">▲&nbsp;`+170`</span>**
+- **Races vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) `1650`**: **`6`** wins <small>`46.2%`</small> • **`7`** losses <small>`53.8%`</small> • **`0`** DNFs <small>`0.0%`</small> • **Elo <span style="color: green;">▲&nbsp;`+35`</span>**
+- **Qualifying vs [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris) `1669`**: **`8`** wins <small>`57.1%`</small> • **`6`** losses <small>`42.9%`</small> • **Elo <span style="color: green;">▲&nbsp;`+205`</span>**
 
 #### DNF Statistics
 
-- **DNFs**: `0` out of `13` races <small>`0.0%`</small>
+- **DNFs**: `0` out of `14` races <small>`0.0%`</small>
 
 #### Detailed Results
 
@@ -154,4 +154,5 @@
 | [Round 11 - Austrian Grand Prix](../seasons/2025-season-report#round-11-austrian-grand-prix) | McLaren | <small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1676 **<span style="color: red;">▼&nbsp;`-36`</span>** | 1582 **<span style="color: red;">▼&nbsp;`-33`</span>** | 1611 **<span style="color: red;">▼&nbsp;`-34`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 | [Round 12 - British Grand Prix](../seasons/2025-season-report#round-12-british-grand-prix) | McLaren | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1711 **<span style="color: green;">▲&nbsp;`+34`</span>** | 1555 **<span style="color: red;">▼&nbsp;`-27`</span>** | 1602 **<span style="color: red;">▼&nbsp;`-9`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 | [Round 13 - Belgian Grand Prix](../seasons/2025-season-report#round-13-belgian-grand-prix) | McLaren | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> | 1675 **<span style="color: red;">▼&nbsp;`-36`</span>** | 1597 **<span style="color: green;">▲&nbsp;`+42`</span>** | 1621 **<span style="color: green;">▲&nbsp;`+19`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris)<br/><small>Q:&nbsp;**`1`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> |
+| [Round 14 - Hungarian Grand Prix](../seasons/2025-season-report#round-14-hungarian-grand-prix) | McLaren | <small>Q:&nbsp;**`2`**&nbsp;•&nbsp;R:&nbsp;**`2`**</small> | 1709 **<span style="color: green;">▲&nbsp;`+35`</span>** | 1567 **<span style="color: red;">▼&nbsp;`-30`</span>** | 1610 **<span style="color: red;">▼&nbsp;`-10`</span>** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/512px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?20250726143817" alt="United Kingdom" width="20" height="auto" style="vertical-align: middle; margin-right: 5px;" onerror="this.outerHTML='🇬🇧'; this.style.marginRight='5px';"/> Lando Norris](lando-norris)<br/><small>Q:&nbsp;**`3`**&nbsp;•&nbsp;R:&nbsp;**`1`**</small> |
 

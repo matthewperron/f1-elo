@@ -1,6 +1,6 @@
 {
   "season": "2025",
-  "totalRaces": 13,
+  "totalRaces": 14,
   "races": [
     {
       "round": 1,
@@ -6805,6 +6805,302 @@
           }
         }
       ]
+    },
+    {
+      "round": 14,
+      "raceName": "Hungarian Grand Prix",
+      "circuitName": "Hungaroring",
+      "country": "Hungary",
+      "date": "2025-08-03",
+      "time": "13:00:00Z",
+      "results": [
+        {
+          "position": "1",
+          "positionText": "1",
+          "points": 25,
+          "driver": {
+            "driverId": "norris",
+            "code": "NOR",
+            "givenName": "Lando",
+            "familyName": "Norris",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "mclaren",
+            "name": "McLaren",
+            "nationality": "British"
+          },
+          "grid": 3,
+          "laps": 70,
+          "status": "Finished",
+          "time": "1:35:21.231",
+          "fastestLap": {
+            "rank": 5,
+            "lap": 57,
+            "time": "1:19.918"
+          }
+        },
+        {
+          "position": "2",
+          "positionText": "2",
+          "points": 18,
+          "driver": {
+            "driverId": "piastri",
+            "code": "PIA",
+            "givenName": "Oscar",
+            "familyName": "Piastri",
+            "nationality": "Australian"
+          },
+          "constructor": {
+            "constructorId": "mclaren",
+            "name": "McLaren",
+            "nationality": "British"
+          },
+          "grid": 2,
+          "laps": 70,
+          "status": "Finished",
+          "time": "+0.698",
+          "fastestLap": {
+            "rank": 2,
+            "lap": 56,
+            "time": "1:19.412"
+          }
+        },
+        {
+          "position": "3",
+          "positionText": "3",
+          "points": 15,
+          "driver": {
+            "driverId": "russell",
+            "code": "RUS",
+            "givenName": "George",
+            "familyName": "Russell",
+            "nationality": "British"
+          },
+          "constructor": {
+            "constructorId": "mercedes",
+            "name": "Mercedes",
+            "nationality": "German"
+          },
+          "grid": 4,
+          "laps": 70,
+          "status": "Finished",
+          "time": "+21.916",
+          "fastestLap": {
+            "rank": 1,
+            "lap": 45,
+            "time": "1:19.409"
+          }
+        },
+        {
+          "position": "4",
+          "positionText": "4",
+          "points": 12,
+          "driver": {
+            "driverId": "leclerc",
+            "code": "LEC",
+            "givenName": "Charles",
+            "familyName": "Leclerc",
+            "nationality": "Monegasque"
+          },
+          "constructor": {
+            "constructorId": "ferrari",
+            "name": "Ferrari",
+            "nationality": "Italian"
+          },
+          "grid": 1,
+          "laps": 70,
+          "status": "Finished",
+          "time": "+42.560",
+          "fastestLap": {
+            "rank": 9,
+            "lap": 47,
+            "time": "1:20.440"
+          }
+        },
+        {
+          "position": "5",
+          "positionText": "5",
+          "points": 10,
+          "driver": {
+            "driverId": "alonso",
+            "code": "ALO",
+            "givenName": "Fernando",
+            "familyName": "Alonso",
+            "nationality": "Spanish"
+          },
+          "constructor": {
+            "constructorId": "aston_martin",
+            "name": "Aston Martin",
+            "nationality": "British"
+          },
+          "grid": 5,
+          "laps": 70,
+          "status": "Finished",
+          "time": "+59.040",
+          "fastestLap": {
+            "rank": 8,
+            "lap": 54,
+            "time": "1:20.113"
+          }
+        },
+        {
+          "position": "6",
+          "positionText": "6",
+          "points": 8,
+          "driver": {
+            "driverId": "bortoleto",
+            "code": "BOR",
+            "givenName": "Gabriel",
+            "familyName": "Bortoleto",
+            "nationality": "Brazilian"
+          },
+          "constructor": {
+            "constructorId": "sauber",
+            "name": "Sauber",
+            "nationality": "Swiss"
+          },
+          "grid": 7,
+          "laps": 70,
+          "status": "Finished",
+          "time": "+1:06.169",
+          "fastestLap": {
+            "rank": 11,
+            "lap": 48,
+            "time": "1:20.705"
+          }
+        },
+        {
+          "position": "7",
+          "positionText": "7",
+          "points": 6,
+          "driver": {
+            "driverId": "stroll",
+            "code": "STR",
+            "givenName": "Lance",
+            "familyName": "Stroll",
+            "nationality": "Canadian"
+          },
+          "constructor": {
+            "constructorId": "aston_martin",
+            "name": "Aston Martin",
+            "nationality": "British"
+          },
+          "grid": 6,
+          "laps": 70,
+          "status": "Finished",
+          "time": "+1:08.174",
+          "fastestLap": {
+            "rank": 12,
+            "lap": 55,
+            "time": "1:20.708"
+          }
+        },
+        {
+          "position": "8",
+          "positionText": "8",
+          "points": 4,
+          "driver": {
+            "driverId": "lawson",
+            "code": "LAW",
+            "givenName": "Liam",
+            "familyName": "Lawson",
+            "nationality": "New Zealander"
+          },
+          "constructor": {
+            "constructorId": "rb",
+            "name": "RB F1 Team",
+            "nationality": "Italian"
+          },
+          "grid": 9,
+          "laps": 70,
+          "status": "Finished",
+          "time": "+1:09.451",
+          "fastestLap": {
+            "rank": 10,
+            "lap": 56,
+            "time": "1:20.457"
+          }
+        },
+        {
+          "position": "9",
+          "positionText": "9",
+          "points": 2,
+          "driver": {
+            "driverId": "max_verstappen",
+            "code": "VER",
+            "givenName": "Max",
+            "familyName": "Verstappen",
+            "nationality": "Dutch"
+          },
+          "constructor": {
+            "constructorId": "red_bull",
+            "name": "Red Bull",
+            "nationality": "Austrian"
+          },
+          "grid": 8,
+          "laps": 70,
+          "status": "Finished",
+          "time": "+1:12.645",
+          "fastestLap": {
+            "rank": 3,
+            "lap": 50,
+            "time": "1:19.576"
+          }
+        },
+        {
+          "position": "10",
+          "positionText": "10",
+          "points": 1,
+          "driver": {
+            "driverId": "antonelli",
+            "code": "ANT",
+            "givenName": "Andrea Kimi",
+            "familyName": "Antonelli",
+            "nationality": "Italian"
+          },
+          "constructor": {
+            "constructorId": "mercedes",
+            "name": "Mercedes",
+            "nationality": "German"
+          },
+          "grid": 15,
+          "laps": 69,
+          "status": "Lapped",
+          "time": "+7.649",
+          "fastestLap": {
+            "rank": 13,
+            "lap": 54,
+            "time": "1:20.745"
+          }
+        },
+        {
+          "position": "11",
+          "positionText": "11",
+          "points": 0,
+          "driver": {
+            "driverId": "hadjar",
+            "code": "HAD",
+            "givenName": "Isack",
+            "familyName": "Hadjar",
+            "nationality": "French"
+          },
+          "constructor": {
+            "constructorId": "rb",
+            "name": "RB F1 Team",
+            "nationality": "Italian"
+          },
+          "grid": 10,
+          "laps": 69,
+          "status": "Lapped",
+          "time": "+8.500",
+          "fastestLap": {
+            "rank": 15,
+            "lap": 48,
+            "time": "1:20.802"
+          }
+        }
+      ]
     }
   ],
   "finalELOs": {
@@ -6814,9 +7110,9 @@
       "globalElo": 2021
     },
     "russell": {
-      "qualifyingElo": 1953,
-      "raceElo": 1872,
-      "globalElo": 1893
+      "qualifyingElo": 1957,
+      "raceElo": 1877,
+      "globalElo": 1897
     },
     "albon": {
       "qualifyingElo": 1783,
@@ -6829,9 +7125,9 @@
       "globalElo": 1762
     },
     "alonso": {
-      "qualifyingElo": 1767,
-      "raceElo": 1711,
-      "globalElo": 1727
+      "qualifyingElo": 1774,
+      "raceElo": 1727,
+      "globalElo": 1741
     },
     "gasly": {
       "qualifyingElo": 1709,
@@ -6839,19 +7135,19 @@
       "globalElo": 1687
     },
     "norris": {
-      "qualifyingElo": 1703,
-      "raceElo": 1620,
-      "globalElo": 1645
-    },
-    "piastri": {
-      "qualifyingElo": 1675,
-      "raceElo": 1597,
-      "globalElo": 1621
+      "qualifyingElo": 1669,
+      "raceElo": 1650,
+      "globalElo": 1655
     },
     "hamilton": {
       "qualifyingElo": 1657,
       "raceElo": 1594,
       "globalElo": 1616
+    },
+    "piastri": {
+      "qualifyingElo": 1709,
+      "raceElo": 1567,
+      "globalElo": 1610
     },
     "sainz": {
       "qualifyingElo": 1667,
@@ -6868,11 +7164,6 @@
       "raceElo": 1527,
       "globalElo": 1550
     },
-    "hadjar": {
-      "qualifyingElo": 1570,
-      "raceElo": 1536,
-      "globalElo": 1545
-    },
     "tsunoda": {
       "qualifyingElo": 1555,
       "raceElo": 1530,
@@ -6883,35 +7174,40 @@
       "raceElo": 1528,
       "globalElo": 1526
     },
+    "hadjar": {
+      "qualifyingElo": 1519,
+      "raceElo": 1496,
+      "globalElo": 1501
+    },
     "hulkenberg": {
       "qualifyingElo": 1475,
       "raceElo": 1513,
       "globalElo": 1500
-    },
-    "stroll": {
-      "qualifyingElo": 1398,
-      "raceElo": 1530,
-      "globalElo": 1490
     },
     "colapinto": {
       "qualifyingElo": 1427,
       "raceElo": 1502,
       "globalElo": 1480
     },
+    "stroll": {
+      "qualifyingElo": 1391,
+      "raceElo": 1514,
+      "globalElo": 1476
+    },
+    "lawson": {
+      "qualifyingElo": 1379,
+      "raceElo": 1486,
+      "globalElo": 1455
+    },
     "antonelli": {
-      "qualifyingElo": 1501,
-      "raceElo": 1438,
-      "globalElo": 1457
+      "qualifyingElo": 1497,
+      "raceElo": 1433,
+      "globalElo": 1453
     },
     "doohan": {
       "qualifyingElo": 1477,
       "raceElo": 1436,
       "globalElo": 1449
-    },
-    "lawson": {
-      "qualifyingElo": 1328,
-      "raceElo": 1446,
-      "globalElo": 1412
     }
   }
 }
